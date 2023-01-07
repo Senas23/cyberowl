@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/01/2023 09:20:07 UTC
+ > Last Updated 07/01/2023 21:18:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -61,6 +61,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[XWiki CKEditor.HTMLConverter cross-site request forgery](https://vuldb.com/?id.217635)|Visit link for details|2023-01-07 at 20:55|
+ |[DrAzraelTod pyChao __init__.py lesen sql injection](https://vuldb.com/?id.217634)|Visit link for details|2023-01-07 at 20:49|
+ |[CESNET theme-cesnet resetpassword.php insufficiently protected credentials](https://vuldb.com/?id.217633)|Visit link for details|2023-01-07 at 20:47|
+ |[john5223 bottle-auth sql injection](https://vuldb.com/?id.217632)|Visit link for details|2023-01-07 at 20:44|
+ |[elgs gosqljson gosqljson.go ExecDb sql injection](https://vuldb.com/?id.217631)|Visit link for details|2023-01-07 at 20:43|
+ |[kelvinmo simplexrd simplexrd.class.php xml external entity reference](https://vuldb.com/?id.217630)|Visit link for details|2023-01-07 at 20:41|
+ |[MediaArea ZenLib Ztring.cpp Date_From_Seconds_1970_Local unknown vulnerability](https://vuldb.com/?id.217629)|Visit link for details|2023-01-07 at 20:39|
+ |[ForumHulp searchresults listener.php list_keywords sql injection](https://vuldb.com/?id.217628)|Visit link for details|2023-01-07 at 20:36|
+ |[Yomguithereal Baobab prototype pollution](https://vuldb.com/?id.217627)|Visit link for details|2023-01-07 at 20:33|
+ |[Symbiote Seed Login SecurityLoginExtension.php onBeforeSecurityLogin redirect](https://vuldb.com/?id.217626)|Visit link for details|2023-01-07 at 20:30|
  
  ---
 
@@ -81,24 +91,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[39650601/23 - Vulnérabilités dans Android](https://www.dgssi.gov.ma//fr/content/3965060123-vulnerabilites-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|06 janvier 2023|
- |[39640501/23 - Vulnérabilité critique affectant Zoho Password Manager Pro](https://www.dgssi.gov.ma//fr/content/3964050123-vulnerabilite-critique-affectant-zoho-password-manager-pro.html)|Zoho a publié un avis de sécurité pour corriger une vulnérabilité critique dans Password Manager Pro. Un attaquant pourrait exploiter cette vulnérabilité afin d’injecter des requêtes SQL personnalisées et d'accéder aux informations...|05 janvier 2023|
- |[39630501/23 - Vulnérabilités dans les produitsFortinet](https://www.dgssi.gov.ma//fr/content/3963050123-vulnerabilites-dans-les-produits-fortinet.html)|Fortinet a publié un avis de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant distant d'exécuter du code ou des commandes arbitraires non...|05 janvier 2023|
- |[39620401/23 - Vulnérabilité critique dans Synolgy VPN serveur](https://www.dgssi.gov.ma//fr/content/3962040123-vulnerabilite-critique-dans-synolgy-vpn-serveur.html)|Synology a corrigé une vulnérabilité critique affectant les routeurs configurés pour fonctionner comme des serveurs VPN. L’exploitation de cette faille peut permettre à un attaquant distant d'exécuter du code arbitraire.|04 janvier 2023|
- |[39613012/22 - Vulnérabilité critique dans plusieurs modèles de routeur Wi-Fi NETGEAR](https://www.dgssi.gov.ma//fr/content/3961301222-vulnerabilite-critique-dans-plusieurs-modeles-de-routeur-wi-fi-netgear.html)|Une vulnérabilité critique a été corrigée dans plusieurs modèles de routeur Wi-Fi NET-GEAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|30 décembre 2022|
- |[39602612/22 - Vulnérabilité critique dans le CMS Ghost ](https://www.dgssi.gov.ma//fr/content/3960261222-vulnerabilite-critique-dans-le-cms-ghost.html)|Une vulnérabilité critique a été corrigée dans le système d'abonnement aux newsletters du CMS Ghost. L'exploitation de cette faille pourrait permettre à des attaquants de créer ou de modifier des newsletters en insérant du code...|26 décembre 2022|
- |[39592012/22 - Vulnérabilité dans Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilite-dans-mozilla-thunderbird.html)|Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|22 décembre 2022|
- |[39602112/22 - Anciennes vulnérabilités des produits Cisco activement exploitées](https://www.dgssi.gov.ma//fr/content/3960211222-anciennes-vulnerabilites-des-produits-cisco-activement-exploitees.html)|Cisco a mis à jour plusieurs avis de sécurité pour signaler l'exploitation active de plusieurs anciennes vulnérabilités affectant ses produits. Les failles, dont certaines sont classées comme critiques, ont un impact sur les systèmes...|21 décembre 2022|
- |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
- |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
- |[39572012/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3957201222-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|20 décembre 2022|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -114,4 +106,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219" class="noirorange"><b>FortiManager</b>: privilege escalation via Passwordless Admin</a>](https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219)|An attacker can bypass restrictions of FortiManager, via Passwordless Admin, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218" class="noirorange"><b>rmt-server</b>: privilege escalation via pubcloud</a>](https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218)|An attacker can bypass restrictions of rmt-server, via pubcloud, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[39650601/23 - Vulnérabilités dans Android](https://www.dgssi.gov.ma//fr/content/3965060123-vulnerabilites-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|06 janvier 2023|
+ |[39640501/23 - Vulnérabilité critique affectant Zoho Password Manager Pro](https://www.dgssi.gov.ma//fr/content/3964050123-vulnerabilite-critique-affectant-zoho-password-manager-pro.html)|Zoho a publié un avis de sécurité pour corriger une vulnérabilité critique dans Password Manager Pro. Un attaquant pourrait exploiter cette vulnérabilité afin d’injecter des requêtes SQL personnalisées et d'accéder aux informations...|05 janvier 2023|
+ |[39630501/23 - Vulnérabilités dans les produitsFortinet](https://www.dgssi.gov.ma//fr/content/3963050123-vulnerabilites-dans-les-produits-fortinet.html)|Fortinet a publié un avis de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant distant d'exécuter du code ou des commandes arbitraires non...|05 janvier 2023|
+ |[39620401/23 - Vulnérabilité critique dans Synolgy VPN serveur](https://www.dgssi.gov.ma//fr/content/3962040123-vulnerabilite-critique-dans-synolgy-vpn-serveur.html)|Synology a corrigé une vulnérabilité critique affectant les routeurs configurés pour fonctionner comme des serveurs VPN. L’exploitation de cette faille peut permettre à un attaquant distant d'exécuter du code arbitraire.|04 janvier 2023|
+ |[39613012/22 - Vulnérabilité critique dans plusieurs modèles de routeur Wi-Fi NETGEAR](https://www.dgssi.gov.ma//fr/content/3961301222-vulnerabilite-critique-dans-plusieurs-modeles-de-routeur-wi-fi-netgear.html)|Une vulnérabilité critique a été corrigée dans plusieurs modèles de routeur Wi-Fi NET-GEAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|30 décembre 2022|
+ |[39602612/22 - Vulnérabilité critique dans le CMS Ghost ](https://www.dgssi.gov.ma//fr/content/3960261222-vulnerabilite-critique-dans-le-cms-ghost.html)|Une vulnérabilité critique a été corrigée dans le système d'abonnement aux newsletters du CMS Ghost. L'exploitation de cette faille pourrait permettre à des attaquants de créer ou de modifier des newsletters en insérant du code...|26 décembre 2022|
+ |[39592012/22 - Vulnérabilité dans Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilite-dans-mozilla-thunderbird.html)|Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|22 décembre 2022|
+ |[39602112/22 - Anciennes vulnérabilités des produits Cisco activement exploitées](https://www.dgssi.gov.ma//fr/content/3960211222-anciennes-vulnerabilites-des-produits-cisco-activement-exploitees.html)|Cisco a mis à jour plusieurs avis de sécurité pour signaler l'exploitation active de plusieurs anciennes vulnérabilités affectant ses produits. Les failles, dont certaines sont classées comme critiques, ont un impact sur les systèmes...|21 décembre 2022|
+ |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
+ |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
+ |[39572012/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3957201222-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|20 décembre 2022|
  
