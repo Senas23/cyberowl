@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/01/2023 09:19:44 UTC
+ > Last Updated 08/01/2023 21:18:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -89,6 +89,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[mrtnmtth joomla_mod_einsatz_stats helper.php getStatsByType sql injection](https://vuldb.com/?id.217653)|Visit link for details|2023-01-08 at 18:27|
+ |[FastCGI Connection resource consumption](https://vuldb.com/?id.217652)|Visit link for details|2023-01-08 at 18:24|
+ |[yanheven console tables.py AvailabilityZonesTable cross site scripting](https://vuldb.com/?id.217651)|Visit link for details|2023-01-08 at 18:22|
+ |[viafintech Barzahlen Payment Module PHP SDK Webhook.php verify timing discrepancy](https://vuldb.com/?id.217650)|Visit link for details|2023-01-08 at 18:20|
+ |[01-Scripts 01ACP cross site scripting](https://vuldb.com/?id.217649)|Visit link for details|2023-01-08 at 18:04|
+ |[purpleparrots 491-Project Highscore update.php sql injection](https://vuldb.com/?id.217648)|Visit link for details|2023-01-08 at 17:20|
+ |[lojban jbovlaste listing.html sql injection](https://vuldb.com/?id.217647)|Visit link for details|2023-01-08 at 13:29|
+ |[CapsAdmin PAC3 http.lua cross site scripting](https://vuldb.com/?id.217646)|Visit link for details|2023-01-08 at 13:28|
+ |[happyman twmap pointdata2.php sql injection](https://vuldb.com/?id.217645)|Visit link for details|2023-01-08 at 11:39|
+ |[saxman maps-js-icoads exposure of information through directory listing](https://vuldb.com/?id.217644)|Visit link for details|2023-01-08 at 11:34|
  
  ---
 
