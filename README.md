@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/01/2023 21:18:36 UTC
+ > Last Updated 08/01/2023 09:19:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,41 +36,17 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Discourse information disclosure (CVE-2022-46168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse security bypass (CVE-2022-46177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse information disclosure (CVE-2023-22453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse cross-site scripting (CVE-2023-22454)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse cross-site scripting (CVE-2023-22455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Qualcomm Snapdragon products code execution (CVE-2022-33218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Qualcomm Snapdragon products code execution (CVE-2022-33219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[XWiki CKEditor.HTMLConverter cross-site request forgery](https://vuldb.com/?id.217635)|Visit link for details|2023-01-07 at 20:55|
- |[DrAzraelTod pyChao __init__.py lesen sql injection](https://vuldb.com/?id.217634)|Visit link for details|2023-01-07 at 20:49|
- |[CESNET theme-cesnet resetpassword.php insufficiently protected credentials](https://vuldb.com/?id.217633)|Visit link for details|2023-01-07 at 20:47|
- |[john5223 bottle-auth sql injection](https://vuldb.com/?id.217632)|Visit link for details|2023-01-07 at 20:44|
- |[elgs gosqljson gosqljson.go ExecDb sql injection](https://vuldb.com/?id.217631)|Visit link for details|2023-01-07 at 20:43|
- |[kelvinmo simplexrd simplexrd.class.php xml external entity reference](https://vuldb.com/?id.217630)|Visit link for details|2023-01-07 at 20:41|
- |[MediaArea ZenLib Ztring.cpp Date_From_Seconds_1970_Local unknown vulnerability](https://vuldb.com/?id.217629)|Visit link for details|2023-01-07 at 20:39|
- |[ForumHulp searchresults listener.php list_keywords sql injection](https://vuldb.com/?id.217628)|Visit link for details|2023-01-07 at 20:36|
- |[Yomguithereal Baobab prototype pollution](https://vuldb.com/?id.217627)|Visit link for details|2023-01-07 at 20:33|
- |[Symbiote Seed Login SecurityLoginExtension.php onBeforeSecurityLogin redirect](https://vuldb.com/?id.217626)|Visit link for details|2023-01-07 at 20:30|
+ |[Apache James MIME4J information disclosure (CVE-2022-45787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Apache James server information disclosure (CVE-2022-45935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for Windows installers privilege escalation (CVE-2022-36930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for Windows clients privilege escalation (CVE-2022-36929)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom for Android clients directory traversal (CVE-2022-36928)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for macOS privilege escalation (CVE-2022-36927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for macOS privilege escalation (CVE-2022-36926)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
  
  ---
 
@@ -109,6 +85,13 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -124,4 +107,11 @@
  |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
  |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
  |[39572012/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3957201222-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|20 décembre 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
