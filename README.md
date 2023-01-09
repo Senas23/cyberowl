@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/01/2023 21:18:56 UTC
+ > Last Updated 09/01/2023 09:22:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,23 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/22/cisa-releases-four-industrial-control-systems-advisories)|<p>CISA released four Industrial Control Systems (ICS) advisories on December 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, December 22, 2022|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/20/cisa-releases-six-industrial-control-systems-advisories)|<p>CISA released six Industrial Control Systems (ICS) advisories on December 20, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, December 20, 2022|
  |[Samba Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/16/samba-releases-security-updates)|<p>The Samba Team has released security updates to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p>|Friday, December 16, 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[kaltura mwEmbed Share Plugin share.js cross site scripting](https://vuldb.com/?id.217664)|Visit link for details|2023-01-09 at 09:55|
+ |[HealthMateWeb createaccount.php cross site scripting](https://vuldb.com/?id.217663)|Visit link for details|2023-01-09 at 09:50|
+ |[01-Scripts 01-Artikelsystem 01article.php cross site scripting](https://vuldb.com/?id.217662)|Visit link for details|2023-01-09 at 09:45|
+ |[Information Cards Module cross site scripting](https://vuldb.com/?id.217661)|Visit link for details|2023-01-09 at 08:20|
+ |[Apache Sling CMS Group Details cross site scripting](https://vuldb.com/?id.217660)|Visit link for details|2023-01-09 at 08:17|
+ |[JFrog Artifactory Request insufficient privileges](https://vuldb.com/?id.217659)|Visit link for details|2023-01-09 at 08:17|
+ |[wifey connect command injection](https://vuldb.com/?id.217658)|Visit link for details|2023-01-09 at 08:16|
+ |[OpenHarmony Communication Subsystem softbus_client_stub improper authentication](https://vuldb.com/?id.217657)|Visit link for details|2023-01-09 at 08:16|
+ |[OpenHarmony misc Subsystem platform_callback_stub improper authentication](https://vuldb.com/?id.217656)|Visit link for details|2023-01-09 at 08:16|
+ |[OpenHarmony Kernel Subsystem kernel_liteos_a stack-based overflow](https://vuldb.com/?id.217655)|Visit link for details|2023-01-09 at 08:15|
  
  ---
 
@@ -67,38 +84,10 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-function-mailto-php-40228" class="noirorange"><b>Smarty</b>: Cross Site Scripting via function.mailto.php</a>](https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-function-mailto-php-40228)|An attacker can trigger a Cross Site Scripting of Smarty, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-get-vaddr-frames-40227" class="noirorange"><b>Linux kernel</b>: reuse after free via get_vaddr_frames()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-get-vaddr-frames-40227)|An attacker can force the reuse of a freed memory area of the Linux kernel, via get_vaddr_frames(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-SQL-injection-via-PDO-quote-40226" class="noirorange"><b>PHP</b>: SQL injection via PDO::quote()</a>](https://vigilance.fr/vulnerability/PHP-SQL-injection-via-PDO-quote-40226)|An attacker can use a SQL injection of PHP, via PDO::quote(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-three-vulnerabilities-40225" class="noirorange"><b>Dell Unisphere for PowerMax</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-three-vulnerabilities-40225)|An attacker can use several vulnerabilities of Dell Unisphere for PowerMax...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-msg-puts-printf-40224" class="noirorange"><b>Vim</b>: buffer overflow via msg_puts_printf()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-msg-puts-printf-40224)|An attacker can trigger a buffer overflow of Vim, via msg_puts_printf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-Status-Line-Percent-Zero-40223" class="noirorange"><b>Vim</b>: out-of-bounds memory reading via Status Line Percent Zero</a>](https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-Status-Line-Percent-Zero-40223)|An attacker can force a read at an invalid memory address of Vim, via Status Line Percent Zero, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-CIFS-ENCPWD-SIZE-40222" class="noirorange"><b>Linux kernel</b>: buffer overflow via ksmbd CIFS_ENCPWD_SIZE</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-CIFS-ENCPWD-SIZE-40222)|An attacker can trigger a buffer overflow of the Linux kernel, via ksmbd CIFS_ENCPWD_SIZE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221" class="noirorange"><b>ReFirm Labs binwalk</b>: file corruption via extractor.py</a>](https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of ReFirm Labs binwalk, via extractor.py...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219" class="noirorange"><b>FortiManager</b>: privilege escalation via Passwordless Admin</a>](https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219)|An attacker can bypass restrictions of FortiManager, via Passwordless Admin, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218" class="noirorange"><b>rmt-server</b>: privilege escalation via pubcloud</a>](https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218)|An attacker can bypass restrictions of rmt-server, via pubcloud, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[mrtnmtth joomla_mod_einsatz_stats helper.php getStatsByType sql injection](https://vuldb.com/?id.217653)|Visit link for details|2023-01-08 at 18:27|
- |[FastCGI Connection resource consumption](https://vuldb.com/?id.217652)|Visit link for details|2023-01-08 at 18:24|
- |[yanheven console tables.py AvailabilityZonesTable cross site scripting](https://vuldb.com/?id.217651)|Visit link for details|2023-01-08 at 18:22|
- |[viafintech Barzahlen Payment Module PHP SDK Webhook.php verify timing discrepancy](https://vuldb.com/?id.217650)|Visit link for details|2023-01-08 at 18:20|
- |[01-Scripts 01ACP cross site scripting](https://vuldb.com/?id.217649)|Visit link for details|2023-01-08 at 18:04|
- |[purpleparrots 491-Project Highscore update.php sql injection](https://vuldb.com/?id.217648)|Visit link for details|2023-01-08 at 17:20|
- |[lojban jbovlaste listing.html sql injection](https://vuldb.com/?id.217647)|Visit link for details|2023-01-08 at 13:29|
- |[CapsAdmin PAC3 http.lua cross site scripting](https://vuldb.com/?id.217646)|Visit link for details|2023-01-08 at 13:28|
- |[happyman twmap pointdata2.php sql injection](https://vuldb.com/?id.217645)|Visit link for details|2023-01-08 at 11:39|
- |[saxman maps-js-icoads exposure of information through directory listing](https://vuldb.com/?id.217644)|Visit link for details|2023-01-08 at 11:34|
  
  ---
 
@@ -120,8 +109,19 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-function-mailto-php-40228" class="noirorange"><b>Smarty</b>: Cross Site Scripting via function.mailto.php</a>](https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-function-mailto-php-40228)|An attacker can trigger a Cross Site Scripting of Smarty, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-get-vaddr-frames-40227" class="noirorange"><b>Linux kernel</b>: reuse after free via get_vaddr_frames()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-get-vaddr-frames-40227)|An attacker can force the reuse of a freed memory area of the Linux kernel, via get_vaddr_frames(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-SQL-injection-via-PDO-quote-40226" class="noirorange"><b>PHP</b>: SQL injection via PDO::quote()</a>](https://vigilance.fr/vulnerability/PHP-SQL-injection-via-PDO-quote-40226)|An attacker can use a SQL injection of PHP, via PDO::quote(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-three-vulnerabilities-40225" class="noirorange"><b>Dell Unisphere for PowerMax</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-three-vulnerabilities-40225)|An attacker can use several vulnerabilities of Dell Unisphere for PowerMax...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-msg-puts-printf-40224" class="noirorange"><b>Vim</b>: buffer overflow via msg_puts_printf()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-msg-puts-printf-40224)|An attacker can trigger a buffer overflow of Vim, via msg_puts_printf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-Status-Line-Percent-Zero-40223" class="noirorange"><b>Vim</b>: out-of-bounds memory reading via Status Line Percent Zero</a>](https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-Status-Line-Percent-Zero-40223)|An attacker can force a read at an invalid memory address of Vim, via Status Line Percent Zero, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-CIFS-ENCPWD-SIZE-40222" class="noirorange"><b>Linux kernel</b>: buffer overflow via ksmbd CIFS_ENCPWD_SIZE</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-CIFS-ENCPWD-SIZE-40222)|An attacker can trigger a buffer overflow of the Linux kernel, via ksmbd CIFS_ENCPWD_SIZE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221" class="noirorange"><b>ReFirm Labs binwalk</b>: file corruption via extractor.py</a>](https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of ReFirm Labs binwalk, via extractor.py...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219" class="noirorange"><b>FortiManager</b>: privilege escalation via Passwordless Admin</a>](https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219)|An attacker can bypass restrictions of FortiManager, via Passwordless Admin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218" class="noirorange"><b>rmt-server</b>: privilege escalation via pubcloud</a>](https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218)|An attacker can bypass restrictions of rmt-server, via pubcloud, in order to escalate his privileges...|Visit link for details|
  
