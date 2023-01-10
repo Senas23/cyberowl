@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/01/2023 21:19:33 UTC
+ > Last Updated 10/01/2023 09:23:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,7 +36,7 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -47,13 +47,48 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[WithSecure F-Secure Policy Manager for Windows and Linux cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 9, 2023|
  |[CapsAdmin PAC3 cross-site scripting (CVE-2022-4881)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 8, 2023|
- |[Digital Arts m-FILTER denial of service (CVE-2023-22278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
- |[Apache James MIME4J information disclosure (CVE-2022-45787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
- |[Apache James server information disclosure (CVE-2022-45935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
- |[Zoom Rooms for Windows installers privilege escalation (CVE-2022-36930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
- |[Zoom Rooms for Windows clients privilege escalation (CVE-2022-36929)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
- |[Zoom for Android clients directory traversal (CVE-2022-36928)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[OpenUtau directory traversal (CVE-2022-4880)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 7, 2023|
+ |[Netis Netcore Routers information disclosure (CVE-2023-0114)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 7, 2023|
+ |[Netis Netcore Routers information disclosure (CVE-2023-0113)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 7, 2023|
+ |[JATOS directory traversal (CVE-2022-4878)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Forged Alliance Forever security bypass (CVE-2022-4879)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[KubeOperator KubePi System API improper authorization](https://vuldb.com/?id.217763)|Visit link for details|2023-01-10 at 09:05|
+ |[KubeOperator KubePi session fixiation](https://vuldb.com/?id.217762)|Visit link for details|2023-01-10 at 09:04|
+ |[okta oidc-middlewareOpen redirect](https://vuldb.com/?id.217761)|Visit link for details|2023-01-10 at 09:04|
+ |[KubeOperator System API improper authorization](https://vuldb.com/?id.217760)|Visit link for details|2023-01-10 at 09:03|
+ |[git Gem deserialization](https://vuldb.com/?id.217759)|Visit link for details|2023-01-10 at 09:03|
+ |[SAP SAP NetWeaver Application Server ABAP Keyword Documentation cross site scripting](https://vuldb.com/?id.217758)|Visit link for details|2023-01-10 at 08:58|
+ |[SAP BusinessObjects Business Intelligence Analysis Edition for OLAP code injection](https://vuldb.com/?id.217757)|Visit link for details|2023-01-10 at 08:58|
+ |[SAP BPC MS sql injection](https://vuldb.com/?id.217756)|Visit link for details|2023-01-10 at 08:58|
+ |[Royal Elementor Addons Plugin cross-site request forgery](https://vuldb.com/?id.217755)|Visit link for details|2023-01-10 at 08:57|
+ |[SAP Bank Account Management Manage Banks information disclosure](https://vuldb.com/?id.217754)|Visit link for details|2023-01-10 at 08:57|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-KVM-nVMX-IBPB-eIBRS-40232" class="noirorange"><b>Linux kernel</b>: privilege escalation via KVM nVMX IBPB eIBRS</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-KVM-nVMX-IBPB-eIBRS-40232)|An attacker can bypass restrictions of the Linux kernel, via KVM nVMX IBPB eIBRS, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-do-semtimedop-40231" class="noirorange"><b>Linux kernel</b>: reuse after free via __do_semtimedop()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-do-semtimedop-40231)|An attacker can force the reuse of a freed memory area of the Linux kernel, via __do_semtimedop(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-qs-denial-of-service-via-proto-Key-40230" class="noirorange"><b>Node.js qs</b>: denial of service via __proto__ Key</a>](https://vigilance.fr/vulnerability/Node-js-qs-denial-of-service-via-proto-Key-40230)|An attacker can cause a fatal error of Node.js qs, via __proto__ Key, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-function-mailto-php-40228" class="noirorange"><b>Smarty</b>: Cross Site Scripting via function.mailto.php</a>](https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-function-mailto-php-40228)|An attacker can trigger a Cross Site Scripting of Smarty, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-get-vaddr-frames-40227" class="noirorange"><b>Linux kernel</b>: reuse after free via get_vaddr_frames()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-get-vaddr-frames-40227)|An attacker can force the reuse of a freed memory area of the Linux kernel, via get_vaddr_frames(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-SQL-injection-via-PDO-quote-40226" class="noirorange"><b>PHP</b>: SQL injection via PDO::quote()</a>](https://vigilance.fr/vulnerability/PHP-SQL-injection-via-PDO-quote-40226)|An attacker can use a SQL injection of PHP, via PDO::quote(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-three-vulnerabilities-40225" class="noirorange"><b>Dell Unisphere for PowerMax</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-three-vulnerabilities-40225)|An attacker can use several vulnerabilities of Dell Unisphere for PowerMax...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-msg-puts-printf-40224" class="noirorange"><b>Vim</b>: buffer overflow via msg_puts_printf()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-msg-puts-printf-40224)|An attacker can trigger a buffer overflow of Vim, via msg_puts_printf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-Status-Line-Percent-Zero-40223" class="noirorange"><b>Vim</b>: out-of-bounds memory reading via Status Line Percent Zero</a>](https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-Status-Line-Percent-Zero-40223)|An attacker can force a read at an invalid memory address of Vim, via Status Line Percent Zero, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-CIFS-ENCPWD-SIZE-40222" class="noirorange"><b>Linux kernel</b>: buffer overflow via ksmbd CIFS_ENCPWD_SIZE</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-CIFS-ENCPWD-SIZE-40222)|An attacker can trigger a buffer overflow of the Linux kernel, via ksmbd CIFS_ENCPWD_SIZE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221" class="noirorange"><b>ReFirm Labs binwalk</b>: file corruption via extractor.py</a>](https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of ReFirm Labs binwalk, via extractor.py...|Visit link for details|
  
  ---
 
@@ -74,24 +109,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-do-semtimedop-40231" class="noirorange"><b>Linux kernel</b>: reuse after free via __do_semtimedop()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-do-semtimedop-40231)|An attacker can force the reuse of a freed memory area of the Linux kernel, via __do_semtimedop(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-qs-denial-of-service-via-proto-Key-40230" class="noirorange"><b>Node.js qs</b>: denial of service via __proto__ Key</a>](https://vigilance.fr/vulnerability/Node-js-qs-denial-of-service-via-proto-Key-40230)|An attacker can cause a fatal error of Node.js qs, via __proto__ Key, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-function-mailto-php-40228" class="noirorange"><b>Smarty</b>: Cross Site Scripting via function.mailto.php</a>](https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-function-mailto-php-40228)|An attacker can trigger a Cross Site Scripting of Smarty, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-get-vaddr-frames-40227" class="noirorange"><b>Linux kernel</b>: reuse after free via get_vaddr_frames()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-get-vaddr-frames-40227)|An attacker can force the reuse of a freed memory area of the Linux kernel, via get_vaddr_frames(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-SQL-injection-via-PDO-quote-40226" class="noirorange"><b>PHP</b>: SQL injection via PDO::quote()</a>](https://vigilance.fr/vulnerability/PHP-SQL-injection-via-PDO-quote-40226)|An attacker can use a SQL injection of PHP, via PDO::quote(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-three-vulnerabilities-40225" class="noirorange"><b>Dell Unisphere for PowerMax</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-three-vulnerabilities-40225)|An attacker can use several vulnerabilities of Dell Unisphere for PowerMax...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-msg-puts-printf-40224" class="noirorange"><b>Vim</b>: buffer overflow via msg_puts_printf()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-msg-puts-printf-40224)|An attacker can trigger a buffer overflow of Vim, via msg_puts_printf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-Status-Line-Percent-Zero-40223" class="noirorange"><b>Vim</b>: out-of-bounds memory reading via Status Line Percent Zero</a>](https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-Status-Line-Percent-Zero-40223)|An attacker can force a read at an invalid memory address of Vim, via Status Line Percent Zero, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-CIFS-ENCPWD-SIZE-40222" class="noirorange"><b>Linux kernel</b>: buffer overflow via ksmbd CIFS_ENCPWD_SIZE</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-CIFS-ENCPWD-SIZE-40222)|An attacker can trigger a buffer overflow of the Linux kernel, via ksmbd CIFS_ENCPWD_SIZE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221" class="noirorange"><b>ReFirm Labs binwalk</b>: file corruption via extractor.py</a>](https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of ReFirm Labs binwalk, via extractor.py...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -107,11 +124,4 @@
  |[39602112/22 - Anciennes vulnérabilités des produits Cisco activement exploitées](https://www.dgssi.gov.ma//fr/content/3960211222-anciennes-vulnerabilites-des-produits-cisco-activement-exploitees.html)|Cisco a mis à jour plusieurs avis de sécurité pour signaler l'exploitation active de plusieurs anciennes vulnérabilités affectant ses produits. Les failles, dont certaines sont classées comme critiques, ont un impact sur les systèmes...|21 décembre 2022|
  |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
  |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
