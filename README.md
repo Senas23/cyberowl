@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/01/2023 21:21:57 UTC
+ > Last Updated 11/01/2023 09:25:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,26 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, January 10, 2023|
+ |[Microsoft Releases January 2023 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/microsoft-releases-january-2023-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, January 10, 2023|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Tuesday, January 10, 2023|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA released two Industrial Control Systems (ICS) advisories on January 10, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, January 10, 2023|
  |[CISA Releases Three Industrial Systems Control Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/05/cisa-releases-three-industrial-systems-control-advisories)|<p>CISA released three Industrial Control Systems (ICS) advisories on January 5, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, January 5, 2023|
  |[Fortinet Releases Security Updates for FortiADC](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/04/fortinet-releases-security-updates-fortiadc)|<p>Fortinet has released a security advisory to address a vulnerability in multiple versions of FortiADC. This vulnerability may allow a remote attacker “to execute unauthorized code or commands via specifically crafted HTTP requests.”</p>|Wednesday, January 4, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/29/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, December 29, 2022|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/22/cisa-releases-four-industrial-control-systems-advisories)|<p>CISA released four Industrial Control Systems (ICS) advisories on December 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, December 22, 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens JT Open Toolkit, Siemens JT Utilities, and Siemens Solid Edge code execution (CVE-2022-47935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[Siemens Solid Edge code execution (CVE-2022-47967)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[Siemens SINEC INS directory traversal (CVE-2022-45092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[Siemens SINEC INS directory traversal (CVE-2022-45093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[Siemens SINEC INS code execution (CVE-2022-45094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[Siemens Mendix SAML Module cross-site scripting (CVE-2022-46823)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[Microsoft 3D Builder code execution (CVE-2023-21793)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
  
  ---
 
@@ -71,23 +57,30 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[WP Tabs Plugin Shortcode cross site scripting](https://vuldb.com/?id.217910)|Visit link for details|2023-01-10 at 22:19|
- |[WP Social Widget Plugin Shortcode cross site scripting](https://vuldb.com/?id.217909)|Visit link for details|2023-01-10 at 22:18|
- |[CPO Companion Plugin Shortcode cross site scripting](https://vuldb.com/?id.217908)|Visit link for details|2023-01-10 at 22:18|
- |[Post Grid, Post Carousel, & List Category Posts Plugin Shortcode cross site scripting](https://vuldb.com/?id.217907)|Visit link for details|2023-01-10 at 22:18|
- |[Posts List Designer by Category Plugin Shortcode cross site scripting](https://vuldb.com/?id.217906)|Visit link for details|2023-01-10 at 22:16|
- |[News & Blog Designer Pack Plugin Shortcode cross site scripting](https://vuldb.com/?id.217905)|Visit link for details|2023-01-10 at 22:16|
- |[Spitfire CMS code injection](https://vuldb.com/?id.217904)|Visit link for details|2023-01-10 at 22:14|
- |[CPO Companion Plugin Setting cross site scripting](https://vuldb.com/?id.217903)|Visit link for details|2023-01-10 at 22:14|
- |[Royal Elementor Addons Plugin data_fetch cross site scripting](https://vuldb.com/?id.217902)|Visit link for details|2023-01-10 at 22:14|
- |[Royal Elementor Addons Plugin wpr_create_mega_menu_template cross-site request forgery](https://vuldb.com/?id.217901)|Visit link for details|2023-01-10 at 22:14|
+ |[Flarum Post Mention access control](https://vuldb.com/?id.217968)|Visit link for details|2023-01-11 at 09:05|
+ |[Flarum Notification information disclosure](https://vuldb.com/?id.217967)|Visit link for details|2023-01-11 at 09:04|
+ |[flarum Reply access control](https://vuldb.com/?id.217966)|Visit link for details|2023-01-11 at 09:04|
+ |[ACI_Escola sql injection](https://vuldb.com/?id.217965)|Visit link for details|2023-01-11 at 07:40|
+ |[Syracom Secure Login Plugin pinvalidation improper authentication](https://vuldb.com/?id.217964)|Visit link for details|2023-01-11 at 07:39|
+ |[Shibboleth-sp Installation uncontrolled search path](https://vuldb.com/?id.217963)|Visit link for details|2023-01-11 at 07:38|
+ |[zephyrproject-rtos Zephyr Slot 0 information disclosure](https://vuldb.com/?id.217962)|Visit link for details|2023-01-11 at 07:37|
+ |[zephyrproject-rtos Zephyr USB Device Bluetooth net_buf_add_mem buffer overflow](https://vuldb.com/?id.217961)|Visit link for details|2023-01-11 at 07:37|
+ |[GrowthExperiments Extension growthmanagementorlist API access control](https://vuldb.com/?id.217960)|Visit link for details|2023-01-11 at 07:36|
+ |[ZyXEL GS1920-24v2 HTTP Request unusual condition](https://vuldb.com/?id.217959)|Visit link for details|2023-01-11 at 07:36|
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[Intel C++ Compiler Classic privilege escalation (CVE-2022-41342)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
+ |[Intel oneAPI DPC++/C++ Compiler privilege escalation (CVE-2022-38136)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
+ |[Intel oneAPI DPC++/C++ Compiler privilege escalation (CVE-2022-40196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
+ |[Siemens JT Open Toolkit, Siemens JT Utilities, and Siemens Solid Edge code execution (CVE-2022-47935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
+ |[Siemens Solid Edge code execution (CVE-2022-47967)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
+ |[Asus RT-AX82U security bypass (CVE-2022-35401)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
  
  ---
 
@@ -95,17 +88,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40257" class="noirorange"><b>Avast Antivirus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40257)|An attacker can bypass restrictions of Avast Antivirus, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40256" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via Malware Removal</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40256)|An attacker can bypass restrictions of Avast Antivirus, via Malware Removal, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40255" class="noirorange"><b>Avast Antivirus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40255)|An attacker can bypass restrictions of Avast Antivirus, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40254" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via Malware Removal</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40254)|An attacker can bypass restrictions of Avast Antivirus, via Malware Removal, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Shibboleth-Service-Provider-privilege-escalation-via-opt-shibboleth-sp-40253" class="noirorange"><b>Shibboleth Service Provider</b>: privilege escalation via /opt/shibboleth-sp</a>](https://vigilance.fr/vulnerability/Shibboleth-Service-Provider-privilege-escalation-via-opt-shibboleth-sp-40253)|An attacker can bypass restrictions of Shibboleth Service Provider, via /opt/shibboleth-sp, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-MBEDTLS-MPI-WINDOW-SIZE-Less-Than-Three-40252" class="noirorange"><b>Mbed TLS</b>: information disclosure via <wbr>MBEDTLS_MPI_WINDOW_S<wbr>IZE Less Than Three</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-MBEDTLS-MPI-WINDOW-SIZE-Less-Than-Three-40252)|An attacker can bypass access restrictions to data of Mbed TLS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fluentd-code-execution-via-FLUENT-OJ-OPTION-MODE-40251" class="noirorange"><b>Fluentd</b>: code execution via <wbr>FLUENT_OJ_OPTION_MOD<wbr>E</wbr></wbr></a>](https://vigilance.fr/vulnerability/Fluentd-code-execution-via-FLUENT-OJ-OPTION-MODE-40251)|An attacker can use a vulnerability of Fluentd, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-40250" class="noirorange"><b>Adobe Acrobat  Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-40250)|An attacker can use several vulnerabilities of Adobe Acrobat  Reader...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40249" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40249)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2023-40248" class="noirorange"><b>Windows</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2023-40248)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-January-2023-40247" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-January-2023-40247)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-January-2023-40246" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-January-2023-40246)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-January-2023-40245" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-January-2023-40245)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-6-0-denial-of-service-40244" class="noirorange"><b>Microsoft .NET 6.0</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-NET-6-0-denial-of-service-40244)|An attacker can cause a fatal error of Microsoft .NET 6.0, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sinatra-file-reading-via-Content-Disposition-Header-40243" class="noirorange"><b>Sinatra</b>: file reading via Content-Disposition Header</a>](https://vigilance.fr/vulnerability/Sinatra-file-reading-via-Content-Disposition-Header-40243)|An attacker can read a file of Sinatra, via Content-Disposition Header, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Exiv2-Internal-Nikon1MakerNote-print0x0088-40242" class="noirorange"><b>Exiv2</b>: out-of-bounds memory reading via <wbr>Exiv2::Internal::Nik<wbr>on1MakerNote::print0<wbr>x0088()</wbr></wbr></wbr></a>](https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Exiv2-Internal-Nikon1MakerNote-print0x0088-40242)|An attacker can force a read at an invalid memory address of Exiv2, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Exiv2-MrwImage-readMetadata-40241" class="noirorange"><b>Exiv2</b>: out-of-bounds memory reading via <wbr>Exiv2::MrwImage::rea<wbr>dMetadata()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Exiv2-MrwImage-readMetadata-40241)|An attacker can force a read at an invalid memory address of Exiv2, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Exiv2-PngImage-readMetadata-40240" class="noirorange"><b>Exiv2</b>: out-of-bounds memory reading via <wbr>Exiv2::PngImage::rea<wbr>dMetadata()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Exiv2-PngImage-readMetadata-40240)|An attacker can force a read at an invalid memory address of Exiv2, via |Visit link for details|
  
  ---
 
@@ -124,4 +117,11 @@
  |[39592012/22 - Vulnérabilité dans Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilite-dans-mozilla-thunderbird.html)|Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|22 décembre 2022|
  |[39602112/22 - Anciennes vulnérabilités des produits Cisco activement exploitées](https://www.dgssi.gov.ma//fr/content/3960211222-anciennes-vulnerabilites-des-produits-cisco-activement-exploitees.html)|Cisco a mis à jour plusieurs avis de sécurité pour signaler l'exploitation active de plusieurs anciennes vulnérabilités affectant ses produits. Les failles, dont certaines sont classées comme critiques, ont un impact sur les systèmes...|21 décembre 2022|
  |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
