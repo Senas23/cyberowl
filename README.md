@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/01/2023 21:20:14 UTC
+ > Last Updated 13/01/2023 09:23:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,12 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Juniper Networks Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/juniper-networks-releases-security-updates-multiple-products)|<p>Juniper Networks has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p>|Thursday, January 12, 2023|
  |[Drupal Releases Security Update to Address Vulnerability in Private Taxonomy Terms](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/drupal-releases-security-update-address-vulnerability-private)|<p>Drupal has released a security update to address a vulnerability affecting private vocabulary modules for Drupal 8.x. An unauthorized user could exploit this vulnerability to bypass access permissions to create, modify, and delete private vocabulary terms.</p>|Thursday, January 12, 2023|
  |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/cisa-releases-twelve-industrial-control-systems-advisories)|<p>CISA released twelve Industrial Control Systems (ICS) advisories on January 12, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. </p>|Thursday, January 12, 2023|
  |[NCSC-UK Releases Guidance on Using MSP for Administering Cloud Services](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/11/ncsc-uk-releases-guidance-using-msp-administering-cloud-services)|<p>The United Kingdom’s National Cyber Security Centre (NCSC-UK) has released a blog post, <a href="https://www.ncsc.gov.uk/blog-post/using-msps-to-administer-your-cloud-services">Using MSPs to administer your cloud services</a>, that provides organizations security considerations for using a third party, such as a managed service provider (MSP), to administer cloud services. Contracting with an MSP for cloud service management has become an increasingly appealing option for organizations.</p>|Wednesday, January 11, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, January 10, 2023|
  |[Microsoft Releases January 2023 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/microsoft-releases-january-2023-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, January 10, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Tuesday, January 10, 2023|
  
  ---
 
@@ -43,24 +43,24 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[MAHO-PBX OS cross-site request forgery (CVE-2023-22286)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2023|
- |[Cisco Small Business RV016, RV042, RV042G, and RV082 Routers command execution (CVE-2023-20026)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
- |[Cisco Small Business RV016, RV042, RV042G, and RV082 Routers security bypass (CVE-2023-20025)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
- |[Zyxel NR7101 command execution (CVE-2022-43389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
- |[Zyxel NR7101 command execution (CVE-2022-43390)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
- |[Zyxel NR7101 denial of service (CVE-2022-43391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SAUTER Controls security bypass (CVE-2023-0052)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2023|
+ |[Hitachi Energy Lumada APM security bypass (CVE-2022-2155)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2023|
+ |[Sewio RTLS denial of service (CVE-2022-43455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2023|
+ |[Sewio RTLS cross-site scripting (CVE-2022-46733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2023|
+ |[Sewio RTLS cross-site request forgery (CVE-2022-47395)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2023|
+ |[Sewio RTLS cross-site request forgery (CVE-2022-45127)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2023|
+ |[Sewio RTLS code execution (CVE-2022-41989)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2023|
  
  ---
 
@@ -85,6 +85,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40277" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40277)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-setup-auth-40276" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_setup_auth()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-setup-auth-40276)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nvmet_setup_auth(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Charmers-Future-denial-of-service-via-Set-Cookie-Header-40275" class="noirorange"><b>Python Charmers Future</b>: denial of service via Set-Cookie Header</a>](https://vigilance.fr/vulnerability/Python-Charmers-Future-denial-of-service-via-Set-Cookie-Header-40275)|An attacker can cause a fatal error of Python Charmers Future, via Set-Cookie Header, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-TCP-Port-0-Pf-Divert-to-Rule-40274" class="noirorange"><b>OpenBSD</b>: denial of service via TCP Port 0 Pf Divert-to Rule</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-TCP-Port-0-Pf-Divert-to-Rule-40274)|An attacker can cause a fatal error of OpenBSD, via TCP Port 0 Pf Divert-to Rule, in order to trigger a denial of service...|Visit link for details|
@@ -95,7 +96,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Netty-denial-of-service-via-HAProxyMessageDecoder-40268" class="noirorange"><b>Netty</b>: denial of service via <wbr>HAProxyMessageDecode<wbr>r</wbr></wbr></a>](https://vigilance.fr/vulnerability/Netty-denial-of-service-via-HAProxyMessageDecoder-40268)|An attacker can cause a fatal error of Netty, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/XStream-denial-of-service-via-Recursive-Map-Collections-40267" class="noirorange"><b>XStream</b>: denial of service via Recursive Map Collections</a>](https://vigilance.fr/vulnerability/XStream-denial-of-service-via-Recursive-Map-Collections-40267)|An attacker can cause a fatal error of XStream, via Recursive Map Collections, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-40266" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-40266)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-privilege-escalation-via-Web-based-Management-Interface-40265" class="noirorange"><b>Cisco IP Phone 7800/8800</b>: privilege escalation via Web-based Management Interface</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-privilege-escalation-via-Web-based-Management-Interface-40265)|An attacker can bypass restrictions of Cisco IP Phone 7800/8800, via Web-based Management Interface, in order to escalate his privileges...|Visit link for details|
  
  ---
 
@@ -103,6 +103,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39741301/23 - Vulnérabilités dans les produits Siemens](https://www.dgssi.gov.ma//fr/content/3974130123-vulnerabilites-dans-les-produits-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|13 janvier 2023|
  |[39751201/23 - Vulnérabilité critique affectant le logiciel desurveillance réseau Cacti](https://www.dgssi.gov.ma//fr/content/3975120123-vulnerabilite-critique-affectant-le-logiciel-de-surveillance-reseau-cacti.html)|Des chercheurs en sécurité informatique annoncent la découverte d’une vulnérabilité critique affectant le logiciel de surveillance réseau Cacti.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du...|12 janvier 2023|
  |[39741201/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3974120123-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’accéder à des informations confidentielles, d’...|12 janvier 2023|
  |[39731201/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3973120123-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 janvier 2023|
@@ -113,5 +114,4 @@
  |[39701201/23 - Vulnérabilités critiques affectant Zoom](https://www.dgssi.gov.ma//fr/content/3970120123-vulnerabilites-critiques-affectant-zoom.html)|Zoom annonce la correction de plusieurs vulnérabilités affectant certains de ses produits. L'exploita-tion de ces vulnérabilités peut permettre à un attaquantlocal d’élever ses privilèges ou d’accéder à des données confidentielles.|12 janvier 2023|
  |[39691201/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3969120123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|12 janvier 2023|
  |[39681201/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/3968120123-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 janvier 2023|
- |[39671001/23 - Vulnérabilités dans les produitsNextcloud](https://www.dgssi.gov.ma//fr/content/3967100123-vulnerabilites-dans-les-produits-nextcloud.html)|Nextcloud a publié un avis de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de service, de contourner la politique de...|10 janvier 2023|
  
