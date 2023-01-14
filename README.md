@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/01/2023 09:19:01 UTC
+ > Last Updated 14/01/2023 21:19:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,27 +33,6 @@
  |[NCSC-UK Releases Guidance on Using MSP for Administering Cloud Services](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/11/ncsc-uk-releases-guidance-using-msp-administering-cloud-services)|<p>The United Kingdom’s National Cyber Security Centre (NCSC-UK) has released a blog post, <a href="https://www.ncsc.gov.uk/blog-post/using-msps-to-administer-your-cloud-services">Using MSPs to administer your cloud services</a>, that provides organizations security considerations for using a third party, such as a managed service provider (MSP), to administer cloud services. Contracting with an MSP for cloud service management has become an increasingly appealing option for organizations.</p>|Wednesday, January 11, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, January 10, 2023|
  |[Microsoft Releases January 2023 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/microsoft-releases-january-2023-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, January 10, 2023|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Online Flight Booking Management System SQL injection (CVE-2023-0281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
- |[Online Flight Booking Management System SQL injection (CVE-2023-0283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
- |[InHand Networks InRouter302 and InHand Networks InRouter615 information disclosure (CVE-2023-22597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
- |[InHand Networks InRouter302 and InHand Networks InRouter615 comamnd execution (CVE-2023-22598)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
- |[InHand Networks InRouter302 and InHand Networks InRouter615 information disclosure (CVE-2023-22599)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
- |[InHand Networks InRouter302 and InHand Networks InRouter615 security bypass (CVE-2023-22600)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
  
  ---
 
@@ -96,16 +75,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[bmattoso desafio_buzz_woody sql injection](https://vuldb.com/?id.218357)|Visit link for details|2023-01-14 at 09:27|
- |[agy pontifex.http Http.coffee sql injection](https://vuldb.com/?id.218356)|Visit link for details|2023-01-14 at 09:25|
- |[KYUUBl school-register DBManager.java sql injection](https://vuldb.com/?id.218355)|Visit link for details|2023-01-14 at 09:24|
- |[yanheven console horizon.instances.js cross site scripting](https://vuldb.com/?id.218354)|Visit link for details|2023-01-14 at 09:22|
- |[lolfeedback sql injection](https://vuldb.com/?id.218353)|Visit link for details|2023-01-14 at 09:19|
- |[tutrantta project_todolist Database.php update sql injection](https://vuldb.com/?id.218352)|Visit link for details|2023-01-14 at 09:17|
- |[pointhi searx_stats cron.php sql injection](https://vuldb.com/?id.218351)|Visit link for details|2023-01-14 at 09:15|
- |[gophergala sqldump sql injection](https://vuldb.com/?id.218350)|Visit link for details|2023-01-14 at 09:12|
- |[APOC path traversal](https://vuldb.com/?id.218349)|Visit link for details|2023-01-14 at 09:07|
- |[Cloak Front End Email Plugin Shortcode cross site scripting](https://vuldb.com/?id.218348)|Visit link for details|2023-01-14 at 09:06|
+ |[ssn2013 cis450Project AddAppUser.java addUser sql injection](https://vuldb.com/?id.218380)|Visit link for details|2023-01-14 at 21:15|
+ |[calesanz gibb-modul-151 login redirect](https://vuldb.com/?id.218379)|Visit link for details|2023-01-14 at 18:27|
+ |[bony2023 Discussion-Board main.php display_all_replies sql injection](https://vuldb.com/?id.218378)|Visit link for details|2023-01-14 at 18:24|
+ |[visegripped Stracker api.php getHistory sql injection](https://vuldb.com/?id.218377)|Visit link for details|2023-01-14 at 18:21|
+ |[karsany OBridge ProcedureDao.java getAllStandaloneProcedureAndFunction sql injection](https://vuldb.com/?id.218376)|Visit link for details|2023-01-14 at 18:19|
+ |[tombh jekbox server.rb exposure of information through directory listing](https://vuldb.com/?id.218375)|Visit link for details|2023-01-14 at 18:16|
+ |[brandonfire miRNA_Database_by_PHP_MySql model.php count_rna sql injection](https://vuldb.com/?id.218374)|Visit link for details|2023-01-14 at 18:12|
+ |[krail-jpa sql injection](https://vuldb.com/?id.218373)|Visit link for details|2023-01-14 at 18:10|
+ |[Overdrive Eletrônica course-builder oeditor.html cross site scripting](https://vuldb.com/?id.218372)|Visit link for details|2023-01-14 at 18:08|
+ |[firefly-iii improper authorization](https://vuldb.com/?id.218371)|Visit link for details|2023-01-14 at 17:10|
  
  ---
 
@@ -124,4 +103,25 @@
  |[39711201/23 - Vulnérabilités dans Microsoft Office (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3971120123-vulnerabilites-dans-microsoft-office-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance,...|12 janvier 2023|
  |[39711201/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3971120123-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|12 janvier 2023|
  |[39701201/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3970120123-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles,...|12 janvier 2023|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Online Flight Booking Management System SQL injection (CVE-2023-0281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
+ |[Online Flight Booking Management System SQL injection (CVE-2023-0283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
+ |[InHand Networks InRouter302 and InHand Networks InRouter615 information disclosure (CVE-2023-22597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
+ |[InHand Networks InRouter302 and InHand Networks InRouter615 comamnd execution (CVE-2023-22598)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
+ |[InHand Networks InRouter302 and InHand Networks InRouter615 information disclosure (CVE-2023-22599)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
+ |[InHand Networks InRouter302 and InHand Networks InRouter615 security bypass (CVE-2023-22600)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
  
