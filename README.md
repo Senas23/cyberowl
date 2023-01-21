@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/01/2023 09:19:05 UTC
+ > Last Updated 21/01/2023 21:17:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,6 +36,31 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335" class="noirorange"><b>Xstream</b>: denial of service via Serialize</a>](https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335)|An attacker can cause a fatal error of Xstream, via Serialize, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334" class="noirorange"><b>Powerline Gitstatus</b>: code execution</a>](https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334)|An attacker can use a vulnerability of Powerline Gitstatus, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333" class="noirorange"><b>Apache CXF</b>: information disclosure via CXFServlet</a>](https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333)|An attacker can bypass access restrictions to data of Apache CXF, via CXFServlet, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Certifi-read-write-access-via-TrustCor-Root-Certificates-40332" class="noirorange"><b>Certifi</b>: read-write access via TrustCor Root Certificates</a>](https://vigilance.fr/vulnerability/Certifi-read-write-access-via-TrustCor-Root-Certificates-40332)|An attacker can bypass access restrictions of Certifi, via TrustCor Root Certificates, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40331" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40331)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Notepad-buffer-overflow-via-notepad-plus-addHotSpot-40330" class="noirorange"><b>Notepad++</b>: buffer overflow via <wbr>notepad_plus::addHot<wbr>Spot()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Notepad-buffer-overflow-via-notepad-plus-addHotSpot-40330)|An attacker can trigger a buffer overflow of Notepad++, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-privilege-escalation-40329" class="noirorange"><b>Symantec Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-privilege-escalation-40329)|An attacker can bypass restrictions of Symantec Endpoint Protection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-40327" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-40327)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326" class="noirorange"><b>Wireshark</b>: denial of service via TIPC Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326)|An attacker can cause a fatal error of Wireshark, via TIPC Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325" class="noirorange"><b>Wireshark</b>: overload via BPv6 / NCP / RTPS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325)|An attacker can trigger an overload of Wireshark, via BPv6 / NCP / RTPS Dissector, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -47,23 +72,6 @@
  |[Zephyr denial of service (CVE-2023-0397)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
  |[Microsoft Edge (Chromium-based) security bypass (CVE-2023-21719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
  |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0048/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0047/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0046/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
- |[Vulnérabilité dans Sonicwall Secure Mobile Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0045/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans les produits WithSecure. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 20 janvier 2023|
- |[Vulnérabilité dans Sudo](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0043/)|Une vulnérabilité a été découverte dans sudo. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0042/)|De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
- |[Vulnérabilité dans Cisco Unified Communications Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0041/)|Une vulnérabilité a été découverte dans Cisco Unified Communications Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
- |[Vulnérabilité dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0040/)|Une vulnérabilité a été découverte dans Mitel MiContact Center Business. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0039/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
  
  ---
 
@@ -82,28 +90,20 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335" class="noirorange"><b>Xstream</b>: denial of service via Serialize</a>](https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335)|An attacker can cause a fatal error of Xstream, via Serialize, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334" class="noirorange"><b>Powerline Gitstatus</b>: code execution</a>](https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334)|An attacker can use a vulnerability of Powerline Gitstatus, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333" class="noirorange"><b>Apache CXF</b>: information disclosure via CXFServlet</a>](https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333)|An attacker can bypass access restrictions to data of Apache CXF, via CXFServlet, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Certifi-read-write-access-via-TrustCor-Root-Certificates-40332" class="noirorange"><b>Certifi</b>: read-write access via TrustCor Root Certificates</a>](https://vigilance.fr/vulnerability/Certifi-read-write-access-via-TrustCor-Root-Certificates-40332)|An attacker can bypass access restrictions of Certifi, via TrustCor Root Certificates, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40331" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40331)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Notepad-buffer-overflow-via-notepad-plus-addHotSpot-40330" class="noirorange"><b>Notepad++</b>: buffer overflow via <wbr>notepad_plus::addHot<wbr>Spot()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Notepad-buffer-overflow-via-notepad-plus-addHotSpot-40330)|An attacker can trigger a buffer overflow of Notepad++, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-privilege-escalation-40329" class="noirorange"><b>Symantec Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-privilege-escalation-40329)|An attacker can bypass restrictions of Symantec Endpoint Protection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-40327" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-40327)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326" class="noirorange"><b>Wireshark</b>: denial of service via TIPC Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326)|An attacker can cause a fatal error of Wireshark, via TIPC Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325" class="noirorange"><b>Wireshark</b>: overload via BPv6 / NCP / RTPS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325)|An attacker can trigger an overload of Wireshark, via BPv6 / NCP / RTPS Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0048/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0047/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0046/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
+ |[Vulnérabilité dans Sonicwall Secure Mobile Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0045/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 20 janvier 2023|
+ |[Multiples vulnérabilités dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans les produits WithSecure. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 20 janvier 2023|
+ |[Vulnérabilité dans Sudo](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0043/)|Une vulnérabilité a été découverte dans sudo. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 20 janvier 2023|
+ |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0042/)|De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
+ |[Vulnérabilité dans Cisco Unified Communications Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0041/)|Une vulnérabilité a été découverte dans Cisco Unified Communications Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
+ |[Vulnérabilité dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0040/)|Une vulnérabilité a été découverte dans Mitel MiContact Center Business. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
+ |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0039/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
  
  ---
 
