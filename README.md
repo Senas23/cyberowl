@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/01/2023 09:20:36 UTC
+ > Last Updated 22/01/2023 21:19:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,10 +54,42 @@
  
  ---
 
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RARLAB WinRAR ZIP File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-092/)|Visit link for details|2023-01-20|
+ |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-091/)|Visit link for details|2023-01-20|
+ |[Siemens Solid Edge Viewer JT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-090/)|Visit link for details|2023-01-18|
+ |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-089/)|Visit link for details|2023-01-18|
+ |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-088/)|Visit link for details|2023-01-18|
+ |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-087/)|Visit link for details|2023-01-18|
+ |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Opcode 512 Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-086/)|Visit link for details|2023-01-18|
+ |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-085/)|Visit link for details|2023-01-18|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0048/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0047/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0046/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
+ |[Vulnérabilité dans Sonicwall Secure Mobile Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0045/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 20 janvier 2023|
+ |[Multiples vulnérabilités dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans les produits WithSecure. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 20 janvier 2023|
+ |[Vulnérabilité dans Sudo](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0043/)|Une vulnérabilité a été découverte dans sudo. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 20 janvier 2023|
+ |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0042/)|De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
+ |[Vulnérabilité dans Cisco Unified Communications Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0041/)|Une vulnérabilité a été découverte dans Cisco Unified Communications Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
+ |[Vulnérabilité dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0040/)|Une vulnérabilité a été découverte dans Mitel MiContact Center Business. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
+ |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0039/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
  
  ---
 
@@ -90,36 +122,4 @@
  |[Zephyr denial of service (CVE-2023-0397)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
  |[Microsoft Edge (Chromium-based) security bypass (CVE-2023-21719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
  |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[RARLAB WinRAR ZIP File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-092/)|Visit link for details|2023-01-20|
- |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-091/)|Visit link for details|2023-01-20|
- |[Siemens Solid Edge Viewer JT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-090/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-089/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-088/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-087/)|Visit link for details|2023-01-18|
- |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Opcode 512 Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-086/)|Visit link for details|2023-01-18|
- |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-085/)|Visit link for details|2023-01-18|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0048/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0047/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0046/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
- |[Vulnérabilité dans Sonicwall Secure Mobile Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0045/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans les produits WithSecure. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 20 janvier 2023|
- |[Vulnérabilité dans Sudo](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0043/)|Une vulnérabilité a été découverte dans sudo. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0042/)|De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
- |[Vulnérabilité dans Cisco Unified Communications Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0041/)|Une vulnérabilité a été découverte dans Cisco Unified Communications Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
- |[Vulnérabilité dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0040/)|Une vulnérabilité a été découverte dans Mitel MiContact Center Business. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0039/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
  
