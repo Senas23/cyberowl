@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/01/2023 21:20:18 UTC
+ > Last Updated 25/01/2023 09:22:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,28 +36,17 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Nova-file-reading-via-VMDK-Flat-Descriptor-40351" class="noirorange"><b>OpenStack Cinder  Glance  Nova</b>: file reading via VMDK Flat Descriptor</a>](https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Nova-file-reading-via-VMDK-Flat-Descriptor-40351)|An attacker can read a file of OpenStack Cinder  Glance  Nova, via VMDK Flat Descriptor, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40350" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40350)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349" class="noirorange"><b>SSSD</b>: read-write access via LDAP Filter Injection</a>](https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349)|An attacker can bypass access restrictions of SSSD, via LDAP Filter Injection, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348" class="noirorange"><b>LibTIFF</b>: buffer overflow via <wbr>processCropSelection<wbr>s()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347" class="noirorange"><b>Linux kernel</b>: information disclosure via <wbr>inet_diag_msg_sctpas<wbr>oc_fill()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347)|An attacker can bypass access restrictions to data of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346" class="noirorange"><b>Mechanize</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346)|An attacker can trigger an overload of Mechanize, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>vmw_kms_cursor_snoop<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40344" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40344)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-denial-of-service-via-H2-Interim-Response-End-of-stream-Flag-40343" class="noirorange"><b>HAProxy</b>: denial of service via H2 Interim Response End-of-stream Flag</a>](https://vigilance.fr/vulnerability/HAProxy-denial-of-service-via-H2-Interim-Response-End-of-stream-Flag-40343)|An attacker can cause a fatal error of HAProxy, via H2 Interim Response End-of-stream Flag, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-information-disclosure-via-Container-40342" class="noirorange"><b>WebSphere AS</b>: information disclosure via Container</a>](https://vigilance.fr/vulnerability/WebSphere-AS-information-disclosure-via-Container-40342)|An attacker can bypass access restrictions to data of WebSphere AS, via Container, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
+ |[pgAdmin 4 directory traversal (CVE-2023-0241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[OMRON CX-Motion Pro XML external entity injection (CVE-2023-22322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[EasyMail cross-site scripting (CVE-2022-22333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Google Chrome code execution (CVE-2023-0474)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Google Chrome code execution (CVE-2023-0473)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Google Chrome code execution (CVE-2023-0472)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Google Chrome code execution (CVE-2023-0471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  
  ---
 
@@ -78,17 +67,28 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome code execution (CVE-2023-0472)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Google Chrome code execution (CVE-2023-0471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[VMware vRealize Log Insight information disclosure (CVE-2022-31711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[VMware vRealize Log Insight denial of service (CVE-2022-31710)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[VMware vRealize Log Insight code execution (CVE-2022-31704)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Pgpool-II information disclosure (CVE-2022-22332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
- |[Contec CONPROSYS HMI System SQL injection (CVE-2022-22324)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355" class="noirorange"><b>libde265</b>: buffer overflow via put_qpel_fallback()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354" class="noirorange"><b>libde265</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Nova-file-reading-via-VMDK-Flat-Descriptor-40351" class="noirorange"><b>OpenStack Cinder  Glance  Nova</b>: file reading via VMDK Flat Descriptor</a>](https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Nova-file-reading-via-VMDK-Flat-Descriptor-40351)|An attacker can read a file of OpenStack Cinder  Glance  Nova, via VMDK Flat Descriptor, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40350" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40350)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349" class="noirorange"><b>SSSD</b>: read-write access via LDAP Filter Injection</a>](https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349)|An attacker can bypass access restrictions of SSSD, via LDAP Filter Injection, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348" class="noirorange"><b>LibTIFF</b>: buffer overflow via <wbr>processCropSelection<wbr>s()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347" class="noirorange"><b>Linux kernel</b>: information disclosure via <wbr>inet_diag_msg_sctpas<wbr>oc_fill()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347)|An attacker can bypass access restrictions to data of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346" class="noirorange"><b>Mechanize</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346)|An attacker can trigger an overload of Mechanize, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>vmw_kms_cursor_snoop<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
  
  ---
 
@@ -114,12 +114,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[RARLAB WinRAR ZIP File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-092/)|Visit link for details|2023-01-20|
- |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-091/)|Visit link for details|2023-01-20|
- |[Siemens Solid Edge Viewer JT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-090/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-089/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-088/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-087/)|Visit link for details|2023-01-18|
- |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Opcode 512 Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-086/)|Visit link for details|2023-01-18|
- |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-085/)|Visit link for details|2023-01-18|
  
