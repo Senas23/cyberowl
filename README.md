@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/01/2023 21:18:29 UTC
+ > Last Updated 26/01/2023 09:21:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-install-fixed-file-40366" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>io_install_fixed_fil<wbr>e()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-install-fixed-file-40366)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-poll-check-events-40365" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>io_poll_check_events<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-poll-check-events-40365)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-40364" class="noirorange"><b>Grafana</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-40364)|An attacker can use several vulnerabilities of Grafana...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-Recursive-clients-Soft-Quota-40363" class="noirorange"><b>ISC BIND</b>: denial of service via Stale Cache Recursive-clients Soft Quota</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-Recursive-clients-Soft-Quota-40363)|An attacker can cause a fatal error of ISC BIND, via Stale Cache Recursive-clients Soft Quota, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-RRSIG-Queries-40362" class="noirorange"><b>ISC BIND</b>: denial of service via Stale Cache RRSIG Queries</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-RRSIG-Queries-40362)|An attacker can cause a fatal error of ISC BIND, via Stale Cache RRSIG Queries, in order to trigger a denial of service...|Visit link for details|
@@ -49,25 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358" class="noirorange"><b>Linux-PAM</b>: user access via Unresolvable IP Address</a>](https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358)|An attacker can bypass restrictions of Linux-PAM, via Unresolvable IP Address, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HAProxy-memory-reading-via-FCGI-Mux-40356" class="noirorange"><b>HAProxy</b>: memory reading via FCGI Mux</a>](https://vigilance.fr/vulnerability/HAProxy-memory-reading-via-FCGI-Mux-40356)|An attacker can read a memory fragment of HAProxy, via FCGI Mux, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355" class="noirorange"><b>libde265</b>: buffer overflow via put_qpel_fallback()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354" class="noirorange"><b>libde265</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0057/)|De multiples vulnérabilités ont été corrigées dans |Publié le 25 janvier 2023|
- |[Multiples vulnérabilités dans VMware vRealize Log Insight](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0058/)|De multiples vulnérabilités ont été découvertes dans VMware vRealize Log Insight. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 janvier 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 janvier 2023|
- |[Vulnérabilité dans IBM WebSphere Application Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0055/)|Une vulnérabilité a été découverte dans IBM WebSphere Application Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 janvier 2023|
- |[Multiples vulnérabilités dans Elastic Endpoint et Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans Elastic Endpoint et Security. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 janvier 2023|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0054/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 24 janvier 2023|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0052/)|De multiples vulnérabilités ont été corrigées dans|Publié le 23 janvier 2023|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0051/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 23 janvier 2023|
- |[Multiples vulnérabilités dans Broadcom Symantec Identity Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Broadcom Symantec Identity Manager. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 23 janvier 2023|
- |[Vulnérabilité dans PostgreSQL Pgpool-II](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0049/)|Une vulnérabilité a été découverte dans PostgreSQL Pgpool-II. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 23 janvier 2023|
  
  ---
 
@@ -75,24 +58,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
- |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
- |[39952501/23 - Vulnérabilités critiques affectant VMware vRealize Log Insight](https://www.dgssi.gov.ma//fr/content/3995250123-vulnerabilites-critiques-affectant-vmware-vrealize-log-insight.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware vRealize Log Insight. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des...|25 janvier 2023|
- |[39922401/23 - « Zero-Day » corrigé dans les anciens iPhones et iPads d’Apple](https://www.dgssi.gov.ma//fr/content/3992240123-zero-day-corrige-dans-les-anciens-iphones-et-ipads-d-apple.html)|Apple annonce la correction d’une vulnérabilité « Zero-day » affectant ses produits susmentionnés. Selon Apple, cette vulnérabilité identifiée par « CVE-2022-42856 » est activement exploitée et peut permettre à un attaquant d’exécuter du...|24 janvier 2023|
- |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
- |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
- |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
- |[39932401/22 - Vulnérabilité dans PostgreSQL Pgpool-II](https://www.dgssi.gov.ma//fr/content/3993240122-vulnerabilite-dans-postgresql-pgpool-ii.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL Pgpool-II susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|24 janvier 2023|
- |[39892301/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3989230122-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 janvier 2023|
- |[39882301/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3988230122-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la politique de sécurité.|23 janvier 2023|
- |[39872001/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3987200123-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|20 janvier 2023|
  
  ---
 
@@ -115,11 +80,46 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ISC BIND denial of service (CVE-2022-3924)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
+ |[ISC BIND denial of service (CVE-2022-3736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
+ |[ISC BIND denial of service (CVE-2022-3094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
+ |[XenSource Xen Xenstore denial of service (CVE-2022-42330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
+ |[Open edX LTI Consumer XBlock security bypass (CVE-2023-23611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  |[pgAdmin 4 directory traversal (CVE-2023-0241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[OMRON CX-Motion Pro XML external entity injection (CVE-2023-22322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[LearnPress plugin for WordPress file inclusion (CVE-2022-47615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[EasyMail cross-site scripting (CVE-2022-22333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Jenkins Bitbucket OAuth Plugin cross-site request forgery (CVE-2023-24428)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Jenkins Bitbucket OAuth Plugin security bypass (CVE-2023-24427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Jenkins Azure AD Plugin security bypass (CVE-2023-24426)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[OpenSearch security bypass (CVE-2023-23612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0057/)|De multiples vulnérabilités ont été corrigées dans |Publié le 25 janvier 2023|
+ |[Multiples vulnérabilités dans VMware vRealize Log Insight](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0058/)|De multiples vulnérabilités ont été découvertes dans VMware vRealize Log Insight. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 janvier 2023|
+ |[Vulnérabilité dans IBM WebSphere Application Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0055/)|Une vulnérabilité a été découverte dans IBM WebSphere Application Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 janvier 2023|
+ |[Multiples vulnérabilités dans Elastic Endpoint et Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans Elastic Endpoint et Security. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 janvier 2023|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0054/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 24 janvier 2023|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0052/)|De multiples vulnérabilités ont été corrigées dans|Publié le 23 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0051/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 23 janvier 2023|
+ |[Multiples vulnérabilités dans Broadcom Symantec Identity Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Broadcom Symantec Identity Manager. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 23 janvier 2023|
+ |[Vulnérabilité dans PostgreSQL Pgpool-II](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0049/)|Une vulnérabilité a été découverte dans PostgreSQL Pgpool-II. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 23 janvier 2023|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[39982601/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3998260123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|26 janvier 2023|
+ |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
+ |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
+ |[39952501/23 - Vulnérabilités critiques affectant VMware vRealize Log Insight](https://www.dgssi.gov.ma//fr/content/3995250123-vulnerabilites-critiques-affectant-vmware-vrealize-log-insight.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware vRealize Log Insight. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des...|25 janvier 2023|
+ |[39922401/23 - « Zero-Day » corrigé dans les anciens iPhones et iPads d’Apple](https://www.dgssi.gov.ma//fr/content/3992240123-zero-day-corrige-dans-les-anciens-iphones-et-ipads-d-apple.html)|Apple annonce la correction d’une vulnérabilité « Zero-day » affectant ses produits susmentionnés. Selon Apple, cette vulnérabilité identifiée par « CVE-2022-42856 » est activement exploitée et peut permettre à un attaquant d’exécuter du...|24 janvier 2023|
+ |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
+ |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
+ |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
+ |[39932401/22 - Vulnérabilité dans PostgreSQL Pgpool-II](https://www.dgssi.gov.ma//fr/content/3993240122-vulnerabilite-dans-postgresql-pgpool-ii.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL Pgpool-II susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|24 janvier 2023|
+ |[39892301/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3989230122-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 janvier 2023|
+ |[39882301/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3988230122-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la politique de sécurité.|23 janvier 2023|
  
