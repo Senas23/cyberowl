@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/01/2023 21:19:56 UTC
+ > Last Updated 27/01/2023 09:22:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,31 +36,13 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[ISC BIND denial of service (CVE-2022-3488)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
- |[ISC BIND denial of service (CVE-2022-3924)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
- |[ISC BIND denial of service (CVE-2022-3736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
- |[ISC BIND denial of service (CVE-2022-3094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
- |[XenSource Xen Xenstore denial of service (CVE-2022-42330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
- |[Open edX LTI Consumer XBlock security bypass (CVE-2023-23611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[pgAdmin 4 directory traversal (CVE-2023-0241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-decode-main-header-40371" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via <wbr>decode_main_header()</wbr></a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-decode-main-header-40371)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-NULL-pointer-dereference-via-read-50-controller-cap-complete-40370" class="noirorange"><b>BlueZ</b>: NULL pointer dereference via <wbr>read_50_controller_c<wbr>ap_complete()</wbr></wbr></a>](https://vigilance.fr/vulnerability/BlueZ-NULL-pointer-dereference-via-read-50-controller-cap-complete-40370)|An attacker can force a NULL pointer to be dereferenced on BlueZ, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/py-overload-via-InfoSvnCommand-Regular-Expression-40369" class="noirorange"><b>py</b>: overload via InfoSvnCommand Regular Expression</a>](https://vigilance.fr/vulnerability/py-overload-via-InfoSvnCommand-Regular-Expression-40369)|An attacker can trigger an overload of py, via InfoSvnCommand Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-FILES-TMP-CONTENT-40368" class="noirorange"><b>ModSecurity</b>: ingress filtrering bypass via FILES_TMP_CONTENT</a>](https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-FILES-TMP-CONTENT-40368)|An attacker can bypass filtering rules of ModSecurity, via FILES_TMP_CONTENT, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-HTTP-Multipart-Requests-40367" class="noirorange"><b>ModSecurity</b>: ingress filtrering bypass via HTTP Multipart Requests</a>](https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-HTTP-Multipart-Requests-40367)|An attacker can bypass filtering rules of ModSecurity, via HTTP Multipart Requests, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-install-fixed-file-40366" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>io_install_fixed_fil<wbr>e()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-install-fixed-file-40366)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
@@ -69,9 +51,13 @@
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-Recursive-clients-Soft-Quota-40363" class="noirorange"><b>ISC BIND</b>: denial of service via Stale Cache Recursive-clients Soft Quota</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-Recursive-clients-Soft-Quota-40363)|An attacker can cause a fatal error of ISC BIND, via Stale Cache Recursive-clients Soft Quota, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-RRSIG-Queries-40362" class="noirorange"><b>ISC BIND</b>: denial of service via Stale Cache RRSIG Queries</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-RRSIG-Queries-40362)|An attacker can cause a fatal error of ISC BIND, via Stale Cache RRSIG Queries, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-Supported-Preview-Edition-denial-of-service-via-ECS-Options-40361" class="noirorange"><b>ISC BIND Supported Preview Edition</b>: denial of service via ECS Options</a>](https://vigilance.fr/vulnerability/ISC-BIND-Supported-Preview-Edition-denial-of-service-via-ECS-Options-40361)|An attacker can cause a fatal error of ISC BIND Supported Preview Edition, via ECS Options, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstore-Soft-Reset-40360" class="noirorange"><b>Xen</b>: denial of service via Xenstore Soft Reset</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstore-Soft-Reset-40360)|An attacker, in a guest system, can cause a fatal error of Xen, via Xenstore Soft Reset, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usb-reset-device-40359" class="noirorange"><b>Linux kernel</b>: denial of service via usb_reset_device()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usb-reset-device-40359)|An attacker can cause a fatal error of the Linux kernel, via usb_reset_device(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358" class="noirorange"><b>Linux-PAM</b>: user access via Unresolvable IP Address</a>](https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358)|An attacker can bypass restrictions of Linux-PAM, via Unresolvable IP Address, in order to gain user privileges...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -92,10 +78,25 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Econolite EOS brute force (CVE-2023-0452)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Econolite EOS security bypass (CVE-2023-0451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Sierra Wireless AirLink Router information disclosure (CVE-2022-46650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Sierra Wireless AirLink Router command execution (CVE-2022-46649)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Landis+Gyr E850 denial of service (CVE-2022-3083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[WattBox WB-300-IP-3 file upload (CVE-2023-22315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[WattBox WB-300-IP-3 information disclosure (CVE-2023-22389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[39992701/22 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/3999270122-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|27 janvier 2023|
  |[39982601/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3998260123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|26 janvier 2023|
  |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
  |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
@@ -106,7 +107,6 @@
  |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
  |[39932401/22 - Vulnérabilité dans PostgreSQL Pgpool-II](https://www.dgssi.gov.ma//fr/content/3993240122-vulnerabilite-dans-postgresql-pgpool-ii.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL Pgpool-II susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|24 janvier 2023|
  |[39892301/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3989230122-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 janvier 2023|
- |[39882301/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3988230122-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la politique de sécurité.|23 janvier 2023|
  
  ---
 
@@ -114,12 +114,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[RARLAB WinRAR ZIP File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-092/)|Visit link for details|2023-01-20|
- |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-091/)|Visit link for details|2023-01-20|
- |[Siemens Solid Edge Viewer JT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-090/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-089/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-088/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-087/)|Visit link for details|2023-01-18|
- |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Opcode 512 Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-086/)|Visit link for details|2023-01-18|
- |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-085/)|Visit link for details|2023-01-18|
  
