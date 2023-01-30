@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/01/2023 21:20:06 UTC
+ > Last Updated 30/01/2023 09:21:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,31 +36,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376" class="noirorange"><b>phpMyAdmin</b>: SQL injection via tbl_storage_engine</a>](https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376)|An attacker can use a SQL injection of phpMyAdmin, via tbl_storage_engine, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375" class="noirorange"><b>MediaWiki</b>: overload via <wbr>SpecialMobileHistory</wbr></a>](https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375)|An attacker can trigger an overload of MediaWiki, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via E-Widgets</a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374)|An attacker can trigger a Cross Site Scripting of MediaWiki, via E-Widgets, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-privilege-escalation-via-GrowthExperiments-API-40373" class="noirorange"><b>MediaWiki</b>: privilege escalation via GrowthExperiments API</a>](https://vigilance.fr/vulnerability/MediaWiki-privilege-escalation-via-GrowthExperiments-API-40373)|An attacker can bypass restrictions of MediaWiki, via GrowthExperiments API, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-SQLite-Files-40372" class="noirorange"><b>MediaWiki</b>: information disclosure via SQLite Files</a>](https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-SQLite-Files-40372)|An attacker can bypass access restrictions to data of MediaWiki, via SQLite Files, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-decode-main-header-40371" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via <wbr>decode_main_header()</wbr></a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-decode-main-header-40371)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BlueZ-NULL-pointer-dereference-via-read-50-controller-cap-complete-40370" class="noirorange"><b>BlueZ</b>: NULL pointer dereference via <wbr>read_50_controller_c<wbr>ap_complete()</wbr></wbr></a>](https://vigilance.fr/vulnerability/BlueZ-NULL-pointer-dereference-via-read-50-controller-cap-complete-40370)|An attacker can force a NULL pointer to be dereferenced on BlueZ, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/py-overload-via-InfoSvnCommand-Regular-Expression-40369" class="noirorange"><b>py</b>: overload via InfoSvnCommand Regular Expression</a>](https://vigilance.fr/vulnerability/py-overload-via-InfoSvnCommand-Regular-Expression-40369)|An attacker can trigger an overload of py, via InfoSvnCommand Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-FILES-TMP-CONTENT-40368" class="noirorange"><b>ModSecurity</b>: ingress filtrering bypass via FILES_TMP_CONTENT</a>](https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-FILES-TMP-CONTENT-40368)|An attacker can bypass filtering rules of ModSecurity, via FILES_TMP_CONTENT, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-HTTP-Multipart-Requests-40367" class="noirorange"><b>ModSecurity</b>: ingress filtrering bypass via HTTP Multipart Requests</a>](https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-HTTP-Multipart-Requests-40367)|An attacker can bypass filtering rules of ModSecurity, via HTTP Multipart Requests, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-install-fixed-file-40366" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>io_install_fixed_fil<wbr>e()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-install-fixed-file-40366)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -72,6 +47,21 @@
  |[Sierra Wireless AirLink Router command execution (CVE-2022-46649)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
  |[Landis+Gyr E850 denial of service (CVE-2022-3083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
  |[WattBox WB-300-IP-3 file upload (CVE-2023-22315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[RARLAB WinRAR ZIP File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-092/)|Visit link for details|2023-01-20|
+ |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-091/)|Visit link for details|2023-01-20|
+ |[Siemens Solid Edge Viewer JT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-090/)|Visit link for details|2023-01-18|
+ |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-089/)|Visit link for details|2023-01-18|
+ |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-088/)|Visit link for details|2023-01-18|
+ |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-087/)|Visit link for details|2023-01-18|
+ |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Opcode 512 Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-086/)|Visit link for details|2023-01-18|
+ |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-085/)|Visit link for details|2023-01-18|
  
  ---
 
@@ -92,18 +82,28 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[RARLAB WinRAR ZIP File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-092/)|Visit link for details|2023-01-20|
- |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-091/)|Visit link for details|2023-01-20|
- |[Siemens Solid Edge Viewer JT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-090/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-089/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-088/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-087/)|Visit link for details|2023-01-18|
- |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Opcode 512 Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-086/)|Visit link for details|2023-01-18|
- |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-085/)|Visit link for details|2023-01-18|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via SSH</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384)|An attacker can act as a Man-in-the-Middle on libgit2, via SSH, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383" class="noirorange"><b>Node.js object-path</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383)|An attacker can use several vulnerabilities of Node.js object-path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382" class="noirorange"><b>Dijit</b>: Cross Site Scripting via Editor LinkDialog Plugin</a>](https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382)|An attacker can trigger a Cross Site Scripting of Dijit, via Editor LinkDialog Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381" class="noirorange"><b>MediaArea ZenLi</b>: NULL pointer dereference via <wbr>Ztring::Date_From_Se<wbr>conds_1970_Local()</wbr></wbr></a>](https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381)|An attacker can force a NULL pointer to be dereferenced on MediaArea ZenLi, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380" class="noirorange"><b>LemonLDAP-NG</b>: user access via Handler Persistent Session</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380)|An attacker can bypass restrictions of LemonLDAP::NG, via Handler Persistent Session, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379" class="noirorange"><b>Apache-Session-Brows<wbr>eable</wbr></b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378" class="noirorange"><b>LemonLDAP-NG</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378)|An attacker can act as a Man-in-the-Middle on LemonLDAP::NG, via LDAP Backends, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Session-LDAP-Man-in-the-Middle-via-LDAP-Backends-40377" class="noirorange"><b>Apache-Session-LDAP</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-LDAP-Man-in-the-Middle-via-LDAP-Backends-40377)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376" class="noirorange"><b>phpMyAdmin</b>: SQL injection via tbl_storage_engine</a>](https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376)|An attacker can use a SQL injection of phpMyAdmin, via tbl_storage_engine, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375" class="noirorange"><b>MediaWiki</b>: overload via <wbr>SpecialMobileHistory</wbr></a>](https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375)|An attacker can trigger an overload of MediaWiki, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via E-Widgets</a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374)|An attacker can trigger a Cross Site Scripting of MediaWiki, via E-Widgets, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
