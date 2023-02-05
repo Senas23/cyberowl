@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/02/2023 21:19:23 UTC
+ > Last Updated 05/02/2023 09:20:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,6 +78,20 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[shadow-utils code execution (CVE-2023-0634)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[FastCMS file upload (CVE-2023-0651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Multilaser RE057 and Multilaser RE170 information disclosure (CVE-2023-0658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[GNU C Library (glibc) buffer overflow (CVE-2023-25139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Grafana information disclosure (CVE-2022-23498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -93,20 +107,6 @@
  |[40023101/23 - Vulnérabilité critique dans QNAP QTS et QuTS hero](https://www.dgssi.gov.ma//fr/content/4002310123-vulnerabilite-critique-dans-qnap-qts-et-quts-hero.html)|Une vulnérabilité a été corrigée dans QNAP QTS et QuTS hero. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire à distance.|31 janvier 2023|
  |[40002701/22 - Microsoft exhorte les administrateurs à appliquer les correctifs relatifs aux serveurs](https://www.dgssi.gov.ma//fr/content/4000270122-microsoft-exhorte-les-administrateurs-appliquer-les-correctifs-relatifs-aux-serveurs-exchange.html)|Microsoft exhorte ses clients à maintenir leurs serveurs Exchange à jour en appliquant la dernière mise à jour cumulative (CU) prise en charge, afin qu'ils soient toujours prêts à déployer une mise à jour de sécurité d'urgence. A...|27 janvier 2023|
  |[40012601/23 - Vulnérabilité critiqueaffectantles imprimantes Lexmark ](https://www.dgssi.gov.ma//fr/content/4001260123-vulnerabilite-critique-affectant-les-imprimantes-lexmark.html)|Lexmark vient de publier des mises à jour de sécurité qui permettent de corriger une vulnérabilité critique affectant plusieurs de ses imprimantes. L’exploitation de cette vulnérabilité peut permettre àun attaquant distant d’exécuter du...|27 janvier 2023|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[shadow-utils code execution (CVE-2023-0634)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[FastCMS file upload (CVE-2023-0651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Multilaser RE057 and Multilaser RE170 information disclosure (CVE-2023-0658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[GNU C Library (glibc) buffer overflow (CVE-2023-25139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Grafana information disclosure (CVE-2022-23498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
  
  ---
 
