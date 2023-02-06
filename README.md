@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/02/2023 21:18:59 UTC
+ > Last Updated 06/02/2023 09:23:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,17 +40,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455" class="noirorange"><b>RESTEasy</b>: file read/write via Temp Files</a>](https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455)|An attacker can bypass access restrictions of RESTEasy, via Temp Files, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454" class="noirorange"><b>Linux kernel</b>: memory reading via Spectre-BTI</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454)|An attacker can read a memory fragment of the Linux kernel, via Spectre-BTI, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453" class="noirorange"><b>binwalk</b>: directory traversal</a>](https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453)|An attacker can traverse directories of binwalk, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Per-cpu-Entry-Area-40452" class="noirorange"><b>Linux kernel</b>: memory reading via Per-cpu Entry Area</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Per-cpu-Entry-Area-40452)|An attacker can read a memory fragment of the Linux kernel, via Per-cpu Entry Area, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrdump-40451" class="noirorange"><b>Dell NetWorker</b>: code execution via nsrdump</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrdump-40451)|An attacker can use a vulnerability of Dell NetWorker, via nsrdump, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-decode-uri-component-denial-of-service-40450" class="noirorange"><b>Node.js <wbr>decode-uri-component</wbr></b>: denial of service</a>](https://vigilance.fr/vulnerability/Node-js-decode-uri-component-denial-of-service-40450)|An attacker can cause a fatal error of Node.js |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-40448" class="noirorange"><b>Microsoft Edge Chromium</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-40448)|A vulnerability of Microsoft Edge Chromium was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Create-Job-On-Broker-40447" class="noirorange"><b>IBM Workload Scheduler</b>: external XML entity injection via Create Job On Broker</a>](https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Create-Job-On-Broker-40447)|An attacker can transmit malicious XML data to IBM Workload Scheduler, via Create Job On Broker, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Configuration-File-40446" class="noirorange"><b>IBM Workload Scheduler</b>: external XML entity injection via Configuration File</a>](https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Configuration-File-40446)|An attacker can transmit malicious XML data to IBM Workload Scheduler, via Configuration File, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-file-deletion-40445" class="noirorange"><b>VMware Workstation</b>: file deletion</a>](https://vigilance.fr/vulnerability/VMware-Workstation-file-deletion-40445)|An attacker, in a guest system, can bypass access restrictions of VMware Workstation, in order to delete a file on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441" class="noirorange"><b>OpenSSH</b>: write access via <wbr>CanonicalizeHostname</wbr></a>](https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441)|An attacker can bypass access restrictions of OpenSSH, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ignored PermitRemoteOpen</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440)|An attacker can bypass filtering rules of OpenSSH, via Ignored PermitRemoteOpen, in order to exfilter sensitive data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439" class="noirorange"><b>OpenSSH 9.1</b>: double free via <wbr>compat_kex_proposal(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439)|An attacker can force a double memory free of OpenSSH 9.1, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438" class="noirorange"><b>Notepad++</b>: denial of service via Finder::add()</a>](https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438)|An attacker can cause a fatal error of Notepad++, via Finder::add(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436" class="noirorange"><b>Linux kernel</b>: reuse after free via bigben_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bigben_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Text Format Data</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Text Format Data, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -82,6 +82,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[40090602/23 - Campagne de Ransomware cible les serveurs VMware ESXi non corrigés](https://www.dgssi.gov.ma//fr/content/4009060223-campagne-de-ransomware-cible-les-serveurs-vmware-esxi-non-corriges.html)|Une campagne d’attaque par ransomware exploite activement une vulnérabilité (CVE-2021-21974) dans les serveurs VMware ESXi non corrigés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant d'exécuter du...|06 février 2023|
  |[401010302/23 - Vulnérabilité affectant le Module «Apigee Edge »pourCMS Drupal](https://www.dgssi.gov.ma//fr/content/40101030223-vulnerabilite-affectant-le-module-apigee-edge-pour-cms-drupal.html)|Drupal annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaudu module « Apigee Edge ». L’exploitation de cette vulnérabilité peut permettre à un attaquant de contourner les mesures de sécurité.|03 février 2023|
  |[40090302/23 - Vulnérabilitécritiqueaffectant la bibliothèque «Dompdf» pour PHP](https://www.dgssi.gov.ma//fr/content/4009030223-vulnerabilite-critique-affectant-la-bibliotheque-dompdf-pour-php.html)|Dompdf annonce la correction d’une vulnérabilité critique affectant la bibliothèque « Dompdf » pour PHP. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire ou de supprimer des fichiers...|03 février 2023|
  |[40080302/23 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/4008030223-vulnerabilites-dans-les-produits-f5.html)|Plusieurs vulnérabilités ont été corrigées dans les produits F5 susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, causer un déni de service, contourner la politique de sécurité ou...|03 février 2023|
@@ -92,7 +93,6 @@
  |[40030202/23 - Vulnérabilité dans IBM WebSphere Application Server](https://www.dgssi.gov.ma//fr/content/4003020223-vulnerabilite-dans-ibm-websphere-application-server.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere. Un attaquant pourrait exploiter cette vulnérabilité afin d'exécuter du code arbitraire à distance.|02 février 2023|
  |[40023101/23 - Vulnérabilité critique dans QNAP QTS et QuTS hero](https://www.dgssi.gov.ma//fr/content/4002310123-vulnerabilite-critique-dans-qnap-qts-et-quts-hero.html)|Une vulnérabilité a été corrigée dans QNAP QTS et QuTS hero. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire à distance.|31 janvier 2023|
  |[40002701/22 - Microsoft exhorte les administrateurs à appliquer les correctifs relatifs aux serveurs](https://www.dgssi.gov.ma//fr/content/4000270122-microsoft-exhorte-les-administrateurs-appliquer-les-correctifs-relatifs-aux-serveurs-exchange.html)|Microsoft exhorte ses clients à maintenir leurs serveurs Exchange à jour en appliquant la dernière mise à jour cumulative (CU) prise en charge, afin qu'ils soient toujours prêts à déployer une mise à jour de sécurité d'urgence. A...|27 janvier 2023|
- |[40012601/23 - Vulnérabilité critiqueaffectantles imprimantes Lexmark ](https://www.dgssi.gov.ma//fr/content/4001260123-vulnerabilite-critique-affectant-les-imprimantes-lexmark.html)|Lexmark vient de publier des mises à jour de sécurité qui permettent de corriger une vulnérabilité critique affectant plusieurs de ses imprimantes. L’exploitation de cette vulnérabilité peut permettre àun attaquant distant d’exécuter du...|27 janvier 2023|
  
  ---
 
@@ -114,12 +114,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Cacti poll_for_data Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-093/)|Visit link for details|2023-01-31|
- |[RARLAB WinRAR ZIP File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-092/)|Visit link for details|2023-01-20|
- |[Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-091/)|Visit link for details|2023-01-20|
- |[Siemens Solid Edge Viewer JT File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-090/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-089/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-088/)|Visit link for details|2023-01-18|
- |[Siemens Solid Edge Viewer JT File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-087/)|Visit link for details|2023-01-18|
- |[Delta Electronics InfraSuite Device Master CtrlLayerNWCmd_FileOperation Opcode 512 Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-086/)|Visit link for details|2023-01-18|
  
