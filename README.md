@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/02/2023 09:20:24 UTC
+ > Last Updated 11/02/2023 21:18:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,42 +36,20 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[NEC PC Settings Tool security bypass (CVE-2023-25011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[Zuken Elmic KASAGO security bypass (CVE-2022-43501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[Huawei E5573Cs-322 devices denial of service (CVE-2018-7935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[LSElectric XBC-DN32U denial of service (CVE-2023-0103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U weak security (CVE-2023-0102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U security bypass (CVE-2023-22807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U information disclosure (CVE-2023-22806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[40210902/23 - Vulnérabilité dans le CMS TYPO3](https://www.dgssi.gov.ma//fr/content/4021090223-vulnerabilite-dans-le-cms-typo3.html)|Une vulnérabilité a été corrigée dans le CMS TYPO3. L’exploitation de cette faille permet à un attaquant d’injecter du code indirect à distance (XSS).|09 février 2023|
- |[40200802/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4020080223-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de OpenSSL.L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à...|08 février 2023|
- |[40190802/23 - Vulnérabilité dans phpMyAdmin](https://www.dgssi.gov.ma//fr/content/4019080223-vulnerabilite-dans-phpmyadmin.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de phpMyAdmin. L’exploitation de cette faille peut permettre à un attaquant de déclencher une attaque XSS en envoyant un fichier ".sql" spécialement conçu.|08 février 2023|
- |[40180802/23 - Vulnérabilité dans EnOcean SmartServer](https://www.dgssi.gov.ma//fr/content/4018080223-vulnerabilite-dans-enocean-smartserver.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de l’EnOcean SmartServer. En effet, les versions vulnérables de SmartServer stockent des informations d'identification dans un fichier en clair. Si l'attaquant...|08 février 2023|
- |[40170802/23 - Correctif de sécurité pour le zero-dayaffectant GoAnywhere MFT](https://www.dgssi.gov.ma//fr/content/4017080223-correctif-de-securite-pour-le-zero-day-affectant-goanywhere-mft.html)|Fortra a publié un correctif d'urgence pour corriger une vulnérabilité de type "zero-day" activement exploitée dans l'outil de transfert de fichiers sécurisé GoAnywhere MFT. La vulné-rabilité permet aux attaquants d’...|08 février 2023|
- |[40160802/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4016080223-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|08 février 2023|
- |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
- |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
- |[40130302/23 - Vulnérabilité affectant OpenSSH](https://www.dgssi.gov.ma//fr/content/4013030223-vulnerabilite-affectant-openssh.html)|OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaud’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter du code arbitraire.|06 février 2023|
- |[40100602/23 - Vulnérabilité dans VMware Workstation](https://www.dgssi.gov.ma//fr/content/4010060223-vulnerabilite-dans-vmware-workstation.html)|Une vulnérabilité a été corrigée dans VMware Workstation. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité de données et deréussir une élévation de privilèges.|06 février 2023|
- |[40090602/23 - Campagne de Ransomware cible les serveurs VMware ESXi non corrigés](https://www.dgssi.gov.ma//fr/content/4009060223-campagne-de-ransomware-cible-les-serveurs-vmware-esxi-non-corriges.html)|Une campagne d’attaque par ransomware exploite activement une vulnérabilité (CVE-2021-21974) dans les serveurs VMware ESXi non corrigés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant d'exécuter du...|06 février 2023|
+ |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0111/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0110/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0109/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 9 février 2023|
+ |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0108/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
+ |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0107/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
+ |[Multiples vulnérabilités dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0106/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
+ |[Multiples vulnérabilités dans les produits PaloAlto](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0105/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
  
  ---
 
@@ -93,24 +71,25 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0111/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0110/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0109/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 9 février 2023|
- |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0108/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
- |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0107/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
- |[Multiples vulnérabilités dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0106/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
- |[Multiples vulnérabilités dans les produits PaloAlto](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0105/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
+ |[40210902/23 - Vulnérabilité dans le CMS TYPO3](https://www.dgssi.gov.ma//fr/content/4021090223-vulnerabilite-dans-le-cms-typo3.html)|Une vulnérabilité a été corrigée dans le CMS TYPO3. L’exploitation de cette faille permet à un attaquant d’injecter du code indirect à distance (XSS).|09 février 2023|
+ |[40200802/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4020080223-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de OpenSSL.L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à...|08 février 2023|
+ |[40190802/23 - Vulnérabilité dans phpMyAdmin](https://www.dgssi.gov.ma//fr/content/4019080223-vulnerabilite-dans-phpmyadmin.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de phpMyAdmin. L’exploitation de cette faille peut permettre à un attaquant de déclencher une attaque XSS en envoyant un fichier ".sql" spécialement conçu.|08 février 2023|
+ |[40180802/23 - Vulnérabilité dans EnOcean SmartServer](https://www.dgssi.gov.ma//fr/content/4018080223-vulnerabilite-dans-enocean-smartserver.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de l’EnOcean SmartServer. En effet, les versions vulnérables de SmartServer stockent des informations d'identification dans un fichier en clair. Si l'attaquant...|08 février 2023|
+ |[40170802/23 - Correctif de sécurité pour le zero-dayaffectant GoAnywhere MFT](https://www.dgssi.gov.ma//fr/content/4017080223-correctif-de-securite-pour-le-zero-day-affectant-goanywhere-mft.html)|Fortra a publié un correctif d'urgence pour corriger une vulnérabilité de type "zero-day" activement exploitée dans l'outil de transfert de fichiers sécurisé GoAnywhere MFT. La vulné-rabilité permet aux attaquants d’...|08 février 2023|
+ |[40160802/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4016080223-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|08 février 2023|
+ |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
+ |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
+ |[40130302/23 - Vulnérabilité affectant OpenSSH](https://www.dgssi.gov.ma//fr/content/4013030223-vulnerabilite-affectant-openssh.html)|OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaud’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter du code arbitraire.|06 février 2023|
+ |[40100602/23 - Vulnérabilité dans VMware Workstation](https://www.dgssi.gov.ma//fr/content/4010060223-vulnerabilite-dans-vmware-workstation.html)|Une vulnérabilité a été corrigée dans VMware Workstation. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité de données et deréussir une élévation de privilèges.|06 février 2023|
+ |[40090602/23 - Campagne de Ransomware cible les serveurs VMware ESXi non corrigés](https://www.dgssi.gov.ma//fr/content/4009060223-campagne-de-ransomware-cible-les-serveurs-vmware-esxi-non-corriges.html)|Une campagne d’attaque par ransomware exploite activement une vulnérabilité (CVE-2021-21974) dans les serveurs VMware ESXi non corrigés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant d'exécuter du...|06 février 2023|
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
