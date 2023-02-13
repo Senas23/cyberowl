@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/02/2023 21:19:25 UTC
+ > Last Updated 13/02/2023 09:24:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,31 +36,12 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[NEC PC Settings Tool security bypass (CVE-2023-25011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[Zuken Elmic KASAGO security bypass (CVE-2022-43501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[Huawei E5573Cs-322 devices denial of service (CVE-2018-7935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[LSElectric XBC-DN32U denial of service (CVE-2023-0103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U weak security (CVE-2023-0102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U security bypass (CVE-2023-22807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U information disclosure (CVE-2023-22806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HarfBuzz-denial-of-service-via-hb-ot-layout-gsubgpos-hh-40505" class="noirorange"><b>HarfBuzz</b>: denial of service via <wbr>hb-ot-layout-gsubgpo<wbr>s.hh</wbr></wbr></a>](https://vigilance.fr/vulnerability/HarfBuzz-denial-of-service-via-hb-ot-layout-gsubgpos-hh-40505)|An attacker can cause a fatal error of HarfBuzz, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-denial-of-service-via-SQL-ODBC-Driver-40504" class="noirorange"><b>Qt</b>: denial of service via SQL ODBC Driver</a>](https://vigilance.fr/vulnerability/Qt-denial-of-service-via-SQL-ODBC-Driver-40504)|An attacker can cause a fatal error of Qt, via SQL ODBC Driver, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-cpb-cnt-minus1-40503" class="noirorange"><b>libde265</b>: buffer overflow via cpb_cnt_minus1()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-cpb-cnt-minus1-40503)|An attacker can trigger a buffer overflow of libde265, via cpb_cnt_minus1(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-Windows-code-execution-via-Cmd-exe-Search-Path-40502" class="noirorange"><b>Python Core Windows</b>: code execution via Cmd.exe Search Path</a>](https://vigilance.fr/vulnerability/Python-Core-Windows-code-execution-via-Cmd-exe-Search-Path-40502)|An attacker can use a vulnerability of Python Core Windows, via Cmd.exe Search Path, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SoX-assertion-error-via-rate-init-40501" class="noirorange"><b>SoX</b>: assertion error via rate_init()</a>](https://vigilance.fr/vulnerability/SoX-assertion-error-via-rate-init-40501)|An attacker can force an assertion error of SoX, via rate_init(), in order to trigger a denial of service...|Visit link for details|
@@ -70,23 +51,13 @@
  |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-40497" class="noirorange"><b>SoX</b>: denial of service via read_samples()</a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-40497)|An attacker can cause a fatal error of SoX, via read_samples(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-40496" class="noirorange"><b>SoX</b>: buffer overflow via startread()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-40496)|An attacker can trigger a buffer overflow of SoX, via startread(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-read-w-buf-40495" class="noirorange"><b>SoX</b>: buffer overflow via lsx_read_w_buf()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-read-w-buf-40495)|An attacker can trigger a buffer overflow of SoX, via lsx_read_w_buf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-adpcm-init-40494" class="noirorange"><b>SoX</b>: buffer overflow via lsx_adpcm_init()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-adpcm-init-40494)|An attacker can trigger a buffer overflow of SoX, via lsx_adpcm_init(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-NULL-pointer-dereference-via-lsx-calloc-40493" class="noirorange"><b>SoX</b>: NULL pointer dereference via lsx_calloc()</a>](https://vigilance.fr/vulnerability/SoX-NULL-pointer-dereference-via-lsx-calloc-40493)|An attacker can force a NULL pointer to be dereferenced on SoX, via lsx_calloc(), in order to trigger a denial of service...|Visit link for details|
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-138/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DXF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-137/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-136/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-135/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-134/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-133/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DGN File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-132/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DGN File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-131/)|Visit link for details|2023-02-09|
  
  ---
 
@@ -111,6 +82,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[40231302/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4023130223-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|13 février 2023|
+ |[40221302/23 - Vulnérabilité dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4022130223-vulnerabilite-dans-postgresql.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|13 février 2023|
  |[40210902/23 - Vulnérabilité dans le CMS TYPO3](https://www.dgssi.gov.ma//fr/content/4021090223-vulnerabilite-dans-le-cms-typo3.html)|Une vulnérabilité a été corrigée dans le CMS TYPO3. L’exploitation de cette faille permet à un attaquant d’injecter du code indirect à distance (XSS).|09 février 2023|
  |[40200802/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4020080223-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de OpenSSL.L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à...|08 février 2023|
  |[40190802/23 - Vulnérabilité dans phpMyAdmin](https://www.dgssi.gov.ma//fr/content/4019080223-vulnerabilite-dans-phpmyadmin.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de phpMyAdmin. L’exploitation de cette faille peut permettre à un attaquant de déclencher une attaque XSS en envoyant un fichier ".sql" spécialement conçu.|08 février 2023|
@@ -120,6 +93,33 @@
  |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
  |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
  |[40130302/23 - Vulnérabilité affectant OpenSSH](https://www.dgssi.gov.ma//fr/content/4013030223-vulnerabilite-affectant-openssh.html)|OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaud’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter du code arbitraire.|06 février 2023|
- |[40100602/23 - Vulnérabilité dans VMware Workstation](https://www.dgssi.gov.ma//fr/content/4010060223-vulnerabilite-dans-vmware-workstation.html)|Une vulnérabilité a été corrigée dans VMware Workstation. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité de données et deréussir une élévation de privilèges.|06 février 2023|
- |[40090602/23 - Campagne de Ransomware cible les serveurs VMware ESXi non corrigés](https://www.dgssi.gov.ma//fr/content/4009060223-campagne-de-ransomware-cible-les-serveurs-vmware-esxi-non-corriges.html)|Une campagne d’attaque par ransomware exploite activement une vulnérabilité (CVE-2021-21974) dans les serveurs VMware ESXi non corrigés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant d'exécuter du...|06 février 2023|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NEC PC Settings Tool security bypass (CVE-2023-25011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
+ |[Zuken Elmic KASAGO security bypass (CVE-2022-43501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
+ |[Huawei E5573Cs-322 devices denial of service (CVE-2018-7935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
+ |[LSElectric XBC-DN32U denial of service (CVE-2023-0103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
+ |[LSElectric XBC-DN32U weak security (CVE-2023-0102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
+ |[LSElectric XBC-DN32U security bypass (CVE-2023-22807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
+ |[LSElectric XBC-DN32U information disclosure (CVE-2023-22806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-138/)|Visit link for details|2023-02-09|
+ |[Open Design Alliance (ODA) Drawing SDK DXF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-137/)|Visit link for details|2023-02-09|
+ |[Open Design Alliance (ODA) Drawing SDK DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-136/)|Visit link for details|2023-02-09|
+ |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-135/)|Visit link for details|2023-02-09|
+ |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-134/)|Visit link for details|2023-02-09|
+ |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-133/)|Visit link for details|2023-02-09|
+ |[Open Design Alliance (ODA) Drawing SDK DGN File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-132/)|Visit link for details|2023-02-09|
+ |[Open Design Alliance (ODA) Drawing SDK DGN File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-131/)|Visit link for details|2023-02-09|
  
