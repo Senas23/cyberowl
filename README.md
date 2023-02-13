@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/02/2023 09:24:10 UTC
+ > Last Updated 13/02/2023 21:21:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,24 +36,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/HarfBuzz-denial-of-service-via-hb-ot-layout-gsubgpos-hh-40505" class="noirorange"><b>HarfBuzz</b>: denial of service via <wbr>hb-ot-layout-gsubgpo<wbr>s.hh</wbr></wbr></a>](https://vigilance.fr/vulnerability/HarfBuzz-denial-of-service-via-hb-ot-layout-gsubgpos-hh-40505)|An attacker can cause a fatal error of HarfBuzz, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-denial-of-service-via-SQL-ODBC-Driver-40504" class="noirorange"><b>Qt</b>: denial of service via SQL ODBC Driver</a>](https://vigilance.fr/vulnerability/Qt-denial-of-service-via-SQL-ODBC-Driver-40504)|An attacker can cause a fatal error of Qt, via SQL ODBC Driver, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-cpb-cnt-minus1-40503" class="noirorange"><b>libde265</b>: buffer overflow via cpb_cnt_minus1()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-cpb-cnt-minus1-40503)|An attacker can trigger a buffer overflow of libde265, via cpb_cnt_minus1(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-Windows-code-execution-via-Cmd-exe-Search-Path-40502" class="noirorange"><b>Python Core Windows</b>: code execution via Cmd.exe Search Path</a>](https://vigilance.fr/vulnerability/Python-Core-Windows-code-execution-via-Cmd-exe-Search-Path-40502)|An attacker can use a vulnerability of Python Core Windows, via Cmd.exe Search Path, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-assertion-error-via-rate-init-40501" class="noirorange"><b>SoX</b>: assertion error via rate_init()</a>](https://vigilance.fr/vulnerability/SoX-assertion-error-via-rate-init-40501)|An attacker can force an assertion error of SoX, via rate_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-lsx-aiffstartwrite-40500" class="noirorange"><b>SoX</b>: denial of service via <wbr>lsx_aiffstartwrite()</wbr></a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-lsx-aiffstartwrite-40500)|An attacker can cause a fatal error of SoX, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-start-read-40499" class="noirorange"><b>SoX</b>: buffer overflow via start_read()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-start-read-40499)|An attacker can trigger a buffer overflow of SoX, via start_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-startread-40498" class="noirorange"><b>SoX</b>: denial of service via startread()</a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-startread-40498)|An attacker can cause a fatal error of SoX, via startread(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-40497" class="noirorange"><b>SoX</b>: denial of service via read_samples()</a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-40497)|An attacker can cause a fatal error of SoX, via read_samples(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-40496" class="noirorange"><b>SoX</b>: buffer overflow via startread()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-40496)|An attacker can trigger a buffer overflow of SoX, via startread(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-read-w-buf-40495" class="noirorange"><b>SoX</b>: buffer overflow via lsx_read_w_buf()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-read-w-buf-40495)|An attacker can trigger a buffer overflow of SoX, via lsx_read_w_buf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,10 +43,44 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IPython command execution (CVE-2023-24816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
+ |[NEC PC Settings Tool security bypass (CVE-2023-25011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
+ |[Zuken Elmic KASAGO security bypass (CVE-2022-43501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
+ |[Huawei E5573Cs-322 devices denial of service (CVE-2018-7935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
+ |[Dell Alienware Command Center privilege escalation (CVE-2023-24569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
+ |[LSElectric XBC-DN32U denial of service (CVE-2023-0103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
+ |[LSElectric XBC-DN32U weak security (CVE-2023-0102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-of-February-2023-40519" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-of-February-2023-40519)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-code-execution-via-FileUtil-unTar-40518" class="noirorange"><b>Apache Hadoop</b>: code execution via FileUtil.unTar()</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-code-execution-via-FileUtil-unTar-40518)|An attacker can use a vulnerability of Apache Hadoop, via FileUtil.unTar(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Domain-Security-Profile-40517" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Domain Security Profile</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Domain-Security-Profile-40517)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Domain Security Profile, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted16bits-40516" class="noirorange"><b>LibTIFF</b>: memory corruption via <wbr>extractContigSamples<wbr>Shifted16bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted16bits-40516)|An attacker can trigger a memory corruption of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-rotateImage-40515" class="noirorange"><b>LibTIFF</b>: memory corruption via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-rotateImage-40515)|An attacker can trigger a memory corruption of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted24bits-40514" class="noirorange"><b>LibTIFF</b>: memory corruption via <wbr>extractContigSamples<wbr>Shifted24bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted24bits-40514)|An attacker can trigger a memory corruption of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-40513" class="noirorange"><b>LibTIFF</b>: buffer overflow via _TIFFmemcpy()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-40513)|An attacker can trigger a buffer overflow of LibTIFF, via _TIFFmemcpy(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted16bits-40512" class="noirorange"><b>LibTIFF</b>: buffer overflow via <wbr>extractContigSamples<wbr>Shifted16bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted16bits-40512)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511" class="noirorange"><b>LibTIFF</b>: reuse after free via <wbr>extractContigSamples<wbr>Shifted32bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511)|An attacker can force the reuse of a freed memory area of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-extractContigSamplesShifted8bits-40510" class="noirorange"><b>LibTIFF</b>: out-of-bounds memory reading via <wbr>extractContigSamples<wbr>Shifted8bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-extractContigSamplesShifted8bits-40510)|An attacker can force a read at an invalid memory address of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted24bits-40509" class="noirorange"><b>LibTIFF</b>: buffer overflow via <wbr>extractContigSamples<wbr>Shifted24bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted24bits-40509)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0116/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 13 février 2023|
+ |[Vulnérabilité dans WALLIX Access Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0115/)|Une vulnérabilité a été découverte dans WALLIX Access Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 février 2023|
  |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
@@ -73,8 +89,6 @@
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0109/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 9 février 2023|
  |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0108/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
  |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0107/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
- |[Multiples vulnérabilités dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0106/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
- |[Multiples vulnérabilités dans les produits PaloAlto](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0105/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
  
  ---
 
@@ -93,20 +107,6 @@
  |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
  |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
  |[40130302/23 - Vulnérabilité affectant OpenSSH](https://www.dgssi.gov.ma//fr/content/4013030223-vulnerabilite-affectant-openssh.html)|OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaud’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter du code arbitraire.|06 février 2023|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[NEC PC Settings Tool security bypass (CVE-2023-25011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[Zuken Elmic KASAGO security bypass (CVE-2022-43501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[Huawei E5573Cs-322 devices denial of service (CVE-2018-7935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[LSElectric XBC-DN32U denial of service (CVE-2023-0103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U weak security (CVE-2023-0102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U security bypass (CVE-2023-22807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U information disclosure (CVE-2023-22806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
  
  ---
 
