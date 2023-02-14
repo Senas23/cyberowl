@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/02/2023 21:21:15 UTC
+ > Last Updated 14/02/2023 09:23:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,24 +36,20 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[IPython command execution (CVE-2023-24816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[NEC PC Settings Tool security bypass (CVE-2023-25011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[Zuken Elmic KASAGO security bypass (CVE-2022-43501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[Huawei E5573Cs-322 devices denial of service (CVE-2018-7935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[Dell Alienware Command Center privilege escalation (CVE-2023-24569)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U denial of service (CVE-2023-0103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U weak security (CVE-2023-0102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0116/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 13 février 2023|
+ |[Vulnérabilité dans WALLIX Access Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0115/)|Une vulnérabilité a été découverte dans WALLIX Access Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 février 2023|
+ |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0111/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0110/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0109/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 9 février 2023|
+ |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0108/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
+ |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0107/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
  
  ---
 
@@ -75,27 +71,11 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0116/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 13 février 2023|
- |[Vulnérabilité dans WALLIX Access Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0115/)|Une vulnérabilité a été découverte dans WALLIX Access Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 février 2023|
- |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0111/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0110/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0109/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 9 février 2023|
- |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0108/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
- |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0107/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[40221402/23 - « Zero-Day » affectant iOS, iPadOS et macOS](https://www.dgssi.gov.ma//fr/content/4022140223-zero-day-affectant-ios-ipados-et-macos.html)|Apple annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. Selon Apple une de cette vulnérabilité identifiée par « CVE-2023-23529» est un « Zero-day » et peut permettre à un attaquant d’exécuter du code...|14 février 2023|
  |[40231302/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4023130223-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|13 février 2023|
  |[40221302/23 - Vulnérabilité dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4022130223-vulnerabilite-dans-postgresql.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|13 février 2023|
  |[40210902/23 - Vulnérabilité dans le CMS TYPO3](https://www.dgssi.gov.ma//fr/content/4021090223-vulnerabilite-dans-le-cms-typo3.html)|Une vulnérabilité a été corrigée dans le CMS TYPO3. L’exploitation de cette faille permet à un attaquant d’injecter du code indirect à distance (XSS).|09 février 2023|
@@ -106,20 +86,11 @@
  |[40160802/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4016080223-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|08 février 2023|
  |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
  |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
- |[40130302/23 - Vulnérabilité affectant OpenSSH](https://www.dgssi.gov.ma//fr/content/4013030223-vulnerabilite-affectant-openssh.html)|OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaud’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter du code arbitraire.|06 février 2023|
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-138/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DXF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-137/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DXF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-136/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-135/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-134/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DWG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-133/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DGN File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-132/)|Visit link for details|2023-02-09|
- |[Open Design Alliance (ODA) Drawing SDK DGN File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-131/)|Visit link for details|2023-02-09|
  
