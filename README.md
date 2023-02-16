@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/02/2023 21:20:21 UTC
+ > Last Updated 16/02/2023 09:22:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-alloc-c-40583" class="noirorange"><b>Linux kernel</b>: reuse after free via binder_alloc.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-alloc-c-40583)|An attacker can force the reuse of a freed memory area of the Linux kernel, via binder_alloc.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/efs-utils-file-read-write-via-Mount-Helper-40582" class="noirorange"><b>efs-utils</b>: file read/write via Mount Helper</a>](https://vigilance.fr/vulnerability/efs-utils-file-read-write-via-Mount-Helper-40582)|An attacker can bypass access restrictions of efs-utils, via Mount Helper, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-ingress-filtrering-bypass-via-Anti-brute-Force-40581" class="noirorange"><b>pfSense</b>: ingress filtrering bypass via Anti-brute Force</a>](https://vigilance.fr/vulnerability/pfSense-ingress-filtrering-bypass-via-Anti-brute-Force-40581)|An attacker can bypass filtering rules of pfSense, via Anti-brute Force, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-40580" class="noirorange"><b>pfSense</b>: code execution via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-40580)|An attacker can use a vulnerability of pfSense, via WebGUI, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-file-creation-via-WebGUI-40579" class="noirorange"><b>pfSense</b>: file creation via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-file-creation-via-WebGUI-40579)|An attacker can bypass access restrictions of pfSense, via WebGUI, in order to create a file...|Visit link for details|
@@ -66,15 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/ClamAV-information-disclosure-via-DMG-File-Parser-40575" class="noirorange"><b>ClamAV</b>: information disclosure via DMG File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-information-disclosure-via-DMG-File-Parser-40575)|An attacker can bypass access restrictions to data of ClamAV, via DMG File Parser, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574" class="noirorange"><b>ClamAV</b>: code execution via HFS+ File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574)|An attacker can use a vulnerability of ClamAV, via HFS+ File Parser, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-ESA-Secure-Email-and-Web-Manager-two-vulnerabilities-40573" class="noirorange"><b>Cisco ESA  Secure Email and Web Manager</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-ESA-Secure-Email-and-Web-Manager-two-vulnerabilities-40573)|An attacker can use several vulnerabilities of Cisco ESA  Secure Email and Web Manager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-Cross-Site-Scripting-via-Web-based-Management-Interface-40572" class="noirorange"><b>Cisco Nexus Dashboard</b>: Cross Site Scripting via Web-based Management Interface</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-Cross-Site-Scripting-via-Web-based-Management-Interface-40572)|An attacker can trigger a Cross Site Scripting of Cisco Nexus Dashboard, via Web-based Management Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-denial-of-service-via-DNS-Requests-40571" class="noirorange"><b>Cisco Nexus Dashboard</b>: denial of service via DNS Requests</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-denial-of-service-via-DNS-Requests-40571)|An attacker can cause a fatal error of Cisco Nexus Dashboard, via DNS Requests, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -93,4 +86,11 @@
  |[40271502/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4027150223-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. Selon Microsoft, une de ces vulnérabilités identifiée par «CVE-2023-21715» est un « Zero-day » et...|15 février 2023|
  |[40231502/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4023150223-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, de...|15 février 2023|
  |[40221402/23 - « Zero-Day » affectant iOS, iPadOS et macOS](https://www.dgssi.gov.ma//fr/content/4022140223-zero-day-affectant-ios-ipados-et-macos.html)|Apple annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. Selon Apple une de ces vulnérabilités identifiée par « CVE-2023-23529» est un « Zero-day » et peut permettre à un attaquant d’exécuter du code...|14 février 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
