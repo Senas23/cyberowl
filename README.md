@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/02/2023 09:24:04 UTC
+ > Last Updated 20/02/2023 21:18:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Excessive-Parts-40604" class="noirorange"><b>Apache Commons FileUpload</b>: overload via Excessive Parts</a>](https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Excessive-Parts-40604)|An attacker can trigger an overload of Apache Commons FileUpload, via Excessive Parts, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Geotools-SQL-injection-40603" class="noirorange"><b>Geotools</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Geotools-SQL-injection-40603)|An attacker can use a SQL injection of Geotools, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602" class="noirorange"><b>Linux kernel</b>: memory reading via io_uring timens_install</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602)|An attacker can read a memory fragment of the Linux kernel, via io_uring timens_install, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600" class="noirorange"><b>gssntlmssp</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600)|An attacker can use several vulnerabilities of gssntlmssp...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599" class="noirorange"><b>c-ares</b>: buffer overflow via config_sortlist()</a>](https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599)|An attacker can trigger a buffer overflow of c-ares, via config_sortlist(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -66,8 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-directory-traversal-40594" class="noirorange"><b>FortiOS  FortiProxy</b>: directory traversal</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-directory-traversal-40594)|An attacker can traverse directories of FortiOS  FortiProxy, in order to read or write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-header-injection-via-Login-Page-40593" class="noirorange"><b>FortiOS  FortiProxy</b>: header injection via Login Page</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-header-injection-via-Login-Page-40593)|An attacker can add new headers on FortiOS  FortiProxy, via Login Page, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-privilege-escalation-via-Own-Profile-40592" class="noirorange"><b>FortiOS  FortiProxy</b>: privilege escalation via Own Profile</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-privilege-escalation-via-Own-Profile-40592)|An attacker can bypass restrictions of FortiOS  FortiProxy, via Own Profile, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-Man-in-the-Middle-via-Threat-Feed-40591" class="noirorange"><b>FortiOS  FortiProxy</b>: Man-in-the-Middle via Threat Feed</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-Man-in-the-Middle-via-Threat-Feed-40591)|An attacker can act as a Man-in-the-Middle on FortiOS  FortiProxy, via Threat Feed, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-FortiCloud-Sign-in-Login-Page-40590" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via FortiCloud Sign-in Login Page</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-FortiCloud-Sign-in-Login-Page-40590)|An attacker can trigger a Cross Site Scripting of FortiOS, via FortiCloud Sign-in Login Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
@@ -75,6 +75,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
+ |[40432002/23 - Vulnérabilité dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4043200223-vulnerabilite-dans-l-hyperviseur-xen.html)|Une vulnérabilité a été corrigée dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité de données.|20 février 2023|
  |[40422002/23 - Vulnérabilités critiques dans les produits Fortinet](https://www.dgssi.gov.ma//fr/content/4042200223-vulnerabilites-critiques-dans-les-produits-fortinet.html)|Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une...|20 février 2023|
  |[30402002/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3040200223-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|20 février 2023|
  |[40391702/23 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/4039170223-vulnerabilites-dans-php.html)|Plusieurs vulnérabilités ont été corrigées dans PHP. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner la politique de sécurité et de provoquer un déni de service à distance.|17 février 2023|
@@ -84,8 +86,6 @@
  |[40351602/23 - Vulnérabilités critiques dans les produits Splunk](https://www.dgssi.gov.ma//fr/content/4035160223-vulnerabilites-critiques-dans-les-produits-splunk.html)|Splunk a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, de contourner la...|16 février 2023|
  |[40341602/23 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma//fr/content/4034160223-vulnerabilites-dans-les-produits-intel.html)|Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données...|16 février 2023|
  |[40331602/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4033160223-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|16 février 2023|
- |[40321502/23 - Fin de support pour Microsoft Exchange Server 2013](https://www.dgssi.gov.ma//fr/content/4032150223-fin-de-support-pour-microsoft-exchange-server-2013.html)|Microsoftannonce la fin du support destiné à Microsoft Exchange Server 2013, et ce à partir du 11 Avril 2023.|15 février 2023|
- |[40261502/23 - « Zero-Day » affectant le navigateur Apple Safari](https://www.dgssi.gov.ma//fr/content/4026150223-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|15 février 2023|
  
  ---
 
