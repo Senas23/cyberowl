@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/02/2023 21:21:28 UTC
+ > Last Updated 27/02/2023 09:23:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wscons-40649" class="noirorange"><b>OpenBSD</b>: denial of service via wscons</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wscons-40649)|An attacker can cause a fatal error of OpenBSD, via wscons, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Epiphany-information-disclosure-via-Autofill-40648" class="noirorange"><b>Epiphany</b>: information disclosure via Autofill</a>](https://vigilance.fr/vulnerability/Epiphany-information-disclosure-via-Autofill-40648)|An attacker can bypass access restrictions to data of Epiphany, via Autofill, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mono-code-execution-via-Application-x-ms-dos-executable-Un-sandboxed-Mono-CLR-Interpreter-40647" class="noirorange"><b>mono</b>: code execution via <wbr>Application/x-ms-dos<wbr>-executable Un-sandboxed Mono CLR Interpreter</wbr></wbr></a>](https://vigilance.fr/vulnerability/mono-code-execution-via-Application-x-ms-dos-executable-Un-sandboxed-Mono-CLR-Interpreter-40647)|An attacker can use a vulnerability of mono, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646" class="noirorange"><b>LibRaw</b>: buffer overflow via <wbr>LibRaw_buffer_datast<wbr>ream::gets()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646)|An attacker can trigger a buffer overflow of LibRaw, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GnuPG-overload-via-Compressed-Packets-40644" class="noirorange"><b>GnuPG</b>: overload via Compressed Packets</a>](https://vigilance.fr/vulnerability/GnuPG-overload-via-Compressed-Packets-40644)|An attacker can trigger an overload of GnuPG, via Compressed Packets, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643" class="noirorange"><b>Emacs</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643)|An attacker can use several vulnerabilities of Emacs...|Visit link for details|
@@ -59,16 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640" class="noirorange"><b>Linux kernel</b>: reuse after free via l2cap_chan_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640)|An attacker can force the reuse of a freed memory area of the Linux kernel, via l2cap_chan_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639" class="noirorange"><b>DCMTK</b>: memory leak via T_ASC_Association</a>](https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639)|An attacker can create a memory leak of DCMTK, via T_ASC_Association, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638" class="noirorange"><b>DCMTK</b>: NULL pointer dereference via DICOM Files</a>](https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638)|An attacker can force a NULL pointer to be dereferenced on DCMTK, via DICOM Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637" class="noirorange"><b>DCMTK</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637)|An attacker can use several vulnerabilities of DCMTK...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636" class="noirorange"><b>Linux kernel</b>: reuse after free via vcc_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcc_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635" class="noirorange"><b>MariaDB</b>: memory leak via <wbr>mysql_stmt_execute()</wbr></a>](https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635)|An attacker can create a memory leak of MariaDB, via |Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -87,4 +80,11 @@
  |[40442202 /22 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/40442202-22-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de provoquer un déni de service à distance.|22 février 2023|
  |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
  |[40432002/23 - Vulnérabilité dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4043200223-vulnerabilite-dans-l-hyperviseur-xen.html)|Une vulnérabilité a été corrigée dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité de données.|20 février 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
