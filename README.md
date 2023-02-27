@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/02/2023 09:23:21 UTC
+ > Last Updated 27/02/2023 21:20:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0172/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 février 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0171/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 février 2023|
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0170/)|De multiples vulnérabilités ont été corrigées dans les |Publié le 24 février 2023|
  |[Multiples vulnérabilités dans Stormshield Management Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0169/)|De multiples vulnérabilités ont été corrigées dans Stormshield Management Center. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 février 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0168/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
@@ -42,8 +44,6 @@
  |[Vulnérabilité dans StormShield SSLVPN](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0165/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
  |[Multiples vulnérabilités dans Broadcom Symantec Content Analysis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0164/)|De multiples vulnérabilités ont été corrigées dans Symantec Content Analysis. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 23 février 2023|
  |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0162/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
- |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0161/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
  
  ---
 
@@ -51,17 +51,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Werkzeug-overload-via-Multipart-Form-Data-40659" class="noirorange"><b>Werkzeug</b>: overload via Multipart Form Data</a>](https://vigilance.fr/vulnerability/Werkzeug-overload-via-Multipart-Form-Data-40659)|An attacker can trigger an overload of Werkzeug, via Multipart Form Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Werkzeug-privilege-escalation-via-Cookie-Key-40658" class="noirorange"><b>Werkzeug</b>: privilege escalation via Cookie Key</a>](https://vigilance.fr/vulnerability/Werkzeug-privilege-escalation-via-Cookie-Key-40658)|An attacker can bypass restrictions of Werkzeug, via Cookie Key, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-Impersonation-40657" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via Impersonation</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-Impersonation-40657)|An attacker can trigger a Cross Site Scripting of Keycloak, via Impersonation, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-code-execution-40656" class="noirorange"><b>SPIP</b>: code execution</a>](https://vigilance.fr/vulnerability/SPIP-code-execution-40656)|An attacker can use a vulnerability of SPIP, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ZoneMinder-code-execution-via-Invalid-Language-Debug-Log-File-40655" class="noirorange"><b>ZoneMinder</b>: code execution via Invalid Language Debug Log File</a>](https://vigilance.fr/vulnerability/ZoneMinder-code-execution-via-Invalid-Language-Debug-Log-File-40655)|An attacker can use a vulnerability of ZoneMinder, via Invalid Language Debug Log File, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ZoneMinder-height-vulnerabilities-40654" class="noirorange"><b>ZoneMinder</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/ZoneMinder-height-vulnerabilities-40654)|An attacker can use several vulnerabilities of ZoneMinder...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ZoneMinder-three-vulnerabilities-40653" class="noirorange"><b>ZoneMinder</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ZoneMinder-three-vulnerabilities-40653)|An attacker can use several vulnerabilities of ZoneMinder...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ZoneMinder-Cross-Site-Scripting-via-plugin-php-40652" class="noirorange"><b>ZoneMinder</b>: Cross Site Scripting via plugin.php</a>](https://vigilance.fr/vulnerability/ZoneMinder-Cross-Site-Scripting-via-plugin-php-40652)|An attacker can trigger a Cross Site Scripting of ZoneMinder, via plugin.php, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-mpls-dev-sysctl-register-40651" class="noirorange"><b>Linux kernel</b>: double free via <wbr>mpls_dev_sysctl_regi<wbr>ster()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-mpls-dev-sysctl-register-40651)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wscons-40649" class="noirorange"><b>OpenBSD</b>: denial of service via wscons</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wscons-40649)|An attacker can cause a fatal error of OpenBSD, via wscons, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Epiphany-information-disclosure-via-Autofill-40648" class="noirorange"><b>Epiphany</b>: information disclosure via Autofill</a>](https://vigilance.fr/vulnerability/Epiphany-information-disclosure-via-Autofill-40648)|An attacker can bypass access restrictions to data of Epiphany, via Autofill, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mono-code-execution-via-Application-x-ms-dos-executable-Un-sandboxed-Mono-CLR-Interpreter-40647" class="noirorange"><b>mono</b>: code execution via <wbr>Application/x-ms-dos<wbr>-executable Un-sandboxed Mono CLR Interpreter</wbr></wbr></a>](https://vigilance.fr/vulnerability/mono-code-execution-via-Application-x-ms-dos-executable-Un-sandboxed-Mono-CLR-Interpreter-40647)|An attacker can use a vulnerability of mono, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646" class="noirorange"><b>LibRaw</b>: buffer overflow via <wbr>LibRaw_buffer_datast<wbr>ream::gets()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646)|An attacker can trigger a buffer overflow of LibRaw, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuPG-overload-via-Compressed-Packets-40644" class="noirorange"><b>GnuPG</b>: overload via Compressed Packets</a>](https://vigilance.fr/vulnerability/GnuPG-overload-via-Compressed-Packets-40644)|An attacker can trigger an overload of GnuPG, via Compressed Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643" class="noirorange"><b>Emacs</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643)|An attacker can use several vulnerabilities of Emacs...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-No-Default-Certificate-check-40642" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via No Default Certificate_check</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-No-Default-Certificate-check-40642)|An attacker can act as a Man-in-the-Middle on libgit2, via No Default Certificate_check, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641" class="noirorange"><b>RubyGem ActiveRecord</b>: overload via PostgreSQL Adapter 64bit Integer</a>](https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641)|An attacker can trigger an overload of RubyGem ActiveRecord, via PostgreSQL Adapter 64bit Integer, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640" class="noirorange"><b>Linux kernel</b>: reuse after free via l2cap_chan_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640)|An attacker can force the reuse of a freed memory area of the Linux kernel, via l2cap_chan_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639" class="noirorange"><b>DCMTK</b>: memory leak via T_ASC_Association</a>](https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639)|An attacker can create a memory leak of DCMTK, via T_ASC_Association, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638" class="noirorange"><b>DCMTK</b>: NULL pointer dereference via DICOM Files</a>](https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638)|An attacker can force a NULL pointer to be dereferenced on DCMTK, via DICOM Files, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
