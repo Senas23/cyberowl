@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/02/2023 21:20:09 UTC
+ > Last Updated 01/03/2023 09:25:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-40676" class="noirorange"><b>Grafana</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-40676)|An attacker can use several vulnerabilities of Grafana...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dwc3-qcom-probe-40675" class="noirorange"><b>Linux kernel</b>: denial of service via dwc3_qcom_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dwc3-qcom-probe-40675)|An attacker can cause a fatal error of the Linux kernel, via dwc3_qcom_probe(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-virtio-gpu-object-shmem-init-40674" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>virtio_gpu_object_sh<wbr>mem_init()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-virtio-gpu-object-shmem-init-40674)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-module-decompress-c-40673" class="noirorange"><b>Linux kernel</b>: denial of service via module/decompress.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-module-decompress-c-40673)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-qmp-get-40672" class="noirorange"><b>Linux kernel</b>: memory leak via qmp_get()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-qmp-get-40672)|An attacker can create a memory leak of the Linux kernel, via qmp_get(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-dwc3-qcom-acpi-register-core-40671" class="noirorange"><b>Linux kernel</b>: memory leak via <wbr>dwc3_qcom_acpi_regis<wbr>ter_core()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-dwc3-qcom-acpi-register-core-40671)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-40670" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-40670)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redis-integer-overflow-via-SRANDMEMBER-ZRANDMEMBER-HRANDFIELD-40669" class="noirorange"><b>Redis</b>: integer overflow via SRANDMEMBER / ZRANDMEMBER / HRANDFIELD</a>](https://vigilance.fr/vulnerability/Redis-integer-overflow-via-SRANDMEMBER-ZRANDMEMBER-HRANDFIELD-40669)|An attacker can trigger an integer overflow of Redis, via SRANDMEMBER / ZRANDMEMBER / HRANDFIELD, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redis-overload-via-String-Pattern-Matching-40668" class="noirorange"><b>Redis</b>: overload via String Pattern Matching</a>](https://vigilance.fr/vulnerability/Redis-overload-via-String-Pattern-Matching-40668)|An attacker can trigger an overload of Redis, via String Pattern Matching, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-denial-of-service-via-PCF-MQSC-Messages-40666" class="noirorange"><b>IBM MQ Appliance</b>: denial of service via PCF/MQSC Messages</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-denial-of-service-via-PCF-MQSC-Messages-40666)|An attacker can cause a fatal error of IBM MQ Appliance, via PCF/MQSC Messages, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-lhz-40665" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via lhz</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-lhz-40665)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via lhz, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aepack-40664" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aepack</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aepack-40664)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aepack, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-double-free-via-Per-command-Chroot-Sudoers-Rules-40663" class="noirorange"><b>Sudo</b>: double free via Per-command Chroot Sudoers Rules</a>](https://vigilance.fr/vulnerability/Sudo-double-free-via-Per-command-Chroot-Sudoers-Rules-40663)|An attacker can force a double memory free of Sudo, via Per-command Chroot Sudoers Rules, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-urllib-ingress-filtrering-bypass-via-parse-40661" class="noirorange"><b>Python urllib</b>: ingress filtrering bypass via parse()</a>](https://vigilance.fr/vulnerability/Python-urllib-ingress-filtrering-bypass-via-parse-40661)|An attacker can bypass filtering rules of Python urllib, via parse(), in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Lua-reuse-after-free-via-Garbage-Collector-40660" class="noirorange"><b>Lua</b>: reuse after free via Garbage Collector</a>](https://vigilance.fr/vulnerability/Lua-reuse-after-free-via-Garbage-Collector-40660)|An attacker can force the reuse of a freed memory area of Lua, via Garbage Collector, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Werkzeug-overload-via-Multipart-Form-Data-40659" class="noirorange"><b>Werkzeug</b>: overload via Multipart Form Data</a>](https://vigilance.fr/vulnerability/Werkzeug-overload-via-Multipart-Form-Data-40659)|An attacker can trigger an overload of Werkzeug, via Multipart Form Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Werkzeug-privilege-escalation-via-Cookie-Key-40658" class="noirorange"><b>Werkzeug</b>: privilege escalation via Cookie Key</a>](https://vigilance.fr/vulnerability/Werkzeug-privilege-escalation-via-Cookie-Key-40658)|An attacker can bypass restrictions of Werkzeug, via Cookie Key, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -69,6 +76,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[40540103 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/40540103-23-vulnerabilites-dans-les-produits-ibm.html)|Deux vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une élévation des privilèges et de réaliser des attaques de type injection de code...|01 mars 2023|
  |[40532802 /23 - Vulnérabilité dans IBM QRadar](https://www.dgssi.gov.ma//fr/content/40532802-23-vulnerabilite-dans-ibm-qradar.html)|IBM annonce la correction d’une vulnérabilité dans IBM QRadar.L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|28 février 2023|
  |[40512502/23 - Vulnérabilité affectant la solution de gestion de bases de données MongoDB](https://www.dgssi.gov.ma//fr/content/4051250223-vulnerabilite-affectant-la-solution-de-gestion-de-bases-de-donnees-mongodb.html)|MongoDBannonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son produit susmentionné. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.|24 février 2023|
  |[40522402 /23 - Vulnérabilité dans StormShield SSLVPN](https://www.dgssi.gov.ma//fr/content/40522402-23-vulnerabilite-dans-stormshield-sslvpn.html)|Une vulnérabilité a été corrigée dans StormShield SSLVPN. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|24 février 2023|
@@ -79,12 +87,4 @@
  |[40462302 /23 - Exploitation active de la faille critique « CVE-2022-39952 » affectant les serveurs W](https://www.dgssi.gov.ma//fr/content/40462302-23-exploitation-active-de-la-faille-critique-cve-2022-39952-affectant-les-serveurs-web-fortinac-de-fortinet.html)|Des attaquants tentent d'exploiter une faille critique « CVE-2022-39952 » dans les serveurs Web FortiNAC de Fortinet exposés à Internet, un jour après que des chercheurs en sécurité ont publié un code d'exploitation "Preuve...|23 février 2023|
  |[40452202 /23 - Vulnérabilité critique dans VMware Carbon Black App Control](https://www.dgssi.gov.ma//fr/content/40452202-23-vulnerabilite-critique-dans-vmware-carbon-black-app-control.html)|Une vulnérabilité critique a été corrigée dans VMware Carbon Black App Control. L’exploitation de cette faille peut permettre à un attaquant distant d’exécuter du code arbitraire.|22 février 2023|
  |[40442202 /22 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/40442202-22-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de provoquer un déni de service à distance.|22 février 2023|
- |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
