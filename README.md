@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/03/2023 09:23:04 UTC
+ > Last Updated 09/03/2023 21:22:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0207/)|Une vulnérabilité a été découverte dans Cisco IOS XR. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 9 mars 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0206/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 mars 2023|
+ |[Multiples vulnérabilités dans IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0205/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 mars 2023|
  |[[SCADA] Vulnérabilité dans Moxa MXsecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0204/)|Une vulnérabilité a été découverte dans |Publié le 8 mars 2023|
  |[Vulnérabilité dans Veeam Backup](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0203/)|Une vulnérabilités a été découverte dans |Publié le 8 mars 2023|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0202/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2023|
@@ -41,9 +44,6 @@
  |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0200/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2023|
  |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0199/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0198/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 6 mars 2023|
- |[Multiples vulnérabilités dans VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0197/)|De multiples vulnérabilités ont été découvertes dans VMware |Publié le 6 mars 2023|
- |[Multiples vulnérabilités dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0196/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 mars 2023|
- |[Multiples vulnérabilités dans les produits RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0195/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 mars 2023|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747" class="noirorange"><b>HDFGroup</b>: buffer overflow via <wbr>h5tools_str_sprint()</wbr></a>](https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747)|An attacker can trigger a buffer overflow of HDFGroup, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746" class="noirorange"><b>ImageMagick</b>: denial of service via Looping SVG File</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746)|An attacker can cause a fatal error of ImageMagick, via Looping SVG File, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742" class="noirorange"><b>Drupal Gutenberg</b>: denial of service via Reusable Blocks</a>](https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742)|An attacker can cause a fatal error of Drupal Gutenberg, via Reusable Blocks, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741" class="noirorange"><b>IBM MQ</b>: denial of service via CCDT Channel Synchronization Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741)|An attacker can cause a fatal error of IBM MQ, via CCDT Channel Synchronization Logic, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740" class="noirorange"><b>Cisco IOS XR for ASR 9000</b>: denial of service via BFD</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740)|An attacker can cause a fatal error of Cisco IOS XR for ASR 9000, via BFD, in order to trigger a denial of service...|Visit link for details|
@@ -60,8 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40736" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40736)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735" class="noirorange"><b>FortiOS</b>: memory corruption via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735)|An attacker can trigger a memory corruption of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-code-execution-via-Macro-Names-Spreadsheet-Formulas-40734" class="noirorange"><b>FortiAnalyzer</b>: code execution via Macro Names Spreadsheet Formulas</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-code-execution-via-Macro-Names-Spreadsheet-Formulas-40734)|An attacker can use a vulnerability of FortiAnalyzer, via Macro Names Spreadsheet Formulas, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Log-fetch-Client-Request-Password-40733" class="noirorange"><b>FortiAnalyzer</b>: information disclosure via Log-fetch Client Request Password</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Log-fetch-Client-Request-Password-40733)|An attacker can bypass access restrictions to data of FortiAnalyzer, via Log-fetch Client Request Password, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSLVPNd-40732" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSLVPNd</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSLVPNd-40732)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSLVPNd, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -76,6 +76,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[40770903/23 - Exploitation d’une faille affectant « Zoho ManageEngine ADSelfService »](https://www.dgssi.gov.ma//fr/content/4077090323-exploitation-d-une-faille-affectant-zoho-manageengine-adselfservice.html)|Une exploitation massive a été observée exploitant la vulnérabilité critique « CVE-2022-28810 », affectant « Zoho ManageEngine ADSelfService ».Un code d’exploitation est publiquement disponible permet à un attaquant d’exécuter du code à...|09 mars 2023|
+ |[40760903/23 - Vulnérabilités dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4076090323-vulnerabilites-dans-apache-tomcat.html)|Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter atteinte à la confidentialité des...|09 mars 2023|
+ |[40750903/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4075090323-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|09 mars 2023|
  |[40740903/23 - Vulnérabilités affectant Cisco IOS XR Software ](https://www.dgssi.gov.ma//fr/content/4074090323-vulnerabilites-affectant-cisco-ios-xr-software.html)|Cisco annonce la correction de deux vulnérabilités affectant Cisco IOS XR Software.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des informations confidentielles ou de causer un déni de...|09 mars 2023|
  |[40720903/23 - Vulnérabilité dans Veeam Backup](https://www.dgssi.gov.ma//fr/content/4072090323-vulnerabilite-dans-veeam-backup.html)|Veeam annonce la correction d’une vulnérabilité affectant les solutions de backup « Veeam Backup » susmentionnées.L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|09 mars 2023|
  |[40730903/23 - Vulnérabilités dans les produits Fortinet](https://www.dgssi.gov.ma//fr/content/4073090323-vulnerabilites-dans-les-produits-fortinet.html)|Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une...|09 mars 2023|
@@ -84,7 +87,4 @@
  |[40680703/23 - Vulnérabilités critiques affectant le thème « Houzez » pour Wordpress](https://www.dgssi.gov.ma//fr/content/4068070323-vulnerabilites-critiques-affectant-le-theme-houzez-pour-wordpress.html)|Deux vulnérabilités critiques ont été corrigées au niveau de Wordpress« Houzez ». Ces deux vulnérabilités sont activement exploitées et peuvent permettre à un attaquant d’élever sesprivilèges.|07 mars 2023|
  |[40690703/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4069070323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service à distance.|07 mars 2023|
  |[40650703/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4065070323-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des données...|07 mars 2023|
- |[40610603/23 -SkullLocker Ransomware](https://www.dgssi.gov.ma//fr/content/4061060323-skulllocker-ransomware.html)|Une compagne d’attaque ciblant les systèmes basés sur les systèmes d’exploitation Windows a été observé menée par le ransomware « SkullLocker ».SkullLocker est une nouvelle variante de la famille des ransomwares Chaos. Le ransomware se...|06 mars 2023|
- |[40630303/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4063030323-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde deux vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|03 mars 2023|
- |[40620303/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4062030323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une page ou...|03 mars 2023|
  
