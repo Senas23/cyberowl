@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/03/2023 21:18:51 UTC
+ > Last Updated 13/03/2023 09:22:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-SQL-injection-via-ActiveRecord-Comments-40756" class="noirorange"><b>Rails</b>: SQL injection via ActiveRecord Comments</a>](https://vigilance.fr/vulnerability/Rails-SQL-injection-via-ActiveRecord-Comments-40756)|An attacker can use a SQL injection of Rails, via ActiveRecord Comments, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-X-Forwarded-Host-40755" class="noirorange"><b>Rails</b>: open redirect via Action Pack X-Forwarded-Host</a>](https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-X-Forwarded-Host-40755)|An attacker can deceive the user of Rails, via Action Pack X-Forwarded-Host, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-Host-Authorization-40754" class="noirorange"><b>Rails</b>: open redirect via Action Pack Host Authorization</a>](https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-Host-Authorization-40754)|An attacker can deceive the user of Rails, via Action Pack Host Authorization, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MPV-code-execution-via-ao-c-40753" class="noirorange"><b>MPV</b>: code execution via ao_c</a>](https://vigilance.fr/vulnerability/MPV-code-execution-via-ao-c-40753)|An attacker can use a vulnerability of MPV, via ao_c, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/strongSwan-user-access-via-TLS-based-EAP-Methods-40752" class="noirorange"><b>strongSwan</b>: user access via TLS-based EAP Methods</a>](https://vigilance.fr/vulnerability/strongSwan-user-access-via-TLS-based-EAP-Methods-40752)|An attacker can bypass restrictions of strongSwan, via TLS-based EAP Methods, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751" class="noirorange"><b>Apache Log4j 1</b>: denial of service via Chainsaw / SocketAppender</a>](https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751)|An attacker can cause a fatal error of Apache Log4j 1, via Chainsaw / SocketAppender, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-40750" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-40750)|An attacker can trigger an overload of WithSecure Endpoint Protection, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-J-BusinessDirectory-vulnerability-40749" class="noirorange"><b>Joomla J-BusinessDirectory</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-J-BusinessDirectory-vulnerability-40749)|A vulnerability of Joomla J-BusinessDirectory was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Undertow-overload-via-SslConduit-Close-40748" class="noirorange"><b>Undertow</b>: overload via SslConduit Close</a>](https://vigilance.fr/vulnerability/Undertow-overload-via-SslConduit-Close-40748)|An attacker can trigger an overload of Undertow, via SslConduit Close, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747" class="noirorange"><b>HDFGroup</b>: buffer overflow via <wbr>h5tools_str_sprint()</wbr></a>](https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747)|An attacker can trigger a buffer overflow of HDFGroup, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746" class="noirorange"><b>ImageMagick</b>: denial of service via Looping SVG File</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746)|An attacker can cause a fatal error of ImageMagick, via Looping SVG File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742" class="noirorange"><b>Drupal Gutenberg</b>: denial of service via Reusable Blocks</a>](https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742)|An attacker can cause a fatal error of Drupal Gutenberg, via Reusable Blocks, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741" class="noirorange"><b>IBM MQ</b>: denial of service via CCDT Channel Synchronization Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741)|An attacker can cause a fatal error of IBM MQ, via CCDT Channel Synchronization Logic, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740" class="noirorange"><b>Cisco IOS XR for ASR 9000</b>: denial of service via BFD</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740)|An attacker can cause a fatal error of Cisco IOS XR for ASR 9000, via BFD, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739" class="noirorange"><b>Cisco IOS XR</b>: file reading via GRUB</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739)|An attacker can read a file of Cisco IOS XR, via GRUB, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738" class="noirorange"><b>Jenkins Core LTS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738)|An attacker can use several vulnerabilities of Jenkins Core LTS...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[40680703/23 - Vulnérabilités critiques affectant le thème « Houzez » pour Wordpress](https://www.dgssi.gov.ma//fr/content/4068070323-vulnerabilites-critiques-affectant-le-theme-houzez-pour-wordpress.html)|Deux vulnérabilités critiques ont été corrigées au niveau de Wordpress« Houzez ». Ces deux vulnérabilités sont activement exploitées et peuvent permettre à un attaquant d’élever sesprivilèges.|07 mars 2023|
  |[40690703/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4069070323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service à distance.|07 mars 2023|
  |[40650703/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4065070323-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des données...|07 mars 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
