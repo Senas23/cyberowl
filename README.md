@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/03/2023 21:18:12 UTC
+ > Last Updated 19/03/2023 09:19:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -65,6 +65,13 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -80,11 +87,4 @@
  |[40831503/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft une de ces vulnérabilités identifiée par «CVE-2023-24880 » est activement exploitée. Microsoft...|15 mars 2023|
  |[40821503/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. Selon Microsoft, une de ces vulnérabilités identifiée par «CVE-2023-23397» affectant Microsoft...|15 mars 2023|
  |[40821503/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 mars 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
