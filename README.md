@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/03/2023 09:22:48 UTC
+ > Last Updated 20/03/2023 21:18:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0245/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 20 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0244/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0243/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
@@ -43,7 +44,6 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0238/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 16 mars 2023|
  |[Multiples vulnérabilités dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Drupal core. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 16 mars 2023|
  |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0236/)|De multiples vulnérabilités ont été découvertes dans Mozilla |Publié le 16 mars 2023|
- |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0235/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 mars 2023|
  
  ---
 
@@ -51,24 +51,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828" class="noirorange"><b>Redis</b>: assertion error via MSETNX Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828)|An attacker can force an assertion error of Redis, via MSETNX Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827" class="noirorange"><b>Spring Framework</b>: overload via SpEL expression</a>](https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827)|An attacker can trigger an overload of Spring Framework, via SpEL expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-mvcRequestMatcher-Double-Wildcard-40826" class="noirorange"><b>Spring Framework</b>: ingress filtrering bypass via mvcRequestMatcher Double Wildcard</a>](https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-mvcRequestMatcher-Double-Wildcard-40826)|An attacker can bypass filtering rules of Spring Framework, via mvcRequestMatcher Double Wildcard, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-ACL-Creation-40824" class="noirorange"><b>OTRS Help Desk</b>: code execution via ACL Creation</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-ACL-Creation-40824)|An attacker can use a vulnerability of OTRS Help Desk, via ACL Creation, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Ticket-Actions-40823" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via Ticket Actions</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Ticket-Actions-40823)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via Ticket Actions, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NTFS3-MFT-Flags-40822" class="noirorange"><b>Linux kernel</b>: reuse after free via NTFS3 MFT Flags</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NTFS3-MFT-Flags-40822)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NTFS3 MFT Flags, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-NTFS3-Attribute-Name-Offset-40821" class="noirorange"><b>Linux kernel</b>: denial of service via NTFS3 Attribute Name Offset</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-NTFS3-Attribute-Name-Offset-40821)|An attacker can cause a fatal error of the Linux kernel, via NTFS3 Attribute Name Offset, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NTFS3-Resident-Attribute-Names-40820" class="noirorange"><b>Linux kernel</b>: buffer overflow via NTFS3 Resident Attribute Names</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NTFS3-Resident-Attribute-Names-40820)|An attacker can trigger a buffer overflow of the Linux kernel, via NTFS3 Resident Attribute Names, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-code-execution-via-RRD-Restore-Process-40819" class="noirorange"><b>pfSense</b>: code execution via RRD Restore Process</a>](https://vigilance.fr/vulnerability/pfSense-code-execution-via-RRD-Restore-Process-40819)|An attacker can use a vulnerability of pfSense, via RRD Restore Process, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HAProxy-out-of-bounds-memory-reading-via-HTTP-3-QPACK-Decoder-40818" class="noirorange"><b>HAProxy</b>: out-of-bounds memory reading via HTTP/3 QPACK Decoder</a>](https://vigilance.fr/vulnerability/HAProxy-out-of-bounds-memory-reading-via-HTTP-3-QPACK-Decoder-40818)|An attacker can force a read at an invalid memory address of HAProxy, via HTTP/3 QPACK Decoder, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libcurl-file-read-write-via-SSH-Connection-Reuse-40817" class="noirorange"><b>libcurl</b>: file read/write via SSH Connection Reuse</a>](https://vigilance.fr/vulnerability/libcurl-file-read-write-via-SSH-Connection-Reuse-40817)|An attacker can bypass access restrictions of libcurl, via SSH Connection Reuse, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcurl-double-free-via-HSTS-40816" class="noirorange"><b>libcurl</b>: double free via HSTS</a>](https://vigilance.fr/vulnerability/libcurl-double-free-via-HSTS-40816)|An attacker can force a double memory free of libcurl, via HSTS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcurl-file-read-write-via-GSS-Delegation-Connection-Reuse-40815" class="noirorange"><b>libcurl</b>: file read/write via GSS Delegation Connection Reuse</a>](https://vigilance.fr/vulnerability/libcurl-file-read-write-via-GSS-Delegation-Connection-Reuse-40815)|An attacker can bypass access restrictions of libcurl, via GSS Delegation Connection Reuse, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcurl-file-read-write-via-FTP-Connection-Reuse-40814" class="noirorange"><b>libcurl</b>: file read/write via FTP Connection Reuse</a>](https://vigilance.fr/vulnerability/libcurl-file-read-write-via-FTP-Connection-Reuse-40814)|An attacker can bypass access restrictions of libcurl, via FTP Connection Reuse, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-file-reading-via-SFTP-Path-Resolving-Discrepancy-40813" class="noirorange"><b>cURL</b>: file reading via SFTP Path Resolving Discrepancy</a>](https://vigilance.fr/vulnerability/cURL-file-reading-via-SFTP-Path-Resolving-Discrepancy-40813)|An attacker can read a file of cURL, via SFTP Path Resolving Discrepancy, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TELNET-Option-IAC-40812" class="noirorange"><b>cURL</b>: information disclosure via TELNET Option IAC</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TELNET-Option-IAC-40812)|An attacker can bypass access restrictions to data of cURL, via TELNET Option IAC, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -87,4 +80,11 @@
  |[40831503/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft une de ces vulnérabilités identifiée par «CVE-2023-24880 » est activement exploitée. Microsoft...|15 mars 2023|
  |[40821503/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. Selon Microsoft, une de ces vulnérabilités identifiée par «CVE-2023-23397» affectant Microsoft...|15 mars 2023|
  |[40821503/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 mars 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
