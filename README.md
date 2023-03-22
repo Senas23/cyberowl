@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/03/2023 21:17:42 UTC
+ > Last Updated 22/03/2023 09:21:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838" class="noirorange"><b>TeamPass</b>: SQL injection via API getUserAuth()</a>](https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838)|An attacker can use a SQL injection of TeamPass, via API getUserAuth(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836" class="noirorange"><b>Aruba CX AOS-CX</b>: privilege escalation via Network Analytics Engine</a>](https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836)|An attacker can bypass restrictions of Aruba CX AOS-CX, via Network Analytics Engine, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835)|An attacker can bypass restrictions of IBM QRadar SIEM, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -67,8 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830" class="noirorange"><b>Xen</b>: memory corruption via X86/HVM Pinned Cache Attributes</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830)|An attacker, in a guest system, can trigger a memory corruption of Xen, via X86/HVM Pinned Cache Attributes, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-reuse-after-free-via-X86-Shadow-Plus-Log-dirty-Mode-40829" class="noirorange"><b>Xen</b>: reuse after free via X86 Shadow Plus Log-dirty Mode</a>](https://vigilance.fr/vulnerability/Xen-reuse-after-free-via-X86-Shadow-Plus-Log-dirty-Mode-40829)|An attacker, in a guest system, can force the reuse of a freed memory area of Xen, via X86 Shadow Plus Log-dirty Mode, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828" class="noirorange"><b>Redis</b>: assertion error via MSETNX Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828)|An attacker can force an assertion error of Redis, via MSETNX Command, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827" class="noirorange"><b>Spring Framework</b>: overload via SpEL expression</a>](https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827)|An attacker can trigger an overload of Spring Framework, via SpEL expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-mvcRequestMatcher-Double-Wildcard-40826" class="noirorange"><b>Spring Framework</b>: ingress filtrering bypass via mvcRequestMatcher Double Wildcard</a>](https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-mvcRequestMatcher-Double-Wildcard-40826)|An attacker can bypass filtering rules of Spring Framework, via mvcRequestMatcher Double Wildcard, in order to send malicious data...|Visit link for details|
  
  ---
 
