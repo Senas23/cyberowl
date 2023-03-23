@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/03/2023 21:20:00 UTC
+ > Last Updated 23/03/2023 09:20:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,24 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/CairoSVG-Server-Side-Request-Forgery-via-SVG-File-40850" class="noirorange"><b>CairoSVG</b>: Server-Side Request Forgery via SVG File</a>](https://vigilance.fr/vulnerability/CairoSVG-Server-Side-Request-Forgery-via-SVG-File-40850)|An attacker can trigger a Server-Side Request Forgery of CairoSVG, via SVG File, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/liferea-code-execution-via-update-job-run-40849" class="noirorange"><b>liferea</b>: code execution via update_job_run()</a>](https://vigilance.fr/vulnerability/liferea-code-execution-via-update-job-run-40849)|An attacker can use a vulnerability of liferea, via update_job_run(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-privilege-escalation-40848" class="noirorange"><b>IBM API Connect</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-privilege-escalation-40848)|An attacker can bypass restrictions of IBM API Connect, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-bgpd-40847" class="noirorange"><b>OpenBSD</b>: out-of-bounds memory reading via bgpd</a>](https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-bgpd-40847)|An attacker can force a read at an invalid memory address of OpenBSD, via bgpd, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-vulnerabity-unveiled-on-29-03-2023-40846" class="noirorange"><b>Samba</b>: vulnerabity unveiled on 29/03/2023</a>](https://vigilance.fr/vulnerability/Samba-vulnerabity-unveiled-on-29-03-2023-40846)|A vulnerability of Samba will be unveiled on 29/03/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Fluid-Components-Cross-Site-Scripting-via-Component-Argument-Parameter-40845" class="noirorange"><b>TYPO3 Fluid Components</b>: Cross Site Scripting via Component Argument Parameter</a>](https://vigilance.fr/vulnerability/TYPO3-Fluid-Components-Cross-Site-Scripting-via-Component-Argument-Parameter-40845)|An attacker can trigger a Cross Site Scripting of TYPO3 Fluid Components, via Component Argument Parameter, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Amanda-information-disclosure-via-calcsize-40844" class="noirorange"><b>Amanda</b>: information disclosure via calcsize</a>](https://vigilance.fr/vulnerability/Amanda-information-disclosure-via-calcsize-40844)|An attacker can bypass access restrictions to data of Amanda, via calcsize, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-X-509-Policy-Constraints-40843" class="noirorange"><b>OpenSSL</b>: overload via X.509 Policy Constraints</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-X-509-Policy-Constraints-40843)|An attacker can trigger an overload of OpenSSL, via X.509 Policy Constraints, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libplist-external-XML-entity-injection-via-plist-from-xml-40842" class="noirorange"><b>libplist</b>: external XML entity injection via plist_from_xml()</a>](https://vigilance.fr/vulnerability/libplist-external-XML-entity-injection-via-plist-from-xml-40842)|An attacker can transmit malicious XML data to libplist, via plist_from_xml(), in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-RemoteIpFilter-Reverse-Proxy-Cookie-40841" class="noirorange"><b>Apache Tomcat</b>: information disclosure via RemoteIpFilter Reverse Proxy Cookie</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-RemoteIpFilter-Reverse-Proxy-Cookie-40841)|An attacker can bypass access restrictions to data of Apache Tomcat, via RemoteIpFilter Reverse Proxy Cookie, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840" class="noirorange"><b>Linux kernel</b>: reuse after free via file_files_note()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840)|An attacker can force the reuse of a freed memory area of the Linux kernel, via file_files_note(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -62,24 +80,6 @@
  |[40831503/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|15 mars 2023|
  |[40861503/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4086150323-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 mars 2023|
  |[40851503/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4085150323-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840" class="noirorange"><b>Linux kernel</b>: reuse after free via file_files_note()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840)|An attacker can force the reuse of a freed memory area of the Linux kernel, via file_files_note(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ovl-aio-req-40839" class="noirorange"><b>Linux kernel</b>: reuse after free via ovl_aio_req</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ovl-aio-req-40839)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ovl_aio_req, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838" class="noirorange"><b>TeamPass</b>: SQL injection via API getUserAuth()</a>](https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838)|An attacker can use a SQL injection of TeamPass, via API getUserAuth(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836" class="noirorange"><b>Aruba CX AOS-CX</b>: privilege escalation via Network Analytics Engine</a>](https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836)|An attacker can bypass restrictions of Aruba CX AOS-CX, via Network Analytics Engine, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835)|An attacker can bypass restrictions of IBM QRadar SIEM, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833" class="noirorange"><b>Veritas NetBackup IT Analytics</b>: Man-in-the-Middle via Collector Executable Files</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833)|An attacker can act as a Man-in-the-Middle on Veritas NetBackup IT Analytics, via Collector Executable Files, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831" class="noirorange"><b>Xen</b>: read-write access via 32bit SYSCALL Path Speculative</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831)|An attacker, in a guest system, can bypass access restrictions of Xen, via 32bit SYSCALL Path Speculative, in order to read or alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830" class="noirorange"><b>Xen</b>: memory corruption via X86/HVM Pinned Cache Attributes</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830)|An attacker, in a guest system, can trigger a memory corruption of Xen, via X86/HVM Pinned Cache Attributes, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  
  ---
 
