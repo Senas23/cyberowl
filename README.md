@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/03/2023 09:20:39 UTC
+ > Last Updated 27/03/2023 21:19:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0264/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 mars 2023|
+ |[Multiples vulnérabilités dans IBM Cognos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0263/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 mars 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0262/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 27 mars 2023|
+ |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0261/)|Une vulnérabilité a été découverte dans |Publié le 27 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 24 mars 2023|
  |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0257/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 23 mars 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0256/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 23 mars 2023|
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0255/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 mars 2023|
- |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 mars 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0253/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 mars 2023|
- |[Vulnérabilité dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0252/)|Une vulnérabilité a été découverte dans |Publié le 22 mars 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mars 2023|
  
  ---
 
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-libcontainer-rootfs-linux-go-40882" class="noirorange"><b>runc</b>: privilege escalation via <wbr>libcontainer/rootfs_<wbr>linux.go</wbr></wbr></a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-libcontainer-rootfs-linux-go-40882)|An attacker can bypass restrictions of runc, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881" class="noirorange"><b>Ceph</b>: privilege escalation via ceph-crash</a>](https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881)|An attacker can bypass restrictions of Ceph, via ceph-crash, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880" class="noirorange"><b>PHP</b>: buffer overflow via <wbr>PHP_CLI_SERVER_WORKE<wbr>RS</wbr></wbr></a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880)|An attacker can trigger a buffer overflow of PHP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879" class="noirorange"><b>Linux kernel</b>: double free via tun_free_netdev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879)|An attacker can force a double memory free of the Linux kernel, via tun_free_netdev(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878" class="noirorange"><b>Windows</b>: information disclosure via Acropalypse</a>](https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878)|An attacker can bypass access restrictions to data of Windows, via Acropalypse, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-nla-validate-array-40877" class="noirorange"><b>Linux kernel</b>: overload via <wbr>nla_validate_array()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-nla-validate-array-40877)|An attacker can trigger an overload of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ComponentSpace-SAML-for-ASP-NET-Man-in-the-Middle-40876" class="noirorange"><b>ComponentSpace SAML for ASP.NET</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ComponentSpace-SAML-for-ASP-NET-Man-in-the-Middle-40876)|An attacker can act as a Man-in-the-Middle on ComponentSpace SAML for ASP.NET, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-file-bitmap-get-40875" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>io_file_bitmap_get()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-file-bitmap-get-40875)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874" class="noirorange"><b>Cisco Wireless Access Point  Meraki</b>: information disclosure via Framing Frames</a>](https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874)|An attacker can bypass access restrictions to data of Cisco Wireless Access Point  Meraki, via Framing Frames, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872" class="noirorange"><b>Apache OpenOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872)|An attacker can use a vulnerability of Apache OpenOffice, via Macro URL, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871" class="noirorange"><b>Apache OpenOffice</b>: code execution via Empty Class Path</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871)|An attacker can use a vulnerability of Apache OpenOffice, via Empty Class Path, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870" class="noirorange"><b>Docker Engine/Moby</b>: information disclosure via BuildKit Buildinfo URLs Credentials</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870)|An attacker can bypass access restrictions to data of Docker Engine/Moby, via BuildKit Buildinfo URLs Credentials, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Engine Scanner</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Engine Scanner, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868" class="noirorange"><b>QEMU</b>: denial of service via init_dev_ring()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868)|An attacker, in a guest system, can cause a fatal error of QEMU, via init_dev_ring(), in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>seq_buf_putmem_hex()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -69,6 +76,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[40992703/23 - Vulnérabilité affectant Windows Snipping Tool](https://www.dgssi.gov.ma//fr/content/4099270323-vulnerabilite-affectant-windows-snipping-tool.html)|Microsoft annonce la correction d’une vulnérabilité affectant son outil de capture d’images« Snipping Tool » utilisé sous Windows 10 et 11. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’accéder à des...|27 mars 2023|
  |[40982403/23 - Vulnérabilité dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4098240323-vulnerabilite-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées de OpenSSL.L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|24 mars 2023|
  |[40972403/23 - Vulnérabilité critique affectant le plugin «WooCommerce» pour WordPress](https://www.dgssi.gov.ma//fr/content/4097240323-vulnerabilite-critique-affectant-le-plugin-woocommerce-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « WooCommerce». Cette vulnérabilité peut permettre à un attaquant de prendre le contrôle total sur le site web vulnérable.|24 mars 2023|
  |[40962303/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4096230323-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|23 mars 2023|
@@ -79,12 +87,4 @@
  |[40912103/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4091210323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|21 mars 2023|
  |[40901703/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4090170323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|17 mars 2023|
  |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
- |[40881603/23 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma//fr/content/4088160323-vulnerabilites-dans-cisco-small-business.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur un appareil affecté ou de...|16 mars 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
