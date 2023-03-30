@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/03/2023 21:19:59 UTC
+ > Last Updated 30/03/2023 09:23:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-Man-in-the-Middle-via-TLS-Client-40911" class="noirorange"><b>Undertow</b>: Man-in-the-Middle via TLS Client</a>](https://vigilance.fr/vulnerability/Undertow-Man-in-the-Middle-via-TLS-Client-40911)|An attacker can act as a Man-in-the-Middle on Undertow, via TLS Client, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/markdown-it-py-denial-of-service-via-CLI-Invalid-UTF-8-Characters-40910" class="noirorange"><b>markdown-it-py</b>: denial of service via CLI Invalid UTF-8 Characters</a>](https://vigilance.fr/vulnerability/markdown-it-py-denial-of-service-via-CLI-Invalid-UTF-8-Characters-40910)|An attacker can cause a fatal error of markdown-it-py, via CLI Invalid UTF-8 Characters, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-information-disclosure-via-Course-Participation-Report-40909" class="noirorange"><b>Moodle</b>: information disclosure via Course Participation Report</a>](https://vigilance.fr/vulnerability/Moodle-information-disclosure-via-Course-Participation-Report-40909)|An attacker can bypass access restrictions to data of Moodle, via Course Participation Report, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-six-vulnerabilities-40908" class="noirorange"><b>Moodle</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Moodle-six-vulnerabilities-40908)|An attacker can use several vulnerabilities of Moodle...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zstd-buffer-overflow-via-util-c-40907" class="noirorange"><b>zstd</b>: buffer overflow via util.c</a>](https://vigilance.fr/vulnerability/zstd-buffer-overflow-via-util-c-40907)|An attacker can trigger a buffer overflow of zstd, via util.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906" class="noirorange"><b>Drupal Xray Audit</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906)|An attacker can trigger a Cross Site Scripting of Drupal Xray Audit, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xstream-denial-of-service-40905" class="noirorange"><b>Xstream</b>: denial of service</a>](https://vigilance.fr/vulnerability/Xstream-denial-of-service-40905)|An attacker can cause a fatal error of Xstream, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rack-denial-of-service-via-Header-Parsing-40904" class="noirorange"><b>Rack</b>: denial of service via Header Parsing</a>](https://vigilance.fr/vulnerability/Rack-denial-of-service-via-Header-Parsing-40904)|An attacker can cause a fatal error of Rack, via Header Parsing, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-libmicrohttpd-out-of-bounds-memory-reading-via-Multipart-form-data-Boundary-40903" class="noirorange"><b>GNU libmicrohttpd</b>: out-of-bounds memory reading via Multipart/form-data Boundary</a>](https://vigilance.fr/vulnerability/GNU-libmicrohttpd-out-of-bounds-memory-reading-via-Multipart-form-data-Boundary-40903)|An attacker can force a read at an invalid memory address of GNU libmicrohttpd, via Multipart/form-data Boundary, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-DC-Admin-Tool-Samba-tool-40902" class="noirorange"><b>Samba</b>: information disclosure via AD DC Admin Tool Samba-tool</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-DC-Admin-Tool-Samba-tool-40902)|An attacker can bypass access restrictions to data of Samba, via AD DC Admin Tool Samba-tool, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-LDAP-Attributes-40901" class="noirorange"><b>Samba</b>: information disclosure via AD LDAP Attributes</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-LDAP-Attributes-40901)|An attacker can bypass access restrictions to data of Samba, via AD LDAP Attributes, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-Compositor-Overlay-Window-40900" class="noirorange"><b>X.Org Server</b>: reuse after free via Compositor Overlay Window</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-Compositor-Overlay-Window-40900)|An attacker can force the reuse of a freed memory area of X.Org Server, via Compositor Overlay Window, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Loofah-three-vulnerabilities-40899" class="noirorange"><b>Loofah</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Loofah-three-vulnerabilities-40899)|An attacker can use several vulnerabilities of Loofah...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-net-bluetooth-hci-sync-c-40898" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>net/bluetooth/hci_sy<wbr>nc.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-net-bluetooth-hci-sync-c-40898)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-ucma-init-qp-attr-40897" class="noirorange"><b>Linux kernel</b>: memory reading via ucma_init_qp_attr()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-ucma-init-qp-attr-40897)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-matrix-js-sdk-prototype-pollution-40896" class="noirorange"><b>Node.js matrix-js-sdk</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-js-matrix-js-sdk-prototype-pollution-40896)|An attacker can alter the JavaScript code of Node.js matrix-js-sdk, in order to change the software behavior...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[40942203/23-Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4094220323-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un...|22 mars 2023|
  |[40932103/23 - Vulnérabilités dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4093210323-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la confidentialité de...|21 mars 2023|
  |[40922103/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4092210323-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|21 mars 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
