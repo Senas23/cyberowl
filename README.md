@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/03/2023 21:18:32 UTC
+ > Last Updated 31/03/2023 09:18:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,28 +47,28 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928" class="noirorange"><b>Linux kernel</b>: reuse after free via xirc2ps_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928)|An attacker can force the reuse of a freed memory area of the Linux kernel, via xirc2ps_detach(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40927" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40927)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/musl-memory-corruption-via-X87-Floating-point-Stack-Adjustment-Imbalance-40926" class="noirorange"><b>musl</b>: memory corruption via X87 Floating-point Stack Adjustment Imbalance</a>](https://vigilance.fr/vulnerability/musl-memory-corruption-via-X87-Floating-point-Stack-Adjustment-Imbalance-40926)|An attacker can trigger a memory corruption of musl, via X87 Floating-point Stack Adjustment Imbalance, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GlusterFS-out-of-bounds-memory-reading-via-fuse-bridge-c-40925" class="noirorange"><b>GlusterFS</b>: out-of-bounds memory reading via fuse-bridge.c</a>](https://vigilance.fr/vulnerability/GlusterFS-out-of-bounds-memory-reading-via-fuse-bridge-c-40925)|An attacker can force a read at an invalid memory address of GlusterFS, via fuse-bridge.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Toolbox-for-Java-information-disclosure-via-Java-Strings-40924" class="noirorange"><b>IBM Toolbox for Java</b>: information disclosure via Java Strings</a>](https://vigilance.fr/vulnerability/IBM-Toolbox-for-Java-information-disclosure-via-Java-Strings-40924)|An attacker can bypass access restrictions to data of IBM Toolbox for Java, via Java Strings, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923" class="noirorange"><b>Apache Calcite Avatica JDBC Driver</b>: code execution via Instantiation</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923)|An attacker can use a vulnerability of Apache Calcite Avatica JDBC Driver, via Instantiation, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922" class="noirorange"><b>JSON Smart</b>: overload via Nested Curly Bracket</a>](https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922)|An attacker can trigger an overload of JSON Smart, via Nested Curly Bracket, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921" class="noirorange"><b>JSON Smart</b>: denial of service via <wbr>JSONParserByteArray:<wbr>:indexOf()</wbr></wbr></a>](https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921)|An attacker can cause a fatal error of JSON Smart, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920" class="noirorange"><b>Ruby Time</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920)|An attacker can trigger an overload of Ruby Time, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918" class="noirorange"><b>Forcepoint Web Security</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918)|An attacker can use several vulnerabilities of Forcepoint Web Security...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfsd4-ssc-setup-dul-40917" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>nfsd4_ssc_setup_dul(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfsd4-ssc-setup-dul-40917)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-reuse-after-free-via-Stale-Hwaccel-State-40916" class="noirorange"><b>FFmpeg</b>: reuse after free via Stale Hwaccel State</a>](https://vigilance.fr/vulnerability/FFmpeg-reuse-after-free-via-Stale-Hwaccel-State-40916)|An attacker can force the reuse of a freed memory area of FFmpeg, via Stale Hwaccel State, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/testng-directory-traversal-via-testngXmlExistsInJar-40912" class="noirorange"><b>testng</b>: directory traversal via <wbr>testngXmlExistsInJar<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/testng-directory-traversal-via-testngXmlExistsInJar-40912)|An attacker can traverse directories of testng, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-Man-in-the-Middle-via-TLS-Client-40911" class="noirorange"><b>Undertow</b>: Man-in-the-Middle via TLS Client</a>](https://vigilance.fr/vulnerability/Undertow-Man-in-the-Middle-via-TLS-Client-40911)|An attacker can act as a Man-in-the-Middle on Undertow, via TLS Client, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/markdown-it-py-denial-of-service-via-CLI-Invalid-UTF-8-Characters-40910" class="noirorange"><b>markdown-it-py</b>: denial of service via CLI Invalid UTF-8 Characters</a>](https://vigilance.fr/vulnerability/markdown-it-py-denial-of-service-via-CLI-Invalid-UTF-8-Characters-40910)|An attacker can cause a fatal error of markdown-it-py, via CLI Invalid UTF-8 Characters, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Moodle-information-disclosure-via-Course-Participation-Report-40909" class="noirorange"><b>Moodle</b>: information disclosure via Course Participation Report</a>](https://vigilance.fr/vulnerability/Moodle-information-disclosure-via-Course-Participation-Report-40909)|An attacker can bypass access restrictions to data of Moodle, via Course Participation Report, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
