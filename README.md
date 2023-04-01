@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/03/2023 21:17:26 UTC
+ > Last Updated 01/04/2023 09:16:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -46,10 +46,21 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-monstartup-40929" class="noirorange"><b>GNU C Library</b>: buffer overflow via __monstartup()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-monstartup-40929)|An attacker can trigger a buffer overflow of GNU C Library, via __monstartup(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928" class="noirorange"><b>Linux kernel</b>: reuse after free via xirc2ps_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928)|An attacker can force the reuse of a freed memory area of the Linux kernel, via xirc2ps_detach(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40927" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40927)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/musl-memory-corruption-via-X87-Floating-point-Stack-Adjustment-Imbalance-40926" class="noirorange"><b>musl</b>: memory corruption via X87 Floating-point Stack Adjustment Imbalance</a>](https://vigilance.fr/vulnerability/musl-memory-corruption-via-X87-Floating-point-Stack-Adjustment-Imbalance-40926)|An attacker can trigger a memory corruption of musl, via X87 Floating-point Stack Adjustment Imbalance, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GlusterFS-out-of-bounds-memory-reading-via-fuse-bridge-c-40925" class="noirorange"><b>GlusterFS</b>: out-of-bounds memory reading via fuse-bridge.c</a>](https://vigilance.fr/vulnerability/GlusterFS-out-of-bounds-memory-reading-via-fuse-bridge-c-40925)|An attacker can force a read at an invalid memory address of GlusterFS, via fuse-bridge.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Toolbox-for-Java-information-disclosure-via-Java-Strings-40924" class="noirorange"><b>IBM Toolbox for Java</b>: information disclosure via Java Strings</a>](https://vigilance.fr/vulnerability/IBM-Toolbox-for-Java-information-disclosure-via-Java-Strings-40924)|An attacker can bypass access restrictions to data of IBM Toolbox for Java, via Java Strings, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923" class="noirorange"><b>Apache Calcite Avatica JDBC Driver</b>: code execution via Instantiation</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923)|An attacker can use a vulnerability of Apache Calcite Avatica JDBC Driver, via Instantiation, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922" class="noirorange"><b>JSON Smart</b>: overload via Nested Curly Bracket</a>](https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922)|An attacker can trigger an overload of JSON Smart, via Nested Curly Bracket, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921" class="noirorange"><b>JSON Smart</b>: denial of service via <wbr>JSONParserByteArray:<wbr>:indexOf()</wbr></wbr></a>](https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921)|An attacker can cause a fatal error of JSON Smart, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920" class="noirorange"><b>Ruby Time</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920)|An attacker can trigger an overload of Ruby Time, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918" class="noirorange"><b>Forcepoint Web Security</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918)|An attacker can use several vulnerabilities of Forcepoint Web Security...|Visit link for details|
  
  ---
 
@@ -71,19 +82,8 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-monstartup-40929" class="noirorange"><b>GNU C Library</b>: buffer overflow via __monstartup()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-monstartup-40929)|An attacker can trigger a buffer overflow of GNU C Library, via __monstartup(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928" class="noirorange"><b>Linux kernel</b>: reuse after free via xirc2ps_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928)|An attacker can force the reuse of a freed memory area of the Linux kernel, via xirc2ps_detach(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40927" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40927)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/musl-memory-corruption-via-X87-Floating-point-Stack-Adjustment-Imbalance-40926" class="noirorange"><b>musl</b>: memory corruption via X87 Floating-point Stack Adjustment Imbalance</a>](https://vigilance.fr/vulnerability/musl-memory-corruption-via-X87-Floating-point-Stack-Adjustment-Imbalance-40926)|An attacker can trigger a memory corruption of musl, via X87 Floating-point Stack Adjustment Imbalance, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GlusterFS-out-of-bounds-memory-reading-via-fuse-bridge-c-40925" class="noirorange"><b>GlusterFS</b>: out-of-bounds memory reading via fuse-bridge.c</a>](https://vigilance.fr/vulnerability/GlusterFS-out-of-bounds-memory-reading-via-fuse-bridge-c-40925)|An attacker can force a read at an invalid memory address of GlusterFS, via fuse-bridge.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Toolbox-for-Java-information-disclosure-via-Java-Strings-40924" class="noirorange"><b>IBM Toolbox for Java</b>: information disclosure via Java Strings</a>](https://vigilance.fr/vulnerability/IBM-Toolbox-for-Java-information-disclosure-via-Java-Strings-40924)|An attacker can bypass access restrictions to data of IBM Toolbox for Java, via Java Strings, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923" class="noirorange"><b>Apache Calcite Avatica JDBC Driver</b>: code execution via Instantiation</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923)|An attacker can use a vulnerability of Apache Calcite Avatica JDBC Driver, via Instantiation, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922" class="noirorange"><b>JSON Smart</b>: overload via Nested Curly Bracket</a>](https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922)|An attacker can trigger an overload of JSON Smart, via Nested Curly Bracket, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921" class="noirorange"><b>JSON Smart</b>: denial of service via <wbr>JSONParserByteArray:<wbr>:indexOf()</wbr></wbr></a>](https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921)|An attacker can cause a fatal error of JSON Smart, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920" class="noirorange"><b>Ruby Time</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920)|An attacker can trigger an overload of Ruby Time, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918" class="noirorange"><b>Forcepoint Web Security</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918)|An attacker can use several vulnerabilities of Forcepoint Web Security...|Visit link for details|
  
