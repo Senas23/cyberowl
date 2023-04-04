@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/04/2023 21:17:24 UTC
+ > Last Updated 04/04/2023 09:18:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,21 +47,10 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942" class="noirorange"><b>runc</b>: privilege escalation via Symlinked /proc</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942)|An attacker can bypass restrictions of runc, via Symlinked /proc, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941" class="noirorange"><b>runc</b>: file write via /sys/fs/cgroup</a>](https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941)|An attacker can bypass access restrictions of runc, via /sys/fs/cgroup, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940" class="noirorange"><b>Dell NetWorker</b>: code execution via nsrcapinfo</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940)|An attacker can use a vulnerability of Dell NetWorker, via nsrcapinfo, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939" class="noirorange"><b>Dell NetWorker</b>: Man-in-the-Middle via Rabbitmq Port</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939)|An attacker can act as a Man-in-the-Middle on Dell NetWorker, via Rabbitmq Port, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937" class="noirorange"><b>Node.js <wbr>http-cache-semantics</wbr></b>: overload via parseCacheControl()</a>](https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937)|An attacker can trigger an overload of Node.js |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936" class="noirorange"><b>netconsd</b>: memory corruption via Fragment Offset</a>](https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936)|An attacker can trigger a memory corruption of netconsd, via Fragment Offset, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935" class="noirorange"><b>Vim</b>: NULL pointer dereference via <wbr>class_object_index()</wbr></a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934" class="noirorange"><b>Go</b>: vulnerability via crypto/elliptic</a>](https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934)|A vulnerability of Go, via crypto/elliptic, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933" class="noirorange"><b>Intel PROSet/Wireless WiFi and Killer</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi and Killer...|Visit link for details|
  
  ---
 
@@ -83,8 +72,19 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Nextcloud-directory-traversal-via-Folder-getFullPath-40946" class="noirorange"><b>Nextcloud</b>: directory traversal via <wbr>Folder::getFullPath(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Nextcloud-directory-traversal-via-Folder-getFullPath-40946)|An attacker can traverse directories of Nextcloud, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nextcloud-overload-via-User-Display-Names-40945" class="noirorange"><b>Nextcloud</b>: overload via User Display Names</a>](https://vigilance.fr/vulnerability/Nextcloud-overload-via-User-Display-Names-40945)|An attacker can trigger an overload of Nextcloud, via User Display Names, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nextcloud-Password-Policy-weak-encryption-40944" class="noirorange"><b>Nextcloud Password Policy</b>: weak encryption</a>](https://vigilance.fr/vulnerability/Nextcloud-Password-Policy-weak-encryption-40944)|An attacker can access data on Nextcloud Password Policy, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942" class="noirorange"><b>runc</b>: privilege escalation via Symlinked /proc</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942)|An attacker can bypass restrictions of runc, via Symlinked /proc, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941" class="noirorange"><b>runc</b>: file write via /sys/fs/cgroup</a>](https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941)|An attacker can bypass access restrictions of runc, via /sys/fs/cgroup, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940" class="noirorange"><b>Dell NetWorker</b>: code execution via nsrcapinfo</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940)|An attacker can use a vulnerability of Dell NetWorker, via nsrcapinfo, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939" class="noirorange"><b>Dell NetWorker</b>: Man-in-the-Middle via Rabbitmq Port</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939)|An attacker can act as a Man-in-the-Middle on Dell NetWorker, via Rabbitmq Port, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937" class="noirorange"><b>Node.js <wbr>http-cache-semantics</wbr></b>: overload via parseCacheControl()</a>](https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937)|An attacker can trigger an overload of Node.js |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936" class="noirorange"><b>netconsd</b>: memory corruption via Fragment Offset</a>](https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936)|An attacker can trigger a memory corruption of netconsd, via Fragment Offset, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
