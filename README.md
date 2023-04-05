@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/04/2023 09:22:07 UTC
+ > Last Updated 05/04/2023 21:18:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0286/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 5 avril 2023|
+ |[Multiples vulnérabilités dans Cisco Expressway Series et Cisco TelePresence VCS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans Cisco Expressway Series et Cisco TelePresence VCS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 5 avril 2023|
+ |[Multiples vulnérabilités dans les produits Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0284/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2023|
+ |[Multiples vulnérabilités dans Sophos Web Appliance](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0283/)|De multiples vulnérabilités ont été découvertes dans Sophos Web Appliance. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 5 avril 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0282/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 4 avril 2023|
  |[Multiples vulnérabilités dans Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0281/)|De multiples vulnérabilités ont été découvertes dans Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 4 avril 2023|
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0280/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 31 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0278/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mars 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0273/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 30 mars 2023|
  
  ---
 
@@ -51,24 +51,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963" class="noirorange"><b>Cisco Unified Contact Center Express</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963)|An attacker can trigger a Cross Site Scripting of Cisco Unified Contact Center Express, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-Lou-Trace-40961" class="noirorange"><b>Liblouis</b>: buffer overflow via Lou_Trace()</a>](https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-Lou-Trace-40961)|An attacker can trigger a buffer overflow of Liblouis, via Lou_Trace(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-logFile-40960" class="noirorange"><b>Liblouis</b>: buffer overflow via lou_logFile()</a>](https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-logFile-40960)|An attacker can trigger a buffer overflow of Liblouis, via lou_logFile(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libheif-buffer-overflow-via-Strided-Image-40959" class="noirorange"><b>libheif</b>: buffer overflow via Strided Image</a>](https://vigilance.fr/vulnerability/libheif-buffer-overflow-via-Strided-Image-40959)|An attacker can trigger a buffer overflow of libheif, via Strided Image, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40958" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40958)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-ACME-40957" class="noirorange"><b>pfSense</b>: Cross Site Scripting via ACME</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-ACME-40957)|An attacker can trigger a Cross Site Scripting of pfSense, via ACME, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btrfs-search-slot-40956" class="noirorange"><b>Linux kernel</b>: reuse after free via btrfs_search_slot()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btrfs-search-slot-40956)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955" class="noirorange"><b>Rails</b>: Cross Site Scripting via <wbr>SafeBuffer#bytesplic<wbr>e()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955)|An attacker can trigger a Cross Site Scripting of Rails, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954" class="noirorange"><b>Percona XtraBackup</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954)|A vulnerability of Percona XtraBackup was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953" class="noirorange"><b>GhostScript</b>: buffer overflow via base/sbcp.c</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953)|An attacker can trigger a buffer overflow of GhostScript, via base/sbcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-weak-signature-via-Encrypted-Overlay-Networks-Single-Endpoint-40952" class="noirorange"><b>Docker Engine/Moby</b>: weak signature via Encrypted Overlay Networks Single Endpoint</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-weak-signature-via-Encrypted-Overlay-Networks-Single-Endpoint-40952)|An attacker can use malicious data on Docker Engine/Moby, via Encrypted Overlay Networks Single Endpoint, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-no-encryption-via-Encrypted-Overlay-Networks-40951" class="noirorange"><b>Docker Engine/Moby</b>: no encryption via Encrypted Overlay Networks</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-no-encryption-via-Encrypted-Overlay-Networks-40951)|An attacker can access data on Docker Engine/Moby, via Encrypted Overlay Networks, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-no-signature-via-Encrypted-Overlay-Networks-40950" class="noirorange"><b>Docker Engine/Moby</b>: no signature via Encrypted Overlay Networks</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-no-signature-via-Encrypted-Overlay-Networks-40950)|An attacker can use malicious data on Docker Engine/Moby, via Encrypted Overlay Networks, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webpack-read-write-access-via-Cross-realm-Object-Access-40949" class="noirorange"><b>Webpack</b>: read-write access via Cross-realm Object Access</a>](https://vigilance.fr/vulnerability/Webpack-read-write-access-via-Cross-realm-Object-Access-40949)|An attacker can bypass access restrictions of Webpack, via Cross-realm Object Access, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-information-disclosure-via-FutureSmart-IPsec-40948" class="noirorange"><b>HP LaserJet</b>: information disclosure via FutureSmart IPsec</a>](https://vigilance.fr/vulnerability/HP-LaserJet-information-disclosure-via-FutureSmart-IPsec-40948)|An attacker can bypass access restrictions to data of HP LaserJet, via FutureSmart IPsec, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -87,4 +80,11 @@
  |[41053003/23 - Vulnérabilités critiques affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4105300323-vulnerabilites-critiques-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|30 mars 2023|
  |[41043003/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4104300323-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées d’OpenSSL. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.|30 mars 2023|
  |[41033003/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4103300323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger d’une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|30 mars 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
