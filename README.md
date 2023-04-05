@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/04/2023 21:16:13 UTC
+ > Last Updated 05/04/2023 09:22:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40958" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40958)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-ACME-40957" class="noirorange"><b>pfSense</b>: Cross Site Scripting via ACME</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-ACME-40957)|An attacker can trigger a Cross Site Scripting of pfSense, via ACME, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btrfs-search-slot-40956" class="noirorange"><b>Linux kernel</b>: reuse after free via btrfs_search_slot()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btrfs-search-slot-40956)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955" class="noirorange"><b>Rails</b>: Cross Site Scripting via <wbr>SafeBuffer#bytesplic<wbr>e()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955)|An attacker can trigger a Cross Site Scripting of Rails, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954" class="noirorange"><b>Percona XtraBackup</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954)|A vulnerability of Percona XtraBackup was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953" class="noirorange"><b>GhostScript</b>: buffer overflow via base/sbcp.c</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953)|An attacker can trigger a buffer overflow of GhostScript, via base/sbcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-weak-signature-via-Encrypted-Overlay-Networks-Single-Endpoint-40952" class="noirorange"><b>Docker Engine/Moby</b>: weak signature via Encrypted Overlay Networks Single Endpoint</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-weak-signature-via-Encrypted-Overlay-Networks-Single-Endpoint-40952)|An attacker can use malicious data on Docker Engine/Moby, via Encrypted Overlay Networks Single Endpoint, in order to deceive the victim...|Visit link for details|
@@ -58,10 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-no-signature-via-Encrypted-Overlay-Networks-40950" class="noirorange"><b>Docker Engine/Moby</b>: no signature via Encrypted Overlay Networks</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-no-signature-via-Encrypted-Overlay-Networks-40950)|An attacker can use malicious data on Docker Engine/Moby, via Encrypted Overlay Networks, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Webpack-read-write-access-via-Cross-realm-Object-Access-40949" class="noirorange"><b>Webpack</b>: read-write access via Cross-realm Object Access</a>](https://vigilance.fr/vulnerability/Webpack-read-write-access-via-Cross-realm-Object-Access-40949)|An attacker can bypass access restrictions of Webpack, via Cross-realm Object Access, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-information-disclosure-via-FutureSmart-IPsec-40948" class="noirorange"><b>HP LaserJet</b>: information disclosure via FutureSmart IPsec</a>](https://vigilance.fr/vulnerability/HP-LaserJet-information-disclosure-via-FutureSmart-IPsec-40948)|An attacker can bypass access restrictions to data of HP LaserJet, via FutureSmart IPsec, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nextcloud-directory-traversal-via-Folder-getFullPath-40946" class="noirorange"><b>Nextcloud</b>: directory traversal via <wbr>Folder::getFullPath(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Nextcloud-directory-traversal-via-Folder-getFullPath-40946)|An attacker can traverse directories of Nextcloud, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nextcloud-overload-via-User-Display-Names-40945" class="noirorange"><b>Nextcloud</b>: overload via User Display Names</a>](https://vigilance.fr/vulnerability/Nextcloud-overload-via-User-Display-Names-40945)|An attacker can trigger an overload of Nextcloud, via User Display Names, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nextcloud-Password-Policy-weak-encryption-40944" class="noirorange"><b>Nextcloud Password Policy</b>: weak encryption</a>](https://vigilance.fr/vulnerability/Nextcloud-Password-Policy-weak-encryption-40944)|An attacker can access data on Nextcloud Password Policy, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[41053003/23 - Vulnérabilités critiques affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4105300323-vulnerabilites-critiques-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|30 mars 2023|
  |[41043003/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4104300323-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées d’OpenSSL. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.|30 mars 2023|
  |[41033003/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4103300323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger d’une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|30 mars 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
