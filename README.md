@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/04/2023 21:17:00 UTC
+ > Last Updated 10/04/2023 09:20:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,24 +47,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-iOS-two-vulnerabilities-40982" class="noirorange"><b>Apple macOS/iOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-macOS-iOS-two-vulnerabilities-40982)|An attacker can use several vulnerabilities of Apple macOS/iOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981" class="noirorange"><b>HP LaserJet</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981)|An attacker can trigger a buffer overflow of HP LaserJet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40980" class="noirorange"><b>HP LaserJet</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40980)|An attacker can trigger a buffer overflow of HP LaserJet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40979" class="noirorange"><b>HP LaserJet</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40979)|An attacker can trigger a buffer overflow of HP LaserJet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-LiveCycle-code-execution-via-Java-Deserialization-40978" class="noirorange"><b>Adobe LiveCycle</b>: code execution via Java Deserialization</a>](https://vigilance.fr/vulnerability/Adobe-LiveCycle-code-execution-via-Java-Deserialization-40978)|An attacker can use a vulnerability of Adobe LiveCycle, via Java Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-40977" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-40977)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Emacs-code-execution-via-org-babel-execute-latex-40976" class="noirorange"><b>GNU Emacs</b>: code execution via <wbr>org-babel-execute:la<wbr>tex</wbr></wbr></a>](https://vigilance.fr/vulnerability/GNU-Emacs-code-execution-via-org-babel-execute-latex-40976)|An attacker can use a vulnerability of GNU Emacs, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-four-vulnerabilities-40975" class="noirorange"><b>Go</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-four-vulnerabilities-40975)|An attacker can use several vulnerabilities of Go...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Certain-File-Types-40974" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Certain File Types</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Certain-File-Types-40974)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Certain File Types, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fs-proc-task-mmu-c-40973" class="noirorange"><b>Linux kernel</b>: denial of service via fs/proc/task_mmu.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fs-proc-task-mmu-c-40973)|An attacker can cause a fatal error of the Linux kernel, via fs/proc/task_mmu.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-vhost-net-set-backend-40972" class="noirorange"><b>Linux kernel</b>: double free via <wbr>vhost_net_set_backen<wbr>d()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-vhost-net-set-backend-40972)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -80,6 +62,24 @@
  |[41110304/23 - Vulnérabilité dans F5 NGINX](https://www.dgssi.gov.ma//fr/content/4111030423-vulnerabilite-dans-f5-nginx.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de F5 NGINX.Un attaquant authentifié disposant d'un accès local pour lire les fichiers journaux de l'agent peut accéder à des clés privées. Ce problème n'...|03 avril 2023|
  |[41100304/23 - Vulnérabilité critique affectant le plugin «Elementor Pro» pour WordPress](https://www.dgssi.gov.ma//fr/content/4110030423-vulnerabilite-critique-affectant-le-plugin-elementor-pro-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « Elementor Pro». Cette vulnérabilitéest activement exploitée etpeut permettre à un attaquant distant non authentifié de prendre le contrôle total...|03 avril 2023|
  |[41090304/23 - Vulnérabilité dans SUDO](https://www.dgssi.gov.ma//fr/content/4109030423-vulnerabilite-dans-sudo.html)|Une vulnérabilité a été corrigée dans l'outil « sudo » utilisé par tous les systèmes Unix et Linux. En envoyant une requête spécialement conçue, un attaquant disposant d'un compte surle système peut élever ses privilèges et...|03 avril 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/tcpdump-buffer-overflow-via-smb-fdata1-40986" class="noirorange"><b>tcpdump</b>: buffer overflow via smb_fdata1()</a>](https://vigilance.fr/vulnerability/tcpdump-buffer-overflow-via-smb-fdata1-40986)|An attacker can trigger a buffer overflow of tcpdump, via smb_fdata1(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-information-disclosure-via-BIKE-Falcon-Frodo-HQC-40985" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: information disclosure via BIKE / Falcon / Frodo / HQC</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-information-disclosure-via-BIKE-Falcon-Frodo-HQC-40985)|An attacker can bypass access restrictions to data of Bouncy Castle Java Cryptography Extension, via BIKE / Falcon / Frodo / HQC, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-KVM-nVMX-CR0-CR4-40984" class="noirorange"><b>Linux kernel</b>: privilege escalation via KVM nVMX CR0/CR4</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-KVM-nVMX-CR0-CR4-40984)|An attacker, in a guest system, can bypass restrictions of the Linux kernel, via KVM nVMX CR0/CR4, in order to escalate his privileges on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-denial-of-service-via-Untrusted-X-Forwarded-For-Header-40983" class="noirorange"><b>MediaWiki</b>: denial of service via Untrusted X-Forwarded-For Header</a>](https://vigilance.fr/vulnerability/MediaWiki-denial-of-service-via-Untrusted-X-Forwarded-For-Header-40983)|An attacker can cause a fatal error of MediaWiki, via Untrusted X-Forwarded-For Header, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-iOS-two-vulnerabilities-40982" class="noirorange"><b>Apple macOS/iOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-macOS-iOS-two-vulnerabilities-40982)|An attacker can use several vulnerabilities of Apple macOS/iOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981" class="noirorange"><b>HP LaserJet</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981)|An attacker can trigger a buffer overflow of HP LaserJet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40980" class="noirorange"><b>HP LaserJet</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40980)|An attacker can trigger a buffer overflow of HP LaserJet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40979" class="noirorange"><b>HP LaserJet</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40979)|An attacker can trigger a buffer overflow of HP LaserJet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-LiveCycle-code-execution-via-Java-Deserialization-40978" class="noirorange"><b>Adobe LiveCycle</b>: code execution via Java Deserialization</a>](https://vigilance.fr/vulnerability/Adobe-LiveCycle-code-execution-via-Java-Deserialization-40978)|An attacker can use a vulnerability of Adobe LiveCycle, via Java Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-40977" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-40977)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Emacs-code-execution-via-org-babel-execute-latex-40976" class="noirorange"><b>GNU Emacs</b>: code execution via <wbr>org-babel-execute:la<wbr>tex</wbr></wbr></a>](https://vigilance.fr/vulnerability/GNU-Emacs-code-execution-via-org-babel-execute-latex-40976)|An attacker can use a vulnerability of GNU Emacs, via |Visit link for details|
  
  ---
 
