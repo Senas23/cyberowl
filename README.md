@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/04/2023 21:17:16 UTC
+ > Last Updated 11/04/2023 09:19:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,19 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-April-2023-40993" class="noirorange"><b>SAP</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-April-2023-40993)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/lldpd-buffer-overflow-via-sonmp-decode-40992" class="noirorange"><b>lldpd</b>: buffer overflow via sonmp_decode()</a>](https://vigilance.fr/vulnerability/lldpd-buffer-overflow-via-sonmp-decode-40992)|An attacker can trigger a buffer overflow of lldpd, via sonmp_decode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Irssi-denial-of-service-40991" class="noirorange"><b>Irssi</b>: denial of service</a>](https://vigilance.fr/vulnerability/Irssi-denial-of-service-40991)|An attacker can cause a fatal error of Irssi, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-S3-Resume-Speculation-Related-MSR-40990" class="noirorange"><b>Linux kernel</b>: read-write access via S3 Resume Speculation Related MSR</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-S3-Resume-Speculation-Related-MSR-40990)|An attacker can bypass access restrictions of the Linux kernel, via S3 Resume Speculation Related MSR, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-unix-diag-get-exact-40989" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>unix_diag_get_exact(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-unix-diag-get-exact-40989)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
@@ -60,8 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-information-disclosure-via-BIKE-Falcon-Frodo-HQC-40985" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: information disclosure via BIKE / Falcon / Frodo / HQC</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-information-disclosure-via-BIKE-Falcon-Frodo-HQC-40985)|An attacker can bypass access restrictions to data of Bouncy Castle Java Cryptography Extension, via BIKE / Falcon / Frodo / HQC, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-KVM-nVMX-CR0-CR4-40984" class="noirorange"><b>Linux kernel</b>: privilege escalation via KVM nVMX CR0/CR4</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-KVM-nVMX-CR0-CR4-40984)|An attacker, in a guest system, can bypass restrictions of the Linux kernel, via KVM nVMX CR0/CR4, in order to escalate his privileges on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-denial-of-service-via-Untrusted-X-Forwarded-For-Header-40983" class="noirorange"><b>MediaWiki</b>: denial of service via Untrusted X-Forwarded-For Header</a>](https://vigilance.fr/vulnerability/MediaWiki-denial-of-service-via-Untrusted-X-Forwarded-For-Header-40983)|An attacker can cause a fatal error of MediaWiki, via Untrusted X-Forwarded-For Header, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-iOS-two-vulnerabilities-40982" class="noirorange"><b>Apple macOS/iOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-macOS-iOS-two-vulnerabilities-40982)|An attacker can use several vulnerabilities of Apple macOS/iOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981" class="noirorange"><b>HP LaserJet</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981)|An attacker can trigger a buffer overflow of HP LaserJet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -80,11 +87,4 @@
  |[41150604 /23 - Le ransomware « Rorschach »](https://www.dgssi.gov.ma//fr/content/41150604-23-le-ransomware-rorschach.html)|Palo Alto Networks a déclaré être au courant d'attaques utilisant son outil « Cortex XDR Dump Service Tool » pour installer le ransomware « Rorschach » sur les systèmes Windows.Une analyse comportementale du nouveau ransomware...|06 avril 2023|
  |[41140504/23 - Vulnérabilitécritiqueaffectant des imprimantes HP](https://www.dgssi.gov.ma//fr/content/4114050423-vulnerabilite-critique-affectant-des-imprimantes-hp.html)|HPannonce la correction d’unevulnérabilité critique affectant certaines de ses imprimantes. Cette vulnérabilité est exploitable si le protocole IPsec et la fonctionnalité FutureSmart sont activés et ellepermet à un attaquantd’...|06 avril 2023|
  |[41130404/23 - Vulnérabilités critiques dans Android](https://www.dgssi.gov.ma//fr/content/4113040423-vulnerabilites-critiques-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|04 avril 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
