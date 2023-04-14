@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/04/2023 21:16:29 UTC
+ > Last Updated 14/04/2023 09:18:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,6 +54,24 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-netdevsim-41055" class="noirorange"><b>Linux kernel</b>: denial of service via netdevsim</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-netdevsim-41055)|An attacker can cause a fatal error of the Linux kernel, via netdevsim, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-udmabuf-vm-fault-41054" class="noirorange"><b>Linux kernel</b>: buffer overflow via udmabuf_vm_fault()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-udmabuf-vm-fault-41054)|An attacker can trigger a buffer overflow of the Linux kernel, via udmabuf_vm_fault(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-dpt-i2o-41053" class="noirorange"><b>Linux kernel</b>: information disclosure via dpt_i2o</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-dpt-i2o-41053)|An attacker can bypass access restrictions to data of the Linux kernel, via dpt_i2o, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052" class="noirorange"><b>Linux kernel</b>: memory corruption via RxRPC Bundles</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052)|An attacker can trigger a memory corruption of the Linux kernel, via RxRPC Bundles, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Description-Field-41051" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Item Description Field</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Description-Field-41051)|An attacker can trigger a Cross Site Scripting of TeamPass, via Item Description Field, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lys-parse-mem-41050" class="noirorange"><b>libyang</b>: NULL pointer dereference via lys_parse_mem()</a>](https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lys-parse-mem-41050)|An attacker can force a NULL pointer to be dereferenced on libyang, via lys_parse_mem(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glib-denial-of-service-via-Text-form-Variant-41049" class="noirorange"><b>glib</b>: denial of service via Text-form Variant</a>](https://vigilance.fr/vulnerability/glib-denial-of-service-via-Text-form-Variant-41049)|An attacker can cause a fatal error of glib, via Text-form Variant, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/bzip3-seven-vulnerabilities-41048" class="noirorange"><b>bzip3</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/bzip3-seven-vulnerabilities-41048)|An attacker can use several vulnerabilities of bzip3...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/apport-cli-privilege-escalation-via-Sudo-Less-Pager-Terminal-Size-41047" class="noirorange"><b>apport-cli</b>: privilege escalation via Sudo Less Pager Terminal Size</a>](https://vigilance.fr/vulnerability/apport-cli-privilege-escalation-via-Sudo-Less-Pager-Terminal-Size-41047)|An attacker can bypass restrictions of apport-cli, via Sudo Less Pager Terminal Size, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-denial-of-service-via-IP-Protocol-Zero-41046" class="noirorange"><b>Open vSwitch</b>: denial of service via IP Protocol Zero</a>](https://vigilance.fr/vulnerability/Open-vSwitch-denial-of-service-via-IP-Protocol-Zero-41046)|An attacker can cause a fatal error of Open vSwitch, via IP Protocol Zero, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-php-fgetcsv-41045" class="noirorange"><b>PHP</b>: buffer overflow via php_fgetcsv()</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-php-fgetcsv-41045)|An attacker can trigger a buffer overflow of PHP, via php_fgetcsv(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -69,22 +87,4 @@
  |[41321204/23 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4132120423-vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-avril-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité ou de porter atteinte à la confidentialité des...|12 avril 2023|
  |[41311204/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4131120423-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-avril-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité ou de porter atteinte à la confidentialité des données.|12 avril 2023|
  |[41301204/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4130120423-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 avril 2023|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-denial-of-service-via-IP-Protocol-Zero-41046" class="noirorange"><b>Open vSwitch</b>: denial of service via IP Protocol Zero</a>](https://vigilance.fr/vulnerability/Open-vSwitch-denial-of-service-via-IP-Protocol-Zero-41046)|An attacker can cause a fatal error of Open vSwitch, via IP Protocol Zero, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-php-fgetcsv-41045" class="noirorange"><b>PHP</b>: buffer overflow via php_fgetcsv()</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-php-fgetcsv-41045)|An attacker can trigger a buffer overflow of PHP, via php_fgetcsv(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-Expression-41044" class="noirorange"><b>Spring Framework</b>: overload via SpEL Expression</a>](https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-Expression-41044)|An attacker can trigger an overload of Spring Framework, via SpEL Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-file-get-fixed-41042" class="noirorange"><b>Linux kernel</b>: reuse after free via io_file_get_fixed()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-file-get-fixed-41042)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ndlc-remove-41041" class="noirorange"><b>Linux kernel</b>: reuse after free via ndlc_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ndlc-remove-41041)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ndlc_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/polkit-privilege-escalation-via-etc-polkit-1-rules-d-41040" class="noirorange"><b>polkit</b>: privilege escalation via <wbr>/etc/polkit-1/rules.<wbr>d</wbr></wbr></a>](https://vigilance.fr/vulnerability/polkit-privilege-escalation-via-etc-polkit-1-rules-d-41040)|An attacker can bypass restrictions of polkit, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PowerDNS-Recursor-denial-of-service-via-Unavailable-Authoritative-Servers-41039" class="noirorange"><b>PowerDNS Recursor</b>: denial of service via Unavailable Authoritative Servers</a>](https://vigilance.fr/vulnerability/PowerDNS-Recursor-denial-of-service-via-Unavailable-Authoritative-Servers-41039)|An attacker can cause a fatal error of PowerDNS Recursor, via Unavailable Authoritative Servers, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038" class="noirorange"><b>PAN-OS</b>: information disclosure</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038)|An attacker can bypass access restrictions to data of PAN-OS, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-deletion-41037" class="noirorange"><b>PAN-OS</b>: file deletion</a>](https://vigilance.fr/vulnerability/PAN-OS-file-deletion-41037)|An attacker can bypass access restrictions of PAN-OS, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-41036" class="noirorange"><b>AIX</b>: privilege escalation via invscout</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-41036)|An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-librts-41035" class="noirorange"><b>AIX</b>: privilege escalation via librts</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-librts-41035)|An attacker can bypass restrictions of AIX, via librts, in order to escalate his privileges...|Visit link for details|
  
