@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/04/2023 21:17:00 UTC
+ > Last Updated 24/04/2023 09:21:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,31 +47,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-xgene-slimpro-i2c-xfer-41100" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>xgene_slimpro_i2c_xf<wbr>er</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-xgene-slimpro-i2c-xfer-41100)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sctp-stream-sched-c-41099" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>net/sctp/stream_sche<wbr>d.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sctp-stream-sched-c-41099)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-compare-netdev-and-ip-41098" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>compare_netdev_and_i<wbr>p()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-compare-netdev-and-ip-41098)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PatchELF-out-of-bounds-memory-reading-41097" class="noirorange"><b>PatchELF</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/PatchELF-out-of-bounds-memory-reading-41097)|An attacker can force a read at an invalid memory address of PatchELF, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKit-code-execution-41096" class="noirorange"><b>WebKit</b>: code execution</a>](https://vigilance.fr/vulnerability/WebKit-code-execution-41096)|An attacker can use a vulnerability of WebKit, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-AES-XTS-41095" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via AES-XTS</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-AES-XTS-41095)|An attacker can force a read at an invalid memory address of OpenSSL, via AES-XTS, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/dr-libs-NULL-pointer-dereference-via-dr-wav-41094" class="noirorange"><b>dr_libs</b>: NULL pointer dereference via dr_wav</a>](https://vigilance.fr/vulnerability/dr-libs-NULL-pointer-dereference-via-dr-wav-41094)|An attacker can force a NULL pointer to be dereferenced on dr_libs, via dr_wav, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/frr-assertion-error-via-peek-for-as4-capability-41093" class="noirorange"><b>frr</b>: assertion error via <wbr>peek_for_as4_capabil<wbr>ity()</wbr></wbr></a>](https://vigilance.fr/vulnerability/frr-assertion-error-via-peek-for-as4-capability-41093)|An attacker can force an assertion error of frr, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091" class="noirorange"><b>Pallets Project Flask</b>: memory corruption via JSON</a>](https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091)|An attacker can trigger a memory corruption of Pallets Project Flask, via JSON, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089" class="noirorange"><b>Linux kernel</b>: reuse after free via iscsi_tcp.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089)|An attacker can force the reuse of a freed memory area of the Linux kernel, via iscsi_tcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via af_can.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via af_can.c, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -87,4 +62,29 @@
  |[41421904/23 - "Oracle Critical Patch Update" du Mois Avril 2023](https://www.dgssi.gov.ma//fr/content/4142190423-oracle-critical-patch-update-du-mois-avril-2023.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2023. L'exploitation de certaines de ces vulnérabilités pourrait permettre...|19 avril 2023|
  |[41411804/23 - Vulnérabilités dans les produits VMware](https://www.dgssi.gov.ma//fr/content/4141180423-vulnerabilites-dans-les-produits-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de réussir une élévation des privilèges,...|18 avril 2023|
  |[41401704/23 - Vulnérabilité critique dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4140170423-vulnerabilite-critique-dans-google-chrome.html)|Google a corrigé une vulnérabilité critique de type « zero-day » dans son navigateur Google Chrome. L’exploitation de cette faille peut permettre à un attaquant de prendre le contrôle du système affecté.Google confirme que cette faille...|17 avril 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/insight-out-of-bounds-memory-reading-via-bfd-41108" class="noirorange"><b>insight</b>: out-of-bounds memory reading via bfd</a>](https://vigilance.fr/vulnerability/insight-out-of-bounds-memory-reading-via-bfd-41108)|An attacker can force a read at an invalid memory address of insight, via bfd, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-vulnerability-41107" class="noirorange"><b>Suricata</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Suricata-vulnerability-41107)|A vulnerability of Suricata was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-a-JXR-image-41106" class="noirorange"><b>FreeImage</b>: denial of service via a JXR image</a>](https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-a-JXR-image-41106)|An attacker can cause a fatal error of FreeImage, via an image of type JXR, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RNP-unprotected-keys-41105" class="noirorange"><b>RNP</b>: unprotected keys</a>](https://vigilance.fr/vulnerability/RNP-unprotected-keys-41105)|An attacker can acess to some cryptographic keys...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ribose-RNP-denial-of-service-via-PKESK-SKESK-OpenPGP-packets-41104" class="noirorange"><b>Ribose RNP</b>: denial of service via PKESK/SKESK OpenPGP packets</a>](https://vigilance.fr/vulnerability/Ribose-RNP-denial-of-service-via-PKESK-SKESK-OpenPGP-packets-41104)|An attacker can cause a fatal error of Ribose RNP, via PKESK/SKESK OpenPGP packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-verbose-output-41103" class="noirorange"><b>389 Directory Server</b>: information disclosure via verbose output</a>](https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-verbose-output-41103)|An attacker can bypass access restrictions to data of 389-ds-base, via verbose output, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/connman-buffer-overflow-via-DHCP-41102" class="noirorange"><b>connman</b>: buffer overflow via DHCP</a>](https://vigilance.fr/vulnerability/connman-buffer-overflow-via-DHCP-41102)|An attacker can trigger a buffer overflow of connman, via DHCP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-xgene-slimpro-i2c-xfer-41100" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>xgene_slimpro_i2c_xf<wbr>er</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-xgene-slimpro-i2c-xfer-41100)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sctp-stream-sched-c-41099" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>net/sctp/stream_sche<wbr>d.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sctp-stream-sched-c-41099)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-compare-netdev-and-ip-41098" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>compare_netdev_and_i<wbr>p()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-compare-netdev-and-ip-41098)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PatchELF-out-of-bounds-memory-reading-41097" class="noirorange"><b>PatchELF</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/PatchELF-out-of-bounds-memory-reading-41097)|An attacker can force a read at an invalid memory address of PatchELF, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
