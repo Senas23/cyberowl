@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/04/2023 09:21:21 UTC
+ > Last Updated 24/04/2023 21:18:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 avril 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
@@ -43,7 +44,31 @@
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0329/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 avril 2023|
  |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0328/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.|Publié le 20 avril 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 20 avril 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une élévation de privilèges.|Publié le 20 avril 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Avahi-denial-of-service-via-DBus-41113" class="noirorange"><b>Avahi</b>: denial of service via DBus</a>](https://vigilance.fr/vulnerability/Avahi-denial-of-service-via-DBus-41113)|An attacker can cause a fatal error of Avahi, via DBus, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/dmidecode-privilege-escalation-41112" class="noirorange"><b>dmidecode</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/dmidecode-privilege-escalation-41112)|An attacker can bypass restrictions of dmidecode, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/jettison-overload-via-JSONArray-41111" class="noirorange"><b>jettison</b>: overload via JSONArray</a>](https://vigilance.fr/vulnerability/jettison-overload-via-JSONArray-41111)|An attacker can trigger an overload of jettison, via JSONArray, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-Webkit-five-vulnerabilities-41110" class="noirorange"><b>WebKitGTK  WPE Webkit</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-Webkit-five-vulnerabilities-41110)|An attacker can use several vulnerabilities of WebKitGTK  WPE Webkit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-reuse-after-free-via-WebCore-RenderLayer-addChild-41109" class="noirorange"><b>WebKitGTK</b>: reuse after free via <wbr>WebCore::RenderLayer<wbr>::addChild()</wbr></wbr></a>](https://vigilance.fr/vulnerability/WebKitGTK-reuse-after-free-via-WebCore-RenderLayer-addChild-41109)|An attacker can force the reuse of a freed memory area of WebKitGTK, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/insight-out-of-bounds-memory-reading-via-bfd-41108" class="noirorange"><b>insight</b>: out-of-bounds memory reading via bfd</a>](https://vigilance.fr/vulnerability/insight-out-of-bounds-memory-reading-via-bfd-41108)|An attacker can force a read at an invalid memory address of insight, via bfd, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-vulnerability-41107" class="noirorange"><b>Suricata</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Suricata-vulnerability-41107)|A vulnerability of Suricata was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-a-JXR-image-41106" class="noirorange"><b>FreeImage</b>: denial of service via a JXR image</a>](https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-a-JXR-image-41106)|An attacker can cause a fatal error of FreeImage, via an image of type JXR, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RNP-unprotected-keys-41105" class="noirorange"><b>RNP</b>: unprotected keys</a>](https://vigilance.fr/vulnerability/RNP-unprotected-keys-41105)|An attacker can acess to some cryptographic keys...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ribose-RNP-denial-of-service-via-PKESK-SKESK-OpenPGP-packets-41104" class="noirorange"><b>Ribose RNP</b>: denial of service via PKESK/SKESK OpenPGP packets</a>](https://vigilance.fr/vulnerability/Ribose-RNP-denial-of-service-via-PKESK-SKESK-OpenPGP-packets-41104)|An attacker can cause a fatal error of Ribose RNP, via PKESK/SKESK OpenPGP packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-verbose-output-41103" class="noirorange"><b>389 Directory Server</b>: information disclosure via verbose output</a>](https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-verbose-output-41103)|An attacker can bypass access restrictions to data of 389-ds-base, via verbose output, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -62,29 +87,4 @@
  |[41421904/23 - "Oracle Critical Patch Update" du Mois Avril 2023](https://www.dgssi.gov.ma//fr/content/4142190423-oracle-critical-patch-update-du-mois-avril-2023.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2023. L'exploitation de certaines de ces vulnérabilités pourrait permettre...|19 avril 2023|
  |[41411804/23 - Vulnérabilités dans les produits VMware](https://www.dgssi.gov.ma//fr/content/4141180423-vulnerabilites-dans-les-produits-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de réussir une élévation des privilèges,...|18 avril 2023|
  |[41401704/23 - Vulnérabilité critique dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4140170423-vulnerabilite-critique-dans-google-chrome.html)|Google a corrigé une vulnérabilité critique de type « zero-day » dans son navigateur Google Chrome. L’exploitation de cette faille peut permettre à un attaquant de prendre le contrôle du système affecté.Google confirme que cette faille...|17 avril 2023|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/insight-out-of-bounds-memory-reading-via-bfd-41108" class="noirorange"><b>insight</b>: out-of-bounds memory reading via bfd</a>](https://vigilance.fr/vulnerability/insight-out-of-bounds-memory-reading-via-bfd-41108)|An attacker can force a read at an invalid memory address of insight, via bfd, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-vulnerability-41107" class="noirorange"><b>Suricata</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Suricata-vulnerability-41107)|A vulnerability of Suricata was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-a-JXR-image-41106" class="noirorange"><b>FreeImage</b>: denial of service via a JXR image</a>](https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-a-JXR-image-41106)|An attacker can cause a fatal error of FreeImage, via an image of type JXR, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RNP-unprotected-keys-41105" class="noirorange"><b>RNP</b>: unprotected keys</a>](https://vigilance.fr/vulnerability/RNP-unprotected-keys-41105)|An attacker can acess to some cryptographic keys...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ribose-RNP-denial-of-service-via-PKESK-SKESK-OpenPGP-packets-41104" class="noirorange"><b>Ribose RNP</b>: denial of service via PKESK/SKESK OpenPGP packets</a>](https://vigilance.fr/vulnerability/Ribose-RNP-denial-of-service-via-PKESK-SKESK-OpenPGP-packets-41104)|An attacker can cause a fatal error of Ribose RNP, via PKESK/SKESK OpenPGP packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-verbose-output-41103" class="noirorange"><b>389 Directory Server</b>: information disclosure via verbose output</a>](https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-verbose-output-41103)|An attacker can bypass access restrictions to data of 389-ds-base, via verbose output, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/connman-buffer-overflow-via-DHCP-41102" class="noirorange"><b>connman</b>: buffer overflow via DHCP</a>](https://vigilance.fr/vulnerability/connman-buffer-overflow-via-DHCP-41102)|An attacker can trigger a buffer overflow of connman, via DHCP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-xgene-slimpro-i2c-xfer-41100" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>xgene_slimpro_i2c_xf<wbr>er</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-xgene-slimpro-i2c-xfer-41100)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sctp-stream-sched-c-41099" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>net/sctp/stream_sche<wbr>d.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sctp-stream-sched-c-41099)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-compare-netdev-and-ip-41098" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>compare_netdev_and_i<wbr>p()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-compare-netdev-and-ip-41098)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PatchELF-out-of-bounds-memory-reading-41097" class="noirorange"><b>PatchELF</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/PatchELF-out-of-bounds-memory-reading-41097)|An attacker can force a read at an invalid memory address of PatchELF, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
