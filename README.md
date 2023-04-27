@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/04/2023 21:18:35 UTC
+ > Last Updated 27/04/2023 09:18:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -21,13 +21,6 @@
  |[VulDB](#vuldb-arrow_heading_up)|Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.|
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
  ---
 
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
@@ -51,24 +44,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-user-access-via-JWT-41141" class="noirorange"><b>Grafana</b>: user access via JWT</a>](https://vigilance.fr/vulnerability/Grafana-user-access-via-JWT-41141)|An attacker can bypass restrictions of Grafana, via JWT, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-do-prlimit-41140" class="noirorange"><b>Linux kernel</b>: information disclosure via do_prlimit()</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-do-prlimit-41140)|An attacker can bypass access restrictions to data of the Linux kernel, via do_prlimit(), in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cloud-init-information-disclosure-via-log-files-41139" class="noirorange"><b>cloud-init</b>: information disclosure via log files</a>](https://vigilance.fr/vulnerability/cloud-init-information-disclosure-via-log-files-41139)|An attacker can read sensitive information from the cloud-init logs...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBMCA-extension-for-OpenSSL-getting-information-41138" class="noirorange"><b>IBMCA extension for OpenSSL</b>: getting information</a>](https://vigilance.fr/vulnerability/IBMCA-extension-for-OpenSSL-getting-information-41138)|An attacker can bypass access restrictions to data of the extension IBMCA pour OpenSSL, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-Cross-Site-Scripting-via-Admin-Console-41137" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-Cross-Site-Scripting-via-Admin-Console-41137)|An attacker can trigger a Cross Site Scripting of IBM WebSphere Application Server Traditional, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-three-vulnerabilities-41136" class="noirorange"><b>VMware Workstation</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-Workstation-three-vulnerabilities-41136)|An attacker can use several vulnerabilities of VMware Workstation...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Secure-Boot-renewal-of-cryptographic-keys-41135" class="noirorange"><b>Secure Boot</b>: renewal of cryptographic keys</a>](https://vigilance.fr/vulnerability/Secure-Boot-renewal-of-cryptographic-keys-41135)|Cryptographic keys used for Secure Boot must be renewed...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Git-three-vulnerabilities-41134" class="noirorange"><b>Git</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-three-vulnerabilities-41134)|An attacker can use several vulnerabilities of Git...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HPE-ProLiant-information-disclosure-41133" class="noirorange"><b>HPE ProLiant</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HPE-ProLiant-information-disclosure-41133)|An attacker can bypass access restrictions to data of HPE ProLiant, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LilyPond-privilege-escalation-41132" class="noirorange"><b>LilyPond</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/LilyPond-privilege-escalation-41132)|An attacker can bypass restrictions of LilyPond, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-direct-PCI-access-41131" class="noirorange"><b>Xen</b>: memory corruption via direct PCI access</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-direct-PCI-access-41131)|An attacker in a guest system can cause Xen memory corruption, via direct access to a PCI device, in order to conduct a denial of service, and possibly execute code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/protobuf-c-buffer-overflow-via-protobuf-c-message-unpack-41130" class="noirorange"><b>protobuf-c</b>: buffer overflow via <wbr>protobuf_c_message_u<wbr>npack()</wbr></wbr></a>](https://vigilance.fr/vulnerability/protobuf-c-buffer-overflow-via-protobuf-c-message-unpack-41130)|An attacker can trigger a buffer overflow of protobuf-c, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QATzip-privilege-escalation-41129" class="noirorange"><b>QATzip</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/QATzip-privilege-escalation-41129)|An attacker can bypass restrictions of QATzip, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Contao-directory-traversal-41128" class="noirorange"><b>Contao</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Contao-directory-traversal-41128)|An attacker can traverse directories of Contao, in order to read a folder outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ctrl-cdev-ioctl-41127" class="noirorange"><b>Linux kernel</b>: denial of service via ctrl_cdev_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ctrl-cdev-ioctl-41127)|An attacker can trigger a division by 0 in the Linux kernel, via ctrl_cdev_ioctl(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dvb-frontend-get-event-41126" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>dvb_frontend_get_eve<wbr>nt()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dvb-frontend-get-event-41126)|An attacker can make the Linux kernel block, via |Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -76,6 +62,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[41572704/23 - Vulnérabilité affectant Cisco Prime Collaboration Deployment](https://www.dgssi.gov.ma//fr/content/4157270423-vulnerabilite-affectant-cisco-prime-collaboration-deployment.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco Prime Collaboration Deployment.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code...|27 avril 2023|
  |[41562604/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4156260423-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|26 avril 2023|
  |[41542604/23 - Vulnérabilité dans le protocole SLP permettant des attaques d’amplification de DDOS ](https://www.dgssi.gov.ma//fr/content/4154260423-vulnerabilite-dans-le-protocole-slp-permettant-des-attaques-d-amplification-de-ddos.html)|SLP « Service Location Protocol » est un ancien protocole de découverte de services qui permet aux ordinateurs et autres périphériques de trouver des services dans un réseau local tels que des imprimantes, des serveurs de fichiers et d’...|26 avril 2023|
  |[41552604/23 - Vulnérabilité dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4155260423-vulnerabilite-dans-l-hyperviseur-xen.html)|Une vulnérabilité a été corrigée dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de cette faille peut permettre à un attaquant de causer un déni de service et une élévation de privilèges.|26 avril 2023|
@@ -86,5 +73,18 @@
  |[41492104/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4149210423-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|21 avril 2023|
  |[41482104/23 - Vulnérabilités critiques affectantVMware Aria Operations for Logs](https://www.dgssi.gov.ma//fr/content/4148210423-vulnerabilites-critiques-affectant-vmware-aria-operations-logs.html)|VMware annonce la correction de deux vulnérabilités critiques affectant son produit VMware Aria Operations for Logs. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire avec...|21 avril 2023|
  |[41472004/23 - Le ransomware « Kiop »](https://www.dgssi.gov.ma//fr/content/4147200423-le-ransomware-kiop.html)|Une compagne d’attaque par le ransomware « Kiop » a été récemment détectée, ciblant lessystèmes basés sur Windows dans le monde entier. Ce ransomware peut infecter les ordinateurs par diverses méthodes, notamment des pièces jointes...|20 avril 2023|
- |[41462004/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4146200423-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|20 avril 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
