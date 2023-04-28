@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/04/2023 09:18:54 UTC
+ > Last Updated 28/04/2023 21:16:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0345/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
+ |[Vulnérabilité dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0343/)|Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 28 avril 2023|
  |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2023|
  |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0341/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
  |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0340/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
  |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0339/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2023|
  |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0338/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 avril 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 25 avril 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Shadow-write-access-via-Chfn-Control-Characters-41149" class="noirorange"><b>Shadow</b>: write access via Chfn Control Characters</a>](https://vigilance.fr/vulnerability/Shadow-write-access-via-Chfn-Control-Characters-41149)|An attacker can bypass access restrictions of Shadow, via Chfn Control Characters, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-41148" class="noirorange"><b>libxml2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-41148)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Java-information-disclosure-41147" class="noirorange"><b>IBM Java</b>: information disclosure</a>](https://vigilance.fr/vulnerability/IBM-Java-information-disclosure-41147)|An attacker can bypass access restrictions to data of IBM Java, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Laminas-Diactoros-header-injection-41146" class="noirorange"><b>Laminas Diactoros</b>: header injection</a>](https://vigilance.fr/vulnerability/Laminas-Diactoros-header-injection-41146)|An attacker can add new headers on Laminas Diactoros, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/guzzlehttp-psr7-header-injection-41145" class="noirorange"><b>guzzlehttp/psr7</b>: header injection</a>](https://vigilance.fr/vulnerability/guzzlehttp-psr7-header-injection-41145)|An attacker can add new headers on guzzlehttp/psr7, in order to alter the service behavior...|Visit link for details|
@@ -60,8 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/cloud-init-information-disclosure-via-log-files-41139" class="noirorange"><b>cloud-init</b>: information disclosure via log files</a>](https://vigilance.fr/vulnerability/cloud-init-information-disclosure-via-log-files-41139)|An attacker can read sensitive information from the cloud-init logs...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBMCA-extension-for-OpenSSL-getting-information-41138" class="noirorange"><b>IBMCA extension for OpenSSL</b>: getting information</a>](https://vigilance.fr/vulnerability/IBMCA-extension-for-OpenSSL-getting-information-41138)|An attacker can bypass access restrictions to data of the extension IBMCA pour OpenSSL, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-Cross-Site-Scripting-via-Admin-Console-41137" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-Cross-Site-Scripting-via-Admin-Console-41137)|An attacker can trigger a Cross Site Scripting of IBM WebSphere Application Server Traditional, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-three-vulnerabilities-41136" class="noirorange"><b>VMware Workstation</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-Workstation-three-vulnerabilities-41136)|An attacker can use several vulnerabilities of VMware Workstation...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-three-vulnerabilities-41134" class="noirorange"><b>Git</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-three-vulnerabilities-41134)|An attacker can use several vulnerabilities of Git...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -69,6 +76,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[41592804/23 - Vulnérabilités dans les logiciels Avast et AVG Antivirus (AV)](https://www.dgssi.gov.ma//fr/content/4159280423-vulnerabilites-dans-les-logiciels-avast-et-avg-antivirus-av.html)|Deux vulnérabilités découvertes dans les logiciels Avast et AVG Antivirus (AV) antérieurs à la version 22.11. Lorsqu'elles sont enchaînées, ces vulnérabilités peuvent conduire à une élévation des privilèges en tant que « SYSTEME » et...|28 avril 2023|
  |[41582704/23- Vulnérabilités critiques affectant PrestaShop ](https://www.dgssi.gov.ma//fr/content/4158270423-vulnerabilites-critiques-affectant-prestashop.html)|PrestaShop annonce la correction de trois vulnérabilités affectant sa plateforme destinée à la construction de sites E-commerce. Une de ces vulnérabilités identifiée par «CVE-2023-30839 »est très critique et son exploitation peut...|27 avril 2023|
  |[41572704/23 - Vulnérabilité affectant Cisco Prime Collaboration Deployment](https://www.dgssi.gov.ma//fr/content/4157270423-vulnerabilite-affectant-cisco-prime-collaboration-deployment.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco Prime Collaboration Deployment.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code...|27 avril 2023|
  |[41562604/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4156260423-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|26 avril 2023|
@@ -79,12 +87,4 @@
  |[41522504/23 - Vulnérabilités affectant Solarwinds Platform](https://www.dgssi.gov.ma//fr/content/4152250423-vulnerabilites-affectant-solarwinds-platform.html)|SolarWinds annonce la correction de quatre vulnérabilités affectant sonproduit Solarwinds Plateform. L’exploitation de ces vulnérabilités peut permettre à un attaquant, l’exécution de code arbitraire, l’élévation de privilèges ou l’...|25 avril 2023|
  |[41502104/23 - Vulnérabilités dansPostfix](https://www.dgssi.gov.ma//fr/content/4150210423-vulnerabilites-dans-postfix.html)|Plusieurs vulnérabilités ont été corrigées dans les versions Postfix susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service.|21 avril 2023|
  |[41492104/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4149210423-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|21 avril 2023|
- |[41482104/23 - Vulnérabilités critiques affectantVMware Aria Operations for Logs](https://www.dgssi.gov.ma//fr/content/4148210423-vulnerabilites-critiques-affectant-vmware-aria-operations-logs.html)|VMware annonce la correction de deux vulnérabilités critiques affectant son produit VMware Aria Operations for Logs. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire avec...|21 avril 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
