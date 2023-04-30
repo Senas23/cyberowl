@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/04/2023 09:17:41 UTC
+ > Last Updated 30/04/2023 21:15:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -65,13 +65,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -87,4 +80,11 @@
  |[41522504/23 - Vulnérabilités affectant Solarwinds Platform](https://www.dgssi.gov.ma//fr/content/4152250423-vulnerabilites-affectant-solarwinds-platform.html)|SolarWinds annonce la correction de quatre vulnérabilités affectant sonproduit Solarwinds Plateform. L’exploitation de ces vulnérabilités peut permettre à un attaquant, l’exécution de code arbitraire, l’élévation de privilèges ou l’...|25 avril 2023|
  |[41502104/23 - Vulnérabilités dansPostfix](https://www.dgssi.gov.ma//fr/content/4150210423-vulnerabilites-dans-postfix.html)|Plusieurs vulnérabilités ont été corrigées dans les versions Postfix susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service.|21 avril 2023|
  |[41492104/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4149210423-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|21 avril 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
