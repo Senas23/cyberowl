@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/05/2023 09:19:01 UTC
+ > Last Updated 01/05/2023 21:16:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Shadow-write-access-via-Chfn-Control-Characters-41149" class="noirorange"><b>Shadow</b>: write access via Chfn Control Characters</a>](https://vigilance.fr/vulnerability/Shadow-write-access-via-Chfn-Control-Characters-41149)|An attacker can bypass access restrictions of Shadow, via Chfn Control Characters, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-41148" class="noirorange"><b>libxml2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-41148)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Java-information-disclosure-41147" class="noirorange"><b>IBM Java</b>: information disclosure</a>](https://vigilance.fr/vulnerability/IBM-Java-information-disclosure-41147)|An attacker can bypass access restrictions to data of IBM Java, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Laminas-Diactoros-header-injection-41146" class="noirorange"><b>Laminas Diactoros</b>: header injection</a>](https://vigilance.fr/vulnerability/Laminas-Diactoros-header-injection-41146)|An attacker can add new headers on Laminas Diactoros, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/guzzlehttp-psr7-header-injection-41145" class="noirorange"><b>guzzlehttp/psr7</b>: header injection</a>](https://vigilance.fr/vulnerability/guzzlehttp-psr7-header-injection-41145)|An attacker can add new headers on guzzlehttp/psr7, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-denial-of-service-via-crewjam-saml-library-41142" class="noirorange"><b>Grafana</b>: denial of service via crewjam/saml library</a>](https://vigilance.fr/vulnerability/Grafana-denial-of-service-via-crewjam-saml-library-41142)|An attacker can cause a fatal error of Grafana, in the library crewjam/saml, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-user-access-via-JWT-41141" class="noirorange"><b>Grafana</b>: user access via JWT</a>](https://vigilance.fr/vulnerability/Grafana-user-access-via-JWT-41141)|An attacker can bypass restrictions of Grafana, via JWT, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-do-prlimit-41140" class="noirorange"><b>Linux kernel</b>: information disclosure via do_prlimit()</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-do-prlimit-41140)|An attacker can bypass access restrictions to data of the Linux kernel, via do_prlimit(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cloud-init-information-disclosure-via-log-files-41139" class="noirorange"><b>cloud-init</b>: information disclosure via log files</a>](https://vigilance.fr/vulnerability/cloud-init-information-disclosure-via-log-files-41139)|An attacker can read sensitive information from the cloud-init logs...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBMCA-extension-for-OpenSSL-getting-information-41138" class="noirorange"><b>IBMCA extension for OpenSSL</b>: getting information</a>](https://vigilance.fr/vulnerability/IBMCA-extension-for-OpenSSL-getting-information-41138)|An attacker can bypass access restrictions to data of the extension IBMCA pour OpenSSL, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-Cross-Site-Scripting-via-Admin-Console-41137" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-Cross-Site-Scripting-via-Admin-Console-41137)|An attacker can trigger a Cross Site Scripting of IBM WebSphere Application Server Traditional, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164" class="noirorange"><b>Veritas NetBackup</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164)|An attacker can create a malicious DLL for Veritas NetBackup, and then put it in the current directory, in order to execute code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFFGetProfiles()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162)|An attacker can trigger a buffer overflow of ImageMagick, via TIFFGetProfiles(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161" class="noirorange"><b>Mbed TLS</b>: weak encryption via <wbr>mbedtls_mpi_exp_mod(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161)|An attacker can access data on Mbed TLS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160" class="noirorange"><b>Linux kernel</b>: buffer overflow via qfq_activate_agg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160)|An attacker can trigger a buffer overflow of the Linux kernel, via qfq_activate_agg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158" class="noirorange"><b>IBM MQ</b>: denial of service via Configuration Files</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158)|An attacker can cause a fatal error of IBM MQ, via Configuration Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-PCF-Messages-41157" class="noirorange"><b>IBM MQ</b>: denial of service via PCF Messages</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-PCF-Messages-41157)|An attacker can cause a fatal error of IBM MQ, via PCF Messages, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Tracing-Logic-41156" class="noirorange"><b>IBM MQ</b>: logged sensitive information via Tracing Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Tracing-Logic-41156)|An attacker can read logs of IBM MQ, via Tracing Logic, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Trace-File-41155" class="noirorange"><b>IBM MQ</b>: logged sensitive information via Trace File</a>](https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Trace-File-41155)|An attacker can read logs of IBM MQ, via Trace File, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Invalid-Data-41154" class="noirorange"><b>IBM MQ</b>: denial of service via Invalid Data</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Invalid-Data-41154)|An attacker can cause a fatal error of IBM MQ, via Invalid Data, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[41522504/23 - Vulnérabilités affectant Solarwinds Platform](https://www.dgssi.gov.ma//fr/content/4152250423-vulnerabilites-affectant-solarwinds-platform.html)|SolarWinds annonce la correction de quatre vulnérabilités affectant sonproduit Solarwinds Plateform. L’exploitation de ces vulnérabilités peut permettre à un attaquant, l’exécution de code arbitraire, l’élévation de privilèges ou l’...|25 avril 2023|
  |[41502104/23 - Vulnérabilités dansPostfix](https://www.dgssi.gov.ma//fr/content/4150210423-vulnerabilites-dans-postfix.html)|Plusieurs vulnérabilités ont été corrigées dans les versions Postfix susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service.|21 avril 2023|
  |[41492104/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4149210423-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|21 avril 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
