@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/05/2023 21:16:39 UTC
+ > Last Updated 02/05/2023 09:19:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165" class="noirorange"><b>Linux kernel</b>: reuse after free via perf_group_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164" class="noirorange"><b>Veritas NetBackup</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164)|An attacker can create a malicious DLL for Veritas NetBackup, and then put it in the current directory, in order to execute code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFFGetProfiles()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162)|An attacker can trigger a buffer overflow of ImageMagick, via TIFFGetProfiles(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -61,7 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-PCF-Messages-41157" class="noirorange"><b>IBM MQ</b>: denial of service via PCF Messages</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-PCF-Messages-41157)|An attacker can cause a fatal error of IBM MQ, via PCF Messages, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Tracing-Logic-41156" class="noirorange"><b>IBM MQ</b>: logged sensitive information via Tracing Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Tracing-Logic-41156)|An attacker can read logs of IBM MQ, via Tracing Logic, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Trace-File-41155" class="noirorange"><b>IBM MQ</b>: logged sensitive information via Trace File</a>](https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Trace-File-41155)|An attacker can read logs of IBM MQ, via Trace File, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Invalid-Data-41154" class="noirorange"><b>IBM MQ</b>: denial of service via Invalid Data</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Invalid-Data-41154)|An attacker can cause a fatal error of IBM MQ, via Invalid Data, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -76,6 +76,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[41600205/23 - Vulnérabilitésaffectant des produits de Zyxel](https://www.dgssi.gov.ma//fr/content/4160020523-vulnerabilites-affectant-des-produits-de-zyxel.html)|Zyxel annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter du contenu dans une page ou d’injecter des commandes.|02 mai 2023|
  |[41592804/23 - Vulnérabilités dans les logiciels Avast et AVG Antivirus (AV)](https://www.dgssi.gov.ma//fr/content/4159280423-vulnerabilites-dans-les-logiciels-avast-et-avg-antivirus-av.html)|Deux vulnérabilités découvertes dans les logiciels Avast et AVG Antivirus (AV) antérieurs à la version 22.11. Lorsqu'elles sont enchaînées, ces vulnérabilités peuvent conduire à une élévation des privilèges en tant que « SYSTEME » et...|28 avril 2023|
  |[41582704/23- Vulnérabilités critiques affectant PrestaShop ](https://www.dgssi.gov.ma//fr/content/4158270423-vulnerabilites-critiques-affectant-prestashop.html)|PrestaShop annonce la correction de trois vulnérabilités affectant sa plateforme destinée à la construction de sites E-commerce. Une de ces vulnérabilités identifiée par «CVE-2023-30839 »est très critique et son exploitation peut...|27 avril 2023|
  |[41572704/23 - Vulnérabilité affectant Cisco Prime Collaboration Deployment](https://www.dgssi.gov.ma//fr/content/4157270423-vulnerabilite-affectant-cisco-prime-collaboration-deployment.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco Prime Collaboration Deployment.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code...|27 avril 2023|
@@ -86,5 +87,4 @@
  |[41512504/23 - Exploitation active des vulnérabilités SNMP dans les logiciels Cisco IOS et IOS XE](https://www.dgssi.gov.ma//fr/content/4151250423-exploitation-active-des-vulnerabilites-snmp-dans-les-logiciels-cisco-ios-et-ios-xe.html)|Une compagne d'attaque a été observée exploitant activement plusieurs vulnérabilités con-nues du protocole SNMP à savoir (CVE-2017-6736, CVE-2017-6737, CVE-2017-6738, CVE-2017-6739, CVE-2017-6740, CVE-2017-6742, CVE-2017-6743 et CVE-...|25 avril 2023|
  |[41522504/23 - Vulnérabilités affectant Solarwinds Platform](https://www.dgssi.gov.ma//fr/content/4152250423-vulnerabilites-affectant-solarwinds-platform.html)|SolarWinds annonce la correction de quatre vulnérabilités affectant sonproduit Solarwinds Plateform. L’exploitation de ces vulnérabilités peut permettre à un attaquant, l’exécution de code arbitraire, l’élévation de privilèges ou l’...|25 avril 2023|
  |[41502104/23 - Vulnérabilités dansPostfix](https://www.dgssi.gov.ma//fr/content/4150210423-vulnerabilites-dans-postfix.html)|Plusieurs vulnérabilités ont été corrigées dans les versions Postfix susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service.|21 avril 2023|
- |[41492104/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4149210423-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|21 avril 2023|
  
