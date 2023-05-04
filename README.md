@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/05/2023 21:17:38 UTC
+ > Last Updated 04/05/2023 09:19:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-sslvpnd-41187" class="noirorange"><b>FortiOS</b>: buffer overflow via sslvpnd</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-sslvpnd-41187)|An attacker can trigger a buffer overflow of FortiOS, via sslvpnd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-S3-File-System-file-write-41186" class="noirorange"><b>Drupal S3 File System</b>: file write</a>](https://vigilance.fr/vulnerability/Drupal-S3-File-System-file-write-41186)|An attacker can bypass access restrictions of Drupal S3 File System, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sentry-SDK-for-Python-information-disclosure-via-sendDefaultPII-41185" class="noirorange"><b>Sentry SDK for Python</b>: information disclosure via sendDefaultPII</a>](https://vigilance.fr/vulnerability/Sentry-SDK-for-Python-information-disclosure-via-sendDefaultPII-41185)|An attacker can bypass access restrictions to data of Sentry SDK for Python, via sendDefaultPII, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-information-disclosure-via-SimpleHTTPServer-41184" class="noirorange"><b>Python</b>: information disclosure via SimpleHTTPServer</a>](https://vigilance.fr/vulnerability/Python-information-disclosure-via-SimpleHTTPServer-41184)|An attacker can bypass access restrictions to data of Python, via SimpleHTTPServer, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Django-file-upload-via-Multiple-Files-41183" class="noirorange"><b>Django</b>: file upload via Multiple Files</a>](https://vigilance.fr/vulnerability/Django-file-upload-via-Multiple-Files-41183)|An attacker can upload a malicious file on Django, via Multiple Files, in order for example to upload a Trojan...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-41182" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-41182)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
@@ -59,9 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179" class="noirorange"><b>Check Point Quantum</b>: logged sensitive information via OS Backup File Encryption Password</a>](https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179)|An attacker can read logs of Check Point Quantum, via OS Backup File Encryption Password, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177" class="noirorange"><b>Linux kernel</b>: memory reading via copy_from_user()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177)|An attacker can read a memory fragment of the Linux kernel, via copy_from_user(), in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-spectre-v2-in-ibrs-mode-41176" class="noirorange"><b>Linux kernel</b>: memory reading via <wbr>spectre_v2_in_ibrs_m<wbr>ode()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-spectre-v2-in-ibrs-mode-41176)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puppet-Server-overload-via-Certificate-Validation-Regular-Expression-41170" class="noirorange"><b>Puppet Server</b>: overload via Certificate Validation Regular Expression</a>](https://vigilance.fr/vulnerability/Puppet-Server-overload-via-Certificate-Validation-Regular-Expression-41170)|An attacker can trigger an overload of Puppet Server, via Certificate Validation Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -69,6 +76,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[41670405/23 - Vulnérabilité critique affectant Cisco 2-Port Phone Adapters SPA112](https://www.dgssi.gov.ma//fr/content/4167040523-vulnerabilite-critique-affectant-cisco-2-port-phone-adapters-spa112.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco 2-Port Phone Adapters SPA112.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant non authentifié d’...|04 mai 2023|
  |[41660305 /23 - Vulnérabilités dans Elastic Kibana](https://www.dgssi.gov.ma//fr/content/41660305-23-vulnerabilites-dans-elastic-kibana.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Elastic Kibana. L’exploitation de ces failles permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité...|03 mai 2023|
  |[41630305 /23 - Vulnérabilités dans IBM Db2](https://www.dgssi.gov.ma//fr/content/41630305-23-vulnerabilites-dans-ibm-db2.html)|Plusieurs vulnérabilités ont été corrigées dans les versions IBM Db2 susmentionnées. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités pour causer un déni de service et de prendre le contrôle du système affecté.|03 mai 2023|
  |[41630305/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4163030523-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à des...|03 mai 2023|
@@ -79,12 +87,4 @@
  |[41582704/23- Vulnérabilités critiques affectant PrestaShop ](https://www.dgssi.gov.ma//fr/content/4158270423-vulnerabilites-critiques-affectant-prestashop.html)|PrestaShop annonce la correction de trois vulnérabilités affectant sa plateforme destinée à la construction de sites E-commerce. Une de ces vulnérabilités identifiée par «CVE-2023-30839 »est très critique et son exploitation peut...|27 avril 2023|
  |[41572704/23 - Vulnérabilité affectant Cisco Prime Collaboration Deployment](https://www.dgssi.gov.ma//fr/content/4157270423-vulnerabilite-affectant-cisco-prime-collaboration-deployment.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco Prime Collaboration Deployment.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code...|27 avril 2023|
  |[41562604/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4156260423-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|26 avril 2023|
- |[41542604/23 - Vulnérabilité dans le protocole SLP permettant des attaques d’amplification de DDOS ](https://www.dgssi.gov.ma//fr/content/4154260423-vulnerabilite-dans-le-protocole-slp-permettant-des-attaques-d-amplification-de-ddos.html)|SLP « Service Location Protocol » est un ancien protocole de découverte de services qui permet aux ordinateurs et autres périphériques de trouver des services dans un réseau local tels que des imprimantes, des serveurs de fichiers et d’...|26 avril 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
