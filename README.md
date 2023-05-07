@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/05/2023 21:16:35 UTC
+ > Last Updated 07/05/2023 09:17:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -65,6 +65,13 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -80,11 +87,4 @@
  |[41630305/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4163030523-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à des...|03 mai 2023|
  |[41620205 /23 - Vulnérabilités critiques dans Android et Pixel](https://www.dgssi.gov.ma//fr/content/41620205-23-vulnerabilites-critiques-dans-android-et-pixel.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android et pixel. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service,...|02 mai 2023|
  |[41610205 /23 - Vulnérabilité dans Apache Superset](https://www.dgssi.gov.ma//fr/content/41610205-23-vulnerabilite-dans-apache-superset.html)|Une vulnérabilité permettant la validation de session a été corrigée dans les versions d'Apache Superset susmentionnées. Une exploitation réussie peut conduire un attaquant à l'exécution de code à distance (RCE) sur des...|02 mai 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
