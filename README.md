@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/05/2023 21:16:05 UTC
+ > Last Updated 09/05/2023 09:21:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-four-vulnerabilities-41208" class="noirorange"><b>ArubaOS</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-four-vulnerabilities-41208)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ext4-xattr-set-entry-41207" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>ext4_xattr_set_entry<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ext4-xattr-set-entry-41207)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Northern-tech-CFEngine-Enterprise-two-vulnerabilities-41206" class="noirorange"><b>Northern.tech CFEngine Enterprise</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Northern-tech-CFEngine-Enterprise-two-vulnerabilities-41206)|An attacker can use several vulnerabilities of Northern.tech CFEngine Enterprise...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/indent-memory-corruption-41205" class="noirorange"><b>indent</b>: memory corruption</a>](https://vigilance.fr/vulnerability/indent-memory-corruption-41205)|An attacker can trigger a memory corruption of indent, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ncurses-privilege-escalation-via-Terminfo-Database-41204" class="noirorange"><b>ncurses</b>: privilege escalation via Terminfo Database</a>](https://vigilance.fr/vulnerability/ncurses-privilege-escalation-via-Terminfo-Database-41204)|An attacker can bypass restrictions of ncurses, via Terminfo Database, in order to escalate his privileges...|Visit link for details|
@@ -60,8 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-Netrom-Already-Connected-Socket-41200" class="noirorange"><b>Linux kernel</b>: reuse after free via Netrom Already Connected Socket</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-Netrom-Already-Connected-Socket-41200)|An attacker can force the reuse of a freed memory area of the Linux kernel, via Netrom Already Connected Socket, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199" class="noirorange"><b>hutool-json</b>: buffer overflow via XML.toJSONObject</a>](https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199)|An attacker can trigger a buffer overflow of hutool-json, via XML.toJSONObject, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-41198" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-41198)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-raw2image-ex-41197" class="noirorange"><b>LibRaw</b>: buffer overflow via raw2image_ex()</a>](https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-raw2image-ex-41197)|An attacker can trigger a buffer overflow of LibRaw, via raw2image_ex(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/h2-memory-leak-41196" class="noirorange"><b>h2</b>: memory leak</a>](https://vigilance.fr/vulnerability/h2-memory-leak-41196)|An attacker can create a memory leak of h2, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
