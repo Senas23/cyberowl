@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/05/2023 21:16:32 UTC
+ > Last Updated 12/05/2023 09:18:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252" class="noirorange"><b>SnapCenter</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252)|An attacker can bypass restrictions of SnapCenter, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-R390-height-vulnerabilities-41250" class="noirorange"><b>NVIDIA GPU Display Driver R390</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-R390-height-vulnerabilities-41250)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver R390...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-read-write-access-via-Row-Security-User-ID-Changes-41249" class="noirorange"><b>PostgreSQL</b>: read-write access via Row Security User ID Changes</a>](https://vigilance.fr/vulnerability/PostgreSQL-read-write-access-via-Row-Security-User-ID-Changes-41249)|An attacker can bypass access restrictions of PostgreSQL, via Row Security User ID Changes, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-privilege-escalation-via-CREATE-SCHEMA-Search-Path-41248" class="noirorange"><b>PostgreSQL</b>: privilege escalation via CREATE SCHEMA Search Path</a>](https://vigilance.fr/vulnerability/PostgreSQL-privilege-escalation-via-CREATE-SCHEMA-Search-Path-41248)|An attacker can bypass restrictions of PostgreSQL, via CREATE SCHEMA Search Path, in order to escalate his privileges...|Visit link for details|
@@ -61,7 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Moodle-directory-creation-via-TinyMCE-Loaders-41243" class="noirorange"><b>Moodle</b>: directory creation via TinyMCE Loaders</a>](https://vigilance.fr/vulnerability/Moodle-directory-creation-via-TinyMCE-Loaders-41243)|An attacker can bypass access restrictions of Moodle, via TinyMCE Loaders, in order to create a directory...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-emac-remove-41242" class="noirorange"><b>Linux kernel</b>: reuse after free via emac_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-emac-remove-41242)|An attacker can force the reuse of a freed memory area of the Linux kernel, via emac_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Store-Nova-file-read-write-via-Deleted-Volume-Attachments-41241" class="noirorange"><b>OpenStack Cinder  Glance Store  Nova</b>: file read/write via Deleted Volume Attachments</a>](https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Store-Nova-file-read-write-via-Deleted-Volume-Attachments-41241)|An attacker can bypass access restrictions of OpenStack Cinder  Glance Store  Nova, via Deleted Volume Attachments, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-Web-Interface-41240" class="noirorange"><b>PAN-OS</b>: file reading via Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-Web-Interface-41240)|An attacker can read a file of PAN-OS, via Web Interface, in order to obtain sensitive information...|Visit link for details|
  
  ---
 
@@ -76,6 +76,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[41851205/23 - Vulnérabilitécritiqueaffectant le plugin «Essential Addons for Elementor» pour Wor](https://www.dgssi.gov.ma//fr/content/4185120523-vulnerabilite-critique-affectant-le-plugin-essential-addons-elementor-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité critique affectant le plugin« EssentialAddons for Elementor». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’accéder à des informations...|12 mai 2023|
  |[41831105/23 - Vulnérabilités dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/4183110523-vulnerabilites-dans-aruba-arubaos.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Aruba ArubaOS. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de...|11 mai 2023|
  |[41841105/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4184110523-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|11 mai 2023|
  |[41821105/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4182110523-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un...|11 mai 2023|
@@ -86,5 +87,4 @@
  |[41781005/23 - Vulnérabilité critique dans Netfilter affectant le noyau Linux](https://www.dgssi.gov.ma//fr/content/4178100523-vulnerabilite-critique-dans-netfilter-affectant-le-noyau-linux.html)|Des chercheurs en sécurité informatique annoncent la correction d’une vulnérabilité critiqueaffectant la fonction NetFilter du noyau linux. L’exploitation de cette vulnérabilité peut permettre à un attaquant local d’élever des...|10 mai 2023|
  |[41771005/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4177100523-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|10 mai 2023|
  |[41761005/23 - Vulnérabilités affectant Adobe substance3D Painter](https://www.dgssi.gov.ma//fr/content/4176100523-vulnerabilites-affectant-adobe-substance-3d-painter.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant son produit « Substance 3D Painter ». L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code...|10 mai 2023|
- |[41751005/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Mai 2023)](https://www.dgssi.gov.ma//fr/content/4175100523-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mai-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|10 mai 2023|
  
