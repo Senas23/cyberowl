@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/05/2023 09:18:42 UTC
+ > Last Updated 12/05/2023 21:16:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
+ |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
+ |[Multiples vulnérabilités Vmware Aria Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0379/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
+ |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 12 mai 2023|
  |[Multiples vulnérabilités dans PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0377/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 mai 2023|
  |[Vulnérabilité dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0376/)|Une vulnérabilité a été découverte dans |Publié le 11 mai 2023|
  |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0375/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 mai 2023|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0374/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 mai 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0373/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 mai 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0372/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 mai 2023|
- |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0371/)|De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 10 mai 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0370/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0369/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 10 mai 2023|
- |[Multiples vulnérabilités dans Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0368/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 10 mai 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -65,17 +72,14 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[41891205/23 - Vulnérabilité dans Lenovo ThinkPad](https://www.dgssi.gov.ma//fr/content/4189120523-vulnerabilite-dans-lenovo-thinkpad.html)|Une vulnérabilité a été corrigée dans Lenovo ThinkPad.L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges et de prendre le contrôle sur le système affecté.|12 mai 2023|
+ |[41881205/23 - Vulnérabilités dans VMware Aria Operations](https://www.dgssi.gov.ma//fr/content/4188120523-vulnerabilites-dans-vmware-aria-operations.html)|Plusieurs vulnérabilités ont été corrigées dans VMware Aria Operations. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire et de réussir une élévation de privilèges.|12 mai 2023|
+ |[41861205/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4186120523-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|12 mai 2023|
+ |[41871205/23 - Vulnérabilités dans Palo Alto PAN-OS](https://www.dgssi.gov.ma//fr/content/4187120523-vulnerabilites-dans-palo-alto-pan-os.html)|Deux vulnérabilités ont été corrigées dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données et de réussir une injection de...|12 mai 2023|
  |[41851205/23 - Vulnérabilitécritiqueaffectant le plugin «Essential Addons for Elementor» pour Wor](https://www.dgssi.gov.ma//fr/content/4185120523-vulnerabilite-critique-affectant-le-plugin-essential-addons-elementor-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité critique affectant le plugin« EssentialAddons for Elementor». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’accéder à des informations...|12 mai 2023|
  |[41831105/23 - Vulnérabilités dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/4183110523-vulnerabilites-dans-aruba-arubaos.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Aruba ArubaOS. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de...|11 mai 2023|
  |[41841105/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4184110523-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|11 mai 2023|
@@ -83,8 +87,4 @@
  |[41821105/23 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma//fr/content/4182110523-vulnerabilites-dans-les-produits-intel.html)|Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données...|11 mai 2023|
  |[41811105/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4181110523-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|11 mai 2023|
  |[41801105/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4180110523-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter du contenu dans une page ou d’accéder à des informations...|11 mai 2023|
- |[41791005/23 - Vulnérabilité critique affectant GitLab](https://www.dgssi.gov.ma//fr/content/4179100523-vulnerabilite-critique-affectant-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger une vulnérabilité critique affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code...|10 mai 2023|
- |[41781005/23 - Vulnérabilité critique dans Netfilter affectant le noyau Linux](https://www.dgssi.gov.ma//fr/content/4178100523-vulnerabilite-critique-dans-netfilter-affectant-le-noyau-linux.html)|Des chercheurs en sécurité informatique annoncent la correction d’une vulnérabilité critiqueaffectant la fonction NetFilter du noyau linux. L’exploitation de cette vulnérabilité peut permettre à un attaquant local d’élever des...|10 mai 2023|
- |[41771005/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4177100523-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|10 mai 2023|
- |[41761005/23 - Vulnérabilités affectant Adobe substance3D Painter](https://www.dgssi.gov.ma//fr/content/4176100523-vulnerabilites-affectant-adobe-substance-3d-painter.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant son produit « Substance 3D Painter ». L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code...|10 mai 2023|
  
