@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/05/2023 09:17:01 UTC
+ > Last Updated 14/05/2023 21:17:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,13 +47,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -69,6 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Moodle-directory-creation-via-TinyMCE-Loaders-41243" class="noirorange"><b>Moodle</b>: directory creation via TinyMCE Loaders</a>](https://vigilance.fr/vulnerability/Moodle-directory-creation-via-TinyMCE-Loaders-41243)|An attacker can bypass access restrictions of Moodle, via TinyMCE Loaders, in order to create a directory...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-emac-remove-41242" class="noirorange"><b>Linux kernel</b>: reuse after free via emac_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-emac-remove-41242)|An attacker can force the reuse of a freed memory area of the Linux kernel, via emac_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Store-Nova-file-read-write-via-Deleted-Volume-Attachments-41241" class="noirorange"><b>OpenStack Cinder  Glance Store  Nova</b>: file read/write via Deleted Volume Attachments</a>](https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Store-Nova-file-read-write-via-Deleted-Volume-Attachments-41241)|An attacker can bypass access restrictions of OpenStack Cinder  Glance Store  Nova, via Deleted Volume Attachments, in order to read or alter files...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
