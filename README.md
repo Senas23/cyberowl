@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/05/2023 09:19:14 UTC
+ > Last Updated 15/05/2023 21:16:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits VMware Tanzu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mai 2023|
+ |[Multiples vulnérabilités dans TrendMicro Mobile Security (entreprise)](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mai 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 mai 2023|
@@ -42,8 +44,6 @@
  |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 12 mai 2023|
  |[Multiples vulnérabilités dans PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0377/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 mai 2023|
  |[Vulnérabilité dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0376/)|Une vulnérabilité a été découverte dans |Publié le 11 mai 2023|
- |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0375/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 mai 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0374/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 mai 2023|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SnakeYAML-denial-of-service-via-Error-Pretty-printer-41256" class="noirorange"><b>SnakeYAML</b>: denial of service via Error Pretty-printer</a>](https://vigilance.fr/vulnerability/SnakeYAML-denial-of-service-via-Error-Pretty-printer-41256)|An attacker can cause a fatal error of SnakeYAML, via Error Pretty-printer, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-Endpoint-Protection-three-vulnerabilities-41255" class="noirorange"><b>Webroot SecureAnywhere Endpoint Protection</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-Endpoint-Protection-three-vulnerabilities-41255)|An attacker can use several vulnerabilities of Webroot SecureAnywhere Endpoint Protection...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tcpreplay-multiple-vulnerabilities-41254" class="noirorange"><b>Tcpreplay</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Tcpreplay-multiple-vulnerabilities-41254)|An attacker can use several vulnerabilities of Tcpreplay...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-table-clear-41253" class="noirorange"><b>Linux kernel</b>: denial of service via table_clear()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-table-clear-41253)|An attacker can cause a fatal error of the Linux kernel, via table_clear(), in order to trigger a denial of service...|Visit link for details|
@@ -61,7 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-ingress-filtrering-bypass-via-Refs-replace-Smuggling-Code-Changes-41247" class="noirorange"><b>GitLab CE/EE</b>: ingress filtrering bypass via Refs/replace Smuggling Code Changes</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-ingress-filtrering-bypass-via-Refs-replace-Smuggling-Code-Changes-41247)|An attacker can bypass filtering rules of GitLab CE/EE, via Refs/replace Smuggling Code Changes, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Samba-write-access-via-Create-Child-Permission-41246" class="noirorange"><b>Samba</b>: write access via Create Child Permission</a>](https://vigilance.fr/vulnerability/Samba-write-access-via-Create-Child-Permission-41246)|An attacker can bypass access restrictions of Samba, via Create Child Permission, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VTK-NULL-pointer-dereference-via-vtkXMLTreeReader-cxx-41245" class="noirorange"><b>VTK</b>: NULL pointer dereference via <wbr>vtkXMLTreeReader.cxx</wbr></a>](https://vigilance.fr/vulnerability/VTK-NULL-pointer-dereference-via-vtkXMLTreeReader-cxx-41245)|An attacker can force a NULL pointer to be dereferenced on VTK, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Moodle-SQL-injection-via-External-Wiki-Method-41244" class="noirorange"><b>Moodle</b>: SQL injection via External Wiki Method</a>](https://vigilance.fr/vulnerability/Moodle-SQL-injection-via-External-Wiki-Method-41244)|An attacker can use a SQL injection of Moodle, via External Wiki Method, in order to read or alter data...|Visit link for details|
  
  ---
 
@@ -76,6 +76,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[41911505/23 - Vulnérabilités critiques dans les produits Wifi RUCKUS ](https://www.dgssi.gov.ma//fr/content/4191150523-vulnerabilites-critiques-dans-les-produits-wifi-ruckus.html)|Deux vulnérabilités critiques ont été corrigées dans les produits WIFI Ruckus susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à dis-tance et de contourner la politique de...|15 mai 2023|
+ |[41901505/23 - Exploitation active d'une vulnérabilité critique dans PaperCut MF (Multifonction)](https://www.dgssi.gov.ma//fr/content/4190150523-exploitation-active-d-une-vulnerabilite-critique-dans-papercut-mf-multifonction-et-ng-nouvelle-generation.html)|Des rapports font état de l'exploitation active d'une vulnérabilité critique (CVE-2023-27350) dans PaperCut MF (Multifunction) et NG (Next Generation). PaperCut MF et NG sont des solutions de gestion d'impression utilisées...|15 mai 2023|
  |[41891205/23 - Vulnérabilité dans Lenovo ThinkPad](https://www.dgssi.gov.ma//fr/content/4189120523-vulnerabilite-dans-lenovo-thinkpad.html)|Une vulnérabilité a été corrigée dans Lenovo ThinkPad.L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges et de prendre le contrôle sur le système affecté.|12 mai 2023|
  |[41881205/23 - Vulnérabilités dans VMware Aria Operations](https://www.dgssi.gov.ma//fr/content/4188120523-vulnerabilites-dans-vmware-aria-operations.html)|Plusieurs vulnérabilités ont été corrigées dans VMware Aria Operations. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire et de réussir une élévation de privilèges.|12 mai 2023|
  |[41861205/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4186120523-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|12 mai 2023|
@@ -85,6 +87,4 @@
  |[41841105/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4184110523-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|11 mai 2023|
  |[41821105/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4182110523-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un...|11 mai 2023|
  |[41821105/23 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma//fr/content/4182110523-vulnerabilites-dans-les-produits-intel.html)|Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données...|11 mai 2023|
- |[41811105/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4181110523-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|11 mai 2023|
- |[41801105/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4180110523-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter du contenu dans une page ou d’accéder à des informations...|11 mai 2023|
  
