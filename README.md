@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/05/2023 21:17:48 UTC
+ > Last Updated 15/05/2023 09:19:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-Endpoint-Protection-three-vulnerabilities-41255" class="noirorange"><b>Webroot SecureAnywhere Endpoint Protection</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-Endpoint-Protection-three-vulnerabilities-41255)|An attacker can use several vulnerabilities of Webroot SecureAnywhere Endpoint Protection...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tcpreplay-multiple-vulnerabilities-41254" class="noirorange"><b>Tcpreplay</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Tcpreplay-multiple-vulnerabilities-41254)|An attacker can use several vulnerabilities of Tcpreplay...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-table-clear-41253" class="noirorange"><b>Linux kernel</b>: denial of service via table_clear()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-table-clear-41253)|An attacker can cause a fatal error of the Linux kernel, via table_clear(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252" class="noirorange"><b>SnapCenter</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41252)|An attacker can bypass restrictions of SnapCenter, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-R390-height-vulnerabilities-41250" class="noirorange"><b>NVIDIA GPU Display Driver R390</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-R390-height-vulnerabilities-41250)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver R390...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-read-write-access-via-Row-Security-User-ID-Changes-41249" class="noirorange"><b>PostgreSQL</b>: read-write access via Row Security User ID Changes</a>](https://vigilance.fr/vulnerability/PostgreSQL-read-write-access-via-Row-Security-User-ID-Changes-41249)|An attacker can bypass access restrictions of PostgreSQL, via Row Security User ID Changes, in order to read or alter data...|Visit link for details|
@@ -59,9 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Samba-write-access-via-Create-Child-Permission-41246" class="noirorange"><b>Samba</b>: write access via Create Child Permission</a>](https://vigilance.fr/vulnerability/Samba-write-access-via-Create-Child-Permission-41246)|An attacker can bypass access restrictions of Samba, via Create Child Permission, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VTK-NULL-pointer-dereference-via-vtkXMLTreeReader-cxx-41245" class="noirorange"><b>VTK</b>: NULL pointer dereference via <wbr>vtkXMLTreeReader.cxx</wbr></a>](https://vigilance.fr/vulnerability/VTK-NULL-pointer-dereference-via-vtkXMLTreeReader-cxx-41245)|An attacker can force a NULL pointer to be dereferenced on VTK, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Moodle-SQL-injection-via-External-Wiki-Method-41244" class="noirorange"><b>Moodle</b>: SQL injection via External Wiki Method</a>](https://vigilance.fr/vulnerability/Moodle-SQL-injection-via-External-Wiki-Method-41244)|An attacker can use a SQL injection of Moodle, via External Wiki Method, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Moodle-directory-creation-via-TinyMCE-Loaders-41243" class="noirorange"><b>Moodle</b>: directory creation via TinyMCE Loaders</a>](https://vigilance.fr/vulnerability/Moodle-directory-creation-via-TinyMCE-Loaders-41243)|An attacker can bypass access restrictions of Moodle, via TinyMCE Loaders, in order to create a directory...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-emac-remove-41242" class="noirorange"><b>Linux kernel</b>: reuse after free via emac_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-emac-remove-41242)|An attacker can force the reuse of a freed memory area of the Linux kernel, via emac_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Store-Nova-file-read-write-via-Deleted-Volume-Attachments-41241" class="noirorange"><b>OpenStack Cinder  Glance Store  Nova</b>: file read/write via Deleted Volume Attachments</a>](https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Store-Nova-file-read-write-via-Deleted-Volume-Attachments-41241)|An attacker can bypass access restrictions of OpenStack Cinder  Glance Store  Nova, via Deleted Volume Attachments, in order to read or alter files...|Visit link for details|
  
  ---
 
