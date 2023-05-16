@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/05/2023 21:16:59 UTC
+ > Last Updated 16/05/2023 09:21:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/KeePass-information-disclosure-via-Password-Leftover-Character-41257" class="noirorange"><b>KeePass</b>: information disclosure via Password Leftover Character</a>](https://vigilance.fr/vulnerability/KeePass-information-disclosure-via-Password-Leftover-Character-41257)|An attacker can bypass access restrictions to data of KeePass, via Password Leftover Character, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SnakeYAML-denial-of-service-via-Error-Pretty-printer-41256" class="noirorange"><b>SnakeYAML</b>: denial of service via Error Pretty-printer</a>](https://vigilance.fr/vulnerability/SnakeYAML-denial-of-service-via-Error-Pretty-printer-41256)|An attacker can cause a fatal error of SnakeYAML, via Error Pretty-printer, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-Endpoint-Protection-three-vulnerabilities-41255" class="noirorange"><b>Webroot SecureAnywhere Endpoint Protection</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-Endpoint-Protection-three-vulnerabilities-41255)|An attacker can use several vulnerabilities of Webroot SecureAnywhere Endpoint Protection...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tcpreplay-multiple-vulnerabilities-41254" class="noirorange"><b>Tcpreplay</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Tcpreplay-multiple-vulnerabilities-41254)|An attacker can use several vulnerabilities of Tcpreplay...|Visit link for details|
@@ -61,7 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-privilege-escalation-via-CREATE-SCHEMA-Search-Path-41248" class="noirorange"><b>PostgreSQL</b>: privilege escalation via CREATE SCHEMA Search Path</a>](https://vigilance.fr/vulnerability/PostgreSQL-privilege-escalation-via-CREATE-SCHEMA-Search-Path-41248)|An attacker can bypass restrictions of PostgreSQL, via CREATE SCHEMA Search Path, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-ingress-filtrering-bypass-via-Refs-replace-Smuggling-Code-Changes-41247" class="noirorange"><b>GitLab CE/EE</b>: ingress filtrering bypass via Refs/replace Smuggling Code Changes</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-ingress-filtrering-bypass-via-Refs-replace-Smuggling-Code-Changes-41247)|An attacker can bypass filtering rules of GitLab CE/EE, via Refs/replace Smuggling Code Changes, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Samba-write-access-via-Create-Child-Permission-41246" class="noirorange"><b>Samba</b>: write access via Create Child Permission</a>](https://vigilance.fr/vulnerability/Samba-write-access-via-Create-Child-Permission-41246)|An attacker can bypass access restrictions of Samba, via Create Child Permission, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VTK-NULL-pointer-dereference-via-vtkXMLTreeReader-cxx-41245" class="noirorange"><b>VTK</b>: NULL pointer dereference via <wbr>vtkXMLTreeReader.cxx</wbr></a>](https://vigilance.fr/vulnerability/VTK-NULL-pointer-dereference-via-vtkXMLTreeReader-cxx-41245)|An attacker can force a NULL pointer to be dereferenced on VTK, via |Visit link for details|
  
  ---
 
