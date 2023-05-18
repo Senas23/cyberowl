@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/05/2023 21:17:00 UTC
+ > Last Updated 18/05/2023 09:18:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,13 +47,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -69,6 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-AMD-Guest-SSBD-Selection-41267" class="noirorange"><b>Xen</b>: read-write access via AMD Guest SSBD Selection</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-AMD-Guest-SSBD-Selection-41267)|An attacker, in a guest system, can bypass access restrictions of Xen, via AMD Guest SSBD Selection, in order to read or alter data on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-run-unpack-41266" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via run_unpack()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-run-unpack-41266)|An attacker can force a read at an invalid memory address of the Linux kernel, via run_unpack(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libwebp-double-free-41265" class="noirorange"><b>libwebp</b>: double free</a>](https://vigilance.fr/vulnerability/libwebp-double-free-41265)|An attacker can force a double memory free of libwebp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
