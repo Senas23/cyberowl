@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/05/2023 21:18:49 UTC
+ > Last Updated 20/05/2023 09:16:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -65,13 +65,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -87,4 +80,11 @@
  |[41911505/23 - Vulnérabilités critiques dans les produits Wifi RUCKUS ](https://www.dgssi.gov.ma//fr/content/4191150523-vulnerabilites-critiques-dans-les-produits-wifi-ruckus.html)|Deux vulnérabilités critiques ont été corrigées dans les produits WIFI Ruckus susmentionnés. L'exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à dis-tance et de contourner la politique de...|15 mai 2023|
  |[41901505/23 - Exploitation active d'une vulnérabilité critique dans PaperCut MF (Multifonction)](https://www.dgssi.gov.ma//fr/content/4190150523-exploitation-active-d-une-vulnerabilite-critique-dans-papercut-mf-multifonction-et-ng-nouvelle-generation.html)|Des rapports font état de l'exploitation active d'une vulnérabilité critique (CVE-2023-27350) dans PaperCut MF (Multifunction) et NG (Next Generation). PaperCut MF et NG sont des solutions de gestion d'impression utilisées...|15 mai 2023|
  |[41891205/23 - Vulnérabilité dans Lenovo ThinkPad](https://www.dgssi.gov.ma//fr/content/4189120523-vulnerabilite-dans-lenovo-thinkpad.html)|Une vulnérabilité a été corrigée dans Lenovo ThinkPad.L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges et de prendre le contrôle sur le système affecté.|12 mai 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
