@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/05/2023 21:16:05 UTC
+ > Last Updated 23/05/2023 09:18:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bq24190-remove-41305" class="noirorange"><b>Linux kernel</b>: reuse after free via bq24190_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bq24190-remove-41305)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bq24190_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303" class="noirorange"><b>c-ares</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/c-ares-four-vulnerabilities-41303)|An attacker can use several vulnerabilities of c-ares...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QtSv-QSvgFon-m-unitsPerEm-41302" class="noirorange"><b>Qt</b>: denial of service via <wbr>QtSv::QSvgFon::m_uni<wbr>tsPerEm()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QtSv-QSvgFon-m-unitsPerEm-41302)|An attacker can cause a fatal error of Qt, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Flask-information-disclosure-via-Caching-41301" class="noirorange"><b>Flask</b>: information disclosure via Caching</a>](https://vigilance.fr/vulnerability/Flask-information-disclosure-via-Caching-41301)|An attacker can bypass access restrictions to data of Flask, via Caching, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300" class="noirorange"><b>jQuery DataTables</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/jQuery-DataTables-Cross-Site-Scripting-41300)|An attacker can trigger a Cross Site Scripting of jQuery DataTables, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299" class="noirorange"><b>Apache Tomcat</b>: overload via Uploaded Request Parts</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Uploaded-Request-Parts-41299)|An attacker can trigger an overload of Apache Tomcat, via Uploaded Request Parts, in order to trigger a denial of service...|Visit link for details|
@@ -59,9 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296" class="noirorange"><b>LuaTeX</b>: code execution via TeX Compiling</a>](https://vigilance.fr/vulnerability/LuaTeX-code-execution-via-TeX-Compiling-41296)|An attacker can use a vulnerability of LuaTeX, via TeX Compiling, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-ingress-filtrering-bypass-via-User-generated-Data-Shortcodes-41295" class="noirorange"><b>WordPress Core</b>: ingress filtrering bypass via User-generated Data Shortcodes</a>](https://vigilance.fr/vulnerability/WordPress-Core-ingress-filtrering-bypass-via-User-generated-Data-Shortcodes-41295)|An attacker can bypass filtering rules of WordPress Core, via User-generated Data Shortcodes, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294" class="noirorange"><b>SQLite</b>: denial of service via appendvfs.c</a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-appendvfs-c-41294)|An attacker can cause a fatal error of SQLite, via appendvfs.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293" class="noirorange"><b>Vim</b>: memory corruption via mb_charlen()</a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-mb-charlen-41293)|An attacker can trigger a memory corruption of Vim, via mb_charlen(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41292)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290" class="noirorange"><b>Linux kernel</b>: two vulnerabilities via vmwgfx</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-vmwgfx-41290)|An attacker can use several vulnerabilities of the Linux kernel, via vmwgfx...|Visit link for details|
  
  ---
 
