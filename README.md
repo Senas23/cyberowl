@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/05/2023 09:20:39 UTC
+ > Last Updated 25/05/2023 21:17:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 mai 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/)|Une vulnérabilité a été découverte dans |Publié le 25 mai 2023|
  |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
  |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
  |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
@@ -42,8 +44,24 @@
  |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0402/)|Une vulnérabilité a été découverte dans Wordpress. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mai 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0401/)|De multiples vulnérabilités ont été découvertes dans plusieurs gammes de commutateurs |Publié le 19 mai 2023|
  |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0400/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans les produits NetApp HCI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0399/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 19 mai 2023|
- |[Multiples vulnérabilités dans le cadriciel VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0398/)|De multiples vulnérabilités ont été découvertes dans les produits VMware Spring. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 mai 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339" class="noirorange"><b>LibreOffice</b>: code execution via Floating Frames</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339)|An attacker can use a vulnerability of LibreOffice, via Floating Frames, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338" class="noirorange"><b>LibreOffice</b>: integer overflow via Calc Formula Parsing</a>](https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338)|An attacker can trigger an integer overflow of LibreOffice, via Calc Formula Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323" class="noirorange"><b>Wireshark</b>: nine vulnerabilities</a>](https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323)|An attacker can use several vulnerabilities of Wireshark...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322" class="noirorange"><b>MaraDNS</b>: integer overflow via decomp_get_rddata()</a>](https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322)|An attacker can trigger an integer overflow of MaraDNS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321" class="noirorange"><b>MaraDNS</b>: spoofing via Revoked Domain Name</a>](https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321)|An attacker can create spoofed data on MaraDNS, via Revoked Domain Name, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320" class="noirorange"><b>Ubuntu</b>: user access via Calamares Settings Blank Password</a>](https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320)|An attacker can bypass restrictions of Ubuntu, via Calamares Settings Blank Password, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-binutils-four-vulnerabilities-41319" class="noirorange"><b>GNU binutils</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/GNU-binutils-four-vulnerabilities-41319)|An attacker can use several vulnerabilities of GNU binutils...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-binutils-buffer-overflow-via-bfd-getl64-41318" class="noirorange"><b>GNU binutils</b>: buffer overflow via bfd_getl64()</a>](https://vigilance.fr/vulnerability/GNU-binutils-buffer-overflow-via-bfd-getl64-41318)|An attacker can trigger a buffer overflow of GNU binutils, via bfd_getl64(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-30-05-2023-41317" class="noirorange"><b>OpenSSL</b>: vulnerabity unveiled on 30/05/2023</a>](https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-30-05-2023-41317)|A vulnerability of OpenSSL will be unveiled on 30/05/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DokuWiki-Cross-Site-Scripting-via-RSS-Syntax-41316" class="noirorange"><b>DokuWiki</b>: Cross Site Scripting via RSS Syntax</a>](https://vigilance.fr/vulnerability/DokuWiki-Cross-Site-Scripting-via-RSS-Syntax-41316)|An attacker can trigger a Cross Site Scripting of DokuWiki, via RSS Syntax, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315" class="noirorange"><b>Vim</b>: integer overflow via regtilde()</a>](https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315)|An attacker can trigger an integer overflow of Vim, via regtilde(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -54,28 +72,14 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-eight-vulnerabilities-41323" class="noirorange"><b>Wireshark</b>: eight vulnerabilities</a>](https://vigilance.fr/vulnerability/Wireshark-eight-vulnerabilities-41323)|An attacker can use several vulnerabilities of Wireshark...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322" class="noirorange"><b>MaraDNS</b>: integer overflow via decomp_get_rddata()</a>](https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322)|An attacker can trigger an integer overflow of MaraDNS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321" class="noirorange"><b>MaraDNS</b>: spoofing via Revoked Domain Name</a>](https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321)|An attacker can create spoofed data on MaraDNS, via Revoked Domain Name, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320" class="noirorange"><b>Ubuntu</b>: user access via Calamares Settings Blank Password</a>](https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320)|An attacker can bypass restrictions of Ubuntu, via Calamares Settings Blank Password, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-binutils-four-vulnerabilities-41319" class="noirorange"><b>GNU binutils</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/GNU-binutils-four-vulnerabilities-41319)|An attacker can use several vulnerabilities of GNU binutils...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-binutils-buffer-overflow-via-bfd-getl64-41318" class="noirorange"><b>GNU binutils</b>: buffer overflow via bfd_getl64()</a>](https://vigilance.fr/vulnerability/GNU-binutils-buffer-overflow-via-bfd-getl64-41318)|An attacker can trigger a buffer overflow of GNU binutils, via bfd_getl64(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-30-05-2023-41317" class="noirorange"><b>OpenSSL</b>: vulnerabity unveiled on 30/05/2023</a>](https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-30-05-2023-41317)|A vulnerability of OpenSSL will be unveiled on 30/05/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DokuWiki-Cross-Site-Scripting-via-RSS-Syntax-41316" class="noirorange"><b>DokuWiki</b>: Cross Site Scripting via RSS Syntax</a>](https://vigilance.fr/vulnerability/DokuWiki-Cross-Site-Scripting-via-RSS-Syntax-41316)|An attacker can trigger a Cross Site Scripting of DokuWiki, via RSS Syntax, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315" class="noirorange"><b>Vim</b>: integer overflow via regtilde()</a>](https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315)|An attacker can trigger an integer overflow of Vim, via regtilde(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-get-register-41314" class="noirorange"><b>Vim</b>: NULL pointer dereference via get_register()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-get-register-41314)|An attacker can force a NULL pointer to be dereferenced on Vim, via get_register(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313" class="noirorange"><b>GitLab</b>: directory traversal via Five Groups Attachment</a>](https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313)|An attacker can traverse directories of GitLab, via Five Groups Attachment, in order to read a file outside the service root path...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[42072505/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma//fr/content/4207250523-vulnerabilite-critique-dans-barracuda-email-security-gateway.html)|Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité existait dans un module qui filtre initialement les pièces jointes d’e-mails entrants.Un attaquant distant peut exploiter cette faille via...|25 mai 2023|
+ |[42052405/23 - Vulnérabilité dans VMware NSX-T](https://www.dgssi.gov.ma//fr/content/4205240523-vulnerabilite-dans-vmware-nsx-t.html)|Une vulnérabilité a été corrigée dans VMware NSX-T. L’exploitation de cette faille peut permettre à un attaquant de provoquer une injection de code indirecte à distance (XSS).|25 mai 2023|
+ |[42042505/23 - Vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.dgssi.gov.ma//fr/content/4204250523-vulnerabilites-dans-aruba-edgeconnect-enterprise.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Aruba EdgeConnect Enterprise. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la...|25 mai 2023|
+ |[42062505/23 - Vulnérabilité critique affectant GitLab](https://www.dgssi.gov.ma//fr/content/4206250523-vulnerabilite-critique-affectant-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger une vulnérabilité très critique affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’accéder à des...|25 mai 2023|
  |[42032305/23 - Vulnérabilitéaffectant Zyxel Firewalls](https://www.dgssi.gov.ma//fr/content/4203230523-vulnerabilite-affectant-zyxel-firewalls.html)|Zyxel annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cettevulnérabilitépeut permettre à un attaquant distant d’injecter des commandes.|23 mai 2023|
  |[42022305/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4202230523-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|23 mai 2023|
  |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
@@ -83,8 +87,4 @@
  |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
  |[41981905/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4198190523-vulnerabilites-critiques-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produits susmentionnés. Trois de ces vulnérabilités identifiées par « CVE-2023-32409 », « CVE-2023-28204 » et CVE-2023-32373 sont des « Zero-days...|19 mai 2023|
  |[41971805/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4197180523-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|18 mai 2023|
- |[41961805/23 - Mise à jour de sécurité pour le CMS WordPress](https://www.dgssi.gov.ma//fr/content/4196180523-mise-jour-de-securite-pour-le-cms-wordpress.html)|WordPress annonce la correction de plusieurs vulnérabilités affectant son CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code indirectement, de contourner les mesures de sécurité...|18 mai 2023|
- |[41951805/23 - Vulnérabilités critiques affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4195180523-vulnerabilites-critiques-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Certaines de ces vulnérabilités sont activement exploitées et elles peuvent permettreà un attaquant distant d’exécuter...|18 mai 2023|
- |[41941705/23 - Un nouveau Ransomware-as-a-Service "MichaelKors" cible VMware ESXi](https://www.dgssi.gov.ma//fr/content/4194170523-un-nouveau-ransomware-service-michaelkors-cible-vmware-esxi.html)|Des nouvelles compagnes d’attaques ciblent activement les systèmes VMware ESXi dans le monde entier à l'aide de nouveaux ransomwares. En effet, un nouveau programme ransomware-as-a-service (RaaS) nommé "MichaelKors" a été...|17 mai 2023|
- |[41931705/23 - Vulnérabilités affectant VMware Tanzu ](https://www.dgssi.gov.ma//fr/content/4193170523-vulnerabilites-affectant-vmware-tanzu.html)|VMware annonce la correction de plusieurs vulnérabilitésaffectant ses produits susmentionnés.L'exploitation de ces vulnérabilitéspeut permettre à un attaquant d’exécuter du code arbitraire, d’accéder à des données...|17 mai 2023|
  
