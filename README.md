@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/05/2023 21:15:01 UTC
+ > Last Updated 25/05/2023 09:20:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,20 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-eight-vulnerabilities-41323" class="noirorange"><b>Wireshark</b>: eight vulnerabilities</a>](https://vigilance.fr/vulnerability/Wireshark-eight-vulnerabilities-41323)|An attacker can use several vulnerabilities of Wireshark...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322" class="noirorange"><b>MaraDNS</b>: integer overflow via decomp_get_rddata()</a>](https://vigilance.fr/vulnerability/MaraDNS-integer-overflow-via-decomp-get-rddata-41322)|An attacker can trigger an integer overflow of MaraDNS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321" class="noirorange"><b>MaraDNS</b>: spoofing via Revoked Domain Name</a>](https://vigilance.fr/vulnerability/MaraDNS-spoofing-via-Revoked-Domain-Name-41321)|An attacker can create spoofed data on MaraDNS, via Revoked Domain Name, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320" class="noirorange"><b>Ubuntu</b>: user access via Calamares Settings Blank Password</a>](https://vigilance.fr/vulnerability/Ubuntu-user-access-via-Calamares-Settings-Blank-Password-41320)|An attacker can bypass restrictions of Ubuntu, via Calamares Settings Blank Password, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-binutils-four-vulnerabilities-41319" class="noirorange"><b>GNU binutils</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/GNU-binutils-four-vulnerabilities-41319)|An attacker can use several vulnerabilities of GNU binutils...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-binutils-buffer-overflow-via-bfd-getl64-41318" class="noirorange"><b>GNU binutils</b>: buffer overflow via bfd_getl64()</a>](https://vigilance.fr/vulnerability/GNU-binutils-buffer-overflow-via-bfd-getl64-41318)|An attacker can trigger a buffer overflow of GNU binutils, via bfd_getl64(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -59,9 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315" class="noirorange"><b>Vim</b>: integer overflow via regtilde()</a>](https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315)|An attacker can trigger an integer overflow of Vim, via regtilde(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-get-register-41314" class="noirorange"><b>Vim</b>: NULL pointer dereference via get_register()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-get-register-41314)|An attacker can force a NULL pointer to be dereferenced on Vim, via get_register(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313" class="noirorange"><b>GitLab</b>: directory traversal via Five Groups Attachment</a>](https://vigilance.fr/vulnerability/GitLab-directory-traversal-via-Five-Groups-Attachment-41313)|An attacker can traverse directories of GitLab, via Five Groups Attachment, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveSectionType-41312" class="noirorange"><b>Jhead</b>: buffer overflow via RemoveSectionType()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveSectionType-41312)|An attacker can trigger a buffer overflow of Jhead, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-out-of-bounds-memory-reading-via-ProcessCanonMakerNoteDir-41311" class="noirorange"><b>Jhead</b>: out-of-bounds memory reading via <wbr>ProcessCanonMakerNot<wbr>eDir()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Jhead-out-of-bounds-memory-reading-via-ProcessCanonMakerNoteDir-41311)|An attacker can force a read at an invalid memory address of Jhead, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-ReadJpegSections-41310" class="noirorange"><b>Jhead</b>: buffer overflow via ReadJpegSections()</a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-ReadJpegSections-41310)|An attacker can trigger a buffer overflow of Jhead, via ReadJpegSections(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -80,11 +87,4 @@
  |[41951805/23 - Vulnérabilités critiques affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4195180523-vulnerabilites-critiques-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. Certaines de ces vulnérabilités sont activement exploitées et elles peuvent permettreà un attaquant distant d’exécuter...|18 mai 2023|
  |[41941705/23 - Un nouveau Ransomware-as-a-Service "MichaelKors" cible VMware ESXi](https://www.dgssi.gov.ma//fr/content/4194170523-un-nouveau-ransomware-service-michaelkors-cible-vmware-esxi.html)|Des nouvelles compagnes d’attaques ciblent activement les systèmes VMware ESXi dans le monde entier à l'aide de nouveaux ransomwares. En effet, un nouveau programme ransomware-as-a-service (RaaS) nommé "MichaelKors" a été...|17 mai 2023|
  |[41931705/23 - Vulnérabilités affectant VMware Tanzu ](https://www.dgssi.gov.ma//fr/content/4193170523-vulnerabilites-affectant-vmware-tanzu.html)|VMware annonce la correction de plusieurs vulnérabilitésaffectant ses produits susmentionnés.L'exploitation de ces vulnérabilitéspeut permettre à un attaquant d’exécuter du code arbitraire, d’accéder à des données...|17 mai 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
