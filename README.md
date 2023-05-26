@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/05/2023 21:17:12 UTC
+ > Last Updated 26/05/2023 09:18:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-Attachments-41341" class="noirorange"><b>Atlassian Confluence Server</b>: information disclosure via Attachments</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-information-disclosure-via-Attachments-41341)|An attacker can bypass access restrictions to data of Atlassian Confluence Server, via Attachments, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-three-vulnerabilities-41340" class="noirorange"><b>Dell PowerPath</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-three-vulnerabilities-41340)|An attacker can use several vulnerabilities of Dell PowerPath...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339" class="noirorange"><b>LibreOffice</b>: code execution via Floating Frames</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Floating-Frames-41339)|An attacker can use a vulnerability of LibreOffice, via Floating Frames, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338" class="noirorange"><b>LibreOffice</b>: integer overflow via Calc Formula Parsing</a>](https://vigilance.fr/vulnerability/LibreOffice-integer-overflow-via-Calc-Formula-Parsing-41338)|An attacker can trigger an integer overflow of LibreOffice, via Calc Formula Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323" class="noirorange"><b>Wireshark</b>: nine vulnerabilities</a>](https://vigilance.fr/vulnerability/Wireshark-nine-vulnerabilities-41323)|An attacker can use several vulnerabilities of Wireshark...|Visit link for details|
@@ -60,8 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GNU-binutils-four-vulnerabilities-41319" class="noirorange"><b>GNU binutils</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/GNU-binutils-four-vulnerabilities-41319)|An attacker can use several vulnerabilities of GNU binutils...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-binutils-buffer-overflow-via-bfd-getl64-41318" class="noirorange"><b>GNU binutils</b>: buffer overflow via bfd_getl64()</a>](https://vigilance.fr/vulnerability/GNU-binutils-buffer-overflow-via-bfd-getl64-41318)|An attacker can trigger a buffer overflow of GNU binutils, via bfd_getl64(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-30-05-2023-41317" class="noirorange"><b>OpenSSL</b>: vulnerabity unveiled on 30/05/2023</a>](https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-30-05-2023-41317)|A vulnerability of OpenSSL will be unveiled on 30/05/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DokuWiki-Cross-Site-Scripting-via-RSS-Syntax-41316" class="noirorange"><b>DokuWiki</b>: Cross Site Scripting via RSS Syntax</a>](https://vigilance.fr/vulnerability/DokuWiki-Cross-Site-Scripting-via-RSS-Syntax-41316)|An attacker can trigger a Cross Site Scripting of DokuWiki, via RSS Syntax, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315" class="noirorange"><b>Vim</b>: integer overflow via regtilde()</a>](https://vigilance.fr/vulnerability/Vim-integer-overflow-via-regtilde-41315)|An attacker can trigger an integer overflow of Vim, via regtilde(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
