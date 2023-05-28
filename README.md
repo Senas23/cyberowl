@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/05/2023 09:18:08 UTC
+ > Last Updated 28/05/2023 21:16:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -65,13 +65,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -87,4 +80,11 @@
  |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
  |[42012205/23 - Vulnérabilité dans IBM Sterling Connect](https://www.dgssi.gov.ma//fr/content/4201220523-vulnerabilite-dans-ibm-sterling-connect.html)|Une vulnérabilité a été corrigée dans IBM Sterling Connect. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 mai 2023|
  |[41991905/23 - Vulnérabilité critique dans la bibliothèque Sandbox de vm2](https://www.dgssi.gov.ma//fr/content/4199190523-vulnerabilite-critique-dans-la-bibliotheque-sandbox-de-vm2.html)|Une vulnérabilité critique a été corrigée dans la bibliothèque Sandbox de vm2.L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant de contourner les protections du Sandbox et d'obtenir des droits d'...|19 mai 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
