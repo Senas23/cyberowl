@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/05/2023 09:18:23 UTC
+ > Last Updated 30/05/2023 21:16:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0418/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 30 mai 2023|
+ |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0417/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mai 2023|
+ |[Multiples vulnérabilités dans Stormshield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0415/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, et un déni de service à distance.|Publié le 30 mai 2023|
  |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 26 mai 2023|
  |[Multiples vulnérabilités dans les produits LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0412/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
@@ -41,9 +44,6 @@
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 mai 2023|
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/)|Une vulnérabilité a été découverte dans |Publié le 25 mai 2023|
  |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
- |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2023|
- |[Vulnérabilité dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0406/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
- |[Vulnérabilité dans VMware NSX-T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0405/)|Une vulnérabilité a été découverte dans |Publié le 24 mai 2023|
  
  ---
 
@@ -51,17 +51,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ubuntu-denial-of-service-via-Kernel-Shiftfs-Inode-Locking-41365" class="noirorange"><b>Ubuntu</b>: denial of service via Kernel Shiftfs Inode Locking</a>](https://vigilance.fr/vulnerability/Ubuntu-denial-of-service-via-Kernel-Shiftfs-Inode-Locking-41365)|An attacker can cause a fatal error of Ubuntu, via Kernel Shiftfs Inode Locking, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-extend-frame-highbd-41364" class="noirorange"><b>libaom</b>: buffer overflow via <wbr>extend_frame_highbd(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-extend-frame-highbd-41364)|An attacker can trigger a buffer overflow of libaom, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nanopb-reuse-after-free-via-Message-Decoding-41363" class="noirorange"><b>Nanopb</b>: reuse after free via Message Decoding</a>](https://vigilance.fr/vulnerability/Nanopb-reuse-after-free-via-Message-Decoding-41363)|An attacker can force the reuse of a freed memory area of Nanopb, via Message Decoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nanopb-memory-leak-via-Static-Submessage-Dynamic-Field-41362" class="noirorange"><b>Nanopb</b>: memory leak via Static Submessage Dynamic Field</a>](https://vigilance.fr/vulnerability/Nanopb-memory-leak-via-Static-Submessage-Dynamic-Field-41362)|An attacker can create a memory leak of Nanopb, via Static Submessage Dynamic Field, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Brute-Force-41361" class="noirorange"><b>Joomla Core</b>: user access via MFA Brute Force</a>](https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-Brute-Force-41361)|An attacker can bypass restrictions of Joomla Core, via MFA Brute Force, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-MFA-Selection-41360" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via MFA Selection</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-MFA-Selection-41360)|An attacker can trigger a Cross Site Scripting of Joomla Core, via MFA Selection, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Clearswift-SECURE-Email-Gateway-information-disclosure-via-Login-Attempts-Different-Messages-41358" class="noirorange"><b>Clearswift SECURE Email Gateway</b>: information disclosure via Login Attempts Different Messages</a>](https://vigilance.fr/vulnerability/Clearswift-SECURE-Email-Gateway-information-disclosure-via-Login-Attempts-Different-Messages-41358)|An attacker can bypass access restrictions to data of Clearswift SECURE Email Gateway, via Login Attempts Different Messages, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357" class="noirorange"><b>Perl HTTP-Tiny</b>: Man-in-the-Middle via Unset verify_SSL</a>](https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-via-Unset-verify-SSL-41357)|An attacker can act as a Man-in-the-Middle on Perl HTTP-Tiny, via Unset verify_SSL, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Graph Item Properties</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Item-Properties-41356)|An attacker can trigger a Cross Site Scripting of Zabbix, via Graph Item Properties, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355" class="noirorange"><b>Jhead</b>: buffer overflow via <wbr>RemoveUnknownSection<wbr>s()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Jhead-buffer-overflow-via-RemoveUnknownSections-41355)|An attacker can trigger a buffer overflow of Jhead, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354" class="noirorange"><b>Jhead</b>: denial of service via Wild Address Read</a>](https://vigilance.fr/vulnerability/Jhead-denial-of-service-via-Wild-Address-Read-41354)|An attacker can cause a fatal error of Jhead, via Wild Address Read, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Cassandra-code-execution-via-FQL-Audit-Logs-41353" class="noirorange"><b>Apache Cassandra</b>: code execution via FQL/Audit Logs</a>](https://vigilance.fr/vulnerability/Apache-Cassandra-code-execution-via-FQL-Audit-Logs-41353)|An attacker can use a vulnerability of Apache Cassandra, via FQL/Audit Logs, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-Untrusted-Certificate-41352" class="noirorange"><b>Keycloak</b>: read-write access via Untrusted Certificate</a>](https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-Untrusted-Certificate-41352)|An attacker can bypass access restrictions of Keycloak, via Untrusted Certificate, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f2fs-write-end-io-41351" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via f2fs_write_end_io()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f2fs-write-end-io-41351)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bottles-code-execution-via-YAML-41350" class="noirorange"><b>Bottles</b>: code execution via YAML</a>](https://vigilance.fr/vulnerability/Bottles-code-execution-via-YAML-41350)|An attacker can use a vulnerability of Bottles, via YAML, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349" class="noirorange"><b>Sequoia-PGP</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/Sequoia-PGP-out-of-bounds-memory-reading-41349)|An attacker can force a read at an invalid memory address of Sequoia-PGP, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348" class="noirorange"><b>edk2</b>: security improvement via Secure Boot UEFI Forbibben List DBX Update</a>](https://vigilance.fr/vulnerability/edk2-security-improvement-via-Secure-Boot-UEFI-Forbibben-List-DBX-Update-41348)|The security of edk2 was improved via Secure Boot UEFI Forbibben List DBX Update...|Visit link for details|
  
  ---
 
