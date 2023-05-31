@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/05/2023 09:19:22 UTC
+ > Last Updated 31/05/2023 21:17:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,34 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0425/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 31 mai 2023|
+ |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0424/)|Une vulnérabilité a été découverte dans les produits |Publié le 31 mai 2023|
+ |[Vulnérabilité dans Joomla!](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0423/)|Une vulnérabilité a été découverte dans |Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans Intel HDMI Firmware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans Axis OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0421/)|De multiples vulnérabilités ont été découvertes dans Axis OS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0420/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0419/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
  |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0418/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 30 mai 2023|
  |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0417/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mai 2023|
  |[Multiples vulnérabilités dans Stormshield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0415/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, et un déni de service à distance.|Publié le 30 mai 2023|
- |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0414/)|Une vulnérabilité a été découverte dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0412/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0411/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 mai 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 mai 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0409/)|Une vulnérabilité a été découverte dans |Publié le 25 mai 2023|
- |[Multiples vulnérabilités dans Apple iTunes](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans Apple iTunes. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Bitcoin-Core-overload-via-Debug-Mode-Inventory-to-send-Queue-41381" class="noirorange"><b>Bitcoin Core</b>: overload via Debug Mode Inventory-to-send Queue</a>](https://vigilance.fr/vulnerability/Bitcoin-Core-overload-via-Debug-Mode-Inventory-to-send-Queue-41381)|An attacker can trigger an overload of Bitcoin Core, via Debug Mode Inventory-to-send Queue, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Broadcom-Content-Analysis-four-vulnerabilities-41380" class="noirorange"><b>Broadcom Content Analysis</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Broadcom-Content-Analysis-four-vulnerabilities-41380)|An attacker can use several vulnerabilities of Broadcom Content Analysis...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379" class="noirorange"><b>libvirt</b>: memory leak via <wbr>virPCIVirtualFunctio<wbr>n()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379)|An attacker can create a memory leak of libvirt, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-Query-41378" class="noirorange"><b>GraphQL Java</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-Query-41378)|An attacker can cause a fatal error of GraphQL Java, via Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-Cross-Site-Scripting-41377" class="noirorange"><b>Drupal AddToAny Share Buttons</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-Cross-Site-Scripting-41377)|An attacker can trigger a Cross Site Scripting of Drupal AddToAny Share Buttons, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-information-disclosure-41376" class="noirorange"><b>Drupal AddToAny Share Buttons</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-information-disclosure-41376)|An attacker can bypass access restrictions to data of Drupal AddToAny Share Buttons, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Consent-Popup-Cross-Site-Scripting-41375" class="noirorange"><b>Drupal Consent Popup</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Consent-Popup-Cross-Site-Scripting-41375)|An attacker can trigger a Cross Site Scripting of Drupal Consent Popup, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Iubenda-Integration-Cross-Site-Scripting-41374" class="noirorange"><b>Drupal Iubenda Integration</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Iubenda-Integration-Cross-Site-Scripting-41374)|An attacker can trigger a Cross Site Scripting of Drupal Iubenda Integration, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41373" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41373)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-Video-Options-Command-Injection-41372" class="noirorange"><b>ImageMagick</b>: code execution via Video Options Command Injection</a>](https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-Video-Options-Command-Injection-41372)|An attacker can use a vulnerability of ImageMagick, via Video Options Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371" class="noirorange"><b>ImageMagick</b>: memory corruption via double size_t Casting</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371)|An attacker can trigger a memory corruption of ImageMagick, via double size_t Casting, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -54,28 +72,11 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41373" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41373)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-Video-Options-Command-Injection-41372" class="noirorange"><b>ImageMagick</b>: code execution via Video Options Command Injection</a>](https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-Video-Options-Command-Injection-41372)|An attacker can use a vulnerability of ImageMagick, via Video Options Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371" class="noirorange"><b>ImageMagick</b>: memory corruption via double size_t Casting</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371)|An attacker can trigger a memory corruption of ImageMagick, via double size_t Casting, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenLDAP-NULL-pointer-dereference-via-ber-memalloc-x-41370" class="noirorange"><b>OpenLDAP</b>: NULL pointer dereference via ber_memalloc_x()</a>](https://vigilance.fr/vulnerability/OpenLDAP-NULL-pointer-dereference-via-ber-memalloc-x-41370)|An attacker can force a NULL pointer to be dereferenced on OpenLDAP, via ber_memalloc_x(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/snapd-code-execution-via-TIOCLINUX-41369" class="noirorange"><b>snapd</b>: code execution via TIOCLINUX</a>](https://vigilance.fr/vulnerability/snapd-code-execution-via-TIOCLINUX-41369)|An attacker can use a vulnerability of snapd, via TIOCLINUX, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-Jar-Url-41368" class="noirorange"><b>Apache XML Graphics Batik</b>: Server-Side Request Forgery via Jar Url</a>](https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-Jar-Url-41368)|An attacker can trigger a Server-Side Request Forgery of Apache XML Graphics Batik, via Jar Url, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-External-Resources-Fetching-41367" class="noirorange"><b>Apache XML Graphics Batik</b>: Server-Side Request Forgery via External Resources Fetching</a>](https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-External-Resources-Fetching-41367)|An attacker can trigger a Server-Side Request Forgery of Apache XML Graphics Batik, via External Resources Fetching, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-Jar-Protocol-Url-Loading-41366" class="noirorange"><b>Apache XML Graphics Batik</b>: Server-Side Request Forgery via Jar Protocol Url Loading</a>](https://vigilance.fr/vulnerability/Apache-XML-Graphics-Batik-Server-Side-Request-Forgery-via-Jar-Protocol-Url-Loading-41366)|An attacker can trigger a Server-Side Request Forgery of Apache XML Graphics Batik, via Jar Protocol Url Loading, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ubuntu-denial-of-service-via-Kernel-Shiftfs-Inode-Locking-41365" class="noirorange"><b>Ubuntu</b>: denial of service via Kernel Shiftfs Inode Locking</a>](https://vigilance.fr/vulnerability/Ubuntu-denial-of-service-via-Kernel-Shiftfs-Inode-Locking-41365)|An attacker can cause a fatal error of Ubuntu, via Kernel Shiftfs Inode Locking, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-extend-frame-highbd-41364" class="noirorange"><b>libaom</b>: buffer overflow via <wbr>extend_frame_highbd(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-extend-frame-highbd-41364)|An attacker can trigger a buffer overflow of libaom, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nanopb-reuse-after-free-via-Message-Decoding-41363" class="noirorange"><b>Nanopb</b>: reuse after free via Message Decoding</a>](https://vigilance.fr/vulnerability/Nanopb-reuse-after-free-via-Message-Decoding-41363)|An attacker can force the reuse of a freed memory area of Nanopb, via Message Decoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[42113105/23 - Vulnérabilité dans plusieurs produits VMware](https://www.dgssi.gov.ma//fr/content/4211310523-vulnerabilite-dans-plusieurs-produits-vmware.html)|Une vulnérabilité a été corrigée dans les produits VMware susmentionnés. L’exploitation de cette faille peut permettre à un attaquant non authentifié de rediriger une victime vers un domaine contrôlé par l'attaquant en raison d'...|31 mai 2023|
  |[42103105/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4210310523-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|31 mai 2023|
  |[42092605/23 - Vulnérabilités critiques dans les produits D-Link ](https://www.dgssi.gov.ma//fr/content/4209260523-vulnerabilites-critiques-dans-les-produits-d-link.html)|D-Link a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant les versions susmentionnées de D-View 8 network management suite. L’exploitation de ces failles peut permettre à un attaquant distant non...|26 mai 2023|
  |[42082605/23 - Vulnérabilités critiques dans les produits Zyxel Firewall et VPN](https://www.dgssi.gov.ma//fr/content/4208260523-vulnerabilites-critiques-dans-les-produits-zyxel-firewall-et-vpn.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zyxel Firewall et VPN. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|26 mai 2023|
@@ -86,5 +87,4 @@
  |[42032305/23 - Vulnérabilitéaffectant Zyxel Firewalls](https://www.dgssi.gov.ma//fr/content/4203230523-vulnerabilite-affectant-zyxel-firewalls.html)|Zyxel annonce la correction d’une vulnérabilité affectant ses produits susmentionnés. L’exploitation de cettevulnérabilitépeut permettre à un attaquant distant d’injecter des commandes.|23 mai 2023|
  |[42022305/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4202230523-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|23 mai 2023|
  |[42002205/23 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma//fr/content/4200220523-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilité affectant le plugin« UpdraftPlus». L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter ducode arbitraire.|22 mai 2023|
- |[42012205/23 - Vulnérabilité dans IBM Sterling Connect](https://www.dgssi.gov.ma//fr/content/4201220523-vulnerabilite-dans-ibm-sterling-connect.html)|Une vulnérabilité a été corrigée dans IBM Sterling Connect. L'exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 mai 2023|
  
