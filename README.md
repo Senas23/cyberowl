@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/05/2023 21:17:30 UTC
+ > Last Updated 01/06/2023 09:18:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,7 +36,7 @@
  |---|---|---|
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0425/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 31 mai 2023|
  |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0424/)|Une vulnérabilité a été découverte dans les produits |Publié le 31 mai 2023|
- |[Vulnérabilité dans Joomla!](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0423/)|Une vulnérabilité a été découverte dans |Publié le 31 mai 2023|
+ |[Multiples vulnérabilités dans Joomla!](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0423/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
  |[Multiples vulnérabilités dans Intel HDMI Firmware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mai 2023|
  |[Multiples vulnérabilités dans Axis OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0421/)|De multiples vulnérabilités ont été découvertes dans Axis OS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 31 mai 2023|
  |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0420/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 31 mai 2023|
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Name-41384" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Item Name</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Name-41384)|An attacker can trigger a Cross Site Scripting of TeamPass, via Item Name, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-ActiveMQ-Cross-Site-Scripting-via-message-jsp-41383" class="noirorange"><b>Apache ActiveMQ</b>: Cross Site Scripting via message.jsp</a>](https://vigilance.fr/vulnerability/Apache-ActiveMQ-Cross-Site-Scripting-via-message-jsp-41383)|An attacker can trigger a Cross Site Scripting of Apache ActiveMQ, via message.jsp, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Axis-Server-Side-Request-Forgery-41382" class="noirorange"><b>Apache Axis</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Apache-Axis-Server-Side-Request-Forgery-41382)|An attacker can trigger a Server-Side Request Forgery of Apache Axis, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Bitcoin-Core-overload-via-Debug-Mode-Inventory-to-send-Queue-41381" class="noirorange"><b>Bitcoin Core</b>: overload via Debug Mode Inventory-to-send Queue</a>](https://vigilance.fr/vulnerability/Bitcoin-Core-overload-via-Debug-Mode-Inventory-to-send-Queue-41381)|An attacker can trigger an overload of Bitcoin Core, via Debug Mode Inventory-to-send Queue, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Broadcom-Content-Analysis-four-vulnerabilities-41380" class="noirorange"><b>Broadcom Content Analysis</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Broadcom-Content-Analysis-four-vulnerabilities-41380)|An attacker can use several vulnerabilities of Broadcom Content Analysis...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379" class="noirorange"><b>libvirt</b>: memory leak via <wbr>virPCIVirtualFunctio<wbr>n()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379)|An attacker can create a memory leak of libvirt, via |Visit link for details|
@@ -59,9 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-information-disclosure-41376" class="noirorange"><b>Drupal AddToAny Share Buttons</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-AddToAny-Share-Buttons-information-disclosure-41376)|An attacker can bypass access restrictions to data of Drupal AddToAny Share Buttons, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Consent-Popup-Cross-Site-Scripting-41375" class="noirorange"><b>Drupal Consent Popup</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Consent-Popup-Cross-Site-Scripting-41375)|An attacker can trigger a Cross Site Scripting of Drupal Consent Popup, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Iubenda-Integration-Cross-Site-Scripting-41374" class="noirorange"><b>Drupal Iubenda Integration</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Iubenda-Integration-Cross-Site-Scripting-41374)|An attacker can trigger a Cross Site Scripting of Drupal Iubenda Integration, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41373" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41373)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-Video-Options-Command-Injection-41372" class="noirorange"><b>ImageMagick</b>: code execution via Video Options Command Injection</a>](https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-Video-Options-Command-Injection-41372)|An attacker can use a vulnerability of ImageMagick, via Video Options Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371" class="noirorange"><b>ImageMagick</b>: memory corruption via double size_t Casting</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-double-size-t-Casting-41371)|An attacker can trigger a memory corruption of ImageMagick, via double size_t Casting, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
