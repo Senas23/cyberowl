@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/06/2023 21:17:02 UTC
+ > Last Updated 02/06/2023 09:18:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/CUPS-buffer-overflow-via-format-log-line-41389" class="noirorange"><b>CUPS</b>: buffer overflow via format_log_line()</a>](https://vigilance.fr/vulnerability/CUPS-buffer-overflow-via-format-log-line-41389)|An attacker can trigger a buffer overflow of CUPS, via format_log_line(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-UX-denial-of-service-via-IPv6-Stack-41388" class="noirorange"><b>HP-UX</b>: denial of service via IPv6 Stack</a>](https://vigilance.fr/vulnerability/HP-UX-denial-of-service-via-IPv6-Stack-41388)|An attacker can cause a fatal error of HP-UX, via IPv6 Stack, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ext4-group-desc-csum-41387" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>ext4_group_desc_csum<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ext4-group-desc-csum-41387)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-hfsplus-put-super-41386" class="noirorange"><b>Linux kernel</b>: reuse after free via hfsplus_put_super()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-hfsplus-put-super-41386)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ntfs-set-ea-41385" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via ntfs_set_ea()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ntfs-set-ea-41385)|An attacker can force a read at an invalid memory address of the Linux kernel, via ntfs_set_ea(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Name-41384" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Item Name</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Name-41384)|An attacker can trigger a Cross Site Scripting of TeamPass, via Item Name, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-ActiveMQ-Cross-Site-Scripting-via-message-jsp-41383" class="noirorange"><b>Apache ActiveMQ</b>: Cross Site Scripting via message.jsp</a>](https://vigilance.fr/vulnerability/Apache-ActiveMQ-Cross-Site-Scripting-via-message-jsp-41383)|An attacker can trigger a Cross Site Scripting of Apache ActiveMQ, via message.jsp, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Axis-Server-Side-Request-Forgery-41382" class="noirorange"><b>Apache Axis</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Apache-Axis-Server-Side-Request-Forgery-41382)|An attacker can trigger a Server-Side Request Forgery of Apache Axis, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bitcoin-Core-overload-via-Debug-Mode-Inventory-to-send-Queue-41381" class="noirorange"><b>Bitcoin Core</b>: overload via Debug Mode Inventory-to-send Queue</a>](https://vigilance.fr/vulnerability/Bitcoin-Core-overload-via-Debug-Mode-Inventory-to-send-Queue-41381)|An attacker can trigger an overload of Bitcoin Core, via Debug Mode Inventory-to-send Queue, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Broadcom-Content-Analysis-four-vulnerabilities-41380" class="noirorange"><b>Broadcom Content Analysis</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Broadcom-Content-Analysis-four-vulnerabilities-41380)|An attacker can use several vulnerabilities of Broadcom Content Analysis...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379" class="noirorange"><b>libvirt</b>: memory leak via <wbr>virPCIVirtualFunctio<wbr>n()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libvirt-memory-leak-via-virPCIVirtualFunction-41379)|An attacker can create a memory leak of libvirt, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402" class="noirorange"><b>Joomla HikaShop</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402)|An attacker can use a SQL injection of Joomla HikaShop, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401" class="noirorange"><b>Splunk Enterprise</b>: write access via <wbr>/services/indexing/p<wbr>review</wbr></wbr></a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401)|An attacker can bypass access restrictions of Splunk Enterprise, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400" class="noirorange"><b>Splunk Enterprise</b>: denial of service via dump SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400)|An attacker can cause a fatal error of Splunk Enterprise, via dump SPL Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-Cross-Site-Scripting-41399" class="noirorange"><b>Splunk App for Lookup File Editing</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-Cross-Site-Scripting-41399)|An attacker can trigger a Cross Site Scripting of Splunk App for Lookup File Editing, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via copyresults SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-copyresults-SPL-Command-41398)|An attacker can bypass access restrictions to data of Splunk Enterprise, via copyresults SPL Command, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-directory-traversal-41397" class="noirorange"><b>Splunk App for Lookup File Editing</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Lookup-File-Editing-directory-traversal-41397)|An attacker can traverse directories of Splunk App for Lookup File Editing, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-Stream-privilege-escalation-via-streamfwd-41396" class="noirorange"><b>Splunk App for Stream</b>: privilege escalation via streamfwd</a>](https://vigilance.fr/vulnerability/Splunk-App-for-Stream-privilege-escalation-via-streamfwd-41396)|An attacker can bypass restrictions of Splunk App for Stream, via streamfwd, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-file-write-via-var-log-splunk-web-service-log-41395" class="noirorange"><b>Splunk Enterprise</b>: file write via <wbr>/var/log/splunk/web_<wbr>service.log</wbr></wbr></a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-file-write-via-var-log-splunk-web-service-log-41395)|An attacker can bypass access restrictions of Splunk Enterprise, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Dashboard-View-41394" class="noirorange"><b>Splunk Enterprise</b>: Cross Site Scripting via Dashboard View</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Dashboard-View-41394)|An attacker can trigger a Cross Site Scripting of Splunk Enterprise, via Dashboard View, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Hashed-Default-Password-41393" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Hashed Default Password</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Hashed-Default-Password-41393)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Hashed Default Password, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-header-injection-via-Rest-SPL-Command-41392" class="noirorange"><b>Splunk Enterprise</b>: header injection via Rest SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-header-injection-via-Rest-SPL-Command-41392)|An attacker can add new headers on Splunk Enterprise, via Rest SPL Command, in order to alter the service behavior...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[42072505/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma//fr/content/4207250523-vulnerabilite-critique-dans-barracuda-email-security-gateway.html)|Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité existait dans un module qui filtre initialement les pièces jointes d’e-mails entrants.Un attaquant distant peut exploiter cette faille via...|25 mai 2023|
  |[42052405/23 - Vulnérabilité dans VMware NSX-T](https://www.dgssi.gov.ma//fr/content/4205240523-vulnerabilite-dans-vmware-nsx-t.html)|Une vulnérabilité a été corrigée dans VMware NSX-T. L’exploitation de cette faille peut permettre à un attaquant de provoquer une injection de code indirecte à distance (XSS).|25 mai 2023|
  |[42042505/23 - Vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.dgssi.gov.ma//fr/content/4204250523-vulnerabilites-dans-aruba-edgeconnect-enterprise.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Aruba EdgeConnect Enterprise. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la...|25 mai 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
