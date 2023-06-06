@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/06/2023 21:16:53 UTC
+ > Last Updated 06/06/2023 09:18:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-prepare-to-relocate-41418" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>prepare_to_relocate(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-prepare-to-relocate-41418)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41417" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41417)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MIT-krb5-privilege-escalation-via-S4U2Proxy-41416" class="noirorange"><b>MIT krb5</b>: privilege escalation via S4U2Proxy</a>](https://vigilance.fr/vulnerability/MIT-krb5-privilege-escalation-via-S4U2Proxy-41416)|An attacker can bypass restrictions of MIT krb5, via S4U2Proxy, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-41414" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-41414)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-attr-psid-sub-41413" class="noirorange"><b>FRRouting</b>: denial of service via bgp_attr_psid_sub()</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-attr-psid-sub-41413)|An attacker can cause a fatal error of FRRouting, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-capability-llgr-41412" class="noirorange"><b>FRRouting</b>: denial of service via <wbr>bgp_capability_llgr(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-capability-llgr-41412)|An attacker can cause a fatal error of FRRouting, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ArcSight-Logger-two-vulnerabilities-41411" class="noirorange"><b>ArcSight Logger</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcSight-Logger-two-vulnerabilities-41411)|An attacker can use several vulnerabilities of ArcSight Logger...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-41409" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-41409)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Requests-information-disclosure-via-Proxy-Authorization-Headers-41408" class="noirorange"><b>Requests</b>: information disclosure via Proxy-Authorization Headers</a>](https://vigilance.fr/vulnerability/Requests-information-disclosure-via-Proxy-Authorization-Headers-41408)|An attacker can bypass access restrictions to data of Requests, via Proxy-Authorization Headers, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/nbconvert-Cross-Site-Scripting-41407" class="noirorange"><b>nbconvert</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/nbconvert-Cross-Site-Scripting-41407)|An attacker can trigger a Cross Site Scripting of nbconvert, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-stun-parse-attr-error-code-41405" class="noirorange"><b>Sofia-SIP</b>: buffer overflow via <wbr>stun_parse_attr_erro<wbr>r_code()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-stun-parse-attr-error-code-41405)|An attacker can trigger a buffer overflow of Sofia-SIP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404" class="noirorange"><b>Stormshield Network Security</b>: memory corruption via PPP / L2TP</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404)|An attacker can trigger a memory corruption of Stormshield Network Security, via PPP / L2TP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402" class="noirorange"><b>Joomla HikaShop</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41402)|An attacker can use a SQL injection of Joomla HikaShop, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401" class="noirorange"><b>Splunk Enterprise</b>: write access via <wbr>/services/indexing/p<wbr>review</wbr></wbr></a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-write-access-via-services-indexing-preview-41401)|An attacker can bypass access restrictions of Splunk Enterprise, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400" class="noirorange"><b>Splunk Enterprise</b>: denial of service via dump SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-dump-SPL-Command-41400)|An attacker can cause a fatal error of Splunk Enterprise, via dump SPL Command, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[42092605/23 - Vulnérabilités critiques dans les produits D-Link ](https://www.dgssi.gov.ma//fr/content/4209260523-vulnerabilites-critiques-dans-les-produits-d-link.html)|D-Link a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant les versions susmentionnées de D-View 8 network management suite. L’exploitation de ces failles peut permettre à un attaquant distant non...|26 mai 2023|
  |[42082605/23 - Vulnérabilités critiques dans les produits Zyxel Firewall et VPN](https://www.dgssi.gov.ma//fr/content/4208260523-vulnerabilites-critiques-dans-les-produits-zyxel-firewall-et-vpn.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zyxel Firewall et VPN. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|26 mai 2023|
  |[42072505/23 - Vulnérabilité critique dans Barracuda Email Security Gateway ](https://www.dgssi.gov.ma//fr/content/4207250523-vulnerabilite-critique-dans-barracuda-email-security-gateway.html)|Une vulnérabilité critique a été corrigée dans Barracuda Email Security Gateway. La vulnérabilité existait dans un module qui filtre initialement les pièces jointes d’e-mails entrants.Un attaquant distant peut exploiter cette faille via...|25 mai 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
