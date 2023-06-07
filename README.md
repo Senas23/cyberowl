@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/06/2023 21:18:40 UTC
+ > Last Updated 07/06/2023 09:19:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFF-Extra-Samples-41423" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFF Extra Samples</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFF-Extra-Samples-41423)|An attacker can trigger a buffer overflow of ImageMagick, via TIFF Extra Samples, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fl-set-geneve-opt-41422" class="noirorange"><b>Linux kernel</b>: buffer overflow via fl_set_geneve_opt()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fl-set-geneve-opt-41422)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-two-vulnerabilities-41421" class="noirorange"><b>Grafana</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Grafana-two-vulnerabilities-41421)|An attacker can use several vulnerabilities of Grafana...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41420" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41420)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41419" class="noirorange"><b>Android</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41419)|An attacker can use several vulnerabilities of Android...|Visit link for details|
@@ -60,8 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-41415)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-41414" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-41414)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-attr-psid-sub-41413" class="noirorange"><b>FRRouting</b>: denial of service via bgp_attr_psid_sub()</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-attr-psid-sub-41413)|An attacker can cause a fatal error of FRRouting, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-capability-llgr-41412" class="noirorange"><b>FRRouting</b>: denial of service via <wbr>bgp_capability_llgr(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-bgp-capability-llgr-41412)|An attacker can cause a fatal error of FRRouting, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArcSight-Logger-two-vulnerabilities-41411" class="noirorange"><b>ArcSight Logger</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcSight-Logger-two-vulnerabilities-41411)|An attacker can use several vulnerabilities of ArcSight Logger...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[42103105/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4210310523-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|31 mai 2023|
  |[42092605/23 - Vulnérabilités critiques dans les produits D-Link ](https://www.dgssi.gov.ma//fr/content/4209260523-vulnerabilites-critiques-dans-les-produits-d-link.html)|D-Link a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques affectant les versions susmentionnées de D-View 8 network management suite. L’exploitation de ces failles peut permettre à un attaquant distant non...|26 mai 2023|
  |[42082605/23 - Vulnérabilités critiques dans les produits Zyxel Firewall et VPN](https://www.dgssi.gov.ma//fr/content/4208260523-vulnerabilites-critiques-dans-les-produits-zyxel-firewall-et-vpn.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Zyxel Firewall et VPN. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|26 mai 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
