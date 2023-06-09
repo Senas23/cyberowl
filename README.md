@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/06/2023 09:20:08 UTC
+ > Last Updated 09/06/2023 21:16:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0447/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 juin 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans|Publié le 9 juin 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0444/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0443/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
  |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0442/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 juin 2023|
  |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0441/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 juin 2023|
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0440/)|Une vulnérabilité a été découverte dans |Publié le 7 juin 2023|
- |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0439/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 7 juin 2023|
- |[Multiples vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0438/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 juin 2023|
- |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0437/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 7 juin 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0436/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 juin 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0435/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 juin 2023|
  
  ---
 
@@ -69,6 +69,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[42270906/23 - Vulnérabilitéscritiquesaffectant le plugin «Directorist» pour WordPress](https://www.dgssi.gov.ma//fr/content/4227090623-vulnerabilites-critiques-affectant-le-plugin-directorist-pour-wordpress.html)|WordPressannonce la correction de deux vulnérabilités critiques affectant le plugin« Directorist». L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges ou demodifier des données.|09 juin 2023|
  |[42260806/23 - Vulnérabilités dans plusieurs produits Zyxel](https://www.dgssi.gov.ma//fr/content/4226080623-vulnerabilites-dans-plusieurs-produits-zyxel.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Zyxel susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de causer un déni de service.|08 juin 2023|
  |[42230806/23 - Vulnérabilités dans IBM Security Guardium](https://www.dgssi.gov.ma//fr/content/4223080623-vulnerabilites-dans-ibm-security-guardium.html)|IBM a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de IBM Security Guardium. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de réussir une élévation...|08 juin 2023|
  |[42220806/23 - Vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.dgssi.gov.ma//fr/content/4222080623-vulnerabilites-dans-mozilla-firefox-et-firefox-esr.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de Firefox et Firefox ESR. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code...|08 juin 2023|
@@ -79,7 +80,6 @@
  |[42210706/23 - Vulnérabilité dans SolarWinds Serv-U](https://www.dgssi.gov.ma//fr/content/4221070623-vulnerabilite-dans-solarwinds-serv-u.html)|Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|07 juin 2023|
  |[42180606/23 - Vulnérabilité dans Moxa CN2600 Series ](https://www.dgssi.gov.ma//fr/content/4218060623-vulnerabilite-dans-moxa-cn2600-series.html)|Moxa a publié une mise à jour de sécurité pour corriger une vulnérabilité dans les versions susmentionnées de Moxa CN2600 Series. Un attaquant pourrait exploiter cette faille afin de porter atteinte à la confidentialité des données et de...|06 juin 2023|
  |[42170506/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4217050623-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire ou de causer un...|05 juin 2023|
- |[42160206/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4216020623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" dans MOVEit Transfer, un logiciel de transfert de fichiers. Cette vulnérabilité est activement exploitée. L'...|02 juin 2023|
  
  ---
 
