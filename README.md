@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/06/2023 21:18:35 UTC
+ > Last Updated 09/06/2023 09:20:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436" class="noirorange"><b>Puppet Enterprise</b>: code execution via Orchestrator</a>](https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436)|An attacker can use a vulnerability of Puppet Enterprise, via Orchestrator, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435" class="noirorange"><b>PHP</b>: read-write access via SOAP HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435)|An attacker can bypass access restrictions of PHP, via SOAP HTTP Digest Authentication, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434" class="noirorange"><b>SUSE supportutils</b>: information disclosure via iSCSI Passwords</a>](https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434)|An attacker can bypass access restrictions to data of SUSE supportutils, via iSCSI Passwords, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via <wbr>cardos_have_verifyrc<wbr>_package()</wbr></wbr></a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433)|An attacker can force a read at an invalid memory address of OpenSC, via |Visit link for details|
@@ -61,14 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-Administrative-XML-Web-Service-API-41427" class="noirorange"><b>Cisco Unified Communications Manager</b>: denial of service via Administrative XML Web Service API</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-Administrative-XML-Web-Service-API-41427)|An attacker can cause a fatal error of Cisco Unified Communications Manager, via Administrative XML Web Service API, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via Hardware-based SSL/TLS Cryptography</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-Hardware-based-SSL-TLS-Cryptography-41426)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via Hardware-based SSL/TLS Cryptography, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425" class="noirorange"><b>Cisco AnyConnect Secure Mobility Client</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Cisco-AnyConnect-Secure-Mobility-Client-privilege-escalation-41425)|An attacker can bypass restrictions of Cisco AnyConnect Secure Mobility Client, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-file-reading-via-htaccess-Bypass-41424" class="noirorange"><b>SPIP</b>: file reading via .htaccess Bypass</a>](https://vigilance.fr/vulnerability/SPIP-file-reading-via-htaccess-Bypass-41424)|An attacker can read a file of SPIP, via .htaccess Bypass, in order to obtain sensitive information...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -87,4 +80,11 @@
  |[42180606/23 - Vulnérabilité dans Moxa CN2600 Series ](https://www.dgssi.gov.ma//fr/content/4218060623-vulnerabilite-dans-moxa-cn2600-series.html)|Moxa a publié une mise à jour de sécurité pour corriger une vulnérabilité dans les versions susmentionnées de Moxa CN2600 Series. Un attaquant pourrait exploiter cette faille afin de porter atteinte à la confidentialité des données et de...|06 juin 2023|
  |[42170506/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4217050623-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire ou de causer un...|05 juin 2023|
  |[42160206/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4216020623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" dans MOVEit Transfer, un logiciel de transfert de fichiers. Cette vulnérabilité est activement exploitée. L'...|02 juin 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
