@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/06/2023 21:17:13 UTC
+ > Last Updated 13/06/2023 09:19:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,6 +23,13 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -40,28 +47,28 @@
  
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/XMLTooling-information-disclosure-via-KeyInfo-41442" class="noirorange"><b>XMLTooling</b>: information disclosure via KeyInfo</a>](https://vigilance.fr/vulnerability/XMLTooling-information-disclosure-via-KeyInfo-41442)|An attacker can bypass access restrictions to data of XMLTooling, via KeyInfo, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-r592-remove-41441" class="noirorange"><b>Linux kernel</b>: reuse after free via r592_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-r592-remove-41441)|An attacker can force the reuse of a freed memory area of the Linux kernel, via r592_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Configuration-Fields-41440" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Configuration Fields</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Configuration-Fields-41440)|An attacker can trigger a Cross Site Scripting of TeamPass, via Configuration Fields, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Folder-Name-41439" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Folder Name</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Folder-Name-41439)|An attacker can trigger a Cross Site Scripting of TeamPass, via Folder Name, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/jQuery-MiniColors-Cross-Site-Scripting-via-Color-Names-41438" class="noirorange"><b>jQuery MiniColors</b>: Cross Site Scripting via Color Names</a>](https://vigilance.fr/vulnerability/jQuery-MiniColors-Cross-Site-Scripting-via-Color-Names-41438)|An attacker can trigger a Cross Site Scripting of jQuery MiniColors, via Color Names, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Auth-Events-41437" class="noirorange"><b>Matrix Synapse</b>: information disclosure via Auth Events</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-information-disclosure-via-Auth-Events-41437)|An attacker can bypass access restrictions to data of Matrix Synapse, via Auth Events, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436" class="noirorange"><b>Puppet Enterprise</b>: code execution via Orchestrator</a>](https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436)|An attacker can use a vulnerability of Puppet Enterprise, via Orchestrator, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435" class="noirorange"><b>PHP</b>: read-write access via SOAP HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/PHP-read-write-access-via-SOAP-HTTP-Digest-Authentication-41435)|An attacker can bypass access restrictions of PHP, via SOAP HTTP Digest Authentication, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434" class="noirorange"><b>SUSE supportutils</b>: information disclosure via iSCSI Passwords</a>](https://vigilance.fr/vulnerability/SUSE-supportutils-information-disclosure-via-iSCSI-Passwords-41434)|An attacker can bypass access restrictions to data of SUSE supportutils, via iSCSI Passwords, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via <wbr>cardos_have_verifyrc<wbr>_package()</wbr></wbr></a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-cardos-have-verifyrc-package-41433)|An attacker can force a read at an invalid memory address of OpenSC, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432" class="noirorange"><b>Diffie-Hellman Key Agreement Protocol</b>: overload via Long Exponents</a>](https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Long-Exponents-41432)|An attacker can trigger an overload of Diffie-Hellman Key Agreement Protocol, via Long Exponents, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-Sslvpnd-Proxy-Endpoint-41460" class="noirorange"><b>Fortinet FortiOS</b>: NULL pointer dereference via Sslvpnd Proxy Endpoint</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-Sslvpnd-Proxy-Endpoint-41460)|An attacker can force a NULL pointer to be dereferenced on Fortinet FortiOS, via Sslvpnd Proxy Endpoint, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-memory-corruption-via-Fclicense-Daemon-41459" class="noirorange"><b>Fortinet FortiOS</b>: memory corruption via Fclicense Daemon</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-memory-corruption-via-Fclicense-Daemon-41459)|An attacker can trigger a memory corruption of Fortinet FortiOS, via Fclicense Daemon, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458" class="noirorange"><b>Fortinet FortiOS</b>: NULL pointer dereference via SSL-VPN Daemon</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Daemon-41458)|An attacker can force a NULL pointer to be dereferenced on Fortinet FortiOS, via SSL-VPN Daemon, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-Sslvpn-Pre-authentication-41457" class="noirorange"><b>Fortinet FortiOS</b>: buffer overflow via Sslvpn Pre-authentication</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-Sslvpn-Pre-authentication-41457)|An attacker can trigger a buffer overflow of Fortinet FortiOS, via Sslvpn Pre-authentication, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Administrative-Interface-API-41456" class="noirorange"><b>Fortinet FortiOS</b>: denial of service via Administrative Interface API</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Administrative-Interface-API-41456)|An attacker can cause a fatal error of Fortinet FortiOS, via Administrative Interface API, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-Command-Line-Interface-41455" class="noirorange"><b>Fortinet FortiOS</b>: buffer overflow via Command Line Interface</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-Command-Line-Interface-41455)|An attacker can trigger a buffer overflow of Fortinet FortiOS, via Command Line Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiAnalyzer-FortiManager-Server-Side-Request-Forgery-via-Outbreak-41454" class="noirorange"><b>Fortinet FortiAnalyzer  FortiManager</b>: Server-Side Request Forgery via Outbreak</a>](https://vigilance.fr/vulnerability/Fortinet-FortiAnalyzer-FortiManager-Server-Side-Request-Forgery-via-Outbreak-41454)|An attacker can trigger a Server-Side Request Forgery of Fortinet FortiAnalyzer  FortiManager, via Outbreak, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-Man-in-the-Middle-via-Map-Server-41453" class="noirorange"><b>Fortinet FortiOS</b>: Man-in-the-Middle via Map Server</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-Man-in-the-Middle-via-Map-Server-41453)|An attacker can act as a Man-in-the-Middle on Fortinet FortiOS, via Map Server, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-memory-corruption-via-Fortiguard-resources-CLI-Command-41452" class="noirorange"><b>Fortinet FortiOS</b>: memory corruption via <wbr>Fortiguard-resources<wbr> CLI Command</wbr></wbr></a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-memory-corruption-via-Fortiguard-resources-CLI-Command-41452)|An attacker can trigger a memory corruption of Fortinet FortiOS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-logged-sensitive-information-via-Log-Events-41451" class="noirorange"><b>Fortinet FortiOS</b>: logged sensitive information via Log Events</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-logged-sensitive-information-via-Log-Events-41451)|An attacker can read logs of Fortinet FortiOS, via Log Events, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-file-deletion-via-Administrative-Interface-41450" class="noirorange"><b>Fortinet FortiOS</b>: file deletion via Administrative Interface</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-file-deletion-via-Administrative-Interface-41450)|An attacker can bypass access restrictions of Fortinet FortiOS, via Administrative Interface, in order to delete a file...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[42200706/23- Vulnérabilité affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4220070623-vulnerabilite-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilitéaffectant le navigateur Google Chrome. Selon Google l’exploit de cette vulnérabilité existe et peut permettre àun attaquant d’accéder à des...|07 juin 2023|
  |[42190706/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4219070623-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android. Une de ces vulnérabilités, identifiée par«CVE-2022-22706 » est activementexploitée.L'exploitation de ces...|07 juin 2023|
  |[42210706/23 - Vulnérabilité dans SolarWinds Serv-U](https://www.dgssi.gov.ma//fr/content/4221070623-vulnerabilite-dans-solarwinds-serv-u.html)|Une vulnérabilité a été corrigée dans SolarWinds Serv-U. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|07 juin 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
