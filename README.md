@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/06/2023 21:16:18 UTC
+ > Last Updated 17/06/2023 09:17:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,13 +47,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -69,6 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513" class="noirorange"><b>Syncthing</b>: Cross Site Scripting via Web GUI</a>](https://vigilance.fr/vulnerability/Syncthing-Cross-Site-Scripting-via-Web-GUI-41513)|An attacker can trigger a Cross Site Scripting of Syncthing, via Web GUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512" class="noirorange"><b>IBM SPSS Modeler</b>: information disclosure via SSL Private Key</a>](https://vigilance.fr/vulnerability/IBM-SPSS-Modeler-information-disclosure-via-SSL-Private-Key-41512)|An attacker can bypass access restrictions to data of IBM SPSS Modeler, via SSL Private Key, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511" class="noirorange"><b>libX11</b>: buffer overflow via InitExt.c</a>](https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-InitExt-c-41511)|An attacker can trigger a buffer overflow of libX11, via InitExt.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
