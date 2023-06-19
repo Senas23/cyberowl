@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/06/2023 09:19:26 UTC
+ > Last Updated 19/06/2023 21:20:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 juin 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 16 juin 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 juin 2023|
@@ -43,7 +44,6 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0468/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 juin 2023|
  |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0467/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 15 juin 2023|
  |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0466/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 15 juin 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0465/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 juin 2023|
  
  ---
 
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Podman-code-execution-via-Untrusted-Image-41538" class="noirorange"><b>Podman</b>: code execution via Untrusted Image</a>](https://vigilance.fr/vulnerability/Podman-code-execution-via-Untrusted-Image-41538)|An attacker can use a vulnerability of Podman, via Untrusted Image, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-denial-of-service-via-Unsupported-Events-41537" class="noirorange"><b>BlueZ</b>: denial of service via Unsupported Events</a>](https://vigilance.fr/vulnerability/BlueZ-denial-of-service-via-Unsupported-Events-41537)|An attacker can cause a fatal error of BlueZ, via Unsupported Events, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ravb-remove-41536" class="noirorange"><b>Linux kernel</b>: reuse after free via ravb_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ravb-remove-41536)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ravb_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535" class="noirorange"><b>Linux kernel</b>: reuse after free via rkvdec_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-rkvdec-remove-41535)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rkvdec_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>renesas_usb3_remove(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-renesas-usb3-remove-41534)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533" class="noirorange"><b>Linux kernel</b>: reuse after free via cedrus_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cedrus-remove-41533)|An attacker can force the reuse of a freed memory area of the Linux kernel, via cedrus_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -59,9 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-relay-file-read-41530" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via relay_file_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-relay-file-read-41530)|An attacker can force a read at an invalid memory address of the Linux kernel, via relay_file_read(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-user-access-via-Password-Change-Persisting-Sessions-41529" class="noirorange"><b>Micro Focus ArcSight ESM</b>: user access via Password Change Persisting Sessions</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-user-access-via-Password-Change-Persisting-Sessions-41529)|An attacker can bypass restrictions of Micro Focus ArcSight ESM, via Password Change Persisting Sessions, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-via-Vgauth-Module-41528" class="noirorange"><b>VMware Tools</b>: privilege escalation via Vgauth Module</a>](https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-via-Vgauth-Module-41528)|An attacker can bypass restrictions of VMware Tools, via Vgauth Module, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Radare2-NULL-pointer-dereference-via-io-bank-41527" class="noirorange"><b>Radare2</b>: NULL pointer dereference via io.bank</a>](https://vigilance.fr/vulnerability/Radare2-NULL-pointer-dereference-via-io-bank-41527)|An attacker can force a NULL pointer to be dereferenced on Radare2, via io.bank, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-Server-Side-Request-Forgery-41526" class="noirorange"><b>Synapse</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Synapse-Server-Side-Request-Forgery-41526)|An attacker can trigger a Server-Side Request Forgery of Synapse, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-user-access-via-Deactivated-User-Uncommon-Configurations-Login-41525" class="noirorange"><b>Synapse</b>: user access via Deactivated User Uncommon Configurations Login</a>](https://vigilance.fr/vulnerability/Synapse-user-access-via-Deactivated-User-Uncommon-Configurations-Login-41525)|An attacker can bypass restrictions of Synapse, via Deactivated User Uncommon Configurations Login, in order to gain user privileges...|Visit link for details|
  
  ---
 
