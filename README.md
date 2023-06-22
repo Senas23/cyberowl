@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/06/2023 21:18:42 UTC
+ > Last Updated 22/06/2023 09:18:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted8bits-41562" class="noirorange"><b>LibTIFF</b>: buffer overflow via <wbr>extractContigSamples<wbr>Shifted8bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted8bits-41562)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Album-Photos-read-write-access-via-Edit-Any-Photo-41561" class="noirorange"><b>Drupal Album Photos</b>: read-write access via Edit Any Photo</a>](https://vigilance.fr/vulnerability/Drupal-Album-Photos-read-write-access-via-Edit-Any-Photo-41561)|An attacker can bypass access restrictions of Drupal Album Photos, via Edit Any Photo, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Civic-Cookie-Control-Cross-Site-Scripting-41560" class="noirorange"><b>Drupal Civic Cookie Control</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Civic-Cookie-Control-Cross-Site-Scripting-41560)|An attacker can trigger a Cross Site Scripting of Drupal Civic Cookie Control, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-user-access-via-s3-auth-41559" class="noirorange"><b>Apache Traffic Server</b>: user access via s3_auth</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-user-access-via-s3-auth-41559)|An attacker can bypass restrictions of Apache Traffic Server, via s3_auth, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558" class="noirorange"><b>Apache Traffic Server</b>: write access via PUSH Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558)|An attacker can bypass access restrictions of Apache Traffic Server, via PUSH Method, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-TRACE-Method-41557" class="noirorange"><b>Apache Traffic Server</b>: information disclosure via TRACE Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-TRACE-Method-41557)|An attacker can bypass access restrictions to data of Apache Traffic Server, via TRACE Method, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41556" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41556)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555" class="noirorange"><b>Juniper Junos OS</b>: denial of service via BGP Optional Transitive Attribute</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555)|An attacker can cause a fatal error of Juniper Junos OS, via BGP Optional Transitive Attribute, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-WSA-Cross-Site-Scripting-41554" class="noirorange"><b>Cisco AsyncOS  ESA  WSA</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-WSA-Cross-Site-Scripting-41554)|An attacker can trigger a Cross Site Scripting of Cisco AsyncOS  ESA  WSA, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553" class="noirorange"><b>ReadyMedia MiniDLNA</b>: buffer overflow via Chunked Transport Encoding</a>](https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553)|An attacker can trigger a buffer overflow of ReadyMedia MiniDLNA, via Chunked Transport Encoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552" class="noirorange"><b>ISC BIND</b>: denial of service via Recursive-clients Quota</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Recursive-clients-Quota-41552)|An attacker can cause a fatal error of ISC BIND, via Recursive-clients Quota, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Synth-from-dnssec-NSEC-Records-41551" class="noirorange"><b>ISC BIND</b>: denial of service via Synth-from-dnssec NSEC Records</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Synth-from-dnssec-NSEC-Records-41551)|An attacker can cause a fatal error of ISC BIND, via Synth-from-dnssec NSEC Records, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550" class="noirorange"><b>Reportlab</b>: code execution via PDF File</a>](https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550)|An attacker can use a vulnerability of Reportlab, via PDF File, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Request-Forgery-via-Command-Line-41549" class="noirorange"><b>Contao</b>: Cross Site Request Forgery via Command Line</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Request-Forgery-via-Command-Line-41549)|An attacker can trigger a Cross Site Request Forgery of Contao, via Command Line, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Unset-HTTP-Headers-41548" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Unset HTTP Headers</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Unset-HTTP-Headers-41548)|An attacker can bypass access restrictions to data of Apache Tomcat, via Unset HTTP Headers, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NetBSD-user-access-via-pam-krb5-41547" class="noirorange"><b>FreeBSD  NetBSD</b>: user access via pam_krb5</a>](https://vigilance.fr/vulnerability/FreeBSD-NetBSD-user-access-via-pam-krb5-41547)|An attacker can bypass restrictions of FreeBSD  NetBSD, via pam_krb5, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dpu-crtc-atomic-check-41546" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>dpu_crtc_atomic_chec<wbr>k()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dpu-crtc-atomic-check-41546)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[42401506/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4240150623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger quatrevulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|15 juin 2023|
  |[42421506/23 - Vulnérabilités dans Apache Struts 2](https://www.dgssi.gov.ma//fr/content/4242150623-vulnerabilites-dans-apache-struts-2.html)|Apache annonce la correction des deux vulnérabilités « CVE-2023-34149 et CVE-2023-34396» affectant les versions susmentionnées d'Apache Struts. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de...|15 juin 2023|
  |[42391506/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4239150623-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou de contourner les mesures de sécurité.|15 juin 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
