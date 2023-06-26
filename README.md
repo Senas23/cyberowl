@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/06/2023 09:21:49 UTC
+ > Last Updated 26/06/2023 21:18:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0491/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 26 juin 2023|
+ |[Multiples vulnérabilités dans NetApp ONTAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0490/)|De multiples vulnérabilités ont été découvertes dans|Publié le 26 juin 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0488/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
  |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0487/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
@@ -42,8 +44,6 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0484/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
  |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0483/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0482/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
- |[Vulnérabilité dans Juniper Junos OS et Junos OS Evolved](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0481/)|Une vulnérabilité a été découverte dans Juniper Junos OS et Junos OS Evolved. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 juin 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0480/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 juin 2023|
  
  ---
 
@@ -51,6 +51,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Nessus-Plugin-privilege-escalation-via-Java-Detection-41585" class="noirorange"><b>Nessus Plugin</b>: privilege escalation via Java Detection</a>](https://vigilance.fr/vulnerability/Nessus-Plugin-privilege-escalation-via-Java-Detection-41585)|An attacker can bypass restrictions of Nessus Plugin, via Java Detection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-file-write-via-Evolution-Agent-41584" class="noirorange"><b>Stormshield Endpoint Security</b>: file write via Evolution Agent</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-file-write-via-Evolution-Agent-41584)|An attacker can bypass access restrictions of Stormshield Endpoint Security, via Evolution Agent, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-information-disclosure-via-Evolution-Agent-Directory-41583" class="noirorange"><b>Stormshield Endpoint Security</b>: information disclosure via Evolution Agent Directory</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-information-disclosure-via-Evolution-Agent-Directory-41583)|An attacker can bypass access restrictions to data of Stormshield Endpoint Security, via Evolution Agent Directory, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Schema-41582" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via URL Schema</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Schema-41582)|An attacker can trigger a Cross Site Scripting of Zabbix, via URL Schema, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-wat2wasm-41581" class="noirorange"><b>WebAssembly</b>: denial of service via wat2wasm</a>](https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-wat2wasm-41581)|An attacker can cause a fatal error of WebAssembly, via wat2wasm, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580" class="noirorange"><b>WebAssembly</b>: overload via hang.wasm</a>](https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580)|An attacker can trigger an overload of WebAssembly, via hang.wasm, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-CWriter-MangleType-41579" class="noirorange"><b>WebAssembly</b>: denial of service via <wbr>CWriter::MangleType(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-CWriter-MangleType-41579)|An attacker can cause a fatal error of WebAssembly, via |Visit link for details|
@@ -58,17 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/D-Bus-denial-of-service-via-Monitoring-Interface-41577" class="noirorange"><b>D-Bus</b>: denial of service via Monitoring Interface</a>](https://vigilance.fr/vulnerability/D-Bus-denial-of-service-via-Monitoring-Interface-41577)|An attacker can cause a fatal error of D-Bus, via Monitoring Interface, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576" class="noirorange"><b>Apache Calcite</b>: Man-in-the-Middle via getURLConnection()</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576)|An attacker can act as a Man-in-the-Middle on Apache Calcite, via getURLConnection(), in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575" class="noirorange"><b>IBM Spectrum Protect Backup-Archive Client</b>: privilege escalation via Windows</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575)|An attacker can bypass restrictions of IBM Spectrum Protect Backup-Archive Client, via Windows, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/golang-org-x-image-overload-via-TIFF-DecodeConfig-41574" class="noirorange"><b>golang.org/x/image</b>: overload via TIFF DecodeConfig()</a>](https://vigilance.fr/vulnerability/golang-org-x-image-overload-via-TIFF-DecodeConfig-41574)|An attacker can trigger an overload of golang.org/x/image, via TIFF DecodeConfig(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-dav1d-denial-of-service-via-dav1d-decode-frame-exit-41573" class="noirorange"><b>VideoLAN dav1d</b>: denial of service via <wbr>dav1d_decode_frame_e<wbr>xit()</wbr></wbr></a>](https://vigilance.fr/vulnerability/VideoLAN-dav1d-denial-of-service-via-dav1d-decode-frame-exit-41573)|An attacker can cause a fatal error of VideoLAN dav1d, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41572" class="noirorange"><b>Joomla HikaShop</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-SQL-injection-41572)|An attacker can use a SQL injection of Joomla HikaShop, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via GET Request Scan Jobs</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via GET Request Scan Jobs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -76,6 +69,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[42572606/23 - Vulnérabilité critique dans FortiNAC](https://www.dgssi.gov.ma//fr/content/4257260623-vulnerabilite-critique-dans-fortinac.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées de FortiNAC. La faille de désérialisation de données non fiable dans FortiNAC peut permettre à un utilisateur non authentifié d'exécuter du code ou des...|26 juin 2023|
  |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
  |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
  |[42552206/23 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4255220623-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|23 juin 2023|
@@ -86,5 +80,11 @@
  |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
  |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
  |[42492106/23 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/4249210623-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des commandes à distance.|21 juin 2023|
- |[42472006/23 - Vulnérabilité critique dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4247200623-vulnerabilite-critique-dans-moveit-transfer.html)|Progress Software a publié UNE mises à jour de sécurité pour corriger une vulnérabilité critique affectant MOVEit. L'exploitation réussie de la vulnérabilité d'injection SQL pourrait permettre à un attaquant non authentifié d...|20 juin 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
