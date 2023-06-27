@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/06/2023 21:18:46 UTC
+ > Last Updated 27/06/2023 09:21:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-three-vulnerabilities-41588" class="noirorange"><b>Chrome</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-three-vulnerabilities-41588)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-9p-Protocol-Special-Files-Opening-41587" class="noirorange"><b>QEMU</b>: denial of service via 9p Protocol Special Files Opening</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-9p-Protocol-Special-Files-Opening-41587)|An attacker, in a guest system, can cause a fatal error of QEMU, via 9p Protocol Special Files Opening, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Forward-Include-Dispatcher-Types-41586" class="noirorange"><b>Spring Security</b>: ingress filtrering bypass via Forward/Include Dispatcher Types</a>](https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Forward-Include-Dispatcher-Types-41586)|An attacker can bypass filtering rules of Spring Security, via Forward/Include Dispatcher Types, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Nessus-Plugin-privilege-escalation-via-Java-Detection-41585" class="noirorange"><b>Nessus Plugin</b>: privilege escalation via Java Detection</a>](https://vigilance.fr/vulnerability/Nessus-Plugin-privilege-escalation-via-Java-Detection-41585)|An attacker can bypass restrictions of Nessus Plugin, via Java Detection, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-file-write-via-Evolution-Agent-41584" class="noirorange"><b>Stormshield Endpoint Security</b>: file write via Evolution Agent</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-file-write-via-Evolution-Agent-41584)|An attacker can bypass access restrictions of Stormshield Endpoint Security, via Evolution Agent, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-information-disclosure-via-Evolution-Agent-Directory-41583" class="noirorange"><b>Stormshield Endpoint Security</b>: information disclosure via Evolution Agent Directory</a>](https://vigilance.fr/vulnerability/Stormshield-Endpoint-Security-information-disclosure-via-Evolution-Agent-Directory-41583)|An attacker can bypass access restrictions to data of Stormshield Endpoint Security, via Evolution Agent Directory, in order to read sensitive information...|Visit link for details|
@@ -59,9 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580" class="noirorange"><b>WebAssembly</b>: overload via hang.wasm</a>](https://vigilance.fr/vulnerability/WebAssembly-overload-via-hang-wasm-41580)|An attacker can trigger an overload of WebAssembly, via hang.wasm, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-CWriter-MangleType-41579" class="noirorange"><b>WebAssembly</b>: denial of service via <wbr>CWriter::MangleType(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/WebAssembly-denial-of-service-via-CWriter-MangleType-41579)|An attacker can cause a fatal error of WebAssembly, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41578" class="noirorange"><b>Vim</b>: denial of service via scroll_cursor_bot()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41578)|An attacker can cause a fatal error of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/D-Bus-denial-of-service-via-Monitoring-Interface-41577" class="noirorange"><b>D-Bus</b>: denial of service via Monitoring Interface</a>](https://vigilance.fr/vulnerability/D-Bus-denial-of-service-via-Monitoring-Interface-41577)|An attacker can cause a fatal error of D-Bus, via Monitoring Interface, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576" class="noirorange"><b>Apache Calcite</b>: Man-in-the-Middle via getURLConnection()</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576)|An attacker can act as a Man-in-the-Middle on Apache Calcite, via getURLConnection(), in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575" class="noirorange"><b>IBM Spectrum Protect Backup-Archive Client</b>: privilege escalation via Windows</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Backup-Archive-Client-privilege-escalation-via-Windows-41575)|An attacker can bypass restrictions of IBM Spectrum Protect Backup-Archive Client, via Windows, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -69,6 +76,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[42582706/23 - Vulnérabilité critique dans Grafana](https://www.dgssi.gov.ma//fr/content/4258270623-vulnerabilite-critique-dans-grafana.html)|Grafana a publié des correctifs de sécurité afin de remédier à une vulnérabilité critique qui permet aux attaquants de contourner l'authentification et de prendre le contrôle de tout compte Grafana qui utilise Azure Active Directory...|27 juin 2023|
  |[42572606/23 - Vulnérabilité critique dans FortiNAC](https://www.dgssi.gov.ma//fr/content/4257260623-vulnerabilite-critique-dans-fortinac.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées de FortiNAC. La faille de désérialisation de données non fiable dans FortiNAC peut permettre à un utilisateur non authentifié d'exécuter du code ou des...|26 juin 2023|
  |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
  |[42542306/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4254230623-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’injecter du code dans une page ou de contourner l’...|23 juin 2023|
@@ -79,12 +87,4 @@
  |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
  |[42482106/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4248210623-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction d’une vulnérabilité affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer...|21 juin 2023|
  |[42502106/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4250210623-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte la confidentialité des données.|21 juin 2023|
- |[42492106/23 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/4249210623-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’injecter des commandes à distance.|21 juin 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
