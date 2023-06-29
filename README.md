@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/06/2023 09:21:14 UTC
+ > Last Updated 29/06/2023 21:18:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Synology Mail Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans Synology Mail Station. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 juin 2023|
+ |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0497/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service à distance.|Publié le 29 juin 2023|
+ |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0496/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 juin 2023|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0495/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 juin 2023|
  |[Multiples vulnérabilités dans StormshieldEndpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0494/)|De multiples vulnérabilités ont été découvertes dans Stormshield Endpoint Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données|Publié le 27 juin 2023|
  |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0493/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 juin 2023|
@@ -41,9 +44,6 @@
  |[Multiples vulnérabilités dans Liferay](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0491/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 26 juin 2023|
  |[Multiples vulnérabilités dans NetApp ONTAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0490/)|De multiples vulnérabilités ont été découvertes dans|Publié le 26 juin 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0489/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0488/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0487/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 juin 2023|
- |[Vulnérabilité dans StormShield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0486/)|Une vulnérabilité a été découverte dans|Publié le 23 juin 2023|
  
  ---
 
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libjxl-overload-via-dec-patch-dictionary-cc-41637" class="noirorange"><b>libjxl</b>: overload via <wbr>dec_patch_dictionary<wbr>.cc</wbr></wbr></a>](https://vigilance.fr/vulnerability/libjxl-overload-via-dec-patch-dictionary-cc-41637)|An attacker can trigger an overload of libjxl, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-io-cqring-event-overflow-41636" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>io_cqring_event_over<wbr>flow()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-io-cqring-event-overflow-41636)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635" class="noirorange"><b>Pivotal Spring AMQP</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635)|An attacker can act as a Man-in-the-Middle on Pivotal Spring AMQP, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634" class="noirorange"><b>Gifsicle</b>: buffer overflow via ambiguity_error()</a>](https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634)|An attacker can trigger a buffer overflow of Gifsicle, via ambiguity_error(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-OAuth-Client-Library-for-Java-weak-signature-via-IDToken-41632" class="noirorange"><b>Google OAuth Client Library for Java</b>: weak signature via IDToken</a>](https://vigilance.fr/vulnerability/Google-OAuth-Client-Library-for-Java-weak-signature-via-IDToken-41632)|An attacker can use malicious data on Google OAuth Client Library for Java, via IDToken, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-41626" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-41626)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-Uri-Gem-overload-via-Regular-Expression-41625" class="noirorange"><b>Ruby Uri Gem</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Uri-Gem-overload-via-Regular-Expression-41625)|An attacker can trigger an overload of Ruby Uri Gem, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-submit-lookup-cmds-41624" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>submit_lookup_cmds()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-submit-lookup-cmds-41624)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-amd-sfh-hid-client-init-41623" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>amd_sfh_hid_client_i<wbr>nit()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-amd-sfh-hid-client-init-41623)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ishtp-dma-tx-map-41622" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ishtp_dma_tx_map()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ishtp-dma-tx-map-41622)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via ishtp_dma_tx_map(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-brcm-nvram-parse-41621" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via brcm_nvram_parse()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-brcm-nvram-parse-41621)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via brcm_nvram_parse(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-poll-remove-41620" class="noirorange"><b>Linux kernel</b>: reuse after free via io_poll_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-poll-remove-41620)|An attacker can force the reuse of a freed memory area of the Linux kernel, via io_poll_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NFT-MSG-NEWRULE-41619" class="noirorange"><b>Linux kernel</b>: reuse after free via NFT_MSG_NEWRULE</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NFT-MSG-NEWRULE-41619)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NFT_MSG_NEWRULE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-IORING-OP-CLOSE-41618" class="noirorange"><b>Linux kernel</b>: privilege escalation via IORING_OP_CLOSE</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-IORING-OP-CLOSE-41618)|An attacker can bypass restrictions of the Linux kernel, via IORING_OP_CLOSE, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-Connect-String-LDAP-URL-JNDI-injection-41617" class="noirorange"><b>IBM Informix JDBC Driver</b>: code execution via Connect String LDAP URL JNDI injection</a>](https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-Connect-String-LDAP-URL-JNDI-injection-41617)|An attacker can use a vulnerability of IBM Informix JDBC Driver, via Connect String LDAP URL JNDI injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ipvlan-process-v4-outbound-41616" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>ipvlan_process_v4_ou<wbr>tbound()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ipvlan-process-v4-outbound-41616)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NetBSD-privilege-escalation-via-pam-ksu-41615" class="noirorange"><b>NetBSD</b>: privilege escalation via pam_ksu</a>](https://vigilance.fr/vulnerability/NetBSD-privilege-escalation-via-pam-ksu-41615)|An attacker can bypass restrictions of NetBSD, via pam_ksu, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
  |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
  |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
