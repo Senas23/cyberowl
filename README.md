@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/06/2023 21:18:46 UTC
+ > Last Updated 30/06/2023 09:20:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,24 +51,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643" class="noirorange"><b>LibTIFF</b>: buffer overflow via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643)|An attacker can trigger a buffer overflow of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642" class="noirorange"><b>LibTIFF</b>: buffer overflow via uv_encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642)|An attacker can trigger a buffer overflow of LibTIFF, via uv_encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41641" class="noirorange"><b>Vim</b>: denial of service via scroll_cursor_bot()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41641)|An attacker can cause a fatal error of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-three-vulnerabilities-41640" class="noirorange"><b>Moodle</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Moodle-three-vulnerabilities-41640)|An attacker can use several vulnerabilities of Moodle...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-41639" class="noirorange"><b>Suricata</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-41639)|An attacker can use several vulnerabilities of Suricata...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xonotic-denial-of-service-41638" class="noirorange"><b>Xonotic</b>: denial of service</a>](https://vigilance.fr/vulnerability/Xonotic-denial-of-service-41638)|An attacker can cause a fatal error of Xonotic, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libjxl-overload-via-dec-patch-dictionary-cc-41637" class="noirorange"><b>libjxl</b>: overload via <wbr>dec_patch_dictionary<wbr>.cc</wbr></wbr></a>](https://vigilance.fr/vulnerability/libjxl-overload-via-dec-patch-dictionary-cc-41637)|An attacker can trigger an overload of libjxl, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-io-cqring-event-overflow-41636" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>io_cqring_event_over<wbr>flow()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-io-cqring-event-overflow-41636)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635" class="noirorange"><b>Pivotal Spring AMQP</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635)|An attacker can act as a Man-in-the-Middle on Pivotal Spring AMQP, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634" class="noirorange"><b>Gifsicle</b>: buffer overflow via ambiguity_error()</a>](https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634)|An attacker can trigger a buffer overflow of Gifsicle, via ambiguity_error(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41633)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-OAuth-Client-Library-for-Java-weak-signature-via-IDToken-41632" class="noirorange"><b>Google OAuth Client Library for Java</b>: weak signature via IDToken</a>](https://vigilance.fr/vulnerability/Google-OAuth-Client-Library-for-Java-weak-signature-via-IDToken-41632)|An attacker can use malicious data on Google OAuth Client Library for Java, via IDToken, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-41626" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-41626)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-Uri-Gem-overload-via-Regular-Expression-41625" class="noirorange"><b>Ruby Uri Gem</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Uri-Gem-overload-via-Regular-Expression-41625)|An attacker can trigger an overload of Ruby Uri Gem, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-submit-lookup-cmds-41624" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>submit_lookup_cmds()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-submit-lookup-cmds-41624)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-amd-sfh-hid-client-init-41623" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>amd_sfh_hid_client_i<wbr>nit()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-amd-sfh-hid-client-init-41623)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ishtp-dma-tx-map-41622" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ishtp_dma_tx_map()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ishtp-dma-tx-map-41622)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via ishtp_dma_tx_map(), in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -87,4 +80,11 @@
  |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
  |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
  |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
