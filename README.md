@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/07/2023 09:17:59 UTC
+ > Last Updated 02/07/2023 21:17:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,6 +23,13 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -37,20 +44,6 @@
  |[Multiples vulnérabilités dans MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0500/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 30 juin 2023|
  |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0499/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 juin 2023|
  |[Multiples vulnérabilités dans Synology Mail Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans Synology Mail Station. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 juin 2023|
- 
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -87,4 +80,11 @@
  |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
  |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
  |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
