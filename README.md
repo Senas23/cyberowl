@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/07/2023 21:17:15 UTC
+ > Last Updated 03/07/2023 09:21:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dn-nsp-send-41653" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dn_nsp_send()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dn-nsp-send-41653)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dn_nsp_send(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652" class="noirorange"><b>Ivanti Endpoint Manager</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652)|An attacker can bypass restrictions of Ivanti Endpoint Manager, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-Missing-Nonce-41651" class="noirorange"><b>SQLite</b>: denial of service via Missing Nonce</a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-Missing-Nonce-41651)|An attacker can cause a fatal error of SQLite, via Missing Nonce, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mctp-sendmsg-41650" class="noirorange"><b>Linux kernel</b>: reuse after free via mctp_sendmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mctp-sendmsg-41650)|An attacker can force the reuse of a freed memory area of the Linux kernel, via mctp_sendmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-gst-plugins-base-buffer-overflow-via-Subparse-Subtitle-Parser-41649" class="noirorange"><b>GStreamer gst-plugins-base</b>: buffer overflow via Subparse Subtitle Parser</a>](https://vigilance.fr/vulnerability/GStreamer-gst-plugins-base-buffer-overflow-via-Subparse-Subtitle-Parser-41649)|An attacker can trigger a buffer overflow of GStreamer gst-plugins-base, via Subparse Subtitle Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/yajl-memory-leak-via-yajl-tree-parse-41648" class="noirorange"><b>yajl</b>: memory leak via yajl_tree_parse()</a>](https://vigilance.fr/vulnerability/yajl-memory-leak-via-yajl-tree-parse-41648)|An attacker can create a memory leak of yajl, via yajl_tree_parse(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647" class="noirorange"><b>Mozilla NSS</b>: integer overflow via <wbr>rsa_FormatOneBlock()</wbr></a>](https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-rsa-FormatOneBlock-41647)|An attacker can trigger an integer overflow of Mozilla NSS, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643" class="noirorange"><b>LibTIFF</b>: buffer overflow via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-rotateImage-41643)|An attacker can trigger a buffer overflow of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642" class="noirorange"><b>LibTIFF</b>: buffer overflow via uv_encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-uv-encode-41642)|An attacker can trigger a buffer overflow of LibTIFF, via uv_encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41641" class="noirorange"><b>Vim</b>: denial of service via scroll_cursor_bot()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-41641)|An attacker can cause a fatal error of Vim, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Moodle-three-vulnerabilities-41640" class="noirorange"><b>Moodle</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Moodle-three-vulnerabilities-41640)|An attacker can use several vulnerabilities of Moodle...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-41639" class="noirorange"><b>Suricata</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-41639)|An attacker can use several vulnerabilities of Suricata...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xonotic-denial-of-service-41638" class="noirorange"><b>Xonotic</b>: denial of service</a>](https://vigilance.fr/vulnerability/Xonotic-denial-of-service-41638)|An attacker can cause a fatal error of Xonotic, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libjxl-overload-via-dec-patch-dictionary-cc-41637" class="noirorange"><b>libjxl</b>: overload via <wbr>dec_patch_dictionary<wbr>.cc</wbr></wbr></a>](https://vigilance.fr/vulnerability/libjxl-overload-via-dec-patch-dictionary-cc-41637)|An attacker can trigger an overload of libjxl, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-io-cqring-event-overflow-41636" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>io_cqring_event_over<wbr>flow()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-io-cqring-event-overflow-41636)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635" class="noirorange"><b>Pivotal Spring AMQP</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Pivotal-Spring-AMQP-Man-in-the-Middle-41635)|An attacker can act as a Man-in-the-Middle on Pivotal Spring AMQP, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634" class="noirorange"><b>Gifsicle</b>: buffer overflow via ambiguity_error()</a>](https://vigilance.fr/vulnerability/Gifsicle-buffer-overflow-via-ambiguity-error-41634)|An attacker can trigger a buffer overflow of Gifsicle, via ambiguity_error(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[42522206/23 - Vulnérabilité dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4252220623-vulnerabilite-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger une vulnérabilité dans Juniper Junos OS. Un attaquant pourrait exploiter cette faille afin de causer un déni de service ou de contourner la politique de sécurité.|22 juin 2023|
  |[42512206/23 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/4251220623-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 juin 2023|
  |[42502106/23 - Plusieurs vulnérabilités critiques dans Apple iOS et macOS](https://www.dgssi.gov.ma//fr/content/4250210623-plusieurs-vulnerabilites-critiques-dans-apple-ios-et-macos.html)|Apple a publié une nouvelle mise à jour de sécurité corrigeant plusieurs vulnérabilités cri-tiques dans son iOS et iPadOS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE),...|22 juin 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
