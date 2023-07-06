@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/07/2023 09:22:07 UTC
+ > Last Updated 06/07/2023 21:19:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits GitLab Enterprise Edition](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0511/)|Une vulnérabilité a été découverte dans |Publié le 6 juillet 2023|
  |[Vulnérabilité dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0510/)|Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 5 juillet 2023|
  |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0509/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 juillet 2023|
  |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0508/)|Une vulnérabilité a été découverte dans les produits |Publié le 3 juillet 2023|
@@ -43,25 +44,6 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0504/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 juin 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0503/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 juin 2023|
  |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0502/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juin 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0501/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2023|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via the GFS2 filesystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via the GFS2 filesystem, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: security configuration not taken into account</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675)|An attacker can take advantage of a coding error in a configuration file that reduces the security level of IBM WebSphere Application Server Traditional...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-regex-41674" class="noirorange"><b>Django</b>: overload via regex</a>](https://vigilance.fr/vulnerability/Django-overload-via-regex-41674)|An attacker can trigger an overload of Django, via regex, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673" class="noirorange"><b>Linux kernel</b>: privilege escalation via Stack Rot</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673)|An attacker can bypass restrictions of the Linux kernel, via Stack Rot, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672" class="noirorange"><b>libdwarf</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672)|An attacker can trigger a buffer overflow of libdwarf, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-CF7-Google-Sheets-Connector-Cross-Site-Scripting-41671" class="noirorange"><b>WordPress CF7 Google Sheets Connector</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/WordPress-CF7-Google-Sheets-Connector-Cross-Site-Scripting-41671)|An attacker can trigger a Cross Site Scripting of WordPress CF7 Google Sheets Connector, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Ultimate-Member-privilege-escalation-41670" class="noirorange"><b>WordPress Ultimate Member</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WordPress-Ultimate-Member-privilege-escalation-41670)|An attacker can bypass restrictions of WordPress Ultimate Member, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41669" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41669)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-41668" class="noirorange"><b>ImageMagick</b>: denial of service</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-41668)|An attacker can cause a fatal error of ImageMagick, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -76,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[42670607/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4267060723-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|06 juillet 2023|
  |[42660607/23- Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4266060723-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’accéderà des informations confidentielles ou d’...|06 juillet 2023|
  |[42650507/23 - Vulnérabilité critique dans WordPress Social Login and Register plugin](https://www.dgssi.gov.ma//fr/content/4265050723-vulnerabilite-critique-dans-wordpress-social-login-and-register-plugin.html)|Une vulnérabilité critique a été corrigée dans le plugin WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn). Une faille est dû à un chiffrement insuffisant de l'utilisateur lors d'une connexion validée par...|05 juillet 2023|
  |[42640407/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4264040723-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de causer un...|04 juillet 2023|
@@ -86,5 +69,22 @@
  |[42592806/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4259280623-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger troisvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|28 juin 2023|
  |[42582706/23 - Vulnérabilité critique dans Grafana](https://www.dgssi.gov.ma//fr/content/4258270623-vulnerabilite-critique-dans-grafana.html)|Grafana a publié des correctifs de sécurité afin de remédier à une vulnérabilité critique qui permet aux attaquants de contourner l'authentification et de prendre le contrôle de tout compte Grafana qui utilise Azure Active Directory...|27 juin 2023|
  |[42572606/23 - Vulnérabilité critique dans FortiNAC](https://www.dgssi.gov.ma//fr/content/4257260623-vulnerabilite-critique-dans-fortinac.html)|Une vulnérabilité critique a été corrigée dans les versions susmentionnées de FortiNAC. La faille de désérialisation de données non fiable dans FortiNAC peut permettre à un utilisateur non authentifié d'exécuter du code ou des...|26 juin 2023|
- |[42562306/23 - Vulnérabilités critiques dans le plugin du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/4256230623-vulnerabilites-critiques-dans-le-plugin-du-cms-wordpress.html)|WordPress a publié des mises à jour de sécurité pour corriger deux vulnérabilités critiques (CVE-2023-2986 et CVE-2023-2834) dans les plugins susmentionnés. L’exploitation de ces failles peut permettre à un attaquant non authentifié d...|23 juin 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-41684" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-41684)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682" class="noirorange"><b>Common Printing Dialog Backends</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682)|An attacker can trigger a buffer overflow of Common Printing Dialog Backends, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>nft_byteorder_eval()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>nft_chain_lookup_byi<wbr>d()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via the GFS2 filesystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via the GFS2 filesystem, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: security configuration not taken into account</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-security-configuration-not-taken-into-account-41675)|An attacker can take advantage of a coding error in a configuration file that reduces the security level of IBM WebSphere Application Server Traditional...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-regex-41674" class="noirorange"><b>Django</b>: overload via regex</a>](https://vigilance.fr/vulnerability/Django-overload-via-regex-41674)|An attacker can trigger an overload of Django, via regex, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673" class="noirorange"><b>Linux kernel</b>: privilege escalation via Stack Rot</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Stack-Rot-41673)|An attacker can bypass restrictions of the Linux kernel, via Stack Rot, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672" class="noirorange"><b>libdwarf</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/libdwarf-buffer-overflow-41672)|An attacker can trigger a buffer overflow of libdwarf, in order to trigger a denial of service...|Visit link for details|
  
