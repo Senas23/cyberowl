@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/07/2023 21:16:58 UTC
+ > Last Updated 09/07/2023 09:18:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -65,6 +65,13 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -80,11 +87,4 @@
  |[42620307/23 - Vulnérabilités critiques dans Synology Mail Station](https://www.dgssi.gov.ma//fr/content/4262030723-vulnerabilites-critiques-dans-synology-mail-station.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Synology Mail Station. Un attaquant pourrait exploiter ces failles afin d’injecter des commandes SQL.|03 juillet 2023|
  |[42610307 /23 - Vulnérabilités dans MongoDB](https://www.dgssi.gov.ma//fr/content/42610307-23-vulnerabilites-dans-mongodb.html)|Plusieurs vulnérabilités ont été corrigées dans MongoDB. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|03 juillet 2023|
  |[42602806/23 - Vulnérabilitécritiqueaffectant le plugin «LearnDash LMS» pour WordPress](https://www.dgssi.gov.ma//fr/content/4260280623-vulnerabilite-critique-affectant-le-plugin-learndash-lms-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilitécritique affectant le plugin« LearnDash LMS». L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|28 juin 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
