@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/07/2023 21:16:39 UTC
+ > Last Updated 10/07/2023 09:21:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,28 +47,21 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41697" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41697)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/yt-dlp-information-disclosure-via-cookies-41696" class="noirorange"><b>yt-dlp</b>: information disclosure via cookies</a>](https://vigilance.fr/vulnerability/yt-dlp-information-disclosure-via-cookies-41696)|An attacker can bypass access restrictions to data of yt-dlp, via cookies, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pjproject-double-free-via-TLS-41695" class="noirorange"><b>pjproject</b>: double free via TLS</a>](https://vigilance.fr/vulnerability/pjproject-double-free-via-TLS-41695)|An attacker can force a double memory free of pjproject, via TLS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fusiondirectory-vulnerability-via-Session-Handling-41694" class="noirorange"><b>Fusiondirectory</b>: vulnerability via Session Handling</a>](https://vigilance.fr/vulnerability/Fusiondirectory-vulnerability-via-Session-Handling-41694)|A vulnerability of Fusiondirectory, via Session Handling, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fusiondirectory-Cross-Site-Scripting-41693" class="noirorange"><b>Fusiondirectory</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Fusiondirectory-Cross-Site-Scripting-41693)|An attacker can trigger a Cross Site Scripting of Fusiondirectory, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Nullsoft-Scriptable-Install-System-insecure-directory-permissions-41692" class="noirorange"><b>Nullsoft Scriptable Install System</b>: insecure directory permissions</a>](https://vigilance.fr/vulnerability/Nullsoft-Scriptable-Install-System-insecure-directory-permissions-41692)|An attacker can corrupt the uninstaller created by Nullsoft Scriptable Install System due to incorrect permissions definitions...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-read-descriptors-41691" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via read_descriptors()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-read-descriptors-41691)|An attacker can force a read at an invalid memory address of the Linux kernel, via read_descriptors(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fs-udf-super-c-41690" class="noirorange"><b>Linux kernel</b>: reuse after free via fs/udf/super.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fs-udf-super-c-41690)|An attacker can force the reuse of a freed memory area of the Linux kernel, via fs/udf/super.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/redcloth-denial-of-service-via-sanitize-html-41688" class="noirorange"><b>redcloth</b>: denial of service via sanitize_html()</a>](https://vigilance.fr/vulnerability/redcloth-denial-of-service-via-sanitize-html-41688)|An attacker can cause a fatal error of redcloth, via sanitize_html(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-41684" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-41684)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682" class="noirorange"><b>Common Printing Dialog Backends</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Common-Printing-Dialog-Backends-buffer-overflow-41682)|An attacker can trigger a buffer overflow of Common Printing Dialog Backends, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>nft_byteorder_eval()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-byteorder-eval-41681)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>nft_chain_lookup_byi<wbr>d()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-chain-lookup-byid-41680)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via the GFS2 filesystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-the-GFS2-filesystem-41679)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via the GFS2 filesystem, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-41678)|An attacker can use several vulnerabilities of MediaWiki...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
  
  ---
 
@@ -87,4 +80,11 @@
  |[42620307/23 - Vulnérabilités critiques dans Synology Mail Station](https://www.dgssi.gov.ma//fr/content/4262030723-vulnerabilites-critiques-dans-synology-mail-station.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Synology Mail Station. Un attaquant pourrait exploiter ces failles afin d’injecter des commandes SQL.|03 juillet 2023|
  |[42610307 /23 - Vulnérabilités dans MongoDB](https://www.dgssi.gov.ma//fr/content/42610307-23-vulnerabilites-dans-mongodb.html)|Plusieurs vulnérabilités ont été corrigées dans MongoDB. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|03 juillet 2023|
  |[42602806/23 - Vulnérabilitécritiqueaffectant le plugin «LearnDash LMS» pour WordPress](https://www.dgssi.gov.ma//fr/content/4260280623-vulnerabilite-critique-affectant-le-plugin-learndash-lms-pour-wordpress.html)|WordPressannonce la correction d’une vulnérabilitécritique affectant le plugin« LearnDash LMS». L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|28 juin 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
