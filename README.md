@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/07/2023 21:19:05 UTC
+ > Last Updated 11/07/2023 09:20:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,19 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebKit-memory-corruption-41715" class="noirorange"><b>WebKit</b>: memory corruption</a>](https://vigilance.fr/vulnerability/WebKit-memory-corruption-41715)|An attacker can trigger a memory corruption of WebKit, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-tough-cookie-prototype-pollution-41714" class="noirorange"><b>Node.js tough-cookie</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-js-tough-cookie-prototype-pollution-41714)|An attacker can alter the JavaScript code of Node.js tough-cookie, in order to change the software behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-information-disclosure-via-ACI-Multi-Site-CloudSec-Encryption-41713" class="noirorange"><b>Cisco Nexus</b>: information disclosure via ACI Multi-Site CloudSec Encryption</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-information-disclosure-via-ACI-Multi-Site-CloudSec-Encryption-41713)|An attacker can bypass access restrictions to data of Cisco Nexus, via ACI Multi-Site CloudSec Encryption, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SPIP-security-improvement-via-auth-desensibiliser-session-41712" class="noirorange"><b>SPIP</b>: security improvement via <wbr>auth_desensibiliser_<wbr>session()</wbr></wbr></a>](https://vigilance.fr/vulnerability/SPIP-security-improvement-via-auth-desensibiliser-session-41712)|The security of SPIP was improved via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Extracting-Key-Name-41711" class="noirorange"><b>Redis</b>: buffer overflow via Extracting Key Name</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Extracting-Key-Name-41711)|An attacker can trigger a buffer overflow of Redis, via Extracting Key Name, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -60,8 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/TeamPass-code-execution-via-Client-ID-41706" class="noirorange"><b>TeamPass</b>: code execution via <wbr>"Client ID<wbr>"</wbr></wbr></a>](https://vigilance.fr/vulnerability/TeamPass-code-execution-via-Client-ID-41706)|An attacker can use a vulnerability of TeamPass, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-query-41705" class="noirorange"><b>IBM Db2</b>: denial of service via SQL query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-query-41705)|An attacker can cause a fatal error of IBM Db2, via a SQL query, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-options-41704" class="noirorange"><b>IBM Db2</b>: denial of service via options</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-options-41704)|An attacker can cause a fatal error of IBM Db2, via options, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703" class="noirorange"><b>IBM Db2</b>: buffer overflow via db2set</a>](https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2set-41703)|An attacker can trigger a buffer overflow of IBM Db2, via db2set, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-federation-41702" class="noirorange"><b>IBM Db2</b>: information disclosure via federation</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-federation-41702)|An attacker can bypass access restrictions to data of IBM Db2, via a federation, in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -69,6 +76,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[42711107/23 - « Zero-Day » affectant macOS, iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/4271110723-zero-day-affectant-macos-ios-et-ipados.html)|Apple annonce lacorrectiond’une vulnérabilité de type « Zero-Day » affectant les versions susmentionnées de ses systèmes d’exploitation macOS, iOs et iPadOS. Selon Apple cettevulnérabilité est Activement exploitée et peut...|11 juillet 2023|
  |[42711007/23 - Vulnérabilité affectant VMwareSD-WAN](https://www.dgssi.gov.ma//fr/content/4271100723-vulnerabilite-affectant-vmware-sd-wan.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware SD-WAN. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’accéder à des données confidentielles.|10 juillet 2023|
  |[42701007/23 - Vulnérabilités critiques dans MOVEit Transfer](https://www.dgssi.gov.ma//fr/content/4270100723-vulnerabilites-critiques-dans-moveit-transfer.html)|Progress Software a publié une mise à jour de sécurité pour corriger trois vulnérabilités critiques dans MOVEit Transfer. Un acteur malveillant pourrait exploiter certaines de ces vulnérabilités pour obtenir des informations...|10 juillet 2023|
  |[42690707/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4269070723-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|07 juillet 2023|
@@ -79,12 +87,4 @@
  |[42650507/23 - Vulnérabilité critique dans WordPress Social Login and Register plugin](https://www.dgssi.gov.ma//fr/content/4265050723-vulnerabilite-critique-dans-wordpress-social-login-and-register-plugin.html)|Une vulnérabilité critique a été corrigée dans le plugin WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn). Une faille est dû à un chiffrement insuffisant de l'utilisateur lors d'une connexion validée par...|05 juillet 2023|
  |[42640407/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4264040723-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données, de causer un...|04 juillet 2023|
  |[42630307/23 - Vulnérabilité critique affectant le plugin «Ultimate Member» pour WordPress](https://www.dgssi.gov.ma//fr/content/4263030723-vulnerabilite-critique-affectant-le-plugin-ultimate-member-pour-wordpress.html)|Wordpress annonce la correction d’une vulnérabilité critique affectant le plugin « Ultimate Member». Cette vulnérabilité est activement exploitée et son exploitation peut permettre à un attaquant l’élévation de privilèges.|03 juillet 2023|
- |[42620307/23 - Vulnérabilités critiques dans Synology Mail Station](https://www.dgssi.gov.ma//fr/content/4262030723-vulnerabilites-critiques-dans-synology-mail-station.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Synology Mail Station. Un attaquant pourrait exploiter ces failles afin d’injecter des commandes SQL.|03 juillet 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
