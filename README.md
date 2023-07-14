@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/07/2023 21:20:12 UTC
+ > Last Updated 14/07/2023 09:21:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,14 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756" class="noirorange"><b>Zabbix</b>: buffer overflow via JSON Parser</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756)|An attacker can trigger a buffer overflow of Zabbix, via JSON Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/php-dompdf-write-access-via-File-Name-External-Control-41755" class="noirorange"><b>php-dompdf</b>: write access via File Name External Control</a>](https://vigilance.fr/vulnerability/php-dompdf-write-access-via-File-Name-External-Control-41755)|An attacker can bypass access restrictions of php-dompdf, via File Name External Control, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/php-dompdf-code-execution-via-PHAR-Deserialization-41754" class="noirorange"><b>php-dompdf</b>: code execution via PHAR Deserialization</a>](https://vigilance.fr/vulnerability/php-dompdf-code-execution-via-PHAR-Deserialization-41754)|An attacker can use a vulnerability of php-dompdf, via PHAR Deserialization, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-TIFFClose-41753" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via TIFFClose()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-TIFFClose-41753)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via TIFFClose(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751)|An attacker can send malicious iSCSI packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750" class="noirorange"><b>Wireshark</b>: denial of service via Kafka</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750)|An attacker can send malicious Kafka packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
@@ -65,10 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-Fax3Encode-41747" class="noirorange"><b>LibTIFF</b>: buffer overflow via Fax3Encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-Fax3Encode-41747)|An attacker can trigger a buffer overflow of LibTIFF, via Fax3Encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SciPy-memory-leak-41746" class="noirorange"><b>SciPy</b>: memory leak</a>](https://vigilance.fr/vulnerability/SciPy-memory-leak-41746)|An attacker can create a memory leak of SciPy, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SciPy-reuse-after-free-41745" class="noirorange"><b>SciPy</b>: reuse after free</a>](https://vigilance.fr/vulnerability/SciPy-reuse-after-free-41745)|An attacker can force the reuse of a freed memory area of SciPy, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/krb5-out-of-bounds-memory-reading-via-kadm5-41744" class="noirorange"><b>krb5</b>: out-of-bounds memory reading via kadm5</a>](https://vigilance.fr/vulnerability/krb5-out-of-bounds-memory-reading-via-kadm5-41744)|An attacker can force a read at an invalid memory address of krb5, via kadm5, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-July-2023-41742" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-July-2023-41742)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41741" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41741)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-REST-41740" class="noirorange"><b>Drupal Two-factor Authentication</b>: user access via REST</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-REST-41740)|An attacker can bypass restrictions of Drupal Two-factor Authentication, via REST, in order to gain user privileges...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
