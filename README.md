@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/07/2023 09:21:39 UTC
+ > Last Updated 17/07/2023 21:18:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,23 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0554/)|Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 juillet 2023|
+ |[[SCADA] Vulnérabilité dans les commutateurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0553/)|Une vulnérabilité a été découverte dans les commutateurs Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0552/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 juillet 2023|
+ |[Vulnérabilité dans Spring HATEOAS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0551/)|Une vulnérabilité a été découverte dans Spring HATEOAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0550/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
+ |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0549/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique avoir connaissance d'une preuve de concept disponible publiquement.|Publié le 17 juillet 2023|
  |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0537/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 juillet 2023|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0536/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 juillet 2023|
  |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0535/)|Une vulnérabilité a été corrigée dans |Publié le 13 juillet 2023|
  |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0534/)|De multiples vulnérabilités ont été corrigées dans Microsoft .Net. Elles permettent à un attaquant de provoquer un contournement de la fonctionnalité de sécurité et une élévation de privilèges.|Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0533/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0532/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 juillet 2023|
- |[Vulnérabilité dans Cisco SD-WAN vManage](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0548/)|Une vulnérabilité a été découverte dans |Publié le 13 juillet 2023|
- |[Vulnérabilité dans Microsoft Active Directory Federation Service](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0547/)|Une vulnérabilité a été découverte dans Microsoft Active Directory Federation Service. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 juillet 2023|
- |[Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0546/)|Une vulnérabilité a été découverte dans |Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0545/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 juillet 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -58,6 +51,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771" class="noirorange"><b>IBM i</b>: privilege escalation via Performance Tools</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771)|An attacker can bypass restrictions of IBM i, via Performance Tools, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770" class="noirorange"><b>iperf3</b>: integer overflow</a>](https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770)|An attacker can trigger an integer overflow of iperf3, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41769" class="noirorange"><b>SnapCenter</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41769)|An attacker can bypass restrictions of SnapCenter, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-header-injection-via-Host-Header-41768" class="noirorange"><b>Go</b>: header injection via Host Header</a>](https://vigilance.fr/vulnerability/Go-header-injection-via-Host-Header-41768)|An attacker can add new headers on Go, via Host Header, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-41766" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-41766)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-Non-administrative-Command-41765" class="noirorange"><b>Redis</b>: assertion error via Non-administrative Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-Non-administrative-Command-41765)|An attacker can force an assertion error of Redis, via Non-administrative Command, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-spoofing-via-AES-SIV-Empty-Associated-Data-Entries-41764" class="noirorange"><b>OpenSSL</b>: spoofing via AES-SIV Empty Associated Data Entries</a>](https://vigilance.fr/vulnerability/OpenSSL-spoofing-via-AES-SIV-Empty-Associated-Data-Entries-41764)|An attacker can create spoofed data on OpenSSL, via AES-SIV Empty Associated Data Entries, in order to deceive the victim...|Visit link for details|
@@ -65,10 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-id3dmx-flush-41762" class="noirorange"><b>gpac</b>: buffer overflow via id3dmx_flush()</a>](https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-id3dmx-flush-41762)|An attacker can trigger a buffer overflow of gpac, via id3dmx_flush(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gpac-NULL-pointer-dereference-via-xml-sax-parse-entity-41761" class="noirorange"><b>gpac</b>: NULL pointer dereference via <wbr>xml_sax_parse_entity<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/gpac-NULL-pointer-dereference-via-xml-sax-parse-entity-41761)|An attacker can force a NULL pointer to be dereferenced on gpac, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-Null-Grouping-Type-41760" class="noirorange"><b>gpac</b>: buffer overflow via Null Grouping Type</a>](https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-Null-Grouping-Type-41760)|An attacker can trigger a buffer overflow of gpac, via Null Grouping Type, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pypdf-overload-via-Missing-Xref-Marker-41759" class="noirorange"><b>pypdf</b>: overload via Missing Xref Marker</a>](https://vigilance.fr/vulnerability/pypdf-overload-via-Missing-Xref-Marker-41759)|An attacker can trigger an overload of pypdf, via Missing Xref Marker, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758" class="noirorange"><b>LemonLDAP-NG</b>: user access via Weak Session ID 2FA Verification Bypass</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758)|An attacker can bypass restrictions of LemonLDAP::NG, via Weak Session ID 2FA Verification Bypass, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756" class="noirorange"><b>Zabbix</b>: buffer overflow via JSON Parser</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756)|An attacker can trigger a buffer overflow of Zabbix, via JSON Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
