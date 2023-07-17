@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/07/2023 21:18:01 UTC
+ > Last Updated 17/07/2023 09:21:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,31 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-41766" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-41766)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-Non-administrative-Command-41765" class="noirorange"><b>Redis</b>: assertion error via Non-administrative Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-Non-administrative-Command-41765)|An attacker can force an assertion error of Redis, via Non-administrative Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-spoofing-via-AES-SIV-Empty-Associated-Data-Entries-41764" class="noirorange"><b>OpenSSL</b>: spoofing via AES-SIV Empty Associated Data Entries</a>](https://vigilance.fr/vulnerability/OpenSSL-spoofing-via-AES-SIV-Empty-Associated-Data-Entries-41764)|An attacker can create spoofed data on OpenSSL, via AES-SIV Empty Associated Data Entries, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kanboard-SQL-injection-41763" class="noirorange"><b>Kanboard</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Kanboard-SQL-injection-41763)|An attacker can use a SQL injection of Kanboard, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-id3dmx-flush-41762" class="noirorange"><b>gpac</b>: buffer overflow via id3dmx_flush()</a>](https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-id3dmx-flush-41762)|An attacker can trigger a buffer overflow of gpac, via id3dmx_flush(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gpac-NULL-pointer-dereference-via-xml-sax-parse-entity-41761" class="noirorange"><b>gpac</b>: NULL pointer dereference via <wbr>xml_sax_parse_entity<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/gpac-NULL-pointer-dereference-via-xml-sax-parse-entity-41761)|An attacker can force a NULL pointer to be dereferenced on gpac, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-Null-Grouping-Type-41760" class="noirorange"><b>gpac</b>: buffer overflow via Null Grouping Type</a>](https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-Null-Grouping-Type-41760)|An attacker can trigger a buffer overflow of gpac, via Null Grouping Type, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pypdf-overload-via-Missing-Xref-Marker-41759" class="noirorange"><b>pypdf</b>: overload via Missing Xref Marker</a>](https://vigilance.fr/vulnerability/pypdf-overload-via-Missing-Xref-Marker-41759)|An attacker can trigger an overload of pypdf, via Missing Xref Marker, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758" class="noirorange"><b>LemonLDAP-NG</b>: user access via Weak Session ID 2FA Verification Bypass</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758)|An attacker can bypass restrictions of LemonLDAP::NG, via Weak Session ID 2FA Verification Bypass, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756" class="noirorange"><b>Zabbix</b>: buffer overflow via JSON Parser</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756)|An attacker can trigger a buffer overflow of Zabbix, via JSON Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -62,29 +87,4 @@
  |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
  |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
  |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758" class="noirorange"><b>LemonLDAP-NG</b>: user access via Weak Session ID 2FA Verification Bypass</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Weak-Session-ID-2FA-Verification-Bypass-41758)|An attacker can bypass restrictions of LemonLDAP::NG, via Weak Session ID 2FA Verification Bypass, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756" class="noirorange"><b>Zabbix</b>: buffer overflow via JSON Parser</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-JSON-Parser-41756)|An attacker can trigger a buffer overflow of Zabbix, via JSON Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/php-dompdf-write-access-via-File-Name-External-Control-41755" class="noirorange"><b>php-dompdf</b>: write access via File Name External Control</a>](https://vigilance.fr/vulnerability/php-dompdf-write-access-via-File-Name-External-Control-41755)|An attacker can bypass access restrictions of php-dompdf, via File Name External Control, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/php-dompdf-code-execution-via-PHAR-Deserialization-41754" class="noirorange"><b>php-dompdf</b>: code execution via PHAR Deserialization</a>](https://vigilance.fr/vulnerability/php-dompdf-code-execution-via-PHAR-Deserialization-41754)|An attacker can use a vulnerability of php-dompdf, via PHAR Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-TIFFClose-41753" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via TIFFClose()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-TIFFClose-41753)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via TIFFClose(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-41751)|An attacker can send malicious iSCSI packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750" class="noirorange"><b>Wireshark</b>: denial of service via Kafka</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-41750)|An attacker can send malicious Kafka packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-file-reading-via-configuration-41749" class="noirorange"><b>Palo Alto PAN-OS</b>: file reading via configuration</a>](https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-file-reading-via-configuration-41749)|An attacker can read a file of Palo Alto PAN-OS, via configuration, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-Fax3Encode-41747" class="noirorange"><b>LibTIFF</b>: buffer overflow via Fax3Encode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-Fax3Encode-41747)|An attacker can trigger a buffer overflow of LibTIFF, via Fax3Encode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SciPy-memory-leak-41746" class="noirorange"><b>SciPy</b>: memory leak</a>](https://vigilance.fr/vulnerability/SciPy-memory-leak-41746)|An attacker can create a memory leak of SciPy, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
