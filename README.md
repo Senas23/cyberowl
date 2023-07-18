@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/07/2023 09:19:31 UTC
+ > Last Updated 18/07/2023 21:15:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,23 +23,6 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0554/)|Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 juillet 2023|
- |[[SCADA] Vulnérabilité dans les commutateurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0553/)|Une vulnérabilité a été découverte dans les commutateurs Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0552/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 juillet 2023|
- |[Vulnérabilité dans Spring HATEOAS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0551/)|Une vulnérabilité a été découverte dans Spring HATEOAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0550/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
- |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0549/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique avoir connaissance d'une preuve de concept disponible publiquement.|Publié le 17 juillet 2023|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0537/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0536/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 juillet 2023|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0535/)|Une vulnérabilité a été corrigée dans |Publié le 13 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0534/)|De multiples vulnérabilités ont été corrigées dans Microsoft .Net. Elles permettent à un attaquant de provoquer un contournement de la fonctionnalité de sécurité et une élévation de privilèges.|Publié le 13 juillet 2023|
- 
- ---
-
 ## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -47,10 +30,38 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Elastic Cloud Entreprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0558/)|Une vulnérabilité a été découverte dans Elastic Cloud Entreprise. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0557/)|De multiples vulnérabilités ont été découvertes dans Spring Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans Splunk SOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0556/)|De multiples vulnérabilités ont été découvertes dans Splunk SOAR. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 juillet 2023|
+ |[Multiples vulnérabilités dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0555/)|De multiples vulnérabilités ont été découvertes dans NetApp SnapCenter. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 18 juillet 2023|
+ |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0554/)|Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 juillet 2023|
+ |[[SCADA] Vulnérabilité dans les commutateurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0553/)|Une vulnérabilité a été découverte dans les commutateurs Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 juillet 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0552/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 juillet 2023|
+ |[Vulnérabilité dans Spring HATEOAS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0551/)|Une vulnérabilité a été découverte dans Spring HATEOAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0550/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
+ |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0549/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique avoir connaissance d'une preuve de concept disponible publiquement.|Publié le 17 juillet 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781" class="noirorange"><b>Veritas NetBackup</b>: file upload via BPCD Process</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781)|An attacker can upload a malicious file on Veritas NetBackup, via BPCD Process, in order for example to upload a Trojan...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-spoofing-via-Email-Trust-41780" class="noirorange"><b>Keycloak</b>: spoofing via Email Trust</a>](https://vigilance.fr/vulnerability/Keycloak-spoofing-via-Email-Trust-41780)|An attacker can create spoofed data on Keycloak, via Email Trust, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Command-Payload-Size-41778" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via Command Payload Size</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-Command-Payload-Size-41778)|An attacker can force a read at an invalid memory address of the Linux kernel, via Command Payload Size, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-SMB-Request-Protocol-ID-41777" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via SMB Request Protocol ID</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-SMB-Request-Protocol-ID-41777)|An attacker can force a read at an invalid memory address of the Linux kernel, via SMB Request Protocol ID, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ksmbd-conn-handler-loop-41776" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>ksmbd_conn_handler_l<wbr>oop()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ksmbd-conn-handler-loop-41776)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-deassemble-neg-contexts-41775" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>deassemble_neg_conte<wbr>xts()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-deassemble-neg-contexts-41775)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-smb2-check-message-41774" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>ksmbd_smb2_check_mes<wbr>sage()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-smb2-check-message-41774)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-UserName-Value-41773" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via UserName Value</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-UserName-Value-41773)|An attacker can force a read at an invalid memory address of the Linux kernel, via UserName Value, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>smb2_find_context_va<wbr>ls()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-find-context-vals-41772)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771" class="noirorange"><b>IBM i</b>: privilege escalation via Performance Tools</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771)|An attacker can bypass restrictions of IBM i, via Performance Tools, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770" class="noirorange"><b>iperf3</b>: integer overflow</a>](https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770)|An attacker can trigger an integer overflow of iperf3, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -58,6 +69,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[42881807/23 - Vulnérabilité critique affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4288180723-vulnerabilite-critique-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Adobe ColFusion. Selon Adobe, l’exploit de cette vulnérabilité existe et il peut permettre à un attaquant distant d’exécuter...|18 juillet 2023|
  |[42871407/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4287140723-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction de plusieurs vulnérabilités affectantles versions susmentionnées de son système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter ces vulnérabilités pour exécuter du code...|14 juillet 2023|
  |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
  |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
@@ -68,23 +80,11 @@
  |[42801207/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4280120723-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|12 juillet 2023|
  |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
  |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
- |[42771207/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4277120723-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 juillet 2023|
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771" class="noirorange"><b>IBM i</b>: privilege escalation via Performance Tools</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Performance-Tools-41771)|An attacker can bypass restrictions of IBM i, via Performance Tools, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770" class="noirorange"><b>iperf3</b>: integer overflow</a>](https://vigilance.fr/vulnerability/iperf3-integer-overflow-41770)|An attacker can trigger an integer overflow of iperf3, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41769" class="noirorange"><b>SnapCenter</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/SnapCenter-privilege-escalation-41769)|An attacker can bypass restrictions of SnapCenter, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-header-injection-via-Host-Header-41768" class="noirorange"><b>Go</b>: header injection via Host Header</a>](https://vigilance.fr/vulnerability/Go-header-injection-via-Host-Header-41768)|An attacker can add new headers on Go, via Host Header, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-41766" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-41766)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-Non-administrative-Command-41765" class="noirorange"><b>Redis</b>: assertion error via Non-administrative Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-Non-administrative-Command-41765)|An attacker can force an assertion error of Redis, via Non-administrative Command, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-spoofing-via-AES-SIV-Empty-Associated-Data-Entries-41764" class="noirorange"><b>OpenSSL</b>: spoofing via AES-SIV Empty Associated Data Entries</a>](https://vigilance.fr/vulnerability/OpenSSL-spoofing-via-AES-SIV-Empty-Associated-Data-Entries-41764)|An attacker can create spoofed data on OpenSSL, via AES-SIV Empty Associated Data Entries, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kanboard-SQL-injection-41763" class="noirorange"><b>Kanboard</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Kanboard-SQL-injection-41763)|An attacker can use a SQL injection of Kanboard, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-id3dmx-flush-41762" class="noirorange"><b>gpac</b>: buffer overflow via id3dmx_flush()</a>](https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-id3dmx-flush-41762)|An attacker can trigger a buffer overflow of gpac, via id3dmx_flush(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gpac-NULL-pointer-dereference-via-xml-sax-parse-entity-41761" class="noirorange"><b>gpac</b>: NULL pointer dereference via <wbr>xml_sax_parse_entity<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/gpac-NULL-pointer-dereference-via-xml-sax-parse-entity-41761)|An attacker can force a NULL pointer to be dereferenced on gpac, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-Null-Grouping-Type-41760" class="noirorange"><b>gpac</b>: buffer overflow via Null Grouping Type</a>](https://vigilance.fr/vulnerability/gpac-buffer-overflow-via-Null-Grouping-Type-41760)|An attacker can trigger a buffer overflow of gpac, via Null Grouping Type, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
