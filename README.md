@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/07/2023 09:19:08 UTC
+ > Last Updated 19/07/2023 21:17:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Elastic Cloud Entreprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0558/)|Une vulnérabilité a été découverte dans Elastic Cloud Entreprise. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 juillet 2023|
- |[Multiples vulnérabilités dans Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0557/)|De multiples vulnérabilités ont été découvertes dans Spring Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 juillet 2023|
- |[Multiples vulnérabilités dans Splunk SOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0556/)|De multiples vulnérabilités ont été découvertes dans Splunk SOAR. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 juillet 2023|
- |[Multiples vulnérabilités dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0555/)|De multiples vulnérabilités ont été découvertes dans NetApp SnapCenter. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 18 juillet 2023|
- |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0554/)|Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 juillet 2023|
- |[[SCADA] Vulnérabilité dans les commutateurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0553/)|Une vulnérabilité a été découverte dans les commutateurs Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 17 juillet 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0552/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 juillet 2023|
- |[Vulnérabilité dans Spring HATEOAS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0551/)|Une vulnérabilité a été découverte dans Spring HATEOAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0550/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 juillet 2023|
- |[Vulnérabilité dans Adobe ColdFusion](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0549/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique avoir connaissance d'une preuve de concept disponible publiquement.|Publié le 17 juillet 2023|
+ |[Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0568/)|De multiples vulnérabilités ont été découvertes dans Citrix NetScaler ADC et NetScaler Gateway. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans Oracle WebLogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0567/)|De multiples vulnérabilités ont été découvertes dans Oracle WebLogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0566/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 juillet 2023|
+ |[Vulnérabilité dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0565/)|Une vulnérabilité a été découverte dans Oracle Systems. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0564/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0563/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0562/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0561/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0560/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 juillet 2023|
+ |[Multiples vulnérabilités dans les commutateurs Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0559/)|De multiples vulnérabilités ont été découvertes dans les commutateurs Aruba. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une élévation de privilèges.|Publié le 19 juillet 2023|
  
  ---
 
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798" class="noirorange"><b>Samba</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798)|An attacker can use several vulnerabilities of Samba...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797" class="noirorange"><b>OpenSSL</b>: overload via DH Keys/Parameters Checking</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Keys-Parameters-Checking-41797)|An attacker can trigger an overload of OpenSSL, via DH Keys/Parameters Checking, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41795)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-41794)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793" class="noirorange"><b>IBM Storage Protect</b>: denial of service via Time-of-check</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-denial-of-service-via-Time-of-check-41793)|An attacker can cause a fatal error of IBM Storage Protect, via Time-of-check, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792" class="noirorange"><b>Google Guava</b>: file read/write via <wbr>FileBackedOutputStre<wbr>am</wbr></wbr></a>](https://vigilance.fr/vulnerability/Google-Guava-file-read-write-via-FileBackedOutputStream-41792)|An attacker can bypass access restrictions of Google Guava, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791" class="noirorange"><b>Netty</b>: denial of service via SniHandler</a>](https://vigilance.fr/vulnerability/Netty-denial-of-service-via-SniHandler-41791)|An attacker can cause a fatal error of Netty, via SniHandler, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libcurl-file-corruption-41790" class="noirorange"><b>libcurl</b>: file corruption</a>](https://vigilance.fr/vulnerability/libcurl-file-corruption-41790)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of libcurl...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789" class="noirorange"><b>Oracle Java</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787" class="noirorange"><b>Oracle VM VirtualBox</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787)|An attacker can use several vulnerabilities of Oracle VM VirtualBox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-privilege-escalation-via-Device-Driver-Interface-41786" class="noirorange"><b>Oracle Solaris</b>: privilege escalation via Device Driver Interface</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-privilege-escalation-via-Device-Driver-Interface-41786)|An attacker can bypass restrictions of Oracle Solaris, via Device Driver Interface, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-July-2023-41785" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-July-2023-41785)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-July-2023-41784" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-July-2023-41784)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-July-2023-41783" class="noirorange"><b>Oracle Database</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-July-2023-41783)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41782" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41782)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781" class="noirorange"><b>Veritas NetBackup</b>: file upload via BPCD Process</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781)|An attacker can upload a malicious file on Veritas NetBackup, via BPCD Process, in order for example to upload a Trojan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-spoofing-via-Email-Trust-41780" class="noirorange"><b>Keycloak</b>: spoofing via Email Trust</a>](https://vigilance.fr/vulnerability/Keycloak-spoofing-via-Email-Trust-41780)|An attacker can create spoofed data on Keycloak, via Email Trust, in order to deceive the victim...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[42801207/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4280120723-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|12 juillet 2023|
  |[42791207/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4279120723-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-juillet-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|12 juillet 2023|
  |[42781207/23 - Vulnérabilité dans Microsoft Azure (Patch Tuesday Juillet 2023)](https://www.dgssi.gov.ma//fr/content/4278120723-vulnerabilite-dans-microsoft-azure-patch-tuesday-juillet-2023.html)|Une vulnérabilité a été corrigée dans Azure Service Fabric. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|12 juillet 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
