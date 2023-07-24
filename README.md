@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/07/2023 21:16:58 UTC
+ > Last Updated 24/07/2023 09:20:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,28 +47,28 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809" class="noirorange"><b>Mozilla Thunderbird</b>: spoofing via Text Direction Override Character</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-spoofing-via-Text-Direction-Override-Character-41809)|An attacker can create spoofed data on Mozilla Thunderbird, via Text Direction Override Character, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OpenID Connect Provider</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OpenID-Connect-Provider-41808)|A vulnerability of Apereo CAS Server, via OpenID Connect Provider, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Ksmbd Compound Request</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Ksmbd-Compound-Request-41807)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Ksmbd Compound Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-write-41806" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-write-41806)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_write(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_sess_setup()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-sess-setup-41805)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_sess_setup(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804" class="noirorange"><b>HP Color LaserJet Pro</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/HP-Color-LaserJet-Pro-privilege-escalation-41804)|An attacker can bypass restrictions of HP Color LaserJet Pro, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803" class="noirorange"><b>Ibexa DXP</b>: denial of service via Personalization Recommendation Engine</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-denial-of-service-via-Personalization-Recommendation-Engine-41803)|An attacker can cause a fatal error of Ibexa DXP, via Personalization Recommendation Engine, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802" class="noirorange"><b>ArcGIS Insights</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Insights-two-vulnerabilities-41802)|An attacker can use several vulnerabilities of ArcGIS Insights...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801" class="noirorange"><b>Portal for ArcGIS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-three-vulnerabilities-41801)|An attacker can use several vulnerabilities of Portal for ArcGIS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800" class="noirorange"><b>Cisco IP Phone SPA500</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-SPA500-two-vulnerabilities-41800)|An attacker can use several vulnerabilities of Cisco IP Phone SPA500...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799" class="noirorange"><b>OpenSSH</b>: code execution via Ssh-agent Forwarded Agent Socket</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Ssh-agent-Forwarded-Agent-Socket-41799)|An attacker can use a vulnerability of OpenSSH, via Ssh-agent Forwarded Agent Socket, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Survey-Answers-41822" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via Survey Answers</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Survey-Answers-41822)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via Survey Answers, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-denial-of-service-via-Tickets-Move-41821" class="noirorange"><b>OTRS Help Desk</b>: denial of service via Tickets Move</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-denial-of-service-via-Tickets-Move-41821)|An attacker can cause a fatal error of OTRS Help Desk, via Tickets Move, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-System-Configuration-41820" class="noirorange"><b>OTRS Help Desk</b>: code execution via System Configuration</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-System-Configuration-41820)|An attacker can use a vulnerability of OTRS Help Desk, via System Configuration, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-header-injection-via-Web-Service-Attachments-41819" class="noirorange"><b>OTRS Help Desk</b>: header injection via Web Service Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-header-injection-via-Web-Service-Attachments-41819)|An attacker can add new headers on OTRS Help Desk, via Web Service Attachments, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fw-set-parms-41818" class="noirorange"><b>Linux kernel</b>: reuse after free via fw_set_parms()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fw-set-parms-41818)|An attacker can force the reuse of a freed memory area of the Linux kernel, via fw_set_parms(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-change-agg-41817" class="noirorange"><b>Linux kernel</b>: buffer overflow via qfq_change_agg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-change-agg-41817)|An attacker can trigger a buffer overflow of the Linux kernel, via qfq_change_agg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NFT-MSG-NEWRULE-41816" class="noirorange"><b>Linux kernel</b>: reuse after free via NFT_MSG_NEWRULE</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NFT-MSG-NEWRULE-41816)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NFT_MSG_NEWRULE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-net-sched-cls-u32-c-41815" class="noirorange"><b>Linux kernel</b>: reuse after free via net/sched/cls_u32.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-net-sched-cls-u32-c-41815)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Check-Point-Endpoint-Security-Client-privilege-escalation-via-OpenSSL-Configuration-File-41814" class="noirorange"><b>Check Point Endpoint Security Client</b>: privilege escalation via OpenSSL Configuration File</a>](https://vigilance.fr/vulnerability/Check-Point-Endpoint-Security-Client-privilege-escalation-via-OpenSSL-Configuration-File-41814)|An attacker can bypass restrictions of Check Point Endpoint Security Client, via OpenSSL Configuration File, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadIPTCProfile-41813" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadIPTCProfile()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadIPTCProfile-41813)|An attacker can trigger a buffer overflow of ImageMagick, via ReadIPTCProfile(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Server-two-vulnerabilities-41812" class="noirorange"><b>ArcGIS Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Server-two-vulnerabilities-41812)|An attacker can use several vulnerabilities of ArcGIS Server...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
