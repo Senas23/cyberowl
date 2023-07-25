@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/07/2023 21:18:01 UTC
+ > Last Updated 25/07/2023 09:19:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,6 +23,13 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -37,38 +44,6 @@
  |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0573/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 juillet 2023|
  |[Vulnérabilité dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0572/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 juillet 2023|
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0571/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juillet 2023|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Zen2-Processors-reuse-after-free-via-Vector-Register-File-41827" class="noirorange"><b>AMD Zen2 Processors</b>: reuse after free via Vector Register File</a>](https://vigilance.fr/vulnerability/AMD-Zen2-Processors-reuse-after-free-via-Vector-Register-File-41827)|An attacker can force the reuse of a freed memory area of AMD Zen2 Processors, via Vector Register File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-overload-via-Babld-Messages-41824" class="noirorange"><b>FRRouting</b>: overload via Babld Messages</a>](https://vigilance.fr/vulnerability/FRRouting-overload-via-Babld-Messages-41824)|An attacker can trigger an overload of FRRouting, via Babld Messages, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-Chunk-Length-41823" class="noirorange"><b>snappy-java</b>: denial of service via Chunk Length</a>](https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-Chunk-Length-41823)|An attacker can cause a fatal error of snappy-java, via Chunk Length, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Survey-Answers-41822" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via Survey Answers</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Survey-Answers-41822)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via Survey Answers, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-denial-of-service-via-Tickets-Move-41821" class="noirorange"><b>OTRS Help Desk</b>: denial of service via Tickets Move</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-denial-of-service-via-Tickets-Move-41821)|An attacker can cause a fatal error of OTRS Help Desk, via Tickets Move, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-System-Configuration-41820" class="noirorange"><b>OTRS Help Desk</b>: code execution via System Configuration</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-System-Configuration-41820)|An attacker can use a vulnerability of OTRS Help Desk, via System Configuration, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-header-injection-via-Web-Service-Attachments-41819" class="noirorange"><b>OTRS Help Desk</b>: header injection via Web Service Attachments</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-header-injection-via-Web-Service-Attachments-41819)|An attacker can add new headers on OTRS Help Desk, via Web Service Attachments, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fw-set-parms-41818" class="noirorange"><b>Linux kernel</b>: reuse after free via fw_set_parms()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-fw-set-parms-41818)|An attacker can force the reuse of a freed memory area of the Linux kernel, via fw_set_parms(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-change-agg-41817" class="noirorange"><b>Linux kernel</b>: buffer overflow via qfq_change_agg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-change-agg-41817)|An attacker can trigger a buffer overflow of the Linux kernel, via qfq_change_agg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NFT-MSG-NEWRULE-41816" class="noirorange"><b>Linux kernel</b>: reuse after free via NFT_MSG_NEWRULE</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NFT-MSG-NEWRULE-41816)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NFT_MSG_NEWRULE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -87,4 +62,29 @@
  |[42861407/23 - Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4286140723-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|14 juillet 2023|
  |[42851407/23 - Vulnérabilité critique dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4285140723-vulnerabilite-critique-dans-zimbra-collaboration.html)|Une vulnérabilité critique a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|14 juillet 2023|
  |[42841307/23 - Vulnérabilité critique dans Citrix ShareFile Storage Zones Controller](https://www.dgssi.gov.ma//fr/content/4284130723-vulnerabilite-critique-dans-citrix-sharefile-storage-zones-controller.html)|Une vulnérabilité critique a été corrigée dans Citrix ShareFile Storage Zones Controller. L’exploitation de cette faillepourrait permettre à un attaquant non authentifié de compromettre le contrôleur des zones de stockage, donnant...|13 juillet 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfc-llcp-find-local-41840" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>nfc_llcp_find_local(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfc-llcp-find-local-41840)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-tun-napi-alloc-frags-41839" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>tun_napi_alloc_frags<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-tun-napi-alloc-frags-41839)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-init-cea-offsets-41838" class="noirorange"><b>Linux kernel</b>: read-write access via init_cea_offsets()</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-init-cea-offsets-41838)|An attacker can bypass access restrictions of the Linux kernel, via init_cea_offsets(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-e1000e-DMA-Reentrancy-41837" class="noirorange"><b>QEMU</b>: reuse after free via e1000e DMA Reentrancy</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-e1000e-DMA-Reentrancy-41837)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via e1000e DMA Reentrancy, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-9pfs-Suid-File-41836" class="noirorange"><b>QEMU</b>: privilege escalation via 9pfs Suid File</a>](https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-9pfs-Suid-File-41836)|An attacker, in a guest system, can bypass restrictions of QEMU, via 9pfs Suid File, in order to escalate his privileges on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-PushCharPixel-41835" class="noirorange"><b>ImageMagick</b>: buffer overflow via PushCharPixel()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-PushCharPixel-41835)|An attacker can trigger a buffer overflow of ImageMagick, via PushCharPixel(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Action-Form-Input-Fields-41834" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Action Form Input Fields</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Action-Form-Input-Fields-41834)|An attacker can trigger a Cross Site Scripting of Zabbix, via Action Form Input Fields, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-User-Form-41833" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via User Form</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-User-Form-41833)|An attacker can trigger a Cross Site Scripting of Zabbix, via User Form, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Geomap-Attribution-Field-41832" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Geomap Attribution Field</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Geomap-Attribution-Field-41832)|An attacker can trigger a Cross Site Scripting of Zabbix, via Geomap Attribution Field, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-Wscons-Escape-Sequences-41831" class="noirorange"><b>OpenBSD</b>: buffer overflow via Wscons Escape Sequences</a>](https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-Wscons-Escape-Sequences-41831)|An attacker can trigger a buffer overflow of OpenBSD, via Wscons Escape Sequences, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RenderDoc-three-vulnerabilities-41830" class="noirorange"><b>RenderDoc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/RenderDoc-three-vulnerabilities-41830)|An attacker can use several vulnerabilities of RenderDoc...|Visit link for details|
  
