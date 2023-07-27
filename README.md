@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/07/2023 21:15:57 UTC
+ > Last Updated 27/07/2023 09:19:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,31 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873" class="noirorange"><b>Drupal Minify Source HTML</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Minify-Source-HTML-Cross-Site-Scripting-41873)|An attacker can trigger a Cross Site Scripting of Drupal Minify Source HTML, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872" class="noirorange"><b>Drupal Symfony Mailer</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Symfony-Mailer-Cross-Site-Request-Forgery-41872)|An attacker can trigger a Cross Site Request Forgery of Drupal Symfony Mailer, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871" class="noirorange"><b>Veritas NetBackup Snapshot Manager</b>: user access via RabbitMQ Authentication</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871)|An attacker can bypass restrictions of Veritas NetBackup Snapshot Manager, via RabbitMQ Authentication, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870" class="noirorange"><b>libvirt</b>: denial of service via <wbr>virStoragePoolObjLis<wbr>tSearch()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870)|An attacker can cause a fatal error of libvirt, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869" class="noirorange"><b>Jenkins Core</b>: Cross Site Scripting via Build Logs</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869)|An attacker can trigger a Cross Site Scripting of Jenkins Core, via Build Logs, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866" class="noirorange"><b>Qt</b>: overload via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866)|An attacker can trigger an overload of Qt, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-out-of-bounds-memory-reading-via-QDnsLookup-41865" class="noirorange"><b>Qt</b>: out-of-bounds memory reading via QDnsLookup()</a>](https://vigilance.fr/vulnerability/Qt-out-of-bounds-memory-reading-via-QDnsLookup-41865)|An attacker can force a read at an invalid memory address of Qt, via QDnsLookup(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-XFRMA-MTIMER-THRESH-41864" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via XFRMA_MTIMER_THRESH</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-XFRMA-MTIMER-THRESH-41864)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-xfrm-update-ae-params-41863" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>xfrm_update_ae_param<wbr>s()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-xfrm-update-ae-params-41863)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Openstack-Neutron-overload-via-Security-Groups-Creation-41862" class="noirorange"><b>Openstack Neutron</b>: overload via Security Groups Creation</a>](https://vigilance.fr/vulnerability/Openstack-Neutron-overload-via-Security-Groups-Creation-41862)|An attacker can trigger an overload of Openstack Neutron, via Security Groups Creation, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -62,29 +87,4 @@
  |[42912007/23 - Mises à jour de sécurité pour plusieurs produits d'oracle](https://www.dgssi.gov.ma//fr/content/4291200723-mises-jour-de-securite-pour-plusieurs-produits-d-oracle.html)|Oracle a publié des correctifs de sécurité pour corriger plusieursvulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des dizaines de produits cités au niveau de ce...|20 juillet 2023|
  |[42902007/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4290200723-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|20 juillet 2023|
  |[42892007/23 - Vulnérabilités affectant deux produits de Cisco](https://www.dgssi.gov.ma//fr/content/4289200723-vulnerabilites-affectant-deux-produits-de-cisco.html)|Cisco annonce la correction de trois vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’élever ses privilèges ou d’injecter du contenu dans une...|20 juillet 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871" class="noirorange"><b>Veritas NetBackup Snapshot Manager</b>: user access via RabbitMQ Authentication</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Snapshot-Manager-user-access-via-RabbitMQ-Authentication-41871)|An attacker can bypass restrictions of Veritas NetBackup Snapshot Manager, via RabbitMQ Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870" class="noirorange"><b>libvirt</b>: denial of service via <wbr>virStoragePoolObjLis<wbr>tSearch()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libvirt-denial-of-service-via-virStoragePoolObjListSearch-41870)|An attacker can cause a fatal error of libvirt, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869" class="noirorange"><b>Jenkins Core</b>: Cross Site Scripting via Build Logs</a>](https://vigilance.fr/vulnerability/Jenkins-Core-Cross-Site-Scripting-via-Build-Logs-41869)|An attacker can trigger a Cross Site Scripting of Jenkins Core, via Build Logs, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41868)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866" class="noirorange"><b>Qt</b>: overload via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/Qt-overload-via-Recursive-Entity-Expansion-41866)|An attacker can trigger an overload of Qt, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-out-of-bounds-memory-reading-via-QDnsLookup-41865" class="noirorange"><b>Qt</b>: out-of-bounds memory reading via QDnsLookup()</a>](https://vigilance.fr/vulnerability/Qt-out-of-bounds-memory-reading-via-QDnsLookup-41865)|An attacker can force a read at an invalid memory address of Qt, via QDnsLookup(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-XFRMA-MTIMER-THRESH-41864" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via XFRMA_MTIMER_THRESH</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-XFRMA-MTIMER-THRESH-41864)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-xfrm-update-ae-params-41863" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>xfrm_update_ae_param<wbr>s()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-xfrm-update-ae-params-41863)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Openstack-Neutron-overload-via-Security-Groups-Creation-41862" class="noirorange"><b>Openstack Neutron</b>: overload via Security Groups Creation</a>](https://vigilance.fr/vulnerability/Openstack-Neutron-overload-via-Security-Groups-Creation-41862)|An attacker can trigger an overload of Openstack Neutron, via Security Groups Creation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-overload-via-inflate-buffer-41861" class="noirorange"><b>QEMU</b>: overload via inflate_buffer()</a>](https://vigilance.fr/vulnerability/QEMU-overload-via-inflate-buffer-41861)|An attacker can trigger an overload of QEMU, via inflate_buffer(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-Cross-Site-Scripting-41860" class="noirorange"><b>Trellix ePolicy Orchestrator</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-Cross-Site-Scripting-41860)|An attacker can trigger a Cross Site Scripting of Trellix ePolicy Orchestrator, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
