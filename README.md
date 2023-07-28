@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/07/2023 09:17:28 UTC
+ > Last Updated 28/07/2023 21:15:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,27 +23,20 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0602/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0601/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données.|Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0600/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0599/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0598/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 juillet 2023|
+ |[Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0597/)|De multiples vulnérabilités ont été découvertes dans|Publié le 28 juillet 2023|
  |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0596/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 juillet 2023|
  |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0595/)|Une vulnérabilité a été découverte dans Mozilla|Publié le 27 juillet 2023|
  |[Multiples vulnérabilités dans Trend Micro Apex Central](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0594/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex Central. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 27 juillet 2023|
  |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0592/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 26 juillet 2023|
- |[Multiples vulnérabilités dans SonicWall GMS et Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0593/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS et Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 26 juillet 2023|
- |[Vulnérabilité dans IBM AIX et VIOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0591/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 juillet 2023|
- |[Multiples vulnérabilités dans Aruba ArubaOS et InstantOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0590/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS et InstantOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 26 juillet 2023|
- |[Multiples vulnérabilités dans Symantec Advanced Authentication](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0589/)|De multiples vulnérabilités ont été découvertes dans Symantec Advanced Authentication. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 26 juillet 2023|
- |[Multiples vulnérabilités dans Tenable Security Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0588/)|De multiples vulnérabilités ont été découvertes dans|Publié le 26 juillet 2023|
- |[Vulnérabilité dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0587/)|Une vulnérabilité a été découverte dans |Publié le 26 juillet 2023|
  
  ---
 
@@ -65,7 +58,7 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -76,6 +69,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[43032807/23- Vulnérabilité critique affectantMikroTik RouterOS](https://www.dgssi.gov.ma//fr/content/4303280723-vulnerabilite-critique-affectant-mikrotik-routeros.html)|MikroTikannonce la correction d’une vulnérabilité critique affectant MikroTik RouterOS. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’élever ses privilèges.|28 juillet 2023|
+ |[43022807/23 - Vulnérabilités affectant le noyau Linux d’Ubuntu](https://www.dgssi.gov.ma//fr/content/4302280723-vulnerabilites-affectant-le-noyau-linux-d-ubuntu.html)|Ubuntu annonce la correction de plusieurs vulnérabilités affectant son noyau linux. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges, d’exécuter du code arbitraire ou de causer un déni de...|28 juillet 2023|
  |[43012707/23 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4301270723-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 juillet 2023|
  |[43002607/23 - Vulnérabilités critiques affectantAtlassian Confluence et Bamboo](https://www.dgssi.gov.ma//fr/content/4300260723-vulnerabilites-critiques-affectant-atlassian-confluence-et-bamboo.html)|Atlassianannonce la correction de trois vulnérabilités affectant ses produitssusmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire.|27 juillet 2023|
  |[42992707/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4299270723-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|27 juillet 2023|
@@ -85,6 +80,11 @@
  |[42952507/23 - Vulnérabilité critique affectant Ivanti Endpoint Manager Mobile](https://www.dgssi.gov.ma//fr/content/4295250723-vulnerabilite-critique-affectant-ivanti-endpoint-manager-mobile.html)|Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Ivanti Endpoint Manager Mobile. Selon Ivanti, l’exploit de cette vulnérabilité existe et il peut permettre à un attaquant...|25 juillet 2023|
  |[42942507/23 - Vulnérabilités critiques affectant iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/4294250723-vulnerabilites-critiques-affectant-ios-et-ipados.html)|Apple annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. Certaines de ces vulnérabilités sont des « Zero-day»activement exploités et peuventpermettre à un...|25 juillet 2023|
  |[42932407/23 - Vulnérabilités critiques affectantAdobe ColdFusion](https://www.dgssi.gov.ma//fr/content/4293240723-vulnerabilites-critiques-affectant-adobe-coldfusion.html)|Adobe a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités critiques affectant son produit Adobe ColFusion. Selon Adobe, l’exploit d’une deces vulnérabilités existe et il peut permettre à un attaquant distant...|24 juillet 2023|
- |[42932107/23 - Vulnérabilité affectant OpenSSL](https://www.dgssi.gov.ma//fr/content/4293210723-vulnerabilite-affectant-openssl.html)|OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correctiond’une vulnérabilité affectant OpenSSL. L'exploitationde cette vulnérabilité peut permettre à un attaquant distant de causer un déni de...|21 juillet 2023|
- |[42922007/23 - Vulnérabilités affectantCitrixNetScaler ADC et NetScaler Gateway](https://www.dgssi.gov.ma//fr/content/4292200723-vulnerabilites-affectant-citrix-netscaler-adc-et-netscaler-gateway.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou d’élever ses privilèges.|20 juillet 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
