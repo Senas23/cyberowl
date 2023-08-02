@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/08/2023 21:15:19 UTC
+ > Last Updated 02/08/2023 09:18:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,24 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
+ |[43070108/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4307010823-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde deux vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’exécuter du...|01 août 2023|
+ |[43073107/23 - Vulnérabilité critique affectant l’outil de Business Intelligence «Metabase»](https://www.dgssi.gov.ma//fr/content/4307310723-vulnerabilite-critique-affectant-l-outil-de-business-intelligence-metabase.html)|Metabase a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
+ |[43063107/23 - Vulnérabilités critiques affectant le plugin «Ninja Forms» pour WordPress](https://www.dgssi.gov.ma//fr/content/4306310723-vulnerabilites-critiques-affectant-le-plugin-ninja-forms-pour-wordpress.html)|WordPressannonce la correction de trois vulnérabilités critiques affectant le plugin « Ninja Forms». L’exploitation de ces vulnérabilitéspeut permettre à un attaquant d’injecter du contenu dans une page.|31 juillet 2023|
+ |[43053107/23 - Vulnérabilité critique affectant Ivanti Endpoint Manager Mobile](https://www.dgssi.gov.ma//fr/content/4305310723-vulnerabilite-critique-affectant-ivanti-endpoint-manager-mobile.html)|Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Ivanti Endpoint Manager Mobile. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
+ |[43043107/23 - Vulnérabilité affectant Cisco Adaptive Security Appliance Software and Firepower Threa](https://www.dgssi.gov.ma//fr/content/4304310723-vulnerabilite-affectant-cisco-adaptive-security-appliance-software-and-firepower-threat-defense-software.html)|Cisco annonce la correction d’une faille de configuration affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant de contourner les mesures de sécurité.|31 juillet 2023|
+ |[43032807/23- Vulnérabilité critique affectantMikroTik RouterOS](https://www.dgssi.gov.ma//fr/content/4303280723-vulnerabilite-critique-affectant-mikrotik-routeros.html)|MikroTikannonce la correction d’une vulnérabilité critique affectant MikroTik RouterOS. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’élever ses privilèges.|28 juillet 2023|
+ |[43022807/23 - Vulnérabilités affectant le noyau Linux d’Ubuntu](https://www.dgssi.gov.ma//fr/content/4302280723-vulnerabilites-affectant-le-noyau-linux-d-ubuntu.html)|Ubuntu annonce la correction de plusieurs vulnérabilités affectant son noyau linux. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges, d’exécuter du code arbitraire ou de causer un déni de...|28 juillet 2023|
+ |[43012707/23 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4301270723-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 juillet 2023|
+ |[43002607/23 - Vulnérabilités critiques affectantAtlassian Confluence et Bamboo](https://www.dgssi.gov.ma//fr/content/4300260723-vulnerabilites-critiques-affectant-atlassian-confluence-et-bamboo.html)|Atlassianannonce la correction de trois vulnérabilités affectant ses produitssusmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire.|27 juillet 2023|
+ |[42992707/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4299270723-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|27 juillet 2023|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,6 +69,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-readline-file-corruption-via-rl-tropen-41907" class="noirorange"><b>GNU readline</b>: file corruption via _rl_tropen()</a>](https://vigilance.fr/vulnerability/GNU-readline-file-corruption-via-rl-tropen-41907)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of GNU readline, via _rl_tropen()...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RPM-memory-corruption-via-Region-Tags-41906" class="noirorange"><b>RPM</b>: memory corruption via Region Tags</a>](https://vigilance.fr/vulnerability/RPM-memory-corruption-via-Region-Tags-41906)|An attacker can trigger a memory corruption of RPM, via Region Tags, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905)|An attacker can use several vulnerabilities of Brocade Fabric OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41904" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41904)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Edocman-Cross-Site-Scripting-41903" class="noirorange"><b>Joomla Edocman</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-Edocman-Cross-Site-Scripting-41903)|An attacker can trigger a Cross Site Scripting of Joomla Edocman, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-code-execution-via-Command-Line-Interface-41902" class="noirorange"><b>Aruba CX</b>: code execution via Command Line Interface</a>](https://vigilance.fr/vulnerability/Aruba-CX-code-execution-via-Command-Line-Interface-41902)|An attacker can use a vulnerability of Aruba CX, via Command Line Interface, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Cortex-A77-41901" class="noirorange"><b>Xen</b>: denial of service via Cortex-A77</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Cortex-A77-41901)|An attacker, in a guest system, can cause a fatal error of Xen, via Cortex-A77, in order to trigger a denial of service on the host system...|Visit link for details|
@@ -58,10 +80,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-41899)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gnuplot-buffer-overflow-via-plotrequest-41898" class="noirorange"><b>Gnuplot</b>: buffer overflow via plotrequest()</a>](https://vigilance.fr/vulnerability/Gnuplot-buffer-overflow-via-plotrequest-41898)|An attacker can trigger a buffer overflow of Gnuplot, via plotrequest(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pipewire-information-disclosure-via-Other-Streams-41897" class="noirorange"><b>pipewire</b>: information disclosure via Other Streams</a>](https://vigilance.fr/vulnerability/pipewire-information-disclosure-via-Other-Streams-41897)|An attacker can bypass access restrictions to data of pipewire, via Other Streams, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-usb-giveback-urb-41895" class="noirorange"><b>Linux kernel</b>: overload via usb_giveback_urb()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-usb-giveback-urb-41895)|An attacker can trigger an overload of the Linux kernel, via usb_giveback_urb(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894" class="noirorange"><b>Linux kernel</b>: reuse after free via nft_pipapo_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nft-pipapo-remove-41894)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893" class="noirorange"><b>Webmin</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Webmin-multiple-vulnerabilities-41893)|An attacker can use several vulnerabilities of Webmin...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: Cross Site Scripting via Controller Custom Login Info</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-Cross-Site-Scripting-via-Controller-Custom-Login-Info-41892)|An attacker can trigger a Cross Site Scripting of Red Hat Ansible Automation Platform, via Controller Custom Login Info, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
@@ -69,22 +87,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[430801008/23- Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/43080100823-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou de causer un déni de service.|01 août 2023|
- |[43070108/23 - Vulnérabilités affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4307010823-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde deux vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’exécuter du...|01 août 2023|
- |[43073107/23 - Vulnérabilité critique affectant l’outil de Business Intelligence «Metabase»](https://www.dgssi.gov.ma//fr/content/4307310723-vulnerabilite-critique-affectant-l-outil-de-business-intelligence-metabase.html)|Metabase a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant les versions susmentionnées de son produit. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
- |[43063107/23 - Vulnérabilités critiques affectant le plugin «Ninja Forms» pour WordPress](https://www.dgssi.gov.ma//fr/content/4306310723-vulnerabilites-critiques-affectant-le-plugin-ninja-forms-pour-wordpress.html)|WordPressannonce la correction de trois vulnérabilités critiques affectant le plugin « Ninja Forms». L’exploitation de ces vulnérabilitéspeut permettre à un attaquant d’injecter du contenu dans une page.|31 juillet 2023|
- |[43053107/23 - Vulnérabilité critique affectant Ivanti Endpoint Manager Mobile](https://www.dgssi.gov.ma//fr/content/4305310723-vulnerabilite-critique-affectant-ivanti-endpoint-manager-mobile.html)|Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Ivanti Endpoint Manager Mobile. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
- |[43043107/23 - Vulnérabilité affectant Cisco Adaptive Security Appliance Software and Firepower Threa](https://www.dgssi.gov.ma//fr/content/4304310723-vulnerabilite-affectant-cisco-adaptive-security-appliance-software-and-firepower-threat-defense-software.html)|Cisco annonce la correction d’une faille de configuration affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant de contourner les mesures de sécurité.|31 juillet 2023|
- |[43032807/23- Vulnérabilité critique affectantMikroTik RouterOS](https://www.dgssi.gov.ma//fr/content/4303280723-vulnerabilite-critique-affectant-mikrotik-routeros.html)|MikroTikannonce la correction d’une vulnérabilité critique affectant MikroTik RouterOS. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’élever ses privilèges.|28 juillet 2023|
- |[43022807/23 - Vulnérabilités affectant le noyau Linux d’Ubuntu](https://www.dgssi.gov.ma//fr/content/4302280723-vulnerabilites-affectant-le-noyau-linux-d-ubuntu.html)|Ubuntu annonce la correction de plusieurs vulnérabilités affectant son noyau linux. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges, d’exécuter du code arbitraire ou de causer un déni de...|28 juillet 2023|
- |[43012707/23 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4301270723-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 juillet 2023|
- |[43002607/23 - Vulnérabilités critiques affectantAtlassian Confluence et Bamboo](https://www.dgssi.gov.ma//fr/content/4300260723-vulnerabilites-critiques-affectant-atlassian-confluence-et-bamboo.html)|Atlassianannonce la correction de trois vulnérabilités affectant ses produitssusmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire.|27 juillet 2023|
- |[42992707/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4299270723-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|27 juillet 2023|
  
