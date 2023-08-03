@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/08/2023 21:15:52 UTC
+ > Last Updated 03/08/2023 09:17:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Scripting-41921" class="noirorange"><b>Drupal Matomo Analytics</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Scripting-41921)|An attacker can trigger a Cross Site Scripting of Drupal Matomo Analytics, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-ingress-filtrering-bypass-via-Content-Encoding-41920" class="noirorange"><b>Cisco Secure Web Appliance</b>: ingress filtrering bypass via Content Encoding</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-ingress-filtrering-bypass-via-Content-Encoding-41920)|An attacker can bypass filtering rules of Cisco Secure Web Appliance, via Content Encoding, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-weak-encryption-via-FIPS-HSM-Predictable-Password-41919" class="noirorange"><b>F5 BIG-IP</b>: weak encryption via FIPS HSM Predictable Password</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-weak-encryption-via-FIPS-HSM-Predictable-Password-41919)|An attacker can access data on F5 BIG-IP, via FIPS HSM Predictable Password, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-for-macOS-privilege-escalation-41918" class="noirorange"><b>F5 BIG-IP Edge Client for macOS</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Edge-Client-for-macOS-privilege-escalation-41918)|An attacker can bypass restrictions of F5 BIG-IP Edge Client for macOS, in order to escalate his privileges...|Visit link for details|
@@ -61,7 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/LibreDWG-four-vulnerabilities-41913" class="noirorange"><b>LibreDWG</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/LibreDWG-four-vulnerabilities-41913)|An attacker can use several vulnerabilities of LibreDWG...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibreDWG-reuse-after-free-via-Decode-preR13-section-41912" class="noirorange"><b>LibreDWG</b>: reuse after free via <wbr>Decode_preR13_sectio<wbr>n</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibreDWG-reuse-after-free-via-Decode-preR13-section-41912)|An attacker can force the reuse of a freed memory area of LibreDWG, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911" class="noirorange"><b>FreeBSD</b>: denial of service via IPv6 Fragment Reassembly</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911)|An attacker can cause a fatal error of FreeBSD, via IPv6 Fragment Reassembly, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-Bhyve-Fwctl-41910" class="noirorange"><b>FreeBSD</b>: buffer overflow via Bhyve Fwctl</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-Bhyve-Fwctl-41910)|An attacker, in a guest system, can trigger a buffer overflow of FreeBSD, via Bhyve Fwctl, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[43032807/23- Vulnérabilité critique affectantMikroTik RouterOS](https://www.dgssi.gov.ma//fr/content/4303280723-vulnerabilite-critique-affectant-mikrotik-routeros.html)|MikroTikannonce la correction d’une vulnérabilité critique affectant MikroTik RouterOS. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’élever ses privilèges.|28 juillet 2023|
  |[43022807/23 - Vulnérabilités affectant le noyau Linux d’Ubuntu](https://www.dgssi.gov.ma//fr/content/4302280723-vulnerabilites-affectant-le-noyau-linux-d-ubuntu.html)|Ubuntu annonce la correction de plusieurs vulnérabilités affectant son noyau linux. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’élever ses privilèges, d’exécuter du code arbitraire ou de causer un déni de...|28 juillet 2023|
  |[43012707/23 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4301270723-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 juillet 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
