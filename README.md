@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/08/2023 21:18:40 UTC
+ > Last Updated 04/08/2023 09:17:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-41934" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-41934)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ntpsec-denial-of-service-via-NTS-Client-Request-Mode-3-41933" class="noirorange"><b>ntpsec</b>: denial of service via NTS Client Request Mode 3</a>](https://vigilance.fr/vulnerability/ntpsec-denial-of-service-via-NTS-Client-Request-Mode-3-41933)|An attacker can cause a fatal error of ntpsec, via NTS Client Request Mode 3, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-Large-RSA-Keys-41932" class="noirorange"><b>Go</b>: overload via Large RSA Keys</a>](https://vigilance.fr/vulnerability/Go-overload-via-Large-RSA-Keys-41932)|An attacker can trigger an overload of Go, via Large RSA Keys, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41931" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41931)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE File, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930" class="noirorange"><b>Poppler</b>: denial of service via OutlineItem::open()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929" class="noirorange"><b>Cargo</b>: code execution via File Permissions</a>](https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929)|An attacker can use a vulnerability of Cargo, via File Permissions, in order to run code...|Visit link for details|
@@ -59,16 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MobileIron-Core-user-access-via-API-Access-41926" class="noirorange"><b>MobileIron Core</b>: user access via API Access</a>](https://vigilance.fr/vulnerability/MobileIron-Core-user-access-via-API-Access-41926)|An attacker can bypass restrictions of MobileIron Core, via API Access, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-cryptography-no-signature-via-SSH-Certificates-Critical-Options-41925" class="noirorange"><b>Python-cryptography</b>: no signature via SSH Certificates Critical Options</a>](https://vigilance.fr/vulnerability/Python-cryptography-no-signature-via-SSH-Certificates-Critical-Options-41925)|An attacker can use malicious data on |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-privilege-escalation-via-Uncontrolled-Search-Path-Element-41924" class="noirorange"><b>HP LaserJet</b>: privilege escalation via Uncontrolled Search Path Element</a>](https://vigilance.fr/vulnerability/HP-LaserJet-privilege-escalation-via-Uncontrolled-Search-Path-Element-41924)|An attacker can bypass restrictions of HP LaserJet, via Uncontrolled Search Path Element, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41923" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-41923)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NuGet-code-execution-41922" class="noirorange"><b>NuGet</b>: code execution</a>](https://vigilance.fr/vulnerability/NuGet-code-execution-41922)|An attacker can use a vulnerability of NuGet, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Scripting-41921" class="noirorange"><b>Drupal Matomo Analytics</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Scripting-41921)|An attacker can trigger a Cross Site Scripting of Drupal Matomo Analytics, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -76,6 +69,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[43130408/23 - Vulnérabilité affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/4313040823-vulnerabilite-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction d’une vulnérabilité affectant les versions susmentionnées de certains de ses produits. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code arbitraire.|04 août 2023|
  |[43120308/23 - Vulnérabilité affectantXen](https://www.dgssi.gov.ma//fr/content/4312030823-vulnerabilite-affectant-xen.html)|Xen annonce la correction d’une vulnérabilité affectant son produitXen.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de causer un déni service.|03 août 2023|
  |[43110308/23 - Vulnérabilité affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4311030823-vulnerabilite-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité de mises à jour de sécurité permettant lacorrection de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|03 août 2023|
  |[43100208/23 - Vulnérabilité critique affectant Check Point Gaia Portal](https://www.dgssi.gov.ma//fr/content/4310020823-vulnerabilite-critique-affectant-check-point-gaia-portal.html)|Check pointannonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son système d’exploitation Gaia. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’élever ses privilèges.|02 août 2023|
@@ -86,5 +80,11 @@
  |[43063107/23 - Vulnérabilités critiques affectant le plugin «Ninja Forms» pour WordPress](https://www.dgssi.gov.ma//fr/content/4306310723-vulnerabilites-critiques-affectant-le-plugin-ninja-forms-pour-wordpress.html)|WordPressannonce la correction de trois vulnérabilités critiques affectant le plugin « Ninja Forms». L’exploitation de ces vulnérabilitéspeut permettre à un attaquant d’injecter du contenu dans une page.|31 juillet 2023|
  |[43053107/23 - Vulnérabilité critique affectant Ivanti Endpoint Manager Mobile](https://www.dgssi.gov.ma//fr/content/4305310723-vulnerabilite-critique-affectant-ivanti-endpoint-manager-mobile.html)|Ivanti a publié une mise à jour de sécurité qui permet de corriger une vulnérabilité critique affectant son produit Ivanti Endpoint Manager Mobile. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter des...|31 juillet 2023|
  |[43043107/23 - Vulnérabilité affectant Cisco Adaptive Security Appliance Software and Firepower Threa](https://www.dgssi.gov.ma//fr/content/4304310723-vulnerabilite-affectant-cisco-adaptive-security-appliance-software-and-firepower-threat-defense-software.html)|Cisco annonce la correction d’une faille de configuration affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant de contourner les mesures de sécurité.|31 juillet 2023|
- |[43032807/23- Vulnérabilité critique affectantMikroTik RouterOS](https://www.dgssi.gov.ma//fr/content/4303280723-vulnerabilite-critique-affectant-mikrotik-routeros.html)|MikroTikannonce la correction d’une vulnérabilité critique affectant MikroTik RouterOS. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’élever ses privilèges.|28 juillet 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
