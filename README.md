@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/08/2023 21:14:45 UTC
+ > Last Updated 05/08/2023 09:15:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,13 +47,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -69,6 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930" class="noirorange"><b>Poppler</b>: denial of service via OutlineItem::open()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929" class="noirorange"><b>Cargo</b>: code execution via File Permissions</a>](https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929)|An attacker can use a vulnerability of Cargo, via File Permissions, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928" class="noirorange"><b>PHP</b>: buffer overflow via phar_dir_read()</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928)|An attacker can trigger a buffer overflow of PHP, via phar_dir_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
