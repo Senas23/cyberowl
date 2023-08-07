@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/08/2023 21:16:26 UTC
+ > Last Updated 07/08/2023 09:19:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943" class="noirorange"><b>OpenImageIO</b>: buffer overflow via readimg()</a>](https://vigilance.fr/vulnerability/OpenImageIO-buffer-overflow-via-readimg-41943)|An attacker can trigger a buffer overflow of OpenImageIO, via readimg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941" class="noirorange"><b>Tryton</b>: information disclosure via Record Rules</a>](https://vigilance.fr/vulnerability/Tryton-information-disclosure-via-Record-Rules-41941)|An attacker can bypass access restrictions to data of Tryton, via Record Rules, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940" class="noirorange"><b>AMANDA</b>: privilege escalation via SUID Runtar Binary</a>](https://vigilance.fr/vulnerability/AMANDA-privilege-escalation-via-SUID-Runtar-Binary-41940)|An attacker can bypass restrictions of AMANDA, via SUID Runtar Binary, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pdfcrack-buffer-overflow-via-MD5-41939" class="noirorange"><b>pdfcrack</b>: buffer overflow via MD5</a>](https://vigilance.fr/vulnerability/pdfcrack-buffer-overflow-via-MD5-41939)|An attacker can trigger a buffer overflow of pdfcrack, via MD5, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: code execution</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-code-execution-41938)|An attacker can use a vulnerability of Micro Focus ArcSight Management Center, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>cxgb4_cleanup_tc_flo<wbr>wer()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cxgb4-cleanup-tc-flower-41937)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>smsusb_stop_streamin<wbr>g()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-smsusb-stop-streaming-41936)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
@@ -58,10 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-41934" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-41934)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ntpsec-denial-of-service-via-NTS-Client-Request-Mode-3-41933" class="noirorange"><b>ntpsec</b>: denial of service via NTS Client Request Mode 3</a>](https://vigilance.fr/vulnerability/ntpsec-denial-of-service-via-NTS-Client-Request-Mode-3-41933)|An attacker can cause a fatal error of ntpsec, via NTS Client Request Mode 3, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-Large-RSA-Keys-41932" class="noirorange"><b>Go</b>: overload via Large RSA Keys</a>](https://vigilance.fr/vulnerability/Go-overload-via-Large-RSA-Keys-41932)|An attacker can trigger an overload of Go, via Large RSA Keys, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41931" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE-File-41931)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930" class="noirorange"><b>Poppler</b>: denial of service via OutlineItem::open()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-OutlineItem-open-41930)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929" class="noirorange"><b>Cargo</b>: code execution via File Permissions</a>](https://vigilance.fr/vulnerability/Cargo-code-execution-via-File-Permissions-41929)|An attacker can use a vulnerability of Cargo, via File Permissions, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928" class="noirorange"><b>PHP</b>: buffer overflow via phar_dir_read()</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-phar-dir-read-41928)|An attacker can trigger a buffer overflow of PHP, via phar_dir_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
