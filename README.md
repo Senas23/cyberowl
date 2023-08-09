@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/08/2023 21:17:07 UTC
+ > Last Updated 09/08/2023 09:21:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,14 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-CloneDrawInfo-41979" class="noirorange"><b>ImageMagick</b>: memory leak via CloneDrawInfo()</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-CloneDrawInfo-41979)|An attacker can create a memory leak of ImageMagick, via CloneDrawInfo(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-IdentityFunction-transform-41978" class="noirorange"><b>Xpdf</b>: memory corruption via <wbr>IdentityFunction::tr<wbr>ansform()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-IdentityFunction-transform-41978)|An attacker can trigger a memory corruption of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-SSL-Connections-Exhaust-41977" class="noirorange"><b>Keylime</b>: denial of service via SSL Connections Exhaust</a>](https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-SSL-Connections-Exhaust-41977)|An attacker can cause a fatal error of Keylime, via SSL Connections Exhaust, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Orthanc-file-write-via-API-41976" class="noirorange"><b>Orthanc</b>: file write via API</a>](https://vigilance.fr/vulnerability/Orthanc-file-write-via-API-41976)|An attacker can bypass access restrictions of Orthanc, via API, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-Defender-privilege-escalation-41975" class="noirorange"><b>Microsoft Windows Defender</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-Defender-privilege-escalation-41975)|An attacker can bypass restrictions of Microsoft Windows Defender, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2023-41974" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2023-41974)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Teams-vulnerabilities-of-August-2023-41973" class="noirorange"><b>Microsoft Teams</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Teams-vulnerabilities-of-August-2023-41973)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
@@ -65,10 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Execute-Extender-Command-41967" class="noirorange"><b>FortiOS</b>: buffer overflow via Execute Extender Command</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Execute-Extender-Command-41967)|An attacker can trigger a buffer overflow of FortiOS, via Execute Extender Command, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-ActionPack-Cross-Site-Scripting-via-redirect-to-41965" class="noirorange"><b>RubyGem ActionPack</b>: Cross Site Scripting via redirect_to</a>](https://vigilance.fr/vulnerability/RubyGem-ActionPack-Cross-Site-Scripting-via-redirect-to-41965)|An attacker can trigger a Cross Site Scripting of RubyGem ActionPack, via redirect_to, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-information-disclosure-via-Gather-Data-Sampling-41964" class="noirorange"><b>Intel Processors</b>: information disclosure via Gather Data Sampling</a>](https://vigilance.fr/vulnerability/Intel-Processors-information-disclosure-via-Gather-Data-Sampling-41964)|An attacker can bypass access restrictions to data of Intel Processors, via Gather Data Sampling, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
