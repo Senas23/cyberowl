@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/08/2023 21:16:44 UTC
+ > Last Updated 10/08/2023 09:18:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-exfat-get-uniname-from-ext-entry-41995" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>exfat_get_uniname_fr<wbr>om_ext_entry()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-exfat-get-uniname-from-ext-entry-41995)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Empty-Content-Length-Header-41994" class="noirorange"><b>HAProxy</b>: header injection via Empty Content-Length Header</a>](https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Empty-Content-Length-Header-41994)|An attacker can add new headers on HAProxy, via Empty Content-Length Header, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MIT-Kerberos-double-free-via-free-req-info-41992" class="noirorange"><b>MIT Kerberos</b>: double free via free_req_info()</a>](https://vigilance.fr/vulnerability/MIT-Kerberos-double-free-via-free-req-info-41992)|An attacker can force a double memory free of MIT Kerberos, via free_req_info(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990" class="noirorange"><b>Tenable Nessus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988" class="noirorange"><b>AngularJS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988)|An attacker can trigger a Cross Site Scripting of AngularJS, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -59,16 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-information-disclosure-41982" class="noirorange"><b>Intel Xeon Processor</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-information-disclosure-41982)|An attacker can bypass access restrictions to data of Intel Xeon Processor, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-multiple-vulnerabilities-via-BIOS-41981" class="noirorange"><b>Intel Processor</b>: multiple vulnerabilities via BIOS</a>](https://vigilance.fr/vulnerability/Intel-Processor-multiple-vulnerabilities-via-BIOS-41981)|An attacker can use several vulnerabilities of Intel Processor, via BIOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-privilege-escalation-via-Error-Injection-41980" class="noirorange"><b>Intel Xeon Processor</b>: privilege escalation via Error Injection</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-privilege-escalation-via-Error-Injection-41980)|An attacker can bypass restrictions of Intel Xeon Processor, via Error Injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-CloneDrawInfo-41979" class="noirorange"><b>ImageMagick</b>: memory leak via CloneDrawInfo()</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-CloneDrawInfo-41979)|An attacker can create a memory leak of ImageMagick, via CloneDrawInfo(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-IdentityFunction-transform-41978" class="noirorange"><b>Xpdf</b>: memory corruption via <wbr>IdentityFunction::tr<wbr>ansform()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-IdentityFunction-transform-41978)|An attacker can trigger a memory corruption of Xpdf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-SSL-Connections-Exhaust-41977" class="noirorange"><b>Keylime</b>: denial of service via SSL Connections Exhaust</a>](https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-SSL-Connections-Exhaust-41977)|An attacker can cause a fatal error of Keylime, via SSL Connections Exhaust, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -76,6 +69,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[43291008/23 - Vulnérabilités affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/4329100823-vulnerabilites-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 août 2023|
+ |[43281008/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4328100823-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|10 août 2023|
  |[43210908/23 - Vulnérabilité affectant Fortinet FortiOS](https://www.dgssi.gov.ma//fr/content/4321090823-vulnerabilite-affectant-fortinet-fortios.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité affectant Fortinet FortiOS. L'exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|09 août 2023|
  |[43200908/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4320090823-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peut permettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à...|09 août 2023|
  |[43260908/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4326090823-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer un déni de service, de réussir une élévation de...|09 août 2023|
@@ -85,6 +80,11 @@
  |[43240908/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4324090823-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|09 août 2023|
  |[43220908/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Aout 2023)](https://www.dgssi.gov.ma//fr/content/4322090823-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-aout-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ses vulnérabilités pourrait permettre à un attaquant de réussir une élévation de...|09 août 2023|
  |[43190908/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4319090823-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|09 août 2023|
- |[43180808/23 - Vulnérabilité critique affectant PaperCut](https://www.dgssi.gov.ma//fr/content/4318080823-vulnerabilite-critique-affectant-papercut.html)|PaperCut annonce la correction d’une vulnérabilité critique affectant ses produits susmentionnés. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter ducodearbitraire.|08 août 2023|
- |[43170708/23 - Mise à jour de sécurité pour PHP](https://www.dgssi.gov.ma//fr/content/4317070823-mise-jour-de-securite-pour-php.html)|Deuxvulnérabilités ont été corrigées dans PHP. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter du contenu dans une page ou de contourner les mesures de sécurité.|07 août 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
