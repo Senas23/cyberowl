@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/08/2023 09:15:42 UTC
+ > Last Updated 13/08/2023 21:14:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,13 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -62,13 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990" class="noirorange"><b>Tenable Nessus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-three-vulnerabilities-41990)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-41989)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988" class="noirorange"><b>AngularJS</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/AngularJS-Cross-Site-Scripting-41988)|An attacker can trigger a Cross Site Scripting of AngularJS, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
