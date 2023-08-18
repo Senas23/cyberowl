@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/08/2023 21:16:22 UTC
+ > Last Updated 18/08/2023 09:17:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,24 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046" class="noirorange"><b>Linux kernel</b>: memory leak via <wbr>btrfs_get_dev_args_f<wbr>rom_path()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-ingress-filtrering-bypass-via-HTTP-Request-Parsing-Discrepancies-42045" class="noirorange"><b>Apache Traffic Server</b>: ingress filtrering bypass via HTTP Request Parsing Discrepancies</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-ingress-filtrering-bypass-via-HTTP-Request-Parsing-Discrepancies-42045)|An attacker can bypass filtering rules of Apache Traffic Server, via HTTP Request Parsing Discrepancies, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Range Header</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044)|An attacker can cause a fatal error of Apache Traffic Server, via Range Header, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043" class="noirorange"><b>Linux kernel</b>: memory corruption via Bpf Precision Tracking Registers</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043)|An attacker can trigger a memory corruption of the Linux kernel, via Bpf Precision Tracking Registers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042" class="noirorange"><b>Junos OS</b>: code execution via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042)|An attacker can use a vulnerability of Junos OS, via J-Web, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041" class="noirorange"><b>UnRAR</b>: file creation via Symlink Chains</a>](https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041)|An attacker can bypass access restrictions of UnRAR, via Symlink Chains, in order to create a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: denial of service via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040)|An attacker can cause a fatal error of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039" class="noirorange"><b>TYPO3 hCaptcha for EXT-form</b>: user access</a>](https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039)|An attacker can bypass restrictions of TYPO3 hCaptcha for EXT:form, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038" class="noirorange"><b>Linux kernel</b>: double free via <wbr>btrfs_get_root_ref()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>vmxnet3_rq_alloc_rx_<wbr>buf()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dbFree()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dbFree(), in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -69,22 +87,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041" class="noirorange"><b>UnRAR</b>: file creation via Symlink Chains</a>](https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041)|An attacker can bypass access restrictions of UnRAR, via Symlink Chains, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: denial of service via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040)|An attacker can cause a fatal error of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039" class="noirorange"><b>TYPO3 hCaptcha for EXT-form</b>: user access</a>](https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039)|An attacker can bypass restrictions of TYPO3 hCaptcha for EXT:form, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038" class="noirorange"><b>Linux kernel</b>: double free via <wbr>btrfs_get_root_ref()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>vmxnet3_rq_alloc_rx_<wbr>buf()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmxnet3-rq-alloc-rx-buf-42037)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dbFree()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dbFree-42036)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dbFree(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SafeNet-Authentication-Service-denial-of-service-via-Log-Permissions-42035" class="noirorange"><b>SafeNet Authentication Service</b>: denial of service via Log Permissions</a>](https://vigilance.fr/vulnerability/SafeNet-Authentication-Service-denial-of-service-via-Log-Permissions-42035)|An attacker can cause a fatal error of SafeNet Authentication Service, via Log Permissions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034" class="noirorange"><b>Varnish Cache</b>: user access via vmod-digest</a>](https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034)|An attacker can bypass restrictions of Varnish Cache, via vmod-digest, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-overload-via-HFS-File-Scanning-42033" class="noirorange"><b>ClamAV</b>: overload via HFS+ File Scanning</a>](https://vigilance.fr/vulnerability/ClamAV-overload-via-HFS-File-Scanning-42033)|An attacker can trigger an overload of ClamAV, via HFS+ File Scanning, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-denial-of-service-via-AutoIt-Module-42032" class="noirorange"><b>ClamAV</b>: denial of service via AutoIt Module</a>](https://vigilance.fr/vulnerability/ClamAV-denial-of-service-via-AutoIt-Module-42032)|An attacker can cause a fatal error of ClamAV, via AutoIt Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-42031" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-42031)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
