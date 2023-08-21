@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/08/2023 21:14:37 UTC
+ > Last Updated 21/08/2023 09:18:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,24 +51,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-android-binder-c-42058" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>drivers/android/bind<wbr>er.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-android-binder-c-42058)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-information-disclosure-via-Division-By-Zero-Error-42057" class="noirorange"><b>AMD Processors</b>: information disclosure via Division By Zero Error</a>](https://vigilance.fr/vulnerability/AMD-Processors-information-disclosure-via-Division-By-Zero-Error-42057)|An attacker can bypass access restrictions to data of AMD Processors, via Division By Zero Error, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-NFTA-RULE-CHAIN-ID-42056" class="noirorange"><b>Linux kernel</b>: use after free via NFTA_RULE_CHAIN_ID</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-NFTA-RULE-CHAIN-ID-42056)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NFTA_RULE_CHAIN_ID, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-ipv6-addr-jhash-42055" class="noirorange"><b>Linux kernel</b>: overload via __ipv6_addr_jhash()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-ipv6-addr-jhash-42055)|An attacker can trigger an overload of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/procps-ng-buffer-overflow-42053" class="noirorange"><b>procps-ng</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/procps-ng-buffer-overflow-42053)|An attacker can trigger a buffer overflow of procps-ng, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libreswan-three-vulnerabilities-42052" class="noirorange"><b>Libreswan</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Libreswan-three-vulnerabilities-42052)|An attacker can use several vulnerabilities of Libreswan...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051" class="noirorange"><b>Fast DDS</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051)|An attacker can use several vulnerabilities of Fast DDS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mitmproxy-header-injection-42050" class="noirorange"><b>mitmproxy</b>: header injection</a>](https://vigilance.fr/vulnerability/mitmproxy-header-injection-42050)|An attacker can add new headers on mitmproxy, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42049" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42049)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/re2c-overload-via-find-fixed-tags-42047" class="noirorange"><b>re2c</b>: overload via find_fixed_tags()</a>](https://vigilance.fr/vulnerability/re2c-overload-via-find-fixed-tags-42047)|An attacker can trigger an overload of re2c, via find_fixed_tags(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046" class="noirorange"><b>Linux kernel</b>: memory leak via <wbr>btrfs_get_dev_args_f<wbr>rom_path()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-btrfs-get-dev-args-from-path-42046)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-ingress-filtrering-bypass-via-HTTP-Request-Parsing-Discrepancies-42045" class="noirorange"><b>Apache Traffic Server</b>: ingress filtrering bypass via HTTP Request Parsing Discrepancies</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-ingress-filtrering-bypass-via-HTTP-Request-Parsing-Discrepancies-42045)|An attacker can bypass filtering rules of Apache Traffic Server, via HTTP Request Parsing Discrepancies, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Range Header</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044)|An attacker can cause a fatal error of Apache Traffic Server, via Range Header, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043" class="noirorange"><b>Linux kernel</b>: memory corruption via Bpf Precision Tracking Registers</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bpf-Precision-Tracking-Registers-42043)|An attacker can trigger a memory corruption of the Linux kernel, via Bpf Precision Tracking Registers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042" class="noirorange"><b>Junos OS</b>: code execution via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-code-execution-via-J-Web-42042)|An attacker can use a vulnerability of Junos OS, via J-Web, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041" class="noirorange"><b>UnRAR</b>: file creation via Symlink Chains</a>](https://vigilance.fr/vulnerability/UnRAR-file-creation-via-Symlink-Chains-42041)|An attacker can bypass access restrictions of UnRAR, via Symlink Chains, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: denial of service via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-denial-of-service-via-Hash-Keys-Without-Ending-42040)|An attacker can cause a fatal error of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039" class="noirorange"><b>TYPO3 hCaptcha for EXT-form</b>: user access</a>](https://vigilance.fr/vulnerability/TYPO3-hCaptcha-for-EXT-form-user-access-42039)|An attacker can bypass restrictions of TYPO3 hCaptcha for EXT:form, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038" class="noirorange"><b>Linux kernel</b>: double free via <wbr>btrfs_get_root_ref()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-btrfs-get-root-ref-42038)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -87,4 +80,11 @@
  |[43321108/23 - Vulnérabilités affectant des produits de NetApp](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-des-produits-de-netapp.html)|NetApp annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|11 août 2023|
  |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
  |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
