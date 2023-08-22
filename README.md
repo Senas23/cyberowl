@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/08/2023 21:15:47 UTC
+ > Last Updated 22/08/2023 09:18:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-vmxnet3-rq-cleanup-42066" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>vmxnet3_rq_cleanup()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-vmxnet3-rq-cleanup-42066)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ansible-information-disclosure-via-Importing-Project-Token-42065" class="noirorange"><b>Ansible</b>: information disclosure via Importing Project Token</a>](https://vigilance.fr/vulnerability/Ansible-information-disclosure-via-Importing-Project-Token-42065)|An attacker can bypass access restrictions to data of Ansible, via Importing Project Token, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/lxc-information-disclosure-via-lxc-user-nic-Error-Message-42063" class="noirorange"><b>lxc</b>: information disclosure via lxc-user-nic Error Message</a>](https://vigilance.fr/vulnerability/lxc-information-disclosure-via-lxc-user-nic-Error-Message-42063)|An attacker can bypass access restrictions to data of lxc, via lxc-user-nic Error Message, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Sentry-code-execution-via-System-Manager-Portal-42062" class="noirorange"><b>Ivanti Sentry</b>: code execution via System Manager Portal</a>](https://vigilance.fr/vulnerability/Ivanti-Sentry-code-execution-via-System-Manager-Portal-42062)|An attacker can use a vulnerability of Ivanti Sentry, via System Manager Portal, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-AcyMailing-Cross-Site-Scripting-42061" class="noirorange"><b>Joomla AcyMailing</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-AcyMailing-Cross-Site-Scripting-42061)|An attacker can trigger a Cross Site Scripting of Joomla AcyMailing, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/snappy-java-integer-overflow-via-shuffle-42060" class="noirorange"><b>snappy-java</b>: integer overflow via shuffle()</a>](https://vigilance.fr/vulnerability/snappy-java-integer-overflow-via-shuffle-42060)|An attacker can trigger an integer overflow of snappy-java, via shuffle(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -59,9 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-information-disclosure-via-Division-By-Zero-Error-42057" class="noirorange"><b>AMD Processors</b>: information disclosure via Division By Zero Error</a>](https://vigilance.fr/vulnerability/AMD-Processors-information-disclosure-via-Division-By-Zero-Error-42057)|An attacker can bypass access restrictions to data of AMD Processors, via Division By Zero Error, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-NFTA-RULE-CHAIN-ID-42056" class="noirorange"><b>Linux kernel</b>: use after free via NFTA_RULE_CHAIN_ID</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-NFTA-RULE-CHAIN-ID-42056)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NFTA_RULE_CHAIN_ID, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-ipv6-addr-jhash-42055" class="noirorange"><b>Linux kernel</b>: overload via __ipv6_addr_jhash()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-ipv6-addr-jhash-42055)|An attacker can trigger an overload of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/procps-ng-buffer-overflow-42053" class="noirorange"><b>procps-ng</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/procps-ng-buffer-overflow-42053)|An attacker can trigger a buffer overflow of procps-ng, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libreswan-three-vulnerabilities-42052" class="noirorange"><b>Libreswan</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Libreswan-three-vulnerabilities-42052)|An attacker can use several vulnerabilities of Libreswan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051" class="noirorange"><b>Fast DDS</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051)|An attacker can use several vulnerabilities of Fast DDS...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[43321108/23 - Vulnérabilités affectant des produits de NetApp](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-des-produits-de-netapp.html)|NetApp annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|11 août 2023|
  |[43311008/23 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/4331100823-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|10 août 2023|
  |[43301008/23 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/4330100823-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité de...|10 août 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
