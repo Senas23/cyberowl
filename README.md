@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/08/2023 09:17:40 UTC
+ > Last Updated 23/08/2023 21:16:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0676/)|Une vulnérabilité a été découverte dans Zimbra Collaboration Suite. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 août 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0675/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 23 août 2023|
+ |[Multiples vulnérabilités dans Aruba EdgeConnect SD-WAN Orchestrator](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0674/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect SD-WAN Orchestrator. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des …|Publié le 23 août 2023|
  |[Vulnérabilité dans Ivanti Sentry](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0673/)|Une vulnérabilité a été découverte dans Ivanti Sentry. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 août 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0672/)|De multiples vulnérabilités ont été corrigées dans |Publié le 22 août 2023|
  |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0671/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 21 août 2023|
@@ -41,9 +44,6 @@
  |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0669/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 21 août 2023|
  |[Vulnérabilité dans les caméras Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0668/)|Une vulnérabilité a été découverte dans les caméras Synology. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 21 août 2023|
  |[Multiples vulnérabilités dans le noyau Linux de Debian et DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0667/)|De multiples vulnérabilités ont été découvertes le noyau Linux de Debian et DebianLTS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 août 2023|
- |[Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0666/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 18 août 2023|
- |[Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0665/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0664/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 août 2023|
  
  ---
 
@@ -51,24 +51,17 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42091" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42091)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-auth-changepassword-php-42090" class="noirorange"><b>Cacti</b>: Cross Site Scripting via <wbr>auth_changepassword.<wbr>php</wbr></wbr></a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-auth-changepassword-php-42090)|An attacker can trigger a Cross Site Scripting of Cacti, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Identify-Help-42089" class="noirorange"><b>ImageMagick</b>: memory leak via Identify Help</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Identify-Help-42089)|An attacker can create a memory leak of ImageMagick, via Identify Help, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-overload-via-TIFFReadDirectory-42087" class="noirorange"><b>LibTIFF</b>: overload via TIFFReadDirectory()</a>](https://vigilance.fr/vulnerability/LibTIFF-overload-via-TIFFReadDirectory-42087)|An attacker can trigger an overload of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-of-dpa-cmd-add-l2-flood-42086" class="noirorange"><b>QEMU</b>: NULL pointer dereference via <wbr>of_dpa_cmd_add_l2_fl<wbr>ood</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-of-dpa-cmd-add-l2-flood-42086)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-ReadEnhMetaFile-42085" class="noirorange"><b>ImageMagick</b>: denial of service via ReadEnhMetaFile()</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-ReadEnhMetaFile-42085)|An attacker can cause a fatal error of ImageMagick, via ReadEnhMetaFile(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenVPN-denial-of-service-via-Control-Channel-Reset-Packet-42084" class="noirorange"><b>OpenVPN</b>: denial of service via Control Channel Reset Packet</a>](https://vigilance.fr/vulnerability/OpenVPN-denial-of-service-via-Control-Channel-Reset-Packet-42084)|An attacker can cause a fatal error of OpenVPN, via Control Channel Reset Packet, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dnsmasq-use-after-free-via-create-helper-42083" class="noirorange"><b>Dnsmasq</b>: use after free via create_helper()</a>](https://vigilance.fr/vulnerability/Dnsmasq-use-after-free-via-create-helper-42083)|An attacker can force the reuse of a freed memory area of Dnsmasq, via create_helper(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/curl-integer-overflow-via-Retry-Time-Arguments-42082" class="noirorange"><b>curl</b>: integer overflow via Retry Time Arguments</a>](https://vigilance.fr/vulnerability/curl-integer-overflow-via-Retry-Time-Arguments-42082)|An attacker can trigger an integer overflow of curl, via Retry Time Arguments, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-LogLuvSetupEncode-42081" class="noirorange"><b>LibTIFF</b>: buffer overflow via LogLuvSetupEncode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-LogLuvSetupEncode-42081)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-inetutils-privilege-escalation-via-Setid-Unchecked-Return-Values-42080" class="noirorange"><b>GNU inetutils</b>: privilege escalation via Setid() Unchecked Return Values</a>](https://vigilance.fr/vulnerability/GNU-inetutils-privilege-escalation-via-Setid-Unchecked-Return-Values-42080)|An attacker can bypass restrictions of GNU inetutils, via Setid() Unchecked Return Values, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Data-Field-read-write-access-42109" class="noirorange"><b>Drupal Data Field</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Data-Field-read-write-access-42109)|An attacker can bypass access restrictions of Drupal Data Field, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-SafeDelete-information-disclosure-via-Unpublished-Content-42108" class="noirorange"><b>Drupal SafeDelete</b>: information disclosure via Unpublished Content</a>](https://vigilance.fr/vulnerability/Drupal-SafeDelete-information-disclosure-via-Unpublished-Content-42108)|An attacker can bypass access restrictions to data of Drupal SafeDelete, via Unpublished Content, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Shorthand-information-disclosure-via-Stories-42107" class="noirorange"><b>Drupal Shorthand</b>: information disclosure via Stories</a>](https://vigilance.fr/vulnerability/Drupal-Shorthand-information-disclosure-via-Stories-42107)|An attacker can bypass access restrictions to data of Drupal Shorthand, via Stories, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Config-Pages-information-disclosure-via-JSONAPI-42106" class="noirorange"><b>Drupal Config Pages</b>: information disclosure via JSONAPI</a>](https://vigilance.fr/vulnerability/Drupal-Config-Pages-information-disclosure-via-JSONAPI-42106)|An attacker can bypass access restrictions to data of Drupal Config Pages, via JSONAPI, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105" class="noirorange"><b>Drupal Flexi Access</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105)|An attacker can use a vulnerability of Drupal Flexi Access, via Object Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Forum-Access-code-execution-via-Object-Injection-42104" class="noirorange"><b>Drupal Forum Access</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Forum-Access-code-execution-via-Object-Injection-42104)|An attacker can use a vulnerability of Drupal Forum Access, via Object Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-ACL-code-execution-via-Object-Injection-42103" class="noirorange"><b>Drupal ACL</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-ACL-code-execution-via-Object-Injection-42103)|An attacker can use a vulnerability of Drupal ACL, via Object Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-TACACS-RADIUS-42102" class="noirorange"><b>Cisco NX-OS</b>: denial of service via TACACS+ / RADIUS</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-TACACS-RADIUS-42102)|An attacker can cause a fatal error of Cisco NX-OS, via TACACS+ / RADIUS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-denial-of-service-via-IS-IS-42101" class="noirorange"><b>Cisco Nexus 3000/9000</b>: denial of service via IS-IS</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-denial-of-service-via-IS-IS-42101)|An attacker can cause a fatal error of Cisco Nexus 3000/9000, via IS-IS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-UCS-6300-denial-of-service-via-SNMP-42100" class="noirorange"><b>Cisco UCS 6300</b>: denial of service via SNMP</a>](https://vigilance.fr/vulnerability/Cisco-UCS-6300-denial-of-service-via-SNMP-42100)|An attacker can cause a fatal error of Cisco UCS 6300, via SNMP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-file-read-write-via-SFTP-Server-42099" class="noirorange"><b>Cisco Nexus 3000/9000</b>: file read/write via SFTP Server</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-file-read-write-via-SFTP-Server-42099)|An attacker can bypass access restrictions of Cisco Nexus 3000/9000, via SFTP Server, in order to read or alter files...|Visit link for details|
  
  ---
 
@@ -87,4 +80,11 @@
  |[43381708/23 - Vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.dgssi.gov.ma//fr/content/4338170823-vulnerabilites-dans-aruba-networking-virtual-intranet-access.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba Networking Virtual Intranet Access. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité...|17 août 2023|
  |[43371708/23 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4337170823-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|17 août 2023|
  |[43361608/23 - Vulnérabilité critique dans Python](https://www.dgssi.gov.ma//fr/content/4336160823-vulnerabilite-critique-dans-python.html)|Python a publié des mises à jour de sécurité pour corriger une vulnérabilité critique dans la bibliothèque d'analyse d'URL. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter des...|16 août 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
