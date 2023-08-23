@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/08/2023 21:16:21 UTC
+ > Last Updated 23/08/2023 09:17:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Virtual-Classroom-SQL-injection-42077" class="noirorange"><b>Joomla Virtual Classroom</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-Virtual-Classroom-SQL-injection-42077)|An attacker can use a SQL injection of Joomla Virtual Classroom, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Proforms-Basic-SQL-injection-42076" class="noirorange"><b>Joomla Proforms Basic</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-Proforms-Basic-SQL-injection-42076)|An attacker can use a SQL injection of Joomla Proforms Basic, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Plugin-Creative-Gallery-SQL-injection-42075" class="noirorange"><b>Joomla Plugin Creative Gallery</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Joomla-Plugin-Creative-Gallery-SQL-injection-42075)|An attacker can use a SQL injection of Joomla Plugin Creative Gallery, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-LivingWord-vulnerability-42074" class="noirorange"><b>Joomla LivingWord</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-LivingWord-vulnerability-42074)|A vulnerability of Joomla LivingWord was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-LivingWord-Cross-Site-Scripting-42073" class="noirorange"><b>Joomla LivingWord</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-LivingWord-Cross-Site-Scripting-42073)|An attacker can trigger a Cross Site Scripting of Joomla LivingWord, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-EXTPLORER-Cross-Site-Scripting-42072" class="noirorange"><b>Joomla EXTPLORER</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EXTPLORER-Cross-Site-Scripting-42072)|An attacker can trigger a Cross Site Scripting of Joomla EXTPLORER, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Proforms-Basic-vulnerability-42071" class="noirorange"><b>Joomla Proforms Basic</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-Proforms-Basic-vulnerability-42071)|A vulnerability of Joomla Proforms Basic was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Bagallery-vulnerability-42070" class="noirorange"><b>Joomla Bagallery</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-Bagallery-vulnerability-42070)|A vulnerability of Joomla Bagallery was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Admirror-Gallery-Cross-Site-Scripting-42069" class="noirorange"><b>Joomla Admirror Gallery</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-Admirror-Gallery-Cross-Site-Scripting-42069)|An attacker can trigger a Cross Site Scripting of Joomla Admirror Gallery, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNOME-Evolution-file-reading-via-MailTo-Attach-42068" class="noirorange"><b>GNOME Evolution</b>: file reading via MailTo Attach</a>](https://vigilance.fr/vulnerability/GNOME-Evolution-file-reading-via-MailTo-Attach-42068)|An attacker can read a file of GNOME Evolution, via MailTo Attach, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/configobj-overload-via-Validate-Function-42067" class="noirorange"><b>configobj</b>: overload via Validate Function</a>](https://vigilance.fr/vulnerability/configobj-overload-via-Validate-Function-42067)|An attacker can trigger an overload of configobj, via Validate Function, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42091" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42091)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-auth-changepassword-php-42090" class="noirorange"><b>Cacti</b>: Cross Site Scripting via <wbr>auth_changepassword.<wbr>php</wbr></wbr></a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-auth-changepassword-php-42090)|An attacker can trigger a Cross Site Scripting of Cacti, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Identify-Help-42089" class="noirorange"><b>ImageMagick</b>: memory leak via Identify Help</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Identify-Help-42089)|An attacker can create a memory leak of ImageMagick, via Identify Help, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-overload-via-TIFFReadDirectory-42087" class="noirorange"><b>LibTIFF</b>: overload via TIFFReadDirectory()</a>](https://vigilance.fr/vulnerability/LibTIFF-overload-via-TIFFReadDirectory-42087)|An attacker can trigger an overload of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-of-dpa-cmd-add-l2-flood-42086" class="noirorange"><b>QEMU</b>: NULL pointer dereference via <wbr>of_dpa_cmd_add_l2_fl<wbr>ood</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-of-dpa-cmd-add-l2-flood-42086)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-ReadEnhMetaFile-42085" class="noirorange"><b>ImageMagick</b>: denial of service via ReadEnhMetaFile()</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-ReadEnhMetaFile-42085)|An attacker can cause a fatal error of ImageMagick, via ReadEnhMetaFile(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenVPN-denial-of-service-via-Control-Channel-Reset-Packet-42084" class="noirorange"><b>OpenVPN</b>: denial of service via Control Channel Reset Packet</a>](https://vigilance.fr/vulnerability/OpenVPN-denial-of-service-via-Control-Channel-Reset-Packet-42084)|An attacker can cause a fatal error of OpenVPN, via Control Channel Reset Packet, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dnsmasq-use-after-free-via-create-helper-42083" class="noirorange"><b>Dnsmasq</b>: use after free via create_helper()</a>](https://vigilance.fr/vulnerability/Dnsmasq-use-after-free-via-create-helper-42083)|An attacker can force the reuse of a freed memory area of Dnsmasq, via create_helper(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/curl-integer-overflow-via-Retry-Time-Arguments-42082" class="noirorange"><b>curl</b>: integer overflow via Retry Time Arguments</a>](https://vigilance.fr/vulnerability/curl-integer-overflow-via-Retry-Time-Arguments-42082)|An attacker can trigger an integer overflow of curl, via Retry Time Arguments, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-LogLuvSetupEncode-42081" class="noirorange"><b>LibTIFF</b>: buffer overflow via LogLuvSetupEncode()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-LogLuvSetupEncode-42081)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-inetutils-privilege-escalation-via-Setid-Unchecked-Return-Values-42080" class="noirorange"><b>GNU inetutils</b>: privilege escalation via Setid() Unchecked Return Values</a>](https://vigilance.fr/vulnerability/GNU-inetutils-privilege-escalation-via-Setid-Unchecked-Return-Values-42080)|An attacker can bypass restrictions of GNU inetutils, via Setid() Unchecked Return Values, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -69,6 +76,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[43462308/23 - Vulnérabilités dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4346230823-vulnerabilites-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les versions susmentionnées de Juniper Junos OS. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance ou de...|23 août 2023|
+ |[43442308/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4344230823-vulnerabilites-dans-microsoft-edge.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 août 2023|
+ |[43452308/23 - Vulnérabilité critique dans les caméras Synology](https://www.dgssi.gov.ma//fr/content/4345230823-vulnerabilite-critique-dans-les-cameras-synology.html)|Une vulnérabilité critique a été corrigée dans les caméras Synology. Un attaquant distant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|23 août 2023|
  |[43432208/23 - Vulnérabilité critique dans Ivanti Sentry](https://www.dgssi.gov.ma//fr/content/4343220823-vulnerabilite-critique-dans-ivanti-sentry.html)|Ivanti a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2023-38035) dans ses produits de passerelle de sécurité Sentry. Une exploitation réussie de la vulnérabilité de...|22 août 2023|
  |[43422208/23 - Vulnérabilité critique dans WinRAR ](https://www.dgssi.gov.ma//fr/content/4342220823-vulnerabilite-critique-dans-winrar.html)|Une vulnérabilité critique a été corrigée dans WinRAR, l'utilitaire d'archivage de fichiers pour Windows. L’exploitation de cette faille pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur le système...|22 août 2023|
  |[43412208/23 - Vulnérabilité dans Fortinet FortiOS ](https://www.dgssi.gov.ma//fr/content/4341220823-vulnerabilite-dans-fortinet-fortios.html)|Une vulnérabilité a été corrigée dans Fortinet FortiOS. L’exploitation de cette faille peut permettre à un attaquant de provoquer une exécution de code arbitraire à distance.|22 août 2023|
@@ -77,14 +87,4 @@
  |[43381708/23 - Vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.dgssi.gov.ma//fr/content/4338170823-vulnerabilites-dans-aruba-networking-virtual-intranet-access.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba Networking Virtual Intranet Access. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité...|17 août 2023|
  |[43371708/23 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4337170823-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|17 août 2023|
  |[43361608/23 - Vulnérabilité critique dans Python](https://www.dgssi.gov.ma//fr/content/4336160823-vulnerabilite-critique-dans-python.html)|Python a publié des mises à jour de sécurité pour corriger une vulnérabilité critique dans la bibliothèque d'analyse d'URL. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter des...|16 août 2023|
- |[43351608/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4335160823-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|16 août 2023|
- |[43341508/23 - Vulnérabilités dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4334150823-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire et de contourner la politique de sécurité.|15 août 2023|
- |[43321108/23 - Vulnérabilités affectant les produits Cisco](https://www.dgssi.gov.ma//fr/content/4332110823-vulnerabilites-affectant-les-produits-cisco.html)|Cisco a publié une nouvelle mise à jour pour corriger deux vulnérabilités affectant les pro-duits Cisco susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant de manipuler les exceptions de routage gérées...|15 août 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
