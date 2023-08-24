@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/08/2023 21:16:18 UTC
+ > Last Updated 24/08/2023 09:18:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/7-Zip-memory-corruption-via-SQFS-7Z-Files-42119" class="noirorange"><b>7-Zip</b>: memory corruption via SQFS/7Z Files</a>](https://vigilance.fr/vulnerability/7-Zip-memory-corruption-via-SQFS-7Z-Files-42119)|An attacker can trigger a memory corruption of 7-Zip, via SQFS/7Z Files, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-file-reading-via-Web-Service-Report-Generation-42118" class="noirorange"><b>Zabbix</b>: file reading via Web Service Report Generation</a>](https://vigilance.fr/vulnerability/Zabbix-file-reading-via-Web-Service-Report-Generation-42118)|An attacker can read a file of Zabbix, via Web Service Report Generation, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Normpath-Path-Truncation-42117" class="noirorange"><b>Python Core</b>: file read/write via Normpath Path Truncation</a>](https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Normpath-Path-Truncation-42117)|An attacker can bypass access restrictions of Python Core, via Normpath Path Truncation, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116" class="noirorange"><b>MongoDB Server</b>: ingress filtrering bypass via Client Certificate Validation</a>](https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116)|An attacker can bypass filtering rules of MongoDB Server, via Client Certificate Validation, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115" class="noirorange"><b>Wireshark</b>: denial of service via CP2179 Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115)|An attacker can cause a fatal error of Wireshark, via CP2179 Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-BT-SDP-Dissector-42114" class="noirorange"><b>Wireshark</b>: memory leak via BT SDP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-BT-SDP-Dissector-42114)|An attacker can create a memory leak of Wireshark, via BT SDP Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BT-SDP-Dissector-42113" class="noirorange"><b>Wireshark</b>: overload via BT SDP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BT-SDP-Dissector-42113)|An attacker can trigger an overload of Wireshark, via BT SDP Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CBOR-Dissector-42112" class="noirorange"><b>Wireshark</b>: denial of service via CBOR Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CBOR-Dissector-42112)|An attacker can cause a fatal error of Wireshark, via CBOR Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libqb-buffer-overflow-via-log-blackbox-c-42111" class="noirorange"><b>libqb</b>: buffer overflow via log_blackbox.c</a>](https://vigilance.fr/vulnerability/libqb-buffer-overflow-via-log-blackbox-c-42111)|An attacker can trigger a buffer overflow of libqb, via log_blackbox.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Postfix-file-corruption-via-config-postfix-42110" class="noirorange"><b>Postfix</b>: file corruption via config_postfix</a>](https://vigilance.fr/vulnerability/Postfix-file-corruption-via-config-postfix-42110)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Postfix, via config_postfix...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Data-Field-read-write-access-42109" class="noirorange"><b>Drupal Data Field</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Data-Field-read-write-access-42109)|An attacker can bypass access restrictions of Drupal Data Field, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-SafeDelete-information-disclosure-via-Unpublished-Content-42108" class="noirorange"><b>Drupal SafeDelete</b>: information disclosure via Unpublished Content</a>](https://vigilance.fr/vulnerability/Drupal-SafeDelete-information-disclosure-via-Unpublished-Content-42108)|An attacker can bypass access restrictions to data of Drupal SafeDelete, via Unpublished Content, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Shorthand-information-disclosure-via-Stories-42107" class="noirorange"><b>Drupal Shorthand</b>: information disclosure via Stories</a>](https://vigilance.fr/vulnerability/Drupal-Shorthand-information-disclosure-via-Stories-42107)|An attacker can bypass access restrictions to data of Drupal Shorthand, via Stories, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Config-Pages-information-disclosure-via-JSONAPI-42106" class="noirorange"><b>Drupal Config Pages</b>: information disclosure via JSONAPI</a>](https://vigilance.fr/vulnerability/Drupal-Config-Pages-information-disclosure-via-JSONAPI-42106)|An attacker can bypass access restrictions to data of Drupal Config Pages, via JSONAPI, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105" class="noirorange"><b>Drupal Flexi Access</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105)|An attacker can use a vulnerability of Drupal Flexi Access, via Object Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Forum-Access-code-execution-via-Object-Injection-42104" class="noirorange"><b>Drupal Forum Access</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Forum-Access-code-execution-via-Object-Injection-42104)|An attacker can use a vulnerability of Drupal Forum Access, via Object Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-ACL-code-execution-via-Object-Injection-42103" class="noirorange"><b>Drupal ACL</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-ACL-code-execution-via-Object-Injection-42103)|An attacker can use a vulnerability of Drupal ACL, via Object Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-TACACS-RADIUS-42102" class="noirorange"><b>Cisco NX-OS</b>: denial of service via TACACS+ / RADIUS</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-TACACS-RADIUS-42102)|An attacker can cause a fatal error of Cisco NX-OS, via TACACS+ / RADIUS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-denial-of-service-via-IS-IS-42101" class="noirorange"><b>Cisco Nexus 3000/9000</b>: denial of service via IS-IS</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-denial-of-service-via-IS-IS-42101)|An attacker can cause a fatal error of Cisco Nexus 3000/9000, via IS-IS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-UCS-6300-denial-of-service-via-SNMP-42100" class="noirorange"><b>Cisco UCS 6300</b>: denial of service via SNMP</a>](https://vigilance.fr/vulnerability/Cisco-UCS-6300-denial-of-service-via-SNMP-42100)|An attacker can cause a fatal error of Cisco UCS 6300, via SNMP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-file-read-write-via-SFTP-Server-42099" class="noirorange"><b>Cisco Nexus 3000/9000</b>: file read/write via SFTP Server</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-file-read-write-via-SFTP-Server-42099)|An attacker can bypass access restrictions of Cisco Nexus 3000/9000, via SFTP Server, in order to read or alter files...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[43381708/23 - Vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.dgssi.gov.ma//fr/content/4338170823-vulnerabilites-dans-aruba-networking-virtual-intranet-access.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba Networking Virtual Intranet Access. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité...|17 août 2023|
  |[43371708/23 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4337170823-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|17 août 2023|
  |[43361608/23 - Vulnérabilité critique dans Python](https://www.dgssi.gov.ma//fr/content/4336160823-vulnerabilite-critique-dans-python.html)|Python a publié des mises à jour de sécurité pour corriger une vulnérabilité critique dans la bibliothèque d'analyse d'URL. L'exploitation réussie de cette vulnérabilité pourrait permettre à un attaquant d’exécuter des...|16 août 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
