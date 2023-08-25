@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/08/2023 21:16:06 UTC
+ > Last Updated 25/08/2023 09:18:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125" class="noirorange"><b>Spring Security</b>: ingress filtrering bypass via Un-Prefixed Double Wildcard Pattern</a>](https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125)|An attacker can bypass filtering rules of Spring Security, via Un-Prefixed Double Wildcard Pattern, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123" class="noirorange"><b>eProsima Fast DDS</b>: denial of service via Crafted Packet</a>](https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123)|An attacker can cause a fatal error of eProsima Fast DDS, via Crafted Packet, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122" class="noirorange"><b>gawk</b>: out-of-bounds memory reading via Argument List</a>](https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122)|An attacker can force a read at an invalid memory address of gawk, via Argument List, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-indent-buffer-overflow-via-search-brace-42121" class="noirorange"><b>GNU indent</b>: buffer overflow via search_brace()</a>](https://vigilance.fr/vulnerability/GNU-indent-buffer-overflow-via-search-brace-42121)|An attacker can trigger a buffer overflow of GNU indent, via search_brace(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42120" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via Data Files</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42120)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via Data Files, in order to trigger a denial of service...|Visit link for details|
@@ -60,8 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116" class="noirorange"><b>MongoDB Server</b>: ingress filtrering bypass via Client Certificate Validation</a>](https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116)|An attacker can bypass filtering rules of MongoDB Server, via Client Certificate Validation, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115" class="noirorange"><b>Wireshark</b>: denial of service via CP2179 Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115)|An attacker can cause a fatal error of Wireshark, via CP2179 Dissector, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-BT-SDP-Dissector-42114" class="noirorange"><b>Wireshark</b>: memory leak via BT SDP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-BT-SDP-Dissector-42114)|An attacker can create a memory leak of Wireshark, via BT SDP Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BT-SDP-Dissector-42113" class="noirorange"><b>Wireshark</b>: overload via BT SDP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BT-SDP-Dissector-42113)|An attacker can trigger an overload of Wireshark, via BT SDP Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CBOR-Dissector-42112" class="noirorange"><b>Wireshark</b>: denial of service via CBOR Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CBOR-Dissector-42112)|An attacker can cause a fatal error of Wireshark, via CBOR Dissector, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
