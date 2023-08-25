@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/08/2023 09:18:26 UTC
+ > Last Updated 25/08/2023 21:15:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0688/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 25 août 2023|
+ |[Multiples vulnérabilités dans Qnap QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0685/)|De multiples vulnérabilités ont été découvertes dans Qnap QTS et QuTS hero. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 août 2023|
+ |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0684/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 août 2023|
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0683/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
  |[Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
  |[Vulnérabilité dans MongoDB Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0680/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 août 2023|
- |[Vulnérabilité dans Spring-Kafka](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0679/)|Une vulnérabilité a été découverte dans Spring-Kafka. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 24 août 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0678/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
- |[[SCADA] Multiples vulnérabilités dans Moxa ioLogik](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0677/)|De multiples vulnérabilités ont été découvertes dans Moxa ioLogik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
- |[Vulnérabilité dans Zimbra Collaboration Suite](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0676/)|Une vulnérabilité a été découverte dans Zimbra Collaboration Suite. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 août 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0675/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 23 août 2023|
- |[Multiples vulnérabilités dans Aruba EdgeConnect SD-WAN Orchestrator](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0674/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect SD-WAN Orchestrator. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des …|Publié le 23 août 2023|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126" class="noirorange"><b>Apache Tomcat</b>: open redirect via ROOT FORM Authentication</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126)|An attacker can deceive the user of Apache Tomcat, via ROOT FORM Authentication, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125" class="noirorange"><b>Spring Security</b>: ingress filtrering bypass via Un-Prefixed Double Wildcard Pattern</a>](https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125)|An attacker can bypass filtering rules of Spring Security, via Un-Prefixed Double Wildcard Pattern, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123" class="noirorange"><b>eProsima Fast DDS</b>: denial of service via Crafted Packet</a>](https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123)|An attacker can cause a fatal error of eProsima Fast DDS, via Crafted Packet, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122" class="noirorange"><b>gawk</b>: out-of-bounds memory reading via Argument List</a>](https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122)|An attacker can force a read at an invalid memory address of gawk, via Argument List, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
@@ -61,7 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Normpath-Path-Truncation-42117" class="noirorange"><b>Python Core</b>: file read/write via Normpath Path Truncation</a>](https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Normpath-Path-Truncation-42117)|An attacker can bypass access restrictions of Python Core, via Normpath Path Truncation, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116" class="noirorange"><b>MongoDB Server</b>: ingress filtrering bypass via Client Certificate Validation</a>](https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116)|An attacker can bypass filtering rules of MongoDB Server, via Client Certificate Validation, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115" class="noirorange"><b>Wireshark</b>: denial of service via CP2179 Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115)|An attacker can cause a fatal error of Wireshark, via CP2179 Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-BT-SDP-Dissector-42114" class="noirorange"><b>Wireshark</b>: memory leak via BT SDP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-BT-SDP-Dissector-42114)|An attacker can create a memory leak of Wireshark, via BT SDP Dissector, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -76,6 +76,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[43502508/23 - Vulnérabilité dans MongoDB Server](https://www.dgssi.gov.ma//fr/content/4350250823-vulnerabilite-dans-mongodb-server.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de mongoDB Server. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|25 août 2023|
+ |[43492508/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4349250823-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service.|25 août 2023|
  |[43482408/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4348240823-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|24 août 2023|
  |[43472408/23 - Vulnérabilité dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4347240823-vulnerabilite-dans-zimbra-collaboration.html)|Une vulnérabilité a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|24 août 2023|
  |[43462308/23 - Vulnérabilités dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4346230823-vulnerabilites-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les versions susmentionnées de Juniper Junos OS. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance ou de...|23 août 2023|
@@ -85,6 +87,4 @@
  |[43422208/23 - Vulnérabilité critique dans WinRAR ](https://www.dgssi.gov.ma//fr/content/4342220823-vulnerabilite-critique-dans-winrar.html)|Une vulnérabilité critique a été corrigée dans WinRAR, l'utilitaire d'archivage de fichiers pour Windows. L’exploitation de cette faille pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur le système...|22 août 2023|
  |[43412208/23 - Vulnérabilité dans Fortinet FortiOS ](https://www.dgssi.gov.ma//fr/content/4341220823-vulnerabilite-dans-fortinet-fortios.html)|Une vulnérabilité a été corrigée dans Fortinet FortiOS. L’exploitation de cette faille peut permettre à un attaquant de provoquer une exécution de code arbitraire à distance.|22 août 2023|
  |[43401808/23 - Vulnérabilité dans Microsoft Office et OneNote](https://www.dgssi.gov.ma//fr/content/4340180823-vulnerabilite-dans-microsoft-office-et-onenote.html)|Une vulnérabilité a été corrigée dans Microsoft Office et OneNote. Un attaquant pourrait exploiter cette faille afin de réussir une usurpation d’identité.|18 août 2023|
- |[43391708/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4339170823-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|17 août 2023|
- |[43381708/23 - Vulnérabilités dans Aruba Networking Virtual Intranet Access](https://www.dgssi.gov.ma//fr/content/4338170823-vulnerabilites-dans-aruba-networking-virtual-intranet-access.html)|Plusieurs vulnérabilités ont été corrigées dans Aruba Networking Virtual Intranet Access. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité...|17 août 2023|
  
