@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/08/2023 09:15:33 UTC
+ > Last Updated 26/08/2023 21:14:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -65,6 +65,13 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -80,11 +87,4 @@
  |[43422208/23 - Vulnérabilité critique dans WinRAR ](https://www.dgssi.gov.ma//fr/content/4342220823-vulnerabilite-critique-dans-winrar.html)|Une vulnérabilité critique a été corrigée dans WinRAR, l'utilitaire d'archivage de fichiers pour Windows. L’exploitation de cette faille pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur le système...|22 août 2023|
  |[43412208/23 - Vulnérabilité dans Fortinet FortiOS ](https://www.dgssi.gov.ma//fr/content/4341220823-vulnerabilite-dans-fortinet-fortios.html)|Une vulnérabilité a été corrigée dans Fortinet FortiOS. L’exploitation de cette faille peut permettre à un attaquant de provoquer une exécution de code arbitraire à distance.|22 août 2023|
  |[43401808/23 - Vulnérabilité dans Microsoft Office et OneNote](https://www.dgssi.gov.ma//fr/content/4340180823-vulnerabilite-dans-microsoft-office-et-onenote.html)|Une vulnérabilité a été corrigée dans Microsoft Office et OneNote. Un attaquant pourrait exploiter cette faille afin de réussir une usurpation d’identité.|18 août 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
