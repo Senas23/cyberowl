@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/08/2023 21:14:11 UTC
+ > Last Updated 27/08/2023 09:16:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,13 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -62,13 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Normpath-Path-Truncation-42117" class="noirorange"><b>Python Core</b>: file read/write via Normpath Path Truncation</a>](https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Normpath-Path-Truncation-42117)|An attacker can bypass access restrictions of Python Core, via Normpath Path Truncation, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116" class="noirorange"><b>MongoDB Server</b>: ingress filtrering bypass via Client Certificate Validation</a>](https://vigilance.fr/vulnerability/MongoDB-Server-ingress-filtrering-bypass-via-Client-Certificate-Validation-42116)|An attacker can bypass filtering rules of MongoDB Server, via Client Certificate Validation, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115" class="noirorange"><b>Wireshark</b>: denial of service via CP2179 Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-CP2179-Dissector-42115)|An attacker can cause a fatal error of Wireshark, via CP2179 Dissector, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
