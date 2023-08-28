@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/08/2023 09:19:08 UTC
+ > Last Updated 28/08/2023 21:16:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0691/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 août 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0690/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 28 août 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0688/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
@@ -42,8 +44,6 @@
  |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0684/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 août 2023|
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0683/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
  |[Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
- |[Vulnérabilité dans MongoDB Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0680/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 août 2023|
  
  ---
 
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133" class="noirorange"><b>CUPS</b>: information disclosure via CUPS-Get-Document</a>](https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133)|An attacker can bypass access restrictions to data of CUPS, via CUPS-Get-Document, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-heappushpop-42132" class="noirorange"><b>Python Core</b>: use after free via heappushpop()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-heappushpop-42132)|An attacker can force the reuse of a freed memory area of Python Core, via heappushpop(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Apple-Property-List-Files-42131" class="noirorange"><b>Python Core</b>: denial of service via Apple Property List Files</a>](https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Apple-Property-List-Files-42131)|An attacker can cause a fatal error of Python Core, via Apple Property List Files, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Notepad-four-vulnerabilities-42130" class="noirorange"><b>Notepad++</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Notepad-four-vulnerabilities-42130)|An attacker can use several vulnerabilities of Notepad++...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Enterprise-information-disclosure-via-Map-And-Feature-Service-42129" class="noirorange"><b>ArcGIS Enterprise</b>: information disclosure via Map And Feature Service</a>](https://vigilance.fr/vulnerability/ArcGIS-Enterprise-information-disclosure-via-Map-And-Feature-Service-42129)|An attacker can bypass access restrictions to data of ArcGIS Enterprise, via Map And Feature Service, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/UnRAR-code-execution-via-Volume-Recovery-42128" class="noirorange"><b>UnRAR</b>: code execution via Volume Recovery</a>](https://vigilance.fr/vulnerability/UnRAR-code-execution-via-Volume-Recovery-42128)|An attacker can use a vulnerability of UnRAR, via Volume Recovery, in order to run code...|Visit link for details|
@@ -59,9 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125" class="noirorange"><b>Spring Security</b>: ingress filtrering bypass via Un-Prefixed Double Wildcard Pattern</a>](https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125)|An attacker can bypass filtering rules of Spring Security, via Un-Prefixed Double Wildcard Pattern, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123" class="noirorange"><b>eProsima Fast DDS</b>: denial of service via Crafted Packet</a>](https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123)|An attacker can cause a fatal error of eProsima Fast DDS, via Crafted Packet, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122" class="noirorange"><b>gawk</b>: out-of-bounds memory reading via Argument List</a>](https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122)|An attacker can force a read at an invalid memory address of gawk, via Argument List, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-indent-buffer-overflow-via-search-brace-42121" class="noirorange"><b>GNU indent</b>: buffer overflow via search_brace()</a>](https://vigilance.fr/vulnerability/GNU-indent-buffer-overflow-via-search-brace-42121)|An attacker can trigger a buffer overflow of GNU indent, via search_brace(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42120" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via Data Files</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-Data-Files-42120)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via Data Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/7-Zip-memory-corruption-via-SQFS-7Z-Files-42119" class="noirorange"><b>7-Zip</b>: memory corruption via SQFS/7Z Files</a>](https://vigilance.fr/vulnerability/7-Zip-memory-corruption-via-SQFS-7Z-Files-42119)|An attacker can trigger a memory corruption of 7-Zip, via SQFS/7Z Files, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
