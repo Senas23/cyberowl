@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/08/2023 21:16:11 UTC
+ > Last Updated 29/08/2023 09:19:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,31 +47,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133" class="noirorange"><b>CUPS</b>: information disclosure via CUPS-Get-Document</a>](https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133)|An attacker can bypass access restrictions to data of CUPS, via CUPS-Get-Document, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-heappushpop-42132" class="noirorange"><b>Python Core</b>: use after free via heappushpop()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-heappushpop-42132)|An attacker can force the reuse of a freed memory area of Python Core, via heappushpop(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Apple-Property-List-Files-42131" class="noirorange"><b>Python Core</b>: denial of service via Apple Property List Files</a>](https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Apple-Property-List-Files-42131)|An attacker can cause a fatal error of Python Core, via Apple Property List Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Notepad-four-vulnerabilities-42130" class="noirorange"><b>Notepad++</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Notepad-four-vulnerabilities-42130)|An attacker can use several vulnerabilities of Notepad++...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Enterprise-information-disclosure-via-Map-And-Feature-Service-42129" class="noirorange"><b>ArcGIS Enterprise</b>: information disclosure via Map And Feature Service</a>](https://vigilance.fr/vulnerability/ArcGIS-Enterprise-information-disclosure-via-Map-And-Feature-Service-42129)|An attacker can bypass access restrictions to data of ArcGIS Enterprise, via Map And Feature Service, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UnRAR-code-execution-via-Volume-Recovery-42128" class="noirorange"><b>UnRAR</b>: code execution via Volume Recovery</a>](https://vigilance.fr/vulnerability/UnRAR-code-execution-via-Volume-Recovery-42128)|An attacker can use a vulnerability of UnRAR, via Volume Recovery, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-user-access-42127" class="noirorange"><b>Microsoft Edge Chromium</b>: user access</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-user-access-42127)|An attacker can bypass restrictions of Microsoft Edge Chromium, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126" class="noirorange"><b>Apache Tomcat</b>: open redirect via ROOT FORM Authentication</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126)|An attacker can deceive the user of Apache Tomcat, via ROOT FORM Authentication, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125" class="noirorange"><b>Spring Security</b>: ingress filtrering bypass via Un-Prefixed Double Wildcard Pattern</a>](https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125)|An attacker can bypass filtering rules of Spring Security, via Un-Prefixed Double Wildcard Pattern, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123" class="noirorange"><b>eProsima Fast DDS</b>: denial of service via Crafted Packet</a>](https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123)|An attacker can cause a fatal error of eProsima Fast DDS, via Crafted Packet, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122" class="noirorange"><b>gawk</b>: out-of-bounds memory reading via Argument List</a>](https://vigilance.fr/vulnerability/gawk-out-of-bounds-memory-reading-via-Argument-List-42122)|An attacker can force a read at an invalid memory address of gawk, via Argument List, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -87,4 +62,29 @@
  |[43452308/23 - Vulnérabilité critique dans les caméras Synology](https://www.dgssi.gov.ma//fr/content/4345230823-vulnerabilite-critique-dans-les-cameras-synology.html)|Une vulnérabilité critique a été corrigée dans les caméras Synology. Un attaquant distant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|23 août 2023|
  |[43432208/23 - Vulnérabilité critique dans Ivanti Sentry](https://www.dgssi.gov.ma//fr/content/4343220823-vulnerabilite-critique-dans-ivanti-sentry.html)|Ivanti a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2023-38035) dans ses produits de passerelle de sécurité Sentry. Une exploitation réussie de la vulnérabilité de...|22 août 2023|
  |[43422208/23 - Vulnérabilité critique dans WinRAR ](https://www.dgssi.gov.ma//fr/content/4342220823-vulnerabilite-critique-dans-winrar.html)|Une vulnérabilité critique a été corrigée dans WinRAR, l'utilitaire d'archivage de fichiers pour Windows. L’exploitation de cette faille pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur le système...|22 août 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/json-c-buffer-overflow-via-parseit-42134" class="noirorange"><b>json-c</b>: buffer overflow via parseit()</a>](https://vigilance.fr/vulnerability/json-c-buffer-overflow-via-parseit-42134)|An attacker can trigger a buffer overflow of json-c, via parseit(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133" class="noirorange"><b>CUPS</b>: information disclosure via CUPS-Get-Document</a>](https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133)|An attacker can bypass access restrictions to data of CUPS, via CUPS-Get-Document, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-heappushpop-42132" class="noirorange"><b>Python Core</b>: use after free via heappushpop()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-heappushpop-42132)|An attacker can force the reuse of a freed memory area of Python Core, via heappushpop(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Apple-Property-List-Files-42131" class="noirorange"><b>Python Core</b>: denial of service via Apple Property List Files</a>](https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Apple-Property-List-Files-42131)|An attacker can cause a fatal error of Python Core, via Apple Property List Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Notepad-four-vulnerabilities-42130" class="noirorange"><b>Notepad++</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Notepad-four-vulnerabilities-42130)|An attacker can use several vulnerabilities of Notepad++...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Enterprise-information-disclosure-via-Map-And-Feature-Service-42129" class="noirorange"><b>ArcGIS Enterprise</b>: information disclosure via Map And Feature Service</a>](https://vigilance.fr/vulnerability/ArcGIS-Enterprise-information-disclosure-via-Map-And-Feature-Service-42129)|An attacker can bypass access restrictions to data of ArcGIS Enterprise, via Map And Feature Service, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UnRAR-code-execution-via-Volume-Recovery-42128" class="noirorange"><b>UnRAR</b>: code execution via Volume Recovery</a>](https://vigilance.fr/vulnerability/UnRAR-code-execution-via-Volume-Recovery-42128)|An attacker can use a vulnerability of UnRAR, via Volume Recovery, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-user-access-42127" class="noirorange"><b>Microsoft Edge Chromium</b>: user access</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-user-access-42127)|An attacker can bypass restrictions of Microsoft Edge Chromium, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126" class="noirorange"><b>Apache Tomcat</b>: open redirect via ROOT FORM Authentication</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126)|An attacker can deceive the user of Apache Tomcat, via ROOT FORM Authentication, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125" class="noirorange"><b>Spring Security</b>: ingress filtrering bypass via Un-Prefixed Double Wildcard Pattern</a>](https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125)|An attacker can bypass filtering rules of Spring Security, via Un-Prefixed Double Wildcard Pattern, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123" class="noirorange"><b>eProsima Fast DDS</b>: denial of service via Crafted Packet</a>](https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123)|An attacker can cause a fatal error of eProsima Fast DDS, via Crafted Packet, in order to trigger a denial of service...|Visit link for details|
  
