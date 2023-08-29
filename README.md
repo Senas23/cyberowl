@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/08/2023 09:19:04 UTC
+ > Last Updated 29/08/2023 21:18:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0694/)|Une vulnérabilité a été découverte dans |Publié le 29 août 2023|
+ |[Vulnérabilité dans Synology SSL VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0693/)|Une vulnérabilité a été découverte dans Synology SSL VPN Client. Elle permet à un attaquant de provoquer un déni de service.|Publié le 29 août 2023|
+ |[Vulnérabilité dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0692/)|Une vulnérabilités a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 29 août 2023|
  |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0691/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 août 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0690/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 28 août 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
@@ -41,9 +44,13 @@
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 25 août 2023|
  |[Multiples vulnérabilités dans Qnap QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0685/)|De multiples vulnérabilités ont été découvertes dans Qnap QTS et QuTS hero. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 août 2023|
- |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0684/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 août 2023|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0683/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 août 2023|
- |[Multiples vulnérabilités dans Mitel MiVoice Connect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Mitel MiVoice Connect. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 24 août 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -65,26 +72,19 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-use-after-free-via-MediaStream-42144" class="noirorange"><b>Chrome</b>: use after free via MediaStream</a>](https://vigilance.fr/vulnerability/Chrome-use-after-free-via-MediaStream-42144)|An attacker can force the reuse of a freed memory area of Chrome, via MediaStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143" class="noirorange"><b>ArubaOS-Switch</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143)|An attacker can use several vulnerabilities of ArubaOS-Switch...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142" class="noirorange"><b>Junos OS</b>: denial of service via BGP UPDATE De-peer Message</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142)|An attacker can cause a fatal error of Junos OS, via BGP UPDATE De-peer Message, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42141" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42141)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Okio-denial-of-service-via-GzipSource-42140" class="noirorange"><b>Okio</b>: denial of service via GzipSource</a>](https://vigilance.fr/vulnerability/Okio-denial-of-service-via-GzipSource-42140)|An attacker can cause a fatal error of Okio, via GzipSource, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-mp4info-42139" class="noirorange"><b>FAAD2</b>: buffer overflow via mp4info()</a>](https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-mp4info-42139)|An attacker can trigger a buffer overflow of FAAD2, via mp4info(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-stcoin-42138" class="noirorange"><b>FAAD2</b>: buffer overflow via stcoin()</a>](https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-stcoin-42138)|An attacker can trigger a buffer overflow of FAAD2, via stcoin(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-use-after-free-via-cpu-exec-step-atomic-42137" class="noirorange"><b>QEMU</b>: use after free via <wbr>cpu_exec_step_atomic<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-use-after-free-via-cpu-exec-step-atomic-42137)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-nft-set-catchall-flush-42135" class="noirorange"><b>Linux kernel</b>: memory leak via <wbr>nft_set_catchall_flu<wbr>sh()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-nft-set-catchall-flush-42135)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/json-c-buffer-overflow-via-parseit-42134" class="noirorange"><b>json-c</b>: buffer overflow via parseit()</a>](https://vigilance.fr/vulnerability/json-c-buffer-overflow-via-parseit-42134)|An attacker can trigger a buffer overflow of json-c, via parseit(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133" class="noirorange"><b>CUPS</b>: information disclosure via CUPS-Get-Document</a>](https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133)|An attacker can bypass access restrictions to data of CUPS, via CUPS-Get-Document, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-heappushpop-42132" class="noirorange"><b>Python Core</b>: use after free via heappushpop()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-heappushpop-42132)|An attacker can force the reuse of a freed memory area of Python Core, via heappushpop(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Apple-Property-List-Files-42131" class="noirorange"><b>Python Core</b>: denial of service via Apple Property List Files</a>](https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Apple-Property-List-Files-42131)|An attacker can cause a fatal error of Python Core, via Apple Property List Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Notepad-four-vulnerabilities-42130" class="noirorange"><b>Notepad++</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Notepad-four-vulnerabilities-42130)|An attacker can use several vulnerabilities of Notepad++...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Enterprise-information-disclosure-via-Map-And-Feature-Service-42129" class="noirorange"><b>ArcGIS Enterprise</b>: information disclosure via Map And Feature Service</a>](https://vigilance.fr/vulnerability/ArcGIS-Enterprise-information-disclosure-via-Map-And-Feature-Service-42129)|An attacker can bypass access restrictions to data of ArcGIS Enterprise, via Map And Feature Service, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UnRAR-code-execution-via-Volume-Recovery-42128" class="noirorange"><b>UnRAR</b>: code execution via Volume Recovery</a>](https://vigilance.fr/vulnerability/UnRAR-code-execution-via-Volume-Recovery-42128)|An attacker can use a vulnerability of UnRAR, via Volume Recovery, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-user-access-42127" class="noirorange"><b>Microsoft Edge Chromium</b>: user access</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-user-access-42127)|An attacker can bypass restrictions of Microsoft Edge Chromium, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126" class="noirorange"><b>Apache Tomcat</b>: open redirect via ROOT FORM Authentication</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-open-redirect-via-ROOT-FORM-Authentication-42126)|An attacker can deceive the user of Apache Tomcat, via ROOT FORM Authentication, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125" class="noirorange"><b>Spring Security</b>: ingress filtrering bypass via Un-Prefixed Double Wildcard Pattern</a>](https://vigilance.fr/vulnerability/Spring-Security-ingress-filtrering-bypass-via-Un-Prefixed-Double-Wildcard-Pattern-42125)|An attacker can bypass filtering rules of Spring Security, via Un-Prefixed Double Wildcard Pattern, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123" class="noirorange"><b>eProsima Fast DDS</b>: denial of service via Crafted Packet</a>](https://vigilance.fr/vulnerability/eProsima-Fast-DDS-denial-of-service-via-Crafted-Packet-42123)|An attacker can cause a fatal error of eProsima Fast DDS, via Crafted Packet, in order to trigger a denial of service...|Visit link for details|
  
