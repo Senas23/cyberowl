@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/08/2023 21:18:02 UTC
+ > Last Updated 30/08/2023 09:20:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,24 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-Cross-Site-Scripting-42149" class="noirorange"><b>Webmin  Usermin</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-Cross-Site-Scripting-42149)|An attacker can trigger a Cross Site Scripting of Webmin  Usermin, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-mm-mempolicy-c-42148" class="noirorange"><b>Linux kernel</b>: use after free via mm/mempolicy.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-mm-mempolicy-c-42148)|An attacker can force the reuse of a freed memory area of the Linux kernel, via mm/mempolicy.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QPDF-use-after-free-via-Pl-ASCII85Decoder-write-42147" class="noirorange"><b>QPDF</b>: use after free via <wbr>Pl_ASCII85Decoder::w<wbr>rite()</wbr></wbr></a>](https://vigilance.fr/vulnerability/QPDF-use-after-free-via-Pl-ASCII85Decoder-write-42147)|An attacker can force the reuse of a freed memory area of QPDF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-immediate-deactivate-42146" class="noirorange"><b>Linux kernel</b>: memory corruption via <wbr>nft_immediate_deacti<wbr>vate()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-immediate-deactivate-42146)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nf-tables-delrule-42145" class="noirorange"><b>Linux kernel</b>: memory corruption via nf_tables_delrule()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nf-tables-delrule-42145)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-use-after-free-via-MediaStream-42144" class="noirorange"><b>Chrome</b>: use after free via MediaStream</a>](https://vigilance.fr/vulnerability/Chrome-use-after-free-via-MediaStream-42144)|An attacker can force the reuse of a freed memory area of Chrome, via MediaStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143" class="noirorange"><b>ArubaOS-Switch</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143)|An attacker can use several vulnerabilities of ArubaOS-Switch...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142" class="noirorange"><b>Junos OS</b>: denial of service via BGP UPDATE De-peer Message</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142)|An attacker can cause a fatal error of Junos OS, via BGP UPDATE De-peer Message, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42141" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42141)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Okio-denial-of-service-via-GzipSource-42140" class="noirorange"><b>Okio</b>: denial of service via GzipSource</a>](https://vigilance.fr/vulnerability/Okio-denial-of-service-via-GzipSource-42140)|An attacker can cause a fatal error of Okio, via GzipSource, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-mp4info-42139" class="noirorange"><b>FAAD2</b>: buffer overflow via mp4info()</a>](https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-mp4info-42139)|An attacker can trigger a buffer overflow of FAAD2, via mp4info(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -69,22 +87,4 @@
  |[43452308/23 - Vulnérabilité critique dans les caméras Synology](https://www.dgssi.gov.ma//fr/content/4345230823-vulnerabilite-critique-dans-les-cameras-synology.html)|Une vulnérabilité critique a été corrigée dans les caméras Synology. Un attaquant distant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|23 août 2023|
  |[43432208/23 - Vulnérabilité critique dans Ivanti Sentry](https://www.dgssi.gov.ma//fr/content/4343220823-vulnerabilite-critique-dans-ivanti-sentry.html)|Ivanti a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2023-38035) dans ses produits de passerelle de sécurité Sentry. Une exploitation réussie de la vulnérabilité de...|22 août 2023|
  |[43422208/23 - Vulnérabilité critique dans WinRAR ](https://www.dgssi.gov.ma//fr/content/4342220823-vulnerabilite-critique-dans-winrar.html)|Une vulnérabilité critique a été corrigée dans WinRAR, l'utilitaire d'archivage de fichiers pour Windows. L’exploitation de cette faille pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur le système...|22 août 2023|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-use-after-free-via-MediaStream-42144" class="noirorange"><b>Chrome</b>: use after free via MediaStream</a>](https://vigilance.fr/vulnerability/Chrome-use-after-free-via-MediaStream-42144)|An attacker can force the reuse of a freed memory area of Chrome, via MediaStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143" class="noirorange"><b>ArubaOS-Switch</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143)|An attacker can use several vulnerabilities of ArubaOS-Switch...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142" class="noirorange"><b>Junos OS</b>: denial of service via BGP UPDATE De-peer Message</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142)|An attacker can cause a fatal error of Junos OS, via BGP UPDATE De-peer Message, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42141" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42141)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Okio-denial-of-service-via-GzipSource-42140" class="noirorange"><b>Okio</b>: denial of service via GzipSource</a>](https://vigilance.fr/vulnerability/Okio-denial-of-service-via-GzipSource-42140)|An attacker can cause a fatal error of Okio, via GzipSource, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-mp4info-42139" class="noirorange"><b>FAAD2</b>: buffer overflow via mp4info()</a>](https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-mp4info-42139)|An attacker can trigger a buffer overflow of FAAD2, via mp4info(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-stcoin-42138" class="noirorange"><b>FAAD2</b>: buffer overflow via stcoin()</a>](https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-stcoin-42138)|An attacker can trigger a buffer overflow of FAAD2, via stcoin(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-use-after-free-via-cpu-exec-step-atomic-42137" class="noirorange"><b>QEMU</b>: use after free via <wbr>cpu_exec_step_atomic<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-use-after-free-via-cpu-exec-step-atomic-42137)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-nft-set-catchall-flush-42135" class="noirorange"><b>Linux kernel</b>: memory leak via <wbr>nft_set_catchall_flu<wbr>sh()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-nft-set-catchall-flush-42135)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/json-c-buffer-overflow-via-parseit-42134" class="noirorange"><b>json-c</b>: buffer overflow via parseit()</a>](https://vigilance.fr/vulnerability/json-c-buffer-overflow-via-parseit-42134)|An attacker can trigger a buffer overflow of json-c, via parseit(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133" class="noirorange"><b>CUPS</b>: information disclosure via CUPS-Get-Document</a>](https://vigilance.fr/vulnerability/CUPS-information-disclosure-via-CUPS-Get-Document-42133)|An attacker can bypass access restrictions to data of CUPS, via CUPS-Get-Document, in order to read sensitive information...|Visit link for details|
  
