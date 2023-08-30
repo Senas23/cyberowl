@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/08/2023 09:20:10 UTC
+ > Last Updated 30/08/2023 21:17:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Juniper Junos-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0696/)|Une vulnérabilité a été découverte dans Juniper Junos-OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 août 2023|
+ |[Multiples vulnérabilités dans Aruba ArubaOS-Switch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0700/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS-Switch. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 30 août 2023|
+ |[Multiples vulnérabilités dans Trend Micro Mobile Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0699/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Mobile Security. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 30 août 2023|
+ |[Multiples vulnérabilités Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0698/)|De multiples vulnérabilités ont été découvertes dans|Publié le 30 août 2023|
+ |[Multiples vulnérabilités dans VMware Aria Operations for Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0697/)|De multiples vulnérabilités ont été découvertes dans|Publié le 30 août 2023|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0695/)|De multiples vulnérabilités ont été découvertes dans|Publié le 30 août 2023|
  |[Vulnérabilité dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0694/)|Une vulnérabilité a été découverte dans |Publié le 29 août 2023|
  |[Vulnérabilité dans Synology SSL VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0693/)|Une vulnérabilité a été découverte dans Synology SSL VPN Client. Elle permet à un attaquant de provoquer un déni de service.|Publié le 29 août 2023|
  |[Vulnérabilité dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0692/)|Une vulnérabilités a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 29 août 2023|
  |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0691/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 août 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0690/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 28 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0688/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 août 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 25 août 2023|
- |[Multiples vulnérabilités dans Qnap QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0685/)|De multiples vulnérabilités ont été découvertes dans Qnap QTS et QuTS hero. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 août 2023|
  
  ---
 
@@ -51,24 +51,17 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-Cross-Site-Scripting-42149" class="noirorange"><b>Webmin  Usermin</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-Cross-Site-Scripting-42149)|An attacker can trigger a Cross Site Scripting of Webmin  Usermin, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-mm-mempolicy-c-42148" class="noirorange"><b>Linux kernel</b>: use after free via mm/mempolicy.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-mm-mempolicy-c-42148)|An attacker can force the reuse of a freed memory area of the Linux kernel, via mm/mempolicy.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QPDF-use-after-free-via-Pl-ASCII85Decoder-write-42147" class="noirorange"><b>QPDF</b>: use after free via <wbr>Pl_ASCII85Decoder::w<wbr>rite()</wbr></wbr></a>](https://vigilance.fr/vulnerability/QPDF-use-after-free-via-Pl-ASCII85Decoder-write-42147)|An attacker can force the reuse of a freed memory area of QPDF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-immediate-deactivate-42146" class="noirorange"><b>Linux kernel</b>: memory corruption via <wbr>nft_immediate_deacti<wbr>vate()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-immediate-deactivate-42146)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nf-tables-delrule-42145" class="noirorange"><b>Linux kernel</b>: memory corruption via nf_tables_delrule()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nf-tables-delrule-42145)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-use-after-free-via-MediaStream-42144" class="noirorange"><b>Chrome</b>: use after free via MediaStream</a>](https://vigilance.fr/vulnerability/Chrome-use-after-free-via-MediaStream-42144)|An attacker can force the reuse of a freed memory area of Chrome, via MediaStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143" class="noirorange"><b>ArubaOS-Switch</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143)|An attacker can use several vulnerabilities of ArubaOS-Switch...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142" class="noirorange"><b>Junos OS</b>: denial of service via BGP UPDATE De-peer Message</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142)|An attacker can cause a fatal error of Junos OS, via BGP UPDATE De-peer Message, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42141" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42141)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Okio-denial-of-service-via-GzipSource-42140" class="noirorange"><b>Okio</b>: denial of service via GzipSource</a>](https://vigilance.fr/vulnerability/Okio-denial-of-service-via-GzipSource-42140)|An attacker can cause a fatal error of Okio, via GzipSource, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-mp4info-42139" class="noirorange"><b>FAAD2</b>: buffer overflow via mp4info()</a>](https://vigilance.fr/vulnerability/FAAD2-buffer-overflow-via-mp4info-42139)|An attacker can trigger a buffer overflow of FAAD2, via mp4info(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/elfutils-overload-via-handle-symtab-42160" class="noirorange"><b>elfutils</b>: overload via handle_symtab()</a>](https://vigilance.fr/vulnerability/elfutils-overload-via-handle-symtab-42160)|An attacker can trigger an overload of elfutils, via handle_symtab(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/elfutils-buffer-overflow-via-libcpu-42159" class="noirorange"><b>elfutils</b>: buffer overflow via libcpu</a>](https://vigilance.fr/vulnerability/elfutils-buffer-overflow-via-libcpu-42159)|An attacker can trigger a buffer overflow of elfutils, via libcpu, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Obfuscate-Email-Cross-Site-Scripting-42158" class="noirorange"><b>Drupal Obfuscate Email</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Obfuscate-Email-Cross-Site-Scripting-42158)|An attacker can trigger a Cross Site Scripting of Drupal Obfuscate Email, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Unified-Twig-Extensions-Cross-Site-Scripting-42157" class="noirorange"><b>Drupal Unified Twig Extensions</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Unified-Twig-Extensions-Cross-Site-Scripting-42157)|An attacker can trigger a Cross Site Scripting of Drupal Unified Twig Extensions, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Debian-opendmarc-denial-of-service-via-Postinst-Script-42156" class="noirorange"><b>Debian opendmarc</b>: denial of service via Postinst Script</a>](https://vigilance.fr/vulnerability/Debian-opendmarc-denial-of-service-via-Postinst-Script-42156)|An attacker can cause a fatal error of Debian opendmarc, via Postinst Script, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-privilege-escalation-via-Upgrades-42155" class="noirorange"><b>Cisco Unified Communications Manager</b>: privilege escalation via Upgrades</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-privilege-escalation-via-Upgrades-42155)|An attacker can bypass restrictions of Cisco Unified Communications Manager, via Upgrades, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-Groovy-42154" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via Groovy</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-Groovy-42154)|A vulnerability of Apereo CAS Server, via Groovy, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-buffer-overflow-via-portcfgfportbuffers-42153" class="noirorange"><b>Brocade Fabric OS</b>: buffer overflow via portcfgfportbuffers</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-buffer-overflow-via-portcfgfportbuffers-42153)|An attacker can trigger a buffer overflow of Brocade Fabric OS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-denial-of-service-via-passwdcfg-42152" class="noirorange"><b>Brocade Fabric OS</b>: denial of service via passwdcfg</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-denial-of-service-via-passwdcfg-42152)|An attacker can cause a fatal error of Brocade Fabric OS, via passwdcfg, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-logged-sensitive-information-via-firmwaredownload-42151" class="noirorange"><b>Brocade Fabric OS</b>: logged sensitive information via firmwaredownload</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-logged-sensitive-information-via-firmwaredownload-42151)|An attacker can read logs of Brocade Fabric OS, via firmwaredownload, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-buffer-overflow-via-xmlSAX2StartElement-42150" class="noirorange"><b>libxml2</b>: buffer overflow via <wbr>xmlSAX2StartElement(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/libxml2-buffer-overflow-via-xmlSAX2StartElement-42150)|An attacker can trigger a buffer overflow of libxml2, via |Visit link for details|
  
  ---
 
@@ -87,4 +80,11 @@
  |[43452308/23 - Vulnérabilité critique dans les caméras Synology](https://www.dgssi.gov.ma//fr/content/4345230823-vulnerabilite-critique-dans-les-cameras-synology.html)|Une vulnérabilité critique a été corrigée dans les caméras Synology. Un attaquant distant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|23 août 2023|
  |[43432208/23 - Vulnérabilité critique dans Ivanti Sentry](https://www.dgssi.gov.ma//fr/content/4343220823-vulnerabilite-critique-dans-ivanti-sentry.html)|Ivanti a publié des mises à jour de sécurité pour corriger une vulnérabilité critique de type "zero-day" (CVE-2023-38035) dans ses produits de passerelle de sécurité Sentry. Une exploitation réussie de la vulnérabilité de...|22 août 2023|
  |[43422208/23 - Vulnérabilité critique dans WinRAR ](https://www.dgssi.gov.ma//fr/content/4342220823-vulnerabilite-critique-dans-winrar.html)|Une vulnérabilité critique a été corrigée dans WinRAR, l'utilitaire d'archivage de fichiers pour Windows. L’exploitation de cette faille pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur le système...|22 août 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
