@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/08/2023 21:17:04 UTC
+ > Last Updated 01/09/2023 09:19:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,24 +51,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-RealMedia-File-Demuxer-42178" class="noirorange"><b>GStreamer</b>: buffer overflow via RealMedia File Demuxer</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-RealMedia-File-Demuxer-42178)|An attacker can trigger a buffer overflow of GStreamer, via RealMedia File Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-42177" class="noirorange"><b>libeconf</b>: buffer overflow via read_file()</a>](https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-42177)|An attacker can trigger a buffer overflow of libeconf, via read_file(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mosquitto-three-vulnerabilities-42176" class="noirorange"><b>Mosquitto</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Mosquitto-three-vulnerabilities-42176)|An attacker can use several vulnerabilities of Mosquitto...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rustls-webpki-overload-via-Certificate-Path-Building-42175" class="noirorange"><b>rustls-webpki</b>: overload via Certificate Path Building</a>](https://vigilance.fr/vulnerability/rustls-webpki-overload-via-Certificate-Path-Building-42175)|An attacker can trigger an overload of rustls-webpki, via Certificate Path Building, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42174" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42174)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitPython-read-write-access-via-Clone-Non-multi-Options-42173" class="noirorange"><b>GitPython</b>: read-write access via Clone Non-multi Options</a>](https://vigilance.fr/vulnerability/GitPython-read-write-access-via-Clone-Non-multi-Options-42173)|An attacker can bypass access restrictions of GitPython, via Clone Non-multi Options, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-vulnerability-42172" class="noirorange"><b>Go</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Go-vulnerability-42172)|A vulnerability of Go was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171" class="noirorange"><b>VMware Tools</b>: user access via SAML Token Signature Bypass</a>](https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171)|An attacker can bypass restrictions of VMware Tools, via SAML Token Signature Bypass, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170" class="noirorange"><b>WordPress Login with Cognito</b>: Cross Site Scripting via Username</a>](https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170)|An attacker can trigger a Cross Site Scripting of WordPress Login with Cognito, via Username, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Message-Type Extensions</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Message-Type Extensions, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-External-Lookups-42168" class="noirorange"><b>Splunk Enterprise</b>: code execution via External Lookups</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-External-Lookups-42168)|An attacker can use a vulnerability of Splunk Enterprise, via External Lookups, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-directory-escape-via-runshellscript-py-42167" class="noirorange"><b>Splunk Enterprise</b>: directory escape via runshellscript.py</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-directory-escape-via-runshellscript-py-42167)|An attacker can escape from the working directory of Splunk Enterprise, via runshellscript.py, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-privilege-escalation-via-Windows-OPENSSLDIR-42166" class="noirorange"><b>Splunk Enterprise</b>: privilege escalation via Windows OPENSSLDIR</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-privilege-escalation-via-Windows-OPENSSLDIR-42166)|An attacker can bypass restrictions of Splunk Enterprise, via Windows OPENSSLDIR, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Serialized-Session-Payload-42165" class="noirorange"><b>Splunk Enterprise</b>: code execution via Serialized Session Payload</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Serialized-Session-Payload-42165)|An attacker can use a vulnerability of Splunk Enterprise, via Serialized Session Payload, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Printf-Search-Function-42164" class="noirorange"><b>Splunk Enterprise</b>: denial of service via Printf Search Function</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Printf-Search-Function-42164)|An attacker can cause a fatal error of Splunk Enterprise, via Printf Search Function, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-SAML-Request-42163" class="noirorange"><b>Splunk Enterprise</b>: denial of service via SAML Request</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-SAML-Request-42163)|An attacker can cause a fatal error of Splunk Enterprise, via SAML Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-app-search-table-42162" class="noirorange"><b>Splunk Enterprise</b>: Cross Site Scripting via /app/search/table</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-app-search-table-42162)|An attacker can trigger a Cross Site Scripting of Splunk Enterprise, via /app/search/table, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -87,4 +80,11 @@
  |[43472408/23 - Vulnérabilité dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4347240823-vulnerabilite-dans-zimbra-collaboration.html)|Une vulnérabilité a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|24 août 2023|
  |[43462308/23 - Vulnérabilités dans Juniper Junos OS](https://www.dgssi.gov.ma//fr/content/4346230823-vulnerabilites-dans-juniper-junos-os.html)|Juniper a publié une mise à jour de sécurité pour corriger plusieurs vulnérabilités dans les versions susmentionnées de Juniper Junos OS. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance ou de...|23 août 2023|
  |[43442308/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4344230823-vulnerabilites-dans-microsoft-edge.html)|Plusieurs vulnérabilités ont été corrigées dans Microsoft Edge. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 août 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
