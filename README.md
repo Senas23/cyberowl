@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/09/2023 21:15:34 UTC
+ > Last Updated 04/09/2023 09:19:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nft-set-elem-mark-busy-42179" class="noirorange"><b>Linux kernel</b>: double free via <wbr>nft_set_elem_mark_bu<wbr>sy()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nft-set-elem-mark-busy-42179)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-RealMedia-File-Demuxer-42178" class="noirorange"><b>GStreamer</b>: buffer overflow via RealMedia File Demuxer</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-RealMedia-File-Demuxer-42178)|An attacker can trigger a buffer overflow of GStreamer, via RealMedia File Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-42177" class="noirorange"><b>libeconf</b>: buffer overflow via read_file()</a>](https://vigilance.fr/vulnerability/libeconf-buffer-overflow-via-read-file-42177)|An attacker can trigger a buffer overflow of libeconf, via read_file(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mosquitto-three-vulnerabilities-42176" class="noirorange"><b>Mosquitto</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Mosquitto-three-vulnerabilities-42176)|An attacker can use several vulnerabilities of Mosquitto...|Visit link for details|
@@ -61,7 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171" class="noirorange"><b>VMware Tools</b>: user access via SAML Token Signature Bypass</a>](https://vigilance.fr/vulnerability/VMware-Tools-user-access-via-SAML-Token-Signature-Bypass-42171)|An attacker can bypass restrictions of VMware Tools, via SAML Token Signature Bypass, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170" class="noirorange"><b>WordPress Login with Cognito</b>: Cross Site Scripting via Username</a>](https://vigilance.fr/vulnerability/WordPress-Login-with-Cognito-Cross-Site-Scripting-via-Username-42170)|An attacker can trigger a Cross Site Scripting of WordPress Login with Cognito, via Username, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Message-Type Extensions</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Message-Type-Extensions-42169)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Message-Type Extensions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-External-Lookups-42168" class="noirorange"><b>Splunk Enterprise</b>: code execution via External Lookups</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-External-Lookups-42168)|An attacker can use a vulnerability of Splunk Enterprise, via External Lookups, in order to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -80,11 +87,4 @@
  |[43492508/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4349250823-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service.|25 août 2023|
  |[43482408/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4348240823-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|24 août 2023|
  |[43472408/23 - Vulnérabilité dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4347240823-vulnerabilite-dans-zimbra-collaboration.html)|Une vulnérabilité a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|24 août 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
