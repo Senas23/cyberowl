@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/09/2023 09:19:21 UTC
+ > Last Updated 04/09/2023 21:15:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -76,6 +76,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[43570409/23 - Vulnérabilité affectant VMware Tools](https://www.dgssi.gov.ma//fr/content/4357040923-vulnerabilite-affectant-vmware-tools.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware Tools. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de contourner les mesures de sécurité.|04 septembre 2023|
  |[43560109/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4356010923-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, de contourner...|01 septembre 2023|
  |[43550109/23 - Vulnérabilité affectant des produits Cisco Unified Communications](https://www.dgssi.gov.ma//fr/content/4355010923-vulnerabilite-affectant-des-produits-cisco-unified-communications.html)|Cisco annonce la correction d’une vulnérabilité affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant d’élever ses privilèges.|01 septembre 2023|
  |[43543108/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4354310823-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction d’une vulnérabilité affectantles versions susmentionnéesson système d’exploitation Junos OS. Un attaquant distantpourrait exploiter cette vulnérabilité pour causer un déni de service.|31 août 2023|
@@ -86,5 +87,4 @@
  |[43502508/23 - Vulnérabilité dans MongoDB Server](https://www.dgssi.gov.ma//fr/content/4350250823-vulnerabilite-dans-mongodb-server.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de mongoDB Server. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|25 août 2023|
  |[43492508/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4349250823-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin de causer un déni de service.|25 août 2023|
  |[43482408/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4348240823-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|24 août 2023|
- |[43472408/23 - Vulnérabilité dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4347240823-vulnerabilite-dans-zimbra-collaboration.html)|Une vulnérabilité a été corrigée dans Zimbra Collaboration. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|24 août 2023|
  
