@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/09/2023 21:16:13 UTC
+ > Last Updated 06/09/2023 09:18:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42196" class="noirorange"><b>FreeImage</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42196)|An attacker can use several vulnerabilities of FreeImage...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-42194" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-42194)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-42192" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-42192)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
@@ -61,7 +62,6 @@
  |[<a href="https://vigilance.fr/vulnerability/sccache-privilege-escalation-via-LD-PRELOAD-42187" class="noirorange"><b>sccache</b>: privilege escalation via LD_PRELOAD</a>](https://vigilance.fr/vulnerability/sccache-privilege-escalation-via-LD-PRELOAD-42187)|An attacker can bypass restrictions of sccache, via LD_PRELOAD, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GSL-buffer-overflow-via-gsl-stats-quantile-from-sorted-data-42186" class="noirorange"><b>GSL</b>: buffer overflow via <wbr>gsl_stats_quantile_f<wbr>rom_sorted_data()</wbr></wbr></a>](https://vigilance.fr/vulnerability/GSL-buffer-overflow-via-gsl-stats-quantile-from-sorted-data-42186)|An attacker can trigger a buffer overflow of GSL, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zope-AccessControl-information-disclosure-via-format-map-42185" class="noirorange"><b>Zope AccessControl</b>: information disclosure via format_map</a>](https://vigilance.fr/vulnerability/Zope-AccessControl-information-disclosure-via-format-map-42185)|An attacker can bypass access restrictions to data of Zope AccessControl, via format_map, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zope-RestrictedPython-code-execution-via-Format-Sandbox-Escape-42184" class="noirorange"><b>Zope RestrictedPython</b>: code execution via Format Sandbox Escape</a>](https://vigilance.fr/vulnerability/Zope-RestrictedPython-code-execution-via-Format-Sandbox-Escape-42184)|An attacker can use a vulnerability of Zope RestrictedPython, via Format Sandbox Escape, in order to run code...|Visit link for details|
  
  ---
 
