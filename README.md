@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/09/2023 09:18:36 UTC
+ > Last Updated 08/09/2023 21:16:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,29 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0723/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2023|
+ |[Vulnérabilité dans Veeam Backup](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0722/)|Une vulnérabilité a été découverte dans Veeam Backup. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0721/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0719/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 septembre 2023|
+ |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0718/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 7 septembre 2023|
+ |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0717/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 septembre 2023|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-memory-corruption-via-Windows-POLY1305-MAC-42225" class="noirorange"><b>OpenSSL</b>: memory corruption via Windows POLY1305 MAC</a>](https://vigilance.fr/vulnerability/OpenSSL-memory-corruption-via-Windows-POLY1305-MAC-42225)|An attacker can trigger a memory corruption of OpenSSL, via Windows POLY1305 MAC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libssh2-out-of-bounds-memory-reading-via-libssh2-packet-add-42224" class="noirorange"><b>libssh2</b>: out-of-bounds memory reading via <wbr>_libssh2_packet_add(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/libssh2-out-of-bounds-memory-reading-via-libssh2-packet-add-42224)|An attacker can force a read at an invalid memory address of libssh2, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-django-utils-encoding-uri-to-iri-42222" class="noirorange"><b>Django</b>: overload via <wbr>django.utils.encodin<wbr>g.uri_to_iri()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Django-overload-via-django-utils-encoding-uri-to-iri-42222)|An attacker can trigger an overload of Django, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/memcached-NULL-pointer-dereference-via-UDP-Multi-packet-Uploads-42221" class="noirorange"><b>memcached</b>: NULL pointer dereference via UDP Multi-packet Uploads</a>](https://vigilance.fr/vulnerability/memcached-NULL-pointer-dereference-via-UDP-Multi-packet-Uploads-42221)|An attacker can force a NULL pointer to be dereferenced on memcached, via UDP Multi-packet Uploads, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220" class="noirorange"><b>Apple iOS  macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
@@ -43,8 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-hfsc-change-class-42216" class="noirorange"><b>Linux kernel</b>: use after free via hfsc_change_class()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-hfsc-change-class-42216)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via Pf Multiple IPv6 Fragment Headers</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215)|An attacker can bypass filtering rules of FreeBSD, via Pf Multiple IPv6 Fragment Headers, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214" class="noirorange"><b>netconsd</b>: buffer overflow via Fragment Values</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214)|An attacker can trigger a buffer overflow of netconsd, via Fragment Values, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-is-qf-win-42213" class="noirorange"><b>Vim</b>: use after free via is_qf_win()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-is-qf-win-42213)|An attacker can force the reuse of a freed memory area of Vim, via is_qf_win(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ins-compl-get-exp-42212" class="noirorange"><b>Vim</b>: use after free via ins_compl_get_exp()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ins-compl-get-exp-42212)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -52,6 +76,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[43640809/23 - Vulnérabilités « Zero-day »affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4364080923-vulnerabilites-zero-day-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deux vulnérabilités critiques affectant ses produitssusmentionnés. Ces vulnérabilités sont des « Zero-day »activement exploités et peuventpermettre à un attaquant distant d’exécuter du...|08 septembre 2023|
  |[43630709/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4363070923-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’élever ses privilèges de contourner les mesures de...|07 septembre 2023|
  |[43620709/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4362070923-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|07 septembre 2023|
  |[43610709/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4361070923-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android. Une de ces vulnérabilités, identifiée par«CVE-2023-35674» est un Zero-day susceptible d’être activement exploité.L'...|07 septembre 2023|
@@ -62,19 +87,4 @@
  |[43570409/23 - Vulnérabilité affectant VMware Tools](https://www.dgssi.gov.ma//fr/content/4357040923-vulnerabilite-affectant-vmware-tools.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware Tools. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de contourner les mesures de sécurité.|04 septembre 2023|
  |[43560109/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4356010923-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, de contourner...|01 septembre 2023|
  |[43550109/23 - Vulnérabilité affectant des produits Cisco Unified Communications](https://www.dgssi.gov.ma//fr/content/4355010923-vulnerabilite-affectant-des-produits-cisco-unified-communications.html)|Cisco annonce la correction d’une vulnérabilité affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant d’élever ses privilèges.|01 septembre 2023|
- |[43543108/23 - Vulnérabilités affectantJuniper Junos OS](https://www.dgssi.gov.ma//fr/content/4354310823-vulnerabilites-affectant-juniper-junos-os.html)|Juniper annonce la correction d’une vulnérabilité affectantles versions susmentionnéesson système d’exploitation Junos OS. Un attaquant distantpourrait exploiter cette vulnérabilité pour causer un déni de service.|31 août 2023|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
