@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/09/2023 21:16:17 UTC
+ > Last Updated 08/09/2023 09:18:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-django-utils-encoding-uri-to-iri-42222" class="noirorange"><b>Django</b>: overload via <wbr>django.utils.encodin<wbr>g.uri_to_iri()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Django-overload-via-django-utils-encoding-uri-to-iri-42222)|An attacker can trigger an overload of Django, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/memcached-NULL-pointer-dereference-via-UDP-Multi-packet-Uploads-42221" class="noirorange"><b>memcached</b>: NULL pointer dereference via UDP Multi-packet Uploads</a>](https://vigilance.fr/vulnerability/memcached-NULL-pointer-dereference-via-UDP-Multi-packet-Uploads-42221)|An attacker can force a NULL pointer to be dereferenced on memcached, via UDP Multi-packet Uploads, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220" class="noirorange"><b>Apple iOS  macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-Audit-Log-42219" class="noirorange"><b>Elasticsearch</b>: logged sensitive information via Audit Log</a>](https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-Audit-Log-42219)|An attacker can read logs of Elasticsearch, via Audit Log, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-tables-set-elem-destroy-42218" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>nf_tables_set_elem_d<wbr>estroy()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-tables-set-elem-destroy-42218)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
@@ -43,15 +45,6 @@
  |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214" class="noirorange"><b>netconsd</b>: buffer overflow via Fragment Values</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Fragment-Values-42214)|An attacker can trigger a buffer overflow of netconsd, via Fragment Values, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-is-qf-win-42213" class="noirorange"><b>Vim</b>: use after free via is_qf_win()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-is-qf-win-42213)|An attacker can force the reuse of a freed memory area of Vim, via is_qf_win(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ins-compl-get-exp-42212" class="noirorange"><b>Vim</b>: use after free via ins_compl_get_exp()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ins-compl-get-exp-42212)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-do-ecmd-42211" class="noirorange"><b>Vim</b>: use after free via do_ecmd()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-do-ecmd-42211)|An attacker can force the reuse of a freed memory area of Vim, via do_ecmd(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/erofs-utils-buffer-overflow-via-erofs-read-one-data-42210" class="noirorange"><b>erofs-utils</b>: buffer overflow via <wbr>erofs_read_one_data(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/erofs-utils-buffer-overflow-via-erofs-read-one-data-42210)|An attacker can trigger a buffer overflow of erofs-utils, via |Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -74,6 +67,13 @@
  ---
 
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
