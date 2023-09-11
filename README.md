@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/09/2023 09:19:44 UTC
+ > Last Updated 11/09/2023 21:16:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0727/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0726/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0725/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
  |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0724/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2023|
@@ -43,7 +44,6 @@
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 septembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0719/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 septembre 2023|
  |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0718/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 7 septembre 2023|
- |[Vulnérabilité dans Elasticsearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0717/)|Une vulnérabilité a été découverte dans Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 7 septembre 2023|
  
  ---
 
@@ -51,17 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-WebP-42249" class="noirorange"><b>Chrome</b>: buffer overflow via WebP</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-WebP-42249)|An attacker can trigger a buffer overflow of Chrome, via WebP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247" class="noirorange"><b>Linux kernel</b>: use after free via MREMAP_DONTUNMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-MREMAP-DONTUNMAP-42247)|An attacker can force the reuse of a freed memory area of the Linux kernel, via MREMAP_DONTUNMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Polycom-DMA-Clariti-Core-privilege-escalation-via-Administrator-UI-42246" class="noirorange"><b>Polycom DMA  Clariti Core</b>: privilege escalation via Administrator UI</a>](https://vigilance.fr/vulnerability/Polycom-DMA-Clariti-Core-privilege-escalation-via-Administrator-UI-42246)|An attacker can bypass restrictions of Polycom DMA  Clariti Core, via Administrator UI, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-Ux-autocomplete-information-disclosure-42245" class="noirorange"><b>Symfony Ux-autocomplete</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Symfony-Ux-autocomplete-information-disclosure-42245)|An attacker can bypass access restrictions to data of Symfony Ux-autocomplete, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-via-Javascript-42244" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: code execution via Javascript</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-via-Javascript-42244)|An attacker can use a vulnerability of WebKitGTK  WPE WebKit, via Javascript, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Wildcards-Domains-42243" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: ingress filtrering bypass via Content Security Policy Wildcards Domains</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Wildcards-Domains-42243)|An attacker can bypass filtering rules of WebKitGTK  WPE WebKit, via Content Security Policy Wildcards Domains, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: use after free</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242)|An attacker can force the reuse of a freed memory area of WebKitGTK  WPE WebKit, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/flac-buffer-overflow-via-bitwriter-grow-42241" class="noirorange"><b>flac</b>: buffer overflow via bitwriter_grow_()</a>](https://vigilance.fr/vulnerability/flac-buffer-overflow-via-bitwriter-grow-42241)|An attacker can trigger a buffer overflow of flac, via bitwriter_grow_(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/XnView-vulnerability-42240" class="noirorange"><b>XnView</b>: vulnerability</a>](https://vigilance.fr/vulnerability/XnView-vulnerability-42240)|A vulnerability of XnView was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239" class="noirorange"><b>HCL Domino</b>: information disclosure via Server Host Name</a>](https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-via-Server-Host-Name-42239)|An attacker can bypass access restrictions to data of HCL Domino, via Server Host Name, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Integrator-directory-traversal-42238" class="noirorange"><b>IBM Security Directory Integrator</b>: directory traversal</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Integrator-directory-traversal-42238)|An attacker can traverse directories of IBM Security Directory Integrator, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xrdp-ingress-filtrering-bypass-via-PAM-Session-Restrictions-42237" class="noirorange"><b>xrdp</b>: ingress filtrering bypass via PAM Session Restrictions</a>](https://vigilance.fr/vulnerability/xrdp-ingress-filtrering-bypass-via-PAM-Session-Restrictions-42237)|An attacker can bypass filtering rules of xrdp, via PAM Session Restrictions, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-userhdrs-42236" class="noirorange"><b>Mutt</b>: NULL pointer dereference via userhdrs</a>](https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-userhdrs-42236)|An attacker can force a NULL pointer to be dereferenced on Mutt, via userhdrs, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-write-one-header-42235" class="noirorange"><b>Mutt</b>: NULL pointer dereference via write_one_header()</a>](https://vigilance.fr/vulnerability/Mutt-NULL-pointer-dereference-via-write-one-header-42235)|An attacker can force a NULL pointer to be dereferenced on Mutt, via write_one_header(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-NLRI-Zero-Attribute-Length-42234" class="noirorange"><b>FRRouting</b>: denial of service via NLRI Zero Attribute Length</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-NLRI-Zero-Attribute-Length-42234)|An attacker can cause a fatal error of FRRouting, via NLRI Zero Attribute Length, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-Update-Tunnel-Encapsulation-42233" class="noirorange"><b>FRRouting</b>: denial of service via BGP Update Tunnel Encapsulation</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-Update-Tunnel-Encapsulation-42233)|An attacker can cause a fatal error of FRRouting, via BGP Update Tunnel Encapsulation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Ends-Length-Option-42232" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Ends Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Ends-Length-Option-42232)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Ends Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42231" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Extended Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42231)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Extended Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42230" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Extended Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42230)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Extended Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-stretch-42227" class="noirorange"><b>LibRaw</b>: buffer overflow via stretch()</a>](https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-stretch-42227)|An attacker can trigger a buffer overflow of LibRaw, via stretch(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-memory-corruption-via-Windows-POLY1305-MAC-42225" class="noirorange"><b>OpenSSL</b>: memory corruption via Windows POLY1305 MAC</a>](https://vigilance.fr/vulnerability/OpenSSL-memory-corruption-via-Windows-POLY1305-MAC-42225)|An attacker can trigger a memory corruption of OpenSSL, via Windows POLY1305 MAC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -69,6 +76,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[43651109/23 - Vulnérabilités dans les produits QNAP](https://www.dgssi.gov.ma//fr/content/4365110923-vulnerabilites-dans-les-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plu-sieurs vulnérabilités affectant ses produits. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à...|11 septembre 2023|
  |[43640809/23 - Vulnérabilités « Zero-day »affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4364080923-vulnerabilites-zero-day-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deux vulnérabilités critiques affectant ses produitssusmentionnés. Ces vulnérabilités sont des « Zero-day »activement exploités et peuventpermettre à un attaquant distant d’exécuter du...|08 septembre 2023|
  |[43630709/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4363070923-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettreà un attaquant d’élever ses privilèges de contourner les mesures de...|07 septembre 2023|
  |[43620709/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4362070923-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|07 septembre 2023|
@@ -79,12 +87,4 @@
  |[43580509/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4358050923-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|05 septembre 2023|
  |[43570409/23 - Vulnérabilité affectant VMware Tools](https://www.dgssi.gov.ma//fr/content/4357040923-vulnerabilite-affectant-vmware-tools.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware Tools. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de contourner les mesures de sécurité.|04 septembre 2023|
  |[43560109/23 - Vulnérabilités critiques affectant plusieurs produits Splunk ](https://www.dgssi.gov.ma//fr/content/4356010923-vulnerabilites-critiques-affectant-plusieurs-produits-splunk.html)|Splunk annonce lacorrectionde plusieurs vulnérabilités critiques affectant ses produitssusmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, de contourner...|01 septembre 2023|
- |[43550109/23 - Vulnérabilité affectant des produits Cisco Unified Communications](https://www.dgssi.gov.ma//fr/content/4355010923-vulnerabilite-affectant-des-produits-cisco-unified-communications.html)|Cisco annonce la correction d’une vulnérabilité affectant certaines versions de ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettreà un attaquant d’élever ses privilèges.|01 septembre 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
