@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/09/2023 21:17:20 UTC
+ > Last Updated 13/09/2023 09:18:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,24 +51,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qfq-dequeue-42270" class="noirorange"><b>Linux kernel</b>: use after free via qfq_dequeue()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qfq-dequeue-42270)|An attacker can force the reuse of a freed memory area of the Linux kernel, via qfq_dequeue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-memory-leak-via-HTTP-Headers-42268" class="noirorange"><b>cURL</b>: memory leak via HTTP Headers</a>](https://vigilance.fr/vulnerability/cURL-memory-leak-via-HTTP-Headers-42268)|An attacker can create a memory leak of cURL, via HTTP Headers, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42267" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-42267)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/A10-ACOS-two-vulnerabilities-42266" class="noirorange"><b>A10 ACOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/A10-ACOS-two-vulnerabilities-42266)|An attacker can use several vulnerabilities of A10 ACOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/e2guardian-Man-in-the-Middle-via-Certificates-Hostnames-42265" class="noirorange"><b>e2guardian</b>: Man-in-the-Middle via Certificates Hostnames</a>](https://vigilance.fr/vulnerability/e2guardian-Man-in-the-Middle-via-Certificates-Hostnames-42265)|An attacker can act as a Man-in-the-Middle on e2guardian, via Certificates Hostnames, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Plaintext-User-Password-42264" class="noirorange"><b>Keycloak</b>: user access via Plaintext User Password</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Plaintext-User-Password-42264)|An attacker can bypass restrictions of Keycloak, via Plaintext User Password, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-September-2023-42263" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-September-2023-42263)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-42260" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-42260)|An attacker can bypass filtering rules of Microsoft Defender, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-September-2023-42259" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-September-2023-42259)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-September-2023-42258" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-September-2023-42258)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-buffer-overflow-42257" class="noirorange"><b>Adobe Acrobat/Reader</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-buffer-overflow-42257)|An attacker can trigger a buffer overflow of Adobe Acrobat/Reader, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-September-2023-42256" class="noirorange"><b>SAP</b>: multiple vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-September-2023-42256)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FileZilla-Server-vulnerability-42255" class="noirorange"><b>FileZilla Server</b>: vulnerability</a>](https://vigilance.fr/vulnerability/FileZilla-Server-vulnerability-42255)|A vulnerability of FileZilla Server was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-WinCC-buffer-overflow-via-CodeMeter-Runtime-42254" class="noirorange"><b>SIMATIC  WinCC</b>: buffer overflow via CodeMeter Runtime</a>](https://vigilance.fr/vulnerability/SIMATIC-WinCC-buffer-overflow-via-CodeMeter-Runtime-42254)|An attacker can trigger a buffer overflow of SIMATIC  WinCC, via CodeMeter Runtime, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -76,6 +69,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[43671309/23 - Le tremblement de terre au Maroc peut faire l’objet des campagnes de phishing et des c](https://www.dgssi.gov.ma//fr/content/4367130923-le-tremblement-de-terre-au-maroc-peut-faire-l-objet-des-campagnes-de-phishing-et-des-cyberattaques.html)|Après le tremblement de terre qui a tragiquement coûté la vie à des milliers de personnes au Maroc, alors qu'une course contre la montre est toujours en cours pour porter secours aux personnes affectées par le tremblement de terre,...|13 septembre 2023|
  |[43661209/23 - Zero-day corrigée dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4366120923-zero-day-corrigee-dans-google-chrome.html)|Google a corrigé une vulnérabilité critique dans son navigateur Google Chrome de type Zero-day, ayant comme référence « CVE-2023-4863». L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire et de...|12 septembre 2023|
  |[43651109/23 - Vulnérabilités dans les produits QNAP](https://www.dgssi.gov.ma//fr/content/4365110923-vulnerabilites-dans-les-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correction de plu-sieurs vulnérabilités affectant ses produits. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à...|11 septembre 2023|
  |[43640809/23 - Vulnérabilités « Zero-day »affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4364080923-vulnerabilites-zero-day-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deux vulnérabilités critiques affectant ses produitssusmentionnés. Ces vulnérabilités sont des « Zero-day »activement exploités et peuventpermettre à un attaquant distant d’exécuter du...|08 septembre 2023|
@@ -86,5 +80,11 @@
  |[43600609/23 - Vulnérabilités critiques affectant des produits Apache ](https://www.dgssi.gov.ma//fr/content/4360060923-vulnerabilites-critiques-affectant-des-produits-apache.html)|Apache annonce la correction de deux vulnérabilités critiques affectantses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire ou d’accéder à des données...|06 septembre 2023|
  |[43590509/23 - Campagne Ransomeware ciblant les serveurs MSSQL](https://www.dgssi.gov.ma//fr/content/4359050923-campagne-ransomeware-ciblant-les-serveurs-mssql.html)|Des chercheurs en sécurité informatique annoncent l’indentification d’une campagne malicieuse par Ransomware ciblant les entités disposant de serveursMicrosoft SQL.|05 septembre 2023|
  |[43580509/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4358050923-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|05 septembre 2023|
- |[43570409/23 - Vulnérabilité affectant VMware Tools](https://www.dgssi.gov.ma//fr/content/4357040923-vulnerabilite-affectant-vmware-tools.html)|VMware annonce la correction d’une vulnérabilité affectant son produit VMware Tools. L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de contourner les mesures de sécurité.|04 septembre 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
