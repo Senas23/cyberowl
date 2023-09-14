@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/09/2023 21:13:54 UTC
+ > Last Updated 14/09/2023 09:18:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,6 +23,13 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -40,21 +47,7 @@
  
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -65,15 +58,22 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-read-write-access-via-API-42289" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: read-write access via API</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-read-write-access-via-API-42289)|An attacker can bypass access restrictions of FortiAnalyzer  FortiManager, via API, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-information-disclosure-via-REST-API-Configuration-Files-Authentication-42288" class="noirorange"><b>Skyhigh Secure Web Gateway</b>: information disclosure via REST API Configuration Files Authentication</a>](https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-information-disclosure-via-REST-API-Configuration-Files-Authentication-42288)|An attacker can bypass access restrictions to data of Skyhigh Secure Web Gateway, via REST API Configuration Files Authentication, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libarchive-four-vulnerabilities-via-PAX-Writer-42287" class="noirorange"><b>Libarchive</b>: four vulnerabilities via PAX Writer</a>](https://vigilance.fr/vulnerability/Libarchive-four-vulnerabilities-via-PAX-Writer-42287)|An attacker can use several vulnerabilities of Libarchive, via PAX Writer...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-clj-media-size-42284" class="noirorange"><b>GhostScript</b>: buffer overflow via clj_media_size()</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-clj-media-size-42284)|An attacker can trigger a buffer overflow of GhostScript, via clj_media_size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GhostScript-denial-of-service-via-eps-print-page-42283" class="noirorange"><b>GhostScript</b>: denial of service via eps_print_page()</a>](https://vigilance.fr/vulnerability/GhostScript-denial-of-service-via-eps-print-page-42283)|An attacker can cause a fatal error of GhostScript, via eps_print_page(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-20-09-2023-42281" class="noirorange"><b>ISC BIND</b>: vulnerabity unveiled on 20/09/2023</a>](https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-20-09-2023-42281)|A vulnerability of ISC BIND will be unveiled on 20/09/2023...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Mail-Login-user-access-via-Brute-Force-42280" class="noirorange"><b>Drupal Mail Login</b>: user access via Brute Force</a>](https://vigilance.fr/vulnerability/Drupal-Mail-Login-user-access-via-Brute-Force-42280)|An attacker can bypass restrictions of Drupal Mail Login, via Brute Force, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-Image-Verification-42278" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via Image Verification</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-Image-Verification-42278)|An attacker can bypass restrictions of Cisco IOS XR, via Image Verification, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-iPXE-Boot-Signature-Bypass-42277" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via iPXE Boot Signature Bypass</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-iPXE-Boot-Signature-Bypass-42277)|An attacker can bypass restrictions of Cisco IOS XR, via iPXE Boot Signature Bypass, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Connectivity-Fault-Management-42276" class="noirorange"><b>Cisco IOS XR</b>: denial of service via Connectivity Fault Management</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Connectivity-Fault-Management-42276)|An attacker can cause a fatal error of Cisco IOS XR, via Connectivity Fault Management, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-MPLS-Interfaces-42275" class="noirorange"><b>Cisco IOS XR</b>: ingress filtrering bypass via MPLS Interfaces</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-MPLS-Interfaces-42275)|An attacker can bypass filtering rules of Cisco IOS XR, via MPLS Interfaces, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-Software-Compression-42274" class="noirorange"><b>Cisco IOS XR</b>: ingress filtrering bypass via Software Compression</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-Software-Compression-42274)|An attacker can bypass filtering rules of Cisco IOS XR, via Software Compression, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-HTML-Sanitizer-four-vulnerabilities-42273" class="noirorange"><b>Rails HTML Sanitizer</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Rails-HTML-Sanitizer-four-vulnerabilities-42273)|An attacker can use several vulnerabilities of Rails HTML Sanitizer...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-denial-of-service-via-Denied-File-Upload-Disk-Usage-42272" class="noirorange"><b>Apache Struts</b>: denial of service via Denied File Upload Disk Usage</a>](https://vigilance.fr/vulnerability/Apache-Struts-denial-of-service-via-Denied-File-Upload-Disk-Usage-42272)|An attacker can cause a fatal error of Apache Struts, via Denied File Upload Disk Usage, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Guest-Management-Page-42271" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via Guest Management Page</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Guest-Management-Page-42271)|An attacker can trigger a Cross Site Scripting of FortiOS, via Guest Management Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qfq-dequeue-42270" class="noirorange"><b>Linux kernel</b>: use after free via qfq_dequeue()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-qfq-dequeue-42270)|An attacker can force the reuse of a freed memory area of the Linux kernel, via qfq_dequeue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
