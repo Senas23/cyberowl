@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/09/2023 21:15:27 UTC
+ > Last Updated 17/09/2023 09:17:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,6 +54,13 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -69,11 +76,4 @@
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-code-execution-via-CGI-Servlet-Command-Quoting-42296" class="noirorange"><b>Eclipse Jetty</b>: code execution via CGI Servlet Command Quoting</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-code-execution-via-CGI-Servlet-Command-Quoting-42296)|An attacker can use a vulnerability of Eclipse Jetty, via CGI Servlet Command Quoting, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-header-injection-via-Content-Length-Plus-42295" class="noirorange"><b>Eclipse Jetty</b>: header injection via Content-Length Plus</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-header-injection-via-Content-Length-Plus-42295)|An attacker can add new headers on Eclipse Jetty, via Content-Length Plus, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmw-execbuf-tie-context-42294" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>vmw_execbuf_tie_cont<wbr>ext()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-vmw-execbuf-tie-context-42294)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
