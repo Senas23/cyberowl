@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/09/2023 09:20:44 UTC
+ > Last Updated 18/09/2023 21:16:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,17 +54,11 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GCC-buffer-overflow-via-ARM64-Stack-Protector-Dynamic-Stack-Allocations-Bypass-42314" class="noirorange"><b>GCC</b>: buffer overflow via ARM64 Stack Protector Dynamic Stack Allocations Bypass</a>](https://vigilance.fr/vulnerability/GCC-buffer-overflow-via-ARM64-Stack-Protector-Dynamic-Stack-Allocations-Bypass-42314)|An attacker can trigger a buffer overflow of GCC, via ARM64 Stack Protector Dynamic Stack Allocations Bypass, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-denial-of-service-via-Disable-Outbound-Federation-42313" class="noirorange"><b>Matrix Synapse</b>: denial of service via Disable Outbound Federation</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-denial-of-service-via-Disable-Outbound-Federation-42313)|An attacker can cause a fatal error of Matrix Synapse, via Disable Outbound Federation, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Matrix-Synapse-denial-of-service-via-Same-Room-Rejected-Events-42312" class="noirorange"><b>Matrix Synapse</b>: denial of service via Same Room Rejected Events</a>](https://vigilance.fr/vulnerability/Matrix-Synapse-denial-of-service-via-Same-Room-Rejected-Events-42312)|An attacker can cause a fatal error of Matrix Synapse, via Same Room Rejected Events, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libjpeg-turbo-out-of-bounds-memory-reading-via-decompress-smooth-data-42311" class="noirorange"><b>libjpeg-turbo</b>: out-of-bounds memory reading via <wbr>decompress_smooth_da<wbr>ta()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libjpeg-turbo-out-of-bounds-memory-reading-via-decompress-smooth-data-42311)|An attacker can force a read at an invalid memory address of libjpeg-turbo, via |Visit link for details|
@@ -75,5 +69,11 @@
  |[<a href="https://vigilance.fr/vulnerability/Vtiger-CRM-SQL-injection-via-getQueryColumnsList-42306" class="noirorange"><b>Vtiger CRM</b>: SQL injection via <wbr>getQueryColumnsList(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vtiger-CRM-SQL-injection-via-getQueryColumnsList-42306)|An attacker can use a SQL injection of Vtiger CRM, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-ares-parse-soa-reply-42305" class="noirorange"><b>c-ares</b>: buffer overflow via <wbr>ares_parse_soa_reply<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-ares-parse-soa-reply-42305)|An attacker can trigger a buffer overflow of c-ares, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OAuth-OpenID-Connect-42299" class="noirorange"><b>Apereo CAS Server</b>: user access via OAuth/OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OAuth-OpenID-Connect-42299)|An attacker can bypass restrictions of Apereo CAS Server, via OAuth/OpenID Connect, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/borgbackup-denial-of-service-via-Fake-Archives-42298" class="noirorange"><b>borgbackup</b>: denial of service via Fake Archives</a>](https://vigilance.fr/vulnerability/borgbackup-denial-of-service-via-Fake-Archives-42298)|An attacker can cause a fatal error of borgbackup, via Fake Archives, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
