@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/09/2023 09:19:13 UTC
+ > Last Updated 21/09/2023 21:15:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0769/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
+ |[Vulnérabilité dans les produits Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0768/)|Une vulnérabilité a été découverte dans |Publié le 21 septembre 2023|
+ |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0767/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 septembre 2023|
  |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0766/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
  |[Vulnérabilité dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0765/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
  |[Vulnérabilité dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0764/)|Une vulnérabilité a été découverte dans |Publié le 20 septembre 2023|
@@ -41,9 +44,6 @@
  |[Multiples vulnérabilités dans les produits ElasticSearch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0762/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 septembre 2023|
  |[Vulnérabilité dans GitLab CE et Gitlab EE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0761/)|Une vulnérabilité a été découverte dans |Publié le 19 septembre 2023|
  |[Multiples vulnérabilités dans NetApp HCI Baseboard Management Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0760/)|De multiples vulnérabilités ont été découvertes dans|Publié le 19 septembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges.|Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0758/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 septembre 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Copy Data Management](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0757/)|De multiples vulnérabilités ont été découvertes dans|Publié le 18 septembre 2023|
  
  ---
 
@@ -58,6 +58,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-three-vulnerabilities-42364" class="noirorange"><b>Apple iOS  macOS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-three-vulnerabilities-42364)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cargo-Cross-Site-Scripting-via-Feature-Names-42363" class="noirorange"><b>Cargo</b>: Cross Site Scripting via Feature Names</a>](https://vigilance.fr/vulnerability/Cargo-Cross-Site-Scripting-via-Feature-Names-42363)|An attacker can trigger a Cross Site Scripting of Cargo, via Feature Names, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-SVG-Images-42362" class="noirorange"><b>Zope</b>: Cross Site Scripting via SVG Images</a>](https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-SVG-Images-42362)|An attacker can trigger a Cross Site Scripting of Zope, via SVG Images, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-memory-leak-via-DXE-Driver-42361" class="noirorange"><b>AMD Processors</b>: memory leak via DXE Driver</a>](https://vigilance.fr/vulnerability/AMD-Processors-memory-leak-via-DXE-Driver-42361)|An attacker can create a memory leak of AMD Processors, via DXE Driver, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Open-Virtual-Network-OVN-overload-via-Service-Monitor-MAC-Flow-42360" class="noirorange"><b>Open Virtual Network OVN</b>: overload via Service Monitor MAC Flow</a>](https://vigilance.fr/vulnerability/Open-Virtual-Network-OVN-overload-via-Service-Monitor-MAC-Flow-42360)|An attacker can trigger an overload of Open Virtual Network OVN, via Service Monitor MAC Flow, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Npppd-L2tp-Message-AVP-Length-42359" class="noirorange"><b>OpenBSD</b>: denial of service via Npppd L2tp Message AVP Length</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Npppd-L2tp-Message-AVP-Length-42359)|An attacker can cause a fatal error of OpenBSD, via Npppd L2tp Message AVP Length, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358" class="noirorange"><b>Drupal Core</b>: user access via Cache Poisoning</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358)|An attacker can bypass restrictions of Drupal Core, via Cache Poisoning, in order to gain user privileges...|Visit link for details|
@@ -65,10 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-via-2-4-2-42356" class="noirorange"><b>Jenkins Core LTS</b>: multiple vulnerabilities via 2.4.2</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-via-2-4-2-42356)|An attacker can use several vulnerabilities of Jenkins Core LTS, via 2.4.2...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-Shadow-Paging-Mode-42352" class="noirorange"><b>Xen</b>: privilege escalation via Shadow Paging Mode</a>](https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-Shadow-Paging-Mode-42352)|An attacker, in a guest system, can bypass restrictions of Xen, via Shadow Paging Mode, in order to escalate his privileges on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-SSD-Tools-two-vulnerabilities-42351" class="noirorange"><b>Intel SSD Tools</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-SSD-Tools-two-vulnerabilities-42351)|An attacker can use several vulnerabilities of Intel SSD Tools...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aaugustin-Websockets-overload-via-Highly-Compressed-Data-42350" class="noirorange"><b>Aaugustin Websockets</b>: overload via Highly Compressed Data</a>](https://vigilance.fr/vulnerability/Aaugustin-Websockets-overload-via-Highly-Compressed-Data-42350)|An attacker can trigger an overload of Aaugustin Websockets, via Highly Compressed Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-denial-of-service-via-concat-filename-42349" class="noirorange"><b>GNU Binutils</b>: denial of service via concat_filename()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-denial-of-service-via-concat-filename-42349)|An attacker can cause a fatal error of GNU Binutils, via concat_filename(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-find-abstract-instance-42348" class="noirorange"><b>GNU Binutils</b>: memory leak via <wbr>find_abstract_instan<wbr>ce()</wbr></wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-find-abstract-instance-42348)|An attacker can create a memory leak of GNU Binutils, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-bfd-dwarf2-find-nearest-line-with-alt-42347" class="noirorange"><b>GNU Binutils</b>: overload via <wbr>bfd_dwarf2_find_near<wbr>est_line_with_alt()</wbr></wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-bfd-dwarf2-find-nearest-line-with-alt-42347)|An attacker can trigger an overload of GNU Binutils, via |Visit link for details|
  
  ---
 
