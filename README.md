@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/09/2023 21:16:18 UTC
+ > Last Updated 21/09/2023 09:19:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Open-Virtual-Network-OVN-overload-via-Service-Monitor-MAC-Flow-42360" class="noirorange"><b>Open Virtual Network OVN</b>: overload via Service Monitor MAC Flow</a>](https://vigilance.fr/vulnerability/Open-Virtual-Network-OVN-overload-via-Service-Monitor-MAC-Flow-42360)|An attacker can trigger an overload of Open Virtual Network OVN, via Service Monitor MAC Flow, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Npppd-L2tp-Message-AVP-Length-42359" class="noirorange"><b>OpenBSD</b>: denial of service via Npppd L2tp Message AVP Length</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Npppd-L2tp-Message-AVP-Length-42359)|An attacker can cause a fatal error of OpenBSD, via Npppd L2tp Message AVP Length, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358" class="noirorange"><b>Drupal Core</b>: user access via Cache Poisoning</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358)|An attacker can bypass restrictions of Drupal Core, via Cache Poisoning, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Build-Failure-Analyzer-four-vulnerabilities-42357" class="noirorange"><b>Jenkins Build Failure Analyzer</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Build-Failure-Analyzer-four-vulnerabilities-42357)|An attacker can use several vulnerabilities of Jenkins Build Failure Analyzer...|Visit link for details|
@@ -68,7 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-denial-of-service-via-concat-filename-42349" class="noirorange"><b>GNU Binutils</b>: denial of service via concat_filename()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-denial-of-service-via-concat-filename-42349)|An attacker can cause a fatal error of GNU Binutils, via concat_filename(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-find-abstract-instance-42348" class="noirorange"><b>GNU Binutils</b>: memory leak via <wbr>find_abstract_instan<wbr>ce()</wbr></wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-find-abstract-instance-42348)|An attacker can create a memory leak of GNU Binutils, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-bfd-dwarf2-find-nearest-line-with-alt-42347" class="noirorange"><b>GNU Binutils</b>: overload via <wbr>bfd_dwarf2_find_near<wbr>est_line_with_alt()</wbr></wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-bfd-dwarf2-find-nearest-line-with-alt-42347)|An attacker can trigger an overload of GNU Binutils, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-load-separate-debug-files-42346" class="noirorange"><b>GNU Binutils</b>: overload via <wbr>load_separate_debug_<wbr>files()</wbr></wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-overload-via-load-separate-debug-files-42346)|An attacker can trigger an overload of GNU Binutils, via |Visit link for details|
  
  ---
 
