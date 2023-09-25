@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/09/2023 21:14:58 UTC
+ > Last Updated 25/09/2023 09:20:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -21,6 +21,13 @@
  |[VulDB](#vuldb-arrow_heading_up)|Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.|
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
+ ---
+
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
  ---
 
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
@@ -51,6 +58,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377" class="noirorange"><b>Intel PROSet/Wireless WiFi</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376" class="noirorange"><b>Linux kernel</b>: integer overflow via <wbr>ip_set_hash_netportn<wbr>et</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375" class="noirorange"><b>GraphicsMagick</b>: buffer overflow via WritePCXImage()</a>](https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375)|An attacker can trigger a buffer overflow of GraphicsMagick, via WritePCXImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-Connectors-information-disclosure-via-mod-jk-ForwardDirectories-42374" class="noirorange"><b>Apache Tomcat Connectors</b>: information disclosure via mod_jk ForwardDirectories</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-Connectors-information-disclosure-via-mod-jk-ForwardDirectories-42374)|An attacker can bypass access restrictions to data of Apache Tomcat Connectors, via mod_jk ForwardDirectories, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373" class="noirorange"><b>lldpd</b>: out-of-bounds memory reading via CDP_TLV_ADDRESSES</a>](https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373)|An attacker can force a read at an invalid memory address of lldpd, via CDP_TLV_ADDRESSES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-ID3-Support-ID3v2Frame-getFrameValue-42372" class="noirorange"><b>exempi</b>: buffer overflow via <wbr>ID3_Support::ID3v2Fr<wbr>ame::getFrameValue()</wbr></wbr></a>](https://vigilance.fr/vulnerability/exempi-buffer-overflow-via-ID3-Support-ID3v2Frame-getFrameValue-42372)|An attacker can trigger a buffer overflow of exempi, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-overload-via-HTTP-Requests-42371" class="noirorange"><b>Elasticsearch</b>: overload via HTTP Requests</a>](https://vigilance.fr/vulnerability/Elasticsearch-overload-via-HTTP-Requests-42371)|An attacker can trigger an overload of Elasticsearch, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
@@ -58,21 +69,10 @@
  |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-rcube-string-replacer-php-42369" class="noirorange"><b>Roundcube</b>: Cross Site Scripting via <wbr>rcube_string_replace<wbr>r.php</wbr></wbr></a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-rcube-string-replacer-php-42369)|An attacker can trigger a Cross Site Scripting of Roundcube, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-reading-42368" class="noirorange"><b>Ivanti Endpoint Manager</b>: file reading</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-reading-42368)|An attacker can read a file of Ivanti Endpoint Manager, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-external-XML-entity-injection-42367" class="noirorange"><b>Ivanti Endpoint Manager</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-external-XML-entity-injection-42367)|An attacker can transmit malicious XML data to Ivanti Endpoint Manager, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-three-vulnerabilities-42364" class="noirorange"><b>Apple iOS  macOS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-three-vulnerabilities-42364)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cargo-Cross-Site-Scripting-via-Feature-Names-42363" class="noirorange"><b>Cargo</b>: Cross Site Scripting via Feature Names</a>](https://vigilance.fr/vulnerability/Cargo-Cross-Site-Scripting-via-Feature-Names-42363)|An attacker can trigger a Cross Site Scripting of Cargo, via Feature Names, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-SVG-Images-42362" class="noirorange"><b>Zope</b>: Cross Site Scripting via SVG Images</a>](https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-SVG-Images-42362)|An attacker can trigger a Cross Site Scripting of Zope, via SVG Images, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-memory-leak-via-DXE-Driver-42361" class="noirorange"><b>AMD Processors</b>: memory leak via DXE Driver</a>](https://vigilance.fr/vulnerability/AMD-Processors-memory-leak-via-DXE-Driver-42361)|An attacker can create a memory leak of AMD Processors, via DXE Driver, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
