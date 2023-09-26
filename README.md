@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/09/2023 09:19:48 UTC
+ > Last Updated 26/09/2023 21:17:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-multiple-vulnerabilities-42388" class="noirorange"><b>Apple macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-macOS-multiple-vulnerabilities-42388)|An attacker can use several vulnerabilities of Apple macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-semver-overload-via-New-Range-Regular-Expression-42387" class="noirorange"><b>Node.js semver</b>: overload via New Range Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-semver-overload-via-New-Range-Regular-Expression-42387)|An attacker can trigger an overload of Node.js semver, via New Range Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-vringh-kiov-advance-42385" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>vringh_kiov_advance(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-vringh-kiov-advance-42385)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Rsvp-Traffic-Classifier-42384" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Rsvp Traffic Classifier</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Rsvp-Traffic-Classifier-42384)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Rsvp Traffic Classifier, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cadence-file-corruption-42383" class="noirorange"><b>Cadence</b>: file corruption</a>](https://vigilance.fr/vulnerability/Cadence-file-corruption-42383)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Cadence...|Visit link for details|
@@ -66,9 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380" class="noirorange"><b>ModSecurity</b>: denial of service via Transaction Class</a>](https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380)|An attacker can cause a fatal error of ModSecurity, via Transaction Class, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379" class="noirorange"><b>Trellix Endpoint Security</b>: privilege escalation via AMSI Component Environment Variables</a>](https://vigilance.fr/vulnerability/Trellix-Endpoint-Security-privilege-escalation-via-AMSI-Component-Environment-Variables-42379)|An attacker can bypass restrictions of Trellix Endpoint Security, via AMSI Component Environment Variables, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378" class="noirorange"><b>Wind River VxWorks</b>: directory escape via tarExtract</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-directory-escape-via-tarExtract-42378)|An attacker can escape from the working directory of Wind River VxWorks, via tarExtract, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377" class="noirorange"><b>Intel PROSet/Wireless WiFi</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-multiple-vulnerabilities-42377)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376" class="noirorange"><b>Linux kernel</b>: integer overflow via <wbr>ip_set_hash_netportn<wbr>et</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ip-set-hash-netportnet-42376)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375" class="noirorange"><b>GraphicsMagick</b>: buffer overflow via WritePCXImage()</a>](https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-WritePCXImage-42375)|An attacker can trigger a buffer overflow of GraphicsMagick, via WritePCXImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
