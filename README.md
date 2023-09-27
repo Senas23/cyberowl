@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/09/2023 09:19:05 UTC
+ > Last Updated 27/09/2023 21:16:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-APM-information-disclosure-via-Client-DNS-Device-42396" class="noirorange"><b>F5 BIG-IP APM</b>: information disclosure via Client DNS Device</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-APM-information-disclosure-via-Client-DNS-Device-42396)|An attacker can bypass access restrictions to data of F5 BIG-IP APM, via Client DNS Device, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-APM-information-disclosure-via-Client-Adjacent-Network-Device-42395" class="noirorange"><b>F5 BIG-IP APM</b>: information disclosure via Client Adjacent Network Device</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-APM-information-disclosure-via-Client-Adjacent-Network-Device-42395)|An attacker can bypass access restrictions to data of F5 BIG-IP APM, via Client Adjacent Network Device, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Puma-header-injection-via-Chunked-Transfer-Encoding-42394" class="noirorange"><b>Puma</b>: header injection via Chunked Transfer Encoding</a>](https://vigilance.fr/vulnerability/Puma-header-injection-via-Chunked-Transfer-Encoding-42394)|An attacker can add new headers on Puma, via Chunked Transfer Encoding, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-flush-table-42393" class="noirorange"><b>Linux kernel</b>: use after free via nft_flush_table()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-flush-table-42393)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nft_flush_table(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-Transport-Endpoint-42392" class="noirorange"><b>MariaDB</b>: denial of service via Transport Endpoint</a>](https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-Transport-Endpoint-42392)|An attacker can cause a fatal error of MariaDB, via Transport Endpoint, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Client-42391" class="noirorange"><b>Dell NetWorker</b>: privilege escalation via Client</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Client-42391)|An attacker can bypass restrictions of Dell NetWorker, via Client, in order to escalate his privileges...|Visit link for details|
@@ -66,9 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-semver-overload-via-New-Range-Regular-Expression-42387" class="noirorange"><b>Node.js semver</b>: overload via New Range Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-semver-overload-via-New-Range-Regular-Expression-42387)|An attacker can trigger an overload of Node.js semver, via New Range Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-vringh-kiov-advance-42385" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>vringh_kiov_advance(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-vringh-kiov-advance-42385)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Rsvp-Traffic-Classifier-42384" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Rsvp Traffic Classifier</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Rsvp-Traffic-Classifier-42384)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Rsvp Traffic Classifier, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cadence-file-corruption-42383" class="noirorange"><b>Cadence</b>: file corruption</a>](https://vigilance.fr/vulnerability/Cadence-file-corruption-42383)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Cadence...|Visit link for details|
  
  ---
 
