@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/09/2023 09:20:42 UTC
+ > Last Updated 28/09/2023 21:15:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,26 +54,26 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409" class="noirorange"><b>Cisco IOS XE</b>: code execution via Web UI Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409)|An attacker can use a vulnerability of Cisco IOS XE, via Web UI Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408" class="noirorange"><b>Cisco IOS XE for ASR</b>: denial of service via IPv6 Multicast</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408)|An attacker can cause a fatal error of Cisco IOS XE for ASR, via IPv6 Multicast, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Layer-2-Tunneling-Protocol-42407" class="noirorange"><b>Cisco IOS XE</b>: denial of service via Layer 2 Tunneling Protocol</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Layer-2-Tunneling-Protocol-42407)|An attacker can cause a fatal error of Cisco IOS XE, via Layer 2 Tunneling Protocol, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-CSCwe60256-42406" class="noirorange"><b>Cisco IOS XE</b>: denial of service via CSCwe60256</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-CSCwe60256-42406)|An attacker can cause a fatal error of Cisco IOS XE, via CSCwe60256, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Application-Quality-of-Experience-42405" class="noirorange"><b>Cisco IOS XE</b>: denial of service via Application Quality of Experience</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Application-Quality-of-Experience-42405)|An attacker can cause a fatal error of Cisco IOS XE, via Application Quality of Experience, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-privilege-escalation-via-Command-Authorization-42404" class="noirorange"><b>Cisco IOS  IOS XE</b>: privilege escalation via Command Authorization</a>](https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-privilege-escalation-via-Command-Authorization-42404)|An attacker can bypass restrictions of Cisco IOS  IOS XE, via Command Authorization, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-wncd-42403" class="noirorange"><b>Cisco IOS XE</b>: denial of service via wncd</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-wncd-42403)|An attacker can cause a fatal error of Cisco IOS XE, via wncd, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-buffer-overflow-via-Group-Encrypted-Transport-VPN-42401" class="noirorange"><b>Cisco IOS  IOS XE</b>: buffer overflow via Group Encrypted Transport VPN</a>](https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-buffer-overflow-via-Group-Encrypted-Transport-VPN-42401)|An attacker can trigger a buffer overflow of Cisco IOS  IOS XE, via Group Encrypted Transport VPN, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Catalyst-9100-Access-Points-overload-via-High-Rate-Traffic-42400" class="noirorange"><b>Cisco Catalyst 9100 Access Points</b>: overload via High Rate Traffic</a>](https://vigilance.fr/vulnerability/Cisco-Catalyst-9100-Access-Points-overload-via-High-Rate-Traffic-42400)|An attacker can trigger an overload of Cisco Catalyst 9100 Access Points, via High Rate Traffic, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Wireless-LAN-Controller-AireOS-memory-leak-via-Multiple-Clients-Connecting-42399" class="noirorange"><b>Cisco Wireless LAN Controller AireOS</b>: memory leak via Multiple Clients Connecting</a>](https://vigilance.fr/vulnerability/Cisco-Wireless-LAN-Controller-AireOS-memory-leak-via-Multiple-Clients-Connecting-42399)|An attacker can create a memory leak of Cisco Wireless LAN Controller AireOS, via Multiple Clients Connecting, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exim-six-vulnerabilities-42398" class="noirorange"><b>Exim</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Exim-six-vulnerabilities-42398)|An attacker can use several vulnerabilities of Exim...|Visit link for details|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42419" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42419)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenPMIx-PMIx-file-read-write-via-Library-Code-UID-0-42418" class="noirorange"><b>OpenPMIx PMIx</b>: file read/write via Library Code UID 0</a>](https://vigilance.fr/vulnerability/OpenPMIx-PMIx-file-read-write-via-Library-Code-UID-0-42418)|An attacker can bypass access restrictions of OpenPMIx PMIx, via Library Code UID 0, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libvpx-Chrome-Firefox-memory-corruption-via-Thread-Count-Change-42417" class="noirorange"><b>libvpx  Chrome  Firefox</b>: memory corruption via Thread Count Change</a>](https://vigilance.fr/vulnerability/libvpx-Chrome-Firefox-memory-corruption-via-Thread-Count-Change-42417)|An attacker can trigger a memory corruption of libvpx  Chrome  Firefox, via Thread Count Change, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ncurses-buffer-overflow-via-postprocess-terminfo-42416" class="noirorange"><b>ncurses</b>: buffer overflow via <wbr>postprocess_terminfo<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/ncurses-buffer-overflow-via-postprocess-terminfo-42416)|An attacker can trigger a buffer overflow of ncurses, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42415" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42415)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-vm-memory-memory-corruption-via-VolatileMemory-42414" class="noirorange"><b>Rust vm-memory</b>: memory corruption via VolatileMemory</a>](https://vigilance.fr/vulnerability/Rust-vm-memory-memory-corruption-via-VolatileMemory-42414)|An attacker can trigger a memory corruption of Rust vm-memory, via VolatileMemory, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Content-Moderation-Notifications-information-disclosure-42413" class="noirorange"><b>Drupal Content Moderation Notifications</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Content-Moderation-Notifications-information-disclosure-42413)|An attacker can bypass access restrictions to data of Drupal Content Moderation Notifications, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Cache-information-disclosure-via-Wildcard-Characters-42412" class="noirorange"><b>Drupal Entity Cache</b>: information disclosure via Wildcard Characters</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Cache-information-disclosure-via-Wildcard-Characters-42412)|An attacker can bypass access restrictions to data of Drupal Entity Cache, via Wildcard Characters, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-IPSET-CMD-ADD-IPSET-CMD-SWAP-42411" class="noirorange"><b>Linux kernel</b>: assertion error via IPSET_CMD_ADD / IPSET_CMD_SWAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-IPSET-CMD-ADD-IPSET-CMD-SWAP-42411)|An attacker can force an assertion error of the Linux kernel, via IPSET_CMD_ADD / IPSET_CMD_SWAP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409" class="noirorange"><b>Cisco IOS XE</b>: code execution via Web UI Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409)|An attacker can use a vulnerability of Cisco IOS XE, via Web UI Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408" class="noirorange"><b>Cisco IOS XE for ASR</b>: denial of service via IPv6 Multicast</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408)|An attacker can cause a fatal error of Cisco IOS XE for ASR, via IPv6 Multicast, in order to trigger a denial of service...|Visit link for details|
  
