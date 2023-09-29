@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/09/2023 09:18:23 UTC
+ > Last Updated 29/09/2023 21:16:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-vim-regsub-both-42420" class="noirorange"><b>Vim</b>: buffer overflow via vim_regsub_both()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-vim-regsub-both-42420)|An attacker can trigger a buffer overflow of Vim, via vim_regsub_both(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42419" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42419)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenPMIx-PMIx-file-read-write-via-Library-Code-UID-0-42418" class="noirorange"><b>OpenPMIx PMIx</b>: file read/write via Library Code UID 0</a>](https://vigilance.fr/vulnerability/OpenPMIx-PMIx-file-read-write-via-Library-Code-UID-0-42418)|An attacker can bypass access restrictions of OpenPMIx PMIx, via Library Code UID 0, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libvpx-Chrome-Firefox-memory-corruption-via-Thread-Count-Change-42417" class="noirorange"><b>libvpx  Chrome  Firefox</b>: memory corruption via Thread Count Change</a>](https://vigilance.fr/vulnerability/libvpx-Chrome-Firefox-memory-corruption-via-Thread-Count-Change-42417)|An attacker can trigger a memory corruption of libvpx  Chrome  Firefox, via Thread Count Change, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -68,7 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Cache-information-disclosure-via-Wildcard-Characters-42412" class="noirorange"><b>Drupal Entity Cache</b>: information disclosure via Wildcard Characters</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Cache-information-disclosure-via-Wildcard-Characters-42412)|An attacker can bypass access restrictions to data of Drupal Entity Cache, via Wildcard Characters, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-IPSET-CMD-ADD-IPSET-CMD-SWAP-42411" class="noirorange"><b>Linux kernel</b>: assertion error via IPSET_CMD_ADD / IPSET_CMD_SWAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-IPSET-CMD-ADD-IPSET-CMD-SWAP-42411)|An attacker can force an assertion error of the Linux kernel, via IPSET_CMD_ADD / IPSET_CMD_SWAP, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409" class="noirorange"><b>Cisco IOS XE</b>: code execution via Web UI Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409)|An attacker can use a vulnerability of Cisco IOS XE, via Web UI Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408" class="noirorange"><b>Cisco IOS XE for ASR</b>: denial of service via IPv6 Multicast</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408)|An attacker can cause a fatal error of Cisco IOS XE for ASR, via IPv6 Multicast, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
