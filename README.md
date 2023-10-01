@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/10/2023 09:15:52 UTC
+ > Last Updated 01/10/2023 21:16:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,13 +54,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -76,4 +69,11 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Cache-information-disclosure-via-Wildcard-Characters-42412" class="noirorange"><b>Drupal Entity Cache</b>: information disclosure via Wildcard Characters</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Cache-information-disclosure-via-Wildcard-Characters-42412)|An attacker can bypass access restrictions to data of Drupal Entity Cache, via Wildcard Characters, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-IPSET-CMD-ADD-IPSET-CMD-SWAP-42411" class="noirorange"><b>Linux kernel</b>: assertion error via IPSET_CMD_ADD / IPSET_CMD_SWAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-IPSET-CMD-ADD-IPSET-CMD-SWAP-42411)|An attacker can force an assertion error of the Linux kernel, via IPSET_CMD_ADD / IPSET_CMD_SWAP, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409" class="noirorange"><b>Cisco IOS XE</b>: code execution via Web UI Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-Web-UI-Command-Injection-42409)|An attacker can use a vulnerability of Cisco IOS XE, via Web UI Command Injection, in order to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
