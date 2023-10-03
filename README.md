@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/10/2023 09:18:12 UTC
+ > Last Updated 03/10/2023 21:17:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0799/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 3 octobre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0798/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 octobre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0797/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 octobre 2023|
  |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0796/)|Une vulnérabilité a été découverte dans |Publié le 2 octobre 2023|
  |[Vulnérabilité dans Cisco IOS et IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0795/)|Une vulnérabilité a été découverte dans Cisco IOS et IOS XE. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
@@ -42,8 +44,6 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2023|
  
  ---
 
@@ -54,26 +54,26 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Integrated-Application-Server-42451" class="noirorange"><b>IBM i</b>: privilege escalation via Integrated Application Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Integrated-Application-Server-42451)|An attacker can bypass restrictions of IBM i, via Integrated Application Server, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-use-after-free-via-getaddrinfo-42450" class="noirorange"><b>glibc</b>: use after free via getaddrinfo()</a>](https://vigilance.fr/vulnerability/glibc-use-after-free-via-getaddrinfo-42450)|An attacker can force the reuse of a freed memory area of glibc, via getaddrinfo(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-out-of-bounds-memory-reading-via-AF-UNSPEC-Address-Family-42449" class="noirorange"><b>glibc</b>: out-of-bounds memory reading via AF_UNSPEC Address Family</a>](https://vigilance.fr/vulnerability/glibc-out-of-bounds-memory-reading-via-AF-UNSPEC-Address-Family-42449)|An attacker can force a read at an invalid memory address of glibc, via AF_UNSPEC Address Family, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-privilege-escalation-via-GLIBC-TUNABLES-42448" class="noirorange"><b>glibc</b>: privilege escalation via GLIBC_TUNABLES</a>](https://vigilance.fr/vulnerability/glibc-privilege-escalation-via-GLIBC-TUNABLES-42448)|An attacker can bypass restrictions of glibc, via GLIBC_TUNABLES, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-substitute-42447" class="noirorange"><b>Vim</b>: buffer overflow via ex_substitute()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-substitute-42447)|An attacker can trigger a buffer overflow of Vim, via ex_substitute(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-addsub-42446" class="noirorange"><b>Vim</b>: buffer overflow via do_addsub()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-addsub-42446)|An attacker can trigger a buffer overflow of Vim, via do_addsub(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-integer-overflow-via-f-fullcommand-42445" class="noirorange"><b>Vim</b>: integer overflow via f_fullcommand()</a>](https://vigilance.fr/vulnerability/Vim-integer-overflow-via-f-fullcommand-42445)|An attacker can trigger an integer overflow of Vim, via f_fullcommand(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libX11-libXpm-five-vulnerabilities-42444" class="noirorange"><b>libX11  libXpm</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/libX11-libXpm-five-vulnerabilities-42444)|An attacker can use several vulnerabilities of libX11  libXpm...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-GSKit-Crypto-information-disclosure-via-RSA-Decryption-42443" class="noirorange"><b>IBM GSKit-Crypto</b>: information disclosure via RSA Decryption</a>](https://vigilance.fr/vulnerability/IBM-GSKit-Crypto-information-disclosure-via-RSA-Decryption-42443)|An attacker can bypass access restrictions to data of IBM GSKit-Crypto, via RSA Decryption, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ghostscript-code-execution-via-IJS-42442" class="noirorange"><b>Ghostscript</b>: code execution via IJS</a>](https://vigilance.fr/vulnerability/Ghostscript-code-execution-via-IJS-42442)|An attacker can use a vulnerability of Ghostscript, via IJS, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ipv4-send-dest-unreach-42435" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>ipv4_send_dest_unrea<wbr>ch()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ipv4-send-dest-unreach-42435)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aes-gcm-weak-encryption-via-decrypt-in-place-detached-42434" class="noirorange"><b>aes-gcm</b>: weak encryption via <wbr>decrypt_in_place_det<wbr>ached()</wbr></wbr></a>](https://vigilance.fr/vulnerability/aes-gcm-weak-encryption-via-decrypt-in-place-detached-42434)|An attacker can access data on aes-gcm, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tungstenite-overload-via-HTTP-Header-Length-42433" class="noirorange"><b>Tungstenite</b>: overload via HTTP Header Length</a>](https://vigilance.fr/vulnerability/Tungstenite-overload-via-HTTP-Header-Length-42433)|An attacker can trigger an overload of Tungstenite, via HTTP Header Length, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-October-2023-42432" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-October-2023-42432)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/python-bugzilla-information-disclosure-via-API-Key-42431" class="noirorange"><b>python-bugzilla</b>: information disclosure via API Key</a>](https://vigilance.fr/vulnerability/python-bugzilla-information-disclosure-via-API-Key-42431)|An attacker can bypass access restrictions to data of python-bugzilla, via API Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-xfrm-dump-sa-42430" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via xfrm_dump_sa()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-xfrm-dump-sa-42430)|An attacker can force a read at an invalid memory address of the Linux kernel, via xfrm_dump_sa(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-sctp-mt-check-42429" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via sctp_mt_check()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-sctp-mt-check-42429)|An attacker can force a read at an invalid memory address of the Linux kernel, via sctp_mt_check(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-netfilter-xt-u32-c-42428" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via netfilter/xt_u32.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-netfilter-xt-u32-c-42428)|An attacker can force a read at an invalid memory address of the Linux kernel, via netfilter/xt_u32.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-eBPF-42427" class="noirorange"><b>Linux kernel</b>: privilege escalation via eBPF</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-eBPF-42427)|An attacker can bypass restrictions of the Linux kernel, via eBPF, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvpx-buffer-overflow-via-VP9-Encoding-Widths-42426" class="noirorange"><b>libvpx</b>: buffer overflow via VP9 Encoding Widths</a>](https://vigilance.fr/vulnerability/libvpx-buffer-overflow-via-VP9-Encoding-Widths-42426)|An attacker can trigger a buffer overflow of libvpx, via VP9 Encoding Widths, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redmine-Cross-Site-Scripting-42425" class="noirorange"><b>Redmine</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Redmine-Cross-Site-Scripting-42425)|An attacker can trigger a Cross Site Scripting of Redmine, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
