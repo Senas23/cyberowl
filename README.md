@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/10/2023 21:18:30 UTC
+ > Last Updated 05/10/2023 09:20:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,9 +34,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0802/)|Une vulnérabilité a été découverte dans |Publié le 4 octobre 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0801/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 octobre 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0800/)|Une vulnérabilité a été découverte dans |Publié le 4 octobre 2023|
  |[Vulnérabilité dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0799/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 3 octobre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0798/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 octobre 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0797/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 octobre 2023|
@@ -44,10 +41,20 @@
  |[Vulnérabilité dans Cisco IOS et IOS XE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0795/)|Une vulnérabilité a été découverte dans Cisco IOS et IOS XE. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
  |[Vulnérabilité dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0794/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 septembre 2023|
  |[Multiples vulnérabilités dans Progress WS_FTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0793/)|De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 29 septembre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 septembre 2023|
  
  ---
 
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -69,11 +76,4 @@
  |[<a href="https://vigilance.fr/vulnerability/NATS-nats-server-directory-traversal-via-Management-Action-42480" class="noirorange"><b>NATS nats-server</b>: directory traversal via Management Action</a>](https://vigilance.fr/vulnerability/NATS-nats-server-directory-traversal-via-Management-Action-42480)|An attacker can traverse directories of NATS nats-server, via Management Action, in order to read or write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/glibc-memory-leak-via-AF-INET6-AI-CANONNAME-AI-ALL-AI-V4MAPPED-42479" class="noirorange"><b>glibc</b>: memory leak via AF_INET6 AI_CANONNAME AI_ALL AI_V4MAPPED</a>](https://vigilance.fr/vulnerability/glibc-memory-leak-via-AF-INET6-AI-CANONNAME-AI-ALL-AI-V4MAPPED-42479)|An attacker can create a memory leak of glibc, via AF_INET6 AI_CANONNAME AI_ALL AI_V4MAPPED, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-Iframe-Dialog-42478" class="noirorange"><b>CKEditor4</b>: Cross Site Scripting via Iframe Dialog</a>](https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-Iframe-Dialog-42478)|An attacker can trigger a Cross Site Scripting of CKEditor4, via Iframe Dialog, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
