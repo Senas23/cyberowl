@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/10/2023 09:18:58 UTC
+ > Last Updated 06/10/2023 21:15:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,17 +54,12 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Statement-42512" class="noirorange"><b>IBM Db2</b>: denial of service via Query Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Statement-42512)|An attacker can cause a fatal error of IBM Db2, via Query Statement, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-XML-Query-Statement-42511" class="noirorange"><b>IBM Db2</b>: denial of service via XML Query Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-XML-Query-Statement-42511)|An attacker can cause a fatal error of IBM Db2, via XML Query Statement, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510" class="noirorange"><b>Ivanti Endpoint Manager</b>: code execution</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510)|An attacker can use a vulnerability of Ivanti Endpoint Manager, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509" class="noirorange"><b>Wildfly Core</b>: information disclosure via HAL resolve-expression</a>](https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509)|An attacker can bypass access restrictions to data of Wildfly Core, via HAL resolve-expression, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508" class="noirorange"><b>Red Hat JBoss Enterprise Application Platform</b>: denial of service via Classes Deserialization</a>](https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508)|An attacker can cause a fatal error of Red Hat JBoss Enterprise Application Platform, via Classes Deserialization, in order to trigger a denial of service...|Visit link for details|
@@ -74,6 +69,11 @@
  |[<a href="https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504" class="noirorange"><b>Synapse</b>: user access via Temporarily Stored Password</a>](https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504)|An attacker can bypass restrictions of Synapse, via Temporarily Stored Password, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503" class="noirorange"><b>glibc</b>: use after free via gaih_inet()</a>](https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503)|An attacker can force the reuse of a freed memory area of glibc, via gaih_inet(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Directory Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502)|An attacker can bypass restrictions of IBM i, via IBM Directory Server, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-pdfinfo-42499" class="noirorange"><b>Poppler</b>: denial of service via pdfinfo</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-pdfinfo-42499)|An attacker can cause a fatal error of Poppler, via pdfinfo, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-HTTP-Request-42498" class="noirorange"><b>Extreme Networks EXOS</b>: privilege escalation via HTTP Request</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-HTTP-Request-42498)|An attacker can bypass restrictions of Extreme Networks EXOS, via HTTP Request, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
