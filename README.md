@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/10/2023 21:17:07 UTC
+ > Last Updated 06/10/2023 09:18:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,26 +54,26 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503" class="noirorange"><b>glibc</b>: use after free via gaih_inet()</a>](https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503)|An attacker can force the reuse of a freed memory area of glibc, via gaih_inet(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Directory Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502)|An attacker can bypass restrictions of IBM i, via IBM Directory Server, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-pdfinfo-42499" class="noirorange"><b>Poppler</b>: denial of service via pdfinfo</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-pdfinfo-42499)|An attacker can cause a fatal error of Poppler, via pdfinfo, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-HTTP-Request-42498" class="noirorange"><b>Extreme Networks EXOS</b>: privilege escalation via HTTP Request</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-HTTP-Request-42498)|An attacker can bypass restrictions of Extreme Networks EXOS, via HTTP Request, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-Cross-Site-Scripting-via-Chalet-42497" class="noirorange"><b>Extreme Networks EXOS</b>: Cross Site Scripting via Chalet</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-Cross-Site-Scripting-via-Chalet-42497)|An attacker can trigger a Cross Site Scripting of Extreme Networks EXOS, via Chalet, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-directory-traversal-via-Chalet-42496" class="noirorange"><b>Extreme Networks EXOS</b>: directory traversal via Chalet</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-directory-traversal-via-Chalet-42496)|An attacker can traverse directories of Extreme Networks EXOS, via Chalet, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-Redis-Server-42495" class="noirorange"><b>Extreme Networks EXOS</b>: privilege escalation via Redis Server</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-Redis-Server-42495)|An attacker can bypass restrictions of Extreme Networks EXOS, via Redis Server, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-leak-via-tiffcrop-c-42494" class="noirorange"><b>LibTIFF</b>: memory leak via tiffcrop.c</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-leak-via-tiffcrop-c-42494)|An attacker can create a memory leak of LibTIFF, via tiffcrop.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-logged-sensitive-information-via-New-Keypair-Creation-42493" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: logged sensitive information via New Keypair Creation</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-logged-sensitive-information-via-New-Keypair-Creation-42493)|An attacker can read logs of Red Hat Ansible Automation Platform, via New Keypair Creation, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-denial-of-service-via-WS-Print-Request-42492" class="noirorange"><b>HP LaserJet</b>: denial of service via WS-Print Request</a>](https://vigilance.fr/vulnerability/HP-LaserJet-denial-of-service-via-WS-Print-Request-42492)|An attacker can cause a fatal error of HP LaserJet, via WS-Print Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/curl-two-vulnerabilities-42490" class="noirorange"><b>curl</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/curl-two-vulnerabilities-42490)|An attacker can use several vulnerabilities of curl...|Visit link for details|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510" class="noirorange"><b>Ivanti Endpoint Manager</b>: code execution</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510)|An attacker can use a vulnerability of Ivanti Endpoint Manager, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509" class="noirorange"><b>Wildfly Core</b>: information disclosure via HAL resolve-expression</a>](https://vigilance.fr/vulnerability/Wildfly-Core-information-disclosure-via-HAL-resolve-expression-42509)|An attacker can bypass access restrictions to data of Wildfly Core, via HAL resolve-expression, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508" class="noirorange"><b>Red Hat JBoss Enterprise Application Platform</b>: denial of service via Classes Deserialization</a>](https://vigilance.fr/vulnerability/Red-Hat-JBoss-Enterprise-Application-Platform-denial-of-service-via-Classes-Deserialization-42508)|An attacker can cause a fatal error of Red Hat JBoss Enterprise Application Platform, via Classes Deserialization, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tacacs-ingress-filtrering-bypass-via-author-data-42507" class="noirorange"><b>Tacacs+</b>: ingress filtrering bypass via author_data</a>](https://vigilance.fr/vulnerability/Tacacs-ingress-filtrering-bypass-via-author-data-42507)|An attacker can bypass filtering rules of Tacacs+, via author_data, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xrdp-out-of-bounds-memory-reading-via-Font-Glyphs-42506" class="noirorange"><b>xrdp</b>: out-of-bounds memory reading via Font Glyphs</a>](https://vigilance.fr/vulnerability/xrdp-out-of-bounds-memory-reading-via-Font-Glyphs-42506)|An attacker can force a read at an invalid memory address of xrdp, via Font Glyphs, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-spoofing-via-Read-Receipts-42505" class="noirorange"><b>Synapse</b>: spoofing via Read Receipts</a>](https://vigilance.fr/vulnerability/Synapse-spoofing-via-Read-Receipts-42505)|An attacker can create spoofed data on Synapse, via Read Receipts, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504" class="noirorange"><b>Synapse</b>: user access via Temporarily Stored Password</a>](https://vigilance.fr/vulnerability/Synapse-user-access-via-Temporarily-Stored-Password-42504)|An attacker can bypass restrictions of Synapse, via Temporarily Stored Password, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503" class="noirorange"><b>glibc</b>: use after free via gaih_inet()</a>](https://vigilance.fr/vulnerability/glibc-use-after-free-via-gaih-inet-42503)|An attacker can force the reuse of a freed memory area of glibc, via gaih_inet(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Directory Server</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Directory-Server-42502)|An attacker can bypass restrictions of IBM i, via IBM Directory Server, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-pdfinfo-42499" class="noirorange"><b>Poppler</b>: denial of service via pdfinfo</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-pdfinfo-42499)|An attacker can cause a fatal error of Poppler, via pdfinfo, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-HTTP-Request-42498" class="noirorange"><b>Extreme Networks EXOS</b>: privilege escalation via HTTP Request</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-HTTP-Request-42498)|An attacker can bypass restrictions of Extreme Networks EXOS, via HTTP Request, in order to escalate his privileges...|Visit link for details|
  
