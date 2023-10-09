@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/10/2023 09:20:07 UTC
+ > Last Updated 09/10/2023 21:16:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -21,13 +21,6 @@
  |[VulDB](#vuldb-arrow_heading_up)|Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.|
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
  ---
 
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
@@ -54,21 +47,28 @@
  
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ansible-galaxy-file-write-via-Symlinks-42547" class="noirorange"><b>ansible-galaxy</b>: file write via Symlinks</a>](https://vigilance.fr/vulnerability/ansible-galaxy-file-write-via-Symlinks-42547)|An attacker can bypass access restrictions of ansible-galaxy, via Symlinks, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Hot-Rod-Client-Man-in-the-Middle-42546" class="noirorange"><b>Hot Rod Client</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Hot-Rod-Client-Man-in-the-Middle-42546)|An attacker can act as a Man-in-the-Middle on Hot Rod Client, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-SnappyInputStream-42545" class="noirorange"><b>snappy-java</b>: denial of service via SnappyInputStream</a>](https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-SnappyInputStream-42545)|An attacker can cause a fatal error of snappy-java, via SnappyInputStream, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Keystone-user-access-via-Tokens-Expiration-42544" class="noirorange"><b>OpenStack Keystone</b>: user access via Tokens Expiration</a>](https://vigilance.fr/vulnerability/OpenStack-Keystone-user-access-via-Tokens-Expiration-42544)|An attacker can bypass restrictions of OpenStack Keystone, via Tokens Expiration, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-BMP-42543" class="noirorange"><b>ImageMagick</b>: buffer overflow via BMP</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-BMP-42543)|An attacker can trigger a buffer overflow of ImageMagick, via BMP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542" class="noirorange"><b>Apache Hadoop</b>: directory traversal via unTar</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542)|An attacker can traverse directories of Apache Hadoop, via unTar, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Non-normalized Requests</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541)|An attacker can bypass restrictions of Apache Shiro, via Non-normalized Requests, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Spring Boot</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540)|An attacker can bypass restrictions of Apache Shiro, via Spring Boot, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-user-access-via-Logout-Support-42539" class="noirorange"><b>Spring Security</b>: user access via Logout Support</a>](https://vigilance.fr/vulnerability/Spring-Security-user-access-via-Logout-Support-42539)|An attacker can bypass restrictions of Spring Security, via Logout Support, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-privilege-escalation-via-OAuth2-Access-Token-Response-42538" class="noirorange"><b>Spring Security</b>: privilege escalation via OAuth2 Access Token Response</a>](https://vigilance.fr/vulnerability/Spring-Security-privilege-escalation-via-OAuth2-Access-Token-Response-42538)|An attacker can bypass restrictions of Spring Security, via OAuth2 Access Token Response, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536" class="noirorange"><b>IBM Security Directory Suite</b>: weak encryption</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Suite-weak-encryption-42536)|An attacker can access data on IBM Security Directory Suite, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-executing-DLL-code-42535" class="noirorange"><b>IBM Storage Protect</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-executing-DLL-code-42535)|An attacker can create a malicious DLL for IBM Storage Protect, and then put it in the current directory, in order to execute code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netatalk-file-write-via-SMB-AFP-42534" class="noirorange"><b>Netatalk</b>: file write via SMB / AFP</a>](https://vigilance.fr/vulnerability/Netatalk-file-write-via-SMB-AFP-42534)|An attacker can bypass access restrictions of Netatalk, via SMB / AFP, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-use-after-free-via-tree-c-42533" class="noirorange"><b>libxml2</b>: use after free via tree.c</a>](https://vigilance.fr/vulnerability/libxml2-use-after-free-via-tree-c-42533)|An attacker can force the reuse of a freed memory area of libxml2, via tree.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avahi-five-vulnerabilities-42532" class="noirorange"><b>Avahi</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Avahi-five-vulnerabilities-42532)|An attacker can use several vulnerabilities of Avahi...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531" class="noirorange"><b>fwupd</b>: security improvement via BIOS Capsule Updates</a>](https://vigilance.fr/vulnerability/fwupd-security-improvement-via-BIOS-Capsule-Updates-42531)|The security of fwupd was improved via BIOS Capsule Updates...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-trunc-string-42530" class="noirorange"><b>Vim</b>: buffer overflow via trunc_string()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-trunc-string-42530)|An attacker can trigger a buffer overflow of Vim, via trunc_string(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeImage-buffer-overflow-via-ofLoad-42529" class="noirorange"><b>FreeImage</b>: buffer overflow via ofLoad()</a>](https://vigilance.fr/vulnerability/FreeImage-buffer-overflow-via-ofLoad-42529)|An attacker can trigger a buffer overflow of FreeImage, via ofLoad(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42528" class="noirorange"><b>FreeImage</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeImage-four-vulnerabilities-42528)|An attacker can use several vulnerabilities of FreeImage...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeImage-NULL-pointer-dereference-via-ReadPalette-42527" class="noirorange"><b>FreeImage</b>: NULL pointer dereference via ReadPalette()</a>](https://vigilance.fr/vulnerability/FreeImage-NULL-pointer-dereference-via-ReadPalette-42527)|An attacker can force a NULL pointer to be dereferenced on FreeImage, via ReadPalette(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Server-Side-Request-Forgery-via-OpenID-Connect-Issuer-42526" class="noirorange"><b>LemonLDAP-NG</b>: Server-Side Request Forgery via OpenID Connect Issuer</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Server-Side-Request-Forgery-via-OpenID-Connect-Issuer-42526)|An attacker can trigger a Server-Side Request Forgery of LemonLDAP::NG, via OpenID Connect Issuer, in order to force the server to send queries...|Visit link for details|
  
  ---
 
