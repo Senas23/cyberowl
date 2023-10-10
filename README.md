@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/10/2023 09:20:09 UTC
+ > Last Updated 10/10/2023 21:17:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,32 +47,32 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-osf-match-one-42550" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via nf_osf_match_one()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-osf-match-one-42550)|An attacker can force a read at an invalid memory address of the Linux kernel, via nf_osf_match_one(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcue-buffer-overflow-via-Sheet-42549" class="noirorange"><b>libcue</b>: buffer overflow via Sheet</a>](https://vigilance.fr/vulnerability/libcue-buffer-overflow-via-Sheet-42549)|An attacker can trigger a buffer overflow of libcue, via Sheet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-code-execution-via-Build-Line-Directives-42548" class="noirorange"><b>Go</b>: code execution via Build Line Directives</a>](https://vigilance.fr/vulnerability/Go-code-execution-via-Build-Line-Directives-42548)|An attacker can use a vulnerability of Go, via Build Line Directives, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ansible-galaxy-file-write-via-Symlinks-42547" class="noirorange"><b>ansible-galaxy</b>: file write via Symlinks</a>](https://vigilance.fr/vulnerability/ansible-galaxy-file-write-via-Symlinks-42547)|An attacker can bypass access restrictions of ansible-galaxy, via Symlinks, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Hot-Rod-Client-Man-in-the-Middle-42546" class="noirorange"><b>Hot Rod Client</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Hot-Rod-Client-Man-in-the-Middle-42546)|An attacker can act as a Man-in-the-Middle on Hot Rod Client, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-SnappyInputStream-42545" class="noirorange"><b>snappy-java</b>: denial of service via SnappyInputStream</a>](https://vigilance.fr/vulnerability/snappy-java-denial-of-service-via-SnappyInputStream-42545)|An attacker can cause a fatal error of snappy-java, via SnappyInputStream, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Keystone-user-access-via-Tokens-Expiration-42544" class="noirorange"><b>OpenStack Keystone</b>: user access via Tokens Expiration</a>](https://vigilance.fr/vulnerability/OpenStack-Keystone-user-access-via-Tokens-Expiration-42544)|An attacker can bypass restrictions of OpenStack Keystone, via Tokens Expiration, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-BMP-42543" class="noirorange"><b>ImageMagick</b>: buffer overflow via BMP</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-BMP-42543)|An attacker can trigger a buffer overflow of ImageMagick, via BMP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542" class="noirorange"><b>Apache Hadoop</b>: directory traversal via unTar</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-directory-traversal-via-unTar-42542)|An attacker can traverse directories of Apache Hadoop, via unTar, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Non-normalized Requests</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Non-normalized-Requests-42541)|An attacker can bypass restrictions of Apache Shiro, via Non-normalized Requests, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540" class="noirorange"><b>Apache Shiro</b>: privilege escalation via Spring Boot</a>](https://vigilance.fr/vulnerability/Apache-Shiro-privilege-escalation-via-Spring-Boot-42540)|An attacker can bypass restrictions of Apache Shiro, via Spring Boot, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590" class="noirorange"><b>Fortinet FortiOS</b>: privilege escalation via WEB UI</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-WEB-UI-42590)|An attacker can bypass restrictions of Fortinet FortiOS, via WEB UI, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589" class="noirorange"><b>Fortinet FortiOS</b>: denial of service via Web Proxy Process</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-denial-of-service-via-Web-Proxy-Process-42589)|An attacker can cause a fatal error of Fortinet FortiOS, via Web Proxy Process, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588" class="noirorange"><b>Fortinet FortiOS</b>: ingress filtrering bypass via REST API Untrusted Host</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-via-REST-API-Untrusted-Host-42588)|An attacker can bypass filtering rules of Fortinet FortiOS, via REST API Untrusted Host, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSL-VPN-Component-42587" class="noirorange"><b>Fortinet FortiOS</b>: information disclosure via SSL VPN Component</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSL-VPN-Component-42587)|An attacker can bypass access restrictions to data of Fortinet FortiOS, via SSL VPN Component, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SAML-Security-Fabric-42586" class="noirorange"><b>Fortinet FortiOS</b>: Cross Site Scripting via SAML / Security Fabric</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SAML-Security-Fabric-42586)|An attacker can trigger a Cross Site Scripting of Fortinet FortiOS, via SAML / Security Fabric, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PowerShell-vulnerability-via-Help-42585" class="noirorange"><b>PowerShell</b>: vulnerability via Help</a>](https://vigilance.fr/vulnerability/PowerShell-vulnerability-via-Help-42585)|A vulnerability of PowerShell, via Help, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-42584" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-42584)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583" class="noirorange"><b>Windows</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582" class="noirorange"><b>Microsoft Skype for Business</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-denial-of-service-42581" class="noirorange"><b>Microsoft SQL Server</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-denial-of-service-42581)|An attacker can cause a fatal error of Microsoft SQL Server, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580" class="noirorange"><b>Microsoft Exchange Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580)|An attacker can use a vulnerability of Microsoft Exchange Server, in order to run code...|Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
