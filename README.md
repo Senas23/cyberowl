@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/10/2023 09:19:12 UTC
+ > Last Updated 13/10/2023 21:16:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0845/)|Une vulnérabilité a été découverte dans|Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0844/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
+ |[Vulnérabilité dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0843/)|Une vulnérabilité a été découverte dans |Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0842/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0841/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0840/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0839/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 octobre 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0838/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
  |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0837/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
  |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0836/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2023|
- |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0835/)|Une vulnérabilité a été découverte dans|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0834/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0833/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0832/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0831/)|De multiples vulnérabilités ont été découvertes dans|Publié le 12 octobre 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0830/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0829/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 octobre 2023|
  
  ---
 
@@ -58,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613" class="noirorange"><b>Grafana</b>: privilege escalation via Cross-organization Roles</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cross-organization-Roles-42613)|An attacker can bypass restrictions of Grafana, via Cross-organization Roles, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-HTTP-2-42612" class="noirorange"><b>Go</b>: overload via HTTP/2</a>](https://vigilance.fr/vulnerability/Go-overload-via-HTTP-2-42612)|An attacker can trigger an overload of Go, via HTTP/2, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611" class="noirorange"><b>NetApp SnapCenter</b>: privilege escalation via Plug-in</a>](https://vigilance.fr/vulnerability/NetApp-SnapCenter-privilege-escalation-via-Plug-in-42611)|An attacker can bypass restrictions of NetApp SnapCenter, via Plug-in, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via URL Field Maps Element</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-URL-Field-Maps-Element-42610)|An attacker can trigger a Cross Site Scripting of Zabbix, via URL Field Maps Element, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609" class="noirorange"><b>WordPress Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
@@ -67,8 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605" class="noirorange"><b>OpenSC</b>: memory corruption via pkcs15-init</a>](https://vigilance.fr/vulnerability/OpenSC-memory-corruption-via-pkcs15-init-42605)|An attacker can trigger a memory corruption of OpenSC, via pkcs15-init, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-42603)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601" class="noirorange"><b>Apache ZooKeeper</b>: user access via SASL Quorum Peer Authentication</a>](https://vigilance.fr/vulnerability/Apache-ZooKeeper-user-access-via-SASL-Quorum-Peer-Authentication-42601)|An attacker can bypass restrictions of Apache ZooKeeper, via SASL Quorum Peer Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  
  ---
 
