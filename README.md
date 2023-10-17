@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/10/2023 21:17:44 UTC
+ > Last Updated 17/10/2023 09:19:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Gevent-privilege-escalation-via-WSGIServer-Component-42641" class="noirorange"><b>Gevent</b>: privilege escalation via WSGIServer Component</a>](https://vigilance.fr/vulnerability/Gevent-privilege-escalation-via-WSGIServer-Component-42641)|An attacker can bypass restrictions of Gevent, via WSGIServer Component, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Babel-code-execution-via-Code-Compiling-42640" class="noirorange"><b>Babel</b>: code execution via Code Compiling</a>](https://vigilance.fr/vulnerability/Babel-code-execution-via-Code-Compiling-42640)|An attacker can use a vulnerability of Babel, via Code Compiling, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Samba-buffer-overflow-via-Heimdal-KDC-Freshness-Tokens-42639" class="noirorange"><b>Samba</b>: buffer overflow via Heimdal KDC Freshness Tokens</a>](https://vigilance.fr/vulnerability/Samba-buffer-overflow-via-Heimdal-KDC-Freshness-Tokens-42639)|An attacker can trigger a buffer overflow of Samba, via Heimdal KDC Freshness Tokens, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-Web-UI-42638" class="noirorange"><b>Cisco IOS XE</b>: privilege escalation via Web UI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-Web-UI-42638)|An attacker can bypass restrictions of Cisco IOS XE, via Web UI, in order to escalate his privileges...|Visit link for details|
@@ -68,7 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Duktape-denial-of-service-via-Valstack-Values-42633" class="noirorange"><b>Duktape</b>: denial of service via Valstack Values</a>](https://vigilance.fr/vulnerability/Duktape-denial-of-service-via-Valstack-Values-42633)|An attacker can cause a fatal error of Duktape, via Valstack Values, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-dccp-v4-err-42632" class="noirorange"><b>Linux kernel</b>: memory reading via dccp_v4_err()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-dccp-v4-err-42632)|An attacker can read a memory fragment of the Linux kernel, via dccp_v4_err(), in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-extract-iter-to-sg-42628" class="noirorange"><b>Linux kernel</b>: assertion error via <wbr>extract_iter_to_sg()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-assertion-error-via-extract-iter-to-sg-42628)|An attacker can force an assertion error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ene-ub6250-c-42627" class="noirorange"><b>Linux kernel</b>: buffer overflow via ene_ub6250.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ene-ub6250-c-42627)|An attacker can trigger a buffer overflow of the Linux kernel, via ene_ub6250.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
