@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/10/2023 21:17:21 UTC
+ > Last Updated 19/10/2023 09:19:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-42664" class="noirorange"><b>Moodle</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-42664)|An attacker can use several vulnerabilities of Moodle...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libvips-denial-of-service-via-SVG-UTF-8-Character-42663" class="noirorange"><b>libvips</b>: denial of service via SVG UTF-8 Character</a>](https://vigilance.fr/vulnerability/libvips-denial-of-service-via-SVG-UTF-8-Character-42663)|An attacker can cause a fatal error of libvips, via SVG UTF-8 Character, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libvips-denial-of-service-via-vips-eye-point-42662" class="noirorange"><b>libvips</b>: denial of service via vips_eye_point()</a>](https://vigilance.fr/vulnerability/libvips-denial-of-service-via-vips-eye-point-42662)|An attacker can cause a fatal error of libvips, via vips_eye_point(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libvips-memory-reading-42661" class="noirorange"><b>libvips</b>: memory reading</a>](https://vigilance.fr/vulnerability/libvips-memory-reading-42661)|An attacker can read a memory fragment of libvips, in order to obtain sensitive information...|Visit link for details|
@@ -68,11 +62,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Slackware-util-linux-user-access-via-Securetty-Ignored-42656" class="noirorange"><b>Slackware util-linux</b>: user access via Securetty Ignored</a>](https://vigilance.fr/vulnerability/Slackware-util-linux-user-access-via-Securetty-Ignored-42656)|An attacker can bypass restrictions of Slackware util-linux, via Securetty Ignored, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-vulnerability-42655" class="noirorange"><b>Chrome  Edge  Opera</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-vulnerability-42655)|A vulnerability of Chrome  Edge  Opera was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-42654" class="noirorange"><b>Oracle VM VirtualBox</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-42654)|An attacker can use several vulnerabilities of Oracle VM VirtualBox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-October-2023-42653" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-October-2023-42653)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
