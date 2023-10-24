@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/10/2023 09:19:29 UTC
+ > Last Updated 24/10/2023 21:16:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,6 +23,13 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -40,13 +47,6 @@
  
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -58,17 +58,17 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/nats-server-user-access-via-Without-Authentication-42689" class="noirorange"><b>nats-server</b>: user access via Without Authentication</a>](https://vigilance.fr/vulnerability/nats-server-user-access-via-Without-Authentication-42689)|An attacker can bypass restrictions of nats-server, via Without Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-42688" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-42688)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ceph-RGW-write-access-via-POST-Form-data-Bucket-Key-42687" class="noirorange"><b>Ceph RGW</b>: write access via POST Form-data Bucket Key</a>](https://vigilance.fr/vulnerability/Ceph-RGW-write-access-via-POST-Form-data-Bucket-Key-42687)|An attacker can bypass access restrictions of Ceph RGW, via POST Form-data Bucket Key, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RabbitMQ-Server-overload-via-HTTP-API-Large-Messages-42686" class="noirorange"><b>RabbitMQ Server</b>: overload via HTTP API Large Messages</a>](https://vigilance.fr/vulnerability/RabbitMQ-Server-overload-via-HTTP-API-Large-Messages-42686)|An attacker can trigger an overload of RabbitMQ Server, via HTTP API Large Messages, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-FTP-42685" class="noirorange"><b>Squid</b>: denial of service via FTP</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-FTP-42685)|An attacker can cause a fatal error of Squid, via FTP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-HTTP-Digest-Authentication-42684" class="noirorange"><b>Squid</b>: buffer overflow via HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-HTTP-Digest-Authentication-42684)|An attacker can trigger a buffer overflow of Squid, via HTTP Digest Authentication, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Response-Caching-42683" class="noirorange"><b>Squid</b>: denial of service via HTTP Response Caching</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Response-Caching-42683)|An attacker can cause a fatal error of Squid, via HTTP Response Caching, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-header-injection-via-Chunked-Decoder-Lenience-42682" class="noirorange"><b>Squid</b>: header injection via Chunked Decoder Lenience</a>](https://vigilance.fr/vulnerability/Squid-header-injection-via-Chunked-Decoder-Lenience-42682)|An attacker can add new headers on Squid, via Chunked Decoder Lenience, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-SVG-Document-Rcube-washtml-php-42681" class="noirorange"><b>Roundcube</b>: Cross Site Scripting via SVG Document Rcube_washtml.php</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-via-SVG-Document-Rcube-washtml-php-42681)|An attacker can trigger a Cross Site Scripting of Roundcube, via SVG Document Rcube_washtml.php, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-gui-do-scroll-42680" class="noirorange"><b>Vim</b>: NULL pointer dereference via gui_do_scroll()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-gui-do-scroll-42680)|An attacker can force a NULL pointer to be dereferenced on Vim, via gui_do_scroll(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-buf-contents-changed-42679" class="noirorange"><b>Vim</b>: use after free via <wbr>buf_contents_changed<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-buf-contents-changed-42679)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ClearPass-Policy-Manager-five-vulnerabilities-42702" class="noirorange"><b>ClearPass Policy Manager</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/ClearPass-Policy-Manager-five-vulnerabilities-42702)|An attacker can use several vulnerabilities of ClearPass Policy Manager...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701" class="noirorange"><b>Stormshield Network Security</b>: Cross Site Scripting via Disclaimer</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701)|An attacker can trigger a Cross Site Scripting of Stormshield Network Security, via Disclaimer, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via <wbr>SplashXPath::strokeA<wbr>djust()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Object-isName-42699" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via Object::isName()</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Object-isName-42699)|An attacker can force a read at an invalid memory address of Xpdf, via Object::isName(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-CCITTFaxStream-readRow-42698" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via <wbr>CCITTFaxStream::read<wbr>Row()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-CCITTFaxStream-readRow-42698)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-Key-IV-Length-42697" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via Key / IV Length</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-Key-IV-Length-42697)|An attacker can force a read at an invalid memory address of OpenSSL, via Key / IV Length, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-vulnerability-via-Resource-Expiration-42696" class="noirorange"><b>WebSphere AS</b>: vulnerability via Resource Expiration</a>](https://vigilance.fr/vulnerability/WebSphere-AS-vulnerability-via-Resource-Expiration-42696)|A vulnerability of WebSphere AS, via Resource Expiration, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42695" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42695)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-sobel-42693" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_sobel()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-sobel-42693)|An attacker can trigger an integer overflow of FFmpeg, via filter16_sobel(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-roberts-42692" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_roberts()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-roberts-42692)|An attacker can trigger an integer overflow of FFmpeg, via filter16_roberts(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-prewitt-42691" class="noirorange"><b>FFmpeg</b>: integer overflow via filter16_prewitt()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-filter16-prewitt-42691)|An attacker can trigger an integer overflow of FFmpeg, via filter16_prewitt(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
