@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/10/2023 21:16:18 UTC
+ > Last Updated 26/10/2023 09:18:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-code-execution-via-autoload-zip-vim-42713" class="noirorange"><b>Vim</b>: code execution via autoload/zip.vim</a>](https://vigilance.fr/vulnerability/Vim-code-execution-via-autoload-zip-vim-42713)|An attacker can use a vulnerability of Vim, via autoload/zip.vim, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-buffer-all-42712" class="noirorange"><b>Vim</b>: buffer overflow via ex_buffer_all()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ex-buffer-all-42712)|An attacker can trigger a buffer overflow of Vim, via ex_buffer_all(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-42711" class="noirorange"><b>Vim</b>: denial of service via scroll_cursor_bot()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scroll-cursor-bot-42711)|An attacker can cause a fatal error of Vim, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42710" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42710)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42709" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42709)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-svm-set-x2apic-msr-interception-42708" class="noirorange"><b>Linux kernel</b>: privilege escalation via <wbr>svm_set_x2apic_msr_i<wbr>nterception()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-svm-set-x2apic-msr-interception-42708)|An attacker, in a guest system, can bypass restrictions of the Linux kernel, via |Visit link for details|
@@ -66,9 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-Xwayland-three-vulnerabilities-42705" class="noirorange"><b>X.Org Server  Xwayland</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/X-Org-Server-Xwayland-three-vulnerabilities-42705)|An attacker can use several vulnerabilities of X.Org Server  Xwayland...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-two-vulnerabilities-42704" class="noirorange"><b>VMware vCenter Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-two-vulnerabilities-42704)|An attacker can use several vulnerabilities of VMware vCenter Server...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GStreamer-three-vulnerabilities-42703" class="noirorange"><b>GStreamer</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/GStreamer-three-vulnerabilities-42703)|An attacker can use several vulnerabilities of GStreamer...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-five-vulnerabilities-42702" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-five-vulnerabilities-42702)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701" class="noirorange"><b>Stormshield Network Security</b>: Cross Site Scripting via Disclaimer</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Disclaimer-42701)|An attacker can trigger a Cross Site Scripting of Stormshield Network Security, via Disclaimer, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via <wbr>SplashXPath::strokeA<wbr>djust()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-SplashXPath-strokeAdjust-42700)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
  
  ---
 
