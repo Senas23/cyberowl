@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/10/2023 21:15:24 UTC
+ > Last Updated 31/10/2023 09:19:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,32 +47,32 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746" class="noirorange"><b>Request Tracker</b>: information disclosure via Transaction Query Builder Searches</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Transaction-Query-Builder-Searches-42746)|An attacker can bypass access restrictions to data of Request Tracker, via Transaction Query Builder Searches, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745" class="noirorange"><b>Brocade SANnav</b>: information disclosure via SNMPv3 Authentication Passwords</a>](https://vigilance.fr/vulnerability/Brocade-SANnav-information-disclosure-via-SNMPv3-Authentication-Passwords-42745)|An attacker can bypass access restrictions to data of Brocade SANnav, via SNMPv3 Authentication Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744" class="noirorange"><b>Poppler</b>: assertion error via Object::getString</a>](https://vigilance.fr/vulnerability/Poppler-assertion-error-via-Object-getString-42744)|An attacker can force an assertion error of Poppler, via Object::getString, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743" class="noirorange"><b>Poppler</b>: denial of service via <wbr>JBIG2Stream::readTex<wbr>tRegion()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-JBIG2Stream-readTextRegion-42743)|An attacker can cause a fatal error of Poppler, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742" class="noirorange"><b>Request Tracker</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Request-Tracker-two-vulnerabilities-42742)|An attacker can use several vulnerabilities of Request Tracker...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution via Adobe PDF</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741)|An attacker can use a vulnerability of Microsoft Edge Chromium, via Adobe PDF, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-managers-php-form-actions-42739" class="noirorange"><b>Cacti</b>: SQL injection via managers.php form_actions()</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-managers-php-form-actions-42739)|An attacker can use a SQL injection of Cacti, via managers.php form_actions(), in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/XnView-memory-corruption-via-TIFF-Image-42738" class="noirorange"><b>XnView</b>: memory corruption via TIFF Image</a>](https://vigilance.fr/vulnerability/XnView-memory-corruption-via-TIFF-Image-42738)|An attacker can trigger a memory corruption of XnView, via TIFF Image, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-VC-Exception-42737" class="noirorange"><b>Linux kernel</b>: privilege escalation via VC Exception</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-VC-Exception-42737)|An attacker can bypass restrictions of the Linux kernel, via VC Exception, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-uring-show-fdinfo-42736" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>io_uring_show_fdinfo</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-uring-show-fdinfo-42736)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Navigator-Management-Central-42733" class="noirorange"><b>IBM i</b>: privilege escalation via Navigator Management Central</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Navigator-Management-Central-42733)|An attacker can bypass restrictions of IBM i, via Navigator Management Central, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/browserify-sign-weak-signature-via-dsaVerify-42732" class="noirorange"><b>browserify-sign</b>: weak signature via dsaVerify()</a>](https://vigilance.fr/vulnerability/browserify-sign-weak-signature-via-dsaVerify-42732)|An attacker can use malicious data on browserify-sign, via dsaVerify(), in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-RSA-Marvin-Attack-42731" class="noirorange"><b>Mozilla NSS</b>: information disclosure via RSA Marvin Attack</a>](https://vigilance.fr/vulnerability/Mozilla-NSS-information-disclosure-via-RSA-Marvin-Attack-42731)|An attacker can bypass access restrictions to data of Mozilla NSS, via RSA Marvin Attack, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Delegated Admin Tenant</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Delegated-Admin-Tenant-42730)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Delegated Admin Tenant, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729" class="noirorange"><b>zchunk</b>: integer overflow</a>](https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729)|An attacker can trigger an integer overflow of zchunk, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728" class="noirorange"><b>open-vm-tools</b>: write access via /dev/uinput</a>](https://vigilance.fr/vulnerability/open-vm-tools-write-access-via-dev-uinput-42728)|An attacker can bypass access restrictions of open-vm-tools, via /dev/uinput, in order to alter data...|Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
