@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/11/2023 21:16:41 UTC
+ > Last Updated 03/11/2023 09:18:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,13 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772" class="noirorange"><b>phpPgAdmin</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772)|An attacker can use a vulnerability of phpPgAdmin, via Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Demuxer</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770" class="noirorange"><b>netconsd</b>: buffer overflow via Repeating Key-value Pairs</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770)|An attacker can trigger a buffer overflow of netconsd, via Repeating Key-value Pairs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769" class="noirorange"><b>insights-client</b>: privilege escalation via <wbr>/var/tmp/insights-cl<wbr>ient</wbr></wbr></a>](https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769)|An attacker can bypass restrictions of insights-client, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768" class="noirorange"><b>Cisco IOS XE  Meraki MX  Snort</b>: ingress filtrering bypass via FTP Inspection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768)|An attacker can bypass filtering rules of Cisco IOS XE  Meraki MX  Snort, via FTP Inspection, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767" class="noirorange"><b>Cisco IOS XE  Snort</b>: ingress filtrering bypass via Access Control Policies</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767)|An attacker can bypass filtering rules of Cisco IOS XE  Snort, via Access Control Policies, in order to send malicious data...|Visit link for details|
@@ -66,13 +62,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-ingress-filtrering-bypass-via-AnyConnect-Access-Control-List-42764" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: ingress filtrering bypass via AnyConnect Access Control List</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-ingress-filtrering-bypass-via-AnyConnect-Access-Control-List-42764)|An attacker can bypass filtering rules of Cisco Adaptive Security Appliance, via AnyConnect Access Control List, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-user-access-via-Remote-Access-SSL-VPN-Multiple-Certificate-42763" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: user access via Remote Access SSL VPN Multiple Certificate</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-user-access-via-Remote-Access-SSL-VPN-Multiple-Certificate-42763)|An attacker can bypass restrictions of Cisco Adaptive Security Appliance, via Remote Access SSL VPN Multiple Certificate, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-information-disclosure-via-SAML-SSO-42762" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: information disclosure via SAML SSO</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-information-disclosure-via-SAML-SSO-42762)|An attacker can bypass access restrictions to data of Cisco Adaptive Security Appliance, via SAML SSO, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-AnyConnect-SSL-TLS-VPN-42761" class="noirorange"><b>Cisco Adaptive Security Appliance</b>: denial of service via AnyConnect SSL/TLS VPN</a>](https://vigilance.fr/vulnerability/Cisco-Adaptive-Security-Appliance-denial-of-service-via-AnyConnect-SSL-TLS-VPN-42761)|An attacker can cause a fatal error of Cisco Adaptive Security Appliance, via AnyConnect SSL/TLS VPN, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-setup-async-work-42760" class="noirorange"><b>Linux kernel</b>: use after free via setup_async_work()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-setup-async-work-42760)|An attacker can force the reuse of a freed memory area of the Linux kernel, via setup_async_work(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-SSL-Certificate-Validation-42759" class="noirorange"><b>Squid</b>: denial of service via SSL Certificate Validation</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-SSL-Certificate-Validation-42759)|An attacker can cause a fatal error of Squid, via SSL Certificate Validation, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
