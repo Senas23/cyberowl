@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/11/2023 21:16:30 UTC
+ > Last Updated 06/11/2023 09:20:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,28 +47,28 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782" class="noirorange"><b>Xpdf</b>: denial of service via <wbr>Catalog::findDestInT<wbr>ree()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782)|An attacker can cause a fatal error of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via <wbr>GfxPatchMeshShading:<wbr>:parse()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780" class="noirorange"><b>RubyGem Active Support</b>: file reading via Locally Encrypted Files</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780)|An attacker can read a file of RubyGem Active Support, via Locally Encrypted Files, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-overload-via-MimeDecAddEntity-42779" class="noirorange"><b>Suricata</b>: overload via MimeDecAddEntity</a>](https://vigilance.fr/vulnerability/Suricata-overload-via-MimeDecAddEntity-42779)|An attacker can trigger an overload of Suricata, via MimeDecAddEntity, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Universal-Scene-Description-multiple-vulnerabilities-42778" class="noirorange"><b>Universal Scene Description</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Universal-Scene-Description-multiple-vulnerabilities-42778)|An attacker can use several vulnerabilities of Universal Scene Description...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: file reading via Download Route Filename Change</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-file-reading-via-Download-Route-Filename-Change-42777)|An attacker can read a file of Ibexa DXP  eZ Platform, via Download Route Filename Change, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: information disclosure via Solr Search Response Credentials</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-information-disclosure-via-Solr-Search-Response-Credentials-42776)|An attacker can bypass access restrictions to data of Ibexa DXP  eZ Platform, via Solr Search Response Credentials, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775" class="noirorange"><b>CA 7 Workload Automation</b>: vulnerability via REST API</a>](https://vigilance.fr/vulnerability/CA-7-Workload-Automation-vulnerability-via-REST-API-42775)|A vulnerability of CA 7 Workload Automation, via REST API, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774" class="noirorange"><b>Microsoft Exchange</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774)|An attacker can use several vulnerabilities of Microsoft Exchange...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42773)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772" class="noirorange"><b>phpPgAdmin</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/phpPgAdmin-code-execution-via-Deserialization-42772)|An attacker can use a vulnerability of phpPgAdmin, via Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Demuxer</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Demuxer-42771)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770" class="noirorange"><b>netconsd</b>: buffer overflow via Repeating Key-value Pairs</a>](https://vigilance.fr/vulnerability/netconsd-buffer-overflow-via-Repeating-Key-value-Pairs-42770)|An attacker can trigger a buffer overflow of netconsd, via Repeating Key-value Pairs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769" class="noirorange"><b>insights-client</b>: privilege escalation via <wbr>/var/tmp/insights-cl<wbr>ient</wbr></wbr></a>](https://vigilance.fr/vulnerability/insights-client-privilege-escalation-via-var-tmp-insights-client-42769)|An attacker can bypass restrictions of insights-client, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768" class="noirorange"><b>Cisco IOS XE  Meraki MX  Snort</b>: ingress filtrering bypass via FTP Inspection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Meraki-MX-Snort-ingress-filtrering-bypass-via-FTP-Inspection-42768)|An attacker can bypass filtering rules of Cisco IOS XE  Meraki MX  Snort, via FTP Inspection, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767" class="noirorange"><b>Cisco IOS XE  Snort</b>: ingress filtrering bypass via Access Control Policies</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-Snort-ingress-filtrering-bypass-via-Access-Control-Policies-42767)|An attacker can bypass filtering rules of Cisco IOS XE  Snort, via Access Control Policies, in order to send malicious data...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
