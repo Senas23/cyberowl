@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/11/2023 09:18:31 UTC
+ > Last Updated 07/11/2023 21:15:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
+ |[Multiples vulnérabilités dans Veeam ONE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0917/)|De multiples vulnérabilités ont été découvertes dans|Publié le 7 novembre 2023|
+ |[Vulnérabilité dans Roundcube](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0916/)|[A REMPLIR - AUCUNE CVE TROUVÉE]|Publié le 6 novembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
  |[Vulnérabilité dans Roundcube Webmail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/)|Une vulnérabilité a été découverte dans|Publié le 6 novembre 2023|
  |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0913/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 novembre 2023|
@@ -41,27 +44,6 @@
  |[[SCADA] Multiples vulnérabilités dans Moxa PT-G503](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0907/)|De multiples vulnérabilités ont été découvertes dans Moxa PT-G503. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0911/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
  |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0910/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 novembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0909/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 novembre 2023|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0908/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 3 novembre 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0906/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 2 novembre 2023|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-write-access-via-Time-Stamp-File-User-Name-Separator-42789" class="noirorange"><b>Sudo</b>: write access via Time Stamp File User Name Separator</a>](https://vigilance.fr/vulnerability/Sudo-write-access-via-Time-Stamp-File-User-Name-Separator-42789)|An attacker can bypass access restrictions of Sudo, via Time Stamp File User Name Separator, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788" class="noirorange"><b>pfSense CE</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788)|An attacker can use several vulnerabilities of pfSense CE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787" class="noirorange"><b>OpenSSL</b>: overload via DH Large Q Parameter Value</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787)|An attacker can trigger an overload of OpenSSL, via DH Large Q Parameter Value, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786" class="noirorange"><b>Avast</b>: buffer overflow via TOCTOU IOCTL Requests</a>](https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786)|An attacker can trigger a buffer overflow of Avast, via TOCTOU IOCTL Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>brcmf_cfg80211_detac<wbr>h()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784" class="noirorange"><b>Apache Ivy</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784)|An attacker can transmit malicious XML data to Apache Ivy, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-copy-from-user-nofault-42783" class="noirorange"><b>Linux kernel</b>: read-write access via <wbr>copy_from_user_nofau<wbr>lt()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-copy-from-user-nofault-42783)|An attacker can bypass access restrictions of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782" class="noirorange"><b>Xpdf</b>: denial of service via <wbr>Catalog::findDestInT<wbr>ree()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Catalog-findDestInTree-42782)|An attacker can cause a fatal error of Xpdf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via <wbr>GfxPatchMeshShading:<wbr>:parse()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-GfxPatchMeshShading-parse-42781)|An attacker can force a read at an invalid memory address of Xpdf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780" class="noirorange"><b>RubyGem Active Support</b>: file reading via Locally Encrypted Files</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-file-reading-via-Locally-Encrypted-Files-42780)|An attacker can read a file of RubyGem Active Support, via Locally Encrypted Files, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-overload-via-MimeDecAddEntity-42779" class="noirorange"><b>Suricata</b>: overload via MimeDecAddEntity</a>](https://vigilance.fr/vulnerability/Suricata-overload-via-MimeDecAddEntity-42779)|An attacker can trigger an overload of Suricata, via MimeDecAddEntity, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -69,6 +51,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-Python-denial-of-service-42795" class="noirorange"><b>AIX Python</b>: denial of service</a>](https://vigilance.fr/vulnerability/AIX-Python-denial-of-service-42795)|An attacker can cause a fatal error of AIX Python, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/urllib3-information-disclosure-via-Authorization-HTTP-Header-42794" class="noirorange"><b>urllib3</b>: information disclosure via Authorization HTTP Header</a>](https://vigilance.fr/vulnerability/urllib3-information-disclosure-via-Authorization-HTTP-Header-42794)|An attacker can bypass access restrictions to data of urllib3, via Authorization HTTP Header, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rabbitmq-c-information-disclosure-via-Credentials-Process-Listing-42793" class="noirorange"><b>rabbitmq-c</b>: information disclosure via Credentials Process Listing</a>](https://vigilance.fr/vulnerability/rabbitmq-c-information-disclosure-via-Credentials-Process-Listing-42793)|An attacker can bypass access restrictions to data of rabbitmq-c, via Credentials Process Listing, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RHEL-qemu-kvm-use-after-free-via-EHCI-Controller-DMA-Reentrancy-42792" class="noirorange"><b>RHEL qemu-kvm</b>: use after free via EHCI Controller DMA Reentrancy</a>](https://vigilance.fr/vulnerability/RHEL-qemu-kvm-use-after-free-via-EHCI-Controller-DMA-Reentrancy-42792)|An attacker can force the reuse of a freed memory area of RHEL qemu-kvm, via EHCI Controller DMA Reentrancy, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2023-42791" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2023-42791)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-write-access-via-Time-Stamp-File-User-Name-Separator-42789" class="noirorange"><b>Sudo</b>: write access via Time Stamp File User Name Separator</a>](https://vigilance.fr/vulnerability/Sudo-write-access-via-Time-Stamp-File-User-Name-Separator-42789)|An attacker can bypass access restrictions of Sudo, via Time Stamp File User Name Separator, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788" class="noirorange"><b>pfSense CE</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-42788)|An attacker can use several vulnerabilities of pfSense CE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787" class="noirorange"><b>OpenSSL</b>: overload via DH Large Q Parameter Value</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-DH-Large-Q-Parameter-Value-42787)|An attacker can trigger an overload of OpenSSL, via DH Large Q Parameter Value, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786" class="noirorange"><b>Avast</b>: buffer overflow via TOCTOU IOCTL Requests</a>](https://vigilance.fr/vulnerability/Avast-buffer-overflow-via-TOCTOU-IOCTL-Requests-42786)|An attacker can trigger a buffer overflow of Avast, via TOCTOU IOCTL Requests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>brcmf_cfg80211_detac<wbr>h()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-brcmf-cfg80211-detach-42785)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784" class="noirorange"><b>Apache Ivy</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Apache-Ivy-external-XML-entity-injection-42784)|An attacker can transmit malicious XML data to Apache Ivy, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  
  ---
 
