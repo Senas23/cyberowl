@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/11/2023 09:18:24 UTC
+ > Last Updated 09/11/2023 21:17:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820" class="noirorange"><b>OpenVPN OpenSource</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-two-vulnerabilities-42820)|An attacker can use several vulnerabilities of OpenVPN OpenSource...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-three-vulnerabilities-42819" class="noirorange"><b>PostgreSQL</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/PostgreSQL-three-vulnerabilities-42819)|An attacker can use several vulnerabilities of PostgreSQL...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810" class="noirorange"><b>Webmin  Usermin</b>: file deletion via Mail File Names Quote</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-file-deletion-via-Mail-File-Names-Quote-42810)|An attacker can bypass access restrictions of Webmin  Usermin, via Mail File Names Quote, in order to delete a file...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808" class="noirorange"><b>Drupal GraphQL</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-Cross-Site-Request-Forgery-42808)|An attacker can trigger a Cross Site Request Forgery of Drupal GraphQL, in order to force the victim to perform operations...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807" class="noirorange"><b>Drupal GraphQL</b>: information disclosure via Schema EntityLabel DataProducer</a>](https://vigilance.fr/vulnerability/Drupal-GraphQL-information-disclosure-via-Schema-EntityLabel-DataProducer-42807)|An attacker can bypass access restrictions to data of Drupal GraphQL, via Schema EntityLabel DataProducer, in order to read sensitive information...|Visit link for details|
@@ -67,8 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Packet Length</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Packet Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799" class="noirorange"><b>Puppet Labs Puppet Enterprise</b>: read-write access via SAML Broken Session Management</a>](https://vigilance.fr/vulnerability/Puppet-Labs-Puppet-Enterprise-read-write-access-via-SAML-Broken-Session-Management-42799)|An attacker can bypass access restrictions of Puppet Labs Puppet Enterprise, via SAML Broken Session Management, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via WebAudio</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-WebAudio-42798)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via WebAudio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via libcap_net</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-libcap-net-42797)|An attacker can bypass filtering rules of FreeBSD, via libcap_net, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-libc-stdio-42796" class="noirorange"><b>FreeBSD</b>: buffer overflow via libc stdio</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-libc-stdio-42796)|An attacker can trigger a buffer overflow of FreeBSD, via libc stdio, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
