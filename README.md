@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/11/2023 21:16:49 UTC
+ > Last Updated 16/11/2023 09:19:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,13 +47,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -65,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-NetScreen-File-Parser-42899" class="noirorange"><b>Wireshark</b>: denial of service via NetScreen File Parser</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-NetScreen-File-Parser-42899)|An attacker can cause a fatal error of Wireshark, via NetScreen File Parser, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-SSH-Dissector-42898" class="noirorange"><b>Wireshark</b>: denial of service via SSH Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-SSH-Dissector-42898)|An attacker can cause a fatal error of Wireshark, via SSH Dissector, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Mollie-write-access-via-Payment-Confirmation-Logic-42897" class="noirorange"><b>Drupal Mollie</b>: write access via Payment Confirmation Logic</a>](https://vigilance.fr/vulnerability/Drupal-Mollie-write-access-via-Payment-Confirmation-Logic-42897)|An attacker can bypass access restrictions of Drupal Mollie, via Payment Confirmation Logic, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-Cross-Site-Scripting-42896" class="noirorange"><b>Cisco IP Phone</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-Cross-Site-Scripting-42896)|An attacker can trigger a Cross Site Scripting of Cisco IP Phone, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Client-two-vulnerabilities-42895" class="noirorange"><b>Cisco Secure Client</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Client-two-vulnerabilities-42895)|An attacker can use several vulnerabilities of Cisco Secure Client...|Visit link for details|
@@ -74,6 +69,11 @@
  |[<a href="https://vigilance.fr/vulnerability/RHEL-Ghostscript-denial-of-service-via-Incomplete-Fix-42891" class="noirorange"><b>RHEL Ghostscript</b>: denial of service via Incomplete Fix</a>](https://vigilance.fr/vulnerability/RHEL-Ghostscript-denial-of-service-via-Incomplete-Fix-42891)|An attacker can cause a fatal error of RHEL Ghostscript, via Incomplete Fix, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/exfatprogs-out-of-bounds-memory-reading-via-read-file-dentry-set-42889" class="noirorange"><b>exfatprogs</b>: out-of-bounds memory reading via <wbr>read_file_dentry_set<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/exfatprogs-out-of-bounds-memory-reading-via-read-file-dentry-set-42889)|An attacker can force a read at an invalid memory address of exfatprogs, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cobbler-directory-escape-via-Profile-Kickstart-Field-42888" class="noirorange"><b>Cobbler</b>: directory escape via Profile Kickstart Field</a>](https://vigilance.fr/vulnerability/Cobbler-directory-escape-via-Profile-Kickstart-Field-42888)|An attacker can escape from the working directory of Cobbler, via Profile Kickstart Field, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-42884" class="noirorange"><b>AMD Processor</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-42884)|An attacker can use several vulnerabilities of AMD Processor...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
