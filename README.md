@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/11/2023 09:19:52 UTC
+ > Last Updated 21/11/2023 21:17:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,13 +47,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -65,15 +58,22 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-Email-Leak-42929" class="noirorange"><b>WordPress Core</b>: information disclosure via Email Leak</a>](https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-Email-Leak-42929)|An attacker can bypass access restrictions to data of WordPress Core, via Email Leak, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928" class="noirorange"><b>OpenBSD</b>: NULL pointer dereference via Fastcgi Request</a>](https://vigilance.fr/vulnerability/OpenBSD-NULL-pointer-dereference-via-Fastcgi-Request-42928)|An attacker can force a NULL pointer to be dereferenced on OpenBSD, via Fastcgi Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927" class="noirorange"><b>strongSwan</b>: denial of service via DH Public Values</a>](https://vigilance.fr/vulnerability/strongSwan-denial-of-service-via-DH-Public-Values-42927)|An attacker can cause a fatal error of strongSwan, via DH Public Values, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926" class="noirorange"><b>Twisted</b>: write access via Response Order</a>](https://vigilance.fr/vulnerability/Twisted-write-access-via-Response-Order-42926)|An attacker can bypass access restrictions of Twisted, via Response Order, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925" class="noirorange"><b>Extreme Networks EXOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925)|An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924" class="noirorange"><b>IP Infusion ZebOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924)|An attacker can send malicious BGP Update Messages packets to IP Infusion ZebOS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923" class="noirorange"><b>yt-dlp</b>: Man-in-the-Middle via HTTP Session</a>](https://vigilance.fr/vulnerability/yt-dlp-Man-in-the-Middle-via-HTTP-Session-42923)|An attacker can act as a Man-in-the-Middle on yt-dlp, via HTTP Session, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-use-after-free-via-MXF-Demuxer-42922" class="noirorange"><b>GStreamer</b>: use after free via MXF Demuxer</a>](https://vigilance.fr/vulnerability/GStreamer-use-after-free-via-MXF-Demuxer-42922)|An attacker can force the reuse of a freed memory area of GStreamer, via MXF Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-42921" class="noirorange"><b>GStreamer</b>: buffer overflow via AV1 Codec Parser</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-42921)|An attacker can trigger a buffer overflow of GStreamer, via AV1 Codec Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/lwIP-information-disclosure-via-icmp6-send-response-with-addrs-and-netif-42920" class="noirorange"><b>lwIP</b>: information disclosure via <wbr>icmp6_send_response_<wbr>with_addrs_and_netif<wbr>()</wbr></wbr></wbr></a>](https://vigilance.fr/vulnerability/lwIP-information-disclosure-via-icmp6-send-response-with-addrs-and-netif-42920)|An attacker can bypass access restrictions to data of lwIP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Discovered-Hosts-List-42919" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting via Discovered Hosts List</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Discovered-Hosts-List-42919)|An attacker can trigger a Cross Site Scripting of Centreon Web, via Discovered Hosts List, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943" class="noirorange"><b>Neko HTML</b>: overload via Processing Instruction</a>](https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943)|An attacker can trigger an overload of Neko HTML, via Processing Instruction, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942" class="noirorange"><b>Open vSwitch</b>: ingress filtrering bypass via ICMPv6 Neighbor Advertisement</a>](https://vigilance.fr/vulnerability/Open-vSwitch-ingress-filtrering-bypass-via-ICMPv6-Neighbor-Advertisement-42942)|An attacker can bypass filtering rules of Open vSwitch, via ICMPv6 Neighbor Advertisement, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-RSA-PSK-Key-Exchange-Timing-Sidechannel-42941" class="noirorange"><b>GnuTLS</b>: information disclosure via RSA-PSK Key Exchange Timing Sidechannel</a>](https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-RSA-PSK-Key-Exchange-Timing-Sidechannel-42941)|An attacker can bypass access restrictions to data of GnuTLS, via RSA-PSK Key Exchange Timing Sidechannel, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-EOR-42940" class="noirorange"><b>FRRouting</b>: denial of service via BGP UPDATE EOR</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-EOR-42940)|An attacker can cause a fatal error of FRRouting, via BGP UPDATE EOR, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-MP-UNREACH-NLRI-Attribute-Additional-NLRI-Data-42939" class="noirorange"><b>FRRouting</b>: denial of service via MP_UNREACH_NLRI Attribute Additional NLRI Data</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-MP-UNREACH-NLRI-Attribute-Additional-NLRI-Data-42939)|An attacker can cause a fatal error of FRRouting, via MP_UNREACH_NLRI Attribute Additional NLRI Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-Labeled-Unicast-42938" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via Labeled Unicast</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-Labeled-Unicast-42938)|An attacker can force a read at an invalid memory address of FRRouting, via Labeled Unicast, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937" class="noirorange"><b>FRRouting</b>: buffer overflow via Flowspec Zero Nlri Length</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937)|An attacker can trigger a buffer overflow of FRRouting, via Flowspec Zero Nlri Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-aswSnx-sys-42936" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via aswSnx.sys</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-aswSnx-sys-42936)|An attacker can bypass restrictions of Avast Antivirus, via aswSnx.sys, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-Mosquitto-memory-leak-via-MQTT-V5-CONNECT-Message-42935" class="noirorange"><b>Eclipse Mosquitto</b>: memory leak via MQTT V5 CONNECT Message</a>](https://vigilance.fr/vulnerability/Eclipse-Mosquitto-memory-leak-via-MQTT-V5-CONNECT-Message-42935)|An attacker can create a memory leak of Eclipse Mosquitto, via MQTT V5 CONNECT Message, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42934" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42934)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hibagent-information-disclosure-via-IMDSv1-42933" class="noirorange"><b>hibagent</b>: information disclosure via IMDSv1</a>](https://vigilance.fr/vulnerability/hibagent-information-disclosure-via-IMDSv1-42933)|An attacker can bypass access restrictions to data of hibagent, via IMDSv1, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
