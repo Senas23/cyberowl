@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/11/2023 21:16:34 UTC
+ > Last Updated 24/11/2023 09:19:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955" class="noirorange"><b>Vim</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955)|An attacker can use several vulnerabilities of Vim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nf_tables</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nf_tables, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: denial of service via PEMParser</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953)|An attacker can cause a fatal error of Bouncy Castle Java Cryptography Extension, via PEMParser, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952" class="noirorange"><b>OpenZFS</b>: ingress filtrering bypass via sharenfs</a>](https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952)|An attacker can bypass filtering rules of OpenZFS, via sharenfs, in order to send malicious data...|Visit link for details|
@@ -68,7 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945" class="noirorange"><b>Linux kernel</b>: buffer overflow via NVM Express</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945)|An attacker can trigger a buffer overflow of the Linux kernel, via NVM Express, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>drivers/gpu/drm/vmwg<wbr>fx</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943" class="noirorange"><b>Neko HTML</b>: overload via Processing Instruction</a>](https://vigilance.fr/vulnerability/Neko-HTML-overload-via-Processing-Instruction-42943)|An attacker can trigger an overload of Neko HTML, via Processing Instruction, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
