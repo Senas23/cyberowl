@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/11/2023 21:16:24 UTC
+ > Last Updated 27/11/2023 09:19:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,32 +47,32 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965" class="noirorange"><b>Perl Core Windows</b>: code execution via System Path</a>](https://vigilance.fr/vulnerability/Perl-Core-Windows-code-execution-via-System-Path-42965)|An attacker can use a vulnerability of Perl Core Windows, via System Path, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964" class="noirorange"><b>Perl Core</b>: buffer overflow via Regular Expression User-defined Unicode Property</a>](https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-User-defined-Unicode-Property-42964)|An attacker can trigger a buffer overflow of Perl Core, via Regular Expression User-defined Unicode Property, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-ga-grow-inner-42963" class="noirorange"><b>Vim</b>: use after free via ga_grow_inner()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-ga-grow-inner-42963)|An attacker can force the reuse of a freed memory area of Vim, via ga_grow_inner(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Text-to-speech Accessibility</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Text-to-speech-Accessibility-42962)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Text-to-speech Accessibility, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42961)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Address-Bar-42960)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Address Bar, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Private-Browsing-42959" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Private Browsing</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Private-Browsing-42959)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Private Browsing, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Frames-UI-Spoofing-42958" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: spoofing via Frames UI Spoofing</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-spoofing-via-Frames-UI-Spoofing-42958)|An attacker can create spoofed data on WebKitGTK  WPE WebKit, via Frames UI Spoofing, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Extension-Info-Message-42957" class="noirorange"><b>AsyncSSH</b>: read-write access via Extension Info Message</a>](https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Extension-Info-Message-42957)|An attacker can bypass access restrictions of AsyncSSH, via Extension Info Message, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Packet-Injection-42956" class="noirorange"><b>AsyncSSH</b>: read-write access via Packet Injection</a>](https://vigilance.fr/vulnerability/AsyncSSH-read-write-access-via-Packet-Injection-42956)|An attacker can bypass access restrictions of AsyncSSH, via Packet Injection, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955" class="noirorange"><b>Vim</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-42955)|An attacker can use several vulnerabilities of Vim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nf_tables</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-42954)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nf_tables, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: denial of service via PEMParser</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-denial-of-service-via-PEMParser-42953)|An attacker can cause a fatal error of Bouncy Castle Java Cryptography Extension, via PEMParser, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952" class="noirorange"><b>OpenZFS</b>: ingress filtrering bypass via sharenfs</a>](https://vigilance.fr/vulnerability/OpenZFS-ingress-filtrering-bypass-via-sharenfs-42952)|An attacker can bypass filtering rules of OpenZFS, via sharenfs, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/tracker-miners-code-execution-via-Sandbox-Escape-42951" class="noirorange"><b>tracker-miners</b>: code execution via Sandbox Escape</a>](https://vigilance.fr/vulnerability/tracker-miners-code-execution-via-Sandbox-Escape-42951)|An attacker can use a vulnerability of tracker-miners, via Sandbox Escape, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950" class="noirorange"><b>sbt</b>: directory traversal via IO.unzip()</a>](https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950)|An attacker can traverse directories of sbt, via IO.unzip(), in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948" class="noirorange"><b>Elasticsearch</b>: denial of service via Simulate Pipeline API</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Simulate-Pipeline-API-42948)|An attacker can cause a fatal error of Elasticsearch, via Simulate Pipeline API, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42947)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946" class="noirorange"><b>NVIDIA GPU Display Driver</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/NVIDIA-GPU-Display-Driver-multiple-vulnerabilities-42946)|An attacker can use several vulnerabilities of NVIDIA GPU Display Driver...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945" class="noirorange"><b>Linux kernel</b>: buffer overflow via NVM Express</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NVM-Express-42945)|An attacker can trigger a buffer overflow of the Linux kernel, via NVM Express, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>drivers/gpu/drm/vmwg<wbr>fx</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-drivers-gpu-drm-vmwgfx-42944)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
