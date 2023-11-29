@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/11/2023 09:20:08 UTC
+ > Last Updated 29/11/2023 21:16:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,21 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Xsendfile-information-disclosure-via-ImageStyleDownloadController-42987" class="noirorange"><b>Drupal Xsendfile</b>: information disclosure via <wbr>ImageStyleDownloadCo<wbr>ntroller</wbr></wbr></a>](https://vigilance.fr/vulnerability/Drupal-Xsendfile-information-disclosure-via-ImageStyleDownloadController-42987)|An attacker can bypass access restrictions to data of Drupal Xsendfile, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986" class="noirorange"><b>FreeRDP</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984" class="noirorange"><b>Azure Storage Library</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984)|An attacker can bypass access restrictions to data of Azure Storage Library, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42983" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42983)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HAProxy-information-disclosure-via-URI-Component-Hash-42981" class="noirorange"><b>HAProxy</b>: information disclosure via URI Component Hash</a>](https://vigilance.fr/vulnerability/HAProxy-information-disclosure-via-URI-Component-Hash-42981)|An attacker can bypass access restrictions to data of HAProxy, via URI Component Hash, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980" class="noirorange"><b>PyArrow</b>: code execution via IPC / Parquet Readers Deserialization</a>](https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980)|An attacker can use a vulnerability of PyArrow, via IPC / Parquet Readers Deserialization, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NATS-io-no-encryption-via-All-zeros-Key-42979" class="noirorange"><b>NATS.io</b>: no encryption via All-zeros Key</a>](https://vigilance.fr/vulnerability/NATS-io-no-encryption-via-All-zeros-Key-42979)|An attacker can access data on NATS.io, via All-zeros Key, in order to read sensitive information...|Visit link for details|
@@ -58,17 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977" class="noirorange"><b>AFFLIB</b>: memory corruption via af_get_page()</a>](https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977)|An attacker can trigger a memory corruption of AFFLIB, via af_get_page(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976" class="noirorange"><b>Joomla Core</b>: information disclosure via Environment Variables</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976)|An attacker can bypass access restrictions to data of Joomla Core, via Environment Variables, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975" class="noirorange"><b>Apache Tomcat</b>: header injection via Trailer</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975)|An attacker can add new headers on Apache Tomcat, via Trailer, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fast-DDS-double-free-via-DATA-Submessages-42972" class="noirorange"><b>Fast DDS</b>: double free via DATA Submessages</a>](https://vigilance.fr/vulnerability/Fast-DDS-double-free-via-DATA-Submessages-42972)|An attacker can force a double memory free of Fast DDS, via DATA Submessages, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/crypto-js-weak-encryption-via-PBKDF2-42971" class="noirorange"><b>crypto-js</b>: weak encryption via PBKDF2</a>](https://vigilance.fr/vulnerability/crypto-js-weak-encryption-via-PBKDF2-42971)|An attacker can access data on crypto-js, via PBKDF2, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Core-memory-corruption-via-S-find-uninit-var-42969" class="noirorange"><b>Perl Core</b>: memory corruption via S_find_uninit_var()</a>](https://vigilance.fr/vulnerability/Perl-Core-memory-corruption-via-S-find-uninit-var-42969)|An attacker can trigger a memory corruption of Perl Core, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Web-Observations-42967" class="noirorange"><b>Spring Framework</b>: denial of service via Web Observations</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Web-Observations-42967)|An attacker can cause a fatal error of Spring Framework, via Web Observations, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
