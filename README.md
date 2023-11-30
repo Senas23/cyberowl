@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/11/2023 21:16:28 UTC
+ > Last Updated 30/11/2023 09:19:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/qBittorrent-user-access-via-Default-Credentials-42988" class="noirorange"><b>qBittorrent</b>: user access via Default Credentials</a>](https://vigilance.fr/vulnerability/qBittorrent-user-access-via-Default-Credentials-42988)|An attacker can bypass restrictions of qBittorrent, via Default Credentials, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Xsendfile-information-disclosure-via-ImageStyleDownloadController-42987" class="noirorange"><b>Drupal Xsendfile</b>: information disclosure via <wbr>ImageStyleDownloadCo<wbr>ntroller</wbr></wbr></a>](https://vigilance.fr/vulnerability/Drupal-Xsendfile-information-disclosure-via-ImageStyleDownloadController-42987)|An attacker can bypass access restrictions to data of Drupal Xsendfile, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986" class="noirorange"><b>FreeRDP</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-42986)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984" class="noirorange"><b>Azure Storage Library</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Azure-Storage-Library-information-disclosure-42984)|An attacker can bypass access restrictions to data of Azure Storage Library, in order to read sensitive information...|Visit link for details|
@@ -68,11 +62,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42978)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977" class="noirorange"><b>AFFLIB</b>: memory corruption via af_get_page()</a>](https://vigilance.fr/vulnerability/AFFLIB-memory-corruption-via-af-get-page-42977)|An attacker can trigger a memory corruption of AFFLIB, via af_get_page(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976" class="noirorange"><b>Joomla Core</b>: information disclosure via Environment Variables</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Environment-Variables-42976)|An attacker can bypass access restrictions to data of Joomla Core, via Environment Variables, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975" class="noirorange"><b>Apache Tomcat</b>: header injection via Trailer</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-header-injection-via-Trailer-42975)|An attacker can add new headers on Apache Tomcat, via Trailer, in order to alter the service behavior...|Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
