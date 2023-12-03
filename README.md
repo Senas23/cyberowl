@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/12/2023 21:15:21 UTC
+ > Last Updated 03/12/2023 09:18:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -62,13 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-DATAACCESS-43002" class="noirorange"><b>IBM Db2</b>: privilege escalation via DATAACCESS</a>](https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-DATAACCESS-43002)|An attacker can bypass restrictions of IBM Db2, via DATAACCESS, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-lookup-sequence-43001" class="noirorange"><b>ZBar</b>: buffer overflow via lookup_sequence()</a>](https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-lookup-sequence-43001)|An attacker can trigger a buffer overflow of ZBar, via lookup_sequence(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-qr-reader-match-centers-43000" class="noirorange"><b>ZBar</b>: buffer overflow via <wbr>qr_reader_match_cent<wbr>ers()</wbr></wbr></a>](https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-qr-reader-match-centers-43000)|An attacker can trigger a buffer overflow of ZBar, via |Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
