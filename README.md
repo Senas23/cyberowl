@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/12/2023 21:15:28 UTC
+ > Last Updated 04/12/2023 09:19:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014" class="noirorange"><b>Squid</b>: denial of service via Helper Process Management</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-Helper-Process-Management-43014)|An attacker can cause a fatal error of Squid, via Helper Process Management, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013" class="noirorange"><b>Squid</b>: denial of service via HTTP Message Processing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Message-Processing-43013)|An attacker can cause a fatal error of Squid, via HTTP Message Processing, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012" class="noirorange"><b>Squid</b>: denial of service via HTTP Collapsed Forwarding</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Collapsed-Forwarding-43012)|An attacker can cause a fatal error of Squid, via HTTP Collapsed Forwarding, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011" class="noirorange"><b>OpenDKIM</b>: spoofing via Sender Address</a>](https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011)|An attacker can create spoofed data on OpenDKIM, via Sender Address, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CLI-43010" class="noirorange"><b>IBM Db2</b>: denial of service via CLI</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CLI-43010)|An attacker can cause a fatal error of IBM Db2, via CLI, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Query-Objects-43009" class="noirorange"><b>IBM Db2</b>: denial of service via Federated Query Objects</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Query-Objects-43009)|An attacker can cause a fatal error of IBM Db2, via Federated Query Objects, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-43008" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-43008)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
@@ -65,10 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006" class="noirorange"><b>IBM Db2</b>: denial of service via CONNECT</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-CONNECT-43006)|An attacker can cause a fatal error of IBM Db2, via CONNECT, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-RUNSTATS-Command-43005" class="noirorange"><b>IBM Db2</b>: denial of service via RUNSTATS Command</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-RUNSTATS-Command-43005)|An attacker can cause a fatal error of IBM Db2, via RUNSTATS Command, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Extreme-Stress-43004" class="noirorange"><b>IBM Db2</b>: denial of service via Extreme Stress</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Extreme-Stress-43004)|An attacker can cause a fatal error of IBM Db2, via Extreme Stress, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-Statement-43003" class="noirorange"><b>IBM Db2</b>: denial of service via SQL Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-SQL-Statement-43003)|An attacker can cause a fatal error of IBM Db2, via SQL Statement, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-DATAACCESS-43002" class="noirorange"><b>IBM Db2</b>: privilege escalation via DATAACCESS</a>](https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-DATAACCESS-43002)|An attacker can bypass restrictions of IBM Db2, via DATAACCESS, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-lookup-sequence-43001" class="noirorange"><b>ZBar</b>: buffer overflow via lookup_sequence()</a>](https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-lookup-sequence-43001)|An attacker can trigger a buffer overflow of ZBar, via lookup_sequence(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-qr-reader-match-centers-43000" class="noirorange"><b>ZBar</b>: buffer overflow via <wbr>qr_reader_match_cent<wbr>ers()</wbr></wbr></a>](https://vigilance.fr/vulnerability/ZBar-buffer-overflow-via-qr-reader-match-centers-43000)|An attacker can trigger a buffer overflow of ZBar, via |Visit link for details|
  
  ---
 
