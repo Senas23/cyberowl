@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/12/2023 21:18:16 UTC
+ > Last Updated 07/12/2023 09:18:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035" class="noirorange"><b>Apache Struts</b>: directory traversal via File Upload Params</a>](https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035)|An attacker can traverse directories of Apache Struts, via File Upload Params, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034" class="noirorange"><b>Drupal Group</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Group-read-write-access-43034)|An attacker can bypass access restrictions of Drupal Group, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033" class="noirorange"><b>WordPress Core</b>: code execution</a>](https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033)|An attacker can use a vulnerability of WordPress Core, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Cryptography-NULL-pointer-dereference-via-load-pem-pkcs7-certificates-43032" class="noirorange"><b>Python Cryptography</b>: NULL pointer dereference via <wbr>load_pem_pkcs7_certi<wbr>ficates()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Python-Cryptography-NULL-pointer-dereference-via-load-pem-pkcs7-certificates-43032)|An attacker can force a NULL pointer to be dereferenced on Python Cryptography, via |Visit link for details|
@@ -68,7 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via pf TCP Spoofing</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025)|An attacker can bypass filtering rules of FreeBSD, via pf TCP Spoofing, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via <wbr>openssl::x509::verif<wbr>y::X509VerifyParamRe<wbr>f::set_host()</wbr></wbr></wbr></a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023" class="noirorange"><b>Rust</b>: out-of-bounds memory reading via <wbr>openssl::x509::verif<wbr>y::X509VerifyParamRe<wbr>f::set_host()</wbr></wbr></wbr></a>](https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023)|An attacker can force a read at an invalid memory address of Rust, via |Visit link for details|
  
  ---
 
