@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/12/2023 09:19:55 UTC
+ > Last Updated 12/12/2023 21:17:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,28 +51,28 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057" class="noirorange"><b>Go</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-43057)|An attacker can use several vulnerabilities of Go...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056" class="noirorange"><b>hplip</b>: file read/write via Hppsfilter Booklet Printing</a>](https://vigilance.fr/vulnerability/hplip-file-read-write-via-Hppsfilter-Booklet-Printing-43056)|An attacker can bypass access restrictions of hplip, via Hppsfilter Booklet Printing, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43055" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43055)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054" class="noirorange"><b>AIX</b>: three vulnerabilities via Printers System</a>](https://vigilance.fr/vulnerability/AIX-three-vulnerabilities-via-Printers-System-43054)|An attacker can use several vulnerabilities of AIX, via Printers System...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dpll-pin-parent-pin-set-43053" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>dpll_pin_parent_pin_<wbr>set()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dpll-pin-parent-pin-set-43053)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052" class="noirorange"><b>LibreOffice</b>: code execution via Link Targets</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052)|An attacker can use a vulnerability of LibreOffice, via Link Targets, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051" class="noirorange"><b>LibreOffice</b>: code execution via Gstreamer Pipeline Injection</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051)|An attacker can use a vulnerability of LibreOffice, via Gstreamer Pipeline Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050" class="noirorange"><b>HP-UX System Management Homepage</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050)|An attacker can bypass access restrictions to data of HP-UX System Management Homepage, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-tar-denial-of-service-via-PAX-Archives-Extended-Attributes-43049" class="noirorange"><b>GNU tar</b>: denial of service via PAX Archives Extended Attributes</a>](https://vigilance.fr/vulnerability/GNU-tar-denial-of-service-via-PAX-Archives-Extended-Attributes-43049)|An attacker can cause a fatal error of GNU tar, via PAX Archives Extended Attributes, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BlueZ-privilege-escalation-via-Bluetooth-HID-Hosts-43048" class="noirorange"><b>BlueZ</b>: privilege escalation via Bluetooth HID Hosts</a>](https://vigilance.fr/vulnerability/BlueZ-privilege-escalation-via-Bluetooth-HID-Hosts-43048)|An attacker can bypass restrictions of BlueZ, via Bluetooth HID Hosts, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nft-dynset-init-43047" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nft_dynset_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nft-dynset-init-43047)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nft_dynset_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075" class="noirorange"><b>FortiOS</b>: code execution via HTTPSd API Requests</a>](https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075)|An attacker can use a vulnerability of FortiOS, via HTTPSd API Requests, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074" class="noirorange"><b>FortiOS</b>: ingress filtrering bypass via Deny Geolocalisation Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074)|An attacker can bypass filtering rules of FortiOS, via Deny Geolocalisation Bypass, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073" class="noirorange"><b>FortiOS</b>: double free via Cache Management</a>](https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073)|An attacker can force a double memory free of FortiOS, via Cache Management, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070" class="noirorange"><b>Elasticsearch</b>: logged sensitive information via DEBUG Log Level</a>](https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070)|An attacker can read logs of Elasticsearch, via DEBUG Log Level, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-NFS-Client-43069" class="noirorange"><b>FreeBSD</b>: information disclosure via NFS Client</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-NFS-Client-43069)|An attacker can bypass access restrictions to data of FreeBSD, via NFS Client, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068" class="noirorange"><b>Windows</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067" class="noirorange"><b>Microsoft Malware Protection</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067)|An attacker can cause a fatal error of Microsoft Malware Protection, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064" class="noirorange"><b>Ghostscript</b>: denial of service via <wbr>gdev_prn_open_printe<wbr>r_seekable()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064)|An attacker can cause a fatal error of Ghostscript, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-via-User-Management-Component-43063" class="noirorange"><b>SIMATIC PCS neo</b>: multiple vulnerabilities via User Management Component</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-via-User-Management-Component-43063)|An attacker can use several vulnerabilities of SIMATIC PCS neo, via User Management Component...|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
