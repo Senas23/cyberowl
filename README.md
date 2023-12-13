@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/12/2023 21:17:38 UTC
+ > Last Updated 13/12/2023 09:19:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/)|Une vulnérabilité a été découverte|Publié le 12 décembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1015/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1014/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1013/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 décembre 2023|
  |[Multiples vulnérabilités dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1012/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1011/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 décembre 2023|
  |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1010/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 décembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 décembre 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1008/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 8 décembre 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 8 décembre 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1006/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 décembre 2023|
- |[Vulnérabilité dans Apache Struts 2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1005/)|Une vulnérabilité a été découverte dans Apache Struts 2. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1004/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 7 décembre 2023|
- |[Vulnérabilité dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1003/)|Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 décembre 2023|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -51,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078" class="noirorange"><b>X.Org Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078)|An attacker can use several vulnerabilities of X.Org Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-Settings-user-access-via-Enabled-SSH-Remote-Login-43077" class="noirorange"><b>GNOME Settings</b>: user access via Enabled SSH Remote Login</a>](https://vigilance.fr/vulnerability/GNOME-Settings-user-access-via-Enabled-SSH-Remote-Login-43077)|An attacker can bypass restrictions of GNOME Settings, via Enabled SSH Remote Login, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075" class="noirorange"><b>FortiOS</b>: code execution via HTTPSd API Requests</a>](https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075)|An attacker can use a vulnerability of FortiOS, via HTTPSd API Requests, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074" class="noirorange"><b>FortiOS</b>: ingress filtrering bypass via Deny Geolocalisation Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074)|An attacker can bypass filtering rules of FortiOS, via Deny Geolocalisation Bypass, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073" class="noirorange"><b>FortiOS</b>: double free via Cache Management</a>](https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073)|An attacker can force a double memory free of FortiOS, via Cache Management, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -60,19 +69,10 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067" class="noirorange"><b>Microsoft Malware Protection</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067)|An attacker can cause a fatal error of Microsoft Malware Protection, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064" class="noirorange"><b>Ghostscript</b>: denial of service via <wbr>gdev_prn_open_printe<wbr>r_seekable()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064)|An attacker can cause a fatal error of Ghostscript, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-via-User-Management-Component-43063" class="noirorange"><b>SIMATIC PCS neo</b>: multiple vulnerabilities via User Management Component</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-multiple-vulnerabilities-via-User-Management-Component-43063)|An attacker can use several vulnerabilities of SIMATIC PCS neo, via User Management Component...|Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
