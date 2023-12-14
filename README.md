@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/12/2023 21:17:21 UTC
+ > Last Updated 14/12/2023 09:19:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Jupyter-Server-information-disclosure-via-API-Requests-Traceback-Path-43098" class="noirorange"><b>Jupyter Server</b>: information disclosure via API Requests Traceback Path</a>](https://vigilance.fr/vulnerability/Jupyter-Server-information-disclosure-via-API-Requests-Traceback-Path-43098)|An attacker can bypass access restrictions to data of Jupyter Server, via API Requests Traceback Path, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Web-Interface-OS-Command-Injection-43097" class="noirorange"><b>PAN-OS</b>: code execution via Web Interface OS Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Web-Interface-OS-Command-Injection-43097)|An attacker can use a vulnerability of PAN-OS, via Web Interface OS Command Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-upload-via-Web-Interface-43096" class="noirorange"><b>PAN-OS</b>: file upload via Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-file-upload-via-Web-Interface-43096)|An attacker can upload a malicious file on PAN-OS, via Web Interface, in order for example to upload a Trojan...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-XML-API-Keys-Revoked-43095" class="noirorange"><b>PAN-OS</b>: denial of service via XML API Keys Revoked</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-XML-API-Keys-Revoked-43095)|An attacker can cause a fatal error of PAN-OS, via XML API Keys Revoked, in order to trigger a denial of service...|Visit link for details|
@@ -68,7 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43090" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43090)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089" class="noirorange"><b>Dell Unisphere for PowerMax</b>: multiple vulnerabilities via Dell vApp Manager</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089)|An attacker can use several vulnerabilities of Dell Unisphere for PowerMax, via Dell vApp Manager...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>nf_conntrack_dccp_pa<wbr>cket()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
