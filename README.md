@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/12/2023 21:17:04 UTC
+ > Last Updated 21/12/2023 09:19:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,18 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158" class="noirorange"><b>QEMU</b>: out-of-bounds memory reading via nvme_fdp_events()</a>](https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-nvme-fdp-events-43158)|An attacker, in a guest system, can force a read at an invalid memory address of QEMU, via nvme_fdp_events(), in order to trigger a denial of service, or to obtain sensitive information on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-buffer-overflow-via-WebRTC-43157" class="noirorange"><b>Chrome  Edge  Opera</b>: buffer overflow via WebRTC</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-buffer-overflow-via-WebRTC-43157)|An attacker can trigger a buffer overflow of Chrome  Edge  Opera, via WebRTC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-SMB-Client-Daemon-43156" class="noirorange"><b>AIX</b>: denial of service via SMB Client Daemon</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-SMB-Client-Daemon-43156)|An attacker can cause a fatal error of AIX, via SMB Client Daemon, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155" class="noirorange"><b>Drupal Data Visualisation Framework</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Data-Visualisation-Framework-Cross-Site-Scripting-43155)|An attacker can trigger a Cross Site Scripting of Drupal Data Visualisation Framework, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -61,14 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150" class="noirorange"><b>OpenSC</b>: out-of-bounds memory reading via MyEID Driver Symmetric Key Encryption</a>](https://vigilance.fr/vulnerability/OpenSC-out-of-bounds-memory-reading-via-MyEID-Driver-Symmetric-Key-Encryption-43150)|An attacker can force a read at an invalid memory address of OpenSC, via MyEID Driver Symmetric Key Encryption, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148" class="noirorange"><b>IBM Informix JDBC Driver</b>: code execution via API JNDI Injection</a>](https://vigilance.fr/vulnerability/IBM-Informix-JDBC-Driver-code-execution-via-API-JNDI-Injection-43148)|An attacker can use a vulnerability of IBM Informix JDBC Driver, via API JNDI Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147" class="noirorange"><b>Linux kernel</b>: use after free via igmp_start_timer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-igmp-start-timer-43147)|An attacker can force the reuse of a freed memory area of the Linux kernel, via igmp_start_timer(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
