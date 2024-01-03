@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/01/2024 21:17:54 UTC
+ > Last Updated 03/01/2024 09:20:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209" class="noirorange"><b>Slurm</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209)|An attacker can use several vulnerabilities of Slurm...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>nft_set_commit_updat<wbr>e()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ctnetlink-create-conntrack-43207" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>ctnetlink_create_con<wbr>ntrack()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ctnetlink-create-conntrack-43207)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-information-disclosure-via-virtio-net-flush-tx-43206" class="noirorange"><b>QEMU</b>: information disclosure via <wbr>virtio_net_flush_tx(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-information-disclosure-via-virtio-net-flush-tx-43206)|An attacker, in a guest system, can bypass access restrictions to data of QEMU, via |Visit link for details|
@@ -68,7 +62,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200" class="noirorange"><b>Linux kernel</b>: use after free via bt_sock_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bt-sock-recvmsg-43200)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bt_sock_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199" class="noirorange"><b>Linux kernel</b>: information disclosure via Io_uring Over Sockets</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199)|An attacker can bypass access restrictions to data of the Linux kernel, via Io_uring Over Sockets, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseExcel-code-execution-via-eval-43198" class="noirorange"><b>Perl <wbr>Spreadsheet-ParseExc<wbr>el</wbr></wbr></b>: code execution via eval</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseExcel-code-execution-via-eval-43198)|An attacker can use a vulnerability of Perl |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197" class="noirorange"><b>ALEOS</b>: denial of service via ACEManager</a>](https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197)|An attacker can cause a fatal error of ALEOS, via ACEManager, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
