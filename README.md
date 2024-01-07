@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/01/2024 21:16:30 UTC
+ > Last Updated 07/01/2024 09:17:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -62,13 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216" class="noirorange"><b>Wireshark</b>: denial of service via IEEE 1609.2</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216)|An attacker can cause a fatal error of Wireshark, via IEEE 1609.2, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215" class="noirorange"><b>Wireshark</b>: denial of service via GVCP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GVCP-43215)|An attacker can cause a fatal error of Wireshark, via GVCP, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
