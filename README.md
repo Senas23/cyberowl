@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/01/2024 09:19:31 UTC
+ > Last Updated 08/01/2024 21:16:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,26 +54,26 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-integer-overflow-via-HTTP2-HPack-43233" class="noirorange"><b>Qt</b>: integer overflow via HTTP2 HPack</a>](https://vigilance.fr/vulnerability/Qt-integer-overflow-via-HTTP2-HPack-43233)|An attacker can trigger an integer overflow of Qt, via HTTP2 HPack, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-Spectre-BHB-43232" class="noirorange"><b>Ampere Altra</b>: information disclosure via Spectre BHB</a>](https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-Spectre-BHB-43232)|An attacker can bypass access restrictions to data of Ampere Altra, via Spectre BHB, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ampere-Altra-read-write-access-via-SPI-NOR-43231" class="noirorange"><b>Ampere Altra</b>: read-write access via SPI-NOR</a>](https://vigilance.fr/vulnerability/Ampere-Altra-read-write-access-via-SPI-NOR-43231)|An attacker can bypass access restrictions of Ampere Altra, via SPI-NOR, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-HWmon-Power-Telemetry-43230" class="noirorange"><b>Ampere Altra</b>: information disclosure via HWmon Power Telemetry</a>](https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-HWmon-Power-Telemetry-43230)|An attacker can bypass access restrictions to data of Ampere Altra, via HWmon Power Telemetry, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-Retbleed-43229" class="noirorange"><b>Ampere Altra</b>: information disclosure via Retbleed</a>](https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-Retbleed-43229)|An attacker can bypass access restrictions to data of Ampere Altra, via Retbleed, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ampere-Altra-privilege-escalation-via-Disabled-Root-Complex-43228" class="noirorange"><b>Ampere Altra</b>: privilege escalation via Disabled Root Complex</a>](https://vigilance.fr/vulnerability/Ampere-Altra-privilege-escalation-via-Disabled-Root-Complex-43228)|An attacker can bypass restrictions of Ampere Altra, via Disabled Root Complex, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Method-43227" class="noirorange"><b>aiohttp</b>: header injection via HTTP Method</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Method-43227)|An attacker can add new headers on aiohttp, via HTTP Method, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-Windows-MSI-Repair-43226" class="noirorange"><b>IBM Db2</b>: privilege escalation via Windows MSI Repair</a>](https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-Windows-MSI-Repair-43226)|An attacker can bypass restrictions of IBM Db2, via Windows MSI Repair, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-user-access-via-SQL-Injection-43225" class="noirorange"><b>Ivanti Endpoint Manager</b>: user access via SQL Injection</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-user-access-via-SQL-Injection-43225)|An attacker can bypass restrictions of Ivanti Endpoint Manager, via SQL Injection, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224" class="noirorange"><b>aiohttp</b>: header injection via HTTP Version</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224)|An attacker can add new headers on aiohttp, via HTTP Version, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222" class="noirorange"><b>libaom</b>: buffer overflow via <wbr>av1_loop_restoration<wbr>_dealloc()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222)|An attacker can trigger a buffer overflow of libaom, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221" class="noirorange"><b>AIX</b>: denial of service via Kernel</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-Kernel-43221)|An attacker can cause a fatal error of AIX, via Kernel, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219" class="noirorange"><b>Wireshark</b>: denial of service via DOCSIS</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-DOCSIS-43219)|An attacker can cause a fatal error of Wireshark, via DOCSIS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218" class="noirorange"><b>Wireshark</b>: denial of service via Zigbee TLV</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Zigbee-TLV-43218)|An attacker can cause a fatal error of Wireshark, via Zigbee TLV, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217" class="noirorange"><b>Wireshark</b>: denial of service via HTTP3</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-HTTP3-43217)|An attacker can cause a fatal error of Wireshark, via HTTP3, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216" class="noirorange"><b>Wireshark</b>: denial of service via IEEE 1609.2</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-IEEE-1609-2-43216)|An attacker can cause a fatal error of Wireshark, via IEEE 1609.2, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
