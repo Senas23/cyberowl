@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/01/2024 21:16:25 UTC
+ > Last Updated 09/01/2024 09:19:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0012/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0011/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 8 janvier 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0010/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 janvier 2024|
  |[Multiples vulnérabilités dans Centreon Web](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0009/)|De multiples vulnérabilités ont été découvertes dans Centreon Web. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 janvier 2024|
  |[Vulnérabilité dans Ivanti Endpoint Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0008/)|Une vulnérabilité a été découverte dans |Publié le 5 janvier 2024|
@@ -42,8 +44,6 @@
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2024|
  |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/)|Une vulnérabilité a été découverte dans |Publié le 4 janvier 2024|
- |[Vulnérabilité dans StormShield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0001/)|Une vulnérabilité a été découverte dans StormShield Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 3 janvier 2024|
- |[[SCADA] Multiples vulnérabilités dans Moxa OnCell G3150A-LTE Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0002/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 janvier 2024|
  
  ---
 
@@ -54,26 +54,26 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Qt-integer-overflow-via-HTTP2-HPack-43233" class="noirorange"><b>Qt</b>: integer overflow via HTTP2 HPack</a>](https://vigilance.fr/vulnerability/Qt-integer-overflow-via-HTTP2-HPack-43233)|An attacker can trigger an integer overflow of Qt, via HTTP2 HPack, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-Spectre-BHB-43232" class="noirorange"><b>Ampere Altra</b>: information disclosure via Spectre BHB</a>](https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-Spectre-BHB-43232)|An attacker can bypass access restrictions to data of Ampere Altra, via Spectre BHB, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ampere-Altra-read-write-access-via-SPI-NOR-43231" class="noirorange"><b>Ampere Altra</b>: read-write access via SPI-NOR</a>](https://vigilance.fr/vulnerability/Ampere-Altra-read-write-access-via-SPI-NOR-43231)|An attacker can bypass access restrictions of Ampere Altra, via SPI-NOR, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-HWmon-Power-Telemetry-43230" class="noirorange"><b>Ampere Altra</b>: information disclosure via HWmon Power Telemetry</a>](https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-HWmon-Power-Telemetry-43230)|An attacker can bypass access restrictions to data of Ampere Altra, via HWmon Power Telemetry, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-Retbleed-43229" class="noirorange"><b>Ampere Altra</b>: information disclosure via Retbleed</a>](https://vigilance.fr/vulnerability/Ampere-Altra-information-disclosure-via-Retbleed-43229)|An attacker can bypass access restrictions to data of Ampere Altra, via Retbleed, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ampere-Altra-privilege-escalation-via-Disabled-Root-Complex-43228" class="noirorange"><b>Ampere Altra</b>: privilege escalation via Disabled Root Complex</a>](https://vigilance.fr/vulnerability/Ampere-Altra-privilege-escalation-via-Disabled-Root-Complex-43228)|An attacker can bypass restrictions of Ampere Altra, via Disabled Root Complex, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Method-43227" class="noirorange"><b>aiohttp</b>: header injection via HTTP Method</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Method-43227)|An attacker can add new headers on aiohttp, via HTTP Method, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-Windows-MSI-Repair-43226" class="noirorange"><b>IBM Db2</b>: privilege escalation via Windows MSI Repair</a>](https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-via-Windows-MSI-Repair-43226)|An attacker can bypass restrictions of IBM Db2, via Windows MSI Repair, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-user-access-via-SQL-Injection-43225" class="noirorange"><b>Ivanti Endpoint Manager</b>: user access via SQL Injection</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-user-access-via-SQL-Injection-43225)|An attacker can bypass restrictions of Ivanti Endpoint Manager, via SQL Injection, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224" class="noirorange"><b>aiohttp</b>: header injection via HTTP Version</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Version-43224)|An attacker can add new headers on aiohttp, via HTTP Version, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222" class="noirorange"><b>libaom</b>: buffer overflow via <wbr>av1_loop_restoration<wbr>_dealloc()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222)|An attacker can trigger a buffer overflow of libaom, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244" class="noirorange"><b>QEMU</b>: write access via ide_dma_cb()</a>](https://vigilance.fr/vulnerability/QEMU-write-access-via-ide-dma-cb-43244)|An attacker, in a guest system, can bypass access restrictions of QEMU, via ide_dma_cb(), in order to alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243" class="noirorange"><b>Eclipse JGit</b>: file write via Symbolic Link</a>](https://vigilance.fr/vulnerability/Eclipse-JGit-file-write-via-Symbolic-Link-43243)|An attacker can bypass access restrictions of Eclipse JGit, via Symbolic Link, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43242)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43241)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240" class="noirorange"><b>IBM Db2</b>: denial of service via Columnar Table Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Table-Statement-43240)|An attacker can cause a fatal error of IBM Db2, via Columnar Table Statement, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Cursor-43239" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Cursor</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Cursor-43239)|An attacker can cause a fatal error of IBM Db2, via Crafted Cursor, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-code-execution-via-Like-Named-Jar-Files-43238" class="noirorange"><b>IBM Db2</b>: code execution via Like Named Jar Files</a>](https://vigilance.fr/vulnerability/IBM-Db2-code-execution-via-Like-Named-Jar-Files-43238)|An attacker can use a vulnerability of IBM Db2, via Like Named Jar Files, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Presto-JDBC-Server-Side-Request-Forgery-via-nextUri-43237" class="noirorange"><b>Presto JDBC</b>: Server-Side Request Forgery via nextUri</a>](https://vigilance.fr/vulnerability/Presto-JDBC-Server-Side-Request-Forgery-via-nextUri-43237)|An attacker can trigger a Server-Side Request Forgery of Presto JDBC, via nextUri, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43236" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43236)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Stack-Trace-43235" class="noirorange"><b>IBM Db2</b>: information disclosure via Stack Trace</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Stack-Trace-43235)|An attacker can bypass access restrictions to data of IBM Db2, via Stack Trace, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43234" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43234)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
