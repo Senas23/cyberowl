@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/01/2024 21:17:51 UTC
+ > Last Updated 10/01/2024 09:18:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,18 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-vhost-new-msg-43261" class="noirorange"><b>Linux kernel</b>: memory reading via vhost_new_msg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-vhost-new-msg-43261)|An attacker can read a memory fragment of the Linux kernel, via vhost_new_msg(), in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via Extensions</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via Extensions, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259" class="noirorange"><b>Windows</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
@@ -61,14 +69,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253" class="noirorange"><b>Splunk Enterprise Security</b>: denial of service via Investigation Manager</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253)|An attacker can cause a fatal error of Splunk Enterprise Security, via Investigation Manager, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-HA-RestAPI-Authentication-Bypass-43251" class="noirorange"><b>FortiOS</b>: privilege escalation via HA RestAPI Authentication Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-HA-RestAPI-Authentication-Bypass-43251)|An attacker can bypass restrictions of FortiOS, via HA RestAPI Authentication Bypass, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-weak-signature-via-POLY1305-MAC-PowerPC-43250" class="noirorange"><b>OpenSSL</b>: weak signature via POLY1305 MAC PowerPC</a>](https://vigilance.fr/vulnerability/OpenSSL-weak-signature-via-POLY1305-MAC-PowerPC-43250)|An attacker can use malicious data on OpenSSL, via POLY1305 MAC PowerPC, in order to deceive the victim...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
