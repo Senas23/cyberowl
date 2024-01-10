@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/01/2024 09:18:57 UTC
+ > Last Updated 10/01/2024 21:16:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,28 +47,28 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273" class="noirorange"><b>Ivanti Connect Secure</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-43273)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272" class="noirorange"><b>Drupal Typogrify</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Typogrify-Cross-Site-Scripting-43272)|An attacker can trigger a Cross Site Scripting of Drupal Typogrify, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271" class="noirorange"><b>Drupal File Entity</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-File-Entity-Cross-Site-Scripting-43271)|An attacker can trigger a Cross Site Scripting of Drupal File Entity, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268" class="noirorange"><b>Cisco Unity Connection</b>: file upload</a>](https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268)|An attacker can upload a malicious file on Cisco Unity Connection, in order for example to upload a Trojan...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-43267" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-43267)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BIND-vulnerabity-unveiled-on-17-01-2024-43266" class="noirorange"><b>BIND</b>: vulnerabity unveiled on 17/01/2024</a>](https://vigilance.fr/vulnerability/BIND-vulnerabity-unveiled-on-17-01-2024-43266)|A vulnerability of BIND will be unveiled on 17/01/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264" class="noirorange"><b>hawk2</b>: eight vulnerabilities</a>](https://vigilance.fr/vulnerability/hawk2-eight-vulnerabilities-43264)|An attacker can use several vulnerabilities of hawk2...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeIPA-Cross-Site-Request-Forgery-43263" class="noirorange"><b>FreeIPA</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/FreeIPA-Cross-Site-Request-Forgery-43263)|An attacker can trigger a Cross Site Request Forgery of FreeIPA, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262" class="noirorange"><b>TeamPass</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-43262)|An attacker can trigger a Cross Site Scripting of TeamPass, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-vhost-new-msg-43261" class="noirorange"><b>Linux kernel</b>: memory reading via vhost_new_msg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-vhost-new-msg-43261)|An attacker can read a memory fragment of the Linux kernel, via vhost_new_msg(), in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via Extensions</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via Extensions, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259" class="noirorange"><b>Windows</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257" class="noirorange"><b>Microsoft SQL Server 2022</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-2022-privilege-escalation-43257)|An attacker can bypass restrictions of Microsoft SQL Server 2022, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-43256" class="noirorange"><b>Microsoft 365 Apps  Office</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-43256)|An attacker can use a vulnerability of Microsoft 365 Apps  Office, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-January-2024-43255" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-January-2024-43255)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254" class="noirorange"><b>Tildeslash Monit</b>: privilege escalation via PAM Authorization</a>](https://vigilance.fr/vulnerability/Tildeslash-Monit-privilege-escalation-via-PAM-Authorization-43254)|An attacker can bypass restrictions of Tildeslash Monit, via PAM Authorization, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253" class="noirorange"><b>Splunk Enterprise Security</b>: denial of service via Investigation Manager</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-denial-of-service-via-Investigation-Manager-43253)|An attacker can cause a fatal error of Splunk Enterprise Security, via Investigation Manager, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252" class="noirorange"><b>Splunk Enterprise Security</b>: overload via Investigation Attachments</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Security-overload-via-Investigation-Attachments-43252)|An attacker can trigger an overload of Splunk Enterprise Security, via Investigation Attachments, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-HA-RestAPI-Authentication-Bypass-43251" class="noirorange"><b>FortiOS</b>: privilege escalation via HA RestAPI Authentication Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-HA-RestAPI-Authentication-Bypass-43251)|An attacker can bypass restrictions of FortiOS, via HA RestAPI Authentication Bypass, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
