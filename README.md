@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/01/2024 21:16:52 UTC
+ > Last Updated 15/01/2024 09:20:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288" class="noirorange"><b>Flask-Security-Too</b>: open redirect via Next Parameter</a>](https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288)|An attacker can deceive the user of Flask-Security-Too, via Next Parameter, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFOpen()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287)|An attacker can cause a fatal error of LibTIFF, via TIFFOpen(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via <wbr>qemu_clipboard_reque<wbr>st()</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285" class="noirorange"><b>Linux kernel</b>: memory corruption via <wbr>tls_sw_sendmsg_splic<wbr>e()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278" class="noirorange"><b>Microsoft Edge Chromium</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>nf_tables_newtable()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-tables-newtable-43277)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Bigup File</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Bigup-File-43276)|An attacker can trigger a Cross Site Scripting of SPIP, via Bigup File, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274" class="noirorange"><b>Cisco IronPort Email  Secure Email Gateway</b>: memory corruption via Contentscanner Document Filters</a>](https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274)|An attacker can trigger a memory corruption of Cisco IronPort Email  Secure Email Gateway, via Contentscanner Document Filters, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
