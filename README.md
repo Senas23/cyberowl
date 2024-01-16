@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/01/2024 09:19:15 UTC
+ > Last Updated 16/01/2024 21:17:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,31 +47,31 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301" class="noirorange"><b>SQLite</b>: use after free via <wbr>jsonParseAddNodeArra<wbr>y()</wbr></wbr></a>](https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301)|An attacker can force the reuse of a freed memory area of SQLite, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300" class="noirorange"><b>Synology DSM</b>: code execution via Patch</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300)|An attacker can use a vulnerability of Synology DSM, via Patch, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299" class="noirorange"><b>Linux kernel</b>: use after free via IOU_PBUF_RING_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299)|An attacker can force the reuse of a freed memory area of the Linux kernel, via IOU_PBUF_RING_MMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298" class="noirorange"><b>xorg-server</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298)|An attacker can use several vulnerabilities of xorg-server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297" class="noirorange"><b>Perl <wbr>Spreadsheet-ParseXLS<wbr>X</wbr></wbr></b>: denial of service via Merged Cells</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297)|An attacker can cause a fatal error of Perl |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: code execution via Session Recording</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295)|An attacker can use a vulnerability of Citrix Virtual Apps and Desktops, via Session Recording, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>receive_encrypted_st<wbr>andard()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293" class="noirorange"><b>Atlassian Confluence Server/DC</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293)|An attacker can use several vulnerabilities of Atlassian Confluence Server/DC...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>wb_inode_writeback_e<wbr>nd()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-wb-inode-writeback-end-43291)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290" class="noirorange"><b>OpenSSL</b>: overload via Invalid RSA Public Keys</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-Invalid-RSA-Public-Keys-43290)|An attacker can trigger an overload of OpenSSL, via Invalid RSA Public Keys, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ida-free-43289" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via ida_free()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ida-free-43289)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via ida_free(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288" class="noirorange"><b>Flask-Security-Too</b>: open redirect via Next Parameter</a>](https://vigilance.fr/vulnerability/Flask-Security-Too-open-redirect-via-Next-Parameter-43288)|An attacker can deceive the user of Flask-Security-Too, via Next Parameter, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287" class="noirorange"><b>LibTIFF</b>: denial of service via TIFFOpen()</a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFOpen-43287)|An attacker can cause a fatal error of LibTIFF, via TIFFOpen(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286" class="noirorange"><b>QEMU</b>: NULL pointer dereference via <wbr>qemu_clipboard_reque<wbr>st()</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-NULL-pointer-dereference-via-qemu-clipboard-request-43286)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285" class="noirorange"><b>Linux kernel</b>: memory corruption via <wbr>tls_sw_sendmsg_splic<wbr>e()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-tls-sw-sendmsg-splice-43285)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-43284)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>input_set_capability<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-input-set-capability-43282)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281" class="noirorange"><b>Linux kernel</b>: memory leak via <wbr>cgroup_rstat_flush()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-cgroup-rstat-flush-43281)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
