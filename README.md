@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/01/2024 09:20:17 UTC
+ > Last Updated 17/01/2024 21:17:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Atlassian Confluence et Jira](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0040/)|De multiples vulnérabilités ont été découvertes dans Atlassian Confluence et Jira. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 16 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Citrix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0039/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 16 janvier 2024|
+ |[Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0038/)|Une vulnérabilité a été découverte dans les produits SonicWall. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service.|Publié le 16 janvier 2024|
+ |[Vulnérabilité dans VMware Aria Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0037/)|Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 janvier 2024|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0036/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 janvier 2024|
+ |[Vulnérabilité dans Synology Disk Station Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0035/)|Une vulnérabilité a été découverte dans Synology Disk Station Manager (DSM). Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 16 janvier 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0034/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 12 janvier 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0033/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 janvier 2024|
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0032/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 janvier 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0031/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0030/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0029/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 janvier 2024|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0028/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 12 janvier 2024|
- |[Multiples vulnérabilités dans les produits Juniper Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0027/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 janvier 2024|
- |[Vulnérabilité dans Cisco Unity Connection](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/)|Une vulnérabilité a été découverte dans Cisco Unity Connection. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 11 janvier 2024|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 11 janvier 2024|
  
  ---
 
@@ -51,27 +51,27 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303" class="noirorange"><b>GnuTLS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-43303)|An attacker can use several vulnerabilities of GnuTLS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302" class="noirorange"><b>Zabbix</b>: buffer overflow via DNS Responses RDLENGTH</a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-DNS-Responses-RDLENGTH-43302)|An attacker can trigger a buffer overflow of Zabbix, via DNS Responses RDLENGTH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301" class="noirorange"><b>SQLite</b>: use after free via <wbr>jsonParseAddNodeArra<wbr>y()</wbr></wbr></a>](https://vigilance.fr/vulnerability/SQLite-use-after-free-via-jsonParseAddNodeArray-43301)|An attacker can force the reuse of a freed memory area of SQLite, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300" class="noirorange"><b>Synology DSM</b>: code execution via Patch</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300)|An attacker can use a vulnerability of Synology DSM, via Patch, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299" class="noirorange"><b>Linux kernel</b>: use after free via IOU_PBUF_RING_MMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-IOU-PBUF-RING-MMAP-43299)|An attacker can force the reuse of a freed memory area of the Linux kernel, via IOU_PBUF_RING_MMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298" class="noirorange"><b>xorg-server</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/xorg-server-multiple-vulnerabilities-43298)|An attacker can use several vulnerabilities of xorg-server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297" class="noirorange"><b>Perl <wbr>Spreadsheet-ParseXLS<wbr>X</wbr></wbr></b>: denial of service via Merged Cells</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-denial-of-service-via-Merged-Cells-43297)|An attacker can cause a fatal error of Perl |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: code execution via Session Recording</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-code-execution-via-Session-Recording-43295)|An attacker can use a vulnerability of Citrix Virtual Apps and Desktops, via Session Recording, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>receive_encrypted_st<wbr>andard()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-receive-encrypted-standard-43294)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293" class="noirorange"><b>Atlassian Confluence Server/DC</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293)|An attacker can use several vulnerabilities of Atlassian Confluence Server/DC...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>tipc_crypto_key_revo<wbr>ke()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>sctp_auto_asconf_ini<wbr>t()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317" class="noirorange"><b>PAM pam_namespace</b>: denial of service via Directory Checks Special Files</a>](https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317)|An attacker can cause a fatal error of PAM pam_namespace, via Directory Checks Special Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43313)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Offense Rules Email</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Offense-Rules-Email-43312)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Offense Rules Email, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2024-43310)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2024-43309)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-January-2024-43308)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
