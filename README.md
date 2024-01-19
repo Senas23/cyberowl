@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/01/2024 09:19:19 UTC
+ > Last Updated 19/01/2024 21:17:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,31 +47,31 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332" class="noirorange"><b>Linux kernel</b>: integer overflow via Cred Refcount Overflow</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-Cred-Refcount-Overflow-43332)|An attacker can trigger an integer overflow of the Linux kernel, via Cred Refcount Overflow, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331" class="noirorange"><b>BlueZ</b>: buffer overflow via Phone Book Access Profile Version Counter</a>](https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-Phone-Book-Access-Profile-Version-Counter-43331)|An attacker can trigger a buffer overflow of BlueZ, via Phone Book Access Profile Version Counter, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Incomplete POST Requests</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Incomplete-POST-Requests-43330)|An attacker can bypass access restrictions to data of Apache Tomcat, via Incomplete POST Requests, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329" class="noirorange"><b>Python Core</b>: code execution via Pth Files</a>](https://vigilance.fr/vulnerability/Python-Core-code-execution-via-Pth-Files-43329)|An attacker can use a vulnerability of Python Core, via Pth Files, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328" class="noirorange"><b>libuev</b>: buffer overflow via epoll_wait()</a>](https://vigilance.fr/vulnerability/libuev-buffer-overflow-via-epoll-wait-43328)|An attacker can trigger a buffer overflow of libuev, via epoll_wait(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327" class="noirorange"><b>Crypto++</b>: overload via ModularSquareRoot()</a>](https://vigilance.fr/vulnerability/Crypto-overload-via-ModularSquareRoot-43327)|An attacker can trigger an overload of Crypto++, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326" class="noirorange"><b>Linux kernel</b>: memory corruption via <wbr>nft_byteorder_eval()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nft-byteorder-eval-43326)|An attacker can trigger a memory corruption of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323" class="noirorange"><b>Relax-and-Recover</b>: information disclosure via GRUB_RESCUE World-readable Initrd</a>](https://vigilance.fr/vulnerability/Relax-and-Recover-information-disclosure-via-GRUB-RESCUE-World-readable-Initrd-43323)|An attacker can bypass access restrictions to data of Relax-and-Recover, via GRUB_RESCUE World-readable Initrd, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322" class="noirorange"><b>Perl <wbr>Spreadsheet-ParseXLS<wbr>X</wbr></wbr></b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseXLSX-external-XML-entity-injection-43322)|An attacker can transmit malicious XML data to Perl |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321" class="noirorange"><b>GTKWave</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321)|An attacker can use several vulnerabilities of GTKWave...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>tipc_crypto_key_revo<wbr>ke()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tipc-crypto-key-revoke-43320)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>sctp_auto_asconf_ini<wbr>t()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-sctp-auto-asconf-init-43319)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318" class="noirorange"><b>Drupal Core</b>: denial of service via Comment Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-denial-of-service-via-Comment-Module-43318)|An attacker can cause a fatal error of Drupal Core, via Comment Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317" class="noirorange"><b>PAM pam_namespace</b>: denial of service via Directory Checks Special Files</a>](https://vigilance.fr/vulnerability/PAM-pam-namespace-denial-of-service-via-Directory-Checks-Special-Files-43317)|An attacker can cause a fatal error of PAM pam_namespace, via Directory Checks Special Files, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
