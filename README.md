@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/01/2024 09:19:31 UTC
+ > Last Updated 25/01/2024 21:16:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,27 +23,20 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
- |[Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0065/)|Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 janvier 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0063/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 janvier 2024|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
  |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 janvier 2024|
  |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 janvier 2024|
  |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 janvier 2024|
  |[Vulnérabilité dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 janvier 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 janvier 2024|
+ |[Vulnérabilité dans Exim](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 janvier 2024|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 janvier 2024|
  
  ---
 
@@ -51,20 +44,20 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Server-Side-Request-Forgery-via-CControllerAuthenticationUpdate-43374" class="noirorange"><b>Zabbix</b>: Server-Side Request Forgery via <wbr>CControllerAuthentic<wbr>ationUpdate</wbr></wbr></a>](https://vigilance.fr/vulnerability/Zabbix-Server-Side-Request-Forgery-via-CControllerAuthenticationUpdate-43374)|An attacker can trigger a Server-Side Request Forgery of Zabbix, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/fontTools-external-XML-entity-injection-via-OT-SVG-Fonts-43373" class="noirorange"><b>fontTools</b>: external XML entity injection via OT-SVG Fonts</a>](https://vigilance.fr/vulnerability/fontTools-external-XML-entity-injection-via-OT-SVG-Fonts-43373)|An attacker can transmit malicious XML data to fontTools, via OT-SVG Fonts, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Swift-Mailer-code-execution-43372" class="noirorange"><b>Drupal Swift Mailer</b>: code execution</a>](https://vigilance.fr/vulnerability/Drupal-Swift-Mailer-code-execution-43372)|An attacker can use a vulnerability of Drupal Swift Mailer, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-social-group-flexible-group-43371" class="noirorange"><b>Drupal Open Social</b>: information disclosure via <wbr>social_group_flexibl<wbr>e_group</wbr></wbr></a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-social-group-flexible-group-43371)|An attacker can bypass access restrictions to data of Drupal Open Social, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-write-access-via-Public-Content-43370" class="noirorange"><b>Drupal Open Social</b>: write access via Public Content</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-write-access-via-Public-Content-43370)|An attacker can bypass access restrictions of Drupal Open Social, via Public Content, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Disabled-Plugin-43369" class="noirorange"><b>Drupal Two-factor Authentication</b>: user access via Disabled Plugin</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Disabled-Plugin-43369)|An attacker can bypass restrictions of Drupal Two-factor Authentication, via Disabled Plugin, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43368" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43368)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-two-vulnerabilities-43367" class="noirorange"><b>Jenkins Core</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Core-two-vulnerabilities-43367)|An attacker can use several vulnerabilities of Jenkins Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-Unified-Contact-Center-code-execution-via-Listening-Port-Message-43366" class="noirorange"><b>Cisco Unified Communications Manager  Unified Contact Center</b>: code execution via Listening Port Message</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-Unified-Contact-Center-code-execution-via-Listening-Port-Message-43366)|An attacker can use a vulnerability of Cisco Unified Communications Manager  Unified Contact Center, via Listening Port Message, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unity-Connection-Cross-Site-Scripting-43365" class="noirorange"><b>Cisco Unity Connection</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Unity-Connection-Cross-Site-Scripting-43365)|An attacker can trigger a Cross Site Scripting of Cisco Unity Connection, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384" class="noirorange"><b>OpenSSL</b>: NULL pointer dereference via PKCS12 Decoding</a>](https://vigilance.fr/vulnerability/OpenSSL-NULL-pointer-dereference-via-PKCS12-Decoding-43384)|An attacker can force a NULL pointer to be dereferenced on OpenSSL, via PKCS12 Decoding, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383" class="noirorange"><b>GnuPG</b>: information disclosure via Smartcard Generation Backup Key</a>](https://vigilance.fr/vulnerability/GnuPG-information-disclosure-via-Smartcard-Generation-Backup-Key-43383)|An attacker can bypass access restrictions to data of GnuPG, via Smartcard Generation Backup Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382" class="noirorange"><b>Dell Networker</b>: information disclosure via Database Backups Plain-text Password</a>](https://vigilance.fr/vulnerability/Dell-Networker-information-disclosure-via-Database-Backups-Plain-text-Password-43382)|An attacker can bypass access restrictions to data of Dell Networker, via Database Backups Plain-text Password, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Red-Hat-GRUB-read-write-access-via-Boot-UUID-43381" class="noirorange"><b>Red Hat GRUB</b>: read-write access via Boot UUID</a>](https://vigilance.fr/vulnerability/Red-Hat-GRUB-read-write-access-via-Boot-UUID-43381)|An attacker can bypass access restrictions of Red Hat GRUB, via Boot UUID, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rpm-privilege-escalation-via-Ancestor-Directory-43380" class="noirorange"><b>rpm</b>: privilege escalation via Ancestor Directory</a>](https://vigilance.fr/vulnerability/rpm-privilege-escalation-via-Ancestor-Directory-43380)|An attacker can bypass restrictions of rpm, via Ancestor Directory, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rpm-privilege-escalation-via-Symbolic-Link-43379" class="noirorange"><b>rpm</b>: privilege escalation via Symbolic Link</a>](https://vigilance.fr/vulnerability/rpm-privilege-escalation-via-Symbolic-Link-43379)|An attacker can bypass restrictions of rpm, via Symbolic Link, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rpm-privilege-escalation-via-Race-Condition-43378" class="noirorange"><b>rpm</b>: privilege escalation via Race Condition</a>](https://vigilance.fr/vulnerability/rpm-privilege-escalation-via-Race-Condition-43378)|An attacker can bypass restrictions of rpm, via Race Condition, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tcpslice-use-after-free-via-extract-slice-43377" class="noirorange"><b>tcpslice</b>: use after free via extract_slice()</a>](https://vigilance.fr/vulnerability/tcpslice-use-after-free-via-extract-slice-43377)|An attacker can force the reuse of a freed memory area of tcpslice, via extract_slice(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43376" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43376)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Puma-header-injection-via-Chunked-Transfer-Encoding-Bodies-43375" class="noirorange"><b>Puma</b>: header injection via Chunked Transfer Encoding Bodies</a>](https://vigilance.fr/vulnerability/Puma-header-injection-via-Chunked-Transfer-Encoding-Bodies-43375)|An attacker can add new headers on Puma, via Chunked Transfer Encoding Bodies, in order to alter the service behavior...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -72,6 +65,13 @@
  ---
 
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
