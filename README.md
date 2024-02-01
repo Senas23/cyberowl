@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/01/2024 21:19:04 UTC
+ > Last Updated 01/02/2024 09:19:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/runc-code-execution-via-File-Descriptor-Leak-43422" class="noirorange"><b>runc</b>: code execution via File Descriptor Leak</a>](https://vigilance.fr/vulnerability/runc-code-execution-via-File-Descriptor-Leak-43422)|An attacker, in a guest system, can use a vulnerability of runc, via File Descriptor Leak, in order to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421" class="noirorange"><b>Mbed TLS</b>: information disclosure via RSA Timing Side Channel</a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421)|An attacker can bypass access restrictions to data of Mbed TLS, via RSA Timing Side Channel, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420" class="noirorange"><b>Drupal Entity Delete Log</b>: information disclosure via Deleted Entities</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Delete-Log-information-disclosure-via-Deleted-Entities-43420)|An attacker can bypass access restrictions to data of Drupal Entity Delete Log, via Deleted Entities, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>nft_setelem_catchall<wbr>_deactivate()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-setelem-catchall-deactivate-43419)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417" class="noirorange"><b>WordPress Core</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413" class="noirorange"><b>glibc</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/glibc-three-vulnerabilities-43413)|An attacker can use several vulnerabilities of glibc...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412" class="noirorange"><b>Linux kernel</b>: integer overflow via <wbr>ext4_write_inline_da<wbr>ta_end()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-ext4-write-inline-data-end-43412)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409" class="noirorange"><b>Xen</b>: information disclosure via Pci Phantom Functions</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Pci-Phantom-Functions-43409)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Pci Phantom Functions, in order to read sensitive information on the host system...|Visit link for details|
  
  ---
 
