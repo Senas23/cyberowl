@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/02/2024 09:18:37 UTC
+ > Last Updated 03/02/2024 21:15:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0092/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0091/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0090/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
+ |[Vulnérabilité dans Kaspersky Security pour Linux Mail Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0089/)|Une vulnérabilité a été découverte dans Kaspersky Security pour Linux Mail Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0088/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 février 2024|
  |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 février 2024|
  |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0086/)|De multiples vulnérabilités ont été découvertes dans Juniper. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 février 2024|
  |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 31 janvier 2024|
  |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0084/)|De multiples vulnérabilités ont été découvertes dans Wordpress. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 31 janvier 2024|
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0083/)|Une vulnérabilité a été corrigée dans |Publié le 31 janvier 2024|
- |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0082/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
- |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0081/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0080/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 janvier 2024|
- |[Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0079/)|Une vulnérabilité a été découverte dans |Publié le 30 janvier 2024|
- |[Vulnérabilité dans Progress MOVEit Transfer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/)|Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 janvier 2024|
  
  ---
 
@@ -64,14 +64,14 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
