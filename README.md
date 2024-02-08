@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/02/2024 09:19:35 UTC
+ > Last Updated 08/02/2024 21:17:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
+ |[Multiples vulnérabilités dans Fortinet FortiSIEM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0106/)|De multiples vulnérabilités ont été découvertes dans Fortinet FortiSIEM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 8 février 2024|
+ |[Vulnérabilité dans SonicWall SonicOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0105/)|Une vulnérabilité a été découverte dans SonicWall SonicOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 8 février 2024|
+ |[Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0104/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 février 2024|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0103/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 8 février 2024|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0102/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 février 2024|
  |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0101/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.|Publié le 7 février 2024|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0100/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
  |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0099/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
  |[Multiples vulnérabilités dans VMware Aria Operations pour les réseaux](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
- |[Multiples vulnérabilités dans Veeam Recovery Orchestrator](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0096/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 février 2024|
- |[Multiples vulnérabilités dans les produits Axis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0095/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 février 2024|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 février 2024|
- |[Vulnérabilité dans NetApp StorageGRID](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0093/)|Une vulnérabilité a été découverte dans |Publié le 5 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0092/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 février 2024|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364" class="noirorange"><b>Synology DSM</b>: open redirect via File Access Component</a>](https://vigilance.fr/vulnerability/Synology-DSM-open-redirect-via-File-Access-Component-43364)|An attacker can deceive the user of Synology DSM, via File Access Component, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199" class="noirorange"><b>hutool-json</b>: buffer overflow via XML.toJSONObject</a>](https://vigilance.fr/vulnerability/hutool-json-buffer-overflow-via-XML-toJSONObject-41199)|An attacker can trigger a buffer overflow of hutool-json, via XML.toJSONObject, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038" class="noirorange"><b>UEFI</b>: privilege escalation via LogoFAIL</a>](https://vigilance.fr/vulnerability/UEFI-privilege-escalation-via-LogoFAIL-43038)|An attacker can bypass restrictions of UEFI, via LogoFAIL, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356" class="noirorange"><b>PyCryptodome</b>: information disclosure via OAEP Decryption</a>](https://vigilance.fr/vulnerability/PyCryptodome-information-disclosure-via-OAEP-Decryption-43356)|An attacker can bypass access restrictions to data of PyCryptodome, via OAEP Decryption, in order to read sensitive information...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027" class="noirorange"><b>cURL</b>: denial of service via HSTS Long File Name</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-HSTS-Long-File-Name-43027)|An attacker can cause a fatal error of cURL, via HSTS Long File Name, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026" class="noirorange"><b>cURL</b>: ingress filtrering bypass via Cookie Mixed Case PSL</a>](https://vigilance.fr/vulnerability/cURL-ingress-filtrering-bypass-via-Cookie-Mixed-Case-PSL-43026)|An attacker can bypass filtering rules of cURL, via Cookie Mixed Case PSL, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024" class="noirorange"><b>Rust</b>: memory corruption via <wbr>openssl::x509::verif<wbr>y::X509VerifyParamRe<wbr>f::set_host()</wbr></wbr></wbr></a>](https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024)|An attacker can trigger a memory corruption of Rust, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023" class="noirorange"><b>Rust</b>: out-of-bounds memory reading via <wbr>openssl::x509::verif<wbr>y::X509VerifyParamRe<wbr>f::set_host()</wbr></wbr></wbr></a>](https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023)|An attacker can force a read at an invalid memory address of Rust, via |Visit link for details|
  
  ---
 
