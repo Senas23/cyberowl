@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/02/2024 21:16:25 UTC
+ > Last Updated 12/02/2024 09:19:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -57,17 +64,10 @@
  |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052" class="noirorange"><b>LibreOffice</b>: code execution via Link Targets</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Link-Targets-43052)|An attacker can use a vulnerability of LibreOffice, via Link Targets, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051" class="noirorange"><b>LibreOffice</b>: code execution via Gstreamer Pipeline Injection</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Gstreamer-Pipeline-Injection-43051)|An attacker can use a vulnerability of LibreOffice, via Gstreamer Pipeline Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050" class="noirorange"><b>HP-UX System Management Homepage</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HP-UX-System-Management-Homepage-information-disclosure-43050)|An attacker can bypass access restrictions to data of HP-UX System Management Homepage, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_dump_detail()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_dump_detail(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040" class="noirorange"><b>Micro Focus ArcSight Management Center</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Management-Center-Cross-Site-Scripting-43040)|An attacker can trigger a Cross Site Scripting of Micro Focus ArcSight Management Center, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_dump_detail()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-dump-detail-43046)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_dump_detail(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>IORING_SETUP_NO_MMAP</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-IORING-SETUP-NO-MMAP-43044)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043" class="noirorange"><b>Python Core</b>: privilege escalation via Subprocess Groups Not Dropped</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Subprocess-Groups-Not-Dropped-43043)|An attacker can bypass restrictions of Python Core, via Subprocess Groups Not Dropped, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
