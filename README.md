@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/02/2024 09:18:46 UTC
+ > Last Updated 13/02/2024 21:17:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Typo3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0121/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0120/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0119/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0118/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
  |[Multiples vulnérabilités dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0117/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0116/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0115/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
  |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0114/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
  |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 9 février 2024|
- |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0111/)|Une vulnérabilité a été découverte dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0110/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2024|
- |[Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0109/)|Une vulnérabilité a été découverte dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0108/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
  
  ---
 
@@ -51,27 +51,27 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078" class="noirorange"><b>X.Org Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/X-Org-Server-two-vulnerabilities-43078)|An attacker can use several vulnerabilities of X.Org Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075" class="noirorange"><b>FortiOS</b>: code execution via HTTPSd API Requests</a>](https://vigilance.fr/vulnerability/FortiOS-code-execution-via-HTTPSd-API-Requests-43075)|An attacker can use a vulnerability of FortiOS, via HTTPSd API Requests, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074" class="noirorange"><b>FortiOS</b>: ingress filtrering bypass via Deny Geolocalisation Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-Deny-Geolocalisation-Bypass-43074)|An attacker can bypass filtering rules of FortiOS, via Deny Geolocalisation Bypass, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073" class="noirorange"><b>FortiOS</b>: double free via Cache Management</a>](https://vigilance.fr/vulnerability/FortiOS-double-free-via-Cache-Management-43073)|An attacker can force a double memory free of FortiOS, via Cache Management, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070" class="noirorange"><b>Elasticsearch</b>: logged sensitive information via DEBUG Log Level</a>](https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-DEBUG-Log-Level-43070)|An attacker can read logs of Elasticsearch, via DEBUG Log Level, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-NFS-Client-43069" class="noirorange"><b>FreeBSD</b>: information disclosure via NFS Client</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-NFS-Client-43069)|An attacker can bypass access restrictions to data of FreeBSD, via NFS Client, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067" class="noirorange"><b>Microsoft Malware Protection</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-denial-of-service-43067)|An attacker can cause a fatal error of Microsoft Malware Protection, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065" class="noirorange"><b>Xen</b>: information disclosure via Arm32 Cache</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-Arm32-Cache-43065)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via Arm32 Cache, in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064" class="noirorange"><b>Ghostscript</b>: denial of service via <wbr>gdev_prn_open_printe<wbr>r_seekable()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Ghostscript-denial-of-service-via-gdev-prn-open-printer-seekable-43064)|An attacker can cause a fatal error of Ghostscript, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060" class="noirorange"><b>SIMATIC</b>: memory leak via Web Server</a>](https://vigilance.fr/vulnerability/SIMATIC-memory-leak-via-Web-Server-43060)|An attacker can create a memory leak of SIMATIC, via Web Server, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-XML-API-OS-Command-Injection-43094" class="noirorange"><b>PAN-OS</b>: code execution via XML API OS Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-XML-API-OS-Command-Injection-43094)|An attacker can use a vulnerability of PAN-OS, via XML API OS Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-DOM-Based-43092" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Web Interface DOM-Based</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-DOM-Based-43092)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Web Interface DOM-Based, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-43091" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-43091)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Web Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43090" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43090)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089" class="noirorange"><b>Dell Unisphere for PowerMax</b>: multiple vulnerabilities via Dell vApp Manager</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089)|An attacker can use several vulnerabilities of Dell Unisphere for PowerMax, via Dell vApp Manager...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>nf_conntrack_dccp_pa<wbr>cket()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086" class="noirorange"><b>Prim'X Technologies ZoneCentral</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086)|An attacker can use several vulnerabilities of Prim'X Technologies ZoneCentral...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085" class="noirorange"><b>Prim'X Technologies Zed</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085)|An attacker can use several vulnerabilities of Prim'X Technologies Zed...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083" class="noirorange"><b>TYPO3 Direct Mail</b>: privilege escalation via TSConfig Configuration Injection</a>](https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083)|An attacker can bypass restrictions of TYPO3 Direct Mail, via TSConfig Configuration Injection, in order to escalate his privileges...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
