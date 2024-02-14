@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/02/2024 09:18:38 UTC
+ > Last Updated 14/02/2024 21:16:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,23 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Typo3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0121/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0120/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0119/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0118/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
- |[Multiples vulnérabilités dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0117/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0116/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0115/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans le noyau Linux Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0114/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 février 2024|
- |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 9 février 2024|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0130/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0129/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0128/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0127/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2024|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0126/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0125/)|De multiples vulnérabilités ont été découvertes dans SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0124/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0123/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 février 2024|
+ |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0122/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 février 2024|
  
  ---
 
@@ -58,16 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108" class="noirorange"><b>Asterisk Open Source</b>: memory corruption via PJSIP_HEADER Dialplan Function</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108)|An attacker can trigger a memory corruption of Asterisk Open Source, via PJSIP_HEADER Dialplan Function, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107" class="noirorange"><b>Asterisk Open Source</b>: denial of service via PJSIP Logging</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107)|An attacker can cause a fatal error of Asterisk Open Source, via PJSIP Logging, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106" class="noirorange"><b>Asterisk Open Source</b>: denial of service via DTLS Hello Packets</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106)|An attacker can cause a fatal error of Asterisk Open Source, via DTLS Hello Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via AMI GetConfig</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105)|An attacker can traverse directories of Asterisk Open Source, via AMI GetConfig, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104" class="noirorange"><b>IBM MQ Appliance</b>: directory traversal via URL Request</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104)|An attacker can traverse directories of IBM MQ Appliance, via URL Request, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102" class="noirorange"><b>Budgie Extras</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102)|An attacker can use several vulnerabilities of Budgie Extras...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101" class="noirorange"><b>Cosign</b>: denial of service via Remote Registry</a>](https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101)|An attacker can cause a fatal error of Cosign, via Remote Registry, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099" class="noirorange"><b>Squid</b>: denial of service via HTTP Request Parsing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099)|An attacker can cause a fatal error of Squid, via HTTP Request Parsing, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-XML-API-OS-Command-Injection-43094" class="noirorange"><b>PAN-OS</b>: code execution via XML API OS Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-XML-API-OS-Command-Injection-43094)|An attacker can use a vulnerability of PAN-OS, via XML API OS Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-DOM-Based-43092" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Web Interface DOM-Based</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-DOM-Based-43092)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Web Interface DOM-Based, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-43091" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Web-Interface-43091)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Web Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43090" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43090)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089" class="noirorange"><b>Dell Unisphere for PowerMax</b>: multiple vulnerabilities via Dell vApp Manager</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-multiple-vulnerabilities-via-Dell-vApp-Manager-43089)|An attacker can use several vulnerabilities of Dell Unisphere for PowerMax, via Dell vApp Manager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-43088)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>nf_conntrack_dccp_pa<wbr>cket()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-nf-conntrack-dccp-packet-43087)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086" class="noirorange"><b>Prim'X Technologies ZoneCentral</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086)|An attacker can use several vulnerabilities of Prim'X Technologies ZoneCentral...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085" class="noirorange"><b>Prim'X Technologies Zed</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085)|An attacker can use several vulnerabilities of Prim'X Technologies Zed...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083" class="noirorange"><b>TYPO3 Direct Mail</b>: privilege escalation via TSConfig Configuration Injection</a>](https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083)|An attacker can bypass restrictions of TYPO3 Direct Mail, via TSConfig Configuration Injection, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
