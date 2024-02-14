@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/02/2024 21:17:05 UTC
+ > Last Updated 14/02/2024 09:18:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,13 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086" class="noirorange"><b>Prim'X Technologies ZoneCentral</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-ZoneCentral-two-vulnerabilities-43086)|An attacker can use several vulnerabilities of Prim'X Technologies ZoneCentral...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085" class="noirorange"><b>Prim'X Technologies Zed</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Prim-X-Technologies-Zed-four-vulnerabilities-43085)|An attacker can use several vulnerabilities of Prim'X Technologies Zed...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083" class="noirorange"><b>TYPO3 Direct Mail</b>: privilege escalation via TSConfig Configuration Injection</a>](https://vigilance.fr/vulnerability/TYPO3-Direct-Mail-privilege-escalation-via-TSConfig-Configuration-Injection-43083)|An attacker can bypass restrictions of TYPO3 Direct Mail, via TSConfig Configuration Injection, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
