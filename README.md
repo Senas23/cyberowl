@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/02/2024 21:16:51 UTC
+ > Last Updated 15/02/2024 09:21:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,23 +47,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108" class="noirorange"><b>Asterisk Open Source</b>: memory corruption via PJSIP_HEADER Dialplan Function</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108)|An attacker can trigger a memory corruption of Asterisk Open Source, via PJSIP_HEADER Dialplan Function, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107" class="noirorange"><b>Asterisk Open Source</b>: denial of service via PJSIP Logging</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107)|An attacker can cause a fatal error of Asterisk Open Source, via PJSIP Logging, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106" class="noirorange"><b>Asterisk Open Source</b>: denial of service via DTLS Hello Packets</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106)|An attacker can cause a fatal error of Asterisk Open Source, via DTLS Hello Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via AMI GetConfig</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105)|An attacker can traverse directories of Asterisk Open Source, via AMI GetConfig, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104" class="noirorange"><b>IBM MQ Appliance</b>: directory traversal via URL Request</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104)|An attacker can traverse directories of IBM MQ Appliance, via URL Request, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102" class="noirorange"><b>Budgie Extras</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102)|An attacker can use several vulnerabilities of Budgie Extras...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101" class="noirorange"><b>Cosign</b>: denial of service via Remote Registry</a>](https://vigilance.fr/vulnerability/Cosign-denial-of-service-via-Remote-Registry-43101)|An attacker can cause a fatal error of Cosign, via Remote Registry, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via cbs_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-cbs-init-43411)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via cbs_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099" class="noirorange"><b>Squid</b>: denial of service via HTTP Request Parsing</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Request-Parsing-43099)|An attacker can cause a fatal error of Squid, via HTTP Request Parsing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-XML-API-OS-Command-Injection-43094" class="noirorange"><b>PAN-OS</b>: code execution via XML API OS Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-XML-API-OS-Command-Injection-43094)|An attacker can use a vulnerability of PAN-OS, via XML API OS Command Injection, in order to run code...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -75,4 +58,21 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111" class="noirorange"><b>Keycloak</b>: overload via Many Offline Sessions</a>](https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111)|An attacker can trigger an overload of Keycloak, via Many Offline Sessions, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via OIDC Redirect_uri Wildcard</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110)|An attacker can trigger a Cross Site Scripting of Keycloak, via OIDC Redirect_uri Wildcard, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416" class="noirorange"><b>cURL</b>: information disclosure via TLS Session Reuse OCSP Bypass</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-TLS-Session-Reuse-OCSP-Bypass-43416)|An attacker can bypass access restrictions to data of cURL, via TLS Session Reuse OCSP Bypass, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-write-access-43109" class="noirorange"><b>Microsoft Edge Chromium</b>: write access</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-write-access-43109)|An attacker can bypass access restrictions of Microsoft Edge Chromium, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108" class="noirorange"><b>Asterisk Open Source</b>: memory corruption via PJSIP_HEADER Dialplan Function</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-memory-corruption-via-PJSIP-HEADER-Dialplan-Function-43108)|An attacker can trigger a memory corruption of Asterisk Open Source, via PJSIP_HEADER Dialplan Function, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107" class="noirorange"><b>Asterisk Open Source</b>: denial of service via PJSIP Logging</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-PJSIP-Logging-43107)|An attacker can cause a fatal error of Asterisk Open Source, via PJSIP Logging, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106" class="noirorange"><b>Asterisk Open Source</b>: denial of service via DTLS Hello Packets</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-DTLS-Hello-Packets-43106)|An attacker can cause a fatal error of Asterisk Open Source, via DTLS Hello Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via AMI GetConfig</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-GetConfig-43105)|An attacker can traverse directories of Asterisk Open Source, via AMI GetConfig, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104" class="noirorange"><b>IBM MQ Appliance</b>: directory traversal via URL Request</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-directory-traversal-via-URL-Request-43104)|An attacker can traverse directories of IBM MQ Appliance, via URL Request, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102" class="noirorange"><b>Budgie Extras</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Budgie-Extras-multiple-vulnerabilities-43102)|An attacker can use several vulnerabilities of Budgie Extras...|Visit link for details|
  
