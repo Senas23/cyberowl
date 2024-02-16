@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/02/2024 09:17:24 UTC
+ > Last Updated 16/02/2024 21:15:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,12 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libwebp-double-free-41265" class="noirorange"><b>libwebp</b>: double free</a>](https://vigilance.fr/vulnerability/libwebp-double-free-41265)|An attacker can force a double memory free of libwebp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41258" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41258)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421" class="noirorange"><b>Mbed TLS</b>: information disclosure via RSA Timing Side Channel</a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Timing-Side-Channel-43421)|An attacker can bypass access restrictions to data of Mbed TLS, via RSA Timing Side Channel, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120" class="noirorange"><b>Stormshield Network Security</b>: denial of service via ICMP Packets ASQ Engine</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-ICMP-Packets-ASQ-Engine-43120)|An attacker can cause a fatal error of Stormshield Network Security, via ICMP Packets ASQ Engine, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via NSRPC User Enumeration</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-NSRPC-User-Enumeration-43119)|An attacker can bypass access restrictions to data of Stormshield Network Security, via NSRPC User Enumeration, in order to read sensitive information...|Visit link for details|
@@ -66,8 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Web-Browser-Clients-43116" class="noirorange"><b>IBM i</b>: information disclosure via Web Browser Clients</a>](https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Web-Browser-Clients-43116)|An attacker can bypass access restrictions to data of IBM i, via Web Browser Clients, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PyDrive2-code-execution-via-YAML-Deserilization-43115" class="noirorange"><b>PyDrive2</b>: code execution via YAML Deserilization</a>](https://vigilance.fr/vulnerability/PyDrive2-code-execution-via-YAML-Deserilization-43115)|An attacker can use a vulnerability of PyDrive2, via YAML Deserilization, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-code-execution-via-SENDTRAPCFG-43114" class="noirorange"><b>Centreon Web</b>: code execution via SENDTRAPCFG</a>](https://vigilance.fr/vulnerability/Centreon-Web-code-execution-via-SENDTRAPCFG-43114)|An attacker can use a vulnerability of Centreon Web, via SENDTRAPCFG, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111" class="noirorange"><b>Keycloak</b>: overload via Many Offline Sessions</a>](https://vigilance.fr/vulnerability/Keycloak-overload-via-Many-Offline-Sessions-43111)|An attacker can trigger an overload of Keycloak, via Many Offline Sessions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via OIDC Redirect_uri Wildcard</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110)|An attacker can trigger a Cross Site Scripting of Keycloak, via OIDC Redirect_uri Wildcard, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
