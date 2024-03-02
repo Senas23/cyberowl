@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/03/2024 09:16:09 UTC
+ > Last Updated 02/03/2024 21:15:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208" class="noirorange"><b>Linux kernel</b>: use after free via <wbr>nft_set_commit_updat<wbr>e()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nft-set-commit-update-43208)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404" class="noirorange"><b>Stormshield Network Security</b>: memory corruption via PPP / L2TP</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-memory-corruption-via-PPP-L2TP-41404)|An attacker can trigger a memory corruption of Stormshield Network Security, via PPP / L2TP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203" class="noirorange"><b>Linux kernel</b>: use after free via rose_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-rose-ioctl-43203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via rose_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202" class="noirorange"><b>Linux kernel</b>: use after free via atalk_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-atalk-ioctl-43202)|An attacker can force the reuse of a freed memory area of the Linux kernel, via atalk_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201" class="noirorange"><b>Linux kernel</b>: use after free via do_vcc_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-do-vcc-ioctl-43201)|An attacker can force the reuse of a freed memory area of the Linux kernel, via do_vcc_ioctl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197" class="noirorange"><b>ALEOS</b>: denial of service via ACEManager</a>](https://vigilance.fr/vulnerability/ALEOS-denial-of-service-via-ACEManager-43197)|An attacker can cause a fatal error of ALEOS, via ACEManager, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196" class="noirorange"><b>cJSON</b>: memory corruption via <wbr>cJSON_InsertItemInAr<wbr>ray()</wbr></wbr></a>](https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-InsertItemInArray-43196)|An attacker can trigger a memory corruption of cJSON, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-43195)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-min-key-size-set-43549" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via min_key_size_set()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-min-key-size-set-43549)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via min_key_size_set(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  
  ---
 
