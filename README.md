@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/03/2024 21:16:52 UTC
+ > Last Updated 07/03/2024 09:17:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[SCADA] Vulnérabilité dans Moxa NPort W2150A/W2250A Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0189/)|Une vulnérabilité a été découverte dans Moxa |Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0188/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0187/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0186/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 mars 2024|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0185/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 mars 2024|
  |[Vulnérabilité dans SolarWinds Security Event Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0184/)|Une vulnérabilité a été découverte dans|Publié le 5 mars 2024|
  |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
  |[Vulnérabilité dans les produits Squid](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0182/)|Une vulnérabilité a été découverte dans |Publié le 5 mars 2024|
  |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0181/)|De multiples vulnérabilités ont été découvertes dans Google|Publié le 5 mars 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0179/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0176/)|De multiples vulnérabilités ont été découvertes dans Mitel MiContact Center Business . Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 1 mars 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0175/)|De multiples vulnérabilités ont été découvertes dans |Publié le 1 mars 2024|
  
  ---
 
@@ -64,14 +64,14 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
