@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/03/2024 09:20:56 UTC
+ > Last Updated 22/03/2024 21:16:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,6 +23,13 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -40,27 +47,20 @@
  
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/cpp-jwt-information-disclosure-via-duration-measurements-43723" class="noirorange"><b>cpp-jwt</b>: information disclosure via duration measurements</a>](https://vigilance.fr/vulnerability/cpp-jwt-information-disclosure-via-duration-measurements-43723)|An attacker can bypass access restrictions to data of cpp-jwt, via duration measurements, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336" class="noirorange"><b>Dojo Toolkit</b>: Cross Site Scripting via dijit.Editor SVG</a>](https://vigilance.fr/vulnerability/Dojo-Toolkit-Cross-Site-Scripting-via-dijit-Editor-SVG-43336)|An attacker can trigger a Cross Site Scripting of Dojo Toolkit, via dijit.Editor SVG, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558" class="noirorange"><b>Apache Traffic Server</b>: write access via PUSH Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-PUSH-Method-41558)|An attacker can bypass access restrictions of Apache Traffic Server, via PUSH Method, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334" class="noirorange"><b>sosreport</b>: user access via Password Collection</a>](https://vigilance.fr/vulnerability/sosreport-user-access-via-Password-Collection-43334)|An attacker can bypass restrictions of sosreport, via Password Collection, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-integer-overflow-41556" class="noirorange"><b>Apple iOS  macOS</b>: integer overflow</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-integer-overflow-41556)|An attacker can trigger an integer overflow of Apple iOS  macOS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555" class="noirorange"><b>Juniper Junos OS</b>: denial of service via BGP Optional Transitive Attribute</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-41555)|An attacker can cause a fatal error of Juniper Junos OS, via BGP Optional Transitive Attribute, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553" class="noirorange"><b>ReadyMedia MiniDLNA</b>: buffer overflow via Chunked Transport Encoding</a>](https://vigilance.fr/vulnerability/ReadyMedia-MiniDLNA-buffer-overflow-via-Chunked-Transport-Encoding-41553)|An attacker can trigger a buffer overflow of ReadyMedia MiniDLNA, via Chunked Transport Encoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/keylime-vulnerability-due-to-misuse-of-TPM-43715" class="noirorange"><b>keylime</b>: vulnerability due to misuse of TPM</a>](https://vigilance.fr/vulnerability/keylime-vulnerability-due-to-misuse-of-TPM-43715)|A keylime vulnerability, via misuse of TPM, has been announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550" class="noirorange"><b>Reportlab</b>: code execution via PDF File</a>](https://vigilance.fr/vulnerability/Reportlab-code-execution-via-PDF-File-41550)|An attacker can use a vulnerability of Reportlab, via PDF File, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phpseclib-overload-43708" class="noirorange"><b>phpseclib</b>: overload</a>](https://vigilance.fr/vulnerability/phpseclib-overload-43708)|An attacker can trigger an overload of phpseclib, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zlib-directory-traversal-via-miniunz-43342" class="noirorange"><b>zlib</b>: directory traversal via miniunz</a>](https://vigilance.fr/vulnerability/zlib-directory-traversal-via-miniunz-43342)|An attacker can traverse directories of zlib, via miniunz, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341" class="noirorange"><b>Linux kernel</b>: denial of service via Xen Zero-size SKB Frags</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Xen Zero-size SKB Frags, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340" class="noirorange"><b>Linux kernel</b>: use after free via __ext4_remount()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340)|An attacker can force the reuse of a freed memory area of the Linux kernel, via __ext4_remount(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339" class="noirorange"><b>IBM Storage Protect Plus Server</b>: information disclosure via Admin Console Endpoint</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339)|An attacker can bypass access restrictions to data of IBM Storage Protect Plus Server, via Admin Console Endpoint, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-five-vulnerabilities-41565" class="noirorange"><b>VMware vCenter Server</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-five-vulnerabilities-41565)|An attacker can use several vulnerabilities of VMware vCenter Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/giflib-memory-reading-via-DumpSCreen2RGB-43730" class="noirorange"><b>giflib</b>: memory reading via DumpSCreen2RGB()</a>](https://vigilance.fr/vulnerability/giflib-memory-reading-via-DumpSCreen2RGB-43730)|An attacker can read a memory fragment of giflib, via DumpSCreen2RGB(), in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338" class="noirorange"><b>Spring Framework</b>: denial of service via HTTP Requests</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338)|An attacker can cause a fatal error of Spring Framework, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Archive File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Archive File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-OSPF-LSA-43727" class="noirorange"><b>FRRouting</b>: denial of service via OSPF LSA</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-OSPF-LSA-43727)|An attacker can send malicious OSPF LSA packets to FRRouting, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/c-ares-out-of-bounds-memory-reading-via-ares-read-line-43726" class="noirorange"><b>c-ares</b>: out-of-bounds memory reading via ares__read_line()</a>](https://vigilance.fr/vulnerability/c-ares-out-of-bounds-memory-reading-via-ares-read-line-43726)|An attacker can force a read at an invalid memory address of c-ares, via ares__read_line(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
  ---
 
