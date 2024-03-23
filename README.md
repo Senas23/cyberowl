@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/03/2024 21:16:31 UTC
+ > Last Updated 23/03/2024 09:18:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dansMicrosoft Xbox Gaming Services](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/)|Une vulnérabilité a été découverte dans |Publié le 21 mars 2024|
- |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0238/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 mars 2024|
- |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Belden. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 20 mars 2024|
- |[Vulnérabilité dans Spring Authorization Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0236/)|Une vulnérabilité a été découverte dans |Publié le 20 mars 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0235/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 mars 2024|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 mars 2024|
- |[Multiples vulnérabilités dans AXIS OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0233/)|De multiples vulnérabilités ont été découvertes dans AXIS OS. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 19 mars 2024|
- |[Vulnérabilité dans les produits Spring Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0232/)|Une vulnérabilité a été découverte dans |Publié le 19 mars 2024|
- |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0231/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 mars 2024|
- |[Vulnérabilité dans Kaspersky Password Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0230/)|Une vulnérabilité a été découverte dans Kaspersky Password Manager. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 18 mars 2024|
+ |[Multiples vulnérabilités dans IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0225/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 mars 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0224/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2024|
+ |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0223/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 mars 2024|
+ |[Vulnérabilité dans Synology Router Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/)|Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ |[Multiples vulnérabilités dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2024|
+ |[Vulnérabilité dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2024|
  
  ---
 
@@ -51,27 +51,27 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/zlib-directory-traversal-via-miniunz-43342" class="noirorange"><b>zlib</b>: directory traversal via miniunz</a>](https://vigilance.fr/vulnerability/zlib-directory-traversal-via-miniunz-43342)|An attacker can traverse directories of zlib, via miniunz, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341" class="noirorange"><b>Linux kernel</b>: denial of service via Xen Zero-size SKB Frags</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-Zero-size-SKB-Frags-43341)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Xen Zero-size SKB Frags, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340" class="noirorange"><b>Linux kernel</b>: use after free via __ext4_remount()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ext4-remount-43340)|An attacker can force the reuse of a freed memory area of the Linux kernel, via __ext4_remount(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339" class="noirorange"><b>IBM Storage Protect Plus Server</b>: information disclosure via Admin Console Endpoint</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Admin-Console-Endpoint-43339)|An attacker can bypass access restrictions to data of IBM Storage Protect Plus Server, via Admin Console Endpoint, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-five-vulnerabilities-41565" class="noirorange"><b>VMware vCenter Server</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-five-vulnerabilities-41565)|An attacker can use several vulnerabilities of VMware vCenter Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/giflib-memory-reading-via-DumpSCreen2RGB-43730" class="noirorange"><b>giflib</b>: memory reading via DumpSCreen2RGB()</a>](https://vigilance.fr/vulnerability/giflib-memory-reading-via-DumpSCreen2RGB-43730)|An attacker can read a memory fragment of giflib, via DumpSCreen2RGB(), in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338" class="noirorange"><b>Spring Framework</b>: denial of service via HTTP Requests</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-HTTP-Requests-43338)|An attacker can cause a fatal error of Spring Framework, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Archive File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Archive-File-43337)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Archive File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-OSPF-LSA-43727" class="noirorange"><b>FRRouting</b>: denial of service via OSPF LSA</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-OSPF-LSA-43727)|An attacker can send malicious OSPF LSA packets to FRRouting, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/c-ares-out-of-bounds-memory-reading-via-ares-read-line-43726" class="noirorange"><b>c-ares</b>: out-of-bounds memory reading via ares__read_line()</a>](https://vigilance.fr/vulnerability/c-ares-out-of-bounds-memory-reading-via-ares-read-line-43726)|An attacker can force a read at an invalid memory address of c-ares, via ares__read_line(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349" class="noirorange"><b>Ansible Core</b>: information disclosure via ANSIBLE_NO_LOG</a>](https://vigilance.fr/vulnerability/Ansible-Core-information-disclosure-via-ANSIBLE-NO-LOG-43349)|An attacker can bypass access restrictions to data of Ansible Core, via ANSIBLE_NO_LOG, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348" class="noirorange"><b>Jinja</b>: Cross Site Scripting via Placeholders</a>](https://vigilance.fr/vulnerability/Jinja-Cross-Site-Scripting-via-Placeholders-43348)|An attacker can trigger a Cross Site Scripting of Jinja, via Placeholders, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via MP3 File</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-MP3-File-43347)|An attacker can cause a fatal error of Kodi Home Theater Software, via MP3 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346" class="noirorange"><b>Kodi Home Theater Software</b>: denial of service via Offset Argument</a>](https://vigilance.fr/vulnerability/Kodi-Home-Theater-Software-denial-of-service-via-Offset-Argument-43346)|An attacker can cause a fatal error of Kodi Home Theater Software, via Offset Argument, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345" class="noirorange"><b>Kodi xbmc</b>: denial of service via istream</a>](https://vigilance.fr/vulnerability/Kodi-xbmc-denial-of-service-via-istream-43345)|An attacker can cause a fatal error of Kodi xbmc, via istream, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344" class="noirorange"><b>Kodi Chorus2</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Kodi-Chorus2-directory-traversal-43344)|An attacker can traverse directories of Kodi Chorus2, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via GET Request Scan Jobs</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-GET-Request-Scan-Jobs-41571)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via GET Request Scan Jobs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Compact-Font-Format-Parser-41570" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via Compact Font Format Parser</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Compact-Font-Format-Parser-41570)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via Compact Font Format Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Backup-Restore-Feature-41569" class="noirorange"><b>HP LaserJet Pro Print</b>: buffer overflow via Backup Restore Feature</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-buffer-overflow-via-Backup-Restore-Feature-41569)|An attacker can trigger a buffer overflow of HP LaserJet Pro Print, via Backup Restore Feature, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-code-execution-via-Web-Service-Eventing-Model-41568" class="noirorange"><b>HP LaserJet Pro Print</b>: code execution via Web Service Eventing Model</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Print-code-execution-via-Web-Service-Eventing-Model-41568)|An attacker can use a vulnerability of HP LaserJet Pro Print, via Web Service Eventing Model, in order to run code...|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
