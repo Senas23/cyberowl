@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/03/2024 09:19:54 UTC
+ > Last Updated 27/03/2024 21:16:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-memcg-43744" class="noirorange"><b>Linux kernel</b>: memory leak via memcg</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-memcg-43744)|An attacker can create a memory leak of the Linux kernel, via memcg, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743" class="noirorange"><b>Linux kernel</b>: memory reading via the driver of Habana<wbr>'s AI Processors</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743)|An attacker can read a memory fragment of the Linux kernel, via the driver of the Habana|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-41588" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-41588)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391" class="noirorange"><b>Quarkus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Quarkus-privilege-escalation-43391)|An attacker can bypass restrictions of Quarkus, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cpio-directory-traversal-43390" class="noirorange"><b>cpio</b>: directory traversal</a>](https://vigilance.fr/vulnerability/cpio-directory-traversal-43390)|An attacker can traverse directories of cpio, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NetBSD-log-corruption-via-utmp-update-43740" class="noirorange"><b>NetBSD</b>: log corruption via utmp_update</a>](https://vigilance.fr/vulnerability/NetBSD-log-corruption-via-utmp-update-43740)|An attacker can corrupt the NetBSD utmp log, via utmp_update, in order to modify its display...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grub-denial-of-service-via-grub2-set-bootflag-43739" class="noirorange"><b>Grub</b>: denial of service via grub2-set-bootflag</a>](https://vigilance.fr/vulnerability/Grub-denial-of-service-via-grub2-set-bootflag-43739)|An attacker can cause a fatal error of Grub, via grub2-set-bootflag, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
