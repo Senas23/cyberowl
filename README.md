@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/03/2024 09:18:35 UTC
+ > Last Updated 28/03/2024 21:18:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-GhostRace-43764" class="noirorange"><b>Xen</b>: information disclosure via GhostRace</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-GhostRace-43764)|An attacker can exploit the processor|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Atom-processor-getting-information-about-float-calculation-registers-43763" class="noirorange"><b>Intel Atom processor</b>: getting information about float calculation registers</a>](https://vigilance.fr/vulnerability/Intel-Atom-processor-getting-information-about-float-calculation-registers-43763)|An attacker can obtain information on the contents of float calculation registers...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Bluetooh-RFCOMM-43758" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via Bluetooh RFCOMM</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-Bluetooh-RFCOMM-43758)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via Bluetooh RFCOMM, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libLAS-memory-leak-43757" class="noirorange"><b>libLAS</b>: memory leak</a>](https://vigilance.fr/vulnerability/libLAS-memory-leak-43757)|An attacker can create a memory leak of libLAS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeIPA-denial-of-service-via-HTTP-43756" class="noirorange"><b>FreeIPA</b>: denial of service via HTTP</a>](https://vigilance.fr/vulnerability/FreeIPA-denial-of-service-via-HTTP-43756)|An attacker can cause a fatal error of FreeIPA, via HTTP, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592" class="noirorange"><b>Keycloak</b>: user access via Oauth Client Impersonation</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Oauth-Client-Impersonation-41592)|An attacker can bypass restrictions of Keycloak, via Oauth Client Impersonation, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-memcg-43744" class="noirorange"><b>Linux kernel</b>: memory leak via memcg</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-memcg-43744)|An attacker can create a memory leak of the Linux kernel, via memcg, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743" class="noirorange"><b>Linux kernel</b>: memory reading via the driver of Habana<wbr>'s AI Processors</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-the-driver-of-Habana-s-AI-Processors-43743)|An attacker can read a memory fragment of the Linux kernel, via the driver of the Habana|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-41588" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-41588)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394" class="noirorange"><b>vmm-sys-util</b>: buffer overflow via FamStructWrapper</a>](https://vigilance.fr/vulnerability/vmm-sys-util-buffer-overflow-via-FamStructWrapper-43394)|An attacker can trigger a buffer overflow of vmm-sys-util, via FamStructWrapper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
