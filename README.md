@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/04/2024 21:17:14 UTC
+ > Last Updated 04/04/2024 09:18:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans VMware SD-WAN](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0268/)|De multiples vulnérabilités ont été découvertes dans VMware SD-WAN. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 3 avril 2024|
  |[Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0267/)|Une vulnérabilité a été découverte dans |Publié le 2 avril 2024|
  |[Multiples vulnérabilités dans Synology Surveillance Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0266/)|De multiples vulnérabilités ont été découvertes dans|Publié le 2 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0265/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
@@ -43,7 +44,6 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/)|De multiples vulnérabilités ont été corrigées dans |Publié le 28 mars 2024|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 mars 2024|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 28 mars 2024|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 mars 2024|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-information-disclosure-via-Forward-External-DNS-Requests-43825" class="noirorange"><b>Docker Moby</b>: information disclosure via Forward External DNS Requests</a>](https://vigilance.fr/vulnerability/Docker-Moby-information-disclosure-via-Forward-External-DNS-Requests-43825)|An attacker can bypass access restrictions to data of Docker Moby, via Forward External DNS Requests, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeImage-overload-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43815" class="noirorange"><b>FreeImage</b>: overload via BitmapAccess.cpp::<wbr>FreeImage_<wbr>AllocateBitmap()</wbr></wbr></a>](https://vigilance.fr/vulnerability/FreeImage-overload-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43815)|An attacker can trigger an overload of FreeImage, via BitmapAccess.cpp::|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43814" class="noirorange"><b>FreeImage</b>: denial of service via BitmapAccess.cpp::<wbr>FreeImage_<wbr>AllocateBitmap()</wbr></wbr></a>](https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-BitmapAccess-cpp-FreeImage-AllocateBitmap-43814)|An attacker can cause a fatal error of FreeImage, via BitmapAccess.cpp::|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652" class="noirorange"><b>Ivanti Endpoint Manager</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-41652)|An attacker can bypass restrictions of Ivanti Endpoint Manager, in order to escalate his privileges...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Markdown-File-Preview-43426" class="noirorange"><b>JupyterLab</b>: information disclosure via Markdown File Preview</a>](https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Markdown-File-Preview-43426)|An attacker can bypass access restrictions to data of JupyterLab, via Markdown File Preview, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Exiv2-denial-of-service-via-QuickTimeVideo-multipleEntriesDecoder-43810" class="noirorange"><b>Exiv2</b>: denial of service via QuickTimeVideo::<wbr>multipleEntriesDecod<wbr>er()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Exiv2-denial-of-service-via-QuickTimeVideo-multipleEntriesDecoder-43810)|An attacker can cause a fatal error of Exiv2, via QuickTimeVideo::|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-QuickTimeVideo-NikonTagsDecoder-43809" class="noirorange"><b>Exiv2</b>: out-of-bounds memory reading via QuickTimeVideo::<wbr>NikonTagsDecoder()</wbr></a>](https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-QuickTimeVideo-NikonTagsDecoder-43809)|An attacker can force a read at an invalid memory address of Exiv2, via QuickTimeVideo::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIFLIB-memory-leak-via-DumpScreen2RGB-43807" class="noirorange"><b>GIFLIB</b>: memory leak via DumpScreen2RGB()</a>](https://vigilance.fr/vulnerability/GIFLIB-memory-leak-via-DumpScreen2RGB-43807)|An attacker can create a memory leak of GIFLIB, via DumpScreen2RGB(), in order to trigger a denial of service...|Visit link for details|
  
  ---
 
