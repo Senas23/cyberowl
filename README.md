@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/04/2024 09:17:45 UTC
+ > Last Updated 05/04/2024 21:17:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-information-disclosure-via-Taxonomy-Tree-Controller-43443" class="noirorange"><b>Ibexa DXP</b>: information disclosure via Taxonomy Tree Controller</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-information-disclosure-via-Taxonomy-Tree-Controller-43443)|An attacker can bypass access restrictions to data of Ibexa DXP, via Taxonomy Tree Controller, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Azure-uAMQP-integer-overflow-43441" class="noirorange"><b>Azure uAMQP</b>: integer overflow</a>](https://vigilance.fr/vulnerability/Azure-uAMQP-integer-overflow-43441)|An attacker can trigger an integer overflow of Azure uAMQP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Pygments-overload-via-smithy-py-43439" class="noirorange"><b>Pygments</b>: overload via smithy.py</a>](https://vigilance.fr/vulnerability/Pygments-overload-via-smithy-py-43439)|An attacker can trigger an overload of Pygments, via smithy.py, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Ultimate-Member-privilege-escalation-41670" class="noirorange"><b>WordPress Ultimate Member</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WordPress-Ultimate-Member-privilege-escalation-41670)|An attacker can bypass restrictions of WordPress Ultimate Member, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-BSAFE-Crypto-C-Micro-Edition-read-write-access-43438" class="noirorange"><b>Dell BSAFE Crypto-C Micro Edition</b>: read-write access</a>](https://vigilance.fr/vulnerability/Dell-BSAFE-Crypto-C-Micro-Edition-read-write-access-43438)|An attacker can bypass access restrictions of Dell BSAFE Crypto-C Micro Edition, in order to read or alter data...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-via-Allowable-Character-Sets-43436" class="noirorange"><b>aiohttp</b>: header injection via Allowable Character Sets</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-via-Allowable-Character-Sets-43436)|An attacker can add new headers on aiohttp, via Allowable Character Sets, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41669" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41669)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlValidatePopElement-43434" class="noirorange"><b>libxml2</b>: use after free via xmlValidatePopElemen<wbr>t()</wbr></a>](https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlValidatePopElement-43434)|An attacker can force the reuse of a freed memory area of libxml2, via xmlValidatePopElemen|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-file-creation-via-Blacklisted-Extensions-Drafts-Saving-43832" class="noirorange"><b>Ibexa DXP</b>: file creation via Blacklisted Extensions Drafts Saving</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-file-creation-via-Blacklisted-Extensions-Drafts-Saving-43832)|An attacker can bypass access restrictions of Ibexa DXP, via Blacklisted Extensions Drafts Saving, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-write-access-via-Existing-HyperVisor-Configuration-43828" class="noirorange"><b>IBM Storage Protect Plus Server</b>: write access via Existing HyperVisor Configuration</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-write-access-via-Existing-HyperVisor-Configuration-43828)|An attacker can bypass access restrictions of IBM Storage Protect Plus Server, via Existing HyperVisor Configuration, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-information-disclosure-via-Forward-External-DNS-Requests-43825" class="noirorange"><b>Docker Moby</b>: information disclosure via Forward External DNS Requests</a>](https://vigilance.fr/vulnerability/Docker-Moby-information-disclosure-via-Forward-External-DNS-Requests-43825)|An attacker can bypass access restrictions to data of Docker Moby, via Forward External DNS Requests, in order to read sensitive information...|Visit link for details|
  
  ---
 
