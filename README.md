@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/04/2024 21:17:19 UTC
+ > Last Updated 06/04/2024 09:18:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Vulnérabilité dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/)|Une vulnérabilité a été découverte dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0273/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2024|
  |[Multiples vulnérabilités dans Google Android et Pixel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0272/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 avril 2024|
  |[Multiples vulnérabilités dans les produits Ivanti](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0271/)|De multiples vulnérabilités ont été découvertes dans |Publié le 4 avril 2024|
  |[Vulnérabilité dans Cisco Nexus Dashboard Fabric Controller](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0270/)|Une vulnérabilité a été découverte dans Cisco Nexus Dashboard Fabric Controller. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 4 avril 2024|
- |[Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0269/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).|Publié le 4 avril 2024|
- |[Multiples vulnérabilités dans VMware SD-WAN](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0268/)|De multiples vulnérabilités ont été découvertes dans VMware SD-WAN. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 3 avril 2024|
- |[Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0267/)|Une vulnérabilité a été découverte dans |Publié le 2 avril 2024|
- |[Multiples vulnérabilités dans Synology Surveillance Station](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0266/)|De multiples vulnérabilités ont été découvertes dans|Publié le 2 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0265/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0264/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0263/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2024|
  
  ---
 
@@ -51,16 +51,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nf-hook-slow-43446" class="noirorange"><b>Linux kernel</b>: double free via nf_hook_slow()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nf-hook-slow-43446)|An attacker can force a double memory free of the Linux kernel, via nf_hook_slow(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-cmsg-recv-43445" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via rds_cmsg_recv()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-cmsg-recv-43445)|An attacker can force a read at an invalid memory address of the Linux kernel, via rds_cmsg_recv(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43844" class="noirorange"><b>Jose</b>: overload via JSON Web Encryption</a>](https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43844)|An attacker can trigger an overload of Jose, via JSON Web Encryption, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43843" class="noirorange"><b>Jose</b>: overload via JSON Web Encryption</a>](https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43843)|An attacker can trigger an overload of Jose, via JSON Web Encryption, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-information-disclosure-via-Taxonomy-Tree-Controller-43443" class="noirorange"><b>Ibexa DXP</b>: information disclosure via Taxonomy Tree Controller</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-information-disclosure-via-Taxonomy-Tree-Controller-43443)|An attacker can bypass access restrictions to data of Ibexa DXP, via Taxonomy Tree Controller, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676" class="noirorange"><b>GitLab CE/EE</b>: group modification</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676)|An attacker can change the name of a GitLab group...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Azure-uAMQP-integer-overflow-43441" class="noirorange"><b>Azure uAMQP</b>: integer overflow</a>](https://vigilance.fr/vulnerability/Azure-uAMQP-integer-overflow-43441)|An attacker can trigger an integer overflow of Azure uAMQP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Pygments-overload-via-smithy-py-43439" class="noirorange"><b>Pygments</b>: overload via smithy.py</a>](https://vigilance.fr/vulnerability/Pygments-overload-via-smithy-py-43439)|An attacker can trigger an overload of Pygments, via smithy.py, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Ultimate-Member-privilege-escalation-41670" class="noirorange"><b>WordPress Ultimate Member</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WordPress-Ultimate-Member-privilege-escalation-41670)|An attacker can bypass restrictions of WordPress Ultimate Member, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-BSAFE-Crypto-C-Micro-Edition-read-write-access-43438" class="noirorange"><b>Dell BSAFE Crypto-C Micro Edition</b>: read-write access</a>](https://vigilance.fr/vulnerability/Dell-BSAFE-Crypto-C-Micro-Edition-read-write-access-43438)|An attacker can bypass access restrictions of Dell BSAFE Crypto-C Micro Edition, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libebml-integer-overflow-via-MemIOCallback-cpp-43437" class="noirorange"><b>libebml</b>: integer overflow via MemIOCallback.cpp</a>](https://vigilance.fr/vulnerability/libebml-integer-overflow-via-MemIOCallback-cpp-43437)|An attacker can trigger an integer overflow of libebml, via MemIOCallback.cpp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-via-Allowable-Character-Sets-43436" class="noirorange"><b>aiohttp</b>: header injection via Allowable Character Sets</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-via-Allowable-Character-Sets-43436)|An attacker can add new headers on aiohttp, via Allowable Character Sets, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41669" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41669)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlValidatePopElement-43434" class="noirorange"><b>libxml2</b>: use after free via xmlValidatePopElemen<wbr>t()</wbr></a>](https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlValidatePopElement-43434)|An attacker can force the reuse of a freed memory area of libxml2, via xmlValidatePopElemen|Visit link for details|
  
  ---
 
