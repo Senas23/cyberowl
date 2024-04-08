@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/04/2024 21:17:45 UTC
+ > Last Updated 08/04/2024 09:20:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libexpat-overload-via-Recursive-XML-Entity-Expansion-43460" class="noirorange"><b>libexpat</b>: overload via Recursive XML Entity Expansion</a>](https://vigilance.fr/vulnerability/libexpat-overload-via-Recursive-XML-Entity-Expansion-43460)|An attacker can trigger an overload of libexpat, via Recursive XML Entity Expansion, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libexpat-overload-via-Large-Token-Full-Reparsings-43459" class="noirorange"><b>libexpat</b>: overload via Large Token Full Reparsings</a>](https://vigilance.fr/vulnerability/libexpat-overload-via-Large-Token-Full-Reparsings-43459)|An attacker can trigger an overload of libexpat, via Large Token Full Reparsings, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-43458" class="noirorange"><b>GitLab CE/EE</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-43458)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Migrate-Tools-Cross-Site-Request-Forgery-43457" class="noirorange"><b>Drupal Migrate Tools</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Migrate-Tools-Cross-Site-Request-Forgery-43457)|An attacker can trigger a Cross Site Request Forgery of Drupal Migrate Tools, in order to force the victim to perform operations...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-43452" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-43452)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-D-Processors-information-disclosure-via-SGX-43852" class="noirorange"><b>Intel Xeon D Processors</b>: information disclosure via SGX</a>](https://vigilance.fr/vulnerability/Intel-Xeon-D-Processors-information-disclosure-via-SGX-43852)|An attacker can bypass access restrictions to data of Intel Xeon D Processors, via SGX, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/zziplib-denial-of-service-via-zzip-disk-entry-to-file-header-43846" class="noirorange"><b>zziplib</b>: denial of service via zzip_disk_entry_to_<wbr>file_header()</wbr></a>](https://vigilance.fr/vulnerability/zziplib-denial-of-service-via-zzip-disk-entry-to-file-header-43846)|An attacker can cause a fatal error of zziplib, via zzip_disk_entry_to_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nf-hook-slow-43446" class="noirorange"><b>Linux kernel</b>: double free via nf_hook_slow()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-nf-hook-slow-43446)|An attacker can force a double memory free of the Linux kernel, via nf_hook_slow(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-cmsg-recv-43445" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via rds_cmsg_recv()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-cmsg-recv-43445)|An attacker can force a read at an invalid memory address of the Linux kernel, via rds_cmsg_recv(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43844" class="noirorange"><b>Jose</b>: overload via JSON Web Encryption</a>](https://vigilance.fr/vulnerability/Jose-overload-via-JSON-Web-Encryption-43844)|An attacker can trigger an overload of Jose, via JSON Web Encryption, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
