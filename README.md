@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/04/2024 09:20:07 UTC
+ > Last Updated 12/04/2024 21:16:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-Tty-No-Session-Leader-43914" class="noirorange"><b>FreeBSD</b>: NULL pointer dereference via Tty No Session Leader</a>](https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-Tty-No-Session-Leader-43914)|An attacker can force a NULL pointer to be dereferenced on FreeBSD, via Tty No Session Leader, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usbnet-get-endpoints-43912" class="noirorange"><b>Linux kernel</b>: denial of service via usbnet_get_<wbr>endpoints()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usbnet-get-endpoints-43912)|An attacker can cause a fatal error of the Linux kernel, via usbnet_get_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Luxon-overload-via-DateTime-fromRFC2822-43485" class="noirorange"><b>Luxon</b>: overload via DateTime.<wbr>fromRFC2822()</wbr></a>](https://vigilance.fr/vulnerability/Luxon-overload-via-DateTime-fromRFC2822-43485)|An attacker can trigger an overload of Luxon, via DateTime.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-AcroForm-cc-43478" class="noirorange"><b>Xpdf</b>: memory corruption via AcroForm.cc</a>](https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-AcroForm-cc-43478)|An attacker can trigger a memory corruption of Xpdf, via AcroForm.cc, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-XRef-fetch-43479" class="noirorange"><b>Xpdf</b>: memory corruption via XRef::fetch()</a>](https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-XRef-fetch-43479)|An attacker can trigger a memory corruption of Xpdf, via XRef::fetch(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-July-2023-41724" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-July-2023-41724)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2023-41723" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2023-41723)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-July-2023-41722" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-July-2023-41722)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2022-39525" class="noirorange"><b>Windows</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2022-39525)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-file-reading-via-Remote-Cluster-Security-API-43905" class="noirorange"><b>Elasticsearch</b>: file reading via Remote Cluster Security API</a>](https://vigilance.fr/vulnerability/Elasticsearch-file-reading-via-Remote-Cluster-Security-API-43905)|An attacker can read a file of Elasticsearch, via Remote Cluster Security API, in order to obtain sensitive information...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0292/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 avril 2024|
  |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0291/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 avril 2024|
  |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0290/)|Une vulnérabilité a été découverte dans |Publié le 10 avril 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-privilege-escalation-via-Windows-Installer-43493" class="noirorange"><b>OpenVPN OpenSource</b>: privilege escalation via Windows Installer</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-privilege-escalation-via-Windows-Installer-43493)|An attacker can bypass restrictions of OpenVPN OpenSource, via Windows Installer, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-39531" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-39531)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/python-glance-store-logged-sensitive-information-via-access-key-43492" class="noirorange"><b>python-glance-store</b>: logged sensitive information via access_key</a>](https://vigilance.fr/vulnerability/python-glance-store-logged-sensitive-information-via-access-key-43492)|An attacker can read logs of python-glance-store, via access_key, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43491" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43491)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-six-vulnerabilities-43490" class="noirorange"><b>Centreon Web</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-six-vulnerabilities-43490)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-VMM-Int80-Syscall-43489" class="noirorange"><b>Linux kernel</b>: privilege escalation via VMM Int80 Syscall</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-VMM-Int80-Syscall-43489)|An attacker can bypass restrictions of the Linux kernel, via VMM Int80 Syscall, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-Tty-No-Session-Leader-43914" class="noirorange"><b>FreeBSD</b>: NULL pointer dereference via Tty No Session Leader</a>](https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-Tty-No-Session-Leader-43914)|An attacker can force a NULL pointer to be dereferenced on FreeBSD, via Tty No Session Leader, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usbnet-get-endpoints-43912" class="noirorange"><b>Linux kernel</b>: denial of service via usbnet_get_<wbr>endpoints()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usbnet-get-endpoints-43912)|An attacker can cause a fatal error of the Linux kernel, via usbnet_get_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Luxon-overload-via-DateTime-fromRFC2822-43485" class="noirorange"><b>Luxon</b>: overload via DateTime.<wbr>fromRFC2822()</wbr></a>](https://vigilance.fr/vulnerability/Luxon-overload-via-DateTime-fromRFC2822-43485)|An attacker can trigger an overload of Luxon, via DateTime.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-AcroForm-cc-43478" class="noirorange"><b>Xpdf</b>: memory corruption via AcroForm.cc</a>](https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-AcroForm-cc-43478)|An attacker can trigger a memory corruption of Xpdf, via AcroForm.cc, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
