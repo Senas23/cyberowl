@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/04/2024 21:16:21 UTC
+ > Last Updated 13/04/2024 09:15:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,6 +24,13 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,23 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-RPC-43496" class="noirorange"><b>SIMATIC</b>: two vulnerabilities via RPC</a>](https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-RPC-43496)|An attacker can use several vulnerabilities of SIMATIC...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-CP-343-1-denial-of-service-via-Spoofed-TCP-RST-Packets-43495" class="noirorange"><b>SIMATIC CP 343-1</b>: denial of service via Spoofed TCP RST Packets</a>](https://vigilance.fr/vulnerability/SIMATIC-CP-343-1-denial-of-service-via-Spoofed-TCP-RST-Packets-43495)|An attacker can cause a fatal error of SIMATIC CP 343-1, via Spoofed TCP RST Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-July-2023-41742" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-July-2023-41742)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41741" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41741)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-REST-41740" class="noirorange"><b>Drupal Two-factor Authentication</b>: user access via REST</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-REST-41740)|An attacker can bypass restrictions of Drupal Two-factor Authentication, via REST, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-coreutils-code-execution-via-line-bytes-split-43918" class="noirorange"><b>GNU coreutils</b>: code execution via line_bytes_split()</a>](https://vigilance.fr/vulnerability/GNU-coreutils-code-execution-via-line-bytes-split-43918)|An attacker can use a vulnerability of GNU coreutils, via line_bytes_split(), in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-privilege-escalation-via-Windows-Installer-43493" class="noirorange"><b>OpenVPN OpenSource</b>: privilege escalation via Windows Installer</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-privilege-escalation-via-Windows-Installer-43493)|An attacker can bypass restrictions of OpenVPN OpenSource, via Windows Installer, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-39531" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-39531)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/python-glance-store-logged-sensitive-information-via-access-key-43492" class="noirorange"><b>python-glance-store</b>: logged sensitive information via access_key</a>](https://vigilance.fr/vulnerability/python-glance-store-logged-sensitive-information-via-access-key-43492)|An attacker can read logs of python-glance-store, via access_key, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43491" class="noirorange"><b>Centreon Web</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43491)|An attacker can use a SQL injection of Centreon Web, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-six-vulnerabilities-43490" class="noirorange"><b>Centreon Web</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-six-vulnerabilities-43490)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-VMM-Int80-Syscall-43489" class="noirorange"><b>Linux kernel</b>: privilege escalation via VMM Int80 Syscall</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-VMM-Int80-Syscall-43489)|An attacker can bypass restrictions of the Linux kernel, via VMM Int80 Syscall, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-Tty-No-Session-Leader-43914" class="noirorange"><b>FreeBSD</b>: NULL pointer dereference via Tty No Session Leader</a>](https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-Tty-No-Session-Leader-43914)|An attacker can force a NULL pointer to be dereferenced on FreeBSD, via Tty No Session Leader, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usbnet-get-endpoints-43912" class="noirorange"><b>Linux kernel</b>: denial of service via usbnet_get_<wbr>endpoints()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usbnet-get-endpoints-43912)|An attacker can cause a fatal error of the Linux kernel, via usbnet_get_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Luxon-overload-via-DateTime-fromRFC2822-43485" class="noirorange"><b>Luxon</b>: overload via DateTime.<wbr>fromRFC2822()</wbr></a>](https://vigilance.fr/vulnerability/Luxon-overload-via-DateTime-fromRFC2822-43485)|An attacker can trigger an overload of Luxon, via DateTime.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-AcroForm-cc-43478" class="noirorange"><b>Xpdf</b>: memory corruption via AcroForm.cc</a>](https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-AcroForm-cc-43478)|An attacker can trigger a memory corruption of Xpdf, via AcroForm.cc, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
