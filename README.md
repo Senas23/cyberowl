@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/04/2024 21:16:29 UTC
+ > Last Updated 14/04/2024 11:24:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Windows-privilege-escalation-43516" class="noirorange"><b>Microsoft Defender for Endpoint for Windows</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Windows-privilege-escalation-43516)|An attacker can bypass restrictions of Microsoft Defender for Endpoint for Windows, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-memory-leak-via-xmalloc-43513" class="noirorange"><b>Open vSwitch</b>: memory leak via xmalloc__()</a>](https://vigilance.fr/vulnerability/Open-vSwitch-memory-leak-via-xmalloc-43513)|An attacker can create a memory leak of Open vSwitch, via xmalloc__(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-DHCP-Daemon-43510" class="noirorange"><b>Stormshield Network Security</b>: denial of service via DHCP Daemon</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-DHCP-Daemon-43510)|An attacker can cause a fatal error of Stormshield Network Security, via DHCP Daemon, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508" class="noirorange"><b>DNSSEC</b>: overload via NSEC3 Closest Encloser Proof</a>](https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508)|An attacker can trigger an overload of DNSSEC, via NSEC3 Closest Encloser Proof, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506" class="noirorange"><b>ISC BIND</b>: memory leak via Recursive Query Patterns</a>](https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506)|An attacker can create a memory leak of ISC BIND, via Recursive Query Patterns, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505" class="noirorange"><b>ISC BIND</b>: overload via ECS-enabled Cache Cleaning</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505)|An attacker can trigger an overload of ISC BIND, via ECS-enabled Cache Cleaning, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-DNS64-Serve-stale-Recursive-Resolution-43504" class="noirorange"><b>ISC BIND</b>: assertion error via DNS64 Serve-stale Recursive Resolution</a>](https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-DNS64-Serve-stale-Recursive-Resolution-43504)|An attacker can force an assertion error of ISC BIND, via DNS64 Serve-stale Recursive Resolution, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Data-Handler-Persisting-FAL-Entities-43503" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Data Handler Persisting FAL Entities</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Data-Handler-Persisting-FAL-Entities-43503)|An attacker can bypass access restrictions to data of TYPO3 Core, via Data Handler Persisting FAL Entities, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-T3-URI-Scheme-43502" class="noirorange"><b>TYPO3 Core</b>: information disclosure via T3 URI Scheme</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-T3-URI-Scheme-43502)|An attacker can bypass access restrictions to data of TYPO3 Core, via T3 URI Scheme, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Backend Forms Hashed Passwords</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Backend-Forms-Hashed-Passwords-43500)|An attacker can bypass access restrictions to data of TYPO3 Core, via Backend Forms Hashed Passwords, in order to read sensitive information...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[Vulnérabilité dans Spring Framework](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/)|Une vulnérabilité a été découverte dans|Publié le 11 avril 2024|
  |[Multiples vulnérabilités dans Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0297/)|De multiples vulnérabilités ont été découvertes dans Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 11 avril 2024|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans |Publié le 11 avril 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-write-access-via-WebAuthn-Log-Injection-43530" class="noirorange"><b>Keycloak</b>: write access via WebAuthn Log Injection</a>](https://vigilance.fr/vulnerability/Keycloak-write-access-via-WebAuthn-Log-Injection-43530)|An attacker can bypass access restrictions of Keycloak, via WebAuthn Log Injection, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-SEV-SNP-Firmware-two-vulnerabilities-43528" class="noirorange"><b>AMD SEV-SNP Firmware</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/AMD-SEV-SNP-Firmware-two-vulnerabilities-43528)|An attacker can use several vulnerabilities of AMD SEV-SNP Firmware...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-41757)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-four-vulnerabilities-43527" class="noirorange"><b>AMD Processor</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/AMD-Processor-four-vulnerabilities-43527)|An attacker can use several vulnerabilities of AMD Processor...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Windows-privilege-escalation-43516" class="noirorange"><b>Microsoft Defender for Endpoint for Windows</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Windows-privilege-escalation-43516)|An attacker can bypass restrictions of Microsoft Defender for Endpoint for Windows, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-memory-leak-via-xmalloc-43513" class="noirorange"><b>Open vSwitch</b>: memory leak via xmalloc__()</a>](https://vigilance.fr/vulnerability/Open-vSwitch-memory-leak-via-xmalloc-43513)|An attacker can create a memory leak of Open vSwitch, via xmalloc__(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-DHCP-Daemon-43510" class="noirorange"><b>Stormshield Network Security</b>: denial of service via DHCP Daemon</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-DHCP-Daemon-43510)|An attacker can cause a fatal error of Stormshield Network Security, via DHCP Daemon, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508" class="noirorange"><b>DNSSEC</b>: overload via NSEC3 Closest Encloser Proof</a>](https://vigilance.fr/vulnerability/DNSSEC-overload-via-NSEC3-Closest-Encloser-Proof-43508)|An attacker can trigger an overload of DNSSEC, via NSEC3 Closest Encloser Proof, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506" class="noirorange"><b>ISC BIND</b>: memory leak via Recursive Query Patterns</a>](https://vigilance.fr/vulnerability/ISC-BIND-memory-leak-via-Recursive-Query-Patterns-43506)|An attacker can create a memory leak of ISC BIND, via Recursive Query Patterns, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505" class="noirorange"><b>ISC BIND</b>: overload via ECS-enabled Cache Cleaning</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-ECS-enabled-Cache-Cleaning-43505)|An attacker can trigger an overload of ISC BIND, via ECS-enabled Cache Cleaning, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
