@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/04/2024 21:17:12 UTC
+ > Last Updated 19/04/2024 09:20:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781" class="noirorange"><b>Veritas NetBackup</b>: file upload via BPCD Process</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-file-upload-via-BPCD-Process-41781)|An attacker can upload a malicious file on Veritas NetBackup, via BPCD Process, in order for example to upload a Trojan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Tables-43946" class="noirorange"><b>IBM Db2</b>: denial of service via Columnar Tables</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Tables-43946)|An attacker can cause a fatal error of IBM Db2, via Columnar Tables, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Specially-Crafted-Query-43945" class="noirorange"><b>IBM Db2</b>: denial of service via Specially Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Specially-Crafted-Query-43945)|An attacker can cause a fatal error of IBM Db2, via Specially Crafted Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43944" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-43944)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558" class="noirorange"><b>SnapCenter</b>: write access via System Logging Configuration Settings</a>](https://vigilance.fr/vulnerability/SnapCenter-write-access-via-System-Logging-Configuration-Settings-43558)|An attacker can bypass access restrictions of SnapCenter, via System Logging Configuration Settings, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932" class="noirorange"><b>Suricata Engine</b>: vulnerability dated 01/04/2024</a>](https://vigilance.fr/vulnerability/Suricata-Engine-vulnerability-dated-01-04-2024-43932)|A vulnerability of Suricata Engine, dated 01/04/2024, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927" class="noirorange"><b>Kanidm</b>: denial of service via Oauth2 Claim Maps</a>](https://vigilance.fr/vulnerability/Kanidm-denial-of-service-via-Oauth2-Claim-Maps-43927)|An attacker can cause a fatal error of Kanidm, via Oauth2 Claim Maps, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557" class="noirorange"><b>libuv</b>: ingress filtrering bypass via uv_getaddrinfo()</a>](https://vigilance.fr/vulnerability/libuv-ingress-filtrering-bypass-via-uv-getaddrinfo-43557)|An attacker can bypass filtering rules of libuv, via uv_getaddrinfo(), in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/undici-vulnerability-43556" class="noirorange"><b>undici</b>: vulnerability</a>](https://vigilance.fr/vulnerability/undici-vulnerability-43556)|A vulnerability of undici was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555" class="noirorange"><b>Python Core</b>: use after free via deque_index_impl()</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-deque-index-impl-43555)|An attacker can force the reuse of a freed memory area of Python Core, via deque_index_impl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[Vulnérabilité dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 avril 2024|
  |[Vulnérabilité dans Palo Alto Networks GlobalProtect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/)|Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 avril 2024|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 avril 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/quic-go-overload-via-PATH-CHALLENGE-Frames-43565" class="noirorange"><b>quic-go</b>: overload via PATH_CHALLENGE Frames</a>](https://vigilance.fr/vulnerability/quic-go-overload-via-PATH-CHALLENGE-Frames-43565)|An attacker can trigger an overload of quic-go, via PATH_CHALLENGE Frames, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-PCI-SRIOV-TOTAL-VF-43564" class="noirorange"><b>QEMU</b>: buffer overflow via register_vfs() PCI_SRIOV_TOTAL_VF</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-PCI-SRIOV-TOTAL-VF-43564)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via register_vfs() PCI_SRIOV_TOTAL_VF, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-TotalVFs-43563" class="noirorange"><b>QEMU</b>: buffer overflow via register_vfs() TotalVFs</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-TotalVFs-43563)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via register_vfs() TotalVFs, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789" class="noirorange"><b>Oracle Java</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787" class="noirorange"><b>Oracle VM VirtualBox</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787)|An attacker can use several vulnerabilities of Oracle VM VirtualBox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-July-2023-41785" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-July-2023-41785)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-July-2023-41784" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-July-2023-41784)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-July-2023-41783" class="noirorange"><b>Oracle Database</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-July-2023-41783)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-buffer-overflow-via-KTX-Images-43562" class="noirorange"><b>Qt</b>: buffer overflow via KTX Images</a>](https://vigilance.fr/vulnerability/Qt-buffer-overflow-via-KTX-Images-43562)|An attacker can trigger a buffer overflow of Qt, via KTX Images, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
