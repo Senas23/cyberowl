@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/04/2024 09:17:35 UTC
+ > Last Updated 20/04/2024 21:16:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/freeglut-memory-leak-via-glutAddSubMenu-43568" class="noirorange"><b>freeglut</b>: memory leak via glutAddSubMenu()</a>](https://vigilance.fr/vulnerability/freeglut-memory-leak-via-glutAddSubMenu-43568)|An attacker can create a memory leak of freeglut, via glutAddSubMenu(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-Percent-Encoded-Characters-43567" class="noirorange"><b>ModSecurity</b>: ingress filtrering bypass via Percent Encoded Characters</a>](https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-Percent-Encoded-Characters-43567)|An attacker can bypass filtering rules of ModSecurity, via Percent Encoded Characters, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NPM-IP-Package-Cross-Site-Request-Forgery-via-isPublic-43566" class="noirorange"><b>NPM IP Package</b>: Cross Site Request Forgery via isPublic()</a>](https://vigilance.fr/vulnerability/NPM-IP-Package-Cross-Site-Request-Forgery-via-isPublic-43566)|An attacker can trigger a Cross Site Request Forgery of NPM IP Package, via isPublic(), in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798" class="noirorange"><b>Samba</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Samba-five-vulnerabilities-41798)|An attacker can use several vulnerabilities of Samba...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/quic-go-overload-via-PATH-CHALLENGE-Frames-43565" class="noirorange"><b>quic-go</b>: overload via PATH_CHALLENGE Frames</a>](https://vigilance.fr/vulnerability/quic-go-overload-via-PATH-CHALLENGE-Frames-43565)|An attacker can trigger an overload of quic-go, via PATH_CHALLENGE Frames, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-PCI-SRIOV-TOTAL-VF-43564" class="noirorange"><b>QEMU</b>: buffer overflow via register_vfs() PCI_SRIOV_TOTAL_VF</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-PCI-SRIOV-TOTAL-VF-43564)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via register_vfs() PCI_SRIOV_TOTAL_VF, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-TotalVFs-43563" class="noirorange"><b>QEMU</b>: buffer overflow via register_vfs() TotalVFs</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-register-vfs-TotalVFs-43563)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via register_vfs() TotalVFs, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789" class="noirorange"><b>Oracle Java</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-vulnerabilities-of-July-2023-41789)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of July 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2023-41788)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787" class="noirorange"><b>Oracle VM VirtualBox</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-41787)|An attacker can use several vulnerabilities of Oracle VM VirtualBox...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
  |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-43586" class="noirorange"><b>Atlassian Confluence Server/DC</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-43586)|An attacker can trigger a Cross Site Scripting of Atlassian Confluence Server/DC, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-async-len-43585" class="noirorange"><b>QEMU</b>: buffer overflow via async_len</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-async-len-43585)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via async_len, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-information-disclosure-via-Device-Back-To-Services-43583" class="noirorange"><b>HP LaserJet</b>: information disclosure via Device Back To Services</a>](https://vigilance.fr/vulnerability/HP-LaserJet-information-disclosure-via-Device-Back-To-Services-43583)|An attacker can bypass access restrictions to data of HP LaserJet, via Device Back To Services, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-uio-open-43582" class="noirorange"><b>Linux kernel</b>: use after free via uio_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-uio-open-43582)|An attacker can force the reuse of a freed memory area of the Linux kernel, via uio_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-binder-alloc-free-page-43581" class="noirorange"><b>Linux kernel</b>: use after free via binder_alloc_free_<wbr>page()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-binder-alloc-free-page-43581)|An attacker can force the reuse of a freed memory area of the Linux kernel, via binder_alloc_free_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-skb-segment-43579" class="noirorange"><b>Linux kernel</b>: buffer overflow via skb_segment()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-skb-segment-43579)|An attacker can trigger a buffer overflow of the Linux kernel, via skb_segment(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-parse-contexts-43578" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via smb2_parse_contexts(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-smb2-parse-contexts-43578)|An attacker can force a read at an invalid memory address of the Linux kernel, via smb2_parse_contexts(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/XnView-memory-corruption-via-TIFF-43577" class="noirorange"><b>XnView</b>: memory corruption via TIFF</a>](https://vigilance.fr/vulnerability/XnView-memory-corruption-via-TIFF-43577)|An attacker can trigger a memory corruption of XnView, via TIFF, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Content-Filtering-Bypass-43576" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via Content Filtering Bypass</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Content-Filtering-Bypass-43576)|An attacker can trigger a Cross Site Scripting of Joomla Core, via Content Filtering Bypass, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Mail-Address-43575" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via Mail Address</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Mail-Address-43575)|An attacker can trigger a Cross Site Scripting of Joomla Core, via Mail Address, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
