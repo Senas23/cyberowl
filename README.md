@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/04/2024 09:20:46 UTC
+ > Last Updated 22/04/2024 21:16:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-corruption-via-format-fractional-part-nsecs-43609" class="noirorange"><b>Wireshark</b>: memory corruption via format_fractional_<wbr>part_nsecs()</wbr></a>](https://vigilance.fr/vulnerability/Wireshark-memory-corruption-via-format-fractional-part-nsecs-43609)|An attacker can trigger a memory corruption of Wireshark, via format_fractional_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-ws-manuf-lookup-str-43607" class="noirorange"><b>Wireshark</b>: buffer overflow via ws_manuf_lookup_str(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-ws-manuf-lookup-str-43607)|An attacker can trigger a buffer overflow of Wireshark, via ws_manuf_lookup_str(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-openvswitch-flow-netlink-c-43606" class="noirorange"><b>Linux kernel</b>: denial of service via net/openvswitch/<wbr>flow_netlink.c</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-openvswitch-flow-netlink-c-43606)|An attacker can cause a fatal error of the Linux kernel, via net/openvswitch/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Node-Access-Rebuild-Progressive-read-write-access-43605" class="noirorange"><b>Drupal Node Access Rebuild Progressive</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Node-Access-Rebuild-Progressive-read-write-access-43605)|An attacker can bypass access restrictions of Drupal Node Access Rebuild Progressive, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43604" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43604)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-Perl-privilege-escalation-43603" class="noirorange"><b>AIX Perl</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/AIX-Perl-privilege-escalation-43603)|An attacker can bypass restrictions of AIX Perl, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Compress-overload-via-Corrupted-DUMP-File-43601" class="noirorange"><b>Apache Commons Compress</b>: overload via Corrupted DUMP File</a>](https://vigilance.fr/vulnerability/Apache-Commons-Compress-overload-via-Corrupted-DUMP-File-43601)|An attacker can trigger an overload of Apache Commons Compress, via Corrupted DUMP File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-Server-Side-Request-Forgery-via-URL-Parsing-Host-Validation-43600" class="noirorange"><b>Spring Framework</b>: Server-Side Request Forgery via URL Parsing Host Validation</a>](https://vigilance.fr/vulnerability/Spring-Framework-Server-Side-Request-Forgery-via-URL-Parsing-Host-Validation-43600)|An attacker can trigger a Server-Side Request Forgery of Spring Framework, via URL Parsing Host Validation, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-net-tls-tls-sw-c-43598" class="noirorange"><b>Linux kernel</b>: use after free via net/tls/tls_sw.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-net-tls-tls-sw-c-43598)|An attacker can force the reuse of a freed memory area of the Linux kernel, via net/tls/tls_sw.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-tls-tls-sw-c-43596" class="noirorange"><b>Linux kernel</b>: denial of service via net/tls/tls_sw.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-tls-tls-sw-c-43596)|An attacker can cause a fatal error of the Linux kernel, via net/tls/tls_sw.c, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
  |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ksmbd-tcp-new-connection-43630" class="noirorange"><b>Linux kernel</b>: use after free via ksmbd_tcp_new_<wbr>connection()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ksmbd-tcp-new-connection-43630)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ksmbd_tcp_new_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-gfs2-rgrp-dump-43625" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via gfs2_rgrp_dump()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-gfs2-rgrp-dump-43625)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via gfs2_rgrp_dump(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bpf-map-put-43623" class="noirorange"><b>Linux kernel</b>: use after free via bpf_map_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bpf-map-put-43623)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bpf_map_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-pvr2-context-disconnect-43622" class="noirorange"><b>Linux kernel</b>: use after free via pvr2_context_<wbr>disconnect()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-pvr2-context-disconnect-43622)|An attacker can force the reuse of a freed memory area of the Linux kernel, via pvr2_context_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-kernel-bpf-syscall-c-43621" class="noirorange"><b>Linux kernel</b>: use after free via kernel/bpf/syscall.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-kernel-bpf-syscall-c-43621)|An attacker can force the reuse of a freed memory area of the Linux kernel, via kernel/bpf/syscall.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-fs-f2fs-namei-c-43620" class="noirorange"><b>Linux kernel</b>: memory corruption via fs/f2fs/namei.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-fs-f2fs-namei-c-43620)|An attacker can trigger a memory corruption of the Linux kernel, via fs/f2fs/namei.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-PTR-TO-FLOW-KEYS-43619" class="noirorange"><b>Linux kernel</b>: memory corruption via PTR_TO_FLOW_KEYS</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-PTR-TO-FLOW-KEYS-43619)|An attacker can trigger a memory corruption of the Linux kernel, via PTR_TO_FLOW_KEYS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nsim-destroy-43616" class="noirorange"><b>Linux kernel</b>: memory corruption via nsim_destroy()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-nsim-destroy-43616)|An attacker can trigger a memory corruption of the Linux kernel, via nsim_destroy(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-spectrum-acl-tcam-43615" class="noirorange"><b>Linux kernel</b>: memory corruption via spectrum_acl_tcam()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-spectrum-acl-tcam-43615)|An attacker can trigger a memory corruption of the Linux kernel, via spectrum_acl_tcam(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UAMQP-use-after-free-via-open-get-offered-capabilities-43612" class="noirorange"><b>UAMQP</b>: use after free via open_get_offered_<wbr>capabilities()</wbr></a>](https://vigilance.fr/vulnerability/UAMQP-use-after-free-via-open-get-offered-capabilities-43612)|An attacker can force the reuse of a freed memory area of UAMQP, via open_get_offered_|Visit link for details|
  
  ---
 
