@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/04/2024 21:16:53 UTC
+ > Last Updated 22/04/2024 09:20:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-corruption-via-format-fractional-part-nsecs-43609" class="noirorange"><b>Wireshark</b>: memory corruption via format_fractional_<wbr>part_nsecs()</wbr></a>](https://vigilance.fr/vulnerability/Wireshark-memory-corruption-via-format-fractional-part-nsecs-43609)|An attacker can trigger a memory corruption of Wireshark, via format_fractional_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-ws-manuf-lookup-str-43607" class="noirorange"><b>Wireshark</b>: buffer overflow via ws_manuf_lookup_str(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Wireshark-buffer-overflow-via-ws-manuf-lookup-str-43607)|An attacker can trigger a buffer overflow of Wireshark, via ws_manuf_lookup_str(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-openvswitch-flow-netlink-c-43606" class="noirorange"><b>Linux kernel</b>: denial of service via net/openvswitch/<wbr>flow_netlink.c</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-openvswitch-flow-netlink-c-43606)|An attacker can cause a fatal error of the Linux kernel, via net/openvswitch/|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Node-Access-Rebuild-Progressive-read-write-access-43605" class="noirorange"><b>Drupal Node Access Rebuild Progressive</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Node-Access-Rebuild-Progressive-read-write-access-43605)|An attacker can bypass access restrictions of Drupal Node Access Rebuild Progressive, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43604" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-43604)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-Perl-privilege-escalation-43603" class="noirorange"><b>AIX Perl</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/AIX-Perl-privilege-escalation-43603)|An attacker can bypass restrictions of AIX Perl, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Compress-overload-via-Corrupted-DUMP-File-43601" class="noirorange"><b>Apache Commons Compress</b>: overload via Corrupted DUMP File</a>](https://vigilance.fr/vulnerability/Apache-Commons-Compress-overload-via-Corrupted-DUMP-File-43601)|An attacker can trigger an overload of Apache Commons Compress, via Corrupted DUMP File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-Server-Side-Request-Forgery-via-URL-Parsing-Host-Validation-43600" class="noirorange"><b>Spring Framework</b>: Server-Side Request Forgery via URL Parsing Host Validation</a>](https://vigilance.fr/vulnerability/Spring-Framework-Server-Side-Request-Forgery-via-URL-Parsing-Host-Validation-43600)|An attacker can trigger a Server-Side Request Forgery of Spring Framework, via URL Parsing Host Validation, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-net-tls-tls-sw-c-43598" class="noirorange"><b>Linux kernel</b>: use after free via net/tls/tls_sw.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-net-tls-tls-sw-c-43598)|An attacker can force the reuse of a freed memory area of the Linux kernel, via net/tls/tls_sw.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-tls-tls-sw-c-43596" class="noirorange"><b>Linux kernel</b>: denial of service via net/tls/tls_sw.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-tls-tls-sw-c-43596)|An attacker can cause a fatal error of the Linux kernel, via net/tls/tls_sw.c, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 18 avril 2024|
  |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 avril 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Compress-overload-via-Corrupted-DUMP-File-43601" class="noirorange"><b>Apache Commons Compress</b>: overload via Corrupted DUMP File</a>](https://vigilance.fr/vulnerability/Apache-Commons-Compress-overload-via-Corrupted-DUMP-File-43601)|An attacker can trigger an overload of Apache Commons Compress, via Corrupted DUMP File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-Server-Side-Request-Forgery-via-URL-Parsing-Host-Validation-43600" class="noirorange"><b>Spring Framework</b>: Server-Side Request Forgery via URL Parsing Host Validation</a>](https://vigilance.fr/vulnerability/Spring-Framework-Server-Side-Request-Forgery-via-URL-Parsing-Host-Validation-43600)|An attacker can trigger a Server-Side Request Forgery of Spring Framework, via URL Parsing Host Validation, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-net-tls-tls-sw-c-43598" class="noirorange"><b>Linux kernel</b>: use after free via net/tls/tls_sw.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-net-tls-tls-sw-c-43598)|An attacker can force the reuse of a freed memory area of the Linux kernel, via net/tls/tls_sw.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-tls-tls-sw-c-43596" class="noirorange"><b>Linux kernel</b>: denial of service via net/tls/tls_sw.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-tls-tls-sw-c-43596)|An attacker can cause a fatal error of the Linux kernel, via net/tls/tls_sw.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gRPC-denial-of-service-via-TCP-Server-43595" class="noirorange"><b>gRPC</b>: denial of service via TCP Server</a>](https://vigilance.fr/vulnerability/gRPC-denial-of-service-via-TCP-Server-43595)|An attacker can cause a fatal error of gRPC, via TCP Server, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gRPC-denial-of-service-via-Hpack-Table-Accounting-43594" class="noirorange"><b>gRPC</b>: denial of service via Hpack Table Accounting</a>](https://vigilance.fr/vulnerability/gRPC-denial-of-service-via-Hpack-Table-Accounting-43594)|An attacker can cause a fatal error of gRPC, via Hpack Table Accounting, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gRPC-denial-of-service-via-Base64-Encoding-Error-43593" class="noirorange"><b>gRPC</b>: denial of service via Base64 Encoding Error</a>](https://vigilance.fr/vulnerability/gRPC-denial-of-service-via-Base64-Encoding-Error-43593)|An attacker can cause a fatal error of gRPC, via Base64 Encoding Error, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Parser-43592" class="noirorange"><b>aiohttp</b>: header injection via HTTP Parser</a>](https://vigilance.fr/vulnerability/aiohttp-header-injection-via-HTTP-Parser-43592)|An attacker can add new headers on aiohttp, via HTTP Parser, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-multiple-vulnerabilities-via-Out-of-Band-Management-39673" class="noirorange"><b>Synology DiskStation Manager</b>: multiple vulnerabilities via Out-of-Band Management</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-multiple-vulnerabilities-via-Out-of-Band-Management-39673)|An attacker can use several vulnerabilities of Synology DiskStation Manager, via Out-of-Band Management...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-file-read-write-via-smb2-get-msg-43591" class="noirorange"><b>Linux kernel</b>: file read/write via smb2_get_msg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-file-read-write-via-smb2-get-msg-43591)|An attacker can bypass access restrictions of the Linux kernel, via smb2_get_msg(), in order to read or alter files...|Visit link for details|
  
  ---
 
