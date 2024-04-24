@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/04/2024 09:19:40 UTC
+ > Last Updated 24/04/2024 21:19:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,27 +51,27 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-BTC-SRSO-Mitigations-44009" class="noirorange"><b>Xen</b>: information disclosure via BTC/SRSO Mitigations</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-BTC-SRSO-Mitigations-44009)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via BTC/SRSO Mitigations, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-information-disclosure-via-Web-Server-ETag-44004" class="noirorange"><b>FortiOS</b>: information disclosure via Web Server ETag</a>](https://vigilance.fr/vulnerability/FortiOS-information-disclosure-via-Web-Server-ETag-44004)|An attacker can bypass access restrictions to data of FortiOS, via Web Server ETag, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-parse-lease-state-44000" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via parse_lease_state()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-parse-lease-state-44000)|An attacker can force a read at an invalid memory address of the Linux kernel, via parse_lease_state(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libarchive-denial-of-service-via-read-archive-43992" class="noirorange"><b>libarchive</b>: denial of service via read_archive()</a>](https://vigilance.fr/vulnerability/libarchive-denial-of-service-via-read-archive-43992)|An attacker can cause a fatal error of libarchive, via read_archive(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Ksmbd-Session-Setup-Validate-Mech-43632" class="noirorange"><b>Linux kernel</b>: denial of service via Ksmbd Session Setup Validate Mech</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Ksmbd-Session-Setup-Validate-Mech-43632)|An attacker can cause a fatal error of the Linux kernel, via Ksmbd Session Setup Validate Mech, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-i801-block-transaction-by-block-43631" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via i801_block_<wbr>transaction_by_<wbr>block()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-i801-block-transaction-by-block-43631)|An attacker can force a read at an invalid memory address of the Linux kernel, via i801_block_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ksmbd-tcp-new-connection-43630" class="noirorange"><b>Linux kernel</b>: use after free via ksmbd_tcp_new_<wbr>connection()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ksmbd-tcp-new-connection-43630)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ksmbd_tcp_new_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-gfs2-rgrp-dump-43625" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via gfs2_rgrp_dump()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-gfs2-rgrp-dump-43625)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via gfs2_rgrp_dump(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bpf-map-put-43623" class="noirorange"><b>Linux kernel</b>: use after free via bpf_map_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bpf-map-put-43623)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bpf_map_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-pvr2-context-disconnect-43622" class="noirorange"><b>Linux kernel</b>: use after free via pvr2_context_<wbr>disconnect()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-pvr2-context-disconnect-43622)|An attacker can force the reuse of a freed memory area of the Linux kernel, via pvr2_context_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-kernel-bpf-syscall-c-43621" class="noirorange"><b>Linux kernel</b>: use after free via kernel/bpf/syscall.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-kernel-bpf-syscall-c-43621)|An attacker can force the reuse of a freed memory area of the Linux kernel, via kernel/bpf/syscall.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-fs-f2fs-namei-c-43620" class="noirorange"><b>Linux kernel</b>: memory corruption via fs/f2fs/namei.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-fs-f2fs-namei-c-43620)|An attacker can trigger a memory corruption of the Linux kernel, via fs/f2fs/namei.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-PTR-TO-FLOW-KEYS-43619" class="noirorange"><b>Linux kernel</b>: memory corruption via PTR_TO_FLOW_KEYS</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-PTR-TO-FLOW-KEYS-43619)|An attacker can trigger a memory corruption of the Linux kernel, via PTR_TO_FLOW_KEYS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
