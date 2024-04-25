@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/04/2024 21:19:22 UTC
+ > Last Updated 25/04/2024 09:19:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0343/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 avril 2024|
+ |[Multiples vulnérabilités dans NagiosXI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans NagiosXI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une atteinte à l'intégrité des données.|Publié le 24 avril 2024|
  |[Multiples vulnérabilités dans Synacor Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité, une injection de code indirecte à distance (XSS)|Publié le 22 avril 2024|
  |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0339/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
@@ -42,8 +44,6 @@
  |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
  |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0335/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- |[Multiples vulnérabilités dans les produits Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-X86-Processor-information-disclosure-via-Native-Branch-History-Injection-44017" class="noirorange"><b>Intel X86 Processor</b>: information disclosure via Native Branch History Injection</a>](https://vigilance.fr/vulnerability/Intel-X86-Processor-information-disclosure-via-Native-Branch-History-Injection-44017)|An attacker can bypass access restrictions to data of Intel X86 Processor, via Native Branch History Injection, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-BTC-SRSO-Mitigations-44009" class="noirorange"><b>Xen</b>: information disclosure via BTC/SRSO Mitigations</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-BTC-SRSO-Mitigations-44009)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via BTC/SRSO Mitigations, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-information-disclosure-via-Web-Server-ETag-44004" class="noirorange"><b>FortiOS</b>: information disclosure via Web Server ETag</a>](https://vigilance.fr/vulnerability/FortiOS-information-disclosure-via-Web-Server-ETag-44004)|An attacker can bypass access restrictions to data of FortiOS, via Web Server ETag, in order to read sensitive information...|Visit link for details|
@@ -60,18 +61,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-i801-block-transaction-by-block-43631" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via i801_block_<wbr>transaction_by_<wbr>block()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-i801-block-transaction-by-block-43631)|An attacker can force a read at an invalid memory address of the Linux kernel, via i801_block_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ksmbd-tcp-new-connection-43630" class="noirorange"><b>Linux kernel</b>: use after free via ksmbd_tcp_new_<wbr>connection()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ksmbd-tcp-new-connection-43630)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ksmbd_tcp_new_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-gfs2-rgrp-dump-43625" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via gfs2_rgrp_dump()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-gfs2-rgrp-dump-43625)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via gfs2_rgrp_dump(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bpf-map-put-43623" class="noirorange"><b>Linux kernel</b>: use after free via bpf_map_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bpf-map-put-43623)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bpf_map_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
