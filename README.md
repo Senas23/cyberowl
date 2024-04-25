@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/04/2024 09:19:41 UTC
+ > Last Updated 25/04/2024 21:20:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,27 +51,27 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41854" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41854)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Subtitle-Parsing-41850" class="noirorange"><b>GStreamer</b>: buffer overflow via Subtitle Parsing</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Subtitle-Parsing-41850)|An attacker can trigger a buffer overflow of GStreamer, via Subtitle Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-PGS-Subtitle-Overlay-Decoder-41849" class="noirorange"><b>GStreamer</b>: buffer overflow via PGS Subtitle Overlay Decoder</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-PGS-Subtitle-Overlay-Decoder-41849)|An attacker can trigger a buffer overflow of GStreamer, via PGS Subtitle Overlay Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-FLAC-Image-Tag-Handling-41848" class="noirorange"><b>GStreamer</b>: integer overflow via FLAC Image Tag Handling</a>](https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-FLAC-Image-Tag-Handling-41848)|An attacker can trigger an integer overflow of GStreamer, via FLAC Image Tag Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-net-tx-pkt-update-sctp-checksum-44035" class="noirorange"><b>QEMU</b>: out-of-bounds memory reading via net_tx_pkt_update_<wbr>sctp_checksum()</wbr></a>](https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-net-tx-pkt-update-sctp-checksum-44035)|An attacker, in a guest system, can force a read at an invalid memory address of QEMU, via net_tx_pkt_update_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-net-bluetooth-hci-debugfs-c-44034" class="noirorange"><b>Linux kernel</b>: memory corruption via net/bluetooth/hci_<wbr>debugfs.c</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-net-bluetooth-hci-debugfs-c-44034)|An attacker can trigger a memory corruption of the Linux kernel, via net/bluetooth/hci_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joda-Time-NULL-pointer-dereference-via-PeriodFormat-wordBased-44033" class="noirorange"><b>Joda-Time</b>: NULL pointer dereference via PeriodFormat::<wbr>wordBased()</wbr></a>](https://vigilance.fr/vulnerability/Joda-Time-NULL-pointer-dereference-via-PeriodFormat-wordBased-44033)|An attacker can force a NULL pointer to be dereferenced on Joda-Time, via PeriodFormat::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xfig-NULL-pointer-dereference-via-XGetWMHints-44022" class="noirorange"><b>Xfig</b>: NULL pointer dereference via XGetWMHints()</a>](https://vigilance.fr/vulnerability/Xfig-NULL-pointer-dereference-via-XGetWMHints-44022)|An attacker can force a NULL pointer to be dereferenced on Xfig, via XGetWMHints(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-X86-Processor-information-disclosure-via-Native-Branch-History-Injection-44017" class="noirorange"><b>Intel X86 Processor</b>: information disclosure via Native Branch History Injection</a>](https://vigilance.fr/vulnerability/Intel-X86-Processor-information-disclosure-via-Native-Branch-History-Injection-44017)|An attacker can bypass access restrictions to data of Intel X86 Processor, via Native Branch History Injection, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-BTC-SRSO-Mitigations-44009" class="noirorange"><b>Xen</b>: information disclosure via BTC/SRSO Mitigations</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-BTC-SRSO-Mitigations-44009)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via BTC/SRSO Mitigations, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-41828)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-information-disclosure-via-Web-Server-ETag-44004" class="noirorange"><b>FortiOS</b>: information disclosure via Web Server ETag</a>](https://vigilance.fr/vulnerability/FortiOS-information-disclosure-via-Web-Server-ETag-44004)|An attacker can bypass access restrictions to data of FortiOS, via Web Server ETag, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-parse-lease-state-44000" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via parse_lease_state()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-parse-lease-state-44000)|An attacker can force a read at an invalid memory address of the Linux kernel, via parse_lease_state(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libarchive-denial-of-service-via-read-archive-43992" class="noirorange"><b>libarchive</b>: denial of service via read_archive()</a>](https://vigilance.fr/vulnerability/libarchive-denial-of-service-via-read-archive-43992)|An attacker can cause a fatal error of libarchive, via read_archive(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Ksmbd-Session-Setup-Validate-Mech-43632" class="noirorange"><b>Linux kernel</b>: denial of service via Ksmbd Session Setup Validate Mech</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Ksmbd-Session-Setup-Validate-Mech-43632)|An attacker can cause a fatal error of the Linux kernel, via Ksmbd Session Setup Validate Mech, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-i801-block-transaction-by-block-43631" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via i801_block_<wbr>transaction_by_<wbr>block()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-i801-block-transaction-by-block-43631)|An attacker can force a read at an invalid memory address of the Linux kernel, via i801_block_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ksmbd-tcp-new-connection-43630" class="noirorange"><b>Linux kernel</b>: use after free via ksmbd_tcp_new_<wbr>connection()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-ksmbd-tcp-new-connection-43630)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ksmbd_tcp_new_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-gfs2-rgrp-dump-43625" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via gfs2_rgrp_dump()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-gfs2-rgrp-dump-43625)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via gfs2_rgrp_dump(), in order to trigger a denial of service...|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
