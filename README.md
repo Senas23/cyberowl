@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/04/2024 21:20:44 UTC
+ > Last Updated 26/04/2024 09:20:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,12 +30,27 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-26-02-2024-43635" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 26/02/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-26-02-2024-43635)|An attacker can use several vulnerabilities of the Linux kernel, dated 26/02/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenEXR-buffer-overflow-via-Scanline-Samples-43633" class="noirorange"><b>OpenEXR</b>: buffer overflow via Scanline Samples</a>](https://vigilance.fr/vulnerability/OpenEXR-buffer-overflow-via-Scanline-Samples-43633)|An attacker can trigger a buffer overflow of OpenEXR, via Scanline Samples, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libjwt-user-access-via-Timing-Side-Channel-43634" class="noirorange"><b>libjwt</b>: user access via Timing Side Channel</a>](https://vigilance.fr/vulnerability/libjwt-user-access-via-Timing-Side-Channel-43634)|An attacker can bypass restrictions of libjwt, via Timing Side Channel, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41854" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41854)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Subtitle-Parsing-41850" class="noirorange"><b>GStreamer</b>: buffer overflow via Subtitle Parsing</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Subtitle-Parsing-41850)|An attacker can trigger a buffer overflow of GStreamer, via Subtitle Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-PGS-Subtitle-Overlay-Decoder-41849" class="noirorange"><b>GStreamer</b>: buffer overflow via PGS Subtitle Overlay Decoder</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-PGS-Subtitle-Overlay-Decoder-41849)|An attacker can trigger a buffer overflow of GStreamer, via PGS Subtitle Overlay Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-FLAC-Image-Tag-Handling-41848" class="noirorange"><b>GStreamer</b>: integer overflow via FLAC Image Tag Handling</a>](https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-FLAC-Image-Tag-Handling-41848)|An attacker can trigger an integer overflow of GStreamer, via FLAC Image Tag Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-net-tx-pkt-update-sctp-checksum-44035" class="noirorange"><b>QEMU</b>: out-of-bounds memory reading via net_tx_pkt_update_<wbr>sctp_checksum()</wbr></a>](https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-net-tx-pkt-update-sctp-checksum-44035)|An attacker, in a guest system, can force a read at an invalid memory address of QEMU, via net_tx_pkt_update_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-net-bluetooth-hci-debugfs-c-44034" class="noirorange"><b>Linux kernel</b>: memory corruption via net/bluetooth/hci_<wbr>debugfs.c</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-net-bluetooth-hci-debugfs-c-44034)|An attacker can trigger a memory corruption of the Linux kernel, via net/bluetooth/hci_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joda-Time-NULL-pointer-dereference-via-PeriodFormat-wordBased-44033" class="noirorange"><b>Joda-Time</b>: NULL pointer dereference via PeriodFormat::<wbr>wordBased()</wbr></a>](https://vigilance.fr/vulnerability/Joda-Time-NULL-pointer-dereference-via-PeriodFormat-wordBased-44033)|An attacker can force a NULL pointer to be dereferenced on Joda-Time, via PeriodFormat::|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0343/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 avril 2024|
- |[Multiples vulnérabilités dans NagiosXI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans NagiosXI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une atteinte à l'intégrité des données.|Publié le 24 avril 2024|
  |[Multiples vulnérabilités dans Synacor Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité, une injection de code indirecte à distance (XSS)|Publié le 22 avril 2024|
  |[[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0339/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
@@ -44,34 +59,19 @@
  |[Multiples vulnérabilités dans les produits OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans |Publié le 22 avril 2024|
  |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0335/)|Une vulnérabilité a été découverte dans |Publié le 22 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41854" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-41854)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Subtitle-Parsing-41850" class="noirorange"><b>GStreamer</b>: buffer overflow via Subtitle Parsing</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-Subtitle-Parsing-41850)|An attacker can trigger a buffer overflow of GStreamer, via Subtitle Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-PGS-Subtitle-Overlay-Decoder-41849" class="noirorange"><b>GStreamer</b>: buffer overflow via PGS Subtitle Overlay Decoder</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-PGS-Subtitle-Overlay-Decoder-41849)|An attacker can trigger a buffer overflow of GStreamer, via PGS Subtitle Overlay Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-FLAC-Image-Tag-Handling-41848" class="noirorange"><b>GStreamer</b>: integer overflow via FLAC Image Tag Handling</a>](https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-FLAC-Image-Tag-Handling-41848)|An attacker can trigger an integer overflow of GStreamer, via FLAC Image Tag Handling, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-net-tx-pkt-update-sctp-checksum-44035" class="noirorange"><b>QEMU</b>: out-of-bounds memory reading via net_tx_pkt_update_<wbr>sctp_checksum()</wbr></a>](https://vigilance.fr/vulnerability/QEMU-out-of-bounds-memory-reading-via-net-tx-pkt-update-sctp-checksum-44035)|An attacker, in a guest system, can force a read at an invalid memory address of QEMU, via net_tx_pkt_update_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-net-bluetooth-hci-debugfs-c-44034" class="noirorange"><b>Linux kernel</b>: memory corruption via net/bluetooth/hci_<wbr>debugfs.c</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-net-bluetooth-hci-debugfs-c-44034)|An attacker can trigger a memory corruption of the Linux kernel, via net/bluetooth/hci_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joda-Time-NULL-pointer-dereference-via-PeriodFormat-wordBased-44033" class="noirorange"><b>Joda-Time</b>: NULL pointer dereference via PeriodFormat::<wbr>wordBased()</wbr></a>](https://vigilance.fr/vulnerability/Joda-Time-NULL-pointer-dereference-via-PeriodFormat-wordBased-44033)|An attacker can force a NULL pointer to be dereferenced on Joda-Time, via PeriodFormat::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xfig-NULL-pointer-dereference-via-XGetWMHints-44022" class="noirorange"><b>Xfig</b>: NULL pointer dereference via XGetWMHints()</a>](https://vigilance.fr/vulnerability/Xfig-NULL-pointer-dereference-via-XGetWMHints-44022)|An attacker can force a NULL pointer to be dereferenced on Xfig, via XGetWMHints(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-X86-Processor-information-disclosure-via-Native-Branch-History-Injection-44017" class="noirorange"><b>Intel X86 Processor</b>: information disclosure via Native Branch History Injection</a>](https://vigilance.fr/vulnerability/Intel-X86-Processor-information-disclosure-via-Native-Branch-History-Injection-44017)|An attacker can bypass access restrictions to data of Intel X86 Processor, via Native Branch History Injection, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-information-disclosure-via-BTC-SRSO-Mitigations-44009" class="noirorange"><b>Xen</b>: information disclosure via BTC/SRSO Mitigations</a>](https://vigilance.fr/vulnerability/Xen-information-disclosure-via-BTC-SRSO-Mitigations-44009)|An attacker, in a guest system, can bypass access restrictions to data of Xen, via BTC/SRSO Mitigations, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
+ |[Multiples vulnérabilités dans les produits Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2024|
  
  ---
 
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
