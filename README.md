@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/04/2024 09:18:14 UTC
+ > Last Updated 28/04/2024 21:18:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-43658" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-43658)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-multiple-vulnerabilities-dated-28-02-2024-43657" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: multiple vulnerabilities dated 28/02/2024</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-multiple-vulnerabilities-dated-28-02-2024-43657)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager, dated 28/02/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-drivers-md-dm-ioctl-c-43655" class="noirorange"><b>Linux kernel</b>: integer overflow via drivers/md/dm-ioctl.<wbr>c</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-drivers-md-dm-ioctl-c-43655)|An attacker can trigger an integer overflow of the Linux kernel, via drivers/md/dm-ioctl.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webpack-Loader-utils-overload-via-interpolateName-43653" class="noirorange"><b>Webpack Loader-utils</b>: overload via interpolateName()</a>](https://vigilance.fr/vulnerability/Webpack-Loader-utils-overload-via-interpolateName-43653)|An attacker can trigger an overload of Webpack Loader-utils, via interpolateName(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Knot-Resolver-denial-of-service-via-TCP-Reconnections-43652" class="noirorange"><b>Knot Resolver</b>: denial of service via TCP Reconnections</a>](https://vigilance.fr/vulnerability/Knot-Resolver-denial-of-service-via-TCP-Reconnections-43652)|An attacker can cause a fatal error of Knot Resolver, via TCP Reconnections, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-02-2024-43651" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 28/02/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-02-2024-43651)|An attacker can use several vulnerabilities of the Linux kernel, dated 28/02/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/less-code-execution-via-close-altfile-43650" class="noirorange"><b>less</b>: code execution via close_altfile()</a>](https://vigilance.fr/vulnerability/less-code-execution-via-close-altfile-43650)|An attacker can use a vulnerability of less, via close_altfile(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-out-of-bounds-memory-reading-via-USB-CCID-43649" class="noirorange"><b>VMware Workstation</b>: out-of-bounds memory reading via USB CCID</a>](https://vigilance.fr/vulnerability/VMware-Workstation-out-of-bounds-memory-reading-via-USB-CCID-43649)|An attacker can force a read at an invalid memory address of VMware Workstation, via USB CCID, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Teamviewer-Client-user-access-via-Personal-Password-Set-43647" class="noirorange"><b>Teamviewer Client</b>: user access via Personal Password Set</a>](https://vigilance.fr/vulnerability/Teamviewer-Client-user-access-via-Personal-Password-Set-43647)|An attacker can bypass restrictions of Teamviewer Client, via Personal Password Set, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Shadow-Stack-Exceptions-43646" class="noirorange"><b>Xen</b>: denial of service via Shadow Stack Exceptions</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Shadow-Stack-Exceptions-43646)|An attacker, in a guest system, can cause a fatal error of Xen, via Shadow Stack Exceptions, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-UCS-6400-6500-denial-of-service-via-Intersight-Managed-Mode-43667" class="noirorange"><b>Cisco UCS 6400/6500</b>: denial of service via Intersight Managed Mode</a>](https://vigilance.fr/vulnerability/Cisco-UCS-6400-6500-denial-of-service-via-Intersight-Managed-Mode-43667)|An attacker can cause a fatal error of Cisco UCS 6400/6500, via Intersight Managed Mode, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-ingress-filtrering-bypass-via-Port-Channel-ACL-Programming-43666" class="noirorange"><b>Cisco Nexus 3000/9000</b>: ingress filtrering bypass via Port Channel ACL Programming</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-ingress-filtrering-bypass-via-Port-Channel-ACL-Programming-43666)|An attacker can bypass filtering rules of Cisco Nexus 3000/9000, via Port Channel ACL Programming, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-LLDP-43665" class="noirorange"><b>Cisco NX-OS</b>: denial of service via LLDP</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-LLDP-43665)|An attacker can cause a fatal error of Cisco NX-OS, via LLDP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-MPLS-Encapsulated-IPv6-43664" class="noirorange"><b>Cisco NX-OS</b>: denial of service via MPLS Encapsulated IPv6</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-MPLS-Encapsulated-IPv6-43664)|An attacker can cause a fatal error of Cisco NX-OS, via MPLS Encapsulated IPv6, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-eBGP-43663" class="noirorange"><b>Cisco NX-OS</b>: denial of service via eBGP</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-eBGP-43663)|An attacker can cause a fatal error of Cisco NX-OS, via eBGP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-out-of-bounds-memory-reading-via-Hash-Keys-Without-Ending-43662" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: out-of-bounds memory reading via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-out-of-bounds-memory-reading-via-Hash-Keys-Without-Ending-43662)|An attacker can force a read at an invalid memory address of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/python-openstackclient-ingress-filtrering-bypass-via-access-rules-deletion-43661" class="noirorange"><b>python-<wbr>openstackclient</wbr></b>: ingress filtrering bypass via access rules deletion</a>](https://vigilance.fr/vulnerability/python-openstackclient-ingress-filtrering-bypass-via-access-rules-deletion-43661)|An attacker can bypass filtering rules of python-|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-43658" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-43658)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-multiple-vulnerabilities-dated-28-02-2024-43657" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: multiple vulnerabilities dated 28/02/2024</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-multiple-vulnerabilities-dated-28-02-2024-43657)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager, dated 28/02/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-drivers-md-dm-ioctl-c-43655" class="noirorange"><b>Linux kernel</b>: integer overflow via drivers/md/dm-ioctl.<wbr>c</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-drivers-md-dm-ioctl-c-43655)|An attacker can trigger an integer overflow of the Linux kernel, via drivers/md/dm-ioctl.|Visit link for details|
  
  ---
 
