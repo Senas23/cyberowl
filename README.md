@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/04/2024 21:18:00 UTC
+ > Last Updated 29/04/2024 09:20:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-AJP-Request-Max-header-size-Attribute-43677" class="noirorange"><b>Undertow</b>: denial of service via AJP Request Max-header-size Attribute</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-AJP-Request-Max-header-size-Attribute-43677)|An attacker can cause a fatal error of Undertow, via AJP Request Max-header-size Attribute, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-wildfly-http-client-43676" class="noirorange"><b>Undertow</b>: denial of service via wildfly-http-client</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-wildfly-http-client-43676)|An attacker can cause a fatal error of Undertow, via wildfly-http-client, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Connect2id-Nimbus-JOSE-JWT-overload-via-PasswordBasedDecrypter-JWE-P2c-Header-43675" class="noirorange"><b>Connect2id Nimbus JOSE+JWT</b>: overload via PasswordBasedDecrypt<wbr>er JWE P2c Header</wbr></a>](https://vigilance.fr/vulnerability/Connect2id-Nimbus-JOSE-JWT-overload-via-PasswordBasedDecrypter-JWE-P2c-Header-43675)|An attacker can trigger an overload of Connect2id Nimbus JOSE+JWT, via PasswordBasedDecrypt|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Drupal-Symfony-Mailer-Lite-Cross-Site-Request-Forgery-43674" class="noirorange"><b>Drupal Drupal Symfony Mailer Lite</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Drupal-Symfony-Mailer-Lite-Cross-Site-Request-Forgery-43674)|An attacker can trigger a Cross Site Request Forgery of Drupal Drupal Symfony Mailer Lite, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Node-Access-Rebuild-Progressive-read-write-access-43673" class="noirorange"><b>Drupal Node Access Rebuild Progressive</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Node-Access-Rebuild-Progressive-read-write-access-43673)|An attacker can bypass access restrictions of Drupal Node Access Rebuild Progressive, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Coffee-Cross-Site-Scripting-43671" class="noirorange"><b>Drupal Coffee</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Coffee-Cross-Site-Scripting-43671)|An attacker can trigger a Cross Site Scripting of Drupal Coffee, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-six-vulnerabilities-dated-29-02-2024-43670" class="noirorange"><b>Moodle</b>: six vulnerabilities dated 29/02/2024</a>](https://vigilance.fr/vulnerability/Moodle-six-vulnerabilities-dated-29-02-2024-43670)|An attacker can use several vulnerabilities of Moodle, dated 29/02/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-AS-Liberty-Man-in-the-Middle-via-TLS-User-Configuration-43669" class="noirorange"><b>IBM WebSphere AS Liberty</b>: Man-in-the-Middle via TLS User Configuration</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-AS-Liberty-Man-in-the-Middle-via-TLS-User-Configuration-43669)|An attacker can act as a Man-in-the-Middle on IBM WebSphere AS Liberty, via TLS User Configuration, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-29-02-2024-43668" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 29/02/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-29-02-2024-43668)|An attacker can use several vulnerabilities of the Linux kernel, dated 29/02/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-UCS-6400-6500-denial-of-service-via-Intersight-Managed-Mode-43667" class="noirorange"><b>Cisco UCS 6400/6500</b>: denial of service via Intersight Managed Mode</a>](https://vigilance.fr/vulnerability/Cisco-UCS-6400-6500-denial-of-service-via-Intersight-Managed-Mode-43667)|An attacker can cause a fatal error of Cisco UCS 6400/6500, via Intersight Managed Mode, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-ingress-filtrering-bypass-via-Port-Channel-ACL-Programming-43666" class="noirorange"><b>Cisco Nexus 3000/9000</b>: ingress filtrering bypass via Port Channel ACL Programming</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-3000-9000-ingress-filtrering-bypass-via-Port-Channel-ACL-Programming-43666)|An attacker can bypass filtering rules of Cisco Nexus 3000/9000, via Port Channel ACL Programming, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-LLDP-43665" class="noirorange"><b>Cisco NX-OS</b>: denial of service via LLDP</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-LLDP-43665)|An attacker can cause a fatal error of Cisco NX-OS, via LLDP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-MPLS-Encapsulated-IPv6-43664" class="noirorange"><b>Cisco NX-OS</b>: denial of service via MPLS Encapsulated IPv6</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-MPLS-Encapsulated-IPv6-43664)|An attacker can cause a fatal error of Cisco NX-OS, via MPLS Encapsulated IPv6, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-eBGP-43663" class="noirorange"><b>Cisco NX-OS</b>: denial of service via eBGP</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-eBGP-43663)|An attacker can cause a fatal error of Cisco NX-OS, via eBGP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-out-of-bounds-memory-reading-via-Hash-Keys-Without-Ending-43662" class="noirorange"><b>Perl Cpanel-JSON-XS</b>: out-of-bounds memory reading via Hash Keys Without Ending</a>](https://vigilance.fr/vulnerability/Perl-Cpanel-JSON-XS-out-of-bounds-memory-reading-via-Hash-Keys-Without-Ending-43662)|An attacker can force a read at an invalid memory address of Perl Cpanel::JSON::XS, via Hash Keys Without Ending, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/python-openstackclient-ingress-filtrering-bypass-via-access-rules-deletion-43661" class="noirorange"><b>python-<wbr>openstackclient</wbr></b>: ingress filtrering bypass via access rules deletion</a>](https://vigilance.fr/vulnerability/python-openstackclient-ingress-filtrering-bypass-via-access-rules-deletion-43661)|An attacker can bypass filtering rules of python-|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-43658" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-43658)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-multiple-vulnerabilities-dated-28-02-2024-43657" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: multiple vulnerabilities dated 28/02/2024</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-multiple-vulnerabilities-dated-28-02-2024-43657)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager, dated 28/02/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-drivers-md-dm-ioctl-c-43655" class="noirorange"><b>Linux kernel</b>: integer overflow via drivers/md/dm-ioctl.<wbr>c</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-drivers-md-dm-ioctl-c-43655)|An attacker can trigger an integer overflow of the Linux kernel, via drivers/md/dm-ioctl.|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
