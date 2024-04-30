@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/04/2024 21:17:33 UTC
+ > Last Updated 30/04/2024 09:21:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
@@ -42,8 +44,13 @@
  |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
- |[Vulnérabilité dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0345/)|Une preuve de concept a été publiée affectant|Publié le 25 avril 2024|
- |[Multiples vulnérabilités dans les produits Mitel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -51,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-hugetlbfs-parse-param-44072" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via hugetlbfs_parse_<wbr>param()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-hugetlbfs-parse-param-44072)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via hugetlbfs_parse_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-read-write-access-via-Vmm-Intel-GDTR-Limits-43683" class="noirorange"><b>OpenBSD</b>: read-write access via Vmm Intel GDTR Limits</a>](https://vigilance.fr/vulnerability/OpenBSD-read-write-access-via-Vmm-Intel-GDTR-Limits-43683)|An attacker can bypass access restrictions of OpenBSD, via Vmm Intel GDTR Limits, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-IDE-external-XML-entity-injection-via-Project-43682" class="noirorange"><b>Eclipse IDE</b>: external XML entity injection via Project</a>](https://vigilance.fr/vulnerability/Eclipse-IDE-external-XML-entity-injection-via-Project-43682)|An attacker can transmit malicious XML data to Eclipse IDE, via Project, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Buffering-Logic-43681" class="noirorange"><b>IBM MQ</b>: denial of service via Buffering Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Buffering-Logic-43681)|An attacker can cause a fatal error of IBM MQ, via Buffering Logic, in order to trigger a denial of service...|Visit link for details|
@@ -60,14 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-wildfly-http-client-43676" class="noirorange"><b>Undertow</b>: denial of service via wildfly-http-client</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-wildfly-http-client-43676)|An attacker can cause a fatal error of Undertow, via wildfly-http-client, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Connect2id-Nimbus-JOSE-JWT-overload-via-PasswordBasedDecrypter-JWE-P2c-Header-43675" class="noirorange"><b>Connect2id Nimbus JOSE+JWT</b>: overload via PasswordBasedDecrypt<wbr>er JWE P2c Header</wbr></a>](https://vigilance.fr/vulnerability/Connect2id-Nimbus-JOSE-JWT-overload-via-PasswordBasedDecrypter-JWE-P2c-Header-43675)|An attacker can trigger an overload of Connect2id Nimbus JOSE+JWT, via PasswordBasedDecrypt|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Drupal-Symfony-Mailer-Lite-Cross-Site-Request-Forgery-43674" class="noirorange"><b>Drupal Drupal Symfony Mailer Lite</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Drupal-Symfony-Mailer-Lite-Cross-Site-Request-Forgery-43674)|An attacker can trigger a Cross Site Request Forgery of Drupal Drupal Symfony Mailer Lite, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Node-Access-Rebuild-Progressive-read-write-access-43673" class="noirorange"><b>Drupal Node Access Rebuild Progressive</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Node-Access-Rebuild-Progressive-read-write-access-43673)|An attacker can bypass access restrictions of Drupal Node Access Rebuild Progressive, in order to read or alter data...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
