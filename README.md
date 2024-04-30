@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/04/2024 09:21:23 UTC
+ > Last Updated 30/04/2024 21:18:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886" class="noirorange"><b>WebKitGTK</b>: memory corruption</a>](https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886)|An attacker can trigger a memory corruption of WebKitGTK, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-hugetlbfs-parse-param-44072" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via hugetlbfs_parse_<wbr>param()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-hugetlbfs-parse-param-44072)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via hugetlbfs_parse_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-read-write-access-via-Vmm-Intel-GDTR-Limits-43683" class="noirorange"><b>OpenBSD</b>: read-write access via Vmm Intel GDTR Limits</a>](https://vigilance.fr/vulnerability/OpenBSD-read-write-access-via-Vmm-Intel-GDTR-Limits-43683)|An attacker can bypass access restrictions of OpenBSD, via Vmm Intel GDTR Limits, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-IDE-external-XML-entity-injection-via-Project-43682" class="noirorange"><b>Eclipse IDE</b>: external XML entity injection via Project</a>](https://vigilance.fr/vulnerability/Eclipse-IDE-external-XML-entity-injection-via-Project-43682)|An attacker can transmit malicious XML data to Eclipse IDE, via Project, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-AJP-Request-Max-header-size-Attribute-43677" class="noirorange"><b>Undertow</b>: denial of service via AJP Request Max-header-size Attribute</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-AJP-Request-Max-header-size-Attribute-43677)|An attacker can cause a fatal error of Undertow, via AJP Request Max-header-size Attribute, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-wildfly-http-client-43676" class="noirorange"><b>Undertow</b>: denial of service via wildfly-http-client</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-wildfly-http-client-43676)|An attacker can cause a fatal error of Undertow, via wildfly-http-client, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Connect2id-Nimbus-JOSE-JWT-overload-via-PasswordBasedDecrypter-JWE-P2c-Header-43675" class="noirorange"><b>Connect2id Nimbus JOSE+JWT</b>: overload via PasswordBasedDecrypt<wbr>er JWE P2c Header</wbr></a>](https://vigilance.fr/vulnerability/Connect2id-Nimbus-JOSE-JWT-overload-via-PasswordBasedDecrypter-JWE-P2c-Header-43675)|An attacker can trigger an overload of Connect2id Nimbus JOSE+JWT, via PasswordBasedDecrypt|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Drupal-Symfony-Mailer-Lite-Cross-Site-Request-Forgery-43674" class="noirorange"><b>Drupal Drupal Symfony Mailer Lite</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Drupal-Drupal-Symfony-Mailer-Lite-Cross-Site-Request-Forgery-43674)|An attacker can trigger a Cross Site Request Forgery of Drupal Drupal Symfony Mailer Lite, in order to force the victim to perform operations...|Visit link for details|
  
  ---
 
