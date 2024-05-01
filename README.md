@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/04/2024 21:18:44 UTC
+ > Last Updated 01/05/2024 09:20:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0356/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un déni de service et un contournement de la politique de sécurité.|Publié le 30 avril 2024|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 avril 2024|
  |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2024|
@@ -43,14 +44,6 @@
  |[[SCADA] Vulnérabilité dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2024|
  |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/)|Une vulnérabilité a été découverte dans |Publié le 25 avril 2024|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans |Publié le 25 avril 2024|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -58,16 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/TexLive-NULL-pointer-dereference-via-writet1-c-44074" class="noirorange"><b>TexLive</b>: NULL pointer dereference via writet1.c</a>](https://vigilance.fr/vulnerability/TexLive-NULL-pointer-dereference-via-writet1-c-44074)|An attacker can force a NULL pointer to be dereferenced on TexLive, via writet1.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PuTTY-recoverable-ECDSA-private-key-44073" class="noirorange"><b>PuTTY</b>: recoverable ECDSA private key</a>](https://vigilance.fr/vulnerability/PuTTY-recoverable-ECDSA-private-key-44073)|An attacker can exploit PuTTY's random number generation bias to find the private key...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-01-03-2024-43685" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 01/03/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-01-03-2024-43685)|An attacker can use several vulnerabilities of the Linux kernel, dated 01/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-via-Android-43684" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure via Android</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-via-Android-43684)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, via Android, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886" class="noirorange"><b>WebKitGTK</b>: memory corruption</a>](https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-41886)|An attacker can trigger a memory corruption of WebKitGTK, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-hugetlbfs-parse-param-44072" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via hugetlbfs_parse_<wbr>param()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-hugetlbfs-parse-param-44072)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via hugetlbfs_parse_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-read-write-access-via-Vmm-Intel-GDTR-Limits-43683" class="noirorange"><b>OpenBSD</b>: read-write access via Vmm Intel GDTR Limits</a>](https://vigilance.fr/vulnerability/OpenBSD-read-write-access-via-Vmm-Intel-GDTR-Limits-43683)|An attacker can bypass access restrictions of OpenBSD, via Vmm Intel GDTR Limits, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-IDE-external-XML-entity-injection-via-Project-43682" class="noirorange"><b>Eclipse IDE</b>: external XML entity injection via Project</a>](https://vigilance.fr/vulnerability/Eclipse-IDE-external-XML-entity-injection-via-Project-43682)|An attacker can transmit malicious XML data to Eclipse IDE, via Project, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Buffering-Logic-43681" class="noirorange"><b>IBM MQ</b>: denial of service via Buffering Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Buffering-Logic-43681)|An attacker can cause a fatal error of IBM MQ, via Buffering Logic, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-information-disclosure-via-Console-43680" class="noirorange"><b>IBM MQ</b>: information disclosure via Console</a>](https://vigilance.fr/vulnerability/IBM-MQ-information-disclosure-via-Console-43680)|An attacker can bypass access restrictions to data of IBM MQ, via Console, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Compress-overload-43679" class="noirorange"><b>Apache Commons Compress</b>: overload</a>](https://vigilance.fr/vulnerability/Apache-Commons-Compress-overload-43679)|An attacker can trigger an overload of Apache Commons Compress, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-AJP-Request-Max-header-size-Attribute-43677" class="noirorange"><b>Undertow</b>: denial of service via AJP Request Max-header-size Attribute</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-AJP-Request-Max-header-size-Attribute-43677)|An attacker can cause a fatal error of Undertow, via AJP Request Max-header-size Attribute, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-wildfly-http-client-43676" class="noirorange"><b>Undertow</b>: denial of service via wildfly-http-client</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-wildfly-http-client-43676)|An attacker can cause a fatal error of Undertow, via wildfly-http-client, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Connect2id-Nimbus-JOSE-JWT-overload-via-PasswordBasedDecrypter-JWE-P2c-Header-43675" class="noirorange"><b>Connect2id Nimbus JOSE+JWT</b>: overload via PasswordBasedDecrypt<wbr>er JWE P2c Header</wbr></a>](https://vigilance.fr/vulnerability/Connect2id-Nimbus-JOSE-JWT-overload-via-PasswordBasedDecrypter-JWE-P2c-Header-43675)|An attacker can trigger an overload of Connect2id Nimbus JOSE+JWT, via PasswordBasedDecrypt|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
