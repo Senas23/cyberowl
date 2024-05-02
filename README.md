@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/05/2024 21:18:26 UTC
+ > Last Updated 02/05/2024 09:19:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905)|An attacker can use several vulnerabilities of Brocade Fabric OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-privilege-escalation-via-ServiceAccount-44084" class="noirorange"><b>Kubernetes</b>: privilege escalation via ServiceAccount</a>](https://vigilance.fr/vulnerability/Kubernetes-privilege-escalation-via-ServiceAccount-44084)|An attacker can bypass restrictions of Kubernetes, via ServiceAccount, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-memory-reading-via-PSA-Crypto-API-44080" class="noirorange"><b>Mbed TLS</b>: memory reading via PSA Crypto API</a>](https://vigilance.fr/vulnerability/Mbed-TLS-memory-reading-via-PSA-Crypto-API-44080)|An attacker can read a memory fragment of Mbed TLS, via PSA Crypto API, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-information-disclosure-43692" class="noirorange"><b>Micro Focus ArcSight ESM</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-information-disclosure-43692)|An attacker can bypass access restrictions to data of Micro Focus ArcSight ESM, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Items-Select-Form-43691" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Graph Items Select Form</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Items-Select-Form-43691)|An attacker can trigger a Cross Site Scripting of Zabbix, via Graph Items Select Form, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41899" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41899)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-memory-corruption-via-Geneve-Packets-43690" class="noirorange"><b>Open vSwitch</b>: memory corruption via Geneve Packets</a>](https://vigilance.fr/vulnerability/Open-vSwitch-memory-corruption-via-Geneve-Packets-43690)|An attacker can trigger a memory corruption of Open vSwitch, via Geneve Packets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-undici-two-vulnerabilities-dated-16-04-2024-44076" class="noirorange"><b>Node.js undici</b>: two vulnerabilities dated 16/04/2024</a>](https://vigilance.fr/vulnerability/Node-js-undici-two-vulnerabilities-dated-16-04-2024-44076)|An attacker can use several vulnerabilities of Node.js undici, dated 16/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-privilege-escalation-via-EDA-Server-Websocket-43689" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: privilege escalation via EDA Server Websocket</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-privilege-escalation-via-EDA-Server-Websocket-43689)|An attacker can bypass restrictions of Red Hat Ansible Automation Platform, via EDA Server Websocket, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TexLive-NULL-pointer-dereference-via-writet1-c-44074" class="noirorange"><b>TexLive</b>: NULL pointer dereference via writet1.c</a>](https://vigilance.fr/vulnerability/TexLive-NULL-pointer-dereference-via-writet1-c-44074)|An attacker can force a NULL pointer to be dereferenced on TexLive, via writet1.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PuTTY-recoverable-ECDSA-private-key-44073" class="noirorange"><b>PuTTY</b>: recoverable ECDSA private key</a>](https://vigilance.fr/vulnerability/PuTTY-recoverable-ECDSA-private-key-44073)|An attacker can exploit PuTTY's random number generation bias to find the private key...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-01-03-2024-43685" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 01/03/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-01-03-2024-43685)|An attacker can use several vulnerabilities of the Linux kernel, dated 01/03/2024...|Visit link for details|
  
  ---
 
