@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/05/2024 09:19:37 UTC
+ > Last Updated 02/05/2024 21:17:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911" class="noirorange"><b>FreeBSD</b>: denial of service via IPv6 Fragment Reassembly</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911)|An attacker can cause a fatal error of FreeBSD, via IPv6 Fragment Reassembly, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905)|An attacker can use several vulnerabilities of Brocade Fabric OS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-privilege-escalation-via-ServiceAccount-44084" class="noirorange"><b>Kubernetes</b>: privilege escalation via ServiceAccount</a>](https://vigilance.fr/vulnerability/Kubernetes-privilege-escalation-via-ServiceAccount-44084)|An attacker can bypass restrictions of Kubernetes, via ServiceAccount, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-memory-reading-via-PSA-Crypto-API-44080" class="noirorange"><b>Mbed TLS</b>: memory reading via PSA Crypto API</a>](https://vigilance.fr/vulnerability/Mbed-TLS-memory-reading-via-PSA-Crypto-API-44080)|An attacker can read a memory fragment of Mbed TLS, via PSA Crypto API, in order to obtain sensitive information...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/TexLive-NULL-pointer-dereference-via-tounicode-c-44078" class="noirorange"><b>TexLive</b>: NULL pointer dereference via tounicode.c</a>](https://vigilance.fr/vulnerability/TexLive-NULL-pointer-dereference-via-tounicode-c-44078)|An attacker can force a NULL pointer to be dereferenced on TexLive, via tounicode.c, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-memory-corruption-via-Geneve-Packets-43690" class="noirorange"><b>Open vSwitch</b>: memory corruption via Geneve Packets</a>](https://vigilance.fr/vulnerability/Open-vSwitch-memory-corruption-via-Geneve-Packets-43690)|An attacker can trigger a memory corruption of Open vSwitch, via Geneve Packets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-undici-two-vulnerabilities-dated-16-04-2024-44076" class="noirorange"><b>Node.js undici</b>: two vulnerabilities dated 16/04/2024</a>](https://vigilance.fr/vulnerability/Node-js-undici-two-vulnerabilities-dated-16-04-2024-44076)|An attacker can use several vulnerabilities of Node.js undici, dated 16/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-privilege-escalation-via-EDA-Server-Websocket-43689" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: privilege escalation via EDA Server Websocket</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-privilege-escalation-via-EDA-Server-Websocket-43689)|An attacker can bypass restrictions of Red Hat Ansible Automation Platform, via EDA Server Websocket, in order to escalate his privileges...|Visit link for details|
  
  ---
 
