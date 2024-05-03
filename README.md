@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/05/2024 09:20:13 UTC
+ > Last Updated 03/05/2024 21:17:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,27 +51,27 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MobileIron-Core-user-access-via-API-Access-41926" class="noirorange"><b>MobileIron Core</b>: user access via API Access</a>](https://vigilance.fr/vulnerability/MobileIron-Core-user-access-via-API-Access-41926)|An attacker can bypass restrictions of MobileIron Core, via API Access, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-dated-18-04-2024-44099" class="noirorange"><b>Keycloak</b>: privilege escalation dated 18/04/2024</a>](https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-dated-18-04-2024-44099)|An attacker can bypass restrictions of Keycloak, dated 18/04/2024, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-verification-locale-de-signature-44096" class="noirorange"><b>Keycloak</b>: user access via vérification locale de signature</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-verification-locale-de-signature-44096)|An attacker can bypass restrictions of Keycloak, via a local signature check, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-weak-RSA-signature-and-encryption-via-the-PKCS-1-padding-44094" class="noirorange"><b>Linux kernel</b>: weak RSA signature and encryption via the PKCS 1 padding</a>](https://vigilance.fr/vulnerability/Linux-kernel-weak-RSA-signature-and-encryption-via-the-PKCS-1-padding-44094)|An attacker can use malicious data on the Linux kernel, via the PKCS 1 padding, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-open-redirect-dated-18-04-2024-44093" class="noirorange"><b>Keycloak</b>: open redirect dated 18/04/2024</a>](https://vigilance.fr/vulnerability/Keycloak-open-redirect-dated-18-04-2024-44093)|An attacker can deceive the user of Keycloak, dated 18/04/2024, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NuGet-code-execution-41922" class="noirorange"><b>NuGet</b>: code execution</a>](https://vigilance.fr/vulnerability/NuGet-code-execution-41922)|An attacker can use a vulnerability of NuGet, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911" class="noirorange"><b>FreeBSD</b>: denial of service via IPv6 Fragment Reassembly</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-IPv6-Fragment-Reassembly-41911)|An attacker can cause a fatal error of FreeBSD, via IPv6 Fragment Reassembly, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-41905)|An attacker can use several vulnerabilities of Brocade Fabric OS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-privilege-escalation-via-ServiceAccount-44084" class="noirorange"><b>Kubernetes</b>: privilege escalation via ServiceAccount</a>](https://vigilance.fr/vulnerability/Kubernetes-privilege-escalation-via-ServiceAccount-44084)|An attacker can bypass restrictions of Kubernetes, via ServiceAccount, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-memory-reading-via-PSA-Crypto-API-44080" class="noirorange"><b>Mbed TLS</b>: memory reading via PSA Crypto API</a>](https://vigilance.fr/vulnerability/Mbed-TLS-memory-reading-via-PSA-Crypto-API-44080)|An attacker can read a memory fragment of Mbed TLS, via PSA Crypto API, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-information-disclosure-43692" class="noirorange"><b>Micro Focus ArcSight ESM</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-ESM-information-disclosure-43692)|An attacker can bypass access restrictions to data of Micro Focus ArcSight ESM, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Items-Select-Form-43691" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via Graph Items Select Form</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-Graph-Items-Select-Form-43691)|An attacker can trigger a Cross Site Scripting of Zabbix, via Graph Items Select Form, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41899" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-41899)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TexLive-NULL-pointer-dereference-via-tounicode-c-44078" class="noirorange"><b>TexLive</b>: NULL pointer dereference via tounicode.c</a>](https://vigilance.fr/vulnerability/TexLive-NULL-pointer-dereference-via-tounicode-c-44078)|An attacker can force a NULL pointer to be dereferenced on TexLive, via tounicode.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-memory-corruption-via-Geneve-Packets-43690" class="noirorange"><b>Open vSwitch</b>: memory corruption via Geneve Packets</a>](https://vigilance.fr/vulnerability/Open-vSwitch-memory-corruption-via-Geneve-Packets-43690)|An attacker can trigger a memory corruption of Open vSwitch, via Geneve Packets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
