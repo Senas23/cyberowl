@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/05/2024 21:17:33 UTC
+ > Last Updated 06/05/2024 09:21:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-03-2024-43709" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 06/03/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-03-2024-43709)|An attacker can use several vulnerabilities of the Linux kernel, dated 06/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Forcepoint-Next-Generation-Firewall-Cross-Site-Scripting-via-Security-Management-Center-43702" class="noirorange"><b>Forcepoint Next Generation Firewall</b>: Cross Site Scripting via Security Management Center</a>](https://vigilance.fr/vulnerability/Forcepoint-Next-Generation-Firewall-Cross-Site-Scripting-via-Security-Management-Center-43702)|An attacker can trigger a Cross Site Scripting of Forcepoint Next Generation Firewall, via Security Management Center, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Django-overload-43701" class="noirorange"><b>Django</b>: overload</a>](https://vigilance.fr/vulnerability/Django-overload-43701)|An attacker can trigger an overload of Django, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-overload-via-HTTP-Chunked-43700" class="noirorange"><b>Squid</b>: overload via HTTP Chunked</a>](https://vigilance.fr/vulnerability/Squid-overload-via-HTTP-Chunked-43700)|An attacker can trigger an overload of Squid, via HTTP Chunked, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-iconv-44106" class="noirorange"><b>GNU C Library</b>: buffer overflow via iconv()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-iconv-44106)|An attacker can trigger a buffer overflow of GNU C Library, via iconv(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/perl-Clipboard-code-execution-dated-19-04-2024-44104" class="noirorange"><b>perl-Clipboard</b>: code execution dated 19/04/2024</a>](https://vigilance.fr/vulnerability/perl-Clipboard-code-execution-dated-19-04-2024-44104)|An attacker can use a vulnerability of perl-Clipboard, dated 19/04/2024, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/EditorConfig-multiple-vulnerabilities-dated-19-04-2024-44103" class="noirorange"><b>EditorConfig</b>: multiple vulnerabilities dated 19/04/2024</a>](https://vigilance.fr/vulnerability/EditorConfig-multiple-vulnerabilities-dated-19-04-2024-44103)|An attacker can use several vulnerabilities of EditorConfig, dated 19/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-41934" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-41934)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
  
  ---
 
