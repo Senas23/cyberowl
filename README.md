@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/05/2024 09:22:15 UTC
+ > Last Updated 07/05/2024 21:18:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2023-41947" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2023-41947)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIFLIB-memory-leak-via-gif2rgb-c-43729" class="noirorange"><b>GIFLIB</b>: memory leak via gif2rgb.c</a>](https://vigilance.fr/vulnerability/GIFLIB-memory-leak-via-gif2rgb-c-43729)|An attacker can create a memory leak of GIFLIB, via gif2rgb.c, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-code-execution-via-24-0009-44119" class="noirorange"><b>Mitel 6800/6900 Series Phones</b>: code execution via 24-0009</a>](https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-code-execution-via-24-0009-44119)|An attacker can use a vulnerability of Mitel 6800/6900 Series Phones, via 24-0009, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-directory-traversal-via-24-0008-44118" class="noirorange"><b>Mitel 6800/6900 Series Phones</b>: directory traversal via 24-0008</a>](https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-directory-traversal-via-24-0008-44118)|An attacker can traverse directories of Mitel 6800/6900 Series Phones, via 24-0008, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Suricata-multiple-vulnerabilities-dated-07-03-2024-43722" class="noirorange"><b>Suricata</b>: multiple vulnerabilities dated 07/03/2024</a>](https://vigilance.fr/vulnerability/Suricata-multiple-vulnerabilities-dated-07-03-2024-43722)|An attacker can use several vulnerabilities of Suricata, dated 07/03/2024...|Visit link for details|
@@ -59,19 +61,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Client-for-Linux-privilege-escalation-via-ISE-Posture-Module-43719" class="noirorange"><b>Cisco Secure Client for Linux</b>: privilege escalation via ISE Posture Module</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Client-for-Linux-privilege-escalation-via-ISE-Posture-Module-43719)|An attacker can bypass restrictions of Cisco Secure Client for Linux, via ISE Posture Module, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-06-03-2024-43717" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities dated 06/03/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-06-03-2024-43717)|An attacker can use several vulnerabilities of Jenkins Plugins, dated 06/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DotClear-Cross-Site-Scripting-via-the-search-function-43714" class="noirorange"><b>DotClear</b>: Cross Site Scripting via the search function</a>](https://vigilance.fr/vulnerability/DotClear-Cross-Site-Scripting-via-the-search-function-43714)|An attacker can trigger a Cross Site Scripting of DotClear, via the search function, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-03-2024-43709" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 06/03/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-03-2024-43709)|An attacker can use several vulnerabilities of the Linux kernel, dated 06/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Forcepoint-Next-Generation-Firewall-Cross-Site-Scripting-via-Security-Management-Center-43702" class="noirorange"><b>Forcepoint Next Generation Firewall</b>: Cross Site Scripting via Security Management Center</a>](https://vigilance.fr/vulnerability/Forcepoint-Next-Generation-Firewall-Cross-Site-Scripting-via-Security-Management-Center-43702)|An attacker can trigger a Cross Site Scripting of Forcepoint Next Generation Firewall, via Security Management Center, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
