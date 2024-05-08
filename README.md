@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/05/2024 21:18:08 UTC
+ > Last Updated 08/05/2024 09:19:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0369/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 mai 2024|
+ |[[SCADA] Vulnérabilité dans Moxa NPort](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0368/)|Une vulnérabilité a été découverte dans|Publié le 7 mai 2024|
  |[Vulnérabilité dans SolarWinds Serv-U](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0367/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 6 mai 2024|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
@@ -42,8 +44,6 @@
  |[Multiples vulnérabilités dans le greffon Media Streaming de Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/)|De multiples vulnérabilités ont été découvertes dans|Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
- |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0359/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0358/)|De multiples vulnérabilités ont été découvertes dans |Publié le 2 mai 2024|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-Man-in-the-Middle-via-peer-43734" class="noirorange"><b>MongoDB Server</b>: Man-in-the-Middle via peer</a>](https://vigilance.fr/vulnerability/MongoDB-Server-Man-in-the-Middle-via-peer-43734)|An attacker can act as a Man-in-the-Middle on MongoDB Server, via peer, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FontForge-code-execution-via-Spline-Font-43733" class="noirorange"><b>FontForge</b>: code execution via Spline Font</a>](https://vigilance.fr/vulnerability/FontForge-code-execution-via-Spline-Font-43733)|An attacker can use a vulnerability of FontForge, via Spline Font, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2023-41947" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2023-41947)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GIFLIB-memory-leak-via-gif2rgb-c-43729" class="noirorange"><b>GIFLIB</b>: memory leak via gif2rgb.c</a>](https://vigilance.fr/vulnerability/GIFLIB-memory-leak-via-gif2rgb-c-43729)|An attacker can create a memory leak of GIFLIB, via gif2rgb.c, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-code-execution-via-24-0009-44119" class="noirorange"><b>Mitel 6800/6900 Series Phones</b>: code execution via 24-0009</a>](https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-code-execution-via-24-0009-44119)|An attacker can use a vulnerability of Mitel 6800/6900 Series Phones, via 24-0009, in order to run code...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/YARD-directory-traversal-43720" class="noirorange"><b>YARD</b>: directory traversal</a>](https://vigilance.fr/vulnerability/YARD-directory-traversal-43720)|An attacker can traverse directories of YARD, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Perl-CryptX-security-improvement-dated-22-04-2024-44114" class="noirorange"><b>Perl CryptX</b>: security improvement dated 22/04/2024</a>](https://vigilance.fr/vulnerability/Perl-CryptX-security-improvement-dated-22-04-2024-44114)|The security of Perl CryptX was improved dated 22/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Client-for-Linux-privilege-escalation-via-ISE-Posture-Module-43719" class="noirorange"><b>Cisco Secure Client for Linux</b>: privilege escalation via ISE Posture Module</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Client-for-Linux-privilege-escalation-via-ISE-Posture-Module-43719)|An attacker can bypass restrictions of Cisco Secure Client for Linux, via ISE Posture Module, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-06-03-2024-43717" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities dated 06/03/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-06-03-2024-43717)|An attacker can use several vulnerabilities of Jenkins Plugins, dated 06/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DotClear-Cross-Site-Scripting-via-the-search-function-43714" class="noirorange"><b>DotClear</b>: Cross Site Scripting via the search function</a>](https://vigilance.fr/vulnerability/DotClear-Cross-Site-Scripting-via-the-search-function-43714)|An attacker can trigger a Cross Site Scripting of DotClear, via the search function, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
