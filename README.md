@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/05/2024 21:20:21 UTC
+ > Last Updated 09/05/2024 09:21:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-IdentityFunction-transform-41978" class="noirorange"><b>Xpdf</b>: memory corruption via IdentityFunction::<wbr>transform()</wbr></a>](https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-IdentityFunction-transform-41978)|An attacker can trigger a memory corruption of Xpdf, via IdentityFunction::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-SSL-Connections-Exhaust-41977" class="noirorange"><b>Keylime</b>: denial of service via SSL Connections Exhaust</a>](https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-SSL-Connections-Exhaust-41977)|An attacker can cause a fatal error of Keylime, via SSL Connections Exhaust, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873" class="noirorange"><b>Windows</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41960" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41960)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2023-41955" class="noirorange"><b>SAP</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2023-41955)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[Multiples vulnérabilités dans le greffon Media Streaming de Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/)|De multiples vulnérabilités ont été découvertes dans|Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans |Publié le 3 mai 2024|
  |[Multiples vulnérabilités dans dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/)|De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 2 mai 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873" class="noirorange"><b>Windows</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41960" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41960)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2023-41955" class="noirorange"><b>SAP</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2023-41955)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-Man-in-the-Middle-via-peer-43734" class="noirorange"><b>MongoDB Server</b>: Man-in-the-Middle via peer</a>](https://vigilance.fr/vulnerability/MongoDB-Server-Man-in-the-Middle-via-peer-43734)|An attacker can act as a Man-in-the-Middle on MongoDB Server, via peer, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FontForge-code-execution-via-Spline-Font-43733" class="noirorange"><b>FontForge</b>: code execution via Spline Font</a>](https://vigilance.fr/vulnerability/FontForge-code-execution-via-Spline-Font-43733)|An attacker can use a vulnerability of FontForge, via Spline Font, in order to run code...|Visit link for details|
  
  ---
 
