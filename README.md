@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/05/2024 09:21:14 UTC
+ > Last Updated 09/05/2024 21:22:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,20 +30,10 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-IdentityFunction-transform-41978" class="noirorange"><b>Xpdf</b>: memory corruption via IdentityFunction::<wbr>transform()</wbr></a>](https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-IdentityFunction-transform-41978)|An attacker can trigger a memory corruption of Xpdf, via IdentityFunction::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-SSL-Connections-Exhaust-41977" class="noirorange"><b>Keylime</b>: denial of service via SSL Connections Exhaust</a>](https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-SSL-Connections-Exhaust-41977)|An attacker can cause a fatal error of Keylime, via SSL Connections Exhaust, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873" class="noirorange"><b>Windows</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41960" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41960)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2023-41955" class="noirorange"><b>SAP</b>: multiple vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2023-41955)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  
  ---
 
@@ -64,10 +54,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-privilege-escalation-via-Command-Injection-44139" class="noirorange"><b>Cisco ASA</b>: privilege escalation via Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-ASA-privilege-escalation-via-Command-Injection-44139)|An attacker can bypass restrictions of Cisco ASA, via Command Injection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-IdentityFunction-transform-41978" class="noirorange"><b>Xpdf</b>: memory corruption via IdentityFunction::<wbr>transform()</wbr></a>](https://vigilance.fr/vulnerability/Xpdf-memory-corruption-via-IdentityFunction-transform-41978)|An attacker can trigger a memory corruption of Xpdf, via IdentityFunction::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-SSL-Connections-Exhaust-41977" class="noirorange"><b>Keylime</b>: denial of service via SSL Connections Exhaust</a>](https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-SSL-Connections-Exhaust-41977)|An attacker can cause a fatal error of Keylime, via SSL Connections Exhaust, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-August-2023-41972)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41971)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2023-41970)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2023-41969)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873" class="noirorange"><b>Windows</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41960" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41960)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader...|Visit link for details|
  
  ---
 
