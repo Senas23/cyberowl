@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/05/2024 21:22:18 UTC
+ > Last Updated 10/05/2024 09:20:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,13 +24,6 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2023-41968)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873" class="noirorange"><b>Windows</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41960" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41960)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
