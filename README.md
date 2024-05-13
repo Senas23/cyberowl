@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/05/2024 09:20:34 UTC
+ > Last Updated 13/05/2024 21:20:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-FortiAuthenticator-43770" class="noirorange"><b>Fortinet FortiOS</b>: privilege escalation via FortiAuthenticator</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-FortiAuthenticator-43770)|An attacker can bypass restrictions of Fortinet FortiOS, via FortiAuthenticator, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiManager-FortiAnalyser-code-execution-43766" class="noirorange"><b>Fortinet FortiManager  FortiAnalyser</b>: code execution</a>](https://vigilance.fr/vulnerability/Fortinet-FortiManager-FortiAnalyser-code-execution-43766)|An attacker can use a vulnerability of Fortinet FortiManager  FortiAnalyser, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-aoecmd-cfg-pkts-43762" class="noirorange"><b>Linux kernel</b>: use after free via aoecmd_cfg_pkts()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-aoecmd-cfg-pkts-43762)|An attacker can force the reuse of a freed memory area of the Linux kernel, via aoecmd_cfg_pkts(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ICMPv6-43761" class="noirorange"><b>Linux kernel</b>: denial of service via ICMPv6</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ICMPv6-43761)|An attacker can send malicious ICMPv6 packets to the Linux kernel, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Axis-Server-Side-Request-Forgery-via-HTTP-API-43760" class="noirorange"><b>Axis</b>: Server-Side Request Forgery via HTTP API</a>](https://vigilance.fr/vulnerability/Axis-Server-Side-Request-Forgery-via-HTTP-API-43760)|An attacker can trigger a Server-Side Request Forgery of Axis, via HTTP API, in order to force the server to send queries...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-Defender-Antimalware-Platform-ingress-filtrering-bypass-43751" class="noirorange"><b>Microsoft Windows Defender Antimalware Platform</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-Defender-Antimalware-Platform-ingress-filtrering-bypass-43751)|An attacker can bypass filtering rules of Microsoft Windows Defender Antimalware Platform, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-vulnerabilities-of-March-2024-43750" class="noirorange"><b>Microsoft System Center Operations Manager</b>: vulnerabilities of March 2024</a>](https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-vulnerabilities-of-March-2024-43750)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-for-Enterprise-privilege-escalation-43747" class="noirorange"><b>Microsoft 365 Apps for Enterprise</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-for-Enterprise-privilege-escalation-43747)|An attacker can bypass restrictions of Microsoft 365 Apps for Enterprise, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-March-2024-43746" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of March 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-March-2024-43746)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-core-sock-map-c-44158" class="noirorange"><b>Linux kernel</b>: denial of service via net/core/sock_map.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-net-core-sock-map-c-44158)|An attacker can cause a fatal error of the Linux kernel, via net/core/sock_map.c, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
