@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/05/2024 21:18:25 UTC
+ > Last Updated 15/05/2024 09:22:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Go-library-protojson-denial-of-service-via-Unmarshal-43796" class="noirorange"><b>Go library protojson</b>: denial of service via Unmarshal()</a>](https://vigilance.fr/vulnerability/Go-library-protojson-denial-of-service-via-Unmarshal-43796)|An attacker can cause an endless loop in the protojson Go library, via Unmarshal(), in order to carry out a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Baresip-denial-of-service-via-RTP-43795" class="noirorange"><b>Baresip</b>: denial of service via RTP</a>](https://vigilance.fr/vulnerability/Baresip-denial-of-service-via-RTP-43795)|An attacker can send malicious RTP packets to Baresip, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-XML2JS-prototype-pollution-43794" class="noirorange"><b>Node XML2JS</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-XML2JS-prototype-pollution-43794)|An attacker can alter the JavaScript code of Node XML2JS, in order to change the software behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Palo-Alto-Panorama-denial-of-service-via-Web-uploads-43786" class="noirorange"><b>Palo Alto Panorama</b>: denial of service via Web uploads</a>](https://vigilance.fr/vulnerability/Palo-Alto-Panorama-denial-of-service-via-Web-uploads-43786)|An attacker can saturate disk space by downloading numerous files via the Web interface, in order to carry out a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenText-Exceed-three-vulnerabilities-via-Turbo-X-43785" class="noirorange"><b>OpenText Exceed</b>: three vulnerabilities via Turbo X</a>](https://vigilance.fr/vulnerability/OpenText-Exceed-three-vulnerabilities-via-Turbo-X-43785)|An attacker can use several vulnerabilities of OpenText Exceed, via Turbo X...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Expat-overload-via-XML-ExternalEntityParserCreate-43783" class="noirorange"><b>Expat</b>: overload via XML_<wbr>ExternalEntityParser<wbr>Create()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Expat-overload-via-XML-ExternalEntityParserCreate-43783)|An attacker can trigger an overload of Expat, via XML_|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/python-multipart-overload-via-HTTP-Content-Type-43781" class="noirorange"><b>python-multipart</b>: overload via HTTP Content-Type</a>](https://vigilance.fr/vulnerability/python-multipart-overload-via-HTTP-Content-Type-43781)|An attacker can trigger an overload of python-multipart, via HTTP Content-Type, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-SNMP-43780" class="noirorange"><b>Cisco IOS XR</b>: ingress filtrering bypass via SNMP</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-SNMP-43780)|An attacker can bypass filtering rules of Cisco IOS XR, via SNMP, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-DHCP-v4-43779" class="noirorange"><b>Cisco IOS XR</b>: denial of service via DHCP v4</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-DHCP-v4-43779)|An attacker can send malicious DHCP v4 packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-MPLS-43778" class="noirorange"><b>Cisco IOS XR</b>: ingress filtrering bypass via MPLS</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-MPLS-43778)|An attacker can bypass filtering rules of Cisco IOS XR, via MPLS, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-SCP-43777" class="noirorange"><b>Cisco IOS XR</b>: denial of service via SCP</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-SCP-43777)|An attacker can send malicious SCP packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-WebSocket-43773" class="noirorange"><b>Apache Tomcat</b>: overload via WebSocket</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-WebSocket-43773)|An attacker can trigger an overload of Apache Tomcat, via WebSocket, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
