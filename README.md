@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/05/2024 09:22:32 UTC
+ > Last Updated 15/05/2024 21:20:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Anope-user-access-via-Suspended-Account-Password-Reset-44172" class="noirorange"><b>Anope</b>: user access via Suspended Account Password Reset</a>](https://vigilance.fr/vulnerability/Anope-user-access-via-Suspended-Account-Password-Reset-44172)|An attacker can bypass restrictions of Anope, via Suspended Account Password Reset, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-library-protojson-denial-of-service-via-Unmarshal-43796" class="noirorange"><b>Go library protojson</b>: denial of service via Unmarshal()</a>](https://vigilance.fr/vulnerability/Go-library-protojson-denial-of-service-via-Unmarshal-43796)|An attacker can cause an endless loop in the protojson Go library, via Unmarshal(), in order to carry out a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Baresip-denial-of-service-via-RTP-43795" class="noirorange"><b>Baresip</b>: denial of service via RTP</a>](https://vigilance.fr/vulnerability/Baresip-denial-of-service-via-RTP-43795)|An attacker can send malicious RTP packets to Baresip, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-XML2JS-prototype-pollution-43794" class="noirorange"><b>Node XML2JS</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-XML2JS-prototype-pollution-43794)|An attacker can alter the JavaScript code of Node XML2JS, in order to change the software behavior...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-14-03-2024-43782" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 14/03/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-14-03-2024-43782)|An attacker can use several vulnerabilities of the Linux kernel, dated 14/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/python-multipart-overload-via-HTTP-Content-Type-43781" class="noirorange"><b>python-multipart</b>: overload via HTTP Content-Type</a>](https://vigilance.fr/vulnerability/python-multipart-overload-via-HTTP-Content-Type-43781)|An attacker can trigger an overload of python-multipart, via HTTP Content-Type, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-SNMP-43780" class="noirorange"><b>Cisco IOS XR</b>: ingress filtrering bypass via SNMP</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-ingress-filtrering-bypass-via-SNMP-43780)|An attacker can bypass filtering rules of Cisco IOS XR, via SNMP, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-DHCP-v4-43779" class="noirorange"><b>Cisco IOS XR</b>: denial of service via DHCP v4</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-DHCP-v4-43779)|An attacker can send malicious DHCP v4 packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
