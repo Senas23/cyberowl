@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/05/2024 09:22:17 UTC
+ > Last Updated 16/05/2024 21:19:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0388/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une injection de requêtes illégitimes par rebond (CSRF), un contournement de la politique de sécurité.|Publié le 13 mai 2024|
- |[Multiples vulnérabilités dans VMware Avi Load Balancer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0387/)|De multiples vulnérabilités ont été découvertes dans VMware Avi Load Balancer. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 13 mai 2024|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mai 2024|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mai 2024|
- |[Vulnérabilité dans HPE Aruba Networking AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/)|Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 10 mai 2024|
+ |[Multiples vulnérabilités dans les produits HPE Aruba Networking](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
+ |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0407/)|Une vulnérabilité a été découverte dans Libreoffice. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 15 mai 2024|
+ |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0406/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0405/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0404/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0403/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 15 mai 2024|
+ |[Vulnérabilité dans Microsoft Azure Migrate](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0402/)|Une vulnérabilité a été découverte dans Microsoft Azure Migrate. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 15 mai 2024|
+ |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0401/)|Une vulnérabilité a été découverte dans |Publié le 15 mai 2024|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0400/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mai 2024|
+ |[Vulnérabilité dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0399/)|Une vulnérabilité a été découverte dans |Publié le 15 mai 2024|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42022" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42022)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-denial-of-service-via-restfulWS-42021" class="noirorange"><b>WebSphere AS</b>: denial of service via restfulWS</a>](https://vigilance.fr/vulnerability/WebSphere-AS-denial-of-service-via-restfulWS-42021)|An attacker can cause a fatal error of WebSphere AS, via restfulWS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42017" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42017)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Enterprise-Cross-Site-Scripting-via-UI-44186" class="noirorange"><b>Dell OpenManage Enterprise</b>: Cross Site Scripting via UI</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Enterprise-Cross-Site-Scripting-via-UI-44186)|An attacker can trigger a Cross Site Scripting of Dell OpenManage Enterprise, via UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Enterprise-information-disclosure-dated-01-05-2024-44185" class="noirorange"><b>Dell OpenManage Enterprise</b>: information disclosure dated 01/05/2024</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Enterprise-information-disclosure-dated-01-05-2024-44185)|An attacker can bypass access restrictions to data of Dell OpenManage Enterprise, dated 01/05/2024, in order to read sensitive information...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Baresip-denial-of-service-via-RTP-43795" class="noirorange"><b>Baresip</b>: denial of service via RTP</a>](https://vigilance.fr/vulnerability/Baresip-denial-of-service-via-RTP-43795)|An attacker can send malicious RTP packets to Baresip, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-XML2JS-prototype-pollution-43794" class="noirorange"><b>Node XML2JS</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-XML2JS-prototype-pollution-43794)|An attacker can alter the JavaScript code of Node XML2JS, in order to change the software behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Palo-Alto-Panorama-denial-of-service-via-Web-uploads-43786" class="noirorange"><b>Palo Alto Panorama</b>: denial of service via Web uploads</a>](https://vigilance.fr/vulnerability/Palo-Alto-Panorama-denial-of-service-via-Web-uploads-43786)|An attacker can saturate disk space by downloading numerous files via the Web interface, in order to carry out a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenText-Exceed-three-vulnerabilities-via-Turbo-X-43785" class="noirorange"><b>OpenText Exceed</b>: three vulnerabilities via Turbo X</a>](https://vigilance.fr/vulnerability/OpenText-Exceed-three-vulnerabilities-via-Turbo-X-43785)|An attacker can use several vulnerabilities of OpenText Exceed, via Turbo X...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Expat-overload-via-XML-ExternalEntityParserCreate-43783" class="noirorange"><b>Expat</b>: overload via XML_<wbr>ExternalEntityParser<wbr>Create()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Expat-overload-via-XML-ExternalEntityParserCreate-43783)|An attacker can trigger an overload of Expat, via XML_|Visit link for details|
  
  ---
 
