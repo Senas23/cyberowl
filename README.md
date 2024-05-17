@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/05/2024 09:22:33 UTC
+ > Last Updated 17/05/2024 21:18:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-denial-of-service-via-internal-fnmatch-44197" class="noirorange"><b>GNU C Library</b>: denial of service via internal_fnmatch()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-denial-of-service-via-internal-fnmatch-44197)|An attacker can cause a fatal error of GNU C Library, via internal_fnmatch(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034" class="noirorange"><b>Varnish Cache</b>: user access via vmod-digest</a>](https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034)|An attacker can bypass restrictions of Varnish Cache, via vmod-digest, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42022" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42022)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-denial-of-service-via-restfulWS-42021" class="noirorange"><b>WebSphere AS</b>: denial of service via restfulWS</a>](https://vigilance.fr/vulnerability/WebSphere-AS-denial-of-service-via-restfulWS-42021)|An attacker can cause a fatal error of WebSphere AS, via restfulWS, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Anope-user-access-via-Suspended-Account-Password-Reset-44172" class="noirorange"><b>Anope</b>: user access via Suspended Account Password Reset</a>](https://vigilance.fr/vulnerability/Anope-user-access-via-Suspended-Account-Password-Reset-44172)|An attacker can bypass restrictions of Anope, via Suspended Account Password Reset, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-library-protojson-denial-of-service-via-Unmarshal-43796" class="noirorange"><b>Go library protojson</b>: denial of service via Unmarshal()</a>](https://vigilance.fr/vulnerability/Go-library-protojson-denial-of-service-via-Unmarshal-43796)|An attacker can cause an endless loop in the protojson Go library, via Unmarshal(), in order to carry out a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Baresip-denial-of-service-via-RTP-43795" class="noirorange"><b>Baresip</b>: denial of service via RTP</a>](https://vigilance.fr/vulnerability/Baresip-denial-of-service-via-RTP-43795)|An attacker can send malicious RTP packets to Baresip, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-XML2JS-prototype-pollution-43794" class="noirorange"><b>Node XML2JS</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-XML2JS-prototype-pollution-43794)|An attacker can alter the JavaScript code of Node XML2JS, in order to change the software behavior...|Visit link for details|
  
  ---
 
