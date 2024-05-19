@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/05/2024 21:17:43 UTC
+ > Last Updated 19/05/2024 09:21:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-03-2024-43812" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 19/03/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-03-2024-43812)|An attacker can use several vulnerabilities of the Linux kernel, dated 19/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Range Header</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Range-Header-42044)|An attacker can cause a fatal error of Apache Traffic Server, via Range Header, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Exiv2-buffer-overflow-via-BmffImage-brotliUncompress-43808" class="noirorange"><b>Exiv2</b>: buffer overflow via BmffImage::<wbr>brotliUncompress()</wbr></a>](https://vigilance.fr/vulnerability/Exiv2-buffer-overflow-via-BmffImage-brotliUncompress-43808)|An attacker can trigger a buffer overflow of Exiv2, via BmffImage::|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Shim-six-vulnerabilities-dated-18-03-2024-43806" class="noirorange"><b>Shim</b>: six vulnerabilities dated 18/03/2024</a>](https://vigilance.fr/vulnerability/Shim-six-vulnerabilities-dated-18-03-2024-43806)|An attacker can use several vulnerabilities of Shim, dated 18/03/2024...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/RPyC-code-execution-via-Netref-Attribute-Named-array-43802" class="noirorange"><b>RPyC</b>: code execution via Netref Attribute Named __array__</a>](https://vigilance.fr/vulnerability/RPyC-code-execution-via-Netref-Attribute-Named-array-43802)|An attacker can use a vulnerability of RPyC, via Netref Attribute Named __array__, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-denial-of-service-via-internal-fnmatch-44197" class="noirorange"><b>GNU C Library</b>: denial of service via internal_fnmatch()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-denial-of-service-via-internal-fnmatch-44197)|An attacker can cause a fatal error of GNU C Library, via internal_fnmatch(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034" class="noirorange"><b>Varnish Cache</b>: user access via vmod-digest</a>](https://vigilance.fr/vulnerability/Varnish-Cache-user-access-via-vmod-digest-42034)|An attacker can bypass restrictions of Varnish Cache, via vmod-digest, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42022" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-42022)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  
  ---
 
