@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/05/2024 21:18:54 UTC
+ > Last Updated 21/05/2024 09:22:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,23 +27,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/php-svg-lib-two-vulnerabilities-dated-20-03-2024-43834" class="noirorange"><b>php-svg-lib</b>: two vulnerabilities dated 20/03/2024</a>](https://vigilance.fr/vulnerability/php-svg-lib-two-vulnerabilities-dated-20-03-2024-43834)|An attacker can use several vulnerabilities of php-svg-lib, dated 20/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-four-vulnerabilities-dated-20-03-2024-43833" class="noirorange"><b>OpenVPN OpenSource</b>: four vulnerabilities dated 20/03/2024</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-four-vulnerabilities-dated-20-03-2024-43833)|An attacker can use several vulnerabilities of OpenVPN OpenSource, dated 20/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/spring-boot-actuator-logview-directory-traversal-via-LogViewEndpoint-view-43831" class="noirorange"><b>spring-boot-<wbr>actuator-logview</wbr></b>: directory traversal via LogViewEndpoint.view</a>](https://vigilance.fr/vulnerability/spring-boot-actuator-logview-directory-traversal-via-LogViewEndpoint-view-43831)|An attacker can traverse directories of spring-boot-|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Private-Key-43830" class="noirorange"><b>IBM Storage Protect Plus Server</b>: information disclosure via Private Key</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Private-Key-43830)|An attacker can bypass access restrictions to data of IBM Storage Protect Plus Server, via Private Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Data-MongoDB-read-write-access-via-SpEL-Injection-43829" class="noirorange"><b>Spring Data MongoDB</b>: read-write access via SpEL Injection</a>](https://vigilance.fr/vulnerability/Spring-Data-MongoDB-read-write-access-via-SpEL-Injection-43829)|An attacker can bypass access restrictions of Spring Data MongoDB, via SpEL Injection, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/kube-controller-manager-denial-of-service-via-HPA-V1-Manifest-43826" class="noirorange"><b>kube-controller-<wbr>manager</wbr></b>: denial of service via HPA V1 Manifest</a>](https://vigilance.fr/vulnerability/kube-controller-manager-denial-of-service-via-HPA-V1-Manifest-43826)|An attacker can cause a fatal error of kube-controller-|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-dated-20-03-2024-43824" class="noirorange"><b>GnuTLS</b>: two vulnerabilities dated 20/03/2024</a>](https://vigilance.fr/vulnerability/GnuTLS-two-vulnerabilities-dated-20-03-2024-43824)|An attacker can use several vulnerabilities of GnuTLS, dated 20/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HtmlUnit-NekoHtml-Parser-memory-leak-via-Processing-Instruction-43823" class="noirorange"><b>HtmlUnit NekoHtml Parser</b>: memory leak via Processing Instruction</a>](https://vigilance.fr/vulnerability/HtmlUnit-NekoHtml-Parser-memory-leak-via-Processing-Instruction-43823)|An attacker can create a memory leak of HtmlUnit NekoHtml Parser, via Processing Instruction, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-directory-traversal-dated-19-03-2024-43822" class="noirorange"><b>Atlassian Confluence Server/DC</b>: directory traversal dated 19/03/2024</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-directory-traversal-dated-19-03-2024-43822)|An attacker can traverse directories of Atlassian Confluence Server/DC, dated 19/03/2024, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Helm-directory-traversal-via-Chart-yaml-43821" class="noirorange"><b>Helm</b>: directory traversal via Chart.yaml</a>](https://vigilance.fr/vulnerability/Helm-directory-traversal-via-Chart-yaml-43821)|An attacker can traverse directories of Helm, via Chart.yaml, in order to write a file outside the service root path...|Visit link for details|
  
  ---
 
@@ -75,4 +58,21 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/BlackBerry-UEM-Cross-Site-Scripting-via-Management-Console-43837" class="noirorange"><b>BlackBerry UEM</b>: Cross Site Scripting via Management Console</a>](https://vigilance.fr/vulnerability/BlackBerry-UEM-Cross-Site-Scripting-via-Management-Console-43837)|An attacker can trigger a Cross Site Scripting of BlackBerry UEM, via Management Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv2-Retransmit-PreSharedKeys-43836" class="noirorange"><b>Libreswan</b>: denial of service via IKEv2 Retransmit PreSharedKeys</a>](https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv2-Retransmit-PreSharedKeys-43836)|An attacker can cause a fatal error of Libreswan, via IKEv2 Retransmit PreSharedKeys, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051" class="noirorange"><b>Fast DDS</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Fast-DDS-six-vulnerabilities-42051)|An attacker can use several vulnerabilities of Fast DDS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/stalld-vulnerability-dated-05-05-2024-44205" class="noirorange"><b>stalld</b>: vulnerability dated 05/05/2024</a>](https://vigilance.fr/vulnerability/stalld-vulnerability-dated-05-05-2024-44205)|A vulnerability of stalld, dated 05/05/2024, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/php-svg-lib-two-vulnerabilities-dated-20-03-2024-43834" class="noirorange"><b>php-svg-lib</b>: two vulnerabilities dated 20/03/2024</a>](https://vigilance.fr/vulnerability/php-svg-lib-two-vulnerabilities-dated-20-03-2024-43834)|An attacker can use several vulnerabilities of php-svg-lib, dated 20/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-four-vulnerabilities-dated-20-03-2024-43833" class="noirorange"><b>OpenVPN OpenSource</b>: four vulnerabilities dated 20/03/2024</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-four-vulnerabilities-dated-20-03-2024-43833)|An attacker can use several vulnerabilities of OpenVPN OpenSource, dated 20/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/spring-boot-actuator-logview-directory-traversal-via-LogViewEndpoint-view-43831" class="noirorange"><b>spring-boot-<wbr>actuator-logview</wbr></b>: directory traversal via LogViewEndpoint.view</a>](https://vigilance.fr/vulnerability/spring-boot-actuator-logview-directory-traversal-via-LogViewEndpoint-view-43831)|An attacker can traverse directories of spring-boot-|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Private-Key-43830" class="noirorange"><b>IBM Storage Protect Plus Server</b>: information disclosure via Private Key</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Plus-Server-information-disclosure-via-Private-Key-43830)|An attacker can bypass access restrictions to data of IBM Storage Protect Plus Server, via Private Key, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Data-MongoDB-read-write-access-via-SpEL-Injection-43829" class="noirorange"><b>Spring Data MongoDB</b>: read-write access via SpEL Injection</a>](https://vigilance.fr/vulnerability/Spring-Data-MongoDB-read-write-access-via-SpEL-Injection-43829)|An attacker can bypass access restrictions of Spring Data MongoDB, via SpEL Injection, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/kube-controller-manager-denial-of-service-via-HPA-V1-Manifest-43826" class="noirorange"><b>kube-controller-<wbr>manager</wbr></b>: denial of service via HPA V1 Manifest</a>](https://vigilance.fr/vulnerability/kube-controller-manager-denial-of-service-via-HPA-V1-Manifest-43826)|An attacker can cause a fatal error of kube-controller-|Visit link for details|
  
