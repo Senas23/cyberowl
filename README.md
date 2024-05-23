@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/05/2024 09:22:35 UTC
+ > Last Updated 23/05/2024 21:18:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,28 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105" class="noirorange"><b>Drupal Flexi Access</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105)|An attacker can use a vulnerability of Drupal Flexi Access, via Object Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Forum-Access-code-execution-via-Object-Injection-42104" class="noirorange"><b>Drupal Forum Access</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Forum-Access-code-execution-via-Object-Injection-42104)|An attacker can use a vulnerability of Drupal Forum Access, via Object Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-ACL-code-execution-via-Object-Injection-42103" class="noirorange"><b>Drupal ACL</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-ACL-code-execution-via-Object-Injection-42103)|An attacker can use a vulnerability of Drupal ACL, via Object Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42091" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42091)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-Noyau-Linux-memory-leak-via-xen-netback-44218" class="noirorange"><b>Xen  Noyau Linux</b>: memory leak via xen-netback</a>](https://vigilance.fr/vulnerability/Xen-Noyau-Linux-memory-leak-via-xen-netback-44218)|An attacker, in a guest system, can create a memory leak of Xen  Noyau Linux, via xen-netback, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Amazon-Ion-denial-of-service-via-Text-Encoded-Data-43854" class="noirorange"><b>Amazon Ion</b>: denial of service via Text Encoded Data</a>](https://vigilance.fr/vulnerability/Amazon-Ion-denial-of-service-via-Text-Encoded-Data-43854)|An attacker can cause a fatal error of Amazon Ion, via Text Encoded Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-memory-corruption-via-devices-vector-gdevtxtw-c-43851" class="noirorange"><b>Artifex Ghostscript</b>: memory corruption via devices/vector/<wbr>gdevtxtw.c</wbr></a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-memory-corruption-via-devices-vector-gdevtxtw-c-43851)|An attacker can trigger a memory corruption of Artifex Ghostscript, via devices/vector/|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/uAMQP-double-free-via-AMQP-VALUE-43850" class="noirorange"><b>uAMQP</b>: double free via AMQP_VALUE</a>](https://vigilance.fr/vulnerability/uAMQP-double-free-via-AMQP-VALUE-43850)|An attacker can force a double memory free of uAMQP, via AMQP_VALUE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/dav1d-memory-corruption-via-Large-Frame-Size-43848" class="noirorange"><b>dav1d</b>: memory corruption via Large Frame Size</a>](https://vigilance.fr/vulnerability/dav1d-memory-corruption-via-Large-Frame-Size-43848)|An attacker can trigger a memory corruption of dav1d, via Large Frame Size, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PackageKitd-use-after-free-via-Transaction-Cleanup-Mechanics-43847" class="noirorange"><b>PackageKitd</b>: use after free via Transaction Cleanup Mechanics</a>](https://vigilance.fr/vulnerability/PackageKitd-use-after-free-via-Transaction-Cleanup-Mechanics-43847)|An attacker can force the reuse of a freed memory area of PackageKitd, via Transaction Cleanup Mechanics, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0435/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 23 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0434/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 22 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0433/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 22 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0432/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 mai 2024|
@@ -43,24 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0428/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 22 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0427/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un déni de service à distance.|Publié le 22 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0426/)|De multiples vulnérabilités ont été découvertes dans Roundcube. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une injection de code indirecte à distance (XSS).|Publié le 21 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0425/)|Une vulnérabilité a été découverte dans Ruby on Rails. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 21 mai 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42091" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42091)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-Noyau-Linux-memory-leak-via-xen-netback-44218" class="noirorange"><b>Xen  Noyau Linux</b>: memory leak via xen-netback</a>](https://vigilance.fr/vulnerability/Xen-Noyau-Linux-memory-leak-via-xen-netback-44218)|An attacker, in a guest system, can create a memory leak of Xen  Noyau Linux, via xen-netback, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Amazon-Ion-denial-of-service-via-Text-Encoded-Data-43854" class="noirorange"><b>Amazon Ion</b>: denial of service via Text Encoded Data</a>](https://vigilance.fr/vulnerability/Amazon-Ion-denial-of-service-via-Text-Encoded-Data-43854)|An attacker can cause a fatal error of Amazon Ion, via Text Encoded Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-memory-corruption-via-devices-vector-gdevtxtw-c-43851" class="noirorange"><b>Artifex Ghostscript</b>: memory corruption via devices/vector/<wbr>gdevtxtw.c</wbr></a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-memory-corruption-via-devices-vector-gdevtxtw-c-43851)|An attacker can trigger a memory corruption of Artifex Ghostscript, via devices/vector/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/uAMQP-double-free-via-AMQP-VALUE-43850" class="noirorange"><b>uAMQP</b>: double free via AMQP_VALUE</a>](https://vigilance.fr/vulnerability/uAMQP-double-free-via-AMQP-VALUE-43850)|An attacker can force a double memory free of uAMQP, via AMQP_VALUE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/dav1d-memory-corruption-via-Large-Frame-Size-43848" class="noirorange"><b>dav1d</b>: memory corruption via Large Frame Size</a>](https://vigilance.fr/vulnerability/dav1d-memory-corruption-via-Large-Frame-Size-43848)|An attacker can trigger a memory corruption of dav1d, via Large Frame Size, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PackageKitd-use-after-free-via-Transaction-Cleanup-Mechanics-43847" class="noirorange"><b>PackageKitd</b>: use after free via Transaction Cleanup Mechanics</a>](https://vigilance.fr/vulnerability/PackageKitd-use-after-free-via-Transaction-Cleanup-Mechanics-43847)|An attacker can force the reuse of a freed memory area of PackageKitd, via Transaction Cleanup Mechanics, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-03-2024-43845" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 22/03/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-03-2024-43845)|An attacker can use several vulnerabilities of the Linux kernel, dated 22/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Sentry-code-execution-via-System-Manager-Portal-42062" class="noirorange"><b>Ivanti Sentry</b>: code execution via System Manager Portal</a>](https://vigilance.fr/vulnerability/Ivanti-Sentry-code-execution-via-System-Manager-Portal-42062)|An attacker can use a vulnerability of Ivanti Sentry, via System Manager Portal, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Alcatel-ALE-Phone-information-disclosure-via-USB-Port-44213" class="noirorange"><b>Alcatel ALE Phone</b>: information disclosure via USB Port</a>](https://vigilance.fr/vulnerability/Alcatel-ALE-Phone-information-disclosure-via-USB-Port-44213)|An attacker can bypass access restrictions to data of Alcatel ALE Phone, via USB Port, in order to read sensitive information...|Visit link for details|
  
  ---
 
