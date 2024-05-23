@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/05/2024 21:21:19 UTC
+ > Last Updated 23/05/2024 09:22:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42091" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42091)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-Noyau-Linux-memory-leak-via-xen-netback-44218" class="noirorange"><b>Xen  Noyau Linux</b>: memory leak via xen-netback</a>](https://vigilance.fr/vulnerability/Xen-Noyau-Linux-memory-leak-via-xen-netback-44218)|An attacker, in a guest system, can create a memory leak of Xen  Noyau Linux, via xen-netback, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Amazon-Ion-denial-of-service-via-Text-Encoded-Data-43854" class="noirorange"><b>Amazon Ion</b>: denial of service via Text Encoded Data</a>](https://vigilance.fr/vulnerability/Amazon-Ion-denial-of-service-via-Text-Encoded-Data-43854)|An attacker can cause a fatal error of Amazon Ion, via Text Encoded Data, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-memory-corruption-via-devices-vector-gdevtxtw-c-43851" class="noirorange"><b>Artifex Ghostscript</b>: memory corruption via devices/vector/<wbr>gdevtxtw.c</wbr></a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-memory-corruption-via-devices-vector-gdevtxtw-c-43851)|An attacker can trigger a memory corruption of Artifex Ghostscript, via devices/vector/|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/uAMQP-double-free-via-AMQP-VALUE-43850" class="noirorange"><b>uAMQP</b>: double free via AMQP_VALUE</a>](https://vigilance.fr/vulnerability/uAMQP-double-free-via-AMQP-VALUE-43850)|An attacker can force a double memory free of uAMQP, via AMQP_VALUE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-03-2024-43845" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 22/03/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-03-2024-43845)|An attacker can use several vulnerabilities of the Linux kernel, dated 22/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Sentry-code-execution-via-System-Manager-Portal-42062" class="noirorange"><b>Ivanti Sentry</b>: code execution via System Manager Portal</a>](https://vigilance.fr/vulnerability/Ivanti-Sentry-code-execution-via-System-Manager-Portal-42062)|An attacker can use a vulnerability of Ivanti Sentry, via System Manager Portal, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Alcatel-ALE-Phone-information-disclosure-via-USB-Port-44213" class="noirorange"><b>Alcatel ALE Phone</b>: information disclosure via USB Port</a>](https://vigilance.fr/vulnerability/Alcatel-ALE-Phone-information-disclosure-via-USB-Port-44213)|An attacker can bypass access restrictions to data of Alcatel ALE Phone, via USB Port, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UDP-overload-via-Loop-DoS-43841" class="noirorange"><b>UDP</b>: overload via Loop DoS</a>](https://vigilance.fr/vulnerability/UDP-overload-via-Loop-DoS-43841)|An attacker can trigger an overload of UDP, via Loop DoS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-Lang-memory-leak-via-RSA-Payloads-43840" class="noirorange"><b>Go Lang</b>: memory leak via RSA Payloads</a>](https://vigilance.fr/vulnerability/Go-Lang-memory-leak-via-RSA-Payloads-43840)|An attacker can create a memory leak of Go Lang, via RSA Payloads, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
