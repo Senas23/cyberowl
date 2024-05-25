@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/05/2024 21:19:15 UTC
+ > Last Updated 25/05/2024 09:20:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958" class="noirorange"><b>Chrome</b>: buffer overflow via GPU</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958)|An attacker can trigger a buffer overflow of Chrome, via GPU, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Emacs-multiple-vulnerabilities-dated-25-03-2024-43862" class="noirorange"><b>GNU Emacs</b>: multiple vulnerabilities dated 25/03/2024</a>](https://vigilance.fr/vulnerability/GNU-Emacs-multiple-vulnerabilities-dated-25-03-2024-43862)|An attacker can use several vulnerabilities of GNU Emacs, dated 25/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tcpreplay-double-free-via-tcpedit-dlt-cleanup-43859" class="noirorange"><b>tcpreplay</b>: double free via tcpedit_dlt_cleanup(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/tcpreplay-double-free-via-tcpedit-dlt-cleanup-43859)|An attacker can force a double memory free of tcpreplay, via tcpedit_dlt_cleanup(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Amavis-ingress-filtrering-bypass-via-Multiple-Boundary-Parameters-43857" class="noirorange"><b>Amavis</b>: ingress filtrering bypass via Multiple Boundary Parameters</a>](https://vigilance.fr/vulnerability/Amavis-ingress-filtrering-bypass-via-Multiple-Boundary-Parameters-43857)|An attacker can bypass filtering rules of Amavis, via Multiple Boundary Parameters, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Clojure-denial-of-service-via-fn-5920-43858" class="noirorange"><b>Clojure</b>: denial of service via fn__5920()</a>](https://vigilance.fr/vulnerability/Clojure-denial-of-service-via-fn-5920-43858)|An attacker can cause a fatal error of Clojure, via fn__5920(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-denial-of-service-via-HTTP-2-Broke-Window-43861" class="noirorange"><b>Varnish Cache</b>: denial of service via HTTP/2 Broke Window</a>](https://vigilance.fr/vulnerability/Varnish-Cache-denial-of-service-via-HTTP-2-Broke-Window-43861)|An attacker can cause a fatal error of Varnish Cache, via HTTP/2 Broke Window, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libnet-cidr-lite-perl-ingress-filtrering-bypass-via-Extraneous-Zero-Characters-43856" class="noirorange"><b>libnet-cidr-lite-<wbr>perl</wbr></b>: ingress filtrering bypass via Extraneous Zero Characters</a>](https://vigilance.fr/vulnerability/libnet-cidr-lite-perl-ingress-filtrering-bypass-via-Extraneous-Zero-Characters-43856)|An attacker can bypass filtering rules of libnet-cidr-lite-|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-24-03-2024-43855" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities dated 24/03/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-24-03-2024-43855)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 24/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/lxml-information-disclosure-via-User-Management-Tenants-44231" class="noirorange"><b>lxml</b>: information disclosure via User Management Tenants</a>](https://vigilance.fr/vulnerability/lxml-information-disclosure-via-User-Management-Tenants-44231)|An attacker can bypass access restrictions to data of lxml, via User Management Tenants, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105" class="noirorange"><b>Drupal Flexi Access</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105)|An attacker can use a vulnerability of Drupal Flexi Access, via Object Injection, in order to run code...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0435/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 23 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0434/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 22 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0433/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 22 mai 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/lxml-information-disclosure-via-User-Management-Tenants-44231" class="noirorange"><b>lxml</b>: information disclosure via User Management Tenants</a>](https://vigilance.fr/vulnerability/lxml-information-disclosure-via-User-Management-Tenants-44231)|An attacker can bypass access restrictions to data of lxml, via User Management Tenants, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105" class="noirorange"><b>Drupal Flexi Access</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Flexi-Access-code-execution-via-Object-Injection-42105)|An attacker can use a vulnerability of Drupal Flexi Access, via Object Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Forum-Access-code-execution-via-Object-Injection-42104" class="noirorange"><b>Drupal Forum Access</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Forum-Access-code-execution-via-Object-Injection-42104)|An attacker can use a vulnerability of Drupal Forum Access, via Object Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-ACL-code-execution-via-Object-Injection-42103" class="noirorange"><b>Drupal ACL</b>: code execution via Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-ACL-code-execution-via-Object-Injection-42103)|An attacker can use a vulnerability of Drupal ACL, via Object Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42091" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42091)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-Noyau-Linux-memory-leak-via-xen-netback-44218" class="noirorange"><b>Xen  Noyau Linux</b>: memory leak via xen-netback</a>](https://vigilance.fr/vulnerability/Xen-Noyau-Linux-memory-leak-via-xen-netback-44218)|An attacker, in a guest system, can create a memory leak of Xen  Noyau Linux, via xen-netback, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Amazon-Ion-denial-of-service-via-Text-Encoded-Data-43854" class="noirorange"><b>Amazon Ion</b>: denial of service via Text Encoded Data</a>](https://vigilance.fr/vulnerability/Amazon-Ion-denial-of-service-via-Text-Encoded-Data-43854)|An attacker can cause a fatal error of Amazon Ion, via Text Encoded Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-memory-corruption-via-devices-vector-gdevtxtw-c-43851" class="noirorange"><b>Artifex Ghostscript</b>: memory corruption via devices/vector/<wbr>gdevtxtw.c</wbr></a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-memory-corruption-via-devices-vector-gdevtxtw-c-43851)|An attacker can trigger a memory corruption of Artifex Ghostscript, via devices/vector/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/uAMQP-double-free-via-AMQP-VALUE-43850" class="noirorange"><b>uAMQP</b>: double free via AMQP_VALUE</a>](https://vigilance.fr/vulnerability/uAMQP-double-free-via-AMQP-VALUE-43850)|An attacker can force a double memory free of uAMQP, via AMQP_VALUE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/dav1d-memory-corruption-via-Large-Frame-Size-43848" class="noirorange"><b>dav1d</b>: memory corruption via Large Frame Size</a>](https://vigilance.fr/vulnerability/dav1d-memory-corruption-via-Large-Frame-Size-43848)|An attacker can trigger a memory corruption of dav1d, via Large Frame Size, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
