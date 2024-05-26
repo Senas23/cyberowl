@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/05/2024 21:18:00 UTC
+ > Last Updated 26/05/2024 09:21:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-26-03-2024-43867" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 26/03/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-26-03-2024-43867)|An attacker can use several vulnerabilities of the Linux kernel, dated 26/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Debian-Goodies-code-execution-via-debmany-43865" class="noirorange"><b>Debian Goodies</b>: code execution via debmany</a>](https://vigilance.fr/vulnerability/Debian-Goodies-code-execution-via-debmany-43865)|An attacker can use a vulnerability of Debian Goodies, via debmany, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNOME-Glade-denial-of-service-via-GladeGtkBox-43864" class="noirorange"><b>GNOME Glade</b>: denial of service via GladeGtkBox</a>](https://vigilance.fr/vulnerability/GNOME-Glade-denial-of-service-via-GladeGtkBox-43864)|An attacker can cause a fatal error of GNOME Glade, via GladeGtkBox, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958" class="noirorange"><b>Chrome</b>: buffer overflow via GPU</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958)|An attacker can trigger a buffer overflow of Chrome, via GPU, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Clojure-denial-of-service-via-fn-5920-43858" class="noirorange"><b>Clojure</b>: denial of service via fn__5920()</a>](https://vigilance.fr/vulnerability/Clojure-denial-of-service-via-fn-5920-43858)|An attacker can cause a fatal error of Clojure, via fn__5920(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-denial-of-service-via-HTTP-2-Broke-Window-43861" class="noirorange"><b>Varnish Cache</b>: denial of service via HTTP/2 Broke Window</a>](https://vigilance.fr/vulnerability/Varnish-Cache-denial-of-service-via-HTTP-2-Broke-Window-43861)|An attacker can cause a fatal error of Varnish Cache, via HTTP/2 Broke Window, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libnet-cidr-lite-perl-ingress-filtrering-bypass-via-Extraneous-Zero-Characters-43856" class="noirorange"><b>libnet-cidr-lite-<wbr>perl</wbr></b>: ingress filtrering bypass via Extraneous Zero Characters</a>](https://vigilance.fr/vulnerability/libnet-cidr-lite-perl-ingress-filtrering-bypass-via-Extraneous-Zero-Characters-43856)|An attacker can bypass filtering rules of libnet-cidr-lite-|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-24-03-2024-43855" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities dated 24/03/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-24-03-2024-43855)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 24/03/2024...|Visit link for details|
  
  ---
 
