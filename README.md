@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/05/2024 21:19:19 UTC
+ > Last Updated 29/05/2024 09:22:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/json-c-buffer-overflow-via-parseit-42134" class="noirorange"><b>json-c</b>: buffer overflow via parseit()</a>](https://vigilance.fr/vulnerability/json-c-buffer-overflow-via-parseit-42134)|An attacker can trigger a buffer overflow of json-c, via parseit(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Enterprise-directory-traversal-dated-29-03-2024-43923" class="noirorange"><b>Dell OpenManage Enterprise</b>: directory traversal dated 29/03/2024</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Enterprise-directory-traversal-dated-29-03-2024-43923)|An attacker can traverse directories of Dell OpenManage Enterprise, dated 29/03/2024, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/csmock-code-execution-via-csmock-plugin-snyk-43922" class="noirorange"><b>csmock</b>: code execution via csmock-plugin-snyk</a>](https://vigilance.fr/vulnerability/csmock-code-execution-via-csmock-plugin-snyk-43922)|An attacker can use a vulnerability of csmock, via csmock-plugin-snyk, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/onnx-two-vulnerabilities-dated-29-03-2024-43921" class="noirorange"><b>onnx</b>: two vulnerabilities dated 29/03/2024</a>](https://vigilance.fr/vulnerability/onnx-two-vulnerabilities-dated-29-03-2024-43921)|An attacker can use several vulnerabilities of onnx, dated 29/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/oFono-org-two-vulnerabilities-via-SMS-Decoder-43920" class="noirorange"><b>oFono.org</b>: two vulnerabilities via SMS Decoder</a>](https://vigilance.fr/vulnerability/oFono-org-two-vulnerabilities-via-SMS-Decoder-43920)|An attacker can use several vulnerabilities of oFono.org, via SMS Decoder...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-exthdr-c-43919" class="noirorange"><b>Linux kernel</b>: buffer overflow via nft_exthdr.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-nft-exthdr-c-43919)|An attacker can trigger a buffer overflow of the Linux kernel, via nft_exthdr.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Buildah-file-read-write-via-Mount-Arbitrary-Locations-43917" class="noirorange"><b>Buildah</b>: file read/write via Mount Arbitrary Locations</a>](https://vigilance.fr/vulnerability/Buildah-file-read-write-via-Mount-Arbitrary-Locations-43917)|An attacker can bypass access restrictions of Buildah, via Mount Arbitrary Locations, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synology-Surveillance-Station-Client-code-execution-dated-28-03-2024-43916" class="noirorange"><b>Synology Surveillance Station Client</b>: code execution dated 28/03/2024</a>](https://vigilance.fr/vulnerability/Synology-Surveillance-Station-Client-code-execution-dated-28-03-2024-43916)|An attacker can use a vulnerability of Synology Surveillance Station Client, dated 28/03/2024, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synology-Surveillance-Station-for-DSM-multiple-vulnerabilities-dated-28-03-2024-43915" class="noirorange"><b>Synology Surveillance Station for DSM</b>: multiple vulnerabilities dated 28/03/2024</a>](https://vigilance.fr/vulnerability/Synology-Surveillance-Station-for-DSM-multiple-vulnerabilities-dated-28-03-2024-43915)|An attacker can use several vulnerabilities of Synology Surveillance Station for DSM, dated 28/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-auxiliary-device-add-43913" class="noirorange"><b>Linux kernel</b>: double free via auxiliary_device_<wbr>add()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-auxiliary-device-add-43913)|An attacker can force a double memory free of the Linux kernel, via auxiliary_device_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Compress-overload-via-TAR-Parsing-43911" class="noirorange"><b>Apache Commons Compress</b>: overload via TAR Parsing</a>](https://vigilance.fr/vulnerability/Apache-Commons-Compress-overload-via-TAR-Parsing-43911)|An attacker can trigger an overload of Apache Commons Compress, via TAR Parsing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/unixODBC-buffer-overflow-via-64-bit-Architectures-43910" class="noirorange"><b>unixODBC</b>: buffer overflow via 64-bit Architectures</a>](https://vigilance.fr/vulnerability/unixODBC-buffer-overflow-via-64-bit-Architectures-43910)|An attacker can trigger a buffer overflow of unixODBC, via 64-bit Architectures, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UnRAR-code-execution-via-Volume-Recovery-42128" class="noirorange"><b>UnRAR</b>: code execution via Volume Recovery</a>](https://vigilance.fr/vulnerability/UnRAR-code-execution-via-Volume-Recovery-42128)|An attacker can use a vulnerability of UnRAR, via Volume Recovery, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-vhost-net-stop-44259" class="noirorange"><b>QEMU</b>: denial of service via vhost_net_stop</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-vhost-net-stop-44259)|An attacker, in a guest system, can cause a fatal error of QEMU, via vhost_net_stop, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-27-03-2024-43909" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 27/03/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-27-03-2024-43909)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 27/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/follow-redirects-information-disclosure-via-Proxy-authentication-Header-43908" class="noirorange"><b>follow-redirects</b>: information disclosure via Proxy-authentication Header</a>](https://vigilance.fr/vulnerability/follow-redirects-information-disclosure-via-Proxy-authentication-Header-43908)|An attacker can bypass access restrictions to data of follow-redirects, via Proxy-authentication Header, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
