@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/05/2024 09:23:39 UTC
+ > Last Updated 30/05/2024 21:20:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,23 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0453/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 30 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0452/)|De multiples vulnérabilités ont été découvertes dans StormShield SSL VPN Client. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 30 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0451/)|Une vulnérabilité a été découverte dans Mitel MiVoice MX-ONE. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 30 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans Nginx. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 30 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0449/)|Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. Check Point indique que la vulnérabilité CVE-2024-24919 est activement exploitée.|Publié le 29 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 29 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0447/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0446/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à l'intégrité des données.|Publié le 29 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0445/)|Une vulnérabilité a été découverte dans Spring Cloud Skipper. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 29 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0444/)|Une vulnérabilité a été découverte dans Citrix Workspace app pour Mac. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 29 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0443/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité CVE-2024-5274 est activement exploitée.|Publié le 27 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0442/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0441/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 24 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0440/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 24 mai 2024|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -72,6 +65,13 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
