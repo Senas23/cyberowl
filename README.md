@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/05/2024 21:20:58 UTC
+ > Last Updated 31/05/2024 09:23:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,31 +47,31 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Serialized-Session-Payload-42165" class="noirorange"><b>Splunk Enterprise</b>: code execution via Serialized Session Payload</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Serialized-Session-Payload-42165)|An attacker can use a vulnerability of Splunk Enterprise, via Serialized Session Payload, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Editcap-Secret-Injection-44323" class="noirorange"><b>Wireshark</b>: denial of service via Editcap Secret Injection</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Editcap-Secret-Injection-44323)|An attacker can cause a fatal error of Wireshark, via Editcap Secret Injection, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Editcap-Byte-Chopping-44322" class="noirorange"><b>Wireshark</b>: denial of service via Editcap Byte Chopping</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Editcap-Byte-Chopping-44322)|An attacker can cause a fatal error of Wireshark, via Editcap Byte Chopping, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-MONGO-ZigBee-TLV-44321" class="noirorange"><b>Wireshark</b>: overload via MONGO / ZigBee TLV</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-MONGO-ZigBee-TLV-44321)|An attacker can trigger an overload of Wireshark, via MONGO / ZigBee TLV, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-xc4000-get-frequency-44313" class="noirorange"><b>Linux kernel</b>: denial of service via xc4000_get_<wbr>frequency()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-xc4000-get-frequency-44313)|An attacker can cause a fatal error of the Linux kernel, via xc4000_get_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QPDF-use-after-free-via-Pl-ASCII85Decoder-write-42147" class="noirorange"><b>QPDF</b>: use after free via Pl_ASCII85Decoder::<wbr>write()</wbr></a>](https://vigilance.fr/vulnerability/QPDF-use-after-free-via-Pl-ASCII85Decoder-write-42147)|An attacker can force the reuse of a freed memory area of QPDF, via Pl_ASCII85Decoder::|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Race-Conditions-44308" class="noirorange"><b>Intel Processor</b>: information disclosure via Race Conditions</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Race-Conditions-44308)|An attacker can bypass access restrictions to data of Intel Processor, via Race Conditions, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-MediaStream-42144" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via MediaStream</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-MediaStream-42144)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via MediaStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143" class="noirorange"><b>ArubaOS-Switch</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143)|An attacker can use several vulnerabilities of ArubaOS-Switch...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142" class="noirorange"><b>Junos OS</b>: denial of service via BGP UPDATE De-peer Message</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142)|An attacker can cause a fatal error of Junos OS, via BGP UPDATE De-peer Message, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42141" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42141)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-REST-API-Encrypted-PDF-Attachment-Processor-43924" class="noirorange"><b>Elasticsearch</b>: denial of service via REST API Encrypted PDF Attachment Processor</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-REST-API-Encrypted-PDF-Attachment-Processor-43924)|An attacker can cause a fatal error of Elasticsearch, via REST API Encrypted PDF Attachment Processor, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/json-c-buffer-overflow-via-parseit-42134" class="noirorange"><b>json-c</b>: buffer overflow via parseit()</a>](https://vigilance.fr/vulnerability/json-c-buffer-overflow-via-parseit-42134)|An attacker can trigger a buffer overflow of json-c, via parseit(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Enterprise-directory-traversal-dated-29-03-2024-43923" class="noirorange"><b>Dell OpenManage Enterprise</b>: directory traversal dated 29/03/2024</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Enterprise-directory-traversal-dated-29-03-2024-43923)|An attacker can traverse directories of Dell OpenManage Enterprise, dated 29/03/2024, in order to read a file outside the service root path...|Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
