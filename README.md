@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/05/2024 21:19:31 UTC
+ > Last Updated 01/06/2024 09:22:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0459/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 31 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0458/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 31 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0457/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données, un déni de service.|Publié le 31 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0456/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 31 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0455/)|De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 31 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0454/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 31 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0453/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 30 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0452/)|De multiples vulnérabilités ont été découvertes dans StormShield SSL VPN Client. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 30 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0451/)|Une vulnérabilité a été découverte dans Mitel MiVoice MX-ONE. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 30 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans Nginx. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 30 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0449/)|Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. Check Point indique que la vulnérabilité CVE-2024-24919 est activement exploitée.|Publié le 29 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 29 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0447/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0446/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à l'intégrité des données.|Publié le 29 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0445/)|Une vulnérabilité a été découverte dans Spring Cloud Skipper. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 29 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0444/)|Une vulnérabilité a été découverte dans Citrix Workspace app pour Mac. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 29 mai 2024|
  
  ---
 
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-RealMedia-File-Demuxer-42178" class="noirorange"><b>GStreamer</b>: buffer overflow via RealMedia File Demuxer</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-RealMedia-File-Demuxer-42178)|An attacker can trigger a buffer overflow of GStreamer, via RealMedia File Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42174" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42174)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitPython-read-write-access-via-Clone-Non-multi-Options-42173" class="noirorange"><b>GitPython</b>: read-write access via Clone Non-multi Options</a>](https://vigilance.fr/vulnerability/GitPython-read-write-access-via-Clone-Non-multi-Options-42173)|An attacker can bypass access restrictions of GitPython, via Clone Non-multi Options, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Serialized-Session-Payload-42165" class="noirorange"><b>Splunk Enterprise</b>: code execution via Serialized Session Payload</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Serialized-Session-Payload-42165)|An attacker can use a vulnerability of Splunk Enterprise, via Serialized Session Payload, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Editcap-Secret-Injection-44323" class="noirorange"><b>Wireshark</b>: denial of service via Editcap Secret Injection</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Editcap-Secret-Injection-44323)|An attacker can cause a fatal error of Wireshark, via Editcap Secret Injection, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Editcap-Byte-Chopping-44322" class="noirorange"><b>Wireshark</b>: denial of service via Editcap Byte Chopping</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Editcap-Byte-Chopping-44322)|An attacker can cause a fatal error of Wireshark, via Editcap Byte Chopping, in order to trigger a denial of service...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-xc4000-get-frequency-44313" class="noirorange"><b>Linux kernel</b>: denial of service via xc4000_get_<wbr>frequency()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-xc4000-get-frequency-44313)|An attacker can cause a fatal error of the Linux kernel, via xc4000_get_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QPDF-use-after-free-via-Pl-ASCII85Decoder-write-42147" class="noirorange"><b>QPDF</b>: use after free via Pl_ASCII85Decoder::<wbr>write()</wbr></a>](https://vigilance.fr/vulnerability/QPDF-use-after-free-via-Pl-ASCII85Decoder-write-42147)|An attacker can force the reuse of a freed memory area of QPDF, via Pl_ASCII85Decoder::|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Race-Conditions-44308" class="noirorange"><b>Intel Processor</b>: information disclosure via Race Conditions</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Race-Conditions-44308)|An attacker can bypass access restrictions to data of Intel Processor, via Race Conditions, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-MediaStream-42144" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via MediaStream</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-MediaStream-42144)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via MediaStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143" class="noirorange"><b>ArubaOS-Switch</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-Switch-three-vulnerabilities-42143)|An attacker can use several vulnerabilities of ArubaOS-Switch...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142" class="noirorange"><b>Junos OS</b>: denial of service via BGP UPDATE De-peer Message</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-UPDATE-De-peer-Message-42142)|An attacker can cause a fatal error of Junos OS, via BGP UPDATE De-peer Message, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
