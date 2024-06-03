@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/06/2024 09:22:20 UTC
+ > Last Updated 03/06/2024 21:19:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,11 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-03-04-2024-43947" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 03/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-03-04-2024-43947)|An attacker can use several vulnerabilities of the Linux kernel, dated 03/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-logged-sensitive-information-dated-03-04-2024-43943" class="noirorange"><b>IBM Db2</b>: logged sensitive information dated 03/04/2024</a>](https://vigilance.fr/vulnerability/IBM-Db2-logged-sensitive-information-dated-03-04-2024-43943)|An attacker can read logs of IBM Db2, dated 03/04/2024, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/py7zr-directory-traversal-via-SevenZipFile-extractall-43942" class="noirorange"><b>py7zr</b>: directory traversal via SevenZipFile.<wbr>extractall()</wbr></a>](https://vigilance.fr/vulnerability/py7zr-directory-traversal-via-SevenZipFile-extractall-43942)|An attacker can traverse directories of py7zr, via SevenZipFile.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-UDF-Built-in-Function-43941" class="noirorange"><b>IBM Db2</b>: denial of service via UDF Built-in Function</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-UDF-Built-in-Function-43941)|An attacker can cause a fatal error of IBM Db2, via UDF Built-in Function, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-ADMIN-CMD-IMPORT-EXPORT-43940" class="noirorange"><b>IBM Db2</b>: information disclosure via ADMIN_CMD IMPORT EXPORT</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-ADMIN-CMD-IMPORT-EXPORT-43940)|An attacker can bypass access restrictions to data of IBM Db2, via ADMIN_CMD IMPORT EXPORT, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-OpenID-Connect-Authentication-user-access-via-tx-oidc-43939" class="noirorange"><b>TYPO3 OpenID Connect Authentication</b>: user access via tx_oidc</a>](https://vigilance.fr/vulnerability/TYPO3-OpenID-Connect-Authentication-user-access-via-tx-oidc-43939)|An attacker can bypass restrictions of TYPO3 OpenID Connect Authentication, via tx_oidc, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netty-overload-via-HttpPostRequestDecoder-43938" class="noirorange"><b>Netty</b>: overload via HttpPostRequestDecod<wbr>er</wbr></a>](https://vigilance.fr/vulnerability/Netty-overload-via-HttpPostRequestDecoder-43938)|An attacker can trigger an overload of Netty, via HttpPostRequestDecod|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Man-in-the-Middle-via-Outbound-TLS-Connections-43937" class="noirorange"><b>IBM WebSphere Application Server</b>: Man-in-the-Middle via Outbound TLS Connections</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Man-in-the-Middle-via-Outbound-TLS-Connections-43937)|An attacker can act as a Man-in-the-Middle on IBM WebSphere Application Server, via Outbound TLS Connections, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-02-04-2024-43936" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 02/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-02-04-2024-43936)|An attacker can use several vulnerabilities of the Linux kernel, dated 02/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvirt-integer-overflow-via-RPC-Library-API-43934" class="noirorange"><b>libvirt</b>: integer overflow via RPC Library API</a>](https://vigilance.fr/vulnerability/libvirt-integer-overflow-via-RPC-Library-API-43934)|An attacker can trigger an integer overflow of libvirt, via RPC Library API, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0460/)|Une vulnérabilité a été découverte dans les caméras Synology. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 03 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0459/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 31 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0458/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 31 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0457/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données, un déni de service.|Publié le 31 mai 2024|
@@ -60,7 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0453/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 30 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0452/)|De multiples vulnérabilités ont été découvertes dans StormShield SSL VPN Client. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 30 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0451/)|Une vulnérabilité a été découverte dans Mitel MiVoice MX-ONE. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 30 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans Nginx. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 30 mai 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Liberty-overload-via-Request-43955" class="noirorange"><b>IBM WebSphere Application Server Liberty</b>: overload via Request</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Liberty-overload-via-Request-43955)|An attacker can trigger an overload of IBM WebSphere Application Server Liberty, via Request, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-P-Cross-Site-Scripting-dated-03-04-2024-43953" class="noirorange"><b>Cisco Unified Communications Manager IM&amp;P</b>: Cross Site Scripting dated 03/04/2024</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-P-Cross-Site-Scripting-dated-03-04-2024-43953)|An attacker can trigger a Cross Site Scripting of Cisco Unified Communications Manager IM&P, dated 03/04/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-two-vulnerabilities-dated-03-04-2024-43952" class="noirorange"><b>Node.js Core</b>: two vulnerabilities dated 03/04/2024</a>](https://vigilance.fr/vulnerability/Node-js-Core-two-vulnerabilities-dated-03-04-2024-43952)|An attacker can use several vulnerabilities of Node.js Core, dated 03/04/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Axios-information-disclosure-via-HTTP-Header-X-XSRF-TOKEN-43951" class="noirorange"><b>Axios</b>: information disclosure via HTTP Header X-XSRF-TOKEN</a>](https://vigilance.fr/vulnerability/Axios-information-disclosure-via-HTTP-Header-X-XSRF-TOKEN-43951)|An attacker can bypass access restrictions to data of Axios, via HTTP Header X-XSRF-TOKEN, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-03-04-2024-43947" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 03/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-03-04-2024-43947)|An attacker can use several vulnerabilities of the Linux kernel, dated 03/04/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-logged-sensitive-information-dated-03-04-2024-43943" class="noirorange"><b>IBM Db2</b>: logged sensitive information dated 03/04/2024</a>](https://vigilance.fr/vulnerability/IBM-Db2-logged-sensitive-information-dated-03-04-2024-43943)|An attacker can read logs of IBM Db2, dated 03/04/2024, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/py7zr-directory-traversal-via-SevenZipFile-extractall-43942" class="noirorange"><b>py7zr</b>: directory traversal via SevenZipFile.<wbr>extractall()</wbr></a>](https://vigilance.fr/vulnerability/py7zr-directory-traversal-via-SevenZipFile-extractall-43942)|An attacker can traverse directories of py7zr, via SevenZipFile.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-UDF-Built-in-Function-43941" class="noirorange"><b>IBM Db2</b>: denial of service via UDF Built-in Function</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-UDF-Built-in-Function-43941)|An attacker can cause a fatal error of IBM Db2, via UDF Built-in Function, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-ADMIN-CMD-IMPORT-EXPORT-43940" class="noirorange"><b>IBM Db2</b>: information disclosure via ADMIN_CMD IMPORT EXPORT</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-ADMIN-CMD-IMPORT-EXPORT-43940)|An attacker can bypass access restrictions to data of IBM Db2, via ADMIN_CMD IMPORT EXPORT, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-OpenID-Connect-Authentication-user-access-via-tx-oidc-43939" class="noirorange"><b>TYPO3 OpenID Connect Authentication</b>: user access via tx_oidc</a>](https://vigilance.fr/vulnerability/TYPO3-OpenID-Connect-Authentication-user-access-via-tx-oidc-43939)|An attacker can bypass restrictions of TYPO3 OpenID Connect Authentication, via tx_oidc, in order to gain user privileges...|Visit link for details|
  
  ---
 
