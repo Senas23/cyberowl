@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/06/2024 21:19:30 UTC
+ > Last Updated 04/06/2024 09:23:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-four-vulnerabilities-dated-04-04-2024-43956" class="noirorange"><b>X.Org Server</b>: four vulnerabilities dated 04/04/2024</a>](https://vigilance.fr/vulnerability/X-Org-Server-four-vulnerabilities-dated-04-04-2024-43956)|An attacker can use several vulnerabilities of X.Org Server, dated 04/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Liberty-overload-via-Request-43955" class="noirorange"><b>IBM WebSphere Application Server Liberty</b>: overload via Request</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Liberty-overload-via-Request-43955)|An attacker can trigger an overload of IBM WebSphere Application Server Liberty, via Request, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-P-Cross-Site-Scripting-dated-03-04-2024-43953" class="noirorange"><b>Cisco Unified Communications Manager IM&amp;P</b>: Cross Site Scripting dated 03/04/2024</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-P-Cross-Site-Scripting-dated-03-04-2024-43953)|An attacker can trigger a Cross Site Scripting of Cisco Unified Communications Manager IM&P, dated 03/04/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-two-vulnerabilities-dated-03-04-2024-43952" class="noirorange"><b>Node.js Core</b>: two vulnerabilities dated 03/04/2024</a>](https://vigilance.fr/vulnerability/Node-js-Core-two-vulnerabilities-dated-03-04-2024-43952)|An attacker can use several vulnerabilities of Node.js Core, dated 03/04/2024...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/py7zr-directory-traversal-via-SevenZipFile-extractall-43942" class="noirorange"><b>py7zr</b>: directory traversal via SevenZipFile.<wbr>extractall()</wbr></a>](https://vigilance.fr/vulnerability/py7zr-directory-traversal-via-SevenZipFile-extractall-43942)|An attacker can traverse directories of py7zr, via SevenZipFile.|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-UDF-Built-in-Function-43941" class="noirorange"><b>IBM Db2</b>: denial of service via UDF Built-in Function</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-UDF-Built-in-Function-43941)|An attacker can cause a fatal error of IBM Db2, via UDF Built-in Function, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-ADMIN-CMD-IMPORT-EXPORT-43940" class="noirorange"><b>IBM Db2</b>: information disclosure via ADMIN_CMD IMPORT EXPORT</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-ADMIN-CMD-IMPORT-EXPORT-43940)|An attacker can bypass access restrictions to data of IBM Db2, via ADMIN_CMD IMPORT EXPORT, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-OpenID-Connect-Authentication-user-access-via-tx-oidc-43939" class="noirorange"><b>TYPO3 OpenID Connect Authentication</b>: user access via tx_oidc</a>](https://vigilance.fr/vulnerability/TYPO3-OpenID-Connect-Authentication-user-access-via-tx-oidc-43939)|An attacker can bypass restrictions of TYPO3 OpenID Connect Authentication, via tx_oidc, in order to gain user privileges...|Visit link for details|
  
  ---
 
