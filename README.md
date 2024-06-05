@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/06/2024 21:19:44 UTC
+ > Last Updated 05/06/2024 09:23:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-memory-leak-via-Request-Storage-43968" class="noirorange"><b>Undertow</b>: memory leak via Request Storage</a>](https://vigilance.fr/vulnerability/Undertow-memory-leak-via-Request-Storage-43968)|An attacker can create a memory leak of Undertow, via Request Storage, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-information-disclosure-via-Cookie-Smuggling-43967" class="noirorange"><b>Undertow</b>: information disclosure via Cookie Smuggling</a>](https://vigilance.fr/vulnerability/Undertow-information-disclosure-via-Cookie-Smuggling-43967)|An attacker can bypass access restrictions to data of Undertow, via Cookie Smuggling, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Core-Ultra-Processor-denial-of-service-via-Instruction-Sequence-44339" class="noirorange"><b>Intel Core Ultra Processor</b>: denial of service via Instruction Sequence</a>](https://vigilance.fr/vulnerability/Intel-Core-Ultra-Processor-denial-of-service-via-Instruction-Sequence-44339)|An attacker can cause a fatal error of Intel Core Ultra Processor, via Instruction Sequence, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-modules-write-access-via-HTTP-Response-Splitting-43963" class="noirorange"><b>Apache httpd modules</b>: write access via HTTP Response Splitting</a>](https://vigilance.fr/vulnerability/Apache-httpd-modules-write-access-via-HTTP-Response-Splitting-43963)|An attacker can bypass access restrictions of Apache httpd modules, via HTTP Response Splitting, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-write-access-via-HTTP-Response-Splitting-43962" class="noirorange"><b>Apache httpd</b>: write access via HTTP Response Splitting</a>](https://vigilance.fr/vulnerability/Apache-httpd-write-access-via-HTTP-Response-Splitting-43962)|An attacker can bypass access restrictions of Apache httpd, via HTTP Response Splitting, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HPE-MSA-2040-SAN-Storage-privilege-escalation-via-VSS-Provider-CAPI-Proxy-43961" class="noirorange"><b>HPE MSA 2040 SAN Storage</b>: privilege escalation via VSS Provider / CAPI Proxy</a>](https://vigilance.fr/vulnerability/HPE-MSA-2040-SAN-Storage-privilege-escalation-via-VSS-Provider-CAPI-Proxy-43961)|An attacker can bypass restrictions of HPE MSA 2040 SAN Storage, via VSS Provider / CAPI Proxy, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-04-04-2024-43958" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 04/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-04-04-2024-43958)|An attacker can use several vulnerabilities of the Linux kernel, dated 04/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-four-vulnerabilities-dated-04-04-2024-43956" class="noirorange"><b>X.Org Server</b>: four vulnerabilities dated 04/04/2024</a>](https://vigilance.fr/vulnerability/X-Org-Server-four-vulnerabilities-dated-04-04-2024-43956)|An attacker can use several vulnerabilities of X.Org Server, dated 04/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Liberty-overload-via-Request-43955" class="noirorange"><b>IBM WebSphere Application Server Liberty</b>: overload via Request</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Liberty-overload-via-Request-43955)|An attacker can trigger an overload of IBM WebSphere Application Server Liberty, via Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-P-Cross-Site-Scripting-dated-03-04-2024-43953" class="noirorange"><b>Cisco Unified Communications Manager IM&amp;P</b>: Cross Site Scripting dated 03/04/2024</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-P-Cross-Site-Scripting-dated-03-04-2024-43953)|An attacker can trigger a Cross Site Scripting of Cisco Unified Communications Manager IM&P, dated 03/04/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-42183" class="noirorange"><b>Cacti</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-42183)|An attacker can use several vulnerabilities of Cacti...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-40014" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-40014)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/jline-groovy-denial-of-service-via-GroovyEngine-execute-43973" class="noirorange"><b>jline-groovy</b>: denial of service via GroovyEngine.execute</a>](https://vigilance.fr/vulnerability/jline-groovy-denial-of-service-via-GroovyEngine-execute-43973)|An attacker can cause a fatal error of jline-groovy, via GroovyEngine.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-Cross-Site-Scripting-via-Web-Interface-portName-43972" class="noirorange"><b>Brocade Fabric OS</b>: Cross Site Scripting via Web Interface portName</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-Cross-Site-Scripting-via-Web-Interface-portName-43972)|An attacker can trigger a Cross Site Scripting of Brocade Fabric OS, via Web Interface portName, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-04-2024-43971" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 05/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-04-2024-43971)|An attacker can use several vulnerabilities of the Linux kernel, dated 05/04/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/nghttp2-overload-via-HTTP-2-CONTINUATION-43970" class="noirorange"><b>nghttp2</b>: overload via HTTP/2 CONTINUATION</a>](https://vigilance.fr/vulnerability/nghttp2-overload-via-HTTP-2-CONTINUATION-43970)|An attacker can trigger an overload of nghttp2, via HTTP/2 CONTINUATION, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-05-04-2024-43969" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing dated 05/04/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-05-04-2024-43969)|An attacker can create spoofed data on Microsoft Edge Chromium, dated 05/04/2024, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-memory-leak-via-Request-Storage-43968" class="noirorange"><b>Undertow</b>: memory leak via Request Storage</a>](https://vigilance.fr/vulnerability/Undertow-memory-leak-via-Request-Storage-43968)|An attacker can create a memory leak of Undertow, via Request Storage, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-information-disclosure-via-Cookie-Smuggling-43967" class="noirorange"><b>Undertow</b>: information disclosure via Cookie Smuggling</a>](https://vigilance.fr/vulnerability/Undertow-information-disclosure-via-Cookie-Smuggling-43967)|An attacker can bypass access restrictions to data of Undertow, via Cookie Smuggling, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Core-Ultra-Processor-denial-of-service-via-Instruction-Sequence-44339" class="noirorange"><b>Intel Core Ultra Processor</b>: denial of service via Instruction Sequence</a>](https://vigilance.fr/vulnerability/Intel-Core-Ultra-Processor-denial-of-service-via-Instruction-Sequence-44339)|An attacker can cause a fatal error of Intel Core Ultra Processor, via Instruction Sequence, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
