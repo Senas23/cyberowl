@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/06/2024 09:22:53 UTC
+ > Last Updated 06/06/2024 21:20:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,19 +23,10 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0464/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un problème de sécurité non spécifié par l'éditeur.|Publié le 05 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0463/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité.|Publié le 05 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0462/)|Une vulnérabilité a été découverte dans SolarWinds Platform. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 04 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0461/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 04 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0460/)|Une vulnérabilité a été découverte dans les caméras Synology. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 03 juin 2024|
@@ -44,6 +35,22 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0457/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données, un déni de service.|Publié le 31 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0456/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 31 mai 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0455/)|De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 31 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0454/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 31 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0453/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 30 mai 2024|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -51,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-three-vulnerabilities-42206" class="noirorange"><b>ArubaOS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-three-vulnerabilities-42206)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-file-write-dated-22-05-2024-44367" class="noirorange"><b>WithSecure Endpoint Protection</b>: file write dated 22/05/2024</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-file-write-dated-22-05-2024-44367)|An attacker can bypass access restrictions of WithSecure Endpoint Protection, dated 22/05/2024, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-42194" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-42194)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-HTTP-2-CONTINUATION-43977" class="noirorange"><b>Go</b>: denial of service via HTTP/2 CONTINUATION</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-HTTP-2-CONTINUATION-43977)|An attacker can cause a fatal error of Go, via HTTP/2 CONTINUATION, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gradle-file-reading-via-System-Temporary-Directory-43976" class="noirorange"><b>Gradle</b>: file reading via System Temporary Directory</a>](https://vigilance.fr/vulnerability/Gradle-file-reading-via-System-Temporary-Directory-43976)|An attacker can read a file of Gradle, via System Temporary Directory, in order to obtain sensitive information...|Visit link for details|
@@ -59,15 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-42183" class="noirorange"><b>Cacti</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-42183)|An attacker can use several vulnerabilities of Cacti...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-40014" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-40014)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/jline-groovy-denial-of-service-via-GroovyEngine-execute-43973" class="noirorange"><b>jline-groovy</b>: denial of service via GroovyEngine.execute</a>](https://vigilance.fr/vulnerability/jline-groovy-denial-of-service-via-GroovyEngine-execute-43973)|An attacker can cause a fatal error of jline-groovy, via GroovyEngine.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-Cross-Site-Scripting-via-Web-Interface-portName-43972" class="noirorange"><b>Brocade Fabric OS</b>: Cross Site Scripting via Web Interface portName</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-Cross-Site-Scripting-via-Web-Interface-portName-43972)|An attacker can trigger a Cross Site Scripting of Brocade Fabric OS, via Web Interface portName, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-04-2024-43971" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 05/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-04-2024-43971)|An attacker can use several vulnerabilities of the Linux kernel, dated 05/04/2024...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
