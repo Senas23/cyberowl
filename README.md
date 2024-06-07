@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/06/2024 21:20:36 UTC
+ > Last Updated 07/06/2024 09:21:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,20 +23,10 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
+## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0462/)|Une vulnérabilité a été découverte dans SolarWinds Platform. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 04 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0461/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 04 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0460/)|Une vulnérabilité a été découverte dans les caméras Synology. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 03 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0459/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 31 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0458/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 31 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0457/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données, un déni de service.|Publié le 31 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0456/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 31 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0455/)|De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 31 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0454/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 31 mai 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0453/)|Une vulnérabilité a été découverte dans Ivanti Endpoint Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 30 mai 2024|
  
  ---
 
@@ -47,10 +37,20 @@
  
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0466/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité.|Publié le 06 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0465/)|Une vulnérabilité a été découverte dans MongoDB PyMongo. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 06 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0464/)|De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un problème de sécurité non spécifié par l'éditeur.|Publié le 05 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0463/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité.|Publié le 05 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0462/)|Une vulnérabilité a été découverte dans SolarWinds Platform. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 04 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0461/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 04 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0460/)|Une vulnérabilité a été découverte dans les caméras Synology. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 03 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0459/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 31 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0458/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 31 mai 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0457/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données, un déni de service.|Publié le 31 mai 2024|
  
  ---
 
@@ -58,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via Pf Multiple IPv6 Fragment Headers</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215)|An attacker can bypass filtering rules of FreeBSD, via Pf Multiple IPv6 Fragment Headers, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pgAdmin-user-access-via-MFA-Bypass-44376" class="noirorange"><b>pgAdmin</b>: user access via MFA Bypass</a>](https://vigilance.fr/vulnerability/pgAdmin-user-access-via-MFA-Bypass-44376)|An attacker can bypass restrictions of pgAdmin, via MFA Bypass, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ArubaOS-three-vulnerabilities-42206" class="noirorange"><b>ArubaOS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-three-vulnerabilities-42206)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-file-write-dated-22-05-2024-44367" class="noirorange"><b>WithSecure Endpoint Protection</b>: file write dated 22/05/2024</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-file-write-dated-22-05-2024-44367)|An attacker can bypass access restrictions of WithSecure Endpoint Protection, dated 22/05/2024, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-42194" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-42194)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
@@ -66,8 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Gradle-information-disclosure-via-HTTP-Client-Redirect-43975" class="noirorange"><b>Gradle</b>: information disclosure via HTTP Client Redirect</a>](https://vigilance.fr/vulnerability/Gradle-information-disclosure-via-HTTP-Client-Redirect-43975)|An attacker can bypass access restrictions to data of Gradle, via HTTP Client Redirect, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-information-disclosure-dated-05-04-2024-43974" class="noirorange"><b>IBM Security Directory Server</b>: information disclosure dated 05/04/2024</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-information-disclosure-dated-05-04-2024-43974)|An attacker can bypass access restrictions to data of IBM Security Directory Server, dated 05/04/2024, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-42183" class="noirorange"><b>Cacti</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-42183)|An attacker can use several vulnerabilities of Cacti...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-40014" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-40014)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/jline-groovy-denial-of-service-via-GroovyEngine-execute-43973" class="noirorange"><b>jline-groovy</b>: denial of service via GroovyEngine.execute</a>](https://vigilance.fr/vulnerability/jline-groovy-denial-of-service-via-GroovyEngine-execute-43973)|An attacker can cause a fatal error of jline-groovy, via GroovyEngine.|Visit link for details|
  
  ---
 
