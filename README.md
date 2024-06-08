@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/06/2024 09:22:07 UTC
+ > Last Updated 08/06/2024 21:18:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenText-ArcSight-Management-Center-Cross-Site-Scripting-dated-08-04-2024-43986" class="noirorange"><b>OpenText ArcSight Management Center</b>: Cross Site Scripting dated 08/04/2024</a>](https://vigilance.fr/vulnerability/OpenText-ArcSight-Management-Center-Cross-Site-Scripting-dated-08-04-2024-43986)|An attacker can trigger a Cross Site Scripting of OpenText ArcSight Management Center, dated 08/04/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubevirt-vulnerability-dated-08-04-2024-43985" class="noirorange"><b>Kubevirt</b>: vulnerability dated 08/04/2024</a>](https://vigilance.fr/vulnerability/Kubevirt-vulnerability-dated-08-04-2024-43985)|A vulnerability of Kubevirt, dated 08/04/2024, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-memory-leak-via-TLSv1-3-Session-Handling-43984" class="noirorange"><b>OpenSSL</b>: memory leak via TLSv1.3 Session Handling</a>](https://vigilance.fr/vulnerability/OpenSSL-memory-leak-via-TLSv1-3-Session-Handling-43984)|An attacker can create a memory leak of OpenSSL, via TLSv1.3 Session Handling, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ncurses-NULL-pointer-dereference-via-tgetstr-43983" class="noirorange"><b>ncurses</b>: NULL pointer dereference via tgetstr()</a>](https://vigilance.fr/vulnerability/ncurses-NULL-pointer-dereference-via-tgetstr-43983)|An attacker can force a NULL pointer to be dereferenced on ncurses, via tgetstr(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Helm-denial-of-service-via-Uninitialized-Variable-43982" class="noirorange"><b>Helm</b>: denial of service via Uninitialized Variable</a>](https://vigilance.fr/vulnerability/Helm-denial-of-service-via-Uninitialized-Variable-43982)|An attacker can cause a fatal error of Helm, via Uninitialized Variable, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pillow-buffer-overflow-via-imagingcms-c-43981" class="noirorange"><b>Pillow</b>: buffer overflow via _imagingcms.c</a>](https://vigilance.fr/vulnerability/Pillow-buffer-overflow-via-imagingcms-c-43981)|An attacker can trigger a buffer overflow of Pillow, via _imagingcms.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-four-vulnerabilities-dated-08-04-2024-43980" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: four vulnerabilities dated 08/04/2024</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-four-vulnerabilities-dated-08-04-2024-43980)|An attacker can use several vulnerabilities of Bouncy Castle Java Cryptography Extension, dated 08/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-04-2024-43978" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 08/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-04-2024-43978)|An attacker can use several vulnerabilities of the Linux kernel, dated 08/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220" class="noirorange"><b>Apple iOS  macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via Pf Multiple IPv6 Fragment Headers</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215)|An attacker can bypass filtering rules of FreeBSD, via Pf Multiple IPv6 Fragment Headers, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pgAdmin-user-access-via-MFA-Bypass-44376" class="noirorange"><b>pgAdmin</b>: user access via MFA Bypass</a>](https://vigilance.fr/vulnerability/pgAdmin-user-access-via-MFA-Bypass-44376)|An attacker can bypass restrictions of pgAdmin, via MFA Bypass, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-three-vulnerabilities-42206" class="noirorange"><b>ArubaOS</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-three-vulnerabilities-42206)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-file-write-dated-22-05-2024-44367" class="noirorange"><b>WithSecure Endpoint Protection</b>: file write dated 22/05/2024</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-file-write-dated-22-05-2024-44367)|An attacker can bypass access restrictions of WithSecure Endpoint Protection, dated 22/05/2024, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-42194" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-42194)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-HTTP-2-CONTINUATION-43977" class="noirorange"><b>Go</b>: denial of service via HTTP/2 CONTINUATION</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-HTTP-2-CONTINUATION-43977)|An attacker can cause a fatal error of Go, via HTTP/2 CONTINUATION, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gradle-file-reading-via-System-Temporary-Directory-43976" class="noirorange"><b>Gradle</b>: file reading via System Temporary Directory</a>](https://vigilance.fr/vulnerability/Gradle-file-reading-via-System-Temporary-Directory-43976)|An attacker can read a file of Gradle, via System Temporary Directory, in order to obtain sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
