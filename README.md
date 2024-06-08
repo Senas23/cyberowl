@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/06/2024 21:20:52 UTC
+ > Last Updated 08/06/2024 09:22:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,19 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-four-vulnerabilities-dated-08-04-2024-43980" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: four vulnerabilities dated 08/04/2024</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-four-vulnerabilities-dated-08-04-2024-43980)|An attacker can use several vulnerabilities of Bouncy Castle Java Cryptography Extension, dated 08/04/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-04-2024-43978" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 08/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-04-2024-43978)|An attacker can use several vulnerabilities of the Linux kernel, dated 08/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220" class="noirorange"><b>Apple iOS  macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via Pf Multiple IPv6 Fragment Headers</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215)|An attacker can bypass filtering rules of FreeBSD, via Pf Multiple IPv6 Fragment Headers, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pgAdmin-user-access-via-MFA-Bypass-44376" class="noirorange"><b>pgAdmin</b>: user access via MFA Bypass</a>](https://vigilance.fr/vulnerability/pgAdmin-user-access-via-MFA-Bypass-44376)|An attacker can bypass restrictions of pgAdmin, via MFA Bypass, in order to gain user privileges...|Visit link for details|
@@ -59,15 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-42194" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-42194)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-HTTP-2-CONTINUATION-43977" class="noirorange"><b>Go</b>: denial of service via HTTP/2 CONTINUATION</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-HTTP-2-CONTINUATION-43977)|An attacker can cause a fatal error of Go, via HTTP/2 CONTINUATION, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gradle-file-reading-via-System-Temporary-Directory-43976" class="noirorange"><b>Gradle</b>: file reading via System Temporary Directory</a>](https://vigilance.fr/vulnerability/Gradle-file-reading-via-System-Temporary-Directory-43976)|An attacker can read a file of Gradle, via System Temporary Directory, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gradle-information-disclosure-via-HTTP-Client-Redirect-43975" class="noirorange"><b>Gradle</b>: information disclosure via HTTP Client Redirect</a>](https://vigilance.fr/vulnerability/Gradle-information-disclosure-via-HTTP-Client-Redirect-43975)|An attacker can bypass access restrictions to data of Gradle, via HTTP Client Redirect, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-information-disclosure-dated-05-04-2024-43974" class="noirorange"><b>IBM Security Directory Server</b>: information disclosure dated 05/04/2024</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-information-disclosure-dated-05-04-2024-43974)|An attacker can bypass access restrictions to data of IBM Security Directory Server, dated 05/04/2024, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
