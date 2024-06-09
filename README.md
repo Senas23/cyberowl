@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/06/2024 21:18:53 UTC
+ > Last Updated 09/06/2024 09:21:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,18 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Ksmbd-Ipc-Response-Payload-43993" class="noirorange"><b>Linux kernel</b>: buffer overflow via Ksmbd Ipc Response Payload</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Ksmbd-Ipc-Response-Payload-43993)|An attacker can trigger a buffer overflow of the Linux kernel, via Ksmbd Ipc Response Payload, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenText-ArcSight-Management-Center-Cross-Site-Scripting-dated-08-04-2024-43986" class="noirorange"><b>OpenText ArcSight Management Center</b>: Cross Site Scripting dated 08/04/2024</a>](https://vigilance.fr/vulnerability/OpenText-ArcSight-Management-Center-Cross-Site-Scripting-dated-08-04-2024-43986)|An attacker can trigger a Cross Site Scripting of OpenText ArcSight Management Center, dated 08/04/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubevirt-vulnerability-dated-08-04-2024-43985" class="noirorange"><b>Kubevirt</b>: vulnerability dated 08/04/2024</a>](https://vigilance.fr/vulnerability/Kubevirt-vulnerability-dated-08-04-2024-43985)|A vulnerability of Kubevirt, dated 08/04/2024, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-memory-leak-via-TLSv1-3-Session-Handling-43984" class="noirorange"><b>OpenSSL</b>: memory leak via TLSv1.3 Session Handling</a>](https://vigilance.fr/vulnerability/OpenSSL-memory-leak-via-TLSv1-3-Session-Handling-43984)|An attacker can create a memory leak of OpenSSL, via TLSv1.3 Session Handling, in order to trigger a denial of service...|Visit link for details|
@@ -60,14 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-four-vulnerabilities-dated-08-04-2024-43980" class="noirorange"><b>Bouncy Castle Java Cryptography Extension</b>: four vulnerabilities dated 08/04/2024</a>](https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-four-vulnerabilities-dated-08-04-2024-43980)|An attacker can use several vulnerabilities of Bouncy Castle Java Cryptography Extension, dated 08/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-04-2024-43978" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 08/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-04-2024-43978)|An attacker can use several vulnerabilities of the Linux kernel, dated 08/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220" class="noirorange"><b>Apple iOS  macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-42220)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via Pf Multiple IPv6 Fragment Headers</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Multiple-IPv6-Fragment-Headers-42215)|An attacker can bypass filtering rules of FreeBSD, via Pf Multiple IPv6 Fragment Headers, in order to send malicious data...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
