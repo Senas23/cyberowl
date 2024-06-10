@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/06/2024 21:19:13 UTC
+ > Last Updated 10/06/2024 09:22:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,12 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-memory-corruption-via-mem-reentrancy-guard-44020" class="noirorange"><b>QEMU</b>: memory corruption via mem_reentrancy_guard</a>](https://vigilance.fr/vulnerability/QEMU-memory-corruption-via-mem-reentrancy-guard-44020)|An attacker, in a guest system, can trigger a memory corruption of QEMU, via mem_reentrancy_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-Cross-Site-Scripting-via-Avatar-Block-Type-44018" class="noirorange"><b>WordPress Core</b>: Cross Site Scripting via Avatar Block Type</a>](https://vigilance.fr/vulnerability/WordPress-Core-Cross-Site-Scripting-via-Avatar-Block-Type-44018)|An attacker can trigger a Cross Site Scripting of WordPress Core, via Avatar Block Type, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-Server-spoofing-dated-09-04-2024-44015" class="noirorange"><b>Microsoft SharePoint Server</b>: spoofing dated 09/04/2024</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-Server-spoofing-dated-09-04-2024-44015)|An attacker can create spoofed data on Microsoft SharePoint Server, dated 09/04/2024, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-April-2024-44011" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of April 2024</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-April-2024-44011)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-code-execution-dated-09-04-2024-44010" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: code execution dated 09/04/2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-code-execution-dated-09-04-2024-44010)|An attacker can use a vulnerability of Microsoft .NET  Visual Studio, dated 09/04/2024, in order to run code...|Visit link for details|
@@ -66,8 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-CLI-Command-Format-String-44005" class="noirorange"><b>FortiOS</b>: memory corruption via CLI Command Format String</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-CLI-Command-Format-String-44005)|An attacker can trigger a memory corruption of FortiOS, via CLI Command Format String, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Jinja-Template-44003" class="noirorange"><b>FortiManager</b>: privilege escalation via Jinja Template</a>](https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Jinja-Template-44003)|An attacker can bypass restrictions of FortiManager, via Jinja Template, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiClientMac-privilege-escalation-via-Tmp-Configuration-File-44002" class="noirorange"><b>FortiClientMac</b>: privilege escalation via Tmp Configuration File</a>](https://vigilance.fr/vulnerability/FortiClientMac-privilege-escalation-via-Tmp-Configuration-File-44002)|An attacker can bypass restrictions of FortiClientMac, via Tmp Configuration File, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-assertion-error-via-HVM-Hypercalls-43999" class="noirorange"><b>Xen</b>: assertion error via HVM Hypercalls</a>](https://vigilance.fr/vulnerability/Xen-assertion-error-via-HVM-Hypercalls-43999)|An attacker, in a guest system, can force an assertion error of Xen, via HVM Hypercalls, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QNetworkReply-43998" class="noirorange"><b>Qt</b>: denial of service via QNetworkReply</a>](https://vigilance.fr/vulnerability/Qt-denial-of-service-via-QNetworkReply-43998)|An attacker can cause a fatal error of Qt, via QNetworkReply, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
