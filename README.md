@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/06/2024 21:20:06 UTC
+ > Last Updated 11/06/2024 09:23:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,6 +24,13 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,23 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-04-2024-44051" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 11/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-04-2024-44051)|An attacker can use several vulnerabilities of the Linux kernel, dated 11/04/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-NLRI-Zero-Attribute-Length-42234" class="noirorange"><b>FRRouting</b>: denial of service via NLRI Zero Attribute Length</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-NLRI-Zero-Attribute-Length-42234)|An attacker can cause a fatal error of FRRouting, via NLRI Zero Attribute Length, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-Update-Tunnel-Encapsulation-42233" class="noirorange"><b>FRRouting</b>: denial of service via BGP Update Tunnel Encapsulation</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-Update-Tunnel-Encapsulation-42233)|An attacker can cause a fatal error of FRRouting, via BGP Update Tunnel Encapsulation, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Ends-Length-Option-42232" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Ends Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Ends-Length-Option-42232)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Ends Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42231" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Extended Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42231)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Extended Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42230" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Extended Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42230)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Extended Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sngrep-buffer-overflow-via-sip-validate-packet-44050" class="noirorange"><b>sngrep</b>: buffer overflow via sip_validate_packet(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/sngrep-buffer-overflow-via-sip-validate-packet-44050)|An attacker can trigger a buffer overflow of sngrep, via sip_validate_packet(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sngrep-buffer-overflow-via-sip-get-callid-44049" class="noirorange"><b>sngrep</b>: buffer overflow via sip_get_callid()</a>](https://vigilance.fr/vulnerability/sngrep-buffer-overflow-via-sip-get-callid-44049)|An attacker can trigger a buffer overflow of sngrep, via sip_get_callid(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Man-in-the-Middle-dated-11-04-2024-44048" class="noirorange"><b>IBM QRadar SIEM</b>: Man-in-the-Middle dated 11/04/2024</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Man-in-the-Middle-dated-11-04-2024-44048)|An attacker can act as a Man-in-the-Middle on IBM QRadar SIEM, dated 11/04/2024, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-four-vulnerabilities-dated-10-04-2024-44046" class="noirorange"><b>GitLab CE/EE</b>: four vulnerabilities dated 10/04/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-four-vulnerabilities-dated-10-04-2024-44046)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 10/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-spoofing-via-GlobalProtect-SSL-VPN-44043" class="noirorange"><b>PAN-OS</b>: spoofing via GlobalProtect SSL VPN</a>](https://vigilance.fr/vulnerability/PAN-OS-spoofing-via-GlobalProtect-SSL-VPN-44043)|An attacker can create spoofed data on PAN-OS, via GlobalProtect SSL VPN, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Man-in-the-Middle-via-Certificate-Low-Bit-Strength-44042" class="noirorange"><b>PAN-OS</b>: Man-in-the-Middle via Certificate Low Bit Strength</a>](https://vigilance.fr/vulnerability/PAN-OS-Man-in-the-Middle-via-Certificate-Low-Bit-Strength-44042)|An attacker can act as a Man-in-the-Middle on PAN-OS, via Certificate Low Bit Strength, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-weak-encryption-via-Predefined-Decryption-Exclusions-44041" class="noirorange"><b>PAN-OS</b>: weak encryption via Predefined Decryption Exclusions</a>](https://vigilance.fr/vulnerability/PAN-OS-weak-encryption-via-Predefined-Decryption-Exclusions-44041)|An attacker can access data on PAN-OS, via Predefined Decryption Exclusions, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Disabled-GTP-Security-44040" class="noirorange"><b>PAN-OS</b>: denial of service via Disabled GTP Security</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Disabled-GTP-Security-44040)|An attacker can cause a fatal error of PAN-OS, via Disabled GTP Security, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Malformed-NTLM-Packets-44039" class="noirorange"><b>PAN-OS</b>: denial of service via Malformed NTLM Packets</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Malformed-NTLM-Packets-44039)|An attacker can cause a fatal error of PAN-OS, via Malformed NTLM Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-ingress-filtrering-bypass-via-CIE-Group-Membership-Change-44038" class="noirorange"><b>PAN-OS</b>: ingress filtrering bypass via CIE Group Membership Change</a>](https://vigilance.fr/vulnerability/PAN-OS-ingress-filtrering-bypass-via-CIE-Group-Membership-Change-44038)|An attacker can bypass filtering rules of PAN-OS, via CIE Group Membership Change, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Red-Hat-write-access-via-Red-Hat-Runtime-Configuration-44032" class="noirorange"><b>Red Hat</b>: write access via Red Hat Runtime Configuration</a>](https://vigilance.fr/vulnerability/Red-Hat-write-access-via-Red-Hat-Runtime-Configuration-44032)|An attacker can bypass access restrictions of Red Hat, via Red Hat Runtime Configuration, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-memory-corruption-via-mem-reentrancy-guard-44020" class="noirorange"><b>QEMU</b>: memory corruption via mem_reentrancy_guard</a>](https://vigilance.fr/vulnerability/QEMU-memory-corruption-via-mem-reentrancy-guard-44020)|An attacker, in a guest system, can trigger a memory corruption of QEMU, via mem_reentrancy_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-Cross-Site-Scripting-via-Avatar-Block-Type-44018" class="noirorange"><b>WordPress Core</b>: Cross Site Scripting via Avatar Block Type</a>](https://vigilance.fr/vulnerability/WordPress-Core-Cross-Site-Scripting-via-Avatar-Block-Type-44018)|An attacker can trigger a Cross Site Scripting of WordPress Core, via Avatar Block Type, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
