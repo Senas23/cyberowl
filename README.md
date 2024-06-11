@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/06/2024 09:23:56 UTC
+ > Last Updated 11/06/2024 21:19:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,13 +24,6 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -58,16 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-overload-via-mb-encode-mimeheader-44057" class="noirorange"><b>PHP</b>: overload via mb_encode_<wbr>mimeheader()</wbr></a>](https://vigilance.fr/vulnerability/PHP-overload-via-mb-encode-mimeheader-44057)|An attacker can trigger an overload of PHP, via mb_encode_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: use after free</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-42242)|An attacker can force the reuse of a freed memory area of WebKitGTK  WPE WebKit, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-user-access-via-password-verify-44056" class="noirorange"><b>PHP</b>: user access via password_verify()</a>](https://vigilance.fr/vulnerability/PHP-user-access-via-password-verify-44056)|An attacker can bypass restrictions of PHP, via password_verify(), in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-information-disclosure-via-Host-Secure-Cookie-Bypass-44055" class="noirorange"><b>PHP</b>: information disclosure via Host / Secure Cookie Bypass</a>](https://vigilance.fr/vulnerability/PHP-information-disclosure-via-Host-Secure-Cookie-Bypass-44055)|An attacker can bypass access restrictions to data of PHP, via Host / Secure Cookie Bypass, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-code-execution-via-Command-Parameter-Proc-open-44054" class="noirorange"><b>PHP</b>: code execution via Command Parameter Proc_open()</a>](https://vigilance.fr/vulnerability/PHP-code-execution-via-Command-Parameter-Proc-open-44054)|An attacker can use a vulnerability of PHP, via Command Parameter Proc_open(), in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-04-2024-44051" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 11/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-04-2024-44051)|An attacker can use several vulnerabilities of the Linux kernel, dated 11/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-NLRI-Zero-Attribute-Length-42234" class="noirorange"><b>FRRouting</b>: denial of service via NLRI Zero Attribute Length</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-NLRI-Zero-Attribute-Length-42234)|An attacker can cause a fatal error of FRRouting, via NLRI Zero Attribute Length, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-Update-Tunnel-Encapsulation-42233" class="noirorange"><b>FRRouting</b>: denial of service via BGP Update Tunnel Encapsulation</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-Update-Tunnel-Encapsulation-42233)|An attacker can cause a fatal error of FRRouting, via BGP Update Tunnel Encapsulation, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Ends-Length-Option-42232" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Ends Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Ends-Length-Option-42232)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Ends Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42231" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Extended Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42231)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Extended Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42230" class="noirorange"><b>FRRouting</b>: out-of-bounds memory reading via BGP OPEN Message Extended Length Option</a>](https://vigilance.fr/vulnerability/FRRouting-out-of-bounds-memory-reading-via-BGP-OPEN-Message-Extended-Length-Option-42230)|An attacker can force a read at an invalid memory address of FRRouting, via BGP OPEN Message Extended Length Option, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sngrep-buffer-overflow-via-sip-validate-packet-44050" class="noirorange"><b>sngrep</b>: buffer overflow via sip_validate_packet(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/sngrep-buffer-overflow-via-sip-validate-packet-44050)|An attacker can trigger a buffer overflow of sngrep, via sip_validate_packet(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sngrep-buffer-overflow-via-sip-get-callid-44049" class="noirorange"><b>sngrep</b>: buffer overflow via sip_get_callid()</a>](https://vigilance.fr/vulnerability/sngrep-buffer-overflow-via-sip-get-callid-44049)|An attacker can trigger a buffer overflow of sngrep, via sip_get_callid(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Man-in-the-Middle-dated-11-04-2024-44048" class="noirorange"><b>IBM QRadar SIEM</b>: Man-in-the-Middle dated 11/04/2024</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Man-in-the-Middle-dated-11-04-2024-44048)|An attacker can act as a Man-in-the-Middle on IBM QRadar SIEM, dated 11/04/2024, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-four-vulnerabilities-dated-10-04-2024-44046" class="noirorange"><b>GitLab CE/EE</b>: four vulnerabilities dated 10/04/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-four-vulnerabilities-dated-10-04-2024-44046)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 10/04/2024...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
