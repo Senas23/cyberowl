@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/06/2024 21:20:18 UTC
+ > Last Updated 13/06/2024 09:22:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0478/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 11 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0477/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 11 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 11 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0474/)|Une vulnérabilité a été découverte dans Veeam Recovery Orchestrator. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 11 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0473/)|Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 10 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 07 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0471/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 07 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0470/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 07 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0469/)|Une vulnérabilité a été découverte dans les produits Elastic. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 07 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0489/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0488/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 12 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0487/)|De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une élévation de privilèges et un déni de service.|Publié le 12 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0486/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0485/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0484/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 12 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0483/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 12 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0482/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 12 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0481/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 12 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0480/)|Une vulnérabilité a été découverte dans les produits Citrix. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 12 juin 2024|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42267" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42267)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-sslvpnd-40074" class="noirorange"><b>Fortinet FortiOS</b>: buffer overflow via sslvpnd</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-sslvpnd-40074)|An attacker can trigger a buffer overflow of Fortinet FortiOS, via sslvpnd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-spoofing-via-Address-Bar-44064" class="noirorange"><b>WebKitGTK</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-spoofing-via-Address-Bar-44064)|An attacker can create spoofed data on WebKitGTK, via Address Bar, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TeamViewer-Remote-Full-Host-privilege-escalation-dated-28-05-2024-44406" class="noirorange"><b>TeamViewer Remote Full &amp; Host</b>: privilege escalation dated 28/05/2024</a>](https://vigilance.fr/vulnerability/TeamViewer-Remote-Full-Host-privilege-escalation-dated-28-05-2024-44406)|An attacker can bypass restrictions of TeamViewer Remote Full & Host, dated 28/05/2024, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-September-2023-42256" class="noirorange"><b>SAP</b>: multiple vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-September-2023-42256)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-WinCC-buffer-overflow-via-CodeMeter-Runtime-42254" class="noirorange"><b>SIMATIC  WinCC</b>: buffer overflow via CodeMeter Runtime</a>](https://vigilance.fr/vulnerability/SIMATIC-WinCC-buffer-overflow-via-CodeMeter-Runtime-42254)|An attacker can trigger a buffer overflow of SIMATIC  WinCC, via CodeMeter Runtime, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
