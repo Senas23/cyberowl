@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/06/2024 21:21:08 UTC
+ > Last Updated 15/06/2024 09:19:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-n-gsm-44071" class="noirorange"><b>Linux kernel</b>: privilege escalation via n_gsm</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-n-gsm-44071)|An attacker can bypass restrictions of the Linux kernel, via n_gsm, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libopenmpt-buffer-overflow-via-SymMOD-File-Sustain-Loops-44070" class="noirorange"><b>libopenmpt</b>: buffer overflow via SymMOD File Sustain Loops</a>](https://vigilance.fr/vulnerability/libopenmpt-buffer-overflow-via-SymMOD-File-Sustain-Loops-44070)|An attacker can trigger a buffer overflow of libopenmpt, via SymMOD File Sustain Loops, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kfd-ioctl-get-process-apertures-new-44068" class="noirorange"><b>Linux kernel</b>: integer overflow via kfd_ioctl_get_<wbr>process_apertures_<wbr>new()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kfd-ioctl-get-process-apertures-new-44068)|An attacker can trigger an integer overflow of the Linux kernel, via kfd_ioctl_get_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-ares-parse-soa-reply-42305" class="noirorange"><b>c-ares</b>: buffer overflow via ares_parse_soa_<wbr>reply()</wbr></a>](https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-ares-parse-soa-reply-42305)|An attacker can trigger a buffer overflow of c-ares, via ares_parse_soa_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/less-code-execution-via-LESSOPEN-Backslash-44067" class="noirorange"><b>less</b>: code execution via LESSOPEN Backslash</a>](https://vigilance.fr/vulnerability/less-code-execution-via-LESSOPEN-Backslash-44067)|An attacker can use a vulnerability of less, via LESSOPEN Backslash, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OAuth-OpenID-Connect-42299" class="noirorange"><b>Apereo CAS Server</b>: user access via OAuth/OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OAuth-OpenID-Connect-42299)|An attacker can bypass restrictions of Apereo CAS Server, via OAuth/OpenID Connect, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Image-Sizes-information-disclosure-via-Rendered-Images-44420" class="noirorange"><b>Drupal Image Sizes</b>: information disclosure via Rendered Images</a>](https://vigilance.fr/vulnerability/Drupal-Image-Sizes-information-disclosure-via-Rendered-Images-44420)|An attacker can bypass access restrictions to data of Drupal Image Sizes, via Rendered Images, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-December-2022-40104" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of December 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-December-2022-40104)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42267" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42267)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-sslvpnd-40074" class="noirorange"><b>Fortinet FortiOS</b>: buffer overflow via sslvpnd</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-sslvpnd-40074)|An attacker can trigger a buffer overflow of Fortinet FortiOS, via sslvpnd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2023-42262)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-September-2023-42261)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-September-2023-42259" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-September-2023-42259)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-PowerShell-vulnerabilities-of-September-2023-42258" class="noirorange"><b>Microsoft .NET  Visual Studio  PowerShell</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-PowerShell-vulnerabilities-of-September-2023-42258)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-buffer-overflow-42257" class="noirorange"><b>Adobe Acrobat/Reader</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-buffer-overflow-42257)|An attacker can trigger a buffer overflow of Adobe Acrobat/Reader, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-spoofing-via-Address-Bar-44064" class="noirorange"><b>WebKitGTK</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-spoofing-via-Address-Bar-44064)|An attacker can create spoofed data on WebKitGTK, via Address Bar, in order to deceive the victim...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
