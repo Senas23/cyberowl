@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/06/2024 09:22:41 UTC
+ > Last Updated 16/06/2024 21:22:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,20 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-AS-AS-Liberty-Server-Side-Request-Forgery-dated-16-04-2024-44079" class="noirorange"><b>IBM WebSphere AS  AS Liberty</b>: Server-Side Request Forgery dated 16/04/2024</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-AS-AS-Liberty-Server-Side-Request-Forgery-dated-16-04-2024-44079)|An attacker can trigger a Server-Side Request Forgery of IBM WebSphere AS  AS Liberty, dated 16/04/2024, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bibliotheques-Go-five-vulnerabilities-dated-16-04-2024-44077" class="noirorange"><b>Bibliothèques Go</b>: five vulnerabilities dated 16/04/2024</a>](https://vigilance.fr/vulnerability/Bibliotheques-Go-five-vulnerabilities-dated-16-04-2024-44077)|An attacker can use several vulnerabilities of Bibliothèques Go, dated 16/04/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-file-deletion-via-agent-44075" class="noirorange"><b>Veritas NetBackup</b>: file deletion via agent</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-file-deletion-via-agent-44075)|An attacker can bypass access restrictions of Veritas NetBackup, via agent, in order to delete a file...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-n-gsm-44071" class="noirorange"><b>Linux kernel</b>: privilege escalation via n_gsm</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-n-gsm-44071)|An attacker can bypass restrictions of the Linux kernel, via n_gsm, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libopenmpt-buffer-overflow-via-SymMOD-File-Sustain-Loops-44070" class="noirorange"><b>libopenmpt</b>: buffer overflow via SymMOD File Sustain Loops</a>](https://vigilance.fr/vulnerability/libopenmpt-buffer-overflow-via-SymMOD-File-Sustain-Loops-44070)|An attacker can trigger a buffer overflow of libopenmpt, via SymMOD File Sustain Loops, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kfd-ioctl-get-process-apertures-new-44068" class="noirorange"><b>Linux kernel</b>: integer overflow via kfd_ioctl_get_<wbr>process_apertures_<wbr>new()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kfd-ioctl-get-process-apertures-new-44068)|An attacker can trigger an integer overflow of the Linux kernel, via kfd_ioctl_get_|Visit link for details|
@@ -58,16 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/less-code-execution-via-LESSOPEN-Backslash-44067" class="noirorange"><b>less</b>: code execution via LESSOPEN Backslash</a>](https://vigilance.fr/vulnerability/less-code-execution-via-LESSOPEN-Backslash-44067)|An attacker can use a vulnerability of less, via LESSOPEN Backslash, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OAuth-OpenID-Connect-42299" class="noirorange"><b>Apereo CAS Server</b>: user access via OAuth/OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OAuth-OpenID-Connect-42299)|An attacker can bypass restrictions of Apereo CAS Server, via OAuth/OpenID Connect, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Image-Sizes-information-disclosure-via-Rendered-Images-44420" class="noirorange"><b>Drupal Image Sizes</b>: information disclosure via Rendered Images</a>](https://vigilance.fr/vulnerability/Drupal-Image-Sizes-information-disclosure-via-Rendered-Images-44420)|An attacker can bypass access restrictions to data of Drupal Image Sizes, via Rendered Images, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-December-2022-40104" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of December 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-December-2022-40104)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42267" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42267)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-sslvpnd-40074" class="noirorange"><b>Fortinet FortiOS</b>: buffer overflow via sslvpnd</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-sslvpnd-40074)|An attacker can trigger a buffer overflow of Fortinet FortiOS, via sslvpnd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
