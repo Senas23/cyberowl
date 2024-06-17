@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/06/2024 21:22:22 UTC
+ > Last Updated 17/06/2024 09:23:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,13 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-AS-WebSphere-AS-Liberty-external-XML-entity-injection-dated-17-04-2024-44083" class="noirorange"><b>IBM WebSphere AS  WebSphere AS Liberty</b>: external XML entity injection dated 17/04/2024</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-AS-WebSphere-AS-Liberty-external-XML-entity-injection-dated-17-04-2024-44083)|An attacker can transmit malicious XML data to IBM WebSphere AS  WebSphere AS Liberty, dated 17/04/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/yyjson-double-free-dated-17-04-2024-44082" class="noirorange"><b>yyjson</b>: double free dated 17/04/2024</a>](https://vigilance.fr/vulnerability/yyjson-double-free-dated-17-04-2024-44082)|An attacker can force a double memory free of yyjson, dated 17/04/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CBOR2-buffer-overflow-dated-17-04-2024-44081" class="noirorange"><b>CBOR2</b>: buffer overflow dated 17/04/2024</a>](https://vigilance.fr/vulnerability/CBOR2-buffer-overflow-dated-17-04-2024-44081)|An attacker can trigger a buffer overflow of CBOR2, dated 17/04/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-AS-AS-Liberty-Server-Side-Request-Forgery-dated-16-04-2024-44079" class="noirorange"><b>IBM WebSphere AS  AS Liberty</b>: Server-Side Request Forgery dated 16/04/2024</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-AS-AS-Liberty-Server-Side-Request-Forgery-dated-16-04-2024-44079)|An attacker can trigger a Server-Side Request Forgery of IBM WebSphere AS  AS Liberty, dated 16/04/2024, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Bibliotheques-Go-five-vulnerabilities-dated-16-04-2024-44077" class="noirorange"><b>Bibliothèques Go</b>: five vulnerabilities dated 16/04/2024</a>](https://vigilance.fr/vulnerability/Bibliotheques-Go-five-vulnerabilities-dated-16-04-2024-44077)|An attacker can use several vulnerabilities of Bibliothèques Go, dated 16/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-file-deletion-via-agent-44075" class="noirorange"><b>Veritas NetBackup</b>: file deletion via agent</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-file-deletion-via-agent-44075)|An attacker can bypass access restrictions of Veritas NetBackup, via agent, in order to delete a file...|Visit link for details|
@@ -65,9 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/libopenmpt-buffer-overflow-via-SymMOD-File-Sustain-Loops-44070" class="noirorange"><b>libopenmpt</b>: buffer overflow via SymMOD File Sustain Loops</a>](https://vigilance.fr/vulnerability/libopenmpt-buffer-overflow-via-SymMOD-File-Sustain-Loops-44070)|An attacker can trigger a buffer overflow of libopenmpt, via SymMOD File Sustain Loops, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kfd-ioctl-get-process-apertures-new-44068" class="noirorange"><b>Linux kernel</b>: integer overflow via kfd_ioctl_get_<wbr>process_apertures_<wbr>new()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-kfd-ioctl-get-process-apertures-new-44068)|An attacker can trigger an integer overflow of the Linux kernel, via kfd_ioctl_get_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-ares-parse-soa-reply-42305" class="noirorange"><b>c-ares</b>: buffer overflow via ares_parse_soa_<wbr>reply()</wbr></a>](https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-ares-parse-soa-reply-42305)|An attacker can trigger a buffer overflow of c-ares, via ares_parse_soa_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/less-code-execution-via-LESSOPEN-Backslash-44067" class="noirorange"><b>less</b>: code execution via LESSOPEN Backslash</a>](https://vigilance.fr/vulnerability/less-code-execution-via-LESSOPEN-Backslash-44067)|An attacker can use a vulnerability of less, via LESSOPEN Backslash, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OAuth-OpenID-Connect-42299" class="noirorange"><b>Apereo CAS Server</b>: user access via OAuth/OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OAuth-OpenID-Connect-42299)|An attacker can bypass restrictions of Apereo CAS Server, via OAuth/OpenID Connect, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Image-Sizes-information-disclosure-via-Rendered-Images-44420" class="noirorange"><b>Drupal Image Sizes</b>: information disclosure via Rendered Images</a>](https://vigilance.fr/vulnerability/Drupal-Image-Sizes-information-disclosure-via-Rendered-Images-44420)|An attacker can bypass access restrictions to data of Drupal Image Sizes, via Rendered Images, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
