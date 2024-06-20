@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/06/2024 09:23:17 UTC
+ > Last Updated 20/06/2024 21:21:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0509/)|De multiples vulnérabilités ont été découvertes dans les produits Sonicwall. Elles permettent à un attaquant de provoquer un déni de service à distance|Publié le 20 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0508/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 20 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0507/)|Une vulnérabilités a été découverte dans Spring Cloud Function. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0506/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 19 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0505/)|De multiples vulnérabilités ont été découvertes dans les produits Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 19 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0504/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 juin 2024|
@@ -41,9 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0502/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0501/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 17 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0500/)|De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0499/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 17 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 14 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0497/)|De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 14 juin 2024|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358" class="noirorange"><b>Drupal Core</b>: user access via Cache Poisoning</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358)|An attacker can bypass restrictions of Drupal Core, via Cache Poisoning, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-DNS-over-TLS-Query-Load-42339" class="noirorange"><b>ISC BIND</b>: denial of service via DNS-over-TLS Query Load</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-DNS-over-TLS-Query-Load-42339)|An attacker can cause a fatal error of ISC BIND, via DNS-over-TLS Query Load, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Rcv-Software-Version-Length-42334" class="noirorange"><b>FRRouting</b>: buffer overflow via Rcv Software Version Length</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Rcv-Software-Version-Length-42334)|An attacker can trigger a buffer overflow of FRRouting, via Rcv Software Version Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Flatpak-code-execution-via-Bwrap-44113" class="noirorange"><b>Flatpak</b>: code execution via Bwrap</a>](https://vigilance.fr/vulnerability/Flatpak-code-execution-via-Bwrap-44113)|An attacker can use a vulnerability of Flatpak, via Bwrap, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-19-04-2024-44112" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities dated 19/04/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-19-04-2024-44112)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 19/04/2024...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/System-Security-Services-Daemon-privilege-escalation-via-GPO-44108" class="noirorange"><b>System Security Services Daemon</b>: privilege escalation via GPO</a>](https://vigilance.fr/vulnerability/System-Security-Services-Daemon-privilege-escalation-via-GPO-44108)|An attacker can bypass restrictions of System Security Services Daemon, via GPO, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-inet-defrag-44105" class="noirorange"><b>Linux kernel</b>: use after free via inet_defrag()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-inet-defrag-44105)|An attacker can force the reuse of a freed memory area of the Linux kernel, via inet_defrag(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-April-2024-44102" class="noirorange"><b>Oracle Database</b>: vulnerabilities of April 2024</a>](https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-April-2024-44102)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-directory-traversal-dated-18-04-2024-44098" class="noirorange"><b>Keycloak</b>: directory traversal dated 18/04/2024</a>](https://vigilance.fr/vulnerability/Keycloak-directory-traversal-dated-18-04-2024-44098)|An attacker can traverse directories of Keycloak, dated 18/04/2024, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-SAML-44097" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via SAML</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-SAML-44097)|An attacker can trigger a Cross Site Scripting of Keycloak, via SAML, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
