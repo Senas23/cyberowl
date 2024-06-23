@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/06/2024 21:19:34 UTC
+ > Last Updated 23/06/2024 09:22:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-dated-23-04-2024-44126" class="noirorange"><b>FreeRDP</b>: five vulnerabilities dated 23/04/2024</a>](https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-dated-23-04-2024-44126)|An attacker can use several vulnerabilities of FreeRDP, dated 23/04/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-idna-overload-via-idna-encode-44125" class="noirorange"><b>Python idna</b>: overload via idna.encode()</a>](https://vigilance.fr/vulnerability/Python-idna-overload-via-idna-encode-44125)|An attacker can trigger an overload of Python idna, via idna.encode(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/jose-4-j-overload-via-Large-PBES2-Count-44123" class="noirorange"><b>jose.4.j</b>: overload via Large PBES2 Count</a>](https://vigilance.fr/vulnerability/jose-4-j-overload-via-Large-PBES2-Count-44123)|An attacker can trigger an overload of jose.4.j, via Large PBES2 Count, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373" class="noirorange"><b>lldpd</b>: out-of-bounds memory reading via CDP_TLV_ADDRESSES</a>](https://vigilance.fr/vulnerability/lldpd-out-of-bounds-memory-reading-via-CDP-TLV-ADDRESSES-42373)|An attacker can force a read at an invalid memory address of lldpd, via CDP_TLV_ADDRESSES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-overload-via-HTTP-Requests-42371" class="noirorange"><b>Elasticsearch</b>: overload via HTTP Requests</a>](https://vigilance.fr/vulnerability/Elasticsearch-overload-via-HTTP-Requests-42371)|An attacker can trigger an overload of Elasticsearch, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Index-Template-Passthrough-44460" class="noirorange"><b>Elasticsearch</b>: denial of service via Index Template Passthrough</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-Index-Template-Passthrough-44460)|An attacker can cause a fatal error of Elasticsearch, via Index Template Passthrough, in order to trigger a denial of service...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-information-disclosure-via-24-0010-44120" class="noirorange"><b>Mitel 6800/6900 Series Phones</b>: information disclosure via 24-0010</a>](https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-information-disclosure-via-24-0010-44120)|An attacker can bypass access restrictions to data of Mitel 6800/6900 Series Phones, via 24-0010, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-write-access-via-24-0007-44117" class="noirorange"><b>Mitel 6800/6900 Series Phones</b>: write access via 24-0007</a>](https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-write-access-via-24-0007-44117)|An attacker can bypass access restrictions of Mitel 6800/6900 Series Phones, via 24-0007, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-buffer-overflow-via-24-0006-44116" class="noirorange"><b>Mitel 6800/6900 Series Phones</b>: buffer overflow via 24-0006</a>](https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-buffer-overflow-via-24-0006-44116)|An attacker can trigger a buffer overflow of Mitel 6800/6900 Series Phones, via 24-0006, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42364" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42364)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358" class="noirorange"><b>Drupal Core</b>: user access via Cache Poisoning</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-Cache-Poisoning-42358)|An attacker can bypass restrictions of Drupal Core, via Cache Poisoning, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-DNS-over-TLS-Query-Load-42339" class="noirorange"><b>ISC BIND</b>: denial of service via DNS-over-TLS Query Load</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-DNS-over-TLS-Query-Load-42339)|An attacker can cause a fatal error of ISC BIND, via DNS-over-TLS Query Load, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
