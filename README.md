@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/06/2024 21:18:05 UTC
+ > Last Updated 24/06/2024 09:23:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Sanitize-Cross-Site-Scripting-via-Custom-Allowlist-Noscript-44135" class="noirorange"><b>Sanitize</b>: Cross Site Scripting via Custom Allowlist Noscript</a>](https://vigilance.fr/vulnerability/Sanitize-Cross-Site-Scripting-via-Custom-Allowlist-Noscript-44135)|An attacker can trigger a Cross Site Scripting of Sanitize, via Custom Allowlist Noscript, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-amdgpu-vm-bo-44134" class="noirorange"><b>Linux kernel</b>: memory corruption via amdgpu_vm_bo</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-amdgpu-vm-bo-44134)|An attacker can trigger a memory corruption of the Linux kernel, via amdgpu_vm_bo, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-Jquery-treegrid-Unit-Testing-44133" class="noirorange"><b>pfSense</b>: Cross Site Scripting via Jquery-treegrid Unit Testing</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-Jquery-treegrid-Unit-Testing-44133)|An attacker can trigger a Cross Site Scripting of pfSense, via Jquery-treegrid Unit Testing, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-PHP-Error-Display-Formatting-44132" class="noirorange"><b>pfSense</b>: Cross Site Scripting via PHP Error Display Formatting</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-PHP-Error-Display-Formatting-44132)|An attacker can trigger a Cross Site Scripting of pfSense, via PHP Error Display Formatting, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-services-acb-settings-php-44131" class="noirorange"><b>pfSense</b>: Cross Site Scripting via services_acb_<wbr>settings.php</wbr></a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-services-acb-settings-php-44131)|An attacker can trigger a Cross Site Scripting of pfSense, via services_acb_|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Jasper-assertion-error-via-jpc-streamlist-remove-44128" class="noirorange"><b>Jasper</b>: assertion error via jpc_streamlist_<wbr>remove()</wbr></a>](https://vigilance.fr/vulnerability/Jasper-assertion-error-via-jpc-streamlist-remove-44128)|An attacker can force an assertion error of Jasper, via jpc_streamlist_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-Lang-out-of-bounds-memory-reading-via-Regex-Search-44127" class="noirorange"><b>Ruby Lang</b>: out-of-bounds memory reading via Regex Search</a>](https://vigilance.fr/vulnerability/Ruby-Lang-out-of-bounds-memory-reading-via-Regex-Search-44127)|An attacker can force a read at an invalid memory address of Ruby Lang, via Regex Search, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-dated-23-04-2024-44126" class="noirorange"><b>FreeRDP</b>: five vulnerabilities dated 23/04/2024</a>](https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-dated-23-04-2024-44126)|An attacker can use several vulnerabilities of FreeRDP, dated 23/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-idna-overload-via-idna-encode-44125" class="noirorange"><b>Python idna</b>: overload via idna.encode()</a>](https://vigilance.fr/vulnerability/Python-idna-overload-via-idna-encode-44125)|An attacker can trigger an overload of Python idna, via idna.encode(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/jose-4-j-overload-via-Large-PBES2-Count-44123" class="noirorange"><b>jose.4.j</b>: overload via Large PBES2 Count</a>](https://vigilance.fr/vulnerability/jose-4-j-overload-via-Large-PBES2-Count-44123)|An attacker can trigger an overload of jose.4.j, via Large PBES2 Count, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
