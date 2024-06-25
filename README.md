@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/06/2024 21:19:37 UTC
+ > Last Updated 25/06/2024 09:22:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,6 +24,13 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-read-write-access-dated-25-04-2024-44147" class="noirorange"><b>Brocade Fabric OS</b>: read-write access dated 25/04/2024</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-read-write-access-dated-25-04-2024-44147)|An attacker can bypass access restrictions of Brocade Fabric OS, dated 25/04/2024, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-04-2024-44146" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 25/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-04-2024-44146)|An attacker can use several vulnerabilities of the Linux kernel, dated 25/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-AS-denial-of-service-via-Request-44145" class="noirorange"><b>IBM WebSphere AS</b>: denial of service via Request</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-AS-denial-of-service-via-Request-44145)|An attacker can cause a fatal error of IBM WebSphere AS, via Request, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-REST-Views-information-disclosure-via-REST-Display-44143" class="noirorange"><b>Drupal REST Views</b>: information disclosure via REST Display</a>](https://vigilance.fr/vulnerability/Drupal-REST-Views-information-disclosure-via-REST-Display-44143)|An attacker can bypass access restrictions to data of Drupal REST Views, via REST Display, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Advanced-PWA-read-write-access-via-Module-Settings-44142" class="noirorange"><b>Drupal Advanced PWA</b>: read-write access via Module Settings</a>](https://vigilance.fr/vulnerability/Drupal-Advanced-PWA-read-write-access-via-Module-Settings-44142)|An attacker can bypass access restrictions of Drupal Advanced PWA, via Module Settings, in order to read or alter data...|Visit link for details|
@@ -59,15 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Sanitize-Cross-Site-Scripting-via-Custom-Allowlist-Noscript-44135" class="noirorange"><b>Sanitize</b>: Cross Site Scripting via Custom Allowlist Noscript</a>](https://vigilance.fr/vulnerability/Sanitize-Cross-Site-Scripting-via-Custom-Allowlist-Noscript-44135)|An attacker can trigger a Cross Site Scripting of Sanitize, via Custom Allowlist Noscript, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-amdgpu-vm-bo-44134" class="noirorange"><b>Linux kernel</b>: memory corruption via amdgpu_vm_bo</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-amdgpu-vm-bo-44134)|An attacker can trigger a memory corruption of the Linux kernel, via amdgpu_vm_bo, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-Jquery-treegrid-Unit-Testing-44133" class="noirorange"><b>pfSense</b>: Cross Site Scripting via Jquery-treegrid Unit Testing</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-Jquery-treegrid-Unit-Testing-44133)|An attacker can trigger a Cross Site Scripting of pfSense, via Jquery-treegrid Unit Testing, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-PHP-Error-Display-Formatting-44132" class="noirorange"><b>pfSense</b>: Cross Site Scripting via PHP Error Display Formatting</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-PHP-Error-Display-Formatting-44132)|An attacker can trigger a Cross Site Scripting of pfSense, via PHP Error Display Formatting, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-services-acb-settings-php-44131" class="noirorange"><b>pfSense</b>: Cross Site Scripting via services_acb_<wbr>settings.php</wbr></a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-services-acb-settings-php-44131)|An attacker can trigger a Cross Site Scripting of pfSense, via services_acb_|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
