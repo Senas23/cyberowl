@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/06/2024 09:22:12 UTC
+ > Last Updated 25/06/2024 21:19:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[ Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0518/)|Une vulnérabilité a été découverte dans Libreoffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité|Publié le 25 juin 2024|
+ |[ Vulnérabilité dans Citrix Secure Access client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0517/)|Une vulnérabilité a été découverte dans Citrix Secure Access client. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 25 juin 2024|
+ |[ Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 25 juin 2024|
+ |[ Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 juin 2024|
  |[ Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 21 juin 2024|
  |[ Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 21 juin 2024|
  |[ Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 juin 2024|
  |[ Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0511/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 21 juin 2024|
  |[ Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0510/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 21 juin 2024|
  |[ Multiples vulnérabilités dans SonicWall SonicOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0509/)|De multiples vulnérabilités ont été découvertes dans les produits Sonicwall. Elles permettent à un attaquant de provoquer un déni de service à distance|Publié le 20 juin 2024|
- |[ Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0508/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 20 juin 2024|
- |[ Vulnérabilité dans Spring Cloud Function](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0507/)|Une vulnérabilités a été découverte dans Spring Cloud Function. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 juin 2024|
- |[ Multiples vulnérabilités dans Juniper Secure Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0506/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 19 juin 2024|
- |[ Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0505/)|De multiples vulnérabilités ont été découvertes dans les produits Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 19 juin 2024|
  
  ---
 
@@ -58,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380" class="noirorange"><b>ModSecurity</b>: denial of service via Transaction Class</a>](https://vigilance.fr/vulnerability/ModSecurity-denial-of-service-via-Transaction-Class-42380)|An attacker can cause a fatal error of ModSecurity, via Transaction Class, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-read-write-access-dated-25-04-2024-44147" class="noirorange"><b>Brocade Fabric OS</b>: read-write access dated 25/04/2024</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-read-write-access-dated-25-04-2024-44147)|An attacker can bypass access restrictions of Brocade Fabric OS, dated 25/04/2024, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-04-2024-44146" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 25/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-04-2024-44146)|An attacker can use several vulnerabilities of the Linux kernel, dated 25/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-AS-denial-of-service-via-Request-44145" class="noirorange"><b>IBM WebSphere AS</b>: denial of service via Request</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-AS-denial-of-service-via-Request-44145)|An attacker can cause a fatal error of IBM WebSphere AS, via Request, in order to trigger a denial of service...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-code-execution-via-Disk0-File-44140" class="noirorange"><b>Cisco ASA</b>: code execution via Disk0 File</a>](https://vigilance.fr/vulnerability/Cisco-ASA-code-execution-via-Disk0-File-44140)|An attacker can use a vulnerability of Cisco ASA, via Disk0 File, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sanitize-Cross-Site-Scripting-via-Custom-Allowlist-Noscript-44135" class="noirorange"><b>Sanitize</b>: Cross Site Scripting via Custom Allowlist Noscript</a>](https://vigilance.fr/vulnerability/Sanitize-Cross-Site-Scripting-via-Custom-Allowlist-Noscript-44135)|An attacker can trigger a Cross Site Scripting of Sanitize, via Custom Allowlist Noscript, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-amdgpu-vm-bo-44134" class="noirorange"><b>Linux kernel</b>: memory corruption via amdgpu_vm_bo</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-amdgpu-vm-bo-44134)|An attacker can trigger a memory corruption of the Linux kernel, via amdgpu_vm_bo, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-Jquery-treegrid-Unit-Testing-44133" class="noirorange"><b>pfSense</b>: Cross Site Scripting via Jquery-treegrid Unit Testing</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-Jquery-treegrid-Unit-Testing-44133)|An attacker can trigger a Cross Site Scripting of pfSense, via Jquery-treegrid Unit Testing, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
