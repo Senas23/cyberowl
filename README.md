@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/06/2024 21:20:58 UTC
+ > Last Updated 27/06/2024 09:21:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-Prefix-SID-attribute-44159" class="noirorange"><b>FRRouting</b>: denial of service via BGP UPDATE Prefix SID attribute</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-Prefix-SID-attribute-44159)|An attacker can cause a fatal error of FRRouting, via BGP UPDATE Prefix SID attribute, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-weak-encryption-via-Backup-File-44489" class="noirorange"><b>FortiOS</b>: weak encryption via Backup File</a>](https://vigilance.fr/vulnerability/FortiOS-weak-encryption-via-Backup-File-44489)|An attacker can access data on FortiOS, via Backup File, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-reboot-44486" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via reboot</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-reboot-44486)|An attacker can trigger a Cross Site Scripting of FortiOS, via reboot, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Citrix-Hypervisor-XenServer-overload-dated-11-06-2024-44483" class="noirorange"><b>Citrix Hypervisor  XenServer</b>: overload dated 11/06/2024</a>](https://vigilance.fr/vulnerability/Citrix-Hypervisor-XenServer-overload-dated-11-06-2024-44483)|An attacker can trigger an overload of Citrix Hypervisor  XenServer, dated 11/06/2024, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gunicorn-header-injection-dated-26-04-2024-44155" class="noirorange"><b>Gunicorn</b>: header injection dated 26/04/2024</a>](https://vigilance.fr/vulnerability/Gunicorn-header-injection-dated-26-04-2024-44155)|An attacker can add new headers on Gunicorn, dated 26/04/2024, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-via-1-8-2-44154" class="noirorange"><b>FileZilla Server</b>: two vulnerabilities via 1.8.2</a>](https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-via-1-8-2-44154)|An attacker can use several vulnerabilities of FileZilla Server, via 1.8.2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Enterprise-user-access-dated-26-04-2024-44152" class="noirorange"><b>Dell OpenManage Enterprise</b>: user access dated 26/04/2024</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Enterprise-user-access-dated-26-04-2024-44152)|An attacker can bypass restrictions of Dell OpenManage Enterprise, dated 26/04/2024, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PDNS-Recursor-denial-of-service-via-Recursive-Forwarding-44151" class="noirorange"><b>PDNS Recursor</b>: denial of service via Recursive Forwarding</a>](https://vigilance.fr/vulnerability/PDNS-Recursor-denial-of-service-via-Recursive-Forwarding-44151)|An attacker can cause a fatal error of PDNS Recursor, via Recursive Forwarding, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 21 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0511/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 21 juin 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Client-42391" class="noirorange"><b>Dell NetWorker</b>: privilege escalation via Client</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Client-42391)|An attacker can bypass restrictions of Dell NetWorker, via Client, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cyrus-IMAP-denial-of-service-via-Single-Command-Many-LITERALs-44503" class="noirorange"><b>Cyrus IMAP</b>: denial of service via Single Command Many LITERALs</a>](https://vigilance.fr/vulnerability/Cyrus-IMAP-denial-of-service-via-Single-Command-Many-LITERALs-44503)|An attacker can cause a fatal error of Cyrus IMAP, via Single Command Many LITERALs, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-Prefix-SID-attribute-44159" class="noirorange"><b>FRRouting</b>: denial of service via BGP UPDATE Prefix SID attribute</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-Prefix-SID-attribute-44159)|An attacker can cause a fatal error of FRRouting, via BGP UPDATE Prefix SID attribute, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-weak-encryption-via-Backup-File-44489" class="noirorange"><b>FortiOS</b>: weak encryption via Backup File</a>](https://vigilance.fr/vulnerability/FortiOS-weak-encryption-via-Backup-File-44489)|An attacker can access data on FortiOS, via Backup File, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-reboot-44486" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via reboot</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-reboot-44486)|An attacker can trigger a Cross Site Scripting of FortiOS, via reboot, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Citrix-Hypervisor-XenServer-overload-dated-11-06-2024-44483" class="noirorange"><b>Citrix Hypervisor  XenServer</b>: overload dated 11/06/2024</a>](https://vigilance.fr/vulnerability/Citrix-Hypervisor-XenServer-overload-dated-11-06-2024-44483)|An attacker can trigger an overload of Citrix Hypervisor  XenServer, dated 11/06/2024, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gunicorn-header-injection-dated-26-04-2024-44155" class="noirorange"><b>Gunicorn</b>: header injection dated 26/04/2024</a>](https://vigilance.fr/vulnerability/Gunicorn-header-injection-dated-26-04-2024-44155)|An attacker can add new headers on Gunicorn, dated 26/04/2024, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-via-1-8-2-44154" class="noirorange"><b>FileZilla Server</b>: two vulnerabilities via 1.8.2</a>](https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-via-1-8-2-44154)|An attacker can use several vulnerabilities of FileZilla Server, via 1.8.2...|Visit link for details|
  
  ---
 
