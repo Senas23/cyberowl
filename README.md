@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/06/2024 09:21:58 UTC
+ > Last Updated 27/06/2024 21:19:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Username-Email-44509" class="noirorange"><b>Keycloak</b>: denial of service via Username Email</a>](https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Username-Email-44509)|An attacker can cause a fatal error of Keycloak, via Username Email, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Client-42391" class="noirorange"><b>Dell NetWorker</b>: privilege escalation via Client</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Client-42391)|An attacker can bypass restrictions of Dell NetWorker, via Client, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cyrus-IMAP-denial-of-service-via-Single-Command-Many-LITERALs-44503" class="noirorange"><b>Cyrus IMAP</b>: denial of service via Single Command Many LITERALs</a>](https://vigilance.fr/vulnerability/Cyrus-IMAP-denial-of-service-via-Single-Command-Many-LITERALs-44503)|An attacker can cause a fatal error of Cyrus IMAP, via Single Command Many LITERALs, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Citrix-Hypervisor-XenServer-overload-dated-11-06-2024-44483" class="noirorange"><b>Citrix Hypervisor  XenServer</b>: overload dated 11/06/2024</a>](https://vigilance.fr/vulnerability/Citrix-Hypervisor-XenServer-overload-dated-11-06-2024-44483)|An attacker can trigger an overload of Citrix Hypervisor  XenServer, dated 11/06/2024, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gunicorn-header-injection-dated-26-04-2024-44155" class="noirorange"><b>Gunicorn</b>: header injection dated 26/04/2024</a>](https://vigilance.fr/vulnerability/Gunicorn-header-injection-dated-26-04-2024-44155)|An attacker can add new headers on Gunicorn, dated 26/04/2024, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-via-1-8-2-44154" class="noirorange"><b>FileZilla Server</b>: two vulnerabilities via 1.8.2</a>](https://vigilance.fr/vulnerability/FileZilla-Server-two-vulnerabilities-via-1-8-2-44154)|An attacker can use several vulnerabilities of FileZilla Server, via 1.8.2...|Visit link for details|
  
  ---
 
