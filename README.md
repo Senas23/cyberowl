@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/06/2024 21:19:02 UTC
+ > Last Updated 28/06/2024 09:22:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0522/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.|Publié le 27 juin 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0521/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 27 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0520/)|De multiples vulnérabilités ont été découvertes dans les produits Progress. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité|Publié le 26 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 26 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0518/)|Une vulnérabilité a été découverte dans Libreoffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité|Publié le 25 juin 2024|
@@ -42,8 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0515/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0514/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 21 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 21 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0511/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 21 juin 2024|
  
  ---
 
@@ -51,16 +51,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408" class="noirorange"><b>Cisco IOS XE for ASR</b>: denial of service via IPv6 Multicast</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408)|An attacker can cause a fatal error of Cisco IOS XE for ASR, via IPv6 Multicast, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Layer-2-Tunneling-Protocol-42407" class="noirorange"><b>Cisco IOS XE</b>: denial of service via Layer 2 Tunneling Protocol</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Layer-2-Tunneling-Protocol-42407)|An attacker can cause a fatal error of Cisco IOS XE, via Layer 2 Tunneling Protocol, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-CSCwe60256-42406" class="noirorange"><b>Cisco IOS XE</b>: denial of service via CSCwe60256</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-CSCwe60256-42406)|An attacker can cause a fatal error of Cisco IOS XE, via CSCwe60256, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Application-Quality-of-Experience-42405" class="noirorange"><b>Cisco IOS XE</b>: denial of service via Application Quality of Experience</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Application-Quality-of-Experience-42405)|An attacker can cause a fatal error of Cisco IOS XE, via Application Quality of Experience, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exim-three-vulnerabilities-42398" class="noirorange"><b>Exim</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Exim-three-vulnerabilities-42398)|An attacker can use several vulnerabilities of Exim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Username-Email-44509" class="noirorange"><b>Keycloak</b>: denial of service via Username Email</a>](https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Username-Email-44509)|An attacker can cause a fatal error of Keycloak, via Username Email, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Client-42391" class="noirorange"><b>Dell NetWorker</b>: privilege escalation via Client</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Client-42391)|An attacker can bypass restrictions of Dell NetWorker, via Client, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cyrus-IMAP-denial-of-service-via-Single-Command-Many-LITERALs-44503" class="noirorange"><b>Cyrus IMAP</b>: denial of service via Single Command Many LITERALs</a>](https://vigilance.fr/vulnerability/Cyrus-IMAP-denial-of-service-via-Single-Command-Many-LITERALs-44503)|An attacker can cause a fatal error of Cyrus IMAP, via Single Command Many LITERALs, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-Prefix-SID-attribute-44159" class="noirorange"><b>FRRouting</b>: denial of service via BGP UPDATE Prefix SID attribute</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-Prefix-SID-attribute-44159)|An attacker can cause a fatal error of FRRouting, via BGP UPDATE Prefix SID attribute, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-weak-encryption-via-Backup-File-44489" class="noirorange"><b>FortiOS</b>: weak encryption via Backup File</a>](https://vigilance.fr/vulnerability/FortiOS-weak-encryption-via-Backup-File-44489)|An attacker can access data on FortiOS, via Backup File, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-reboot-44486" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via reboot</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-reboot-44486)|An attacker can trigger a Cross Site Scripting of FortiOS, via reboot, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Citrix-Hypervisor-XenServer-overload-dated-11-06-2024-44483" class="noirorange"><b>Citrix Hypervisor  XenServer</b>: overload dated 11/06/2024</a>](https://vigilance.fr/vulnerability/Citrix-Hypervisor-XenServer-overload-dated-11-06-2024-44483)|An attacker can trigger an overload of Citrix Hypervisor  XenServer, dated 11/06/2024, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42386)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gunicorn-header-injection-dated-26-04-2024-44155" class="noirorange"><b>Gunicorn</b>: header injection dated 26/04/2024</a>](https://vigilance.fr/vulnerability/Gunicorn-header-injection-dated-26-04-2024-44155)|An attacker can add new headers on Gunicorn, dated 26/04/2024, in order to alter the service behavior...|Visit link for details|
  
  ---
 
