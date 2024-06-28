@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/06/2024 09:22:37 UTC
+ > Last Updated 28/06/2024 21:20:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42419" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42419)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-VTE-denial-of-service-via-Window-Resize-Escape-Sequence-44513" class="noirorange"><b>GNOME VTE</b>: denial of service via Window Resize Escape Sequence</a>](https://vigilance.fr/vulnerability/GNOME-VTE-denial-of-service-via-Window-Resize-Escape-Sequence-44513)|An attacker can cause a fatal error of GNOME VTE, via Window Resize Escape Sequence, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42415" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42415)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408" class="noirorange"><b>Cisco IOS XE for ASR</b>: denial of service via IPv6 Multicast</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408)|An attacker can cause a fatal error of Cisco IOS XE for ASR, via IPv6 Multicast, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Layer-2-Tunneling-Protocol-42407" class="noirorange"><b>Cisco IOS XE</b>: denial of service via Layer 2 Tunneling Protocol</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Layer-2-Tunneling-Protocol-42407)|An attacker can cause a fatal error of Cisco IOS XE, via Layer 2 Tunneling Protocol, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-CSCwe60256-42406" class="noirorange"><b>Cisco IOS XE</b>: denial of service via CSCwe60256</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-CSCwe60256-42406)|An attacker can cause a fatal error of Cisco IOS XE, via CSCwe60256, in order to trigger a denial of service...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Exim-three-vulnerabilities-42398" class="noirorange"><b>Exim</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Exim-three-vulnerabilities-42398)|An attacker can use several vulnerabilities of Exim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Username-Email-44509" class="noirorange"><b>Keycloak</b>: denial of service via Username Email</a>](https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Username-Email-44509)|An attacker can cause a fatal error of Keycloak, via Username Email, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Client-42391" class="noirorange"><b>Dell NetWorker</b>: privilege escalation via Client</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Client-42391)|An attacker can bypass restrictions of Dell NetWorker, via Client, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cyrus-IMAP-denial-of-service-via-Single-Command-Many-LITERALs-44503" class="noirorange"><b>Cyrus IMAP</b>: denial of service via Single Command Many LITERALs</a>](https://vigilance.fr/vulnerability/Cyrus-IMAP-denial-of-service-via-Single-Command-Many-LITERALs-44503)|An attacker can cause a fatal error of Cyrus IMAP, via Single Command Many LITERALs, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42388)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-Prefix-SID-attribute-44159" class="noirorange"><b>FRRouting</b>: denial of service via BGP UPDATE Prefix SID attribute</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-BGP-UPDATE-Prefix-SID-attribute-44159)|An attacker can cause a fatal error of FRRouting, via BGP UPDATE Prefix SID attribute, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
