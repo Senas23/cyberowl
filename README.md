@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/06/2024 09:21:40 UTC
+ > Last Updated 29/06/2024 21:18:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/buildah-information-disclosure-via-containerignore-dockerignore-44168" class="noirorange"><b>buildah</b>: information disclosure via containerignore / dockerignore</a>](https://vigilance.fr/vulnerability/buildah-information-disclosure-via-containerignore-dockerignore-44168)|An attacker can bypass access restrictions to data of buildah, via containerignore / dockerignore, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Unqualified-Library-Call-44167" class="noirorange"><b>IBM i</b>: privilege escalation via Unqualified Library Call</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Unqualified-Library-Call-44167)|An attacker can bypass restrictions of IBM i, via Unqualified Library Call, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Webmin-privilege-escalation-via-Shell-Autocomplete-44166" class="noirorange"><b>Webmin</b>: privilege escalation via Shell Autocomplete</a>](https://vigilance.fr/vulnerability/Webmin-privilege-escalation-via-Shell-Autocomplete-44166)|An attacker can bypass restrictions of Webmin, via Shell Autocomplete, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-overload-via-MP-GR-Dynamic-Capability-44162" class="noirorange"><b>FRRouting</b>: overload via MP/GR Dynamic Capability</a>](https://vigilance.fr/vulnerability/FRRouting-overload-via-MP-GR-Dynamic-Capability-44162)|An attacker can trigger an overload of FRRouting, via MP/GR Dynamic Capability, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-RightsLogFormatter-php-44161" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via RightsLogFormatter.<wbr>php</wbr></a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-RightsLogFormatter-php-44161)|An attacker can trigger a Cross Site Scripting of MediaWiki, via RightsLogFormatter.|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GNOME-VTE-denial-of-service-via-Window-Resize-Escape-Sequence-44513" class="noirorange"><b>GNOME VTE</b>: denial of service via Window Resize Escape Sequence</a>](https://vigilance.fr/vulnerability/GNOME-VTE-denial-of-service-via-Window-Resize-Escape-Sequence-44513)|An attacker can cause a fatal error of GNOME VTE, via Window Resize Escape Sequence, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42415" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42415)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408" class="noirorange"><b>Cisco IOS XE for ASR</b>: denial of service via IPv6 Multicast</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408)|An attacker can cause a fatal error of Cisco IOS XE for ASR, via IPv6 Multicast, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Layer-2-Tunneling-Protocol-42407" class="noirorange"><b>Cisco IOS XE</b>: denial of service via Layer 2 Tunneling Protocol</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-Layer-2-Tunneling-Protocol-42407)|An attacker can cause a fatal error of Cisco IOS XE, via Layer 2 Tunneling Protocol, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-CSCwe60256-42406" class="noirorange"><b>Cisco IOS XE</b>: denial of service via CSCwe60256</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-denial-of-service-via-CSCwe60256-42406)|An attacker can cause a fatal error of Cisco IOS XE, via CSCwe60256, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
