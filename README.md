@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/06/2024 21:18:38 UTC
+ > Last Updated 30/06/2024 09:24:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-use-after-free-via-av-hwframe-ctx-init-44171" class="noirorange"><b>FFmpeg</b>: use after free via av_hwframe_ctx_init(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/FFmpeg-use-after-free-via-av-hwframe-ctx-init-44171)|An attacker can force the reuse of a freed memory area of FFmpeg, via av_hwframe_ctx_init(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-image-copy-plane-44170" class="noirorange"><b>FFmpeg</b>: buffer overflow via image_copy_plane()</a>](https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-image-copy-plane-44170)|An attacker can trigger a buffer overflow of FFmpeg, via image_copy_plane(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-ff-bwdif-filter-intra-c-44169" class="noirorange"><b>FFmpeg</b>: buffer overflow via ff_bwdif_filter_<wbr>intra_c()</wbr></a>](https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-ff-bwdif-filter-intra-c-44169)|An attacker can trigger a buffer overflow of FFmpeg, via ff_bwdif_filter_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/buildah-information-disclosure-via-containerignore-dockerignore-44168" class="noirorange"><b>buildah</b>: information disclosure via containerignore / dockerignore</a>](https://vigilance.fr/vulnerability/buildah-information-disclosure-via-containerignore-dockerignore-44168)|An attacker can bypass access restrictions to data of buildah, via containerignore / dockerignore, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Unqualified-Library-Call-44167" class="noirorange"><b>IBM i</b>: privilege escalation via Unqualified Library Call</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Unqualified-Library-Call-44167)|An attacker can bypass restrictions of IBM i, via Unqualified Library Call, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Webmin-privilege-escalation-via-Shell-Autocomplete-44166" class="noirorange"><b>Webmin</b>: privilege escalation via Shell Autocomplete</a>](https://vigilance.fr/vulnerability/Webmin-privilege-escalation-via-Shell-Autocomplete-44166)|An attacker can bypass restrictions of Webmin, via Shell Autocomplete, in order to escalate his privileges...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-RightsLogFormatter-php-44161" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via RightsLogFormatter.<wbr>php</wbr></a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-RightsLogFormatter-php-44161)|An attacker can trigger a Cross Site Scripting of MediaWiki, via RightsLogFormatter.|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-29-04-2024-44160" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 29/04/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-29-04-2024-44160)|An attacker can use several vulnerabilities of the Linux kernel, dated 29/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42419" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42419)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNOME-VTE-denial-of-service-via-Window-Resize-Escape-Sequence-44513" class="noirorange"><b>GNOME VTE</b>: denial of service via Window Resize Escape Sequence</a>](https://vigilance.fr/vulnerability/GNOME-VTE-denial-of-service-via-Window-Resize-Escape-Sequence-44513)|An attacker can cause a fatal error of GNOME VTE, via Window Resize Escape Sequence, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42415" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42415)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408" class="noirorange"><b>Cisco IOS XE for ASR</b>: denial of service via IPv6 Multicast</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-for-ASR-denial-of-service-via-IPv6-Multicast-42408)|An attacker can cause a fatal error of Cisco IOS XE for ASR, via IPv6 Multicast, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
