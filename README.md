@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/07/2024 09:25:40 UTC
+ > Last Updated 01/07/2024 21:19:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-overload-via-Internet-Pass-Thru-44191" class="noirorange"><b>IBM MQ</b>: overload via Internet Pass-Thru</a>](https://vigilance.fr/vulnerability/IBM-MQ-overload-via-Internet-Pass-Thru-44191)|An attacker can trigger an overload of IBM MQ, via Internet Pass-Thru, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-multiple-vulnerabilities-via-Firmware-44190" class="noirorange"><b>Cisco IP Phone</b>: multiple vulnerabilities via Firmware</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-multiple-vulnerabilities-via-Firmware-44190)|An attacker can use several vulnerabilities of Cisco IP Phone, via Firmware...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-AMD-SEV-SNP-44189" class="noirorange"><b>Linux kernel</b>: read-write access via AMD SEV-SNP</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-AMD-SEV-SNP-44189)|An attacker, in a guest system, can bypass access restrictions of the Linux kernel, via AMD SEV-SNP, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-01-05-2024-44184" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 01/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-01-05-2024-44184)|An attacker can use several vulnerabilities of the Linux kernel, dated 01/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Performance-Co-Pilot-code-execution-via-Default-Pmproxy-Configuration-44183" class="noirorange"><b>Performance Co-Pilot</b>: code execution via Default Pmproxy Configuration</a>](https://vigilance.fr/vulnerability/Performance-Co-Pilot-code-execution-via-Default-Pmproxy-Configuration-44183)|An attacker can use a vulnerability of Performance Co-Pilot, via Default Pmproxy Configuration, in order to run code...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Astropy-code-execution-via-TranformGraph-to-dot-graph-44180" class="noirorange"><b>Astropy</b>: code execution via TranformGraph().to_<wbr>dot_graph</wbr></a>](https://vigilance.fr/vulnerability/Astropy-code-execution-via-TranformGraph-to-dot-graph-44180)|An attacker can use a vulnerability of Astropy, via TranformGraph().to_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/systemd-resolved-spoofing-via-Unsigned-DNSSEC-Domains-44179" class="noirorange"><b>systemd-resolved</b>: spoofing via Unsigned DNSSEC Domains</a>](https://vigilance.fr/vulnerability/systemd-resolved-spoofing-via-Unsigned-DNSSEC-Domains-44179)|An attacker can create spoofed data on systemd-resolved, via Unsigned DNSSEC Domains, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/mod-proxy-cluster-Cross-Site-Scripting-via-Alias-Parameter-44178" class="noirorange"><b>mod_proxy_cluster</b>: Cross Site Scripting via Alias Parameter</a>](https://vigilance.fr/vulnerability/mod-proxy-cluster-Cross-Site-Scripting-via-Alias-Parameter-44178)|An attacker can trigger a Cross Site Scripting of mod_proxy_cluster, via Alias Parameter, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-dated-30-04-2024-44177" class="noirorange"><b>GStreamer</b>: buffer overflow dated 30/04/2024</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-dated-30-04-2024-44177)|An attacker can trigger a buffer overflow of GStreamer, dated 30/04/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Performance-Co-Pilot-privilege-escalation-via-PCP-Users-44176" class="noirorange"><b>Performance Co-Pilot</b>: privilege escalation via PCP Users</a>](https://vigilance.fr/vulnerability/Performance-Co-Pilot-privilege-escalation-via-PCP-Users-44176)|An attacker can bypass restrictions of Performance Co-Pilot, via PCP Users, in order to escalate his privileges...|Visit link for details|
  
  ---
 
