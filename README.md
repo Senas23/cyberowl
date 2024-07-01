@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/06/2024 21:20:57 UTC
+ > Last Updated 01/07/2024 09:25:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-AMD-SEV-SNP-44189" class="noirorange"><b>Linux kernel</b>: read-write access via AMD SEV-SNP</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-AMD-SEV-SNP-44189)|An attacker, in a guest system, can bypass access restrictions of the Linux kernel, via AMD SEV-SNP, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-01-05-2024-44184" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 01/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-01-05-2024-44184)|An attacker can use several vulnerabilities of the Linux kernel, dated 01/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Performance-Co-Pilot-code-execution-via-Default-Pmproxy-Configuration-44183" class="noirorange"><b>Performance Co-Pilot</b>: code execution via Default Pmproxy Configuration</a>](https://vigilance.fr/vulnerability/Performance-Co-Pilot-code-execution-via-Default-Pmproxy-Configuration-44183)|An attacker can use a vulnerability of Performance Co-Pilot, via Default Pmproxy Configuration, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/JWCrypto-overload-via-JWE-Token-High-Compression-Ratio-44182" class="noirorange"><b>JWCrypto</b>: overload via JWE Token High Compression Ratio</a>](https://vigilance.fr/vulnerability/JWCrypto-overload-via-JWE-Token-High-Compression-Ratio-44182)|An attacker can trigger an overload of JWCrypto, via JWE Token High Compression Ratio, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vtiger-CRM-code-execution-via-modules-Users-models-Module-php-44181" class="noirorange"><b>Vtiger CRM</b>: code execution via modules/Users/<wbr>models/Module.php</wbr></a>](https://vigilance.fr/vulnerability/Vtiger-CRM-code-execution-via-modules-Users-models-Module-php-44181)|An attacker can use a vulnerability of Vtiger CRM, via modules/Users/|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/mod-proxy-cluster-Cross-Site-Scripting-via-Alias-Parameter-44178" class="noirorange"><b>mod_proxy_cluster</b>: Cross Site Scripting via Alias Parameter</a>](https://vigilance.fr/vulnerability/mod-proxy-cluster-Cross-Site-Scripting-via-Alias-Parameter-44178)|An attacker can trigger a Cross Site Scripting of mod_proxy_cluster, via Alias Parameter, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-dated-30-04-2024-44177" class="noirorange"><b>GStreamer</b>: buffer overflow dated 30/04/2024</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-dated-30-04-2024-44177)|An attacker can trigger a buffer overflow of GStreamer, dated 30/04/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Performance-Co-Pilot-privilege-escalation-via-PCP-Users-44176" class="noirorange"><b>Performance Co-Pilot</b>: privilege escalation via PCP Users</a>](https://vigilance.fr/vulnerability/Performance-Co-Pilot-privilege-escalation-via-PCP-Users-44176)|An attacker can bypass restrictions of Performance Co-Pilot, via PCP Users, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Blink-use-after-free-via-SVG-44174" class="noirorange"><b>Blink</b>: use after free via SVG</a>](https://vigilance.fr/vulnerability/Blink-use-after-free-via-SVG-44174)|An attacker can force the reuse of a freed memory area of Blink, via SVG, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/osbuild-composer-write-access-via-Disabled-GPG-Verification-44173" class="noirorange"><b>osbuild-composer</b>: write access via Disabled GPG Verification</a>](https://vigilance.fr/vulnerability/osbuild-composer-write-access-via-Disabled-GPG-Verification-44173)|An attacker can bypass access restrictions of osbuild-composer, via Disabled GPG Verification, in order to alter data...|Visit link for details|
  
  ---
 
