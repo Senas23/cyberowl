@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/07/2024 09:22:59 UTC
+ > Last Updated 03/07/2024 21:20:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-information-disclosure-via-Admin-Console-44540" class="noirorange"><b>Keycloak</b>: information disclosure via Admin Console</a>](https://vigilance.fr/vulnerability/Keycloak-information-disclosure-via-Admin-Console-44540)|An attacker can bypass access restrictions to data of Keycloak, via Admin Console, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Integration-of-Friendly-Captcha-denial-of-service-dated-18-06-2024-44538" class="noirorange"><b>TYPO3 Integration of Friendly Captcha</b>: denial of service dated 18/06/2024</a>](https://vigilance.fr/vulnerability/TYPO3-Integration-of-Friendly-Captcha-denial-of-service-dated-18-06-2024-44538)|An attacker can cause a fatal error of TYPO3 Integration of Friendly Captcha, dated 18/06/2024, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-file-deletion-via-Alta-Recovery-Vault-44204" class="noirorange"><b>Veritas NetBackup</b>: file deletion via Alta Recovery Vault</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-file-deletion-via-Alta-Recovery-Vault-44204)|An attacker can bypass access restrictions of Veritas NetBackup, via Alta Recovery Vault, in order to delete a file...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libcoap-integer-overflow-via-coap-pdu-c-44201" class="noirorange"><b>libcoap</b>: integer overflow via coap_pdu.c</a>](https://vigilance.fr/vulnerability/libcoap-integer-overflow-via-coap-pdu-c-44201)|An attacker can trigger an integer overflow of libcoap, via coap_pdu.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synapse-overload-via-V2-State-Resolution-Algorithm-44200" class="noirorange"><b>Synapse</b>: overload via V2 State Resolution Algorithm</a>](https://vigilance.fr/vulnerability/Synapse-overload-via-V2-State-Resolution-Algorithm-44200)|An attacker can trigger an overload of Synapse, via V2 State Resolution Algorithm, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/libvpx-buffer-overflow-via-VP9-Encoding-Widths-42426" class="noirorange"><b>libvpx</b>: buffer overflow via VP9 Encoding Widths</a>](https://vigilance.fr/vulnerability/libvpx-buffer-overflow-via-VP9-Encoding-Widths-42426)|An attacker can trigger a buffer overflow of libvpx, via VP9 Encoding Widths, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/tpm2-tools-three-vulnerabilities-dated-02-05-2024-44196" class="noirorange"><b>tpm2-tools</b>: three vulnerabilities dated 02/05/2024</a>](https://vigilance.fr/vulnerability/tpm2-tools-three-vulnerabilities-dated-02-05-2024-44196)|An attacker can use several vulnerabilities of tpm2-tools, dated 02/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TCPDF-overload-via-HTML-Color-44195" class="noirorange"><b>TCPDF</b>: overload via HTML Color</a>](https://vigilance.fr/vulnerability/TCPDF-overload-via-HTML-Color-44195)|An attacker can trigger an overload of TCPDF, via HTML Color, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cpp-httplib-header-injection-via-Content-Type-Header-44194" class="noirorange"><b>cpp-httplib</b>: header injection via Content-Type Header</a>](https://vigilance.fr/vulnerability/cpp-httplib-header-injection-via-Content-Type-Header-44194)|An attacker can add new headers on cpp-httplib, via Content-Type Header, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aiohttp-Cross-Site-Scripting-via-Static-File-Handling-44193" class="noirorange"><b>aiohttp</b>: Cross Site Scripting via Static File Handling</a>](https://vigilance.fr/vulnerability/aiohttp-Cross-Site-Scripting-via-Static-File-Handling-44193)|An attacker can trigger a Cross Site Scripting of aiohttp, via Static File Handling, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
