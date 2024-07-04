@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/07/2024 21:20:55 UTC
+ > Last Updated 04/07/2024 09:25:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0535/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 02 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0534/)|Une vulnérabilité a été découverte dans Juniper Networks Junos OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 02 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0533/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 02 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0532/)|Une vulnérabilité a été découverte dans Cisco NX-OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire. Cisco indique avoir constaté des tentatives d'exploitation de la vulnérabilité CVE-2024-20399 depuis avril 2024.|Publié le 02 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0531/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 01 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0530/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 01 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0529/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 28 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0528/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 28 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0527/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 28 juin 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0526/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0525/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 28 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0524/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 28 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0523/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 28 juin 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0522/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.|Publié le 27 juin 2024|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-42464" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-42464)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NTFS-3G-use-after-free-via-ntfs-uppercase-mbs-44541" class="noirorange"><b>NTFS-3G</b>: use after free via ntfs_uppercase_mbs()</a>](https://vigilance.fr/vulnerability/NTFS-3G-use-after-free-via-ntfs-uppercase-mbs-44541)|An attacker can force the reuse of a freed memory area of NTFS-3G, via ntfs_uppercase_mbs()|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-information-disclosure-via-Admin-Console-44540" class="noirorange"><b>Keycloak</b>: information disclosure via Admin Console</a>](https://vigilance.fr/vulnerability/Keycloak-information-disclosure-via-Admin-Console-44540)|An attacker can bypass access restrictions to data of Keycloak, via Admin Console, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Integration-of-Friendly-Captcha-denial-of-service-dated-18-06-2024-44538" class="noirorange"><b>TYPO3 Integration of Friendly Captcha</b>: denial of service dated 18/06/2024</a>](https://vigilance.fr/vulnerability/TYPO3-Integration-of-Friendly-Captcha-denial-of-service-dated-18-06-2024-44538)|An attacker can cause a fatal error of TYPO3 Integration of Friendly Captcha, dated 18/06/2024, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-file-deletion-via-Alta-Recovery-Vault-44204" class="noirorange"><b>Veritas NetBackup</b>: file deletion via Alta Recovery Vault</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-file-deletion-via-Alta-Recovery-Vault-44204)|An attacker can bypass access restrictions of Veritas NetBackup, via Alta Recovery Vault, in order to delete a file...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Wildfly-denial-of-service-via-Management-Interface-Nofile-Limit-44199" class="noirorange"><b>Wildfly</b>: denial of service via Management Interface Nofile Limit</a>](https://vigilance.fr/vulnerability/Wildfly-denial-of-service-via-Management-Interface-Nofile-Limit-44199)|An attacker can cause a fatal error of Wildfly, via Management Interface Nofile Limit, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-02-05-2024-44198" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities dated 02/05/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-02-05-2024-44198)|An attacker can use several vulnerabilities of Jenkins Plugins, dated 02/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libvpx-buffer-overflow-via-VP9-Encoding-Widths-42426" class="noirorange"><b>libvpx</b>: buffer overflow via VP9 Encoding Widths</a>](https://vigilance.fr/vulnerability/libvpx-buffer-overflow-via-VP9-Encoding-Widths-42426)|An attacker can trigger a buffer overflow of libvpx, via VP9 Encoding Widths, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/tpm2-tools-three-vulnerabilities-dated-02-05-2024-44196" class="noirorange"><b>tpm2-tools</b>: three vulnerabilities dated 02/05/2024</a>](https://vigilance.fr/vulnerability/tpm2-tools-three-vulnerabilities-dated-02-05-2024-44196)|An attacker can use several vulnerabilities of tpm2-tools, dated 02/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TCPDF-overload-via-HTML-Color-44195" class="noirorange"><b>TCPDF</b>: overload via HTML Color</a>](https://vigilance.fr/vulnerability/TCPDF-overload-via-HTML-Color-44195)|An attacker can trigger an overload of TCPDF, via HTML Color, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
