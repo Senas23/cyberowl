@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/07/2024 09:23:44 UTC
+ > Last Updated 05/07/2024 21:20:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0547/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 05 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0546/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 05 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0545/)|Une vulnérabilité a été découverte dans VMware Cloud Director Availability. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 05 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0544/)|Une vulnérabilité a été découverte dans Apache HTTP Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 05 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0543/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 04 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0542/)|Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 04 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0541/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 04 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0540/)|De multiples vulnérabilités ont été découvertes dans Python. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 04 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0539/)|Une vulnérabilité a été découverte dans le composant OpenSSH utilisé par différents systèmes d'exploitation. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 03 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0538/)|De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 03 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0537/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 03 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0536/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 03 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0535/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 02 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0534/)|Une vulnérabilité a été découverte dans Juniper Networks Junos OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 02 juillet 2024|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-Redis-Server-42495" class="noirorange"><b>Extreme Networks EXOS</b>: privilege escalation via Redis Server</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-Redis-Server-42495)|An attacker can bypass restrictions of Extreme Networks EXOS, via Redis Server, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/curl-buffer-overflow-via-SOCKS5-Proxy-Handshake-42490" class="noirorange"><b>curl</b>: buffer overflow via SOCKS5 Proxy Handshake</a>](https://vigilance.fr/vulnerability/curl-buffer-overflow-via-SOCKS5-Proxy-Handshake-42490)|An attacker can trigger a buffer overflow of curl, via SOCKS5 Proxy Handshake, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-memory-corruption-via-std-string-Delete-44556" class="noirorange"><b>FreeBSD</b>: memory corruption via std::string Delete</a>](https://vigilance.fr/vulnerability/FreeBSD-memory-corruption-via-std-string-Delete-44556)|An attacker can trigger a memory corruption of FreeBSD, via std::string Delete, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-overload-via-killpg-Lock-Order-Reversal-44555" class="noirorange"><b>FreeBSD</b>: overload via killpg Lock Order Reversal</a>](https://vigilance.fr/vulnerability/FreeBSD-overload-via-killpg-Lock-Order-Reversal-44555)|An attacker can trigger an overload of FreeBSD, via killpg Lock Order Reversal, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/pgAdmin-code-execution-via-API-42477" class="noirorange"><b>pgAdmin</b>: code execution via API</a>](https://vigilance.fr/vulnerability/pgAdmin-code-execution-via-API-42477)|An attacker can use a vulnerability of pgAdmin, via API, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-list-richcompare-impl-44549" class="noirorange"><b>Python Core</b>: use after free via list_richcompare_<wbr>impl()</wbr></a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-list-richcompare-impl-44549)|An attacker can force the reuse of a freed memory area of Python Core, via list_richcompare_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-progressive-decompress-42471" class="noirorange"><b>FreeRDP</b>: buffer overflow via progressive_<wbr>decompress()</wbr></a>](https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-progressive-decompress-42471)|An attacker can trigger a buffer overflow of FreeRDP, via progressive_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-clear-decompress-bands-data-42470" class="noirorange"><b>FreeRDP</b>: buffer overflow via clear_decompress_<wbr>bands_data()</wbr></a>](https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-clear-decompress-bands-data-42470)|An attacker can trigger a buffer overflow of FreeRDP, via clear_decompress_|Visit link for details|
  
  ---
 
