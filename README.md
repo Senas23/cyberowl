@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/07/2024 09:23:40 UTC
+ > Last Updated 06/07/2024 21:20:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,6 +24,13 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-Unix-Domain-Datagram-Socket-SO-PEERID-44214" class="noirorange"><b>AIX</b>: privilege escalation via Unix Domain Datagram Socket SO_PEERID</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-Unix-Domain-Datagram-Socket-SO-PEERID-44214)|An attacker can bypass restrictions of AIX, via Unix Domain Datagram Socket SO_PEERID, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-privilege-escalation-via-SYS-MODULE-CAP-SYS-ADMIN-44212" class="noirorange"><b>Docker</b>: privilege escalation via SYS_MODULE / CAP_SYS_ADMIN</a>](https://vigilance.fr/vulnerability/Docker-privilege-escalation-via-SYS-MODULE-CAP-SYS-ADMIN-44212)|An attacker, in a guest system, can bypass restrictions of Docker, via SYS_MODULE / CAP_SYS_ADMIN, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510" class="noirorange"><b>Ivanti Endpoint Manager</b>: code execution</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510)|An attacker can use a vulnerability of Ivanti Endpoint Manager, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-05-2024-44211" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 06/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-05-2024-44211)|An attacker can use several vulnerabilities of the Linux kernel, dated 06/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/KDE-libksieve-logged-sensitive-information-via-kmanagesieve-session-cpp-44210" class="noirorange"><b>KDE libksieve</b>: logged sensitive information via kmanagesieve/<wbr>session.cpp</wbr></a>](https://vigilance.fr/vulnerability/KDE-libksieve-logged-sensitive-information-via-kmanagesieve-session-cpp-44210)|An attacker can read logs of KDE libksieve, via kmanagesieve/|Visit link for details|
@@ -59,15 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Grassroots-DiCoM-out-of-bounds-memory-reading-via-RAWCodec-DecodeBytes-44208" class="noirorange"><b>Grassroots DiCoM</b>: out-of-bounds memory reading via RAWCodec::<wbr>DecodeBytes()</wbr></a>](https://vigilance.fr/vulnerability/Grassroots-DiCoM-out-of-bounds-memory-reading-via-RAWCodec-DecodeBytes-44208)|An attacker can force a read at an invalid memory address of Grassroots DiCoM, via RAWCodec::|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-LookupTable-SetLUT-44206" class="noirorange"><b>Grassroots DiCoM</b>: buffer overflow via LookupTable::SetLUT(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-LookupTable-SetLUT-44206)|An attacker can trigger a buffer overflow of Grassroots DiCoM, via LookupTable::SetLUT(|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-Redis-Server-42495" class="noirorange"><b>Extreme Networks EXOS</b>: privilege escalation via Redis Server</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-Redis-Server-42495)|An attacker can bypass restrictions of Extreme Networks EXOS, via Redis Server, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/curl-buffer-overflow-via-SOCKS5-Proxy-Handshake-42490" class="noirorange"><b>curl</b>: buffer overflow via SOCKS5 Proxy Handshake</a>](https://vigilance.fr/vulnerability/curl-buffer-overflow-via-SOCKS5-Proxy-Handshake-42490)|An attacker can trigger a buffer overflow of curl, via SOCKS5 Proxy Handshake, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-memory-corruption-via-std-string-Delete-44556" class="noirorange"><b>FreeBSD</b>: memory corruption via std::string Delete</a>](https://vigilance.fr/vulnerability/FreeBSD-memory-corruption-via-std-string-Delete-44556)|An attacker can trigger a memory corruption of FreeBSD, via std::string Delete, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
