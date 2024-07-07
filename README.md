@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/07/2024 09:21:56 UTC
+ > Last Updated 07/07/2024 21:20:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libvirt-privilege-escalation-via-virtproxyd-44216" class="noirorange"><b>libvirt</b>: privilege escalation via virtproxyd</a>](https://vigilance.fr/vulnerability/libvirt-privilege-escalation-via-virtproxyd-44216)|An attacker can bypass restrictions of libvirt, via virtproxyd, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-Unix-Domain-Datagram-Socket-SO-PEERID-44214" class="noirorange"><b>AIX</b>: privilege escalation via Unix Domain Datagram Socket SO_PEERID</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-Unix-Domain-Datagram-Socket-SO-PEERID-44214)|An attacker can bypass restrictions of AIX, via Unix Domain Datagram Socket SO_PEERID, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-privilege-escalation-via-SYS-MODULE-CAP-SYS-ADMIN-44212" class="noirorange"><b>Docker</b>: privilege escalation via SYS_MODULE / CAP_SYS_ADMIN</a>](https://vigilance.fr/vulnerability/Docker-privilege-escalation-via-SYS-MODULE-CAP-SYS-ADMIN-44212)|An attacker, in a guest system, can bypass restrictions of Docker, via SYS_MODULE / CAP_SYS_ADMIN, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510" class="noirorange"><b>Ivanti Endpoint Manager</b>: code execution</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510)|An attacker can use a vulnerability of Ivanti Endpoint Manager, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-05-2024-44211" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 06/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-05-2024-44211)|An attacker can use several vulnerabilities of the Linux kernel, dated 06/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/KDE-libksieve-logged-sensitive-information-via-kmanagesieve-session-cpp-44210" class="noirorange"><b>KDE libksieve</b>: logged sensitive information via kmanagesieve/<wbr>session.cpp</wbr></a>](https://vigilance.fr/vulnerability/KDE-libksieve-logged-sensitive-information-via-kmanagesieve-session-cpp-44210)|An attacker can read logs of KDE libksieve, via kmanagesieve/|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-four-vulnerabilities-dated-05-05-2024-44209" class="noirorange"><b>glibc</b>: four vulnerabilities dated 05/05/2024</a>](https://vigilance.fr/vulnerability/glibc-four-vulnerabilities-dated-05-05-2024-44209)|An attacker can use several vulnerabilities of glibc, dated 05/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-JPEG2000Codec-DecodeByStreamsCommon-44207" class="noirorange"><b>Grassroots DiCoM</b>: buffer overflow via JPEG2000Codec::<wbr>DecodeByStreamsCommo<wbr>n()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-JPEG2000Codec-DecodeByStreamsCommon-44207)|An attacker can trigger a buffer overflow of Grassroots DiCoM, via JPEG2000Codec::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grassroots-DiCoM-out-of-bounds-memory-reading-via-RAWCodec-DecodeBytes-44208" class="noirorange"><b>Grassroots DiCoM</b>: out-of-bounds memory reading via RAWCodec::<wbr>DecodeBytes()</wbr></a>](https://vigilance.fr/vulnerability/Grassroots-DiCoM-out-of-bounds-memory-reading-via-RAWCodec-DecodeBytes-44208)|An attacker can force a read at an invalid memory address of Grassroots DiCoM, via RAWCodec::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-LookupTable-SetLUT-44206" class="noirorange"><b>Grassroots DiCoM</b>: buffer overflow via LookupTable::SetLUT(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-LookupTable-SetLUT-44206)|An attacker can trigger a buffer overflow of Grassroots DiCoM, via LookupTable::SetLUT(|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0540/)|De multiples vulnérabilités ont été découvertes dans Python. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 04 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0539/)|Une vulnérabilité a été découverte dans le composant OpenSSH utilisé par différents systèmes d'exploitation. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 03 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0538/)|De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 03 juillet 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-Unix-Domain-Datagram-Socket-SO-PEERID-44214" class="noirorange"><b>AIX</b>: privilege escalation via Unix Domain Datagram Socket SO_PEERID</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-Unix-Domain-Datagram-Socket-SO-PEERID-44214)|An attacker can bypass restrictions of AIX, via Unix Domain Datagram Socket SO_PEERID, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-privilege-escalation-via-SYS-MODULE-CAP-SYS-ADMIN-44212" class="noirorange"><b>Docker</b>: privilege escalation via SYS_MODULE / CAP_SYS_ADMIN</a>](https://vigilance.fr/vulnerability/Docker-privilege-escalation-via-SYS-MODULE-CAP-SYS-ADMIN-44212)|An attacker, in a guest system, can bypass restrictions of Docker, via SYS_MODULE / CAP_SYS_ADMIN, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510" class="noirorange"><b>Ivanti Endpoint Manager</b>: code execution</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-code-execution-42510)|An attacker can use a vulnerability of Ivanti Endpoint Manager, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-05-2024-44211" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 06/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-05-2024-44211)|An attacker can use several vulnerabilities of the Linux kernel, dated 06/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/KDE-libksieve-logged-sensitive-information-via-kmanagesieve-session-cpp-44210" class="noirorange"><b>KDE libksieve</b>: logged sensitive information via kmanagesieve/<wbr>session.cpp</wbr></a>](https://vigilance.fr/vulnerability/KDE-libksieve-logged-sensitive-information-via-kmanagesieve-session-cpp-44210)|An attacker can read logs of KDE libksieve, via kmanagesieve/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glibc-four-vulnerabilities-dated-05-05-2024-44209" class="noirorange"><b>glibc</b>: four vulnerabilities dated 05/05/2024</a>](https://vigilance.fr/vulnerability/glibc-four-vulnerabilities-dated-05-05-2024-44209)|An attacker can use several vulnerabilities of glibc, dated 05/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-JPEG2000Codec-DecodeByStreamsCommon-44207" class="noirorange"><b>Grassroots DiCoM</b>: buffer overflow via JPEG2000Codec::<wbr>DecodeByStreamsCommo<wbr>n()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-JPEG2000Codec-DecodeByStreamsCommon-44207)|An attacker can trigger a buffer overflow of Grassroots DiCoM, via JPEG2000Codec::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grassroots-DiCoM-out-of-bounds-memory-reading-via-RAWCodec-DecodeBytes-44208" class="noirorange"><b>Grassroots DiCoM</b>: out-of-bounds memory reading via RAWCodec::<wbr>DecodeBytes()</wbr></a>](https://vigilance.fr/vulnerability/Grassroots-DiCoM-out-of-bounds-memory-reading-via-RAWCodec-DecodeBytes-44208)|An attacker can force a read at an invalid memory address of Grassroots DiCoM, via RAWCodec::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-LookupTable-SetLUT-44206" class="noirorange"><b>Grassroots DiCoM</b>: buffer overflow via LookupTable::SetLUT(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-LookupTable-SetLUT-44206)|An attacker can trigger a buffer overflow of Grassroots DiCoM, via LookupTable::SetLUT(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-Redis-Server-42495" class="noirorange"><b>Extreme Networks EXOS</b>: privilege escalation via Redis Server</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-Redis-Server-42495)|An attacker can bypass restrictions of Extreme Networks EXOS, via Redis Server, in order to escalate his privileges...|Visit link for details|
  
  ---
 
