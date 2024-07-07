@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/07/2024 21:20:59 UTC
+ > Last Updated 07/07/2024 09:21:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,13 +24,6 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Grassroots-DiCoM-out-of-bounds-memory-reading-via-RAWCodec-DecodeBytes-44208" class="noirorange"><b>Grassroots DiCoM</b>: out-of-bounds memory reading via RAWCodec::<wbr>DecodeBytes()</wbr></a>](https://vigilance.fr/vulnerability/Grassroots-DiCoM-out-of-bounds-memory-reading-via-RAWCodec-DecodeBytes-44208)|An attacker can force a read at an invalid memory address of Grassroots DiCoM, via RAWCodec::|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-LookupTable-SetLUT-44206" class="noirorange"><b>Grassroots DiCoM</b>: buffer overflow via LookupTable::SetLUT(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Grassroots-DiCoM-buffer-overflow-via-LookupTable-SetLUT-44206)|An attacker can trigger a buffer overflow of Grassroots DiCoM, via LookupTable::SetLUT(|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-Redis-Server-42495" class="noirorange"><b>Extreme Networks EXOS</b>: privilege escalation via Redis Server</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-privilege-escalation-via-Redis-Server-42495)|An attacker can bypass restrictions of Extreme Networks EXOS, via Redis Server, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
