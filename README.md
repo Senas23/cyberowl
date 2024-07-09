@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/07/2024 21:19:55 UTC
+ > Last Updated 09/07/2024 09:21:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,11 +23,17 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0548/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 08 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0547/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 05 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0546/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 05 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0545/)|Une vulnérabilité a été découverte dans VMware Cloud Director Availability. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 05 juillet 2024|
@@ -37,6 +43,7 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0541/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 04 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0540/)|De multiples vulnérabilités ont été découvertes dans Python. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 04 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0539/)|Une vulnérabilité a été découverte dans le composant OpenSSH utilisé par différents systèmes d'exploitation. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 03 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0538/)|De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 03 juillet 2024|
  
  ---
 
@@ -44,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-05-2024-44229" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 09/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-05-2024-44229)|An attacker can use several vulnerabilities of the Linux kernel, dated 09/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-use-after-free-via-RDPGFX-CMDID-RESETGRAPHICS-42522" class="noirorange"><b>FreeRDP</b>: use after free via RDPGFX_CMDID_<wbr>RESETGRAPHICS</wbr></a>](https://vigilance.fr/vulnerability/FreeRDP-use-after-free-via-RDPGFX-CMDID-RESETGRAPHICS-42522)|An attacker can force the reuse of a freed memory area of FreeRDP, via RDPGFX_CMDID_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-Rect-Equals-Surface-42521" class="noirorange"><b>FreeRDP</b>: buffer overflow via Rect Equals Surface</a>](https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-Rect-Equals-Surface-42521)|An attacker can trigger a buffer overflow of FreeRDP, via Rect Equals Surface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-08-05-2024-44227" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 08/05/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-08-05-2024-44227)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 08/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DNS-overload-via-DNSBomb-Timing-Attack-44226" class="noirorange"><b>DNS</b>: overload via DNSBomb Timing Attack</a>](https://vigilance.fr/vulnerability/DNS-overload-via-DNSBomb-Timing-Attack-44226)|An attacker can trigger an overload of DNS, via DNSBomb Timing Attack, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNOME-GLib-spoofing-via-D-Bus-Signals-44224" class="noirorange"><b>GNOME GLib</b>: spoofing via D-Bus Signals</a>](https://vigilance.fr/vulnerability/GNOME-GLib-spoofing-via-D-Bus-Signals-44224)|An attacker can create spoofed data on GNOME GLib, via D-Bus Signals, in order to deceive the victim...|Visit link for details|
@@ -51,20 +61,10 @@
  |[<a href="https://vigilance.fr/vulnerability/libssh-NULL-pointer-dereference-via-publickey-from-privatekey-44222" class="noirorange"><b>libssh</b>: NULL pointer dereference via publickey_from_<wbr>privatekey()</wbr></a>](https://vigilance.fr/vulnerability/libssh-NULL-pointer-dereference-via-publickey-from-privatekey-44222)|An attacker can force a NULL pointer to be dereferenced on libssh, via publickey_from_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/memos-user-access-via-User-Controlled-Key-44221" class="noirorange"><b>memos</b>: user access via User-Controlled Key</a>](https://vigilance.fr/vulnerability/memos-user-access-via-User-Controlled-Key-44221)|An attacker can bypass restrictions of memos, via User-Controlled Key, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/python-jose-weak-encryption-via-OpenSSH-ECDSA-keys-44220" class="noirorange"><b>python-jose</b>: weak encryption via OpenSSH ECDSA keys</a>](https://vigilance.fr/vulnerability/python-jose-weak-encryption-via-OpenSSH-ECDSA-keys-44220)|An attacker can access data on python-jose, via OpenSSH ECDSA keys, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Windows-tempfile-mkdtemp-44219" class="noirorange"><b>Python Core</b>: file read/write via Windows tempfile.mkdtemp()</a>](https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Windows-tempfile-mkdtemp-44219)|An attacker can bypass access restrictions of Python Core, via Windows tempfile.mkdtemp(), in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-Maximum-Supported-Size-44217" class="noirorange"><b>libde265</b>: buffer overflow via Maximum Supported Size</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-Maximum-Supported-Size-44217)|An attacker can trigger a buffer overflow of libde265, via Maximum Supported Size, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvirt-privilege-escalation-via-virtproxyd-44216" class="noirorange"><b>libvirt</b>: privilege escalation via virtproxyd</a>](https://vigilance.fr/vulnerability/libvirt-privilege-escalation-via-virtproxyd-44216)|An attacker can bypass restrictions of libvirt, via virtproxyd, in order to escalate his privileges...|Visit link for details|
  
  ---
 
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
