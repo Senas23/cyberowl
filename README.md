@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/07/2024 21:22:15 UTC
+ > Last Updated 10/07/2024 09:22:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-set-encoder-id-44241" class="noirorange"><b>FFmpeg</b>: buffer overflow via set_encoder_id()</a>](https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-set-encoder-id-44241)|An attacker can trigger a buffer overflow of FFmpeg, via set_encoder_id(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tanuki-Java-Service-Wrapper-security-improvement-via-Disabling-SeImpersonatePrivilege-44586" class="noirorange"><b>Tanuki Java Service Wrapper</b>: security improvement via Disabling SeImpersonatePrivile<wbr>ge</wbr></a>](https://vigilance.fr/vulnerability/Tanuki-Java-Service-Wrapper-security-improvement-via-Disabling-SeImpersonatePrivilege-44586)|The security of Tanuki Java Service Wrapper was improved via Disabling SeImpersonatePrivile|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libcue-buffer-overflow-via-Sheet-42549" class="noirorange"><b>libcue</b>: buffer overflow via Sheet</a>](https://vigilance.fr/vulnerability/libcue-buffer-overflow-via-Sheet-42549)|An attacker can trigger a buffer overflow of libcue, via Sheet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-7-buffer-overflow-via-Network-Packet-44240" class="noirorange"><b>Wind River VxWorks 7</b>: buffer overflow via Network Packet</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-7-buffer-overflow-via-Network-Packet-44240)|An attacker can trigger a buffer overflow of Wind River VxWorks 7, via Network Packet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ghostscript-code-execution-via-psi-zmisc1-c-44238" class="noirorange"><b>Ghostscript</b>: code execution via psi/zmisc1.c</a>](https://vigilance.fr/vulnerability/Ghostscript-code-execution-via-psi-zmisc1-c-44238)|An attacker can use a vulnerability of Ghostscript, via psi/zmisc1.c, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pymongo-out-of-bounds-memory-reading-via-Bson-Module-44237" class="noirorange"><b>pymongo</b>: out-of-bounds memory reading via Bson Module</a>](https://vigilance.fr/vulnerability/pymongo-out-of-bounds-memory-reading-via-Bson-Module-44237)|An attacker can force a read at an invalid memory address of pymongo, via Bson Module, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-net-extractExtendedRCode-44235" class="noirorange"><b>Go</b>: overload via net extractExtendedRCode</a>](https://vigilance.fr/vulnerability/Go-overload-via-net-extractExtendedRCode-44235)|An attacker can trigger an overload of Go, via net extractExtendedRCode|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-code-execution-via-Module-CGO-Id-Apple-Version-44234" class="noirorange"><b>Go</b>: code execution via Module CGO Id Apple Version</a>](https://vigilance.fr/vulnerability/Go-code-execution-via-Module-CGO-Id-Apple-Version-44234)|An attacker can use a vulnerability of Go, via Module CGO Id Apple Version, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-information-disclosure-via-pg-stats-ext-44233" class="noirorange"><b>PostgreSQL</b>: information disclosure via pg_stats_ext</a>](https://vigilance.fr/vulnerability/PostgreSQL-information-disclosure-via-pg-stats-ext-44233)|An attacker can bypass access restrictions to data of PostgreSQL, via pg_stats_ext, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RabbitMQ-Java-Client-denial-of-service-via-maxBodyLength-44232" class="noirorange"><b>RabbitMQ Java Client</b>: denial of service via maxBodyLength</a>](https://vigilance.fr/vulnerability/RabbitMQ-Java-Client-denial-of-service-via-maxBodyLength-44232)|An attacker can cause a fatal error of RabbitMQ Java Client, via maxBodyLength, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/lxml-Cross-Site-Scripting-via-Blacklist-44230" class="noirorange"><b>lxml</b>: Cross Site Scripting via Blacklist</a>](https://vigilance.fr/vulnerability/lxml-Cross-Site-Scripting-via-Blacklist-44230)|An attacker can trigger a Cross Site Scripting of lxml, via Blacklist, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-05-2024-44229" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 09/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-05-2024-44229)|An attacker can use several vulnerabilities of the Linux kernel, dated 09/05/2024...|Visit link for details|
  
  ---
 
