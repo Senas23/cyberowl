@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/07/2024 09:22:39 UTC
+ > Last Updated 12/07/2024 21:20:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,23 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 11 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571/)|Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 11 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0570/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges et un déni de service.|Publié le 11 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0569/)|Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 11 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0568/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 11 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0567/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 11 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0566/)|De multiples vulnérabilités ont été découvertes dans GLPI. lles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 11 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0565/)|Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 11 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0564/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 10 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0563/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0562/)|De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 10 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0561/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 10 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0560/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 10 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0559/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 10 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0558/)|De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 10 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0557/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que les...|Publié le 10 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0556/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 10 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0555/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 10 juillet 2024|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -61,13 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580" class="noirorange"><b>Microsoft Exchange Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580)|An attacker can use a vulnerability of Microsoft Exchange Server, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-October-2023-42579" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-October-2023-42579)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-October-2023-42578" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-October-2023-42578)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
