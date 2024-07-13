@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/07/2024 21:20:59 UTC
+ > Last Updated 13/07/2024 09:20:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,23 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0564/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 10 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0563/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0562/)|De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 10 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0561/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 10 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0560/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 10 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0559/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 10 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0558/)|De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 10 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0557/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que les...|Publié le 10 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0556/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 10 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0555/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 10 juillet 2024|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0580/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0579/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0576/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0574/)|Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0573/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 11 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571/)|Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 11 juillet 2024|
  
  ---
 
@@ -58,16 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Data-Center-GPU-Max-Series-denial-of-service-dated-14-05-2024-44616" class="noirorange"><b>Intel Data Center GPU Max Series</b>: denial of service dated 14/05/2024</a>](https://vigilance.fr/vulnerability/Intel-Data-Center-GPU-Max-Series-denial-of-service-dated-14-05-2024-44616)|An attacker can cause a fatal error of Intel Data Center GPU Max Series, dated 14/05/2024, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602" class="noirorange"><b>Juniper Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-multiple-vulnerabilities-42602)|An attacker can use several vulnerabilities of Juniper Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-multiple-vulnerabilities-42598" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-multiple-vulnerabilities-42598)|An attacker can use several vulnerabilities of FortiAnalyzer  FortiManager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591" class="noirorange"><b>PHP Composer</b>: code execution via register_argc_argv</a>](https://vigilance.fr/vulnerability/PHP-Composer-code-execution-via-register-argc-argv-42591)|An attacker can use a vulnerability of PHP Composer, via register_argc_argv, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2023-40248" class="noirorange"><b>Windows</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2023-40248)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-42584" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-42584)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582" class="noirorange"><b>Microsoft Skype for Business</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Skype-for-Business-vulnerabilities-of-October-2023-42582)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580" class="noirorange"><b>Microsoft Exchange Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-42580)|An attacker can use a vulnerability of Microsoft Exchange Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-October-2023-42579" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-October-2023-42579)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-October-2023-42578" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-October-2023-42578)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609" class="noirorange"><b>WordPress Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-multiple-vulnerabilities-42609)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608" class="noirorange"><b>Mbed TLS</b>: buffer overflow via TLS Stream Cipher Suites</a>](https://vigilance.fr/vulnerability/Mbed-TLS-buffer-overflow-via-TLS-Stream-Cipher-Suites-42608)|An attacker can trigger a buffer overflow of Mbed TLS, via TLS Stream Cipher Suites, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Spark-user-access-via-proxy-user-44250" class="noirorange"><b>Apache Spark</b>: user access via proxy-user</a>](https://vigilance.fr/vulnerability/Apache-Spark-user-access-via-proxy-user-44250)|An attacker can bypass restrictions of Apache Spark, via proxy-user, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tcpdump-overload-via-PPP-Printer-44254" class="noirorange"><b>tcpdump</b>: overload via PPP Printer</a>](https://vigilance.fr/vulnerability/tcpdump-overload-via-PPP-Printer-44254)|An attacker can trigger an overload of tcpdump, via PPP Printer, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-12-05-2024-44243" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing dated 12/05/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-12-05-2024-44243)|An attacker can create spoofed data on Microsoft Edge Chromium, dated 12/05/2024, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/webpack-dev-middleware-file-reading-via-getFilenameFromUrl-44248" class="noirorange"><b>webpack-dev-<wbr>middleware</wbr></b>: file reading via getFilenameFromUrl()</a>](https://vigilance.fr/vulnerability/webpack-dev-middleware-file-reading-via-getFilenameFromUrl-44248)|An attacker can read a file of webpack-dev-|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-four-vulnerabilities-dated-12-05-2024-44253" class="noirorange"><b>MediaWiki</b>: four vulnerabilities dated 12/05/2024</a>](https://vigilance.fr/vulnerability/MediaWiki-four-vulnerabilities-dated-12-05-2024-44253)|An attacker can use several vulnerabilities of MediaWiki, dated 12/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pydash-directory-traversal-dated-12-05-2024-44249" class="noirorange"><b>pydash</b>: directory traversal dated 12/05/2024</a>](https://vigilance.fr/vulnerability/pydash-directory-traversal-dated-12-05-2024-44249)|An attacker can traverse directories of pydash, dated 12/05/2024, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-libcrypto-44247" class="noirorange"><b>OpenBSD</b>: out-of-bounds memory reading via libcrypto</a>](https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-libcrypto-44247)|An attacker can force a read at an invalid memory address of OpenBSD, via libcrypto, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tinyproxy-overload-via-Forged-Headers-Hash-Collisions-44244" class="noirorange"><b>Tinyproxy</b>: overload via Forged Headers Hash Collisions</a>](https://vigilance.fr/vulnerability/Tinyproxy-overload-via-Forged-Headers-Hash-Collisions-44244)|An attacker can trigger an overload of Tinyproxy, via Forged Headers Hash Collisions, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
