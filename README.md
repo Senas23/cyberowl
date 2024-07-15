@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/07/2024 21:18:57 UTC
+ > Last Updated 15/07/2024 09:23:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Administrative-Interface-44297" class="noirorange"><b>FortiOS</b>: buffer overflow via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Administrative-Interface-44297)|An attacker can trigger a buffer overflow of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-double-free-via-json-object-put-44296" class="noirorange"><b>FortiOS</b>: double free via json_object_put</a>](https://vigilance.fr/vulnerability/FortiOS-double-free-via-json-object-put-44296)|An attacker can force a double memory free of FortiOS, via json_object_put, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Cli-Command-Format-String-44295" class="noirorange"><b>FortiOS</b>: memory corruption via Cli Command Format String</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Cli-Command-Format-String-44295)|An attacker can trigger a memory corruption of FortiOS, via Cli Command Format String, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-Node-js-Crash-44294" class="noirorange"><b>FortiOS</b>: denial of service via Node.js Crash</a>](https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-Node-js-Crash-44294)|An attacker can cause a fatal error of FortiOS, via Node.js Crash, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-SSL-VPN-User-IP-Spoofing-44293" class="noirorange"><b>FortiOS</b>: ingress filtrering bypass via SSL-VPN User IP Spoofing</a>](https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-SSL-VPN-User-IP-Spoofing-44293)|An attacker can bypass filtering rules of FortiOS, via SSL-VPN User IP Spoofing, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-read-write-access-via-Cloning-Untrusted-Repositories-44292" class="noirorange"><b>Git</b>: read-write access via Cloning Untrusted Repositories</a>](https://vigilance.fr/vulnerability/Git-read-write-access-via-Cloning-Untrusted-Repositories-44292)|An attacker can bypass access restrictions of Git, via Cloning Untrusted Repositories, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-write-access-via-Cloning-Local-Repository-44291" class="noirorange"><b>Git</b>: write access via Cloning Local Repository</a>](https://vigilance.fr/vulnerability/Git-write-access-via-Cloning-Local-Repository-44291)|An attacker can bypass access restrictions of Git, via Cloning Local Repository, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-file-write-via-Local-Clone-Symlinks-44290" class="noirorange"><b>Git</b>: file write via Local Clone Symlinks</a>](https://vigilance.fr/vulnerability/Git-file-write-via-Local-Clone-Symlinks-44290)|An attacker can bypass access restrictions of Git, via Local Clone Symlinks, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/redis-py-information-disclosure-via-Open-Connection-44286" class="noirorange"><b>redis-py</b>: information disclosure via Open Connection</a>](https://vigilance.fr/vulnerability/redis-py-information-disclosure-via-Open-Connection-44286)|An attacker can bypass access restrictions to data of redis-py, via Open Connection, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-assertion-error-via-BSON-Object-44285" class="noirorange"><b>MongoDB Server</b>: assertion error via BSON Object</a>](https://vigilance.fr/vulnerability/MongoDB-Server-assertion-error-via-BSON-Object-44285)|An attacker can force an assertion error of MongoDB Server, via BSON Object, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-cec-queue-msg-fh-44312" class="noirorange"><b>Linux kernel</b>: use after free via cec_queue_msg_fh()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-cec-queue-msg-fh-44312)|An attacker can force the reuse of a freed memory area of the Linux kernel, via cec_queue_msg_fh(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-raid5-cache-count-44311" class="noirorange"><b>Linux kernel</b>: integer overflow via raid5_cache_count()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-raid5-cache-count-44311)|An attacker can trigger an integer overflow of the Linux kernel, via raid5_cache_count(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Codec-information-disclosure-via-Base64-44310" class="noirorange"><b>Apache Commons Codec</b>: information disclosure via Base64</a>](https://vigilance.fr/vulnerability/Apache-Commons-Codec-information-disclosure-via-Base64-44310)|An attacker can bypass access restrictions to data of Apache Commons Codec, via Base64, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/jose-4-j-weak-encryption-via-Password-Hash-Iteration-Count-44309" class="noirorange"><b>jose.4.j</b>: weak encryption via Password Hash Iteration Count</a>](https://vigilance.fr/vulnerability/jose-4-j-weak-encryption-via-Password-Hash-Iteration-Count-44309)|An attacker can access data on jose.4.j, via Password Hash Iteration Count, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-TDX-Module-two-vulnerabilities-dated-15-05-2024-44307" class="noirorange"><b>Intel TDX Module</b>: two vulnerabilities dated 15/05/2024</a>](https://vigilance.fr/vulnerability/Intel-TDX-Module-two-vulnerabilities-dated-15-05-2024-44307)|An attacker can use several vulnerabilities of Intel TDX Module, dated 15/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Ethernet-Controller-Administrative-Tools-Installer-privilege-escalation-dated-15-05-2024-44303" class="noirorange"><b>Intel Ethernet Controller Administrative Tools Installer</b>: privilege escalation dated 15/05/2024</a>](https://vigilance.fr/vulnerability/Intel-Ethernet-Controller-Administrative-Tools-Installer-privilege-escalation-dated-15-05-2024-44303)|An attacker can bypass restrictions of Intel Ethernet Controller Administrative Tools Installer, dated 15/05/2024, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Administrative-Interface-44297" class="noirorange"><b>FortiOS</b>: buffer overflow via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Administrative-Interface-44297)|An attacker can trigger a buffer overflow of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-double-free-via-json-object-put-44296" class="noirorange"><b>FortiOS</b>: double free via json_object_put</a>](https://vigilance.fr/vulnerability/FortiOS-double-free-via-json-object-put-44296)|An attacker can force a double memory free of FortiOS, via json_object_put, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Cli-Command-Format-String-44295" class="noirorange"><b>FortiOS</b>: memory corruption via Cli Command Format String</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Cli-Command-Format-String-44295)|An attacker can trigger a memory corruption of FortiOS, via Cli Command Format String, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-Node-js-Crash-44294" class="noirorange"><b>FortiOS</b>: denial of service via Node.js Crash</a>](https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-Node-js-Crash-44294)|An attacker can cause a fatal error of FortiOS, via Node.js Crash, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
