@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/07/2024 09:23:42 UTC
+ > Last Updated 15/07/2024 21:20:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -47,17 +54,13 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Email-Gateway-header-injection-via-HTTP-Response-Splitting-44317" class="noirorange"><b>Cisco Secure Email Gateway</b>: header injection via HTTP Response Splitting</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Email-Gateway-header-injection-via-HTTP-Response-Splitting-44317)|An attacker can add new headers on Cisco Secure Email Gateway, via HTTP Response Splitting, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Email-and-Web-Manager-Secure-Email-Gateway-Secure-Web-Appliance-Cross-Site-Scripting-dated-15-05-2024-44316" class="noirorange"><b>Cisco Secure Email and Web Manager  Secure Email Gateway  Secure Web Appliance</b>: Cross Site Scripting dated 15/05/2024</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Email-and-Web-Manager-Secure-Email-Gateway-Secure-Web-Appliance-Cross-Site-Scripting-dated-15-05-2024-44316)|An attacker can trigger a Cross Site Scripting of Cisco Secure Email and Web Manager  Secure Email Gateway  Secure Web Appliance, dated 15/05/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Client-for-Windows-privilege-escalation-via-NAM-44315" class="noirorange"><b>Cisco Secure Client for Windows</b>: privilege escalation via NAM</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Client-for-Windows-privilege-escalation-via-NAM-44315)|An attacker can bypass restrictions of Cisco Secure Client for Windows, via NAM, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-cec-queue-msg-fh-44312" class="noirorange"><b>Linux kernel</b>: use after free via cec_queue_msg_fh()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-cec-queue-msg-fh-44312)|An attacker can force the reuse of a freed memory area of the Linux kernel, via cec_queue_msg_fh(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-raid5-cache-count-44311" class="noirorange"><b>Linux kernel</b>: integer overflow via raid5_cache_count()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-raid5-cache-count-44311)|An attacker can trigger an integer overflow of the Linux kernel, via raid5_cache_count(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Codec-information-disclosure-via-Base64-44310" class="noirorange"><b>Apache Commons Codec</b>: information disclosure via Base64</a>](https://vigilance.fr/vulnerability/Apache-Commons-Codec-information-disclosure-via-Base64-44310)|An attacker can bypass access restrictions to data of Apache Commons Codec, via Base64, in order to read sensitive information...|Visit link for details|
@@ -65,9 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Intel-TDX-Module-two-vulnerabilities-dated-15-05-2024-44307" class="noirorange"><b>Intel TDX Module</b>: two vulnerabilities dated 15/05/2024</a>](https://vigilance.fr/vulnerability/Intel-TDX-Module-two-vulnerabilities-dated-15-05-2024-44307)|An attacker can use several vulnerabilities of Intel TDX Module, dated 15/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Ethernet-Controller-Administrative-Tools-Installer-privilege-escalation-dated-15-05-2024-44303" class="noirorange"><b>Intel Ethernet Controller Administrative Tools Installer</b>: privilege escalation dated 15/05/2024</a>](https://vigilance.fr/vulnerability/Intel-Ethernet-Controller-Administrative-Tools-Installer-privilege-escalation-dated-15-05-2024-44303)|An attacker can bypass restrictions of Intel Ethernet Controller Administrative Tools Installer, dated 15/05/2024, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Administrative-Interface-44297" class="noirorange"><b>FortiOS</b>: buffer overflow via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Administrative-Interface-44297)|An attacker can trigger a buffer overflow of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-double-free-via-json-object-put-44296" class="noirorange"><b>FortiOS</b>: double free via json_object_put</a>](https://vigilance.fr/vulnerability/FortiOS-double-free-via-json-object-put-44296)|An attacker can force a double memory free of FortiOS, via json_object_put, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Cli-Command-Format-String-44295" class="noirorange"><b>FortiOS</b>: memory corruption via Cli Command Format String</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Cli-Command-Format-String-44295)|An attacker can trigger a memory corruption of FortiOS, via Cli Command Format String, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-Node-js-Crash-44294" class="noirorange"><b>FortiOS</b>: denial of service via Node.js Crash</a>](https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-Node-js-Crash-44294)|An attacker can cause a fatal error of FortiOS, via Node.js Crash, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
