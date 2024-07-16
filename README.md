@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/07/2024 21:20:53 UTC
+ > Last Updated 16/07/2024 09:23:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0584/)|Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0583/)|Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0582/)|Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 15 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0581/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.|Publié le 15 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0580/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0579/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0576/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 12 juillet 2024|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -37,37 +54,20 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0580/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0579/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0576/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 12 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0574/)|Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0573/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 11 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571/)|Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 11 juillet 2024|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Email-Gateway-header-injection-via-HTTP-Response-Splitting-44317" class="noirorange"><b>Cisco Secure Email Gateway</b>: header injection via HTTP Response Splitting</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Email-Gateway-header-injection-via-HTTP-Response-Splitting-44317)|An attacker can add new headers on Cisco Secure Email Gateway, via HTTP Response Splitting, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Email-and-Web-Manager-Secure-Email-Gateway-Secure-Web-Appliance-Cross-Site-Scripting-dated-15-05-2024-44316" class="noirorange"><b>Cisco Secure Email and Web Manager  Secure Email Gateway  Secure Web Appliance</b>: Cross Site Scripting dated 15/05/2024</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Email-and-Web-Manager-Secure-Email-Gateway-Secure-Web-Appliance-Cross-Site-Scripting-dated-15-05-2024-44316)|An attacker can trigger a Cross Site Scripting of Cisco Secure Email and Web Manager  Secure Email Gateway  Secure Web Appliance, dated 15/05/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Client-for-Windows-privilege-escalation-via-NAM-44315" class="noirorange"><b>Cisco Secure Client for Windows</b>: privilege escalation via NAM</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Client-for-Windows-privilege-escalation-via-NAM-44315)|An attacker can bypass restrictions of Cisco Secure Client for Windows, via NAM, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-cec-queue-msg-fh-44312" class="noirorange"><b>Linux kernel</b>: use after free via cec_queue_msg_fh()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-cec-queue-msg-fh-44312)|An attacker can force the reuse of a freed memory area of the Linux kernel, via cec_queue_msg_fh(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-raid5-cache-count-44311" class="noirorange"><b>Linux kernel</b>: integer overflow via raid5_cache_count()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-raid5-cache-count-44311)|An attacker can trigger an integer overflow of the Linux kernel, via raid5_cache_count(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Codec-information-disclosure-via-Base64-44310" class="noirorange"><b>Apache Commons Codec</b>: information disclosure via Base64</a>](https://vigilance.fr/vulnerability/Apache-Commons-Codec-information-disclosure-via-Base64-44310)|An attacker can bypass access restrictions to data of Apache Commons Codec, via Base64, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/jose-4-j-weak-encryption-via-Password-Hash-Iteration-Count-44309" class="noirorange"><b>jose.4.j</b>: weak encryption via Password Hash Iteration Count</a>](https://vigilance.fr/vulnerability/jose-4-j-weak-encryption-via-Password-Hash-Iteration-Count-44309)|An attacker can access data on jose.4.j, via Password Hash Iteration Count, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-TDX-Module-two-vulnerabilities-dated-15-05-2024-44307" class="noirorange"><b>Intel TDX Module</b>: two vulnerabilities dated 15/05/2024</a>](https://vigilance.fr/vulnerability/Intel-TDX-Module-two-vulnerabilities-dated-15-05-2024-44307)|An attacker can use several vulnerabilities of Intel TDX Module, dated 15/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Ethernet-Controller-Administrative-Tools-Installer-privilege-escalation-dated-15-05-2024-44303" class="noirorange"><b>Intel Ethernet Controller Administrative Tools Installer</b>: privilege escalation dated 15/05/2024</a>](https://vigilance.fr/vulnerability/Intel-Ethernet-Controller-Administrative-Tools-Installer-privilege-escalation-dated-15-05-2024-44303)|An attacker can bypass restrictions of Intel Ethernet Controller Administrative Tools Installer, dated 15/05/2024, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Administrative-Interface-44297" class="noirorange"><b>FortiOS</b>: buffer overflow via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Administrative-Interface-44297)|An attacker can trigger a buffer overflow of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-REXML-Gem-overload-via-Less-than-Attribute-Value-44329" class="noirorange"><b>Ruby REXML Gem</b>: overload via Less-than Attribute Value</a>](https://vigilance.fr/vulnerability/Ruby-REXML-Gem-overload-via-Less-than-Attribute-Value-44329)|An attacker can trigger an overload of Ruby REXML Gem, via Less-than Attribute Value, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-node-tar-overload-via-Folders-Depth-44328" class="noirorange"><b>Node.js node-tar</b>: overload via Folders Depth</a>](https://vigilance.fr/vulnerability/Node-js-node-tar-overload-via-Folders-Depth-44328)|An attacker can trigger an overload of Node.js node-tar, via Folders Depth, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-ObscureKeystrokeTiming-44638" class="noirorange"><b>OpenSSH</b>: information disclosure via ObscureKeystrokeTimi<wbr>ng</wbr></a>](https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-ObscureKeystrokeTiming-44638)|An attacker can bypass access restrictions to data of OpenSSH, via ObscureKeystrokeTimi|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jinja-read-write-access-via-XML-Attribute-Injection-44326" class="noirorange"><b>Jinja</b>: read-write access via XML Attribute Injection</a>](https://vigilance.fr/vulnerability/Jinja-read-write-access-via-XML-Attribute-Injection-44326)|An attacker can bypass access restrictions of Jinja, via XML Attribute Injection, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-DSA-IAA-denial-of-service-via-De-synchronization-44325" class="noirorange"><b>Intel DSA  IAA</b>: denial of service via De-synchronization</a>](https://vigilance.fr/vulnerability/Intel-DSA-IAA-denial-of-service-via-De-synchronization-44325)|An attacker can cause a fatal error of Intel DSA  IAA, via De-synchronization, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-GdkPixbuf-buffer-overflow-via-ani-load-chunk-44324" class="noirorange"><b>GNOME GdkPixbuf</b>: buffer overflow via ani_load_chunk()</a>](https://vigilance.fr/vulnerability/GNOME-GdkPixbuf-buffer-overflow-via-ani-load-chunk-44324)|An attacker can trigger a buffer overflow of GNOME GdkPixbuf, via ani_load_chunk(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ghostscript-code-execution-via-Uniprint-Device-44319" class="noirorange"><b>Ghostscript</b>: code execution via Uniprint Device</a>](https://vigilance.fr/vulnerability/Ghostscript-code-execution-via-Uniprint-Device-44319)|An attacker can use a vulnerability of Ghostscript, via Uniprint Device, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-44318" class="noirorange"><b>AIX</b>: privilege escalation via invscout</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-44318)|An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-Pdfinfo-Dests-Parameter-44635" class="noirorange"><b>Poppler</b>: denial of service via Pdfinfo Dests Parameter</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-Pdfinfo-Dests-Parameter-44635)|An attacker can cause a fatal error of Poppler, via Pdfinfo Dests Parameter, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mojolicious-information-disclosure-via-Secure-Compare-Timing-44630" class="noirorange"><b>Mojolicious</b>: information disclosure via Secure Compare Timing</a>](https://vigilance.fr/vulnerability/Mojolicious-information-disclosure-via-Secure-Compare-Timing-44630)|An attacker can bypass access restrictions to data of Mojolicious, via Secure Compare Timing, in order to read sensitive information...|Visit link for details|
  
  ---
 
