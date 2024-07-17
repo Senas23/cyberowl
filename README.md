@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/07/2024 09:23:57 UTC
+ > Last Updated 17/07/2024 21:19:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Axis-1-user-access-via-API-42642" class="noirorange"><b>Apache Axis 1</b>: user access via API</a>](https://vigilance.fr/vulnerability/Apache-Axis-1-user-access-via-API-42642)|An attacker can bypass restrictions of Apache Axis 1, via API, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-SQL-injection-via-Audit-Log-44338" class="noirorange"><b>Zabbix</b>: SQL injection via Audit Log</a>](https://vigilance.fr/vulnerability/Zabbix-SQL-injection-via-Audit-Log-44338)|An attacker can use a SQL injection of Zabbix, via Audit Log, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gevent-privilege-escalation-via-WSGIServer-Component-42641" class="noirorange"><b>Gevent</b>: privilege escalation via WSGIServer Component</a>](https://vigilance.fr/vulnerability/Gevent-privilege-escalation-via-WSGIServer-Component-42641)|An attacker can bypass restrictions of Gevent, via WSGIServer Component, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenText-ArcSight-Enterprise-Security-Manager-Cross-Site-Scripting-dated-17-05-2024-44337" class="noirorange"><b>OpenText ArcSight Enterprise Security Manager</b>: Cross Site Scripting dated 17/05/2024</a>](https://vigilance.fr/vulnerability/OpenText-ArcSight-Enterprise-Security-Manager-Cross-Site-Scripting-dated-17-05-2024-44337)|An attacker can trigger a Cross Site Scripting of OpenText ArcSight Enterprise Security Manager, dated 17/05/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/containers-image-read-write-access-via-Registry-Access-44336" class="noirorange"><b>containers/image</b>: read-write access via Registry Access</a>](https://vigilance.fr/vulnerability/containers-image-read-write-access-via-Registry-Access-44336)|An attacker can bypass access restrictions of containers/image, via Registry Access, in order to read or alter data...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Sonatype-Nexus-Repository-directory-traversal-dated-16-05-2024-44333" class="noirorange"><b>Sonatype Nexus Repository</b>: directory traversal dated 16/05/2024</a>](https://vigilance.fr/vulnerability/Sonatype-Nexus-Repository-directory-traversal-dated-16-05-2024-44333)|An attacker can traverse directories of Sonatype Nexus Repository, dated 16/05/2024, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-EVP-PKEY-param-check-EVP-PKEY-public-check-44332" class="noirorange"><b>OpenSSL</b>: overload via EVP_PKEY_param_<wbr>check() / EVP_PKEY_public_<wbr>check()</wbr></wbr></a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-EVP-PKEY-param-check-EVP-PKEY-public-check-44332)|An attacker can trigger an overload of OpenSSL, via EVP_PKEY_param_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Nessus-two-vulnerabilities-dated-16-05-2024-44331" class="noirorange"><b>Nessus</b>: two vulnerabilities dated 16/05/2024</a>](https://vigilance.fr/vulnerability/Nessus-two-vulnerabilities-dated-16-05-2024-44331)|An attacker can use several vulnerabilities of Nessus, dated 16/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-Web-UI-42638" class="noirorange"><b>Cisco IOS XE</b>: privilege escalation via Web UI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-Web-UI-42638)|An attacker can bypass restrictions of Cisco IOS XE, via Web UI, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-NULL-pointer-dereference-via-WebSocket-44640" class="noirorange"><b>Apache httpd</b>: NULL pointer dereference via WebSocket</a>](https://vigilance.fr/vulnerability/Apache-httpd-NULL-pointer-dereference-via-WebSocket-44640)|An attacker can force a NULL pointer to be dereferenced on Apache httpd, via WebSocket, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
