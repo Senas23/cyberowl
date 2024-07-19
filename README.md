@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/07/2024 09:22:19 UTC
+ > Last Updated 19/07/2024 21:18:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668" class="noirorange"><b>Apache httpd</b>: memory leak via HTTP/2 RST Frame</a>](https://vigilance.fr/vulnerability/Apache-httpd-memory-leak-via-HTTP-2-RST-Frame-42668)|An attacker can create a memory leak of Apache httpd, via HTTP/2 RST Frame, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Library-Go-net-http-denial-of-service-via-HTTP-100-44664" class="noirorange"><b>Library Go net/http</b>: denial of service via HTTP 100</a>](https://vigilance.fr/vulnerability/Library-Go-net-http-denial-of-service-via-HTTP-100-44664)|An attacker can cause an error in the Go library net/http, via an HTTP response 100, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/7-Zip-two-vulnerabilities-dated-04-07-2024-44663" class="noirorange"><b>7-Zip</b>: two vulnerabilities dated 04/07/2024</a>](https://vigilance.fr/vulnerability/7-Zip-two-vulnerabilities-dated-04-07-2024-44663)|An attacker can use several vulnerabilities of 7-Zip, dated 04/07/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-42664" class="noirorange"><b>Moodle</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-42664)|An attacker can use several vulnerabilities of Moodle...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-October-2023-42651" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-October-2023-42651)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2023-42650" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2023-42650)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-October-2023-42645" class="noirorange"><b>Oracle Database</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-October-2023-42645)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Axis-1-user-access-via-API-42642" class="noirorange"><b>Apache Axis 1</b>: user access via API</a>](https://vigilance.fr/vulnerability/Apache-Axis-1-user-access-via-API-42642)|An attacker can bypass restrictions of Apache Axis 1, via API, in order to gain user privileges...|Visit link for details|
  
  ---
 
