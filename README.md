@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/07/2024 21:18:46 UTC
+ > Last Updated 20/07/2024 09:20:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0614/)|Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0613/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 19 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0612/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 19 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0611/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 19 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0610/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 19 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0609/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0608/)|Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 19 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0607/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0606/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 18 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0605/)|Une vulnérabilité a été découverte dans les produits Sonicwall. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 18 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0604/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0603/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 18 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0602/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 18 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0601/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 18 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0600/)|Une vulnérabilité a été découverte dans Sonicwall NetExtender. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 17 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0599/)|De multiples vulnérabilités ont été découvertes dans Oracle WebLogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 17 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0598/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.|Publié le 17 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0597/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.|Publié le 17 juillet 2024|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -61,13 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-October-2023-42651" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-October-2023-42651)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2023-42650" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2023-42650)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-October-2023-42645" class="noirorange"><b>Oracle Database</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-October-2023-42645)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
