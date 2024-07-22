@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/07/2024 21:19:06 UTC
+ > Last Updated 22/07/2024 09:26:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,6 +24,13 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,23 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-read-write-access-via-AuthenticatedVoter-44364" class="noirorange"><b>Spring Security</b>: read-write access via AuthenticatedVoter</a>](https://vigilance.fr/vulnerability/Spring-Security-read-write-access-via-AuthenticatedVoter-44364)|An attacker can bypass access restrictions of Spring Security, via AuthenticatedVoter, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Hazelcast-information-disclosure-dated-22-05-2024-44363" class="noirorange"><b>Hazelcast</b>: information disclosure dated 22/05/2024</a>](https://vigilance.fr/vulnerability/Hazelcast-information-disclosure-dated-22-05-2024-44363)|An attacker can bypass access restrictions to data of Hazelcast, dated 22/05/2024, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-dated-22-05-2024-44359" class="noirorange"><b>Atlassian Confluence Server/DC</b>: code execution dated 22/05/2024</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-code-execution-dated-22-05-2024-44359)|An attacker can use a vulnerability of Atlassian Confluence Server/DC, dated 22/05/2024, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Performance-Tools-44358" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Performance Tools</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Performance-Tools-44358)|An attacker can bypass restrictions of IBM i, via IBM Performance Tools, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-05-2024-44357" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 22/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-05-2024-44357)|An attacker can use several vulnerabilities of the Linux kernel, dated 22/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-SQL-injection-dated-21-05-2024-44356" class="noirorange"><b>Ivanti Endpoint Manager</b>: SQL injection dated 21/05/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-SQL-injection-dated-21-05-2024-44356)|An attacker can use a SQL injection of Ivanti Endpoint Manager, dated 21/05/2024, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Secure-Access-two-vulnerabilities-dated-21-05-2024-44355" class="noirorange"><b>Ivanti Secure Access</b>: two vulnerabilities dated 21/05/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Secure-Access-two-vulnerabilities-dated-21-05-2024-44355)|An attacker can use several vulnerabilities of Ivanti Secure Access, dated 21/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-Cross-Site-Scripting-via-CRLF-Injection-44354" class="noirorange"><b>Ivanti Connect Secure</b>: Cross Site Scripting via CRLF Injection</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-Cross-Site-Scripting-via-CRLF-Injection-44354)|An attacker can trigger a Cross Site Scripting of Ivanti Connect Secure, via CRLF Injection, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-ESXi-Workstation-vCenter-Server-three-vulnerabilities-dated-21-05-2024-44353" class="noirorange"><b>VMware ESXi  Workstation  vCenter Server</b>: three vulnerabilities dated 21/05/2024</a>](https://vigilance.fr/vulnerability/VMware-ESXi-Workstation-vCenter-Server-three-vulnerabilities-dated-21-05-2024-44353)|An attacker can use several vulnerabilities of VMware ESXi  Workstation  vCenter Server, dated 21/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-05-2024-44350" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 21/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-05-2024-44350)|An attacker can use several vulnerabilities of the Linux kernel, dated 21/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Protocol-802-11-spoofing-via-SSID-Confusion-44346" class="noirorange"><b>Protocol 802.11</b>: spoofing via SSID Confusion</a>](https://vigilance.fr/vulnerability/Protocol-802-11-spoofing-via-SSID-Confusion-44346)|An attacker can create spoofed data on Protocol 802.11, via SSID Confusion, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-ingress-filtrering-bypass-via-res-pjsip-endpoint-identifier-ip-44345" class="noirorange"><b>Asterisk Open Source</b>: ingress filtrering bypass via res_pjsip_endpoint_<wbr>identifier_ip</wbr></a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-ingress-filtrering-bypass-via-res-pjsip-endpoint-identifier-ip-44345)|An attacker can bypass filtering rules of Asterisk Open Source, via res_pjsip_endpoint_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-05-2024-44342" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 20/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-05-2024-44342)|An attacker can use several vulnerabilities of the Linux kernel, dated 20/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-code-execution-via-Management-Central-44341" class="noirorange"><b>IBM i</b>: code execution via Management Central</a>](https://vigilance.fr/vulnerability/IBM-i-code-execution-via-Management-Central-44341)|An attacker can use a vulnerability of IBM i, via Management Central, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rustls-overload-via-complete-io-44340" class="noirorange"><b>Rustls</b>: overload via complete_io()</a>](https://vigilance.fr/vulnerability/Rustls-overload-via-complete-io-44340)|An attacker can trigger an overload of Rustls, via complete_io(), in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
