@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/07/2024 09:22:54 UTC
+ > Last Updated 23/07/2024 21:23:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,18 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0617/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0616/)|Une vulnérabilité a été découverte dans les produits Atlassian. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0615/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0614/)|Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 juillet 2024|
@@ -43,7 +51,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0610/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 19 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0609/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0608/)|Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 19 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0607/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 juillet 2024|
  
  ---
 
@@ -51,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-Remote-Desktop-information-disclosure-dated-23-05-2024-44382" class="noirorange"><b>GNOME Remote Desktop</b>: information disclosure dated 23/05/2024</a>](https://vigilance.fr/vulnerability/GNOME-Remote-Desktop-information-disclosure-dated-23-05-2024-44382)|An attacker can bypass access restrictions to data of GNOME Remote Desktop, dated 23/05/2024, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Thales-Luna-EFT-information-disclosure-via-AES-KHT-44379" class="noirorange"><b>Thales Luna EFT</b>: information disclosure via AES KHT</a>](https://vigilance.fr/vulnerability/Thales-Luna-EFT-information-disclosure-via-AES-KHT-44379)|An attacker can bypass access restrictions to data of Thales Luna EFT, via AES KHT, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-FTP-42685" class="noirorange"><b>Squid</b>: denial of service via FTP</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-FTP-42685)|An attacker can cause a fatal error of Squid, via FTP, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-HTTP-Digest-Authentication-42684" class="noirorange"><b>Squid</b>: buffer overflow via HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-HTTP-Digest-Authentication-42684)|An attacker can trigger a buffer overflow of Squid, via HTTP Digest Authentication, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Response-Caching-42683" class="noirorange"><b>Squid</b>: denial of service via HTTP Response Caching</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Response-Caching-42683)|An attacker can cause a fatal error of Squid, via HTTP Response Caching, in order to trigger a denial of service...|Visit link for details|
@@ -59,15 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Commerce-View-Receipt-information-disclosure-dated-22-05-2024-44374" class="noirorange"><b>Drupal Commerce View Receipt</b>: information disclosure dated 22/05/2024</a>](https://vigilance.fr/vulnerability/Drupal-Commerce-View-Receipt-information-disclosure-dated-22-05-2024-44374)|An attacker can bypass access restrictions to data of Drupal Commerce View Receipt, dated 22/05/2024, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Email-Contact-information-disclosure-via-Link-Formatter-44373" class="noirorange"><b>Drupal Email Contact</b>: information disclosure via Link Formatter</a>](https://vigilance.fr/vulnerability/Drupal-Email-Contact-information-disclosure-via-Link-Formatter-44373)|An attacker can bypass access restrictions to data of Drupal Email Contact, via Link Formatter, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Pydantic-overload-via-Email-String-44372" class="noirorange"><b>Pydantic</b>: overload via Email String</a>](https://vigilance.fr/vulnerability/Pydantic-overload-via-Email-String-44372)|An attacker can trigger an overload of Pydantic, via Email String, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/eventlet-spoofing-via-TuDoor-44371" class="noirorange"><b>eventlet</b>: spoofing via TuDoor</a>](https://vigilance.fr/vulnerability/eventlet-spoofing-via-TuDoor-44371)|An attacker can create spoofed data on eventlet, via TuDoor, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Snort-Cisco-IOS-XE-ingress-filtrering-bypass-via-HTTP-Packet-44370" class="noirorange"><b>Snort  Cisco IOS XE</b>: ingress filtrering bypass via HTTP Packet</a>](https://vigilance.fr/vulnerability/Snort-Cisco-IOS-XE-ingress-filtrering-bypass-via-HTTP-Packet-44370)|An attacker can bypass filtering rules of Snort  Cisco IOS XE, via HTTP Packet, in order to send malicious data...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
