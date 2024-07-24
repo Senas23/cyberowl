@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/07/2024 21:23:53 UTC
+ > Last Updated 24/07/2024 09:21:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,13 +24,6 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -58,16 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-information-disclosure-dated-24-05-2024-44386" class="noirorange"><b>HP LaserJet Pro</b>: information disclosure dated 24/05/2024</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-information-disclosure-dated-24-05-2024-44386)|An attacker can bypass access restrictions to data of HP LaserJet Pro, dated 24/05/2024, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Cross-Site-Scripting-dated-24-05-2024-44385" class="noirorange"><b>HP LaserJet Pro</b>: Cross Site Scripting dated 24/05/2024</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Cross-Site-Scripting-dated-24-05-2024-44385)|An attacker can trigger a Cross Site Scripting of HP LaserJet Pro, dated 24/05/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sequoia-openpgp-overload-via-RawCertParser-44677" class="noirorange"><b>sequoia-openpgp</b>: overload via RawCertParser</a>](https://vigilance.fr/vulnerability/sequoia-openpgp-overload-via-RawCertParser-44677)|An attacker can trigger an overload of sequoia-openpgp, via RawCertParser, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ALE-Phone-two-vulnerabilities-via-USB-Port-44384" class="noirorange"><b>ALE Phone</b>: two vulnerabilities via USB Port</a>](https://vigilance.fr/vulnerability/ALE-Phone-two-vulnerabilities-via-USB-Port-44384)|An attacker can use several vulnerabilities of ALE Phone, via USB Port...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-24-05-2024-44383" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 24/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-24-05-2024-44383)|An attacker can use several vulnerabilities of the Linux kernel, dated 24/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNOME-Remote-Desktop-information-disclosure-dated-23-05-2024-44382" class="noirorange"><b>GNOME Remote Desktop</b>: information disclosure dated 23/05/2024</a>](https://vigilance.fr/vulnerability/GNOME-Remote-Desktop-information-disclosure-dated-23-05-2024-44382)|An attacker can bypass access restrictions to data of GNOME Remote Desktop, dated 23/05/2024, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Thales-Luna-EFT-information-disclosure-via-AES-KHT-44379" class="noirorange"><b>Thales Luna EFT</b>: information disclosure via AES KHT</a>](https://vigilance.fr/vulnerability/Thales-Luna-EFT-information-disclosure-via-AES-KHT-44379)|An attacker can bypass access restrictions to data of Thales Luna EFT, via AES KHT, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-FTP-42685" class="noirorange"><b>Squid</b>: denial of service via FTP</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-FTP-42685)|An attacker can cause a fatal error of Squid, via FTP, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-HTTP-Digest-Authentication-42684" class="noirorange"><b>Squid</b>: buffer overflow via HTTP Digest Authentication</a>](https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-HTTP-Digest-Authentication-42684)|An attacker can trigger a buffer overflow of Squid, via HTTP Digest Authentication, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Response-Caching-42683" class="noirorange"><b>Squid</b>: denial of service via HTTP Response Caching</a>](https://vigilance.fr/vulnerability/Squid-denial-of-service-via-HTTP-Response-Caching-42683)|An attacker can cause a fatal error of Squid, via HTTP Response Caching, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pgAdmin-Cross-Site-Scripting-via-settings-store-44377" class="noirorange"><b>pgAdmin</b>: Cross Site Scripting via /settings/store</a>](https://vigilance.fr/vulnerability/pgAdmin-Cross-Site-Scripting-via-settings-store-44377)|An attacker can trigger a Cross Site Scripting of pgAdmin, via /settings/store, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-23-05-2024-44375" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 23/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-23-05-2024-44375)|An attacker can use several vulnerabilities of the Linux kernel, dated 23/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Commerce-View-Receipt-information-disclosure-dated-22-05-2024-44374" class="noirorange"><b>Drupal Commerce View Receipt</b>: information disclosure dated 22/05/2024</a>](https://vigilance.fr/vulnerability/Drupal-Commerce-View-Receipt-information-disclosure-dated-22-05-2024-44374)|An attacker can bypass access restrictions to data of Drupal Commerce View Receipt, dated 22/05/2024, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Email-Contact-information-disclosure-via-Link-Formatter-44373" class="noirorange"><b>Drupal Email Contact</b>: information disclosure via Link Formatter</a>](https://vigilance.fr/vulnerability/Drupal-Email-Contact-information-disclosure-via-Link-Formatter-44373)|An attacker can bypass access restrictions to data of Drupal Email Contact, via Link Formatter, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pydantic-overload-via-Email-String-44372" class="noirorange"><b>Pydantic</b>: overload via Email String</a>](https://vigilance.fr/vulnerability/Pydantic-overload-via-Email-String-44372)|An attacker can trigger an overload of Pydantic, via Email String, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
