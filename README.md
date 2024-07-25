@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/07/2024 21:20:25 UTC
+ > Last Updated 25/07/2024 09:24:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,20 +30,27 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0623/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0622/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0621/)|Une vulnérabilité a été découverte dans Nagios XI. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 24 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0620/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 24 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0618/)|De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0617/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0616/)|Une vulnérabilité a été découverte dans les produits Atlassian. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0615/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0614/)|Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0613/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 19 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0612/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 19 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0611/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 19 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0610/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 19 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0609/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0608/)|Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 19 juillet 2024|
  
  ---
 
@@ -51,23 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Network-Buffer-Split-42707" class="noirorange"><b>OpenBSD</b>: denial of service via Network Buffer Split</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Network-Buffer-Split-42707)|An attacker can cause a fatal error of OpenBSD, via Network Buffer Split, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Profiles-42706" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via Profiles</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Profiles-42706)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via Profiles, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bond-option-arp-ip-targets-set-44697" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via bond_option_arp_ip_<wbr>targets_set()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bond-option-arp-ip-targets-set-44697)|An attacker can force a read at an invalid memory address of the Linux kernel, via bond_option_arp_ip_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-two-vulnerabilities-42704" class="noirorange"><b>VMware vCenter Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-two-vulnerabilities-42704)|An attacker can use several vulnerabilities of VMware vCenter Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-three-vulnerabilities-42703" class="noirorange"><b>GStreamer</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/GStreamer-three-vulnerabilities-42703)|An attacker can use several vulnerabilities of GStreamer...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/RADIUS-reply-spoofing-44686" class="noirorange"><b>RADIUS</b>: reply spoofing</a>](https://vigilance.fr/vulnerability/RADIUS-reply-spoofing-44686)|An attacker can leverage MD5 collisions to spoof RADIUS replies...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42695" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42695)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-24-05-2024-44389" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities dated 24/05/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-24-05-2024-44389)|An attacker can use several vulnerabilities of Jenkins Plugins, dated 24/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-dated-09-07-2024-44682" class="noirorange"><b>HCL Domino</b>: information disclosure dated 09/07/2024</a>](https://vigilance.fr/vulnerability/HCL-Domino-information-disclosure-dated-09-07-2024-44682)|An attacker can bypass access restrictions to data of HCL Domino, dated 09/07/2024, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-information-disclosure-dated-24-05-2024-44386" class="noirorange"><b>HP LaserJet Pro</b>: information disclosure dated 24/05/2024</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-information-disclosure-dated-24-05-2024-44386)|An attacker can bypass access restrictions to data of HP LaserJet Pro, dated 24/05/2024, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Cross-Site-Scripting-dated-24-05-2024-44385" class="noirorange"><b>HP LaserJet Pro</b>: Cross Site Scripting dated 24/05/2024</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-Cross-Site-Scripting-dated-24-05-2024-44385)|An attacker can trigger a Cross Site Scripting of HP LaserJet Pro, dated 24/05/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sequoia-openpgp-overload-via-RawCertParser-44677" class="noirorange"><b>sequoia-openpgp</b>: overload via RawCertParser</a>](https://vigilance.fr/vulnerability/sequoia-openpgp-overload-via-RawCertParser-44677)|An attacker can trigger an overload of sequoia-openpgp, via RawCertParser, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ALE-Phone-two-vulnerabilities-via-USB-Port-44384" class="noirorange"><b>ALE Phone</b>: two vulnerabilities via USB Port</a>](https://vigilance.fr/vulnerability/ALE-Phone-two-vulnerabilities-via-USB-Port-44384)|An attacker can use several vulnerabilities of ALE Phone, via USB Port...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-24-05-2024-44383" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 24/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-24-05-2024-44383)|An attacker can use several vulnerabilities of the Linux kernel, dated 24/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNOME-Remote-Desktop-information-disclosure-dated-23-05-2024-44382" class="noirorange"><b>GNOME Remote Desktop</b>: information disclosure dated 23/05/2024</a>](https://vigilance.fr/vulnerability/GNOME-Remote-Desktop-information-disclosure-dated-23-05-2024-44382)|An attacker can bypass access restrictions to data of GNOME Remote Desktop, dated 23/05/2024, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
