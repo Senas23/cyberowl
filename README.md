@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/07/2024 09:21:40 UTC
+ > Last Updated 26/07/2024 21:20:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,23 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0633/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 26 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0632/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 26 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0631/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 26 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0630/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 26 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0629/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0628/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 26 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0627/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 26 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0626/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 25 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0625/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 25 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0624/)|Une vulnérabilité a été découverte dans Spring Cloud Skipper. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0623/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0622/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0621/)|Une vulnérabilité a été découverte dans Nagios XI. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 24 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0620/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 24 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0618/)|De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 24 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0617/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 juillet 2024|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -58,16 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-42723" class="noirorange"><b>F5 BIG-IP</b>: code execution via Configuration Utility</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Configuration-Utility-42723)|An attacker can use a vulnerability of F5 BIG-IP, via Configuration Utility, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-readbuf-42721" class="noirorange"><b>SoX</b>: buffer overflow via lsx_readbuf()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-readbuf-42721)|An attacker can trigger a buffer overflow of SoX, via lsx_readbuf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720" class="noirorange"><b>SoX</b>: buffer overflow via startread()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-42720)|An attacker can trigger a buffer overflow of SoX, via startread(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-rtlogd-44718" class="noirorange"><b>Juniper Junos OS</b>: memory leak via rtlogd</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-rtlogd-44718)|An attacker can create a memory leak of Juniper Junos OS, via rtlogd, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-dot1x-44715" class="noirorange"><b>Juniper Junos OS</b>: denial of service via dot1x</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-dot1x-44715)|An attacker can cause a fatal error of Juniper Junos OS, via dot1x, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-SPRT-44713" class="noirorange"><b>Wireshark</b>: denial of service via SPRT</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-SPRT-44713)|An attacker can send malicious SPRT packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Qt-base-privilege-escalation-via-HTTP-2-44705" class="noirorange"><b>Qt base</b>: privilege escalation via HTTP/2</a>](https://vigilance.fr/vulnerability/Qt-base-privilege-escalation-via-HTTP-2-44705)|An attacker can bypass traffic restrictions of Qt base, via HTTP/2, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42710" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-42710)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Network-Buffer-Split-42707" class="noirorange"><b>OpenBSD</b>: denial of service via Network Buffer Split</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Network-Buffer-Split-42707)|An attacker can cause a fatal error of OpenBSD, via Network Buffer Split, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Profiles-42706" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via Profiles</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Profiles-42706)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via Profiles, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bond-option-arp-ip-targets-set-44697" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via bond_option_arp_ip_<wbr>targets_set()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bond-option-arp-ip-targets-set-44697)|An attacker can force a read at an invalid memory address of the Linux kernel, via bond_option_arp_ip_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-two-vulnerabilities-42704" class="noirorange"><b>VMware vCenter Server</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-two-vulnerabilities-42704)|An attacker can use several vulnerabilities of VMware vCenter Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-three-vulnerabilities-42703" class="noirorange"><b>GStreamer</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/GStreamer-three-vulnerabilities-42703)|An attacker can use several vulnerabilities of GStreamer...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RADIUS-reply-spoofing-44686" class="noirorange"><b>RADIUS</b>: reply spoofing</a>](https://vigilance.fr/vulnerability/RADIUS-reply-spoofing-44686)|An attacker can leverage MD5 collisions to spoof RADIUS replies...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42695" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42695)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-24-05-2024-44389" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities dated 24/05/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-24-05-2024-44389)|An attacker can use several vulnerabilities of Jenkins Plugins, dated 24/05/2024...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
