@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/07/2024 21:20:23 UTC
+ > Last Updated 29/07/2024 09:25:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,6 +24,13 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/A10-ACOS-privilege-escalation-dated-29-05-2024-44412" class="noirorange"><b>A10 ACOS</b>: privilege escalation dated 29/05/2024</a>](https://vigilance.fr/vulnerability/A10-ACOS-privilege-escalation-dated-29-05-2024-44412)|An attacker can bypass restrictions of A10 ACOS, dated 29/05/2024, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/rpm-ostree-file-reading-via-etc-shadow-44410" class="noirorange"><b>rpm-ostree</b>: file reading via /etc/shadow</a>](https://vigilance.fr/vulnerability/rpm-ostree-file-reading-via-etc-shadow-44410)|An attacker can read a file of rpm-ostree, via /etc/shadow, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-get-edge-44409" class="noirorange"><b>FRRouting</b>: NULL pointer dereference via get_edge()</a>](https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-get-edge-44409)|An attacker can force a NULL pointer to be dereferenced on FRRouting, via get_edge(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-ospf-te-parse-ext-link-44408" class="noirorange"><b>FRRouting</b>: buffer overflow via ospf_te_parse_ext_<wbr>link()</wbr></a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-ospf-te-parse-ext-link-44408)|An attacker can trigger a buffer overflow of FRRouting, via ospf_te_parse_ext_|Visit link for details|
@@ -60,14 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729" class="noirorange"><b>zchunk</b>: integer overflow</a>](https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729)|An attacker can trigger an integer overflow of zchunk, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PyMySQL-SQL-injection-via-JSON-escape-dict-44401" class="noirorange"><b>PyMySQL</b>: SQL injection via JSON escape_dict()</a>](https://vigilance.fr/vulnerability/PyMySQL-SQL-injection-via-JSON-escape-dict-44401)|An attacker can use a SQL injection of PyMySQL, via JSON escape_dict(), in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-information-disclosure-via-log-44729" class="noirorange"><b>Juniper Junos OS</b>: information disclosure via log</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-information-disclosure-via-log-44729)|An attacker can bypass access restrictions to data of Juniper Junos OS, via log, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-OpenJ9-buffer-overflow-via-ConcurrentScavenge-IBM-Z-44400" class="noirorange"><b>Eclipse OpenJ9</b>: buffer overflow via ConcurrentScavenge IBM Z</a>](https://vigilance.fr/vulnerability/Eclipse-OpenJ9-buffer-overflow-via-ConcurrentScavenge-IBM-Z-44400)|An attacker can trigger a buffer overflow of Eclipse OpenJ9, via ConcurrentScavenge IBM Z, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
