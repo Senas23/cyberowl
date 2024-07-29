@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/07/2024 09:25:04 UTC
+ > Last Updated 29/07/2024 21:21:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-EXIF-Metadata-Parsing-44415" class="noirorange"><b>GStreamer</b>: integer overflow via EXIF Metadata Parsing</a>](https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-EXIF-Metadata-Parsing-44415)|An attacker can trigger an integer overflow of GStreamer, via EXIF Metadata Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/nginx-four-vulnerabilities-via-HTTP-3-44414" class="noirorange"><b>nginx</b>: four vulnerabilities via HTTP/3</a>](https://vigilance.fr/vulnerability/nginx-four-vulnerabilities-via-HTTP-3-44414)|An attacker can use several vulnerabilities of nginx, via HTTP/3...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/A10-ACOS-privilege-escalation-dated-29-05-2024-44412" class="noirorange"><b>A10 ACOS</b>: privilege escalation dated 29/05/2024</a>](https://vigilance.fr/vulnerability/A10-ACOS-privilege-escalation-dated-29-05-2024-44412)|An attacker can bypass restrictions of A10 ACOS, dated 29/05/2024, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rpm-ostree-file-reading-via-etc-shadow-44410" class="noirorange"><b>rpm-ostree</b>: file reading via /etc/shadow</a>](https://vigilance.fr/vulnerability/rpm-ostree-file-reading-via-etc-shadow-44410)|An attacker can read a file of rpm-ostree, via /etc/shadow, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-get-edge-44409" class="noirorange"><b>FRRouting</b>: NULL pointer dereference via get_edge()</a>](https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-get-edge-44409)|An attacker can force a NULL pointer to be dereferenced on FRRouting, via get_edge(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-ospf-te-parse-ext-link-44408" class="noirorange"><b>FRRouting</b>: buffer overflow via ospf_te_parse_ext_<wbr>link()</wbr></a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-ospf-te-parse-ext-link-44408)|An attacker can trigger a buffer overflow of FRRouting, via ospf_te_parse_ext_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-ospf-te-parse-ri-44407" class="noirorange"><b>FRRouting</b>: buffer overflow via ospf_te_parse_ri()</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-ospf-te-parse-ri-44407)|An attacker can trigger a buffer overflow of FRRouting, via ospf_te_parse_ri(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-use-after-free-via-SSL-free-buffers-44405" class="noirorange"><b>OpenSSL</b>: use after free via SSL_free_buffers()</a>](https://vigilance.fr/vulnerability/OpenSSL-use-after-free-via-SSL-free-buffers-44405)|An attacker can force the reuse of a freed memory area of OpenSSL, via SSL_free_buffers(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-27-05-2024-44402" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities dated 27/05/2024</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-27-05-2024-44402)|An attacker can use several vulnerabilities of Centreon Web, dated 27/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729" class="noirorange"><b>zchunk</b>: integer overflow</a>](https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729)|An attacker can trigger an integer overflow of zchunk, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0626/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 25 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0625/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 25 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0624/)|Une vulnérabilité a été découverte dans Spring Cloud Skipper. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 juillet 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/A10-ACOS-privilege-escalation-dated-29-05-2024-44412" class="noirorange"><b>A10 ACOS</b>: privilege escalation dated 29/05/2024</a>](https://vigilance.fr/vulnerability/A10-ACOS-privilege-escalation-dated-29-05-2024-44412)|An attacker can bypass restrictions of A10 ACOS, dated 29/05/2024, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/rpm-ostree-file-reading-via-etc-shadow-44410" class="noirorange"><b>rpm-ostree</b>: file reading via /etc/shadow</a>](https://vigilance.fr/vulnerability/rpm-ostree-file-reading-via-etc-shadow-44410)|An attacker can read a file of rpm-ostree, via /etc/shadow, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-get-edge-44409" class="noirorange"><b>FRRouting</b>: NULL pointer dereference via get_edge()</a>](https://vigilance.fr/vulnerability/FRRouting-NULL-pointer-dereference-via-get-edge-44409)|An attacker can force a NULL pointer to be dereferenced on FRRouting, via get_edge(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-ospf-te-parse-ext-link-44408" class="noirorange"><b>FRRouting</b>: buffer overflow via ospf_te_parse_ext_<wbr>link()</wbr></a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-ospf-te-parse-ext-link-44408)|An attacker can trigger a buffer overflow of FRRouting, via ospf_te_parse_ext_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-ospf-te-parse-ri-44407" class="noirorange"><b>FRRouting</b>: buffer overflow via ospf_te_parse_ri()</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-ospf-te-parse-ri-44407)|An attacker can trigger a buffer overflow of FRRouting, via ospf_te_parse_ri(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-use-after-free-via-SSL-free-buffers-44405" class="noirorange"><b>OpenSSL</b>: use after free via SSL_free_buffers()</a>](https://vigilance.fr/vulnerability/OpenSSL-use-after-free-via-SSL-free-buffers-44405)|An attacker can force the reuse of a freed memory area of OpenSSL, via SSL_free_buffers(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-27-05-2024-44402" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities dated 27/05/2024</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-27-05-2024-44402)|An attacker can use several vulnerabilities of Centreon Web, dated 27/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729" class="noirorange"><b>zchunk</b>: integer overflow</a>](https://vigilance.fr/vulnerability/zchunk-integer-overflow-42729)|An attacker can trigger an integer overflow of zchunk, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyMySQL-SQL-injection-via-JSON-escape-dict-44401" class="noirorange"><b>PyMySQL</b>: SQL injection via JSON escape_dict()</a>](https://vigilance.fr/vulnerability/PyMySQL-SQL-injection-via-JSON-escape-dict-44401)|An attacker can use a SQL injection of PyMySQL, via JSON escape_dict(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-information-disclosure-via-log-44729" class="noirorange"><b>Juniper Junos OS</b>: information disclosure via log</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-information-disclosure-via-log-44729)|An attacker can bypass access restrictions to data of Juniper Junos OS, via log, in order to read sensitive information...|Visit link for details|
  
  ---
 
