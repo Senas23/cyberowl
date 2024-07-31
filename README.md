@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/07/2024 21:20:22 UTC
+ > Last Updated 31/07/2024 09:21:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747" class="noirorange"><b>Google Android OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Android-OS-multiple-vulnerabilities-42747)|An attacker can use several vulnerabilities of Google Android OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-TCP-USER-TIMEOUT-44752" class="noirorange"><b>Linux kernel</b>: overload via TCP_USER_TIMEOUT</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-TCP-USER-TIMEOUT-44752)|An attacker can trigger an overload of the Linux kernel, via TCP_USER_TIMEOUT, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-31-05-2024-44426" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 31/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-31-05-2024-44426)|An attacker can use several vulnerabilities of the Linux kernel, dated 31/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RoundCube-Webmail-multiple-vulnerabilities-dated-19-05-2024-44425" class="noirorange"><b>RoundCube Webmail</b>: multiple vulnerabilities dated 19/05/2024</a>](https://vigilance.fr/vulnerability/RoundCube-Webmail-multiple-vulnerabilities-dated-19-05-2024-44425)|An attacker can use several vulnerabilities of RoundCube Webmail, dated 19/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-libavfilter-af-stereowiden-c-44424" class="noirorange"><b>FFmpeg</b>: buffer overflow via libavfilter/af_<wbr>stereowiden.c</wbr></a>](https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-libavfilter-af-stereowiden-c-44424)|An attacker can trigger a buffer overflow of FFmpeg, via libavfilter/af_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-via-Legacy-Remote-Control-44423" class="noirorange"><b>Ivanti Endpoint Manager</b>: privilege escalation via Legacy Remote Control</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-via-Legacy-Remote-Control-44423)|An attacker can bypass restrictions of Ivanti Endpoint Manager, via Legacy Remote Control, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-privilege-escalation-via-secure-boot-44751" class="noirorange"><b>Airbus Stormshield Network Security</b>: privilege escalation via secure-boot</a>](https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-privilege-escalation-via-secure-boot-44751)|An attacker can bypass restrictions of Airbus Stormshield Network Security, via secure-boot, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution via Adobe PDF</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-via-Adobe-PDF-42741)|An attacker can use a vulnerability of Microsoft Edge Chromium, via Adobe PDF, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Migrate-Queue-Importer-Cross-Site-Request-Forgery-dated-30-05-2024-44421" class="noirorange"><b>Drupal Migrate Queue Importer</b>: Cross Site Request Forgery dated 30/05/2024</a>](https://vigilance.fr/vulnerability/Drupal-Migrate-Queue-Importer-Cross-Site-Request-Forgery-dated-30-05-2024-44421)|An attacker can trigger a Cross Site Request Forgery of Drupal Migrate Queue Importer, dated 30/05/2024, in order to force the victim to perform operations...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-REST-JSON-API-Authentication-information-disclosure-via-Basic-Authentication-44419" class="noirorange"><b>Drupal REST &amp; JSON API Authentication</b>: information disclosure via Basic Authentication</a>](https://vigilance.fr/vulnerability/Drupal-REST-JSON-API-Authentication-information-disclosure-via-Basic-Authentication-44419)|An attacker can bypass access restrictions to data of Drupal REST & JSON API Authentication, via Basic Authentication, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Requests-Man-in-the-Middle-via-Session-Verify-False-44418" class="noirorange"><b>Requests</b>: Man-in-the-Middle via Session Verify False</a>](https://vigilance.fr/vulnerability/Requests-Man-in-the-Middle-via-Session-Verify-False-44418)|An attacker can act as a Man-in-the-Middle on Requests, via Session Verify False, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-installer-44741" class="noirorange"><b>ESET NOD32 Antivirus</b>: file deletion via installer</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-installer-44741)|An attacker can bypass access restrictions of ESET NOD32 Antivirus, via installer, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libredwg-out-of-bounds-memory-reading-via-num-pages-44417" class="noirorange"><b>libredwg</b>: out-of-bounds memory reading via num_pages</a>](https://vigilance.fr/vulnerability/libredwg-out-of-bounds-memory-reading-via-num-pages-44417)|An attacker can force a read at an invalid memory address of libredwg, via num_pages, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-05-2024-44416" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/05/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-05-2024-44416)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-EXIF-Metadata-Parsing-44415" class="noirorange"><b>GStreamer</b>: integer overflow via EXIF Metadata Parsing</a>](https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-EXIF-Metadata-Parsing-44415)|An attacker can trigger an integer overflow of GStreamer, via EXIF Metadata Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
