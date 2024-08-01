@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/07/2024 21:21:31 UTC
+ > Last Updated 01/08/2024 09:21:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,13 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-libavfilter-af-stereowiden-c-44424" class="noirorange"><b>FFmpeg</b>: buffer overflow via libavfilter/af_<wbr>stereowiden.c</wbr></a>](https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-libavfilter-af-stereowiden-c-44424)|An attacker can trigger a buffer overflow of FFmpeg, via libavfilter/af_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-via-Legacy-Remote-Control-44423" class="noirorange"><b>Ivanti Endpoint Manager</b>: privilege escalation via Legacy Remote Control</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-via-Legacy-Remote-Control-44423)|An attacker can bypass restrictions of Ivanti Endpoint Manager, via Legacy Remote Control, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-privilege-escalation-via-secure-boot-44751" class="noirorange"><b>Airbus Stormshield Network Security</b>: privilege escalation via secure-boot</a>](https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-privilege-escalation-via-secure-boot-44751)|An attacker can bypass restrictions of Airbus Stormshield Network Security, via secure-boot, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
