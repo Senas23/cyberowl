@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/08/2024 09:21:31 UTC
+ > Last Updated 01/08/2024 21:23:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0641/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 01 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0640/)|Une vulnérabilité a été découverte dans Elastic Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 01 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0639/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 01 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0638/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 31 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0637/)|De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking ClearPass Policy Manager. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de...|Publié le 31 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0636/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 31 juillet 2024|
@@ -41,16 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0634/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Apple indique que la vulnérabilité CVE-2024-23296 est...|Publié le 30 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0633/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 26 juillet 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0632/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 26 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0631/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 26 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0630/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 26 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0629/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 26 juillet 2024|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -58,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42755" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42755)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Botan-overload-via-X-509-extensions-44762" class="noirorange"><b>Botan</b>: overload via X.509 extensions</a>](https://vigilance.fr/vulnerability/Botan-overload-via-X-509-extensions-44762)|An attacker can trigger an overload of Botan, via X.509 extensions, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750" class="noirorange"><b>Atlassian Confluence Server/DC</b>: write access</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-write-access-42750)|An attacker can bypass access restrictions of Atlassian Confluence Server/DC, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Trend-Micro-InterScan-Web-Security-Virtual-Appliance-Cross-Site-Scripting-dated-31-05-2024-44429" class="noirorange"><b>Trend Micro InterScan Web Security Virtual Appliance</b>: Cross Site Scripting dated 31/05/2024</a>](https://vigilance.fr/vulnerability/Trend-Micro-InterScan-Web-Security-Virtual-Appliance-Cross-Site-Scripting-dated-31-05-2024-44429)|An attacker can trigger a Cross Site Scripting of Trend Micro InterScan Web Security Virtual Appliance, dated 31/05/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/RoundCube-Webmail-multiple-vulnerabilities-dated-19-05-2024-44425" class="noirorange"><b>RoundCube Webmail</b>: multiple vulnerabilities dated 19/05/2024</a>](https://vigilance.fr/vulnerability/RoundCube-Webmail-multiple-vulnerabilities-dated-19-05-2024-44425)|An attacker can use several vulnerabilities of RoundCube Webmail, dated 19/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-libavfilter-af-stereowiden-c-44424" class="noirorange"><b>FFmpeg</b>: buffer overflow via libavfilter/af_<wbr>stereowiden.c</wbr></a>](https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-libavfilter-af-stereowiden-c-44424)|An attacker can trigger a buffer overflow of FFmpeg, via libavfilter/af_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-via-Legacy-Remote-Control-44423" class="noirorange"><b>Ivanti Endpoint Manager</b>: privilege escalation via Legacy Remote Control</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-privilege-escalation-via-Legacy-Remote-Control-44423)|An attacker can bypass restrictions of Ivanti Endpoint Manager, via Legacy Remote Control, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-privilege-escalation-via-secure-boot-44751" class="noirorange"><b>Airbus Stormshield Network Security</b>: privilege escalation via secure-boot</a>](https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-privilege-escalation-via-secure-boot-44751)|An attacker can bypass restrictions of Airbus Stormshield Network Security, via secure-boot, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
