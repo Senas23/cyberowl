@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/08/2024 21:20:32 UTC
+ > Last Updated 05/08/2024 09:23:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0646/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 02 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0645/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 02 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0644/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 02 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0643/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 02 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0642/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 02 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0641/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 01 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0640/)|Une vulnérabilité a été découverte dans Elastic Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 01 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0639/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 01 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0638/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 31 juillet 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0637/)|De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking ClearPass Policy Manager. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de...|Publié le 31 juillet 2024|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[<a href="https://vigilance.fr/vulnerability/python-jose-overload-via-JSON-Web-Encryption-44439" class="noirorange"><b>python-jose</b>: overload via JSON Web Encryption</a>](https://vigilance.fr/vulnerability/python-jose-overload-via-JSON-Web-Encryption-44439)|An attacker can trigger an overload of python-jose, via JSON Web Encryption, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Type-1-Font-Character-Code-44437" class="noirorange"><b>Xpdf</b>: out-of-bounds memory reading via Type 1 Font Character Code</a>](https://vigilance.fr/vulnerability/Xpdf-out-of-bounds-memory-reading-via-Type-1-Font-Character-Code-44437)|An attacker can force a read at an invalid memory address of Xpdf, via Type 1 Font Character Code, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-information-disclosure-via-OAuth-2-0-Pushed-Authorization-Requests-44436" class="noirorange"><b>Keycloak</b>: information disclosure via OAuth 2.0 Pushed Authorization Requests</a>](https://vigilance.fr/vulnerability/Keycloak-information-disclosure-via-OAuth-2-0-Pushed-Authorization-Requests-44436)|An attacker can bypass access restrictions to data of Keycloak, via OAuth 2.0 Pushed Authorization Requests, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0646/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 02 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0645/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 02 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0644/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 02 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0643/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 02 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0642/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 02 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0641/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 01 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0640/)|Une vulnérabilité a été découverte dans Elastic Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 01 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0639/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 01 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0638/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 31 juillet 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0637/)|De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking ClearPass Policy Manager. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de...|Publié le 31 juillet 2024|
  
  ---
 
