@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/08/2024 09:24:25 UTC
+ > Last Updated 09/08/2024 21:20:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,13 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Service-Tools-Server-User-Profile-Enumeration-44458" class="noirorange"><b>IBM i</b>: information disclosure via Service Tools Server User Profile Enumeration</a>](https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Service-Tools-Server-User-Profile-Enumeration-44458)|An attacker can bypass access restrictions to data of IBM i, via Service Tools Server User Profile Enumeration, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libaom-integer-overflow-via-img-alloc-helper-44457" class="noirorange"><b>libaom</b>: integer overflow via img_alloc_helper()</a>](https://vigilance.fr/vulnerability/libaom-integer-overflow-via-img-alloc-helper-44457)|An attacker can trigger an integer overflow of libaom, via img_alloc_helper(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libvpx-integer-overflow-via-vpx-img-alloc-44456" class="noirorange"><b>libvpx</b>: integer overflow via vpx_img_alloc()</a>](https://vigilance.fr/vulnerability/libvpx-integer-overflow-via-vpx-img-alloc-44456)|An attacker can trigger an integer overflow of libvpx, via vpx_img_alloc(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
