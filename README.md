@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/08/2024 21:20:36 UTC
+ > Last Updated 09/08/2024 09:24:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Tap-tun-Short-Frame-44810" class="noirorange"><b>Linux kernel</b>: denial of service via Tap/tun Short Frame</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Tap-tun-Short-Frame-44810)|An attacker can cause a fatal error of the Linux kernel, via Tap/tun Short Frame, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801" class="noirorange"><b>GIMP</b>: memory corruption via DDS / PSD / PSP Images</a>](https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801)|An attacker can trigger a memory corruption of GIMP, via DDS / PSD / PSP Images, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Packet Length</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Packet Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/fence-agents-resource-agents-vulnerability-dated-24-07-2024-44804" class="noirorange"><b>fence-agents  resource-agents</b>: vulnerability dated 24/07/2024</a>](https://vigilance.fr/vulnerability/fence-agents-resource-agents-vulnerability-dated-24-07-2024-44804)|A vulnerability of fence-agents  resource-agents, dated 24/07/2024, was announced...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Service-Tools-Server-User-Profile-Enumeration-44458" class="noirorange"><b>IBM i</b>: information disclosure via Service Tools Server User Profile Enumeration</a>](https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Service-Tools-Server-User-Profile-Enumeration-44458)|An attacker can bypass access restrictions to data of IBM i, via Service Tools Server User Profile Enumeration, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libaom-integer-overflow-via-img-alloc-helper-44457" class="noirorange"><b>libaom</b>: integer overflow via img_alloc_helper()</a>](https://vigilance.fr/vulnerability/libaom-integer-overflow-via-img-alloc-helper-44457)|An attacker can trigger an integer overflow of libaom, via img_alloc_helper(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libvpx-integer-overflow-via-vpx-img-alloc-44456" class="noirorange"><b>libvpx</b>: integer overflow via vpx_img_alloc()</a>](https://vigilance.fr/vulnerability/libvpx-integer-overflow-via-vpx-img-alloc-44456)|An attacker can trigger an integer overflow of libvpx, via vpx_img_alloc(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-04-06-2024-44454" class="noirorange"><b>Go</b>: two vulnerabilities dated 04/06/2024</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-04-06-2024-44454)|An attacker can use several vulnerabilities of Go, dated 04/06/2024...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
