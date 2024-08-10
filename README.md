@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/08/2024 21:20:29 UTC
+ > Last Updated 10/08/2024 09:21:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,23 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0669/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 09 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0668/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 09 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0667/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 09 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0666/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 09 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0665/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 09 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0664/)|Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 09 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0663/)|Une vulnérabilité a été découverte dans Asterisk. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 09 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0662/)|Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 09 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0661/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un déni de service à distance.|Publié le 08 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0660/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 08 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0659/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 08 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0658/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 07 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0657/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 07 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0656/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 07 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0655/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. L'éditeur indique que la vulnérabilité...|Publié le 07 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0654/)|Une vulnérabilité a été découverte dans Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 06 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0653/)|Une vulnérabilité a été découverte dans LibreOffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 06 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0652/)|Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 05 août 2024|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -58,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-06-2024-44462" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 10/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-06-2024-44462)|An attacker can use several vulnerabilities of the Linux kernel, dated 10/06/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Tap-tun-Short-Frame-44810" class="noirorange"><b>Linux kernel</b>: denial of service via Tap/tun Short Frame</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Tap-tun-Short-Frame-44810)|An attacker can cause a fatal error of the Linux kernel, via Tap/tun Short Frame, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801" class="noirorange"><b>GIMP</b>: memory corruption via DDS / PSD / PSP Images</a>](https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-DDS-PSD-PSP-Images-42801)|An attacker can trigger a memory corruption of GIMP, via DDS / PSD / PSP Images, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800" class="noirorange"><b>VideoLAN VLC</b>: buffer overflow via MMS Packet Length</a>](https://vigilance.fr/vulnerability/VideoLAN-VLC-buffer-overflow-via-MMS-Packet-Length-42800)|An attacker can trigger a buffer overflow of VideoLAN VLC, via MMS Packet Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -66,8 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-ActiveMQ-code-execution-via-OpenWire-Protocol-Serialized-Class-Types-42790" class="noirorange"><b>Apache ActiveMQ</b>: code execution via OpenWire Protocol Serialized Class Types</a>](https://vigilance.fr/vulnerability/Apache-ActiveMQ-code-execution-via-OpenWire-Protocol-Serialized-Class-Types-42790)|An attacker can use a vulnerability of Apache ActiveMQ, via OpenWire Protocol Serialized Class Types, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dnsmasq-integer-overflow-via-forward-query-44459" class="noirorange"><b>Dnsmasq</b>: integer overflow via forward_query()</a>](https://vigilance.fr/vulnerability/Dnsmasq-integer-overflow-via-forward-query-44459)|An attacker can trigger an integer overflow of Dnsmasq, via forward_query(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Service-Tools-Server-User-Profile-Enumeration-44458" class="noirorange"><b>IBM i</b>: information disclosure via Service Tools Server User Profile Enumeration</a>](https://vigilance.fr/vulnerability/IBM-i-information-disclosure-via-Service-Tools-Server-User-Profile-Enumeration-44458)|An attacker can bypass access restrictions to data of IBM i, via Service Tools Server User Profile Enumeration, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libaom-integer-overflow-via-img-alloc-helper-44457" class="noirorange"><b>libaom</b>: integer overflow via img_alloc_helper()</a>](https://vigilance.fr/vulnerability/libaom-integer-overflow-via-img-alloc-helper-44457)|An attacker can trigger an integer overflow of libaom, via img_alloc_helper(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvpx-integer-overflow-via-vpx-img-alloc-44456" class="noirorange"><b>libvpx</b>: integer overflow via vpx_img_alloc()</a>](https://vigilance.fr/vulnerability/libvpx-integer-overflow-via-vpx-img-alloc-44456)|An attacker can trigger an integer overflow of libvpx, via vpx_img_alloc(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
