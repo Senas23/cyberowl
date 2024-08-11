@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/08/2024 09:21:02 UTC
+ > Last Updated 11/08/2024 21:21:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Action-Pack-read-write-access-via-Permissions-Policy-44469" class="noirorange"><b>Action Pack</b>: read-write access via Permissions-Policy</a>](https://vigilance.fr/vulnerability/Action-Pack-read-write-access-via-Permissions-Policy-44469)|An attacker can bypass access restrictions of Action Pack, via Permissions-Policy, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/unrar-overload-via-Screen-Output-ANSI-Escape-44468" class="noirorange"><b>unrar</b>: overload via Screen Output ANSI Escape</a>](https://vigilance.fr/vulnerability/unrar-overload-via-Screen-Output-ANSI-Escape-44468)|An attacker can trigger an overload of unrar, via Screen Output ANSI Escape, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-via-XSL-44467" class="noirorange"><b>Dell OpenManage Server Administrator</b>: privilege escalation via XSL</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-privilege-escalation-via-XSL-44467)|An attacker can bypass restrictions of Dell OpenManage Server Administrator, via XSL, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-11-06-2024-44466" class="noirorange"><b>Linux kernel</b>: two vulnerabilities dated 11/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-11-06-2024-44466)|An attacker can use several vulnerabilities of the Linux kernel, dated 11/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Repair-Function-Pseudo-symlink-44465" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via Repair Function Pseudo-symlink</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Repair-Function-Pseudo-symlink-44465)|An attacker can bypass restrictions of Avast Antivirus, via Repair Function Pseudo-symlink, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Mac-denial-of-service-dated-26-07-2024-44817" class="noirorange"><b>WithSecure Endpoint Protection Mac</b>: denial of service dated 26/07/2024</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Mac-denial-of-service-dated-26-07-2024-44817)|An attacker can cause a fatal error of WithSecure Endpoint Protection Mac, dated 26/07/2024, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeIPA-two-vulnerabilities-dated-10-06-2024-44464" class="noirorange"><b>FreeIPA</b>: two vulnerabilities dated 10/06/2024</a>](https://vigilance.fr/vulnerability/FreeIPA-two-vulnerabilities-dated-10-06-2024-44464)|An attacker can use several vulnerabilities of FreeIPA, dated 10/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-file-deletion-via-WRSA-EXE-44463" class="noirorange"><b>Webroot SecureAnywhere</b>: file deletion via WRSA.EXE</a>](https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-file-deletion-via-WRSA-EXE-44463)|An attacker can bypass access restrictions of Webroot SecureAnywhere, via WRSA.EXE, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-42825)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-06-2024-44462" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 10/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-06-2024-44462)|An attacker can use several vulnerabilities of the Linux kernel, dated 10/06/2024...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-44495" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-44495)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-assertion-error-via-Tables-Type-Trap-44494" class="noirorange"><b>IBM Db2</b>: assertion error via Tables Type Trap</a>](https://vigilance.fr/vulnerability/IBM-Db2-assertion-error-via-Tables-Type-Trap-44494)|An attacker can force an assertion error of IBM Db2, via Tables Type Trap, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-via-Admin-REST-API-Endpoints-44491" class="noirorange"><b>Keycloak</b>: privilege escalation via Admin REST API Endpoints</a>](https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-via-Admin-REST-API-Endpoints-44491)|An attacker can bypass restrictions of Keycloak, via Admin REST API Endpoints, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VPN-information-disclosure-via-DHCP-Classless-Static-Route-Option-44490" class="noirorange"><b>VPN</b>: information disclosure via DHCP Classless Static Route Option</a>](https://vigilance.fr/vulnerability/VPN-information-disclosure-via-DHCP-Classless-Static-Route-Option-44490)|An attacker can bypass access restrictions to data of VPN, via DHCP Classless Static Route Option, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Bluetooth-Write-Feature-44488" class="noirorange"><b>FortiOS</b>: buffer overflow via Bluetooth Write Feature</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Bluetooth-Write-Feature-44488)|An attacker can trigger a buffer overflow of FortiOS, via Bluetooth Write Feature, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Diag-Npu-Command-44487" class="noirorange"><b>FortiOS</b>: buffer overflow via Diag Npu Command</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Diag-Npu-Command-44487)|An attacker can trigger a buffer overflow of FortiOS, via Diag Npu Command, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CUPS-file-read-write-via-Chmod-44484" class="noirorange"><b>CUPS</b>: file read/write via Chmod</a>](https://vigilance.fr/vulnerability/CUPS-file-read-write-via-Chmod-44484)|An attacker can bypass access restrictions of CUPS, via Chmod, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iPerf3-weak-encryption-via-RSA-Authentication-44481" class="noirorange"><b>iPerf3</b>: weak encryption via RSA Authentication</a>](https://vigilance.fr/vulnerability/iPerf3-weak-encryption-via-RSA-Authentication-44481)|An attacker can access data on iPerf3, via RSA Authentication, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nvidia-Firmware-three-vulnerabilities-dated-11-06-2024-44480" class="noirorange"><b>Nvidia Firmware</b>: three vulnerabilities dated 11/06/2024</a>](https://vigilance.fr/vulnerability/Nvidia-Firmware-three-vulnerabilities-dated-11-06-2024-44480)|An attacker can use several vulnerabilities of Nvidia Firmware, dated 11/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-S7-200-SMART-information-disclosure-via-IP-ID-Sequence-Number-44479" class="noirorange"><b>SIMATIC S7-200 SMART</b>: information disclosure via IP ID Sequence Number</a>](https://vigilance.fr/vulnerability/SIMATIC-S7-200-SMART-information-disclosure-via-IP-ID-Sequence-Number-44479)|An attacker can bypass access restrictions to data of SIMATIC S7-200 SMART, via IP ID Sequence Number, in order to read sensitive information...|Visit link for details|
  
  ---
 
