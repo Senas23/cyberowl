@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/08/2024 09:24:18 UTC
+ > Last Updated 12/08/2024 21:22:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,6 +58,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-12-06-2024-44510" class="noirorange"><b>GitLab CE/EE</b>: five vulnerabilities dated 12/06/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-12-06-2024-44510)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 12/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libndp-buffer-overflow-via-NetworkManager-44508" class="noirorange"><b>libndp</b>: buffer overflow via NetworkManager</a>](https://vigilance.fr/vulnerability/libndp-buffer-overflow-via-NetworkManager-44508)|An attacker can trigger a buffer overflow of libndp, via NetworkManager, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Request-Forgery-via-login-actions-authenticate-44507" class="noirorange"><b>Keycloak</b>: Cross Site Request Forgery via /login-actions/<wbr>authenticate</wbr></a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Request-Forgery-via-login-actions-authenticate-44507)|An attacker can trigger a Cross Site Request Forgery of Keycloak, via /login-actions/|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AMD-EPYC-Processors-privilege-escalation-via-SPI-Lock-Bypass-44505" class="noirorange"><b>AMD EPYC Processors</b>: privilege escalation via SPI Lock Bypass</a>](https://vigilance.fr/vulnerability/AMD-EPYC-Processors-privilege-escalation-via-SPI-Lock-Bypass-44505)|An attacker can bypass restrictions of AMD EPYC Processors, via SPI Lock Bypass, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Statement-44502" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Statement</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Statement-44502)|An attacker can cause a fatal error of IBM Db2, via Crafted Statement, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Tables-44501" class="noirorange"><b>IBM Db2</b>: denial of service via Columnar Tables</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Tables-44501)|An attacker can cause a fatal error of IBM Db2, via Columnar Tables, in order to trigger a denial of service...|Visit link for details|
@@ -65,9 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-44495" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-44495)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-assertion-error-via-Tables-Type-Trap-44494" class="noirorange"><b>IBM Db2</b>: assertion error via Tables Type Trap</a>](https://vigilance.fr/vulnerability/IBM-Db2-assertion-error-via-Tables-Type-Trap-44494)|An attacker can force an assertion error of IBM Db2, via Tables Type Trap, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-via-Admin-REST-API-Endpoints-44491" class="noirorange"><b>Keycloak</b>: privilege escalation via Admin REST API Endpoints</a>](https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-via-Admin-REST-API-Endpoints-44491)|An attacker can bypass restrictions of Keycloak, via Admin REST API Endpoints, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VPN-information-disclosure-via-DHCP-Classless-Static-Route-Option-44490" class="noirorange"><b>VPN</b>: information disclosure via DHCP Classless Static Route Option</a>](https://vigilance.fr/vulnerability/VPN-information-disclosure-via-DHCP-Classless-Static-Route-Option-44490)|An attacker can bypass access restrictions to data of VPN, via DHCP Classless Static Route Option, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Bluetooth-Write-Feature-44488" class="noirorange"><b>FortiOS</b>: buffer overflow via Bluetooth Write Feature</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Bluetooth-Write-Feature-44488)|An attacker can trigger a buffer overflow of FortiOS, via Bluetooth Write Feature, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Diag-Npu-Command-44487" class="noirorange"><b>FortiOS</b>: buffer overflow via Diag Npu Command</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Diag-Npu-Command-44487)|An attacker can trigger a buffer overflow of FortiOS, via Diag Npu Command, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
