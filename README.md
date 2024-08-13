@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/08/2024 09:26:21 UTC
+ > Last Updated 13/08/2024 21:20:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,18 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Virtuoso-denial-of-service-via-SQL-Statements-44512" class="noirorange"><b>Virtuoso</b>: denial of service via SQL Statements</a>](https://vigilance.fr/vulnerability/Virtuoso-denial-of-service-via-SQL-Statements-44512)|An attacker can cause a fatal error of Virtuoso, via SQL Statements, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/matio-memory-leak-via-Mat-VarReadNextInfo5-44511" class="noirorange"><b>matio</b>: memory leak via Mat_<wbr>VarReadNextInfo5()</wbr></a>](https://vigilance.fr/vulnerability/matio-memory-leak-via-Mat-VarReadNextInfo5-44511)|An attacker can create a memory leak of matio, via Mat_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-12-06-2024-44510" class="noirorange"><b>GitLab CE/EE</b>: five vulnerabilities dated 12/06/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-12-06-2024-44510)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 12/06/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libndp-buffer-overflow-via-NetworkManager-44508" class="noirorange"><b>libndp</b>: buffer overflow via NetworkManager</a>](https://vigilance.fr/vulnerability/libndp-buffer-overflow-via-NetworkManager-44508)|An attacker can trigger a buffer overflow of libndp, via NetworkManager, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -60,14 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Tables-44501" class="noirorange"><b>IBM Db2</b>: denial of service via Columnar Tables</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Columnar-Tables-44501)|An attacker can cause a fatal error of IBM Db2, via Columnar Tables, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/nano-privilege-escalation-via-Emergency-Save-File-Symlink-44500" class="noirorange"><b>nano</b>: privilege escalation via Emergency Save File Symlink</a>](https://vigilance.fr/vulnerability/nano-privilege-escalation-via-Emergency-Save-File-Symlink-44500)|An attacker can bypass restrictions of nano, via Emergency Save File Symlink, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-44495" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-44495)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-assertion-error-via-Tables-Type-Trap-44494" class="noirorange"><b>IBM Db2</b>: assertion error via Tables Type Trap</a>](https://vigilance.fr/vulnerability/IBM-Db2-assertion-error-via-Tables-Type-Trap-44494)|An attacker can force an assertion error of IBM Db2, via Tables Type Trap, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
