@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/08/2024 09:21:48 UTC
+ > Last Updated 15/08/2024 21:21:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,10 +23,20 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-View-Password-Cross-Site-Scripting-via-Classes-44839" class="noirorange"><b>Drupal View Password</b>: Cross Site Scripting via Classes</a>](https://vigilance.fr/vulnerability/Drupal-View-Password-Cross-Site-Scripting-via-Classes-44839)|An attacker can trigger a Cross Site Scripting of Drupal View Password, via Classes, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574" class="noirorange"><b>ClamAV</b>: code execution via HFS+ File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574)|An attacker can use a vulnerability of ClamAV, via HFS+ File Parser, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HTACG-HTML-Tidy-code-execution-via-CleanNode-42894" class="noirorange"><b>HTACG HTML Tidy</b>: code execution via CleanNode()</a>](https://vigilance.fr/vulnerability/HTACG-HTML-Tidy-code-execution-via-CleanNode-42894)|An attacker can use a vulnerability of HTACG HTML Tidy, via CleanNode(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Host-Integration-Server-code-execution-42881" class="noirorange"><b>Microsoft Host Integration Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Host-Integration-Server-code-execution-42881)|An attacker can use a vulnerability of Microsoft Host Integration Server, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-42870" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-42870)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-November-2023-42869" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-November-2023-42869)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2023-42868" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2023-42868)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-November-2023-42867" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-November-2023-42867)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
  ---
 
@@ -61,18 +71,8 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Host-Integration-Server-code-execution-42881" class="noirorange"><b>Microsoft Host Integration Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Host-Integration-Server-code-execution-42881)|An attacker can use a vulnerability of Microsoft Host Integration Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-42870" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-42870)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-November-2023-42869" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-November-2023-42869)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2023-42868" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2023-42868)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-November-2023-42867" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-November-2023-42867)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-42859" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-42859)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
