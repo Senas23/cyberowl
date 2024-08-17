@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/08/2024 21:20:00 UTC
+ > Last Updated 17/08/2024 09:20:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,13 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0684/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 14 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0683/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 14 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service à distance.|Publié le 14 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que les...|Publié le 14 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0680/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. Microsoft indique que la vulnérabilité CVE-2024-38189 est activement exploitée.|Publié le 14 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0679/)|De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0678/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 14 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0677/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 14 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0676/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0675/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer une élévation de privilèges, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 14 août 2024|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/CA-Single-Sign-On-Cross-Site-Scripting-via-Symantec-SiteMinder-Web-Agent-44528" class="noirorange"><b>CA Single Sign-On</b>: Cross Site Scripting via Symantec SiteMinder Web Agent</a>](https://vigilance.fr/vulnerability/CA-Single-Sign-On-Cross-Site-Scripting-via-Symantec-SiteMinder-Web-Agent-44528)|An attacker can trigger a Cross Site Scripting of CA Single Sign-On, via Symantec SiteMinder Web Agent, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Db2-Physical-File-Trigger-44525" class="noirorange"><b>IBM i</b>: privilege escalation via Db2 Physical File Trigger</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Db2-Physical-File-Trigger-44525)|An attacker can bypass restrictions of IBM i, via Db2 Physical File Trigger, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-40595" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: code execution</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-40595)|An attacker can use a vulnerability of WebKitGTK  WPE WebKit, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902" class="noirorange"><b>NetBSD</b>: multiple vulnerabilities via ftpd</a>](https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902)|An attacker can use several vulnerabilities of NetBSD, via ftpd...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/snapd-denial-of-service-via-Non-regular-Files-44848" class="noirorange"><b>snapd</b>: denial of service via Non-regular Files</a>](https://vigilance.fr/vulnerability/snapd-denial-of-service-via-Non-regular-Files-44848)|An attacker can cause a fatal error of snapd, via Non-regular Files, in order to trigger a denial of service...|Visit link for details|
@@ -58,9 +44,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-View-Password-Cross-Site-Scripting-via-Classes-44839" class="noirorange"><b>Drupal View Password</b>: Cross Site Scripting via Classes</a>](https://vigilance.fr/vulnerability/Drupal-View-Password-Cross-Site-Scripting-via-Classes-44839)|An attacker can trigger a Cross Site Scripting of Drupal View Password, via Classes, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574" class="noirorange"><b>ClamAV</b>: code execution via HFS+ File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574)|An attacker can use a vulnerability of ClamAV, via HFS+ File Parser, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HTACG-HTML-Tidy-code-execution-via-CleanNode-42894" class="noirorange"><b>HTACG HTML Tidy</b>: code execution via CleanNode()</a>](https://vigilance.fr/vulnerability/HTACG-HTML-Tidy-code-execution-via-CleanNode-42894)|An attacker can use a vulnerability of HTACG HTML Tidy, via CleanNode(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-42885)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Host-Integration-Server-code-execution-42881" class="noirorange"><b>Microsoft Host Integration Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Host-Integration-Server-code-execution-42881)|An attacker can use a vulnerability of Microsoft Host Integration Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-42876)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0695/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 16 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0694/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0693/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 16 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0692/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 16 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0691/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 16 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0690/)|Une vulnérabilité a été découverte dans Elastic APM Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans Spring Framework. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 16 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0688/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 16 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans Mitel Unify OpenScape Business Application. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service à distance.|Publié le 16 août 2024|
  
  ---
 
