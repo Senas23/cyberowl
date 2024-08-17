@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/08/2024 09:20:41 UTC
+ > Last Updated 17/08/2024 21:18:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/CA-Single-Sign-On-Cross-Site-Scripting-via-Symantec-SiteMinder-Web-Agent-44528" class="noirorange"><b>CA Single Sign-On</b>: Cross Site Scripting via Symantec SiteMinder Web Agent</a>](https://vigilance.fr/vulnerability/CA-Single-Sign-On-Cross-Site-Scripting-via-Symantec-SiteMinder-Web-Agent-44528)|An attacker can trigger a Cross Site Scripting of CA Single Sign-On, via Symantec SiteMinder Web Agent, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Db2-Physical-File-Trigger-44525" class="noirorange"><b>IBM i</b>: privilege escalation via Db2 Physical File Trigger</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Db2-Physical-File-Trigger-44525)|An attacker can bypass restrictions of IBM i, via Db2 Physical File Trigger, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-40595" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: code execution</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-40595)|An attacker can use a vulnerability of WebKitGTK  WPE WebKit, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902" class="noirorange"><b>NetBSD</b>: multiple vulnerabilities via ftpd</a>](https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902)|An attacker can use several vulnerabilities of NetBSD, via ftpd...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/snapd-denial-of-service-via-Non-regular-Files-44848" class="noirorange"><b>snapd</b>: denial of service via Non-regular Files</a>](https://vigilance.fr/vulnerability/snapd-denial-of-service-via-Non-regular-Files-44848)|An attacker can cause a fatal error of snapd, via Non-regular Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/snapd-code-execution-via-HOME-bin-Path-44847" class="noirorange"><b>snapd</b>: code execution via HOME/bin Path</a>](https://vigilance.fr/vulnerability/snapd-code-execution-via-HOME-bin-Path-44847)|An attacker can use a vulnerability of snapd, via HOME/bin Path, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-View-Password-Cross-Site-Scripting-via-Classes-44839" class="noirorange"><b>Drupal View Password</b>: Cross Site Scripting via Classes</a>](https://vigilance.fr/vulnerability/Drupal-View-Password-Cross-Site-Scripting-via-Classes-44839)|An attacker can trigger a Cross Site Scripting of Drupal View Password, via Classes, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574" class="noirorange"><b>ClamAV</b>: code execution via HFS+ File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574)|An attacker can use a vulnerability of ClamAV, via HFS+ File Parser, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HTACG-HTML-Tidy-code-execution-via-CleanNode-42894" class="noirorange"><b>HTACG HTML Tidy</b>: code execution via CleanNode()</a>](https://vigilance.fr/vulnerability/HTACG-HTML-Tidy-code-execution-via-CleanNode-42894)|An attacker can use a vulnerability of HTACG HTML Tidy, via CleanNode(), in order to run code...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0688/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 16 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans Mitel Unify OpenScape Business Application. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service à distance.|Publié le 16 août 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-dated-17-06-2024-44532" class="noirorange"><b>Roundcube</b>: Cross Site Scripting dated 17/06/2024</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-dated-17-06-2024-44532)|An attacker can trigger a Cross Site Scripting of Roundcube, dated 17/06/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-ssl-spoofing-via-cert-store-stats-44531" class="noirorange"><b>Python ssl</b>: spoofing via cert_store_stats()</a>](https://vigilance.fr/vulnerability/Python-ssl-spoofing-via-cert-store-stats-44531)|An attacker can create spoofed data on Python ssl, via cert_store_stats(), in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-ipaddress-ingress-filtrering-bypass-via-is-private-is-global-44530" class="noirorange"><b>Python ipaddress</b>: ingress filtrering bypass via is_private is_global</a>](https://vigilance.fr/vulnerability/Python-ipaddress-ingress-filtrering-bypass-via-is-private-is-global-44530)|An attacker can bypass filtering rules of Python ipaddress, via is_private is_global, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyMongo-out-of-bounds-memory-reading-via-Bson-Module-44529" class="noirorange"><b>PyMongo</b>: out-of-bounds memory reading via Bson Module</a>](https://vigilance.fr/vulnerability/PyMongo-out-of-bounds-memory-reading-via-Bson-Module-44529)|An attacker can force a read at an invalid memory address of PyMongo, via Bson Module, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CA-Single-Sign-On-Cross-Site-Scripting-via-Symantec-SiteMinder-Web-Agent-44528" class="noirorange"><b>CA Single Sign-On</b>: Cross Site Scripting via Symantec SiteMinder Web Agent</a>](https://vigilance.fr/vulnerability/CA-Single-Sign-On-Cross-Site-Scripting-via-Symantec-SiteMinder-Web-Agent-44528)|An attacker can trigger a Cross Site Scripting of CA Single Sign-On, via Symantec SiteMinder Web Agent, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Db2-Physical-File-Trigger-44525" class="noirorange"><b>IBM i</b>: privilege escalation via Db2 Physical File Trigger</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Db2-Physical-File-Trigger-44525)|An attacker can bypass restrictions of IBM i, via Db2 Physical File Trigger, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-40595" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: code execution</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-40595)|An attacker can use a vulnerability of WebKitGTK  WPE WebKit, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902" class="noirorange"><b>NetBSD</b>: multiple vulnerabilities via ftpd</a>](https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902)|An attacker can use several vulnerabilities of NetBSD, via ftpd...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/snapd-denial-of-service-via-Non-regular-Files-44848" class="noirorange"><b>snapd</b>: denial of service via Non-regular Files</a>](https://vigilance.fr/vulnerability/snapd-denial-of-service-via-Non-regular-Files-44848)|An attacker can cause a fatal error of snapd, via Non-regular Files, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
