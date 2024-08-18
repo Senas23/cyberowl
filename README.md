@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/08/2024 21:18:18 UTC
+ > Last Updated 18/08/2024 09:23:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-gp-aux-bus-probe-44533" class="noirorange"><b>Linux kernel</b>: double free via gp_aux_bus_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-gp-aux-bus-probe-44533)|An attacker can force a double memory free of the Linux kernel, via gp_aux_bus_probe(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-dated-17-06-2024-44532" class="noirorange"><b>Roundcube</b>: Cross Site Scripting dated 17/06/2024</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-dated-17-06-2024-44532)|An attacker can trigger a Cross Site Scripting of Roundcube, dated 17/06/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-ssl-spoofing-via-cert-store-stats-44531" class="noirorange"><b>Python ssl</b>: spoofing via cert_store_stats()</a>](https://vigilance.fr/vulnerability/Python-ssl-spoofing-via-cert-store-stats-44531)|An attacker can create spoofed data on Python ssl, via cert_store_stats(), in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-ipaddress-ingress-filtrering-bypass-via-is-private-is-global-44530" class="noirorange"><b>Python ipaddress</b>: ingress filtrering bypass via is_private is_global</a>](https://vigilance.fr/vulnerability/Python-ipaddress-ingress-filtrering-bypass-via-is-private-is-global-44530)|An attacker can bypass filtering rules of Python ipaddress, via is_private is_global, in order to send malicious data...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-40595" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: code execution</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-40595)|An attacker can use a vulnerability of WebKitGTK  WPE WebKit, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-42908)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902" class="noirorange"><b>NetBSD</b>: multiple vulnerabilities via ftpd</a>](https://vigilance.fr/vulnerability/NetBSD-multiple-vulnerabilities-via-ftpd-42902)|An attacker can use several vulnerabilities of NetBSD, via ftpd...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/snapd-denial-of-service-via-Non-regular-Files-44848" class="noirorange"><b>snapd</b>: denial of service via Non-regular Files</a>](https://vigilance.fr/vulnerability/snapd-denial-of-service-via-Non-regular-Files-44848)|An attacker can cause a fatal error of snapd, via Non-regular Files, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
