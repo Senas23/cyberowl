@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/08/2024 21:18:26 UTC
+ > Last Updated 19/08/2024 09:22:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Jira-Server-DC-information-disclosure-via-Jira-Core-Data-Center-44544" class="noirorange"><b>Atlassian Jira Server/DC</b>: information disclosure via Jira Core Data Center</a>](https://vigilance.fr/vulnerability/Atlassian-Jira-Server-DC-information-disclosure-via-Jira-Core-Data-Center-44544)|An attacker can bypass access restrictions to data of Atlassian Jira Server/DC, via Jira Core Data Center, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Composer-code-execution-via-status-install-remove-44543" class="noirorange"><b>Composer</b>: code execution via status/install/<wbr>remove</wbr></a>](https://vigilance.fr/vulnerability/Composer-code-execution-via-status-install-remove-44543)|An attacker can use a vulnerability of Composer, via status/install/|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-06-2024-44542" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 19/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-06-2024-44542)|An attacker can use several vulnerabilities of the Linux kernel, dated 19/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Aimeos-Shop-And-E-commerce-Framework-code-execution-dated-18-06-2024-44539" class="noirorange"><b>TYPO3 Aimeos Shop And E-commerce Framework</b>: code execution dated 18/06/2024</a>](https://vigilance.fr/vulnerability/TYPO3-Aimeos-Shop-And-E-commerce-Framework-code-execution-dated-18-06-2024-44539)|An attacker can use a vulnerability of TYPO3 Aimeos Shop And E-commerce Framework, dated 18/06/2024, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Events-2-multiple-vulnerabilities-dated-18-06-2024-44537" class="noirorange"><b>TYPO3 Events 2</b>: multiple vulnerabilities dated 18/06/2024</a>](https://vigilance.fr/vulnerability/TYPO3-Events-2-multiple-vulnerabilities-dated-18-06-2024-44537)|An attacker can use several vulnerabilities of TYPO3 Events 2, dated 18/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Authlib-weak-signature-via-Asymmetric-Public-Keys-44536" class="noirorange"><b>Authlib</b>: weak signature via Asymmetric Public Keys</a>](https://vigilance.fr/vulnerability/Authlib-weak-signature-via-Asymmetric-Public-Keys-44536)|An attacker can use malicious data on Authlib, via Asymmetric Public Keys, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-gp-aux-bus-probe-44533" class="noirorange"><b>Linux kernel</b>: double free via gp_aux_bus_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-gp-aux-bus-probe-44533)|An attacker can force a double memory free of the Linux kernel, via gp_aux_bus_probe(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-dated-17-06-2024-44532" class="noirorange"><b>Roundcube</b>: Cross Site Scripting dated 17/06/2024</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-dated-17-06-2024-44532)|An attacker can trigger a Cross Site Scripting of Roundcube, dated 17/06/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-ssl-spoofing-via-cert-store-stats-44531" class="noirorange"><b>Python ssl</b>: spoofing via cert_store_stats()</a>](https://vigilance.fr/vulnerability/Python-ssl-spoofing-via-cert-store-stats-44531)|An attacker can create spoofed data on Python ssl, via cert_store_stats(), in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-ipaddress-ingress-filtrering-bypass-via-is-private-is-global-44530" class="noirorange"><b>Python ipaddress</b>: ingress filtrering bypass via is_private is_global</a>](https://vigilance.fr/vulnerability/Python-ipaddress-ingress-filtrering-bypass-via-is-private-is-global-44530)|An attacker can bypass filtering rules of Python ipaddress, via is_private is_global, in order to send malicious data...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0688/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 16 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans Mitel Unify OpenScape Business Application. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service à distance.|Publié le 16 août 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Aimeos-Shop-And-E-commerce-Framework-code-execution-dated-18-06-2024-44539" class="noirorange"><b>TYPO3 Aimeos Shop And E-commerce Framework</b>: code execution dated 18/06/2024</a>](https://vigilance.fr/vulnerability/TYPO3-Aimeos-Shop-And-E-commerce-Framework-code-execution-dated-18-06-2024-44539)|An attacker can use a vulnerability of TYPO3 Aimeos Shop And E-commerce Framework, dated 18/06/2024, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Events-2-multiple-vulnerabilities-dated-18-06-2024-44537" class="noirorange"><b>TYPO3 Events 2</b>: multiple vulnerabilities dated 18/06/2024</a>](https://vigilance.fr/vulnerability/TYPO3-Events-2-multiple-vulnerabilities-dated-18-06-2024-44537)|An attacker can use several vulnerabilities of TYPO3 Events 2, dated 18/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Authlib-weak-signature-via-Asymmetric-Public-Keys-44536" class="noirorange"><b>Authlib</b>: weak signature via Asymmetric Public Keys</a>](https://vigilance.fr/vulnerability/Authlib-weak-signature-via-Asymmetric-Public-Keys-44536)|An attacker can use malicious data on Authlib, via Asymmetric Public Keys, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-gp-aux-bus-probe-44533" class="noirorange"><b>Linux kernel</b>: double free via gp_aux_bus_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-gp-aux-bus-probe-44533)|An attacker can force a double memory free of the Linux kernel, via gp_aux_bus_probe(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-dated-17-06-2024-44532" class="noirorange"><b>Roundcube</b>: Cross Site Scripting dated 17/06/2024</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-dated-17-06-2024-44532)|An attacker can trigger a Cross Site Scripting of Roundcube, dated 17/06/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-ssl-spoofing-via-cert-store-stats-44531" class="noirorange"><b>Python ssl</b>: spoofing via cert_store_stats()</a>](https://vigilance.fr/vulnerability/Python-ssl-spoofing-via-cert-store-stats-44531)|An attacker can create spoofed data on Python ssl, via cert_store_stats(), in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-ipaddress-ingress-filtrering-bypass-via-is-private-is-global-44530" class="noirorange"><b>Python ipaddress</b>: ingress filtrering bypass via is_private is_global</a>](https://vigilance.fr/vulnerability/Python-ipaddress-ingress-filtrering-bypass-via-is-private-is-global-44530)|An attacker can bypass filtering rules of Python ipaddress, via is_private is_global, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyMongo-out-of-bounds-memory-reading-via-Bson-Module-44529" class="noirorange"><b>PyMongo</b>: out-of-bounds memory reading via Bson Module</a>](https://vigilance.fr/vulnerability/PyMongo-out-of-bounds-memory-reading-via-Bson-Module-44529)|An attacker can force a read at an invalid memory address of PyMongo, via Bson Module, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CA-Single-Sign-On-Cross-Site-Scripting-via-Symantec-SiteMinder-Web-Agent-44528" class="noirorange"><b>CA Single Sign-On</b>: Cross Site Scripting via Symantec SiteMinder Web Agent</a>](https://vigilance.fr/vulnerability/CA-Single-Sign-On-Cross-Site-Scripting-via-Symantec-SiteMinder-Web-Agent-44528)|An attacker can trigger a Cross Site Scripting of CA Single Sign-On, via Symantec SiteMinder Web Agent, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Db2-Physical-File-Trigger-44525" class="noirorange"><b>IBM i</b>: privilege escalation via Db2 Physical File Trigger</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Db2-Physical-File-Trigger-44525)|An attacker can bypass restrictions of IBM i, via Db2 Physical File Trigger, in order to escalate his privileges...|Visit link for details|
  
  ---
 
