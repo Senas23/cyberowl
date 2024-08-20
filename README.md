@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/08/2024 21:22:28 UTC
+ > Last Updated 20/08/2024 09:23:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,20 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0698/)|Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0697/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0696/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0695/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 16 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0694/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0693/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 16 août 2024|
@@ -41,9 +51,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0691/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 16 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0690/)|Une vulnérabilité a été découverte dans Elastic APM Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans Spring Framework. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0688/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans Mitel Unify OpenScape Business Application. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service à distance.|Publié le 16 août 2024|
  
  ---
 
@@ -51,23 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/gdb-three-vulnerabilities-dated-20-06-2024-44557" class="noirorange"><b>gdb</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/gdb-three-vulnerabilities-dated-20-06-2024-44557)|An attacker can use several vulnerabilities of gdb, dated 20/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925" class="noirorange"><b>Extreme Networks EXOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925)|An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Improper-Signature-Validation-44552" class="noirorange"><b>WebSphere AS</b>: spoofing via Improper Signature Validation</a>](https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Improper-Signature-Validation-44552)|An attacker can create spoofed data on WebSphere AS, via Improper Signature Validation, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-06-2024-44551" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-06-2024-44551)|An attacker can use several vulnerabilities of the Linux kernel, dated 20/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924" class="noirorange"><b>IP Infusion ZebOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924)|An attacker can send malicious BGP Update Messages packets to IP Infusion ZebOS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Heat-information-disclosure-via-Stack-Abandon-Command-44857" class="noirorange"><b>OpenStack Heat</b>: information disclosure via Stack Abandon Command</a>](https://vigilance.fr/vulnerability/OpenStack-Heat-information-disclosure-via-Stack-Abandon-Command-44857)|An attacker can bypass access restrictions to data of OpenStack Heat, via Stack Abandon Command, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/lwIP-information-disclosure-via-icmp6-send-response-with-addrs-and-netif-42920" class="noirorange"><b>lwIP</b>: information disclosure via icmp6_send_response_<wbr>with_addrs_and_<wbr>netif()</wbr></wbr></a>](https://vigilance.fr/vulnerability/lwIP-information-disclosure-via-icmp6-send-response-with-addrs-and-netif-42920)|An attacker can bypass access restrictions to data of lwIP, via icmp6_send_response_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-for-Virtual-Environments-privilege-escalation-dated-19-06-2024-44550" class="noirorange"><b>IBM Storage Protect for Virtual Environments</b>: privilege escalation dated 19/06/2024</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-for-Virtual-Environments-privilege-escalation-dated-19-06-2024-44550)|An attacker can bypass restrictions of IBM Storage Protect for Virtual Environments, dated 19/06/2024, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-Cross-Site-Scripting-dated-19-06-2024-44548" class="noirorange"><b>GitLab CE/EE</b>: Cross Site Scripting dated 19/06/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-Cross-Site-Scripting-dated-19-06-2024-44548)|An attacker can trigger a Cross Site Scripting of GitLab CE/EE, dated 19/06/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Jira-Server-DC-information-disclosure-via-Jira-Core-Data-Center-44544" class="noirorange"><b>Atlassian Jira Server/DC</b>: information disclosure via Jira Core Data Center</a>](https://vigilance.fr/vulnerability/Atlassian-Jira-Server-DC-information-disclosure-via-Jira-Core-Data-Center-44544)|An attacker can bypass access restrictions to data of Atlassian Jira Server/DC, via Jira Core Data Center, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Composer-code-execution-via-status-install-remove-44543" class="noirorange"><b>Composer</b>: code execution via status/install/<wbr>remove</wbr></a>](https://vigilance.fr/vulnerability/Composer-code-execution-via-status-install-remove-44543)|An attacker can use a vulnerability of Composer, via status/install/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-06-2024-44542" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 19/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-06-2024-44542)|An attacker can use several vulnerabilities of the Linux kernel, dated 19/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Aimeos-Shop-And-E-commerce-Framework-code-execution-dated-18-06-2024-44539" class="noirorange"><b>TYPO3 Aimeos Shop And E-commerce Framework</b>: code execution dated 18/06/2024</a>](https://vigilance.fr/vulnerability/TYPO3-Aimeos-Shop-And-E-commerce-Framework-code-execution-dated-18-06-2024-44539)|An attacker can use a vulnerability of TYPO3 Aimeos Shop And E-commerce Framework, dated 18/06/2024, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Events-2-multiple-vulnerabilities-dated-18-06-2024-44537" class="noirorange"><b>TYPO3 Events 2</b>: multiple vulnerabilities dated 18/06/2024</a>](https://vigilance.fr/vulnerability/TYPO3-Events-2-multiple-vulnerabilities-dated-18-06-2024-44537)|An attacker can use several vulnerabilities of TYPO3 Events 2, dated 18/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Authlib-weak-signature-via-Asymmetric-Public-Keys-44536" class="noirorange"><b>Authlib</b>: weak signature via Asymmetric Public Keys</a>](https://vigilance.fr/vulnerability/Authlib-weak-signature-via-Asymmetric-Public-Keys-44536)|An attacker can use malicious data on Authlib, via Asymmetric Public Keys, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-gp-aux-bus-probe-44533" class="noirorange"><b>Linux kernel</b>: double free via gp_aux_bus_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-gp-aux-bus-probe-44533)|An attacker can force a double memory free of the Linux kernel, via gp_aux_bus_probe(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-dated-17-06-2024-44532" class="noirorange"><b>Roundcube</b>: Cross Site Scripting dated 17/06/2024</a>](https://vigilance.fr/vulnerability/Roundcube-Cross-Site-Scripting-dated-17-06-2024-44532)|An attacker can trigger a Cross Site Scripting of Roundcube, dated 17/06/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
