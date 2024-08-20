@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/08/2024 09:23:59 UTC
+ > Last Updated 20/08/2024 21:21:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-three-vulnerabilities-dated-20-06-2024-44564" class="noirorange"><b>OpenVPN OpenSource</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-three-vulnerabilities-dated-20-06-2024-44564)|An attacker can use several vulnerabilities of OpenVPN OpenSource, dated 20/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Link-Following-44562" class="noirorange"><b>ESET NOD32 Antivirus</b>: privilege escalation via Link Following</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Link-Following-44562)|An attacker can bypass restrictions of ESET NOD32 Antivirus, via Link Following, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44561" class="noirorange"><b>HDF5</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44561)|An attacker can use several vulnerabilities of HDF5, dated 20/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HDF5-five-vulnerabilities-dated-20-06-2024-44560" class="noirorange"><b>HDF5</b>: five vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/HDF5-five-vulnerabilities-dated-20-06-2024-44560)|An attacker can use several vulnerabilities of HDF5, dated 20/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44559" class="noirorange"><b>HDF5</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44559)|An attacker can use several vulnerabilities of HDF5, dated 20/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HDF5-out-of-bounds-memory-reading-via-H5T-conv-struct-opt-44558" class="noirorange"><b>HDF5</b>: out-of-bounds memory reading via H5T_conv_struct_opt(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/HDF5-out-of-bounds-memory-reading-via-H5T-conv-struct-opt-44558)|An attacker can force a read at an invalid memory address of HDF5, via H5T_conv_struct_opt(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-security-improvement-via-Enforced-Signed-macros-44859" class="noirorange"><b>LibreOffice</b>: security improvement via Enforced Signed macros</a>](https://vigilance.fr/vulnerability/LibreOffice-security-improvement-via-Enforced-Signed-macros-44859)|The security of LibreOffice was improved via Enforced Signed macros...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gdb-three-vulnerabilities-dated-20-06-2024-44557" class="noirorange"><b>gdb</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/gdb-three-vulnerabilities-dated-20-06-2024-44557)|An attacker can use several vulnerabilities of gdb, dated 20/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925" class="noirorange"><b>Extreme Networks EXOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925)|An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Improper-Signature-Validation-44552" class="noirorange"><b>WebSphere AS</b>: spoofing via Improper Signature Validation</a>](https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Improper-Signature-Validation-44552)|An attacker can create spoofed data on WebSphere AS, via Improper Signature Validation, in order to deceive the victim...|Visit link for details|
  
  ---
 
@@ -54,20 +64,10 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/gdb-three-vulnerabilities-dated-20-06-2024-44557" class="noirorange"><b>gdb</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/gdb-three-vulnerabilities-dated-20-06-2024-44557)|An attacker can use several vulnerabilities of gdb, dated 20/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925" class="noirorange"><b>Extreme Networks EXOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925)|An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Improper-Signature-Validation-44552" class="noirorange"><b>WebSphere AS</b>: spoofing via Improper Signature Validation</a>](https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Improper-Signature-Validation-44552)|An attacker can create spoofed data on WebSphere AS, via Improper Signature Validation, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-06-2024-44551" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-06-2024-44551)|An attacker can use several vulnerabilities of the Linux kernel, dated 20/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924" class="noirorange"><b>IP Infusion ZebOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/IP-Infusion-ZebOS-denial-of-service-via-BGP-Update-Messages-42924)|An attacker can send malicious BGP Update Messages packets to IP Infusion ZebOS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Heat-information-disclosure-via-Stack-Abandon-Command-44857" class="noirorange"><b>OpenStack Heat</b>: information disclosure via Stack Abandon Command</a>](https://vigilance.fr/vulnerability/OpenStack-Heat-information-disclosure-via-Stack-Abandon-Command-44857)|An attacker can bypass access restrictions to data of OpenStack Heat, via Stack Abandon Command, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/lwIP-information-disclosure-via-icmp6-send-response-with-addrs-and-netif-42920" class="noirorange"><b>lwIP</b>: information disclosure via icmp6_send_response_<wbr>with_addrs_and_<wbr>netif()</wbr></wbr></a>](https://vigilance.fr/vulnerability/lwIP-information-disclosure-via-icmp6-send-response-with-addrs-and-netif-42920)|An attacker can bypass access restrictions to data of lwIP, via icmp6_send_response_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-for-Virtual-Environments-privilege-escalation-dated-19-06-2024-44550" class="noirorange"><b>IBM Storage Protect for Virtual Environments</b>: privilege escalation dated 19/06/2024</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-for-Virtual-Environments-privilege-escalation-dated-19-06-2024-44550)|An attacker can bypass restrictions of IBM Storage Protect for Virtual Environments, dated 19/06/2024, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-Cross-Site-Scripting-dated-19-06-2024-44548" class="noirorange"><b>GitLab CE/EE</b>: Cross Site Scripting dated 19/06/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-Cross-Site-Scripting-dated-19-06-2024-44548)|An attacker can trigger a Cross Site Scripting of GitLab CE/EE, dated 19/06/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Jira-Server-DC-information-disclosure-via-Jira-Core-Data-Center-44544" class="noirorange"><b>Atlassian Jira Server/DC</b>: information disclosure via Jira Core Data Center</a>](https://vigilance.fr/vulnerability/Atlassian-Jira-Server-DC-information-disclosure-via-Jira-Core-Data-Center-44544)|An attacker can bypass access restrictions to data of Atlassian Jira Server/DC, via Jira Core Data Center, in order to read sensitive information...|Visit link for details|
  
  ---
 
