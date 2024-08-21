@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/08/2024 21:21:32 UTC
+ > Last Updated 21/08/2024 09:23:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,12 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-three-vulnerabilities-dated-20-06-2024-44564" class="noirorange"><b>OpenVPN OpenSource</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-three-vulnerabilities-dated-20-06-2024-44564)|An attacker can use several vulnerabilities of OpenVPN OpenSource, dated 20/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Link-Following-44562" class="noirorange"><b>ESET NOD32 Antivirus</b>: privilege escalation via Link Following</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Link-Following-44562)|An attacker can bypass restrictions of ESET NOD32 Antivirus, via Link Following, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44561" class="noirorange"><b>HDF5</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44561)|An attacker can use several vulnerabilities of HDF5, dated 20/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HDF5-five-vulnerabilities-dated-20-06-2024-44560" class="noirorange"><b>HDF5</b>: five vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/HDF5-five-vulnerabilities-dated-20-06-2024-44560)|An attacker can use several vulnerabilities of HDF5, dated 20/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44559" class="noirorange"><b>HDF5</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44559)|An attacker can use several vulnerabilities of HDF5, dated 20/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HDF5-out-of-bounds-memory-reading-via-H5T-conv-struct-opt-44558" class="noirorange"><b>HDF5</b>: out-of-bounds memory reading via H5T_conv_struct_opt(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/HDF5-out-of-bounds-memory-reading-via-H5T-conv-struct-opt-44558)|An attacker can force a read at an invalid memory address of HDF5, via H5T_conv_struct_opt(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-security-improvement-via-Enforced-Signed-macros-44859" class="noirorange"><b>LibreOffice</b>: security improvement via Enforced Signed macros</a>](https://vigilance.fr/vulnerability/LibreOffice-security-improvement-via-Enforced-Signed-macros-44859)|The security of LibreOffice was improved via Enforced Signed macros...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gdb-three-vulnerabilities-dated-20-06-2024-44557" class="noirorange"><b>gdb</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/gdb-three-vulnerabilities-dated-20-06-2024-44557)|An attacker can use several vulnerabilities of gdb, dated 20/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925" class="noirorange"><b>Extreme Networks EXOS</b>: denial of service via BGP Update Messages</a>](https://vigilance.fr/vulnerability/Extreme-Networks-EXOS-denial-of-service-via-BGP-Update-Messages-42925)|An attacker can send malicious BGP Update Messages packets to Extreme Networks EXOS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Improper-Signature-Validation-44552" class="noirorange"><b>WebSphere AS</b>: spoofing via Improper Signature Validation</a>](https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Improper-Signature-Validation-44552)|An attacker can create spoofed data on WebSphere AS, via Improper Signature Validation, in order to deceive the victim...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0700/)|Une vulnérabilité a été découverte dans SpringSecurity. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0699/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 19 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0698/)|Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0697/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0696/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 août 2024|
@@ -59,8 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0693/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 16 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0692/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 16 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0691/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0690/)|Une vulnérabilité a été découverte dans Elastic APM Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans Spring Framework. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 16 août 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-TCP-IP-Connectivity-Utilities-44568" class="noirorange"><b>IBM i</b>: privilege escalation via TCP/IP Connectivity Utilities</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-TCP-IP-Connectivity-Utilities-44568)|An attacker can bypass restrictions of IBM i, via TCP/IP Connectivity Utilities, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Twisted-information-disclosure-via-Out-of-order-Pipelined-HTTP-Requests-44860" class="noirorange"><b>Twisted</b>: information disclosure via Out-of-order Pipelined HTTP Requests</a>](https://vigilance.fr/vulnerability/Twisted-information-disclosure-via-Out-of-order-Pipelined-HTTP-Requests-44860)|An attacker can bypass access restrictions to data of Twisted, via Out-of-order Pipelined HTTP Requests, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-06-2024-44567" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 21/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-06-2024-44567)|An attacker can use several vulnerabilities of the Linux kernel, dated 21/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-21-06-2024-44566" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing dated 21/06/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-21-06-2024-44566)|An attacker can create spoofed data on Microsoft Edge Chromium, dated 21/06/2024, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-three-vulnerabilities-dated-20-06-2024-44564" class="noirorange"><b>OpenVPN OpenSource</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-three-vulnerabilities-dated-20-06-2024-44564)|An attacker can use several vulnerabilities of OpenVPN OpenSource, dated 20/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Link-Following-44562" class="noirorange"><b>ESET NOD32 Antivirus</b>: privilege escalation via Link Following</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-Link-Following-44562)|An attacker can bypass restrictions of ESET NOD32 Antivirus, via Link Following, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44561" class="noirorange"><b>HDF5</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44561)|An attacker can use several vulnerabilities of HDF5, dated 20/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HDF5-five-vulnerabilities-dated-20-06-2024-44560" class="noirorange"><b>HDF5</b>: five vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/HDF5-five-vulnerabilities-dated-20-06-2024-44560)|An attacker can use several vulnerabilities of HDF5, dated 20/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44559" class="noirorange"><b>HDF5</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/HDF5-three-vulnerabilities-dated-20-06-2024-44559)|An attacker can use several vulnerabilities of HDF5, dated 20/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HDF5-out-of-bounds-memory-reading-via-H5T-conv-struct-opt-44558" class="noirorange"><b>HDF5</b>: out-of-bounds memory reading via H5T_conv_struct_opt(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/HDF5-out-of-bounds-memory-reading-via-H5T-conv-struct-opt-44558)|An attacker can force a read at an invalid memory address of HDF5, via H5T_conv_struct_opt(|Visit link for details|
  
  ---
 
