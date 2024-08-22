@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/08/2024 21:20:06 UTC
+ > Last Updated 22/08/2024 09:22:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,24 +23,31 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0704/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 21 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0703/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 21 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0702/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 21 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0701/)|De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 21 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0700/)|Une vulnérabilité a été découverte dans SpringSecurity. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0699/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 19 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0698/)|Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 19 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0697/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 19 août 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0696/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0695/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0694/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0693/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0692/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0691/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0690/)|Une vulnérabilité a été découverte dans Elastic APM Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans Spring Framework. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0688/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans Mitel Unify OpenScape Business Application. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service à distance.|Publié le 16 août 2024|
  
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-asix-read-cmd-44870" class="noirorange"><b>Linux kernel</b>: memory reading via asix_read_cmd()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-asix-read-cmd-44870)|An attacker can read a memory fragment of the Linux kernel, via asix_read_cmd(), in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/wpasupplicant-privilege-escalation-via-Netdev-Group-Load-Shared-Object-Files-44869" class="noirorange"><b>wpasupplicant</b>: privilege escalation via Netdev Group Load Shared Object Files</a>](https://vigilance.fr/vulnerability/wpasupplicant-privilege-escalation-via-Netdev-Group-Load-Shared-Object-Files-44869)|An attacker can bypass restrictions of wpasupplicant, via Netdev Group Load Shared Object Files, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wget-ingress-filtrering-bypass-via-Userinfo-Semicolons-44571" class="noirorange"><b>Wget</b>: ingress filtrering bypass via Userinfo Semicolons</a>](https://vigilance.fr/vulnerability/Wget-ingress-filtrering-bypass-via-Userinfo-Semicolons-44571)|An attacker can bypass filtering rules of Wget, via Userinfo Semicolons, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937" class="noirorange"><b>FRRouting</b>: buffer overflow via Flowspec Zero Nlri Length</a>](https://vigilance.fr/vulnerability/FRRouting-buffer-overflow-via-Flowspec-Zero-Nlri-Length-42937)|An attacker can trigger a buffer overflow of FRRouting, via Flowspec Zero Nlri Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42934" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-42934)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
@@ -59,15 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-TCP-IP-Connectivity-Utilities-44568" class="noirorange"><b>IBM i</b>: privilege escalation via TCP/IP Connectivity Utilities</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-TCP-IP-Connectivity-Utilities-44568)|An attacker can bypass restrictions of IBM i, via TCP/IP Connectivity Utilities, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Twisted-information-disclosure-via-Out-of-order-Pipelined-HTTP-Requests-44860" class="noirorange"><b>Twisted</b>: information disclosure via Out-of-order Pipelined HTTP Requests</a>](https://vigilance.fr/vulnerability/Twisted-information-disclosure-via-Out-of-order-Pipelined-HTTP-Requests-44860)|An attacker can bypass access restrictions to data of Twisted, via Out-of-order Pipelined HTTP Requests, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-06-2024-44567" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 21/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-06-2024-44567)|An attacker can use several vulnerabilities of the Linux kernel, dated 21/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-21-06-2024-44566" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing dated 21/06/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-21-06-2024-44566)|An attacker can create spoofed data on Microsoft Edge Chromium, dated 21/06/2024, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-three-vulnerabilities-dated-20-06-2024-44564" class="noirorange"><b>OpenVPN OpenSource</b>: three vulnerabilities dated 20/06/2024</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-three-vulnerabilities-dated-20-06-2024-44564)|An attacker can use several vulnerabilities of OpenVPN OpenSource, dated 20/06/2024...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
