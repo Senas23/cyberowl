@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/08/2024 09:21:08 UTC
+ > Last Updated 25/08/2024 21:19:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-06-2024-44584" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 25/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-06-2024-44584)|An attacker can use several vulnerabilities of the Linux kernel, dated 25/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-three-vulnerabilities-dated-24-06-2024-44582" class="noirorange"><b>WordPress Core</b>: three vulnerabilities dated 24/06/2024</a>](https://vigilance.fr/vulnerability/WordPress-Core-three-vulnerabilities-dated-24-06-2024-44582)|An attacker can use several vulnerabilities of WordPress Core, dated 24/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-IKEv1-AES-GMAC-44580" class="noirorange"><b>Libreswan</b>: assertion error via IKEv1 AES-GMAC</a>](https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-IKEv1-AES-GMAC-44580)|An attacker can force an assertion error of Libreswan, via IKEv1 AES-GMAC, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pki-core-user-access-via-LDAP-Injection-SessionID-Wildcard-44579" class="noirorange"><b>pki-core</b>: user access via LDAP Injection SessionID Wildcard</a>](https://vigilance.fr/vulnerability/pki-core-user-access-via-LDAP-Injection-SessionID-Wildcard-44579)|An attacker can bypass restrictions of pki-core, via LDAP Injection SessionID Wildcard, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNOME-Settings-Daemon-ingress-filtrering-bypass-via-USB-Authorization-Policy-44576" class="noirorange"><b>GNOME Settings Daemon</b>: ingress filtrering bypass via USB Authorization Policy</a>](https://vigilance.fr/vulnerability/GNOME-Settings-Daemon-ingress-filtrering-bypass-via-USB-Authorization-Policy-44576)|An attacker can bypass filtering rules of GNOME Settings Daemon, via USB Authorization Policy, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QPDF-code-execution-via-QPDFObjectHandle-44575" class="noirorange"><b>QPDF</b>: code execution via QPDFObjectHandle()</a>](https://vigilance.fr/vulnerability/QPDF-code-execution-via-QPDFObjectHandle-44575)|An attacker can use a vulnerability of QPDF, via QPDFObjectHandle(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Enterprise-Server-information-disclosure-via-arcgis-rest-services-44574" class="noirorange"><b>ArcGIS Enterprise Server</b>: information disclosure via /arcgis/rest/<wbr>services</wbr></a>](https://vigilance.fr/vulnerability/ArcGIS-Enterprise-Server-information-disclosure-via-arcgis-rest-services-44574)|An attacker can bypass access restrictions to data of ArcGIS Enterprise Server, via /arcgis/rest/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-24-06-2024-44573" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 24/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-24-06-2024-44573)|An attacker can use several vulnerabilities of the Linux kernel, dated 24/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libtiff-NULL-pointer-dereference-via-TIFFMergeFields-44900" class="noirorange"><b>Libtiff</b>: NULL pointer dereference via _TIFFMergeFields()</a>](https://vigilance.fr/vulnerability/Libtiff-NULL-pointer-dereference-via-TIFFMergeFields-44900)|An attacker can force a NULL pointer to be dereferenced on Libtiff, via _TIFFMergeFields(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40625" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40625)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0713/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 23 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0712/)|Une vulnérabilité a été découverte dans les produits Sonicwall. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 23 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0711/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité...|Publié le 23 août 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Web-UI-44592" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Web-UI-44592)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-Man-in-the-Middle-via-LibreOfficeKit-44591" class="noirorange"><b>LibreOffice</b>: Man-in-the-Middle via LibreOfficeKit</a>](https://vigilance.fr/vulnerability/LibreOffice-Man-in-the-Middle-via-LibreOfficeKit-44591)|An attacker can act as a Man-in-the-Middle on LibreOffice, via LibreOfficeKit, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-ESXi-vCenter-Server-three-vulnerabilities-dated-25-06-2024-44590" class="noirorange"><b>VMware ESXi  vCenter Server</b>: three vulnerabilities dated 25/06/2024</a>](https://vigilance.fr/vulnerability/VMware-ESXi-vCenter-Server-three-vulnerabilities-dated-25-06-2024-44590)|An attacker can use several vulnerabilities of VMware ESXi  vCenter Server, dated 25/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adminer-AdminerEvo-denial-of-service-via-HTTP-Redirects-44589" class="noirorange"><b>Adminer  AdminerEvo</b>: denial of service via HTTP Redirects</a>](https://vigilance.fr/vulnerability/Adminer-AdminerEvo-denial-of-service-via-HTTP-Redirects-44589)|An attacker can cause a fatal error of Adminer  AdminerEvo, via HTTP Redirects, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adminer-AdminerEvo-Cross-Site-Request-Forgery-via-Database-Connection-Fields-44588" class="noirorange"><b>Adminer  AdminerEvo</b>: Cross Site Request Forgery via Database Connection Fields</a>](https://vigilance.fr/vulnerability/Adminer-AdminerEvo-Cross-Site-Request-Forgery-via-Database-Connection-Fields-44588)|An attacker can trigger a Cross Site Request Forgery of Adminer  AdminerEvo, via Database Connection Fields, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-06-2024-44584" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 25/06/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-06-2024-44584)|An attacker can use several vulnerabilities of the Linux kernel, dated 25/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-three-vulnerabilities-dated-24-06-2024-44582" class="noirorange"><b>WordPress Core</b>: three vulnerabilities dated 24/06/2024</a>](https://vigilance.fr/vulnerability/WordPress-Core-three-vulnerabilities-dated-24-06-2024-44582)|An attacker can use several vulnerabilities of WordPress Core, dated 24/06/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-IKEv1-AES-GMAC-44580" class="noirorange"><b>Libreswan</b>: assertion error via IKEv1 AES-GMAC</a>](https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-IKEv1-AES-GMAC-44580)|An attacker can force an assertion error of Libreswan, via IKEv1 AES-GMAC, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pki-core-user-access-via-LDAP-Injection-SessionID-Wildcard-44579" class="noirorange"><b>pki-core</b>: user access via LDAP Injection SessionID Wildcard</a>](https://vigilance.fr/vulnerability/pki-core-user-access-via-LDAP-Injection-SessionID-Wildcard-44579)|An attacker can bypass restrictions of pki-core, via LDAP Injection SessionID Wildcard, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-Settings-Daemon-ingress-filtrering-bypass-via-USB-Authorization-Policy-44576" class="noirorange"><b>GNOME Settings Daemon</b>: ingress filtrering bypass via USB Authorization Policy</a>](https://vigilance.fr/vulnerability/GNOME-Settings-Daemon-ingress-filtrering-bypass-via-USB-Authorization-Policy-44576)|An attacker can bypass filtering rules of GNOME Settings Daemon, via USB Authorization Policy, in order to send malicious data...|Visit link for details|
  
  ---
 
