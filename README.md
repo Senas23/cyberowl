@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/08/2024 21:20:59 UTC
+ > Last Updated 28/08/2024 09:24:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,30 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-out-of-bounds-memory-reading-via-SSLContext-set-npn-protocols-44626" class="noirorange"><b>Python Core</b>: out-of-bounds memory reading via SSLContext.set_npn_<wbr>protocols()</wbr></a>](https://vigilance.fr/vulnerability/Python-Core-out-of-bounds-memory-reading-via-SSLContext-set-npn-protocols-44626)|An attacker can force a read at an invalid memory address of Python Core, via SSLContext.set_npn_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/quic-go-overload-via-NEW-CONNECTION-ID-44625" class="noirorange"><b>quic-go</b>: overload via NEW_CONNECTION_ID</a>](https://vigilance.fr/vulnerability/quic-go-overload-via-NEW-CONNECTION-ID-44625)|An attacker can trigger an overload of quic-go, via NEW_CONNECTION_ID, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/COVESA-dlt-daemon-buffer-overflow-via-dlt-common-c-44622" class="noirorange"><b>COVESA dlt-daemon</b>: buffer overflow via dlt_common.c</a>](https://vigilance.fr/vulnerability/COVESA-dlt-daemon-buffer-overflow-via-dlt-common-c-44622)|An attacker can trigger a buffer overflow of COVESA dlt-daemon, via dlt_common.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/COVESA-dlt-daemon-memory-leak-via-dlt-control-common-c-44621" class="noirorange"><b>COVESA dlt-daemon</b>: memory leak via dlt-control-common.c</a>](https://vigilance.fr/vulnerability/COVESA-dlt-daemon-memory-leak-via-dlt-control-common-c-44621)|An attacker can create a memory leak of COVESA dlt-daemon, via dlt-control-common.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/COVESA-dlt-daemon-NULL-pointer-dereference-via-DLT-File-44620" class="noirorange"><b>COVESA dlt-daemon</b>: NULL pointer dereference via DLT File</a>](https://vigilance.fr/vulnerability/COVESA-dlt-daemon-NULL-pointer-dereference-via-DLT-File-44620)|An attacker can force a NULL pointer to be dereferenced on COVESA dlt-daemon, via DLT File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/COVESA-dlt-daemon-out-of-bounds-memory-reading-via-DLT-File-44619" class="noirorange"><b>COVESA dlt-daemon</b>: out-of-bounds memory reading via DLT File</a>](https://vigilance.fr/vulnerability/COVESA-dlt-daemon-out-of-bounds-memory-reading-via-DLT-File-44619)|An attacker can force a read at an invalid memory address of COVESA dlt-daemon, via DLT File, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-NULL-pointer-dereference-via-QXcbConnection-initializeAllAtoms-44910" class="noirorange"><b>Qt</b>: NULL pointer dereference via QXcbConnection::<wbr>initializeAllAtoms()</wbr></a>](https://vigilance.fr/vulnerability/Qt-NULL-pointer-dereference-via-QXcbConnection-initializeAllAtoms-44910)|An attacker can force a NULL pointer to be dereferenced on Qt, via QXcbConnection::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-code-execution-via-Unserialize-protege-champ-40656" class="noirorange"><b>SPIP</b>: code execution via Unserialize protege_champ()</a>](https://vigilance.fr/vulnerability/SPIP-code-execution-via-Unserialize-protege-champ-40656)|An attacker can use a vulnerability of SPIP, via Unserialize protege_champ(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-SSL-select-next-proto-44618" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via SSL_select_next_<wbr>proto()</wbr></a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-SSL-select-next-proto-44618)|An attacker can force a read at an invalid memory address of OpenSSL, via SSL_select_next_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TianoCore-EDK-II-privilege-escalation-via-BootPerformanceTable-44617" class="noirorange"><b>TianoCore EDK II</b>: privilege escalation via BootPerformanceTable</a>](https://vigilance.fr/vulnerability/TianoCore-EDK-II-privilege-escalation-via-BootPerformanceTable-44617)|An attacker can bypass restrictions of TianoCore EDK II, via BootPerformanceTable|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,30 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0714/)|Une vulnérabilité a été découverte dans SolarWinds Web Help Desk. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0713/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 23 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0712/)|Une vulnérabilité a été découverte dans les produits Sonicwall. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 23 août 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/quic-go-overload-via-NEW-CONNECTION-ID-44625" class="noirorange"><b>quic-go</b>: overload via NEW_CONNECTION_ID</a>](https://vigilance.fr/vulnerability/quic-go-overload-via-NEW-CONNECTION-ID-44625)|An attacker can trigger an overload of quic-go, via NEW_CONNECTION_ID, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/COVESA-dlt-daemon-buffer-overflow-via-dlt-common-c-44622" class="noirorange"><b>COVESA dlt-daemon</b>: buffer overflow via dlt_common.c</a>](https://vigilance.fr/vulnerability/COVESA-dlt-daemon-buffer-overflow-via-dlt-common-c-44622)|An attacker can trigger a buffer overflow of COVESA dlt-daemon, via dlt_common.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/COVESA-dlt-daemon-memory-leak-via-dlt-control-common-c-44621" class="noirorange"><b>COVESA dlt-daemon</b>: memory leak via dlt-control-common.c</a>](https://vigilance.fr/vulnerability/COVESA-dlt-daemon-memory-leak-via-dlt-control-common-c-44621)|An attacker can create a memory leak of COVESA dlt-daemon, via dlt-control-common.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/COVESA-dlt-daemon-NULL-pointer-dereference-via-DLT-File-44620" class="noirorange"><b>COVESA dlt-daemon</b>: NULL pointer dereference via DLT File</a>](https://vigilance.fr/vulnerability/COVESA-dlt-daemon-NULL-pointer-dereference-via-DLT-File-44620)|An attacker can force a NULL pointer to be dereferenced on COVESA dlt-daemon, via DLT File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/COVESA-dlt-daemon-out-of-bounds-memory-reading-via-DLT-File-44619" class="noirorange"><b>COVESA dlt-daemon</b>: out-of-bounds memory reading via DLT File</a>](https://vigilance.fr/vulnerability/COVESA-dlt-daemon-out-of-bounds-memory-reading-via-DLT-File-44619)|An attacker can force a read at an invalid memory address of COVESA dlt-daemon, via DLT File, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-NULL-pointer-dereference-via-QXcbConnection-initializeAllAtoms-44910" class="noirorange"><b>Qt</b>: NULL pointer dereference via QXcbConnection::<wbr>initializeAllAtoms()</wbr></a>](https://vigilance.fr/vulnerability/Qt-NULL-pointer-dereference-via-QXcbConnection-initializeAllAtoms-44910)|An attacker can force a NULL pointer to be dereferenced on Qt, via QXcbConnection::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-code-execution-via-Unserialize-protege-champ-40656" class="noirorange"><b>SPIP</b>: code execution via Unserialize protege_champ()</a>](https://vigilance.fr/vulnerability/SPIP-code-execution-via-Unserialize-protege-champ-40656)|An attacker can use a vulnerability of SPIP, via Unserialize protege_champ(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-SSL-select-next-proto-44618" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via SSL_select_next_<wbr>proto()</wbr></a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-SSL-select-next-proto-44618)|An attacker can force a read at an invalid memory address of OpenSSL, via SSL_select_next_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TianoCore-EDK-II-privilege-escalation-via-BootPerformanceTable-44617" class="noirorange"><b>TianoCore EDK II</b>: privilege escalation via BootPerformanceTable</a>](https://vigilance.fr/vulnerability/TianoCore-EDK-II-privilege-escalation-via-BootPerformanceTable-44617)|An attacker can bypass restrictions of TianoCore EDK II, via BootPerformanceTable|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-NUC-BIOS-Firmware-multiple-vulnerabilities-dated-08-08-2023-44615" class="noirorange"><b>Intel NUC BIOS Firmware</b>: multiple vulnerabilities dated 08/08/2023</a>](https://vigilance.fr/vulnerability/Intel-NUC-BIOS-Firmware-multiple-vulnerabilities-dated-08-08-2023-44615)|An attacker can use several vulnerabilities of Intel NUC BIOS Firmware, dated 08/08/2023...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
