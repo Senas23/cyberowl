@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/08/2024 21:22:39 UTC
+ > Last Updated 31/08/2024 09:21:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,13 +47,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Server-Query-44926" class="noirorange"><b>IBM Db2</b>: denial of service via Federated Server Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Server-Query-44926)|An attacker can cause a fatal error of IBM Db2, via Federated Server Query, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-dated-28-06-2024-44629" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution dated 28/06/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-dated-28-06-2024-44629)|An attacker can use a vulnerability of Microsoft Edge Chromium, dated 28/06/2024, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-dcmdata-memory-corruption-via-DIMSE-Message-44628" class="noirorange"><b>DCMTK dcmdata</b>: memory corruption via DIMSE Message</a>](https://vigilance.fr/vulnerability/DCMTK-dcmdata-memory-corruption-via-DIMSE-Message-44628)|An attacker can trigger a memory corruption of DCMTK dcmdata, via DIMSE Message, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
