@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/09/2024 09:21:37 UTC
+ > Last Updated 01/09/2024 21:21:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/eSpeak-NG-memory-corruption-dated-01-07-2024-44636" class="noirorange"><b>eSpeak NG</b>: memory corruption dated 01/07/2024</a>](https://vigilance.fr/vulnerability/eSpeak-NG-memory-corruption-dated-01-07-2024-44636)|An attacker can trigger a memory corruption of eSpeak NG, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcdio-buffer-overflow-via-ISO-9660-Image-File-44632" class="noirorange"><b>libcdio</b>: buffer overflow via ISO 9660 Image File</a>](https://vigilance.fr/vulnerability/libcdio-buffer-overflow-via-ISO-9660-Image-File-44632)|An attacker can trigger a buffer overflow of libcdio, via ISO 9660 Image File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tryton-overload-via-Zip-Bomb-Attacks-44631" class="noirorange"><b>Tryton</b>: overload via Zip Bomb Attacks</a>](https://vigilance.fr/vulnerability/Tryton-overload-via-Zip-Bomb-Attacks-44631)|An attacker can trigger an overload of Tryton, via Zip Bomb Attacks, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-External-System-Secrets-44951" class="noirorange"><b>PAN-OS</b>: information disclosure via External System Secrets</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-External-System-Secrets-44951)|An attacker can bypass access restrictions to data of PAN-OS, via External System Secrets, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-SMI-Transfer-Monitor-44933" class="noirorange"><b>Intel Processor</b>: privilege escalation via SMI Transfer Monitor</a>](https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-SMI-Transfer-Monitor-44933)|An attacker can bypass restrictions of Intel Processor, via SMI Transfer Monitor, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-Control-Flow-Management-44931" class="noirorange"><b>Intel Xeon Processor</b>: denial of service via Control Flow Management</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-Control-Flow-Management-44931)|An attacker can cause a fatal error of Intel Xeon Processor, via Control Flow Management, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980" class="noirorange"><b>PyArrow</b>: code execution via IPC / Parquet Readers Deserialization</a>](https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980)|An attacker can use a vulnerability of PyArrow, via IPC / Parquet Readers Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Certain-Tables-Querying-44929" class="noirorange"><b>IBM Db2</b>: denial of service via Certain Tables Querying</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Certain-Tables-Querying-44929)|An attacker can cause a fatal error of IBM Db2, via Certain Tables Querying, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Columnar-Tables-44928" class="noirorange"><b>IBM Db2</b>: denial of service via Query Columnar Tables</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Columnar-Tables-44928)|An attacker can cause a fatal error of IBM Db2, via Query Columnar Tables, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0722/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 28 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0721/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar SIEM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 23 août 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-Server-Side-Request-Forgery-via-mod-proxy-44647" class="noirorange"><b>Apache httpd mod_rewrite</b>: Server-Side Request Forgery via mod_proxy</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-Server-Side-Request-Forgery-via-mod-proxy-44647)|An attacker can trigger a Server-Side Request Forgery of Apache httpd mod_rewrite, via mod_proxy, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-backend-44645" class="noirorange"><b>Apache httpd</b>: Server-Side Request Forgery via backend</a>](https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-backend-44645)|An attacker can trigger a Server-Side Request Forgery of Apache httpd, via backend, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-substitutions-44644" class="noirorange"><b>Apache httpd mod_rewrite</b>: information disclosure via substitutions</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-substitutions-44644)|An attacker can bypass access restrictions to data of Apache httpd mod_rewrite, via substitutions, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-scripts-CGI-44643" class="noirorange"><b>Apache httpd mod_rewrite</b>: information disclosure via scripts CGI</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-scripts-CGI-44643)|An attacker can bypass access restrictions to data of Apache httpd mod_rewrite, via scripts CGI, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-user-access-via-proxy-44642" class="noirorange"><b>Apache httpd</b>: user access via proxy</a>](https://vigilance.fr/vulnerability/Apache-httpd-user-access-via-proxy-44642)|An attacker can bypass restrictions of Apache httpd, via proxy, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-UNC-paths-44641" class="noirorange"><b>Apache httpd</b>: Server-Side Request Forgery via UNC paths</a>](https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-UNC-paths-44641)|An attacker can trigger a Server-Side Request Forgery of Apache httpd, via UNC paths, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/kubevirt-password-leak-dated-01-07-2024-44639" class="noirorange"><b>kubevirt</b>: password leak dated 01/07/2024</a>](https://vigilance.fr/vulnerability/kubevirt-password-leak-dated-01-07-2024-44639)|An attacker can bypass access restrictions to data of kubevirt, dated 01/07/2024, in order to get some passwords...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/eSpeak-NG-memory-corruption-dated-01-07-2024-44636" class="noirorange"><b>eSpeak NG</b>: memory corruption dated 01/07/2024</a>](https://vigilance.fr/vulnerability/eSpeak-NG-memory-corruption-dated-01-07-2024-44636)|An attacker can trigger a memory corruption of eSpeak NG, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libcdio-buffer-overflow-via-ISO-9660-Image-File-44632" class="noirorange"><b>libcdio</b>: buffer overflow via ISO 9660 Image File</a>](https://vigilance.fr/vulnerability/libcdio-buffer-overflow-via-ISO-9660-Image-File-44632)|An attacker can trigger a buffer overflow of libcdio, via ISO 9660 Image File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
