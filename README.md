@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/08/2024 21:20:18 UTC
+ > Last Updated 01/09/2024 09:21:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/eSpeak-NG-memory-corruption-dated-01-07-2024-44636" class="noirorange"><b>eSpeak NG</b>: memory corruption dated 01/07/2024</a>](https://vigilance.fr/vulnerability/eSpeak-NG-memory-corruption-dated-01-07-2024-44636)|An attacker can trigger a memory corruption of eSpeak NG, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libcdio-buffer-overflow-via-ISO-9660-Image-File-44632" class="noirorange"><b>libcdio</b>: buffer overflow via ISO 9660 Image File</a>](https://vigilance.fr/vulnerability/libcdio-buffer-overflow-via-ISO-9660-Image-File-44632)|An attacker can trigger a buffer overflow of libcdio, via ISO 9660 Image File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tryton-overload-via-Zip-Bomb-Attacks-44631" class="noirorange"><b>Tryton</b>: overload via Zip Bomb Attacks</a>](https://vigilance.fr/vulnerability/Tryton-overload-via-Zip-Bomb-Attacks-44631)|An attacker can trigger an overload of Tryton, via Zip Bomb Attacks, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-External-System-Secrets-44951" class="noirorange"><b>PAN-OS</b>: information disclosure via External System Secrets</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-External-System-Secrets-44951)|An attacker can bypass access restrictions to data of PAN-OS, via External System Secrets, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-SMI-Transfer-Monitor-44933" class="noirorange"><b>Intel Processor</b>: privilege escalation via SMI Transfer Monitor</a>](https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-SMI-Transfer-Monitor-44933)|An attacker can bypass restrictions of Intel Processor, via SMI Transfer Monitor, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-Control-Flow-Management-44931" class="noirorange"><b>Intel Xeon Processor</b>: denial of service via Control Flow Management</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-Control-Flow-Management-44931)|An attacker can cause a fatal error of Intel Xeon Processor, via Control Flow Management, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980" class="noirorange"><b>PyArrow</b>: code execution via IPC / Parquet Readers Deserialization</a>](https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980)|An attacker can use a vulnerability of PyArrow, via IPC / Parquet Readers Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Certain-Tables-Querying-44929" class="noirorange"><b>IBM Db2</b>: denial of service via Certain Tables Querying</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Certain-Tables-Querying-44929)|An attacker can cause a fatal error of IBM Db2, via Certain Tables Querying, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Columnar-Tables-44928" class="noirorange"><b>IBM Db2</b>: denial of service via Query Columnar Tables</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Columnar-Tables-44928)|An attacker can cause a fatal error of IBM Db2, via Query Columnar Tables, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -54,20 +64,10 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-External-System-Secrets-44951" class="noirorange"><b>PAN-OS</b>: information disclosure via External System Secrets</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-External-System-Secrets-44951)|An attacker can bypass access restrictions to data of PAN-OS, via External System Secrets, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-SMI-Transfer-Monitor-44933" class="noirorange"><b>Intel Processor</b>: privilege escalation via SMI Transfer Monitor</a>](https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-SMI-Transfer-Monitor-44933)|An attacker can bypass restrictions of Intel Processor, via SMI Transfer Monitor, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-Control-Flow-Management-44931" class="noirorange"><b>Intel Xeon Processor</b>: denial of service via Control Flow Management</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-Control-Flow-Management-44931)|An attacker can cause a fatal error of Intel Xeon Processor, via Control Flow Management, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980" class="noirorange"><b>PyArrow</b>: code execution via IPC / Parquet Readers Deserialization</a>](https://vigilance.fr/vulnerability/PyArrow-code-execution-via-IPC-Parquet-Readers-Deserialization-42980)|An attacker can use a vulnerability of PyArrow, via IPC / Parquet Readers Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Certain-Tables-Querying-44929" class="noirorange"><b>IBM Db2</b>: denial of service via Certain Tables Querying</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Certain-Tables-Querying-44929)|An attacker can cause a fatal error of IBM Db2, via Certain Tables Querying, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Columnar-Tables-44928" class="noirorange"><b>IBM Db2</b>: denial of service via Query Columnar Tables</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Columnar-Tables-44928)|An attacker can cause a fatal error of IBM Db2, via Query Columnar Tables, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Memory-Allocation-44927" class="noirorange"><b>IBM Db2</b>: denial of service via Query Memory Allocation</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-Memory-Allocation-44927)|An attacker can cause a fatal error of IBM Db2, via Query Memory Allocation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Server-Query-44926" class="noirorange"><b>IBM Db2</b>: denial of service via Federated Server Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Federated-Server-Query-44926)|An attacker can cause a fatal error of IBM Db2, via Federated Server Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-dated-28-06-2024-44629" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution dated 28/06/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-dated-28-06-2024-44629)|An attacker can use a vulnerability of Microsoft Edge Chromium, dated 28/06/2024, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-dcmdata-memory-corruption-via-DIMSE-Message-44628" class="noirorange"><b>DCMTK dcmdata</b>: memory corruption via DIMSE Message</a>](https://vigilance.fr/vulnerability/DCMTK-dcmdata-memory-corruption-via-DIMSE-Message-44628)|An attacker can trigger a memory corruption of DCMTK dcmdata, via DIMSE Message, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
