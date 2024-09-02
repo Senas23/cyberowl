@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/09/2024 09:25:13 UTC
+ > Last Updated 02/09/2024 21:20:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,13 +23,6 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -47,10 +40,18 @@
  
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Podman-information-disclosure-via-HTTP-log-files-44654" class="noirorange"><b>Podman</b>: information disclosure via HTTP log files</a>](https://vigilance.fr/vulnerability/Podman-information-disclosure-via-HTTP-log-files-44654)|An attacker can bypass access restrictions to data of Podman, via HTTP log files, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-overload-via-Shard-Key-44652" class="noirorange"><b>MongoDB Server</b>: overload via Shard Key</a>](https://vigilance.fr/vulnerability/MongoDB-Server-overload-via-Shard-Key-44652)|An attacker can trigger an overload of MongoDB Server, via Shard Key, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-urllib3-password-leak-via-Proxy-Authorization-44649" class="noirorange"><b>Python urllib3</b>: password leak via Proxy-Authorization</a>](https://vigilance.fr/vulnerability/Python-urllib3-password-leak-via-Proxy-Authorization-44649)|The Python urllib3 library forwards the proxy password to the upstream server...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-console-44648" class="noirorange"><b>Cisco NX-OS</b>: privilege escalation via console</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-console-44648)|An attacker can bypass restrictions of Cisco NX-OS, via console, in order to escalate his privileges...|Visit link for details|
@@ -60,18 +61,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-scripts-CGI-44643" class="noirorange"><b>Apache httpd mod_rewrite</b>: information disclosure via scripts CGI</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-scripts-CGI-44643)|An attacker can bypass access restrictions to data of Apache httpd mod_rewrite, via scripts CGI, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-user-access-via-proxy-44642" class="noirorange"><b>Apache httpd</b>: user access via proxy</a>](https://vigilance.fr/vulnerability/Apache-httpd-user-access-via-proxy-44642)|An attacker can bypass restrictions of Apache httpd, via proxy, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-UNC-paths-44641" class="noirorange"><b>Apache httpd</b>: Server-Side Request Forgery via UNC paths</a>](https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-UNC-paths-44641)|An attacker can trigger a Server-Side Request Forgery of Apache httpd, via UNC paths, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/kubevirt-password-leak-dated-01-07-2024-44639" class="noirorange"><b>kubevirt</b>: password leak dated 01/07/2024</a>](https://vigilance.fr/vulnerability/kubevirt-password-leak-dated-01-07-2024-44639)|An attacker can bypass access restrictions to data of kubevirt, dated 01/07/2024, in order to get some passwords...|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
