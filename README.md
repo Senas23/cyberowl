@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/09/2024 21:21:00 UTC
+ > Last Updated 02/09/2024 09:25:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-overload-via-Shard-Key-44652" class="noirorange"><b>MongoDB Server</b>: overload via Shard Key</a>](https://vigilance.fr/vulnerability/MongoDB-Server-overload-via-Shard-Key-44652)|An attacker can trigger an overload of MongoDB Server, via Shard Key, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-urllib3-password-leak-via-Proxy-Authorization-44649" class="noirorange"><b>Python urllib3</b>: password leak via Proxy-Authorization</a>](https://vigilance.fr/vulnerability/Python-urllib3-password-leak-via-Proxy-Authorization-44649)|The Python urllib3 library forwards the proxy password to the upstream server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-console-44648" class="noirorange"><b>Cisco NX-OS</b>: privilege escalation via console</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-console-44648)|An attacker can bypass restrictions of Cisco NX-OS, via console, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-Server-Side-Request-Forgery-via-mod-proxy-44647" class="noirorange"><b>Apache httpd mod_rewrite</b>: Server-Side Request Forgery via mod_proxy</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-Server-Side-Request-Forgery-via-mod-proxy-44647)|An attacker can trigger a Server-Side Request Forgery of Apache httpd mod_rewrite, via mod_proxy, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-backend-44645" class="noirorange"><b>Apache httpd</b>: Server-Side Request Forgery via backend</a>](https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-backend-44645)|An attacker can trigger a Server-Side Request Forgery of Apache httpd, via backend, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-substitutions-44644" class="noirorange"><b>Apache httpd mod_rewrite</b>: information disclosure via substitutions</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-substitutions-44644)|An attacker can bypass access restrictions to data of Apache httpd mod_rewrite, via substitutions, in order to read sensitive information...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-user-access-via-proxy-44642" class="noirorange"><b>Apache httpd</b>: user access via proxy</a>](https://vigilance.fr/vulnerability/Apache-httpd-user-access-via-proxy-44642)|An attacker can bypass restrictions of Apache httpd, via proxy, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-UNC-paths-44641" class="noirorange"><b>Apache httpd</b>: Server-Side Request Forgery via UNC paths</a>](https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-UNC-paths-44641)|An attacker can trigger a Server-Side Request Forgery of Apache httpd, via UNC paths, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/kubevirt-password-leak-dated-01-07-2024-44639" class="noirorange"><b>kubevirt</b>: password leak dated 01/07/2024</a>](https://vigilance.fr/vulnerability/kubevirt-password-leak-dated-01-07-2024-44639)|An attacker can bypass access restrictions to data of kubevirt, dated 01/07/2024, in order to get some passwords...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/eSpeak-NG-memory-corruption-dated-01-07-2024-44636" class="noirorange"><b>eSpeak NG</b>: memory corruption dated 01/07/2024</a>](https://vigilance.fr/vulnerability/eSpeak-NG-memory-corruption-dated-01-07-2024-44636)|An attacker can trigger a memory corruption of eSpeak NG, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-42997)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcdio-buffer-overflow-via-ISO-9660-Image-File-44632" class="noirorange"><b>libcdio</b>: buffer overflow via ISO 9660 Image File</a>](https://vigilance.fr/vulnerability/libcdio-buffer-overflow-via-ISO-9660-Image-File-44632)|An attacker can trigger a buffer overflow of libcdio, via ISO 9660 Image File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
