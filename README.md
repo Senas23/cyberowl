@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/09/2024 09:23:19 UTC
+ > Last Updated 03/09/2024 21:22:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebOb-open-redirect-via-HTTP-Location-Header-Parsing-44980" class="noirorange"><b>WebOb</b>: open redirect via HTTP Location Header Parsing</a>](https://vigilance.fr/vulnerability/WebOb-open-redirect-via-HTTP-Location-Header-Parsing-44980)|An attacker can deceive the user of WebOb, via HTTP Location Header Parsing, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Cron-Step-Values-44976" class="noirorange"><b>OpenBSD</b>: denial of service via Cron Step Values</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Cron-Step-Values-44976)|An attacker can cause a fatal error of OpenBSD, via Cron Step Values, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vtiger-CRM-denial-of-service-via-Migration-Module-44969" class="noirorange"><b>Vtiger CRM</b>: denial of service via Migration Module</a>](https://vigilance.fr/vulnerability/Vtiger-CRM-denial-of-service-via-Migration-Module-44969)|An attacker can cause a fatal error of Vtiger CRM, via Migration Module, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Scalable-Processor-denial-of-service-via-Mirrored-Regions-44965" class="noirorange"><b>Intel Xeon Scalable Processor</b>: denial of service via Mirrored Regions</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Scalable-Processor-denial-of-service-via-Mirrored-Regions-44965)|An attacker can cause a fatal error of Intel Xeon Scalable Processor, via Mirrored Regions, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Podman-information-disclosure-via-HTTP-log-files-44654" class="noirorange"><b>Podman</b>: information disclosure via HTTP log files</a>](https://vigilance.fr/vulnerability/Podman-information-disclosure-via-HTTP-log-files-44654)|An attacker can bypass access restrictions to data of Podman, via HTTP log files, in order to read sensitive information...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-console-44648" class="noirorange"><b>Cisco NX-OS</b>: privilege escalation via console</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-console-44648)|An attacker can bypass restrictions of Cisco NX-OS, via console, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-Server-Side-Request-Forgery-via-mod-proxy-44647" class="noirorange"><b>Apache httpd mod_rewrite</b>: Server-Side Request Forgery via mod_proxy</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-Server-Side-Request-Forgery-via-mod-proxy-44647)|An attacker can trigger a Server-Side Request Forgery of Apache httpd mod_rewrite, via mod_proxy, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-backend-44645" class="noirorange"><b>Apache httpd</b>: Server-Side Request Forgery via backend</a>](https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-backend-44645)|An attacker can trigger a Server-Side Request Forgery of Apache httpd, via backend, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-substitutions-44644" class="noirorange"><b>Apache httpd mod_rewrite</b>: information disclosure via substitutions</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-substitutions-44644)|An attacker can bypass access restrictions to data of Apache httpd mod_rewrite, via substitutions, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-scripts-CGI-44643" class="noirorange"><b>Apache httpd mod_rewrite</b>: information disclosure via scripts CGI</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-scripts-CGI-44643)|An attacker can bypass access restrictions to data of Apache httpd mod_rewrite, via scripts CGI, in order to read sensitive information...|Visit link for details|
  
  ---
 
