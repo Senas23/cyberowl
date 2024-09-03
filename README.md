@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/09/2024 21:20:05 UTC
+ > Last Updated 03/09/2024 09:23:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,10 +23,18 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0730/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 02 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0729/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 30 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0728/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 30 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0727/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 30 août 2024|
@@ -36,14 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0723/)|Une vulnérabilité a été découverte dans les produits Cisco Nexus. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 29 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0722/)|Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 28 août 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0721/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 août 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar SIEM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 23 août 2024|
- 
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vtiger-CRM-denial-of-service-via-Migration-Module-44969" class="noirorange"><b>Vtiger CRM</b>: denial of service via Migration Module</a>](https://vigilance.fr/vulnerability/Vtiger-CRM-denial-of-service-via-Migration-Module-44969)|An attacker can cause a fatal error of Vtiger CRM, via Migration Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Scalable-Processor-denial-of-service-via-Mirrored-Regions-44965" class="noirorange"><b>Intel Xeon Scalable Processor</b>: denial of service via Mirrored Regions</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Scalable-Processor-denial-of-service-via-Mirrored-Regions-44965)|An attacker can cause a fatal error of Intel Xeon Scalable Processor, via Mirrored Regions, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Podman-information-disclosure-via-HTTP-log-files-44654" class="noirorange"><b>Podman</b>: information disclosure via HTTP log files</a>](https://vigilance.fr/vulnerability/Podman-information-disclosure-via-HTTP-log-files-44654)|An attacker can bypass access restrictions to data of Podman, via HTTP log files, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-overload-via-Shard-Key-44652" class="noirorange"><b>MongoDB Server</b>: overload via Shard Key</a>](https://vigilance.fr/vulnerability/MongoDB-Server-overload-via-Shard-Key-44652)|An attacker can trigger an overload of MongoDB Server, via Shard Key, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-urllib3-password-leak-via-Proxy-Authorization-44649" class="noirorange"><b>Python urllib3</b>: password leak via Proxy-Authorization</a>](https://vigilance.fr/vulnerability/Python-urllib3-password-leak-via-Proxy-Authorization-44649)|The Python urllib3 library forwards the proxy password to the upstream server...|Visit link for details|
@@ -59,19 +61,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-backend-44645" class="noirorange"><b>Apache httpd</b>: Server-Side Request Forgery via backend</a>](https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-backend-44645)|An attacker can trigger a Server-Side Request Forgery of Apache httpd, via backend, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-substitutions-44644" class="noirorange"><b>Apache httpd mod_rewrite</b>: information disclosure via substitutions</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-substitutions-44644)|An attacker can bypass access restrictions to data of Apache httpd mod_rewrite, via substitutions, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-scripts-CGI-44643" class="noirorange"><b>Apache httpd mod_rewrite</b>: information disclosure via scripts CGI</a>](https://vigilance.fr/vulnerability/Apache-httpd-mod-rewrite-information-disclosure-via-scripts-CGI-44643)|An attacker can bypass access restrictions to data of Apache httpd mod_rewrite, via scripts CGI, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-user-access-via-proxy-44642" class="noirorange"><b>Apache httpd</b>: user access via proxy</a>](https://vigilance.fr/vulnerability/Apache-httpd-user-access-via-proxy-44642)|An attacker can bypass restrictions of Apache httpd, via proxy, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-UNC-paths-44641" class="noirorange"><b>Apache httpd</b>: Server-Side Request Forgery via UNC paths</a>](https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-UNC-paths-44641)|An attacker can trigger a Server-Side Request Forgery of Apache httpd, via UNC paths, in order to force the server to send queries...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
