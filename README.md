@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/09/2024 09:24:50 UTC
+ > Last Updated 06/09/2024 21:22:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,6 +24,13 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033" class="noirorange"><b>WordPress Core</b>: code execution</a>](https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033)|An attacker can use a vulnerability of WordPress Core, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via pf TCP Spoofing</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025)|An attacker can bypass filtering rules of FreeBSD, via pf TCP Spoofing, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-printer-write-44671" class="noirorange"><b>Linux kernel</b>: denial of service via printer_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-printer-write-44671)|An attacker can cause an error of the Linux kernel, via printer_write(), in order to trigger a denial of service...|Visit link for details|
@@ -60,14 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/netatalk-buffer-overflow-dated-05-07-2024-44667" class="noirorange"><b>netatalk</b>: buffer overflow dated 05/07/2024</a>](https://vigilance.fr/vulnerability/netatalk-buffer-overflow-dated-05-07-2024-44667)|An attacker can trigger a buffer overflow of netatalk, dated 05/07/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cockpit-Web-Console-privilege-escalation-via-pam-env-44666" class="noirorange"><b>Cockpit Web Console</b>: privilege escalation via pam_env</a>](https://vigilance.fr/vulnerability/Cockpit-Web-Console-privilege-escalation-via-pam-env-44666)|An attacker can bypass restrictions of Cockpit Web Console, via pam_env, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-write-access-via-Backend-Profile-View-44988" class="noirorange"><b>Joomla Core</b>: write access via Backend Profile View</a>](https://vigilance.fr/vulnerability/Joomla-Core-write-access-via-Backend-Profile-View-44988)|An attacker can bypass access restrictions of Joomla Core, via Backend Profile View, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-open-redirect-via-Internal-URLs-44985" class="noirorange"><b>Joomla Core</b>: open redirect via Internal URLs</a>](https://vigilance.fr/vulnerability/Joomla-Core-open-redirect-via-Internal-URLs-44985)|An attacker can deceive the user of Joomla Core, via Internal URLs, in order to redirect him to a malicious site...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
