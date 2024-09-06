@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/09/2024 21:20:51 UTC
+ > Last Updated 06/09/2024 09:24:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via pf TCP Spoofing</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025)|An attacker can bypass filtering rules of FreeBSD, via pf TCP Spoofing, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-printer-write-44671" class="noirorange"><b>Linux kernel</b>: denial of service via printer_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-printer-write-44671)|An attacker can cause an error of the Linux kernel, via printer_write(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-07-2024-44670" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 05/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-07-2024-44670)|An attacker can use several vulnerabilities of the Linux kernel, dated 05/07/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-the-header-Content-Disposition-filename-44669" class="noirorange"><b>Exim</b>: ingress filtrering bypass via the header Content-Disposition filename</a>](https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-the-header-Content-Disposition-filename-44669)|An attacker can bypass filtering rules of Exim, via Content-Disposition filename, in order to send malicious data...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cockpit-Web-Console-privilege-escalation-via-pam-env-44666" class="noirorange"><b>Cockpit Web Console</b>: privilege escalation via pam_env</a>](https://vigilance.fr/vulnerability/Cockpit-Web-Console-privilege-escalation-via-pam-env-44666)|An attacker can bypass restrictions of Cockpit Web Console, via pam_env, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-write-access-via-Backend-Profile-View-44988" class="noirorange"><b>Joomla Core</b>: write access via Backend Profile View</a>](https://vigilance.fr/vulnerability/Joomla-Core-write-access-via-Backend-Profile-View-44988)|An attacker can bypass access restrictions of Joomla Core, via Backend Profile View, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-open-redirect-via-Internal-URLs-44985" class="noirorange"><b>Joomla Core</b>: open redirect via Internal URLs</a>](https://vigilance.fr/vulnerability/Joomla-Core-open-redirect-via-Internal-URLs-44985)|An attacker can deceive the user of Joomla Core, via Internal URLs, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-NBD-Server-Socket-Closure-44984" class="noirorange"><b>QEMU</b>: denial of service via NBD Server Socket Closure</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-NBD-Server-Socket-Closure-44984)|An attacker can cause a fatal error of QEMU, via NBD Server Socket Closure, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-HTTP-2-44665" class="noirorange"><b>Apache Tomcat</b>: denial of service via HTTP/2</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-HTTP-2-44665)|An attacker can prevent connection closing in Apache Tomcat, via HTTP/2, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
