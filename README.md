@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/09/2024 09:22:32 UTC
+ > Last Updated 07/09/2024 21:21:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735" class="noirorange"><b>FortiOS</b>: memory corruption via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735)|An attacker can trigger a memory corruption of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenText-Network-Node-Manager-i-open-redirect-dated-23-08-2024-45010" class="noirorange"><b>OpenText Network Node Manager i</b>: open redirect dated 23/08/2024</a>](https://vigilance.fr/vulnerability/OpenText-Network-Node-Manager-i-open-redirect-dated-23-08-2024-45010)|An attacker can deceive the user of OpenText Network Node Manager i, dated 23/08/2024, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/golang-org-x-image-assertion-error-via-Palette-color-Image-45008" class="noirorange"><b>golang.org/x/image</b>: assertion error via Palette-color Image</a>](https://vigilance.fr/vulnerability/golang-org-x-image-assertion-error-via-Palette-color-Image-45008)|An attacker can force an assertion error of golang.org/x/image, via Palette-color Image, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033" class="noirorange"><b>WordPress Core</b>: code execution</a>](https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033)|An attacker can use a vulnerability of WordPress Core, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via pf TCP Spoofing</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025)|An attacker can bypass filtering rules of FreeBSD, via pf TCP Spoofing, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-printer-write-44671" class="noirorange"><b>Linux kernel</b>: denial of service via printer_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-printer-write-44671)|An attacker can cause an error of the Linux kernel, via printer_write(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-07-2024-44670" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 05/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-07-2024-44670)|An attacker can use several vulnerabilities of the Linux kernel, dated 05/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-the-header-Content-Disposition-filename-44669" class="noirorange"><b>Exim</b>: ingress filtrering bypass via the header Content-Disposition filename</a>](https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-the-header-Content-Disposition-filename-44669)|An attacker can bypass filtering rules of Exim, via Content-Disposition filename, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Virtuoso-Open-Source-denial-of-service-via-SQL-44668" class="noirorange"><b>Virtuoso Open-Source</b>: denial of service via SQL</a>](https://vigilance.fr/vulnerability/Virtuoso-Open-Source-denial-of-service-via-SQL-44668)|An attacker can cause a fatal error of Virtuoso Open-Source, via SQL, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0743/)|De multiples vulnérabilités ont été découvertes dans Centreon web. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 05 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0742/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 05 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0741/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 05 septembre 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033" class="noirorange"><b>WordPress Core</b>: code execution</a>](https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033)|An attacker can use a vulnerability of WordPress Core, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via pf TCP Spoofing</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025)|An attacker can bypass filtering rules of FreeBSD, via pf TCP Spoofing, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-printer-write-44671" class="noirorange"><b>Linux kernel</b>: denial of service via printer_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-printer-write-44671)|An attacker can cause an error of the Linux kernel, via printer_write(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-07-2024-44670" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 05/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-07-2024-44670)|An attacker can use several vulnerabilities of the Linux kernel, dated 05/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-the-header-Content-Disposition-filename-44669" class="noirorange"><b>Exim</b>: ingress filtrering bypass via the header Content-Disposition filename</a>](https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-the-header-Content-Disposition-filename-44669)|An attacker can bypass filtering rules of Exim, via Content-Disposition filename, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Virtuoso-Open-Source-denial-of-service-via-SQL-44668" class="noirorange"><b>Virtuoso Open-Source</b>: denial of service via SQL</a>](https://vigilance.fr/vulnerability/Virtuoso-Open-Source-denial-of-service-via-SQL-44668)|An attacker can cause a fatal error of Virtuoso Open-Source, via SQL, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/netatalk-buffer-overflow-dated-05-07-2024-44667" class="noirorange"><b>netatalk</b>: buffer overflow dated 05/07/2024</a>](https://vigilance.fr/vulnerability/netatalk-buffer-overflow-dated-05-07-2024-44667)|An attacker can trigger a buffer overflow of netatalk, dated 05/07/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cockpit-Web-Console-privilege-escalation-via-pam-env-44666" class="noirorange"><b>Cockpit Web Console</b>: privilege escalation via pam_env</a>](https://vigilance.fr/vulnerability/Cockpit-Web-Console-privilege-escalation-via-pam-env-44666)|An attacker can bypass restrictions of Cockpit Web Console, via pam_env, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-write-access-via-Backend-Profile-View-44988" class="noirorange"><b>Joomla Core</b>: write access via Backend Profile View</a>](https://vigilance.fr/vulnerability/Joomla-Core-write-access-via-Backend-Profile-View-44988)|An attacker can bypass access restrictions of Joomla Core, via Backend Profile View, in order to alter data...|Visit link for details|
  
  ---
 
