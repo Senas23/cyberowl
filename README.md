@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/09/2024 21:22:23 UTC
+ > Last Updated 07/09/2024 09:22:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0750/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 06 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0749/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service.|Publié le 06 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0748/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 06 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0747/)|Une vulnérabilité a été découverte dans le noyau Linux de SUSE. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 06 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 06 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0745/)|Une vulnérabilité a été découverte dans les produits Asterisk. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 06 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0744/)|De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.|Publié le 05 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0743/)|De multiples vulnérabilités ont été découvertes dans Centreon web. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 05 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0742/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 05 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0741/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 05 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0740/)|De multiples vulnérabilités ont été découvertes dans les produits Veeam. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 05 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0739/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 05 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0738/)|Une vulnérabilité a été découverte dans Synacor Zimbra Desktop. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 04 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0737/)|De multiples vulnérabilités ont été découvertes dans Moxa OnCell 3120-LTE-1 Series. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 04 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0736/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 04 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0735/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 04 septembre 2024|
  
  ---
 
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/netatalk-buffer-overflow-dated-05-07-2024-44667" class="noirorange"><b>netatalk</b>: buffer overflow dated 05/07/2024</a>](https://vigilance.fr/vulnerability/netatalk-buffer-overflow-dated-05-07-2024-44667)|An attacker can trigger a buffer overflow of netatalk, dated 05/07/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cockpit-Web-Console-privilege-escalation-via-pam-env-44666" class="noirorange"><b>Cockpit Web Console</b>: privilege escalation via pam_env</a>](https://vigilance.fr/vulnerability/Cockpit-Web-Console-privilege-escalation-via-pam-env-44666)|An attacker can bypass restrictions of Cockpit Web Console, via pam_env, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-write-access-via-Backend-Profile-View-44988" class="noirorange"><b>Joomla Core</b>: write access via Backend Profile View</a>](https://vigilance.fr/vulnerability/Joomla-Core-write-access-via-Backend-Profile-View-44988)|An attacker can bypass access restrictions of Joomla Core, via Backend Profile View, in order to alter data...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
