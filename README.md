@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/09/2024 21:21:54 UTC
+ > Last Updated 08/09/2024 09:21:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/yt-dlp-code-execution-via-extension-44672" class="noirorange"><b>yt-dlp</b>: code execution via extension</a>](https://vigilance.fr/vulnerability/yt-dlp-code-execution-via-extension-44672)|An attacker can use a vulnerability of yt-dlp, via extension, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-43036" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-43036)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735" class="noirorange"><b>FortiOS</b>: memory corruption via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735)|An attacker can trigger a memory corruption of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenText-Network-Node-Manager-i-open-redirect-dated-23-08-2024-45010" class="noirorange"><b>OpenText Network Node Manager i</b>: open redirect dated 23/08/2024</a>](https://vigilance.fr/vulnerability/OpenText-Network-Node-Manager-i-open-redirect-dated-23-08-2024-45010)|An attacker can deceive the user of OpenText Network Node Manager i, dated 23/08/2024, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/golang-org-x-image-assertion-error-via-Palette-color-Image-45008" class="noirorange"><b>golang.org/x/image</b>: assertion error via Palette-color Image</a>](https://vigilance.fr/vulnerability/golang-org-x-image-assertion-error-via-Palette-color-Image-45008)|An attacker can force an assertion error of golang.org/x/image, via Palette-color Image, in order to trigger a denial of service...|Visit link for details|
@@ -42,8 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via pf TCP Spoofing</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-pf-TCP-Spoofing-43025)|An attacker can bypass filtering rules of FreeBSD, via pf TCP Spoofing, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-printer-write-44671" class="noirorange"><b>Linux kernel</b>: denial of service via printer_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-printer-write-44671)|An attacker can cause an error of the Linux kernel, via printer_write(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-07-2024-44670" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 05/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-07-2024-44670)|An attacker can use several vulnerabilities of the Linux kernel, dated 05/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-the-header-Content-Disposition-filename-44669" class="noirorange"><b>Exim</b>: ingress filtrering bypass via the header Content-Disposition filename</a>](https://vigilance.fr/vulnerability/Exim-ingress-filtrering-bypass-via-the-header-Content-Disposition-filename-44669)|An attacker can bypass filtering rules of Exim, via Content-Disposition filename, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Virtuoso-Open-Source-denial-of-service-via-SQL-44668" class="noirorange"><b>Virtuoso Open-Source</b>: denial of service via SQL</a>](https://vigilance.fr/vulnerability/Virtuoso-Open-Source-denial-of-service-via-SQL-44668)|An attacker can cause a fatal error of Virtuoso Open-Source, via SQL, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
