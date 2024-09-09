@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/09/2024 21:19:41 UTC
+ > Last Updated 09/09/2024 09:25:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-memory-leak-via-LearningPushHandler-44680" class="noirorange"><b>Undertow</b>: memory leak via LearningPushHandler</a>](https://vigilance.fr/vulnerability/Undertow-memory-leak-via-LearningPushHandler-44680)|An attacker can create a memory leak of Undertow, via LearningPushHandler, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-TLSv1-3-NewSessionTicket-44679" class="noirorange"><b>Undertow</b>: denial of service via TLSv1.3 NewSessionTicket</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-TLSv1-3-NewSessionTicket-44679)|An attacker can block Undertow, via TLSv1.3 NewSessionTicket, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-braces-memory-leak-dated-08-07-2024-44676" class="noirorange"><b>Node.js braces</b>: memory leak dated 08/07/2024</a>](https://vigilance.fr/vulnerability/Node-js-braces-memory-leak-dated-08-07-2024-44676)|An attacker can create a memory leak of Node.js braces, dated 08/07/2024, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-micromatch-overload-via-braces-44675" class="noirorange"><b>Node.js micromatch</b>: overload via braces()</a>](https://vigilance.fr/vulnerability/Node-js-micromatch-overload-via-braces-44675)|An attacker can trigger an overload of Node.js micromatch, via braces(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NetApp-SnapCenter-password-leak-44674" class="noirorange"><b>NetApp SnapCenter</b>: password leak</a>](https://vigilance.fr/vulnerability/NetApp-SnapCenter-password-leak-44674)|An attacker can exploit an unknown vulnerability of NetApp SnapCenter, in order to get password-like secrets...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735" class="noirorange"><b>FortiOS</b>: memory corruption via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735)|An attacker can trigger a memory corruption of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenText-Network-Node-Manager-i-open-redirect-dated-23-08-2024-45010" class="noirorange"><b>OpenText Network Node Manager i</b>: open redirect dated 23/08/2024</a>](https://vigilance.fr/vulnerability/OpenText-Network-Node-Manager-i-open-redirect-dated-23-08-2024-45010)|An attacker can deceive the user of OpenText Network Node Manager i, dated 23/08/2024, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/golang-org-x-image-assertion-error-via-Palette-color-Image-45008" class="noirorange"><b>golang.org/x/image</b>: assertion error via Palette-color Image</a>](https://vigilance.fr/vulnerability/golang-org-x-image-assertion-error-via-Palette-color-Image-45008)|An attacker can force an assertion error of golang.org/x/image, via Palette-color Image, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033" class="noirorange"><b>WordPress Core</b>: code execution</a>](https://vigilance.fr/vulnerability/WordPress-Core-code-execution-43033)|An attacker can use a vulnerability of WordPress Core, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43028)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  
  ---
 
