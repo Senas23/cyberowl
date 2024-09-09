@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/09/2024 09:25:11 UTC
+ > Last Updated 09/09/2024 21:20:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0752/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 09 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0751/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 09 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0750/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 06 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0749/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service.|Publié le 06 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0748/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 06 septembre 2024|
@@ -42,8 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0745/)|Une vulnérabilité a été découverte dans les produits Asterisk. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 06 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0744/)|De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.|Publié le 05 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0743/)|De multiples vulnérabilités ont été découvertes dans Centreon web. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 05 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0742/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 05 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0741/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 05 septembre 2024|
  
  ---
 
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-denial-of-service-via-Unified-Automation-44688" class="noirorange"><b>Siemens SIMATIC</b>: denial of service via Unified Automation</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-denial-of-service-via-Unified-Automation-44688)|An attacker can cause a fatal error of Siemens SIMATIC, via Unified Automation, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-STEP-7-memory-corruption-via-BinaryFormatter-44685" class="noirorange"><b>Siemens SIMATIC STEP 7</b>: memory corruption via BinaryFormatter</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-STEP-7-memory-corruption-via-BinaryFormatter-44685)|An attacker can trigger a memory corruption of Siemens SIMATIC STEP 7, via BinaryFormatter, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-WinCC-password-leak-dated-09-07-2024-44684" class="noirorange"><b>Siemens SIMATIC WinCC</b>: password leak dated 09/07/2024</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-WinCC-password-leak-dated-09-07-2024-44684)|An attacker can bypass access restrictions to data of Siemens SIMATIC WinCC, dated 09/07/2024, in order to get usernames and passwords...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Undertow-memory-leak-via-LearningPushHandler-44680" class="noirorange"><b>Undertow</b>: memory leak via LearningPushHandler</a>](https://vigilance.fr/vulnerability/Undertow-memory-leak-via-LearningPushHandler-44680)|An attacker can create a memory leak of Undertow, via LearningPushHandler, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-TLSv1-3-NewSessionTicket-44679" class="noirorange"><b>Undertow</b>: denial of service via TLSv1.3 NewSessionTicket</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-TLSv1-3-NewSessionTicket-44679)|An attacker can block Undertow, via TLSv1.3 NewSessionTicket, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-braces-memory-leak-dated-08-07-2024-44676" class="noirorange"><b>Node.js braces</b>: memory leak dated 08/07/2024</a>](https://vigilance.fr/vulnerability/Node-js-braces-memory-leak-dated-08-07-2024-44676)|An attacker can create a memory leak of Node.js braces, dated 08/07/2024, in order to trigger a denial of service...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/NetApp-SnapCenter-password-leak-44674" class="noirorange"><b>NetApp SnapCenter</b>: password leak</a>](https://vigilance.fr/vulnerability/NetApp-SnapCenter-password-leak-44674)|An attacker can exploit an unknown vulnerability of NetApp SnapCenter, in order to get password-like secrets...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/yt-dlp-code-execution-via-extension-44672" class="noirorange"><b>yt-dlp</b>: code execution via extension</a>](https://vigilance.fr/vulnerability/yt-dlp-code-execution-via-extension-44672)|An attacker can use a vulnerability of yt-dlp, via extension, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-43036" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-43036)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735" class="noirorange"><b>FortiOS</b>: memory corruption via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735)|An attacker can trigger a memory corruption of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenText-Network-Node-Manager-i-open-redirect-dated-23-08-2024-45010" class="noirorange"><b>OpenText Network Node Manager i</b>: open redirect dated 23/08/2024</a>](https://vigilance.fr/vulnerability/OpenText-Network-Node-Manager-i-open-redirect-dated-23-08-2024-45010)|An attacker can deceive the user of OpenText Network Node Manager i, dated 23/08/2024, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/golang-org-x-image-assertion-error-via-Palette-color-Image-45008" class="noirorange"><b>golang.org/x/image</b>: assertion error via Palette-color Image</a>](https://vigilance.fr/vulnerability/golang-org-x-image-assertion-error-via-Palette-color-Image-45008)|An attacker can force an assertion error of golang.org/x/image, via Palette-color Image, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
