@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/09/2024 21:20:25 UTC
+ > Last Updated 10/09/2024 09:25:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Django-three-vulnerabilities-dated-10-07-2024-44699" class="noirorange"><b>Django</b>: three vulnerabilities dated 10/07/2024</a>](https://vigilance.fr/vulnerability/Django-three-vulnerabilities-dated-10-07-2024-44699)|An attacker can use several vulnerabilities of Django, dated 10/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-denial-of-service-via-Unified-Automation-44688" class="noirorange"><b>Siemens SIMATIC</b>: denial of service via Unified Automation</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-denial-of-service-via-Unified-Automation-44688)|An attacker can cause a fatal error of Siemens SIMATIC, via Unified Automation, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-STEP-7-memory-corruption-via-BinaryFormatter-44685" class="noirorange"><b>Siemens SIMATIC STEP 7</b>: memory corruption via BinaryFormatter</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-STEP-7-memory-corruption-via-BinaryFormatter-44685)|An attacker can trigger a memory corruption of Siemens SIMATIC STEP 7, via BinaryFormatter, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-WinCC-password-leak-dated-09-07-2024-44684" class="noirorange"><b>Siemens SIMATIC WinCC</b>: password leak dated 09/07/2024</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-WinCC-password-leak-dated-09-07-2024-44684)|An attacker can bypass access restrictions to data of Siemens SIMATIC WinCC, dated 09/07/2024, in order to get usernames and passwords...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-memory-leak-via-LearningPushHandler-44680" class="noirorange"><b>Undertow</b>: memory leak via LearningPushHandler</a>](https://vigilance.fr/vulnerability/Undertow-memory-leak-via-LearningPushHandler-44680)|An attacker can create a memory leak of Undertow, via LearningPushHandler, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-TLSv1-3-NewSessionTicket-44679" class="noirorange"><b>Undertow</b>: denial of service via TLSv1.3 NewSessionTicket</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-TLSv1-3-NewSessionTicket-44679)|An attacker can block Undertow, via TLSv1.3 NewSessionTicket, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-braces-memory-leak-dated-08-07-2024-44676" class="noirorange"><b>Node.js braces</b>: memory leak dated 08/07/2024</a>](https://vigilance.fr/vulnerability/Node-js-braces-memory-leak-dated-08-07-2024-44676)|An attacker can create a memory leak of Node.js braces, dated 08/07/2024, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-micromatch-overload-via-braces-44675" class="noirorange"><b>Node.js micromatch</b>: overload via braces()</a>](https://vigilance.fr/vulnerability/Node-js-micromatch-overload-via-braces-44675)|An attacker can trigger an overload of Node.js micromatch, via braces(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetApp-SnapCenter-password-leak-44674" class="noirorange"><b>NetApp SnapCenter</b>: password leak</a>](https://vigilance.fr/vulnerability/NetApp-SnapCenter-password-leak-44674)|An attacker can exploit an unknown vulnerability of NetApp SnapCenter, in order to get password-like secrets...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/yt-dlp-code-execution-via-extension-44672" class="noirorange"><b>yt-dlp</b>: code execution via extension</a>](https://vigilance.fr/vulnerability/yt-dlp-code-execution-via-extension-44672)|An attacker can use a vulnerability of yt-dlp, via extension, in order to run code...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0745/)|Une vulnérabilité a été découverte dans les produits Asterisk. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 06 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0744/)|De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.|Publié le 05 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0743/)|De multiples vulnérabilités ont été découvertes dans Centreon web. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 05 septembre 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-denial-of-service-via-Unified-Automation-44688" class="noirorange"><b>Siemens SIMATIC</b>: denial of service via Unified Automation</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-denial-of-service-via-Unified-Automation-44688)|An attacker can cause a fatal error of Siemens SIMATIC, via Unified Automation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-STEP-7-memory-corruption-via-BinaryFormatter-44685" class="noirorange"><b>Siemens SIMATIC STEP 7</b>: memory corruption via BinaryFormatter</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-STEP-7-memory-corruption-via-BinaryFormatter-44685)|An attacker can trigger a memory corruption of Siemens SIMATIC STEP 7, via BinaryFormatter, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-WinCC-password-leak-dated-09-07-2024-44684" class="noirorange"><b>Siemens SIMATIC WinCC</b>: password leak dated 09/07/2024</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-WinCC-password-leak-dated-09-07-2024-44684)|An attacker can bypass access restrictions to data of Siemens SIMATIC WinCC, dated 09/07/2024, in order to get usernames and passwords...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-memory-leak-via-LearningPushHandler-44680" class="noirorange"><b>Undertow</b>: memory leak via LearningPushHandler</a>](https://vigilance.fr/vulnerability/Undertow-memory-leak-via-LearningPushHandler-44680)|An attacker can create a memory leak of Undertow, via LearningPushHandler, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-TLSv1-3-NewSessionTicket-44679" class="noirorange"><b>Undertow</b>: denial of service via TLSv1.3 NewSessionTicket</a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-TLSv1-3-NewSessionTicket-44679)|An attacker can block Undertow, via TLSv1.3 NewSessionTicket, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-braces-memory-leak-dated-08-07-2024-44676" class="noirorange"><b>Node.js braces</b>: memory leak dated 08/07/2024</a>](https://vigilance.fr/vulnerability/Node-js-braces-memory-leak-dated-08-07-2024-44676)|An attacker can create a memory leak of Node.js braces, dated 08/07/2024, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-micromatch-overload-via-braces-44675" class="noirorange"><b>Node.js micromatch</b>: overload via braces()</a>](https://vigilance.fr/vulnerability/Node-js-micromatch-overload-via-braces-44675)|An attacker can trigger an overload of Node.js micromatch, via braces(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NetApp-SnapCenter-password-leak-44674" class="noirorange"><b>NetApp SnapCenter</b>: password leak</a>](https://vigilance.fr/vulnerability/NetApp-SnapCenter-password-leak-44674)|An attacker can exploit an unknown vulnerability of NetApp SnapCenter, in order to get password-like secrets...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/yt-dlp-code-execution-via-extension-44672" class="noirorange"><b>yt-dlp</b>: code execution via extension</a>](https://vigilance.fr/vulnerability/yt-dlp-code-execution-via-extension-44672)|An attacker can use a vulnerability of yt-dlp, via extension, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-43036" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-43036)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  
  ---
 
