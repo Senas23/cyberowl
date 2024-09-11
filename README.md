@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/09/2024 21:22:22 UTC
+ > Last Updated 11/09/2024 09:25:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-dated-10-07-2024-44702" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting dated 10/07/2024</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-dated-10-07-2024-44702)|An attacker can trigger a Cross Site Scripting of Joomla Core, dated 10/07/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SSL-VPN-44701" class="noirorange"><b>Fortinet FortiOS</b>: Cross Site Scripting via SSL VPN</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SSL-VPN-44701)|An attacker can trigger a Cross Site Scripting of Fortinet FortiOS, via SSL VPN, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Process-Management-45014" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via Process Management</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Process-Management-45014)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via Process Management, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-System-Configuration-45013" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via System Configuration</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-System-Configuration-45013)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via System Configuration, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-dated-10-07-2024-44700" class="noirorange"><b>Fortinet FortiOS</b>: ingress filtrering bypass dated 10/07/2024</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-ingress-filtrering-bypass-dated-10-07-2024-44700)|An attacker can bypass filtering rules of Fortinet FortiOS, dated 10/07/2024, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-three-vulnerabilities-dated-10-07-2024-44699" class="noirorange"><b>Django</b>: three vulnerabilities dated 10/07/2024</a>](https://vigilance.fr/vulnerability/Django-three-vulnerabilities-dated-10-07-2024-44699)|An attacker can use several vulnerabilities of Django, dated 10/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-denial-of-service-via-Unified-Automation-44688" class="noirorange"><b>Siemens SIMATIC</b>: denial of service via Unified Automation</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-denial-of-service-via-Unified-Automation-44688)|An attacker can cause a fatal error of Siemens SIMATIC, via Unified Automation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-STEP-7-memory-corruption-via-BinaryFormatter-44685" class="noirorange"><b>Siemens SIMATIC STEP 7</b>: memory corruption via BinaryFormatter</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-STEP-7-memory-corruption-via-BinaryFormatter-44685)|An attacker can trigger a memory corruption of Siemens SIMATIC STEP 7, via BinaryFormatter, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Siemens-SIMATIC-WinCC-password-leak-dated-09-07-2024-44684" class="noirorange"><b>Siemens SIMATIC WinCC</b>: password leak dated 09/07/2024</a>](https://vigilance.fr/vulnerability/Siemens-SIMATIC-WinCC-password-leak-dated-09-07-2024-44684)|An attacker can bypass access restrictions to data of Siemens SIMATIC WinCC, dated 09/07/2024, in order to get usernames and passwords...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-memory-leak-via-LearningPushHandler-44680" class="noirorange"><b>Undertow</b>: memory leak via LearningPushHandler</a>](https://vigilance.fr/vulnerability/Undertow-memory-leak-via-LearningPushHandler-44680)|An attacker can create a memory leak of Undertow, via LearningPushHandler, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-IGMP-44710" class="noirorange"><b>Juniper Junos OS</b>: denial of service via IGMP</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-IGMP-44710)|An attacker can send malicious IGMP packets to Juniper Junos OS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-overload-via-l2ald-44709" class="noirorange"><b>Juniper Junos OS</b>: overload via l2ald</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-overload-via-l2ald-44709)|An attacker can trigger an overload of Juniper Junos OS, via l2ald, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Onnx-directory-traversal-via-download-model-with-test-data-44704" class="noirorange"><b>Onnx</b>: directory traversal via download_model_with_<wbr>test_data()</wbr></a>](https://vigilance.fr/vulnerability/Onnx-directory-traversal-via-download-model-with-test-data-44704)|An attacker can traverse directories of Onnx, via download_model_with_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-privilege-escalation-via-Bluetooth-HID-Hosts-43048" class="noirorange"><b>BlueZ</b>: privilege escalation via Bluetooth HID Hosts</a>](https://vigilance.fr/vulnerability/BlueZ-privilege-escalation-via-Bluetooth-HID-Hosts-43048)|An attacker can bypass restrictions of BlueZ, via Bluetooth HID Hosts, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-Secure-Boot-44703" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via Secure Boot</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-Secure-Boot-44703)|An attacker can bypass restrictions of Cisco IOS XR, via Secure Boot, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Pf-Packet-States-Expiration-43039" class="noirorange"><b>OpenBSD</b>: denial of service via Pf Packet States Expiration</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Pf-Packet-States-Expiration-43039)|An attacker can cause a fatal error of OpenBSD, via Pf Packet States Expiration, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-dated-10-07-2024-44702" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting dated 10/07/2024</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-dated-10-07-2024-44702)|An attacker can trigger a Cross Site Scripting of Joomla Core, dated 10/07/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SSL-VPN-44701" class="noirorange"><b>Fortinet FortiOS</b>: Cross Site Scripting via SSL VPN</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-SSL-VPN-44701)|An attacker can trigger a Cross Site Scripting of Fortinet FortiOS, via SSL VPN, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Process-Management-45014" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via Process Management</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Process-Management-45014)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via Process Management, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-System-Configuration-45013" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via System Configuration</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-System-Configuration-45013)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via System Configuration, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
