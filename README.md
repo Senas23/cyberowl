@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/09/2024 21:20:23 UTC
+ > Last Updated 13/09/2024 09:24:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,19 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43079" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43079)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-try-grab-folio-45039" class="noirorange"><b>Linux kernel</b>: overload via try_grab_folio()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-try-grab-folio-45039)|An attacker can trigger an overload of the Linux kernel, via try_grab_folio(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-H-323-44739" class="noirorange"><b>Juniper Junos OS</b>: denial of service via H.323</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-H-323-44739)|An attacker can send malicious H.323 packets to Juniper Junos OS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-TCP-44738" class="noirorange"><b>Juniper Junos OS</b>: denial of service via TCP</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-TCP-44738)|An attacker can cause a fatal error of Juniper Junos OS, via TCP, in order to trigger a denial of service...|Visit link for details|
@@ -59,15 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-Webserver-43062" class="noirorange"><b>SIMATIC</b>: two vulnerabilities via Webserver</a>](https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-Webserver-43062)|An attacker can use several vulnerabilities of SIMATIC, via Webserver...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Botan-overload-via-an-ECDSA-certificate-44735" class="noirorange"><b>Botan</b>: overload via an ECDSA certificate</a>](https://vigilance.fr/vulnerability/Botan-overload-via-an-ECDSA-certificate-44735)|An attacker can trigger an overload of Botan, via an ECDSA certificate, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-egress-filtrering-bypass-dated-12-07-2024-44734" class="noirorange"><b>Juniper Junos OS</b>: egress filtrering bypass dated 12/07/2024</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-egress-filtrering-bypass-dated-12-07-2024-44734)|An attacker can bypass filtering rules of Juniper Junos OS, dated 12/07/2024, in order to exfilter sensitive data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-update-44733" class="noirorange"><b>Juniper Junos OS</b>: denial of service via BGP update</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-update-44733)|An attacker can Juniper Junos OS rpd suspend, via BGP update, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-RPKI-RTR-44732" class="noirorange"><b>Juniper Junos OS</b>: denial of service via RPKI-RTR</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-RPKI-RTR-44732)|An attacker can send malicious RPKI-RTR packets to Juniper Junos OS, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
