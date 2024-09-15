@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/09/2024 21:19:24 UTC
+ > Last Updated 15/09/2024 09:23:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-ingress-filtrering-bypass-via-TCP-44744" class="noirorange"><b>Juniper Junos OS</b>: ingress filtrering bypass via TCP</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-ingress-filtrering-bypass-via-TCP-44744)|An attacker can bypass filtering rules of Juniper Junos OS, via TCP, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-login-44743" class="noirorange"><b>Juniper Junos OS</b>: memory leak via login</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-login-44743)|An attacker can create a memory leak of Juniper Junos OS, via login, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Conntrack-Type-Confusion-45043" class="noirorange"><b>Linux kernel</b>: information disclosure via Conntrack Type Confusion</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Conntrack-Type-Confusion-45043)|An attacker can bypass access restrictions to data of the Linux kernel, via Conntrack Type Confusion, in order to read sensitive information...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-try-grab-folio-45039" class="noirorange"><b>Linux kernel</b>: overload via try_grab_folio()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-try-grab-folio-45039)|An attacker can trigger an overload of the Linux kernel, via try_grab_folio(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-H-323-44739" class="noirorange"><b>Juniper Junos OS</b>: denial of service via H.323</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-H-323-44739)|An attacker can send malicious H.323 packets to Juniper Junos OS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-TCP-44738" class="noirorange"><b>Juniper Junos OS</b>: denial of service via TCP</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-TCP-44738)|An attacker can cause a fatal error of Juniper Junos OS, via TCP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-IKE-44737" class="noirorange"><b>Juniper Junos OS</b>: denial of service via IKE</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-IKE-44737)|An attacker can send malicious IKE packets to Juniper Junos OS, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
