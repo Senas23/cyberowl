@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/09/2024 09:23:30 UTC
+ > Last Updated 15/09/2024 21:21:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-Cross-Site-Scripting-via-email-44750" class="noirorange"><b>Airbus Stormshield Network Security</b>: Cross Site Scripting via email</a>](https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-Cross-Site-Scripting-via-email-44750)|An attacker can trigger a Cross Site Scripting of Airbus Stormshield Network Security, via email, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-export-44749" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via export</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-export-44749)|An attacker can bypass access restrictions to data of OTRS Help Desk, via export, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-privilege-escalation-via-editor-44748" class="noirorange"><b>OTRS Help Desk</b>: privilege escalation via editor</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-privilege-escalation-via-editor-44748)|An attacker can bypass restrictions of OTRS Help Desk, via editor, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-ingress-filtrering-bypass-via-TCP-44744" class="noirorange"><b>Juniper Junos OS</b>: ingress filtrering bypass via TCP</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-ingress-filtrering-bypass-via-TCP-44744)|An attacker can bypass filtering rules of Juniper Junos OS, via TCP, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-login-44743" class="noirorange"><b>Juniper Junos OS</b>: memory leak via login</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-login-44743)|An attacker can create a memory leak of Juniper Junos OS, via login, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Conntrack-Type-Confusion-45043" class="noirorange"><b>Linux kernel</b>: information disclosure via Conntrack Type Confusion</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Conntrack-Type-Confusion-45043)|An attacker can bypass access restrictions to data of the Linux kernel, via Conntrack Type Confusion, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WALLIX-Bastion-user-access-43084" class="noirorange"><b>WALLIX Bastion</b>: user access</a>](https://vigilance.fr/vulnerability/WALLIX-Bastion-user-access-43084)|An attacker can bypass restrictions of WALLIX Bastion, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43079" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43079)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 12 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 12 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 12 septembre 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-ingress-filtrering-bypass-via-TCP-44744" class="noirorange"><b>Juniper Junos OS</b>: ingress filtrering bypass via TCP</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-ingress-filtrering-bypass-via-TCP-44744)|An attacker can bypass filtering rules of Juniper Junos OS, via TCP, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-login-44743" class="noirorange"><b>Juniper Junos OS</b>: memory leak via login</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-login-44743)|An attacker can create a memory leak of Juniper Junos OS, via login, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Conntrack-Type-Confusion-45043" class="noirorange"><b>Linux kernel</b>: information disclosure via Conntrack Type Confusion</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Conntrack-Type-Confusion-45043)|An attacker can bypass access restrictions to data of the Linux kernel, via Conntrack Type Confusion, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WALLIX-Bastion-user-access-43084" class="noirorange"><b>WALLIX Bastion</b>: user access</a>](https://vigilance.fr/vulnerability/WALLIX-Bastion-user-access-43084)|An attacker can bypass restrictions of WALLIX Bastion, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43079" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43079)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-try-grab-folio-45039" class="noirorange"><b>Linux kernel</b>: overload via try_grab_folio()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-try-grab-folio-45039)|An attacker can trigger an overload of the Linux kernel, via try_grab_folio(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-December-2023-43066)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-H-323-44739" class="noirorange"><b>Juniper Junos OS</b>: denial of service via H.323</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-H-323-44739)|An attacker can send malicious H.323 packets to Juniper Junos OS, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
