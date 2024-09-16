@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/09/2024 21:21:37 UTC
+ > Last Updated 16/09/2024 09:26:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ghostscript-five-vulnerabilities-dated-16-07-2024-44753" class="noirorange"><b>Ghostscript</b>: five vulnerabilities dated 16/07/2024</a>](https://vigilance.fr/vulnerability/Ghostscript-five-vulnerabilities-dated-16-07-2024-44753)|An attacker can use several vulnerabilities of Ghostscript, dated 16/07/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-Cross-Site-Scripting-via-email-44750" class="noirorange"><b>Airbus Stormshield Network Security</b>: Cross Site Scripting via email</a>](https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-Cross-Site-Scripting-via-email-44750)|An attacker can trigger a Cross Site Scripting of Airbus Stormshield Network Security, via email, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-export-44749" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via export</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-export-44749)|An attacker can bypass access restrictions to data of OTRS Help Desk, via export, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-privilege-escalation-via-editor-44748" class="noirorange"><b>OTRS Help Desk</b>: privilege escalation via editor</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-privilege-escalation-via-editor-44748)|An attacker can bypass restrictions of OTRS Help Desk, via editor, in order to escalate his privileges...|Visit link for details|
@@ -43,7 +44,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Conntrack-Type-Confusion-45043" class="noirorange"><b>Linux kernel</b>: information disclosure via Conntrack Type Confusion</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Conntrack-Type-Confusion-45043)|An attacker can bypass access restrictions to data of the Linux kernel, via Conntrack Type Confusion, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WALLIX-Bastion-user-access-43084" class="noirorange"><b>WALLIX Bastion</b>: user access</a>](https://vigilance.fr/vulnerability/WALLIX-Bastion-user-access-43084)|An attacker can bypass restrictions of WALLIX Bastion, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43079" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43079)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -61,13 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 12 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 12 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 12 septembre 2024|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
