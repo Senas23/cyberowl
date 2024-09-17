@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/09/2024 09:23:17 UTC
+ > Last Updated 17/09/2024 21:21:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,36 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-SQL-injection-dated-17-07-2024-44776" class="noirorange"><b>Ivanti Endpoint Manager</b>: SQL injection dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-SQL-injection-dated-17-07-2024-44776)|An attacker can use a SQL injection of Ivanti Endpoint Manager, dated 17/07/2024, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-17-07-2024-44774" class="noirorange"><b>Atlassian Confluence Server/DC</b>: Cross Site Scripting dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-17-07-2024-44774)|An attacker can trigger a Cross Site Scripting of Atlassian Confluence Server/DC, dated 17/07/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-July-2024-44772" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-July-2024-44772)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2024-44771" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2024-44771)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766)|An attacker can use several vulnerabilities of the Linux kernel, dated 17/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libpcap-NULL-pointer-dereference-via-Remote-Packet-Capture-45049" class="noirorange"><b>libpcap</b>: NULL pointer dereference via Remote Packet Capture</a>](https://vigilance.fr/vulnerability/libpcap-NULL-pointer-dereference-via-Remote-Packet-Capture-45049)|An attacker can force a NULL pointer to be dereferenced on libpcap, via Remote Packet Capture, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-spoofing-via-SR-44765" class="noirorange"><b>Xen</b>: spoofing via SR</a>](https://vigilance.fr/vulnerability/Xen-spoofing-via-SR-44765)|An attacker can create spoofed data on Xen, via SR metadata, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Botan-spoofing-via-X-509-nameConstraint-44763" class="noirorange"><b>Botan</b>: spoofing via X.509 nameConstraint</a>](https://vigilance.fr/vulnerability/Botan-spoofing-via-X-509-nameConstraint-44763)|An attacker can create spoofed data on Botan, via X.509 nameConstraint, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-SQL-injection-via-testServiceExistence-44760" class="noirorange"><b>Centreon</b>: SQL injection via testServiceExistence</a>](https://vigilance.fr/vulnerability/Centreon-SQL-injection-via-testServiceExistence-44760)|An attacker can use a SQL injection of Centreon, via testServiceExistence|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-REXML-Gem-overload-via-specific-characters-44759" class="noirorange"><b>Ruby REXML Gem</b>: overload via specific characters</a>](https://vigilance.fr/vulnerability/Ruby-REXML-Gem-overload-via-specific-characters-44759)|An attacker can trigger an overload of Ruby REXML Gem, via specific characters, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0785/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 17 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0784/)|Une vulnérabilité a été découverte dans Ivanti Cloud Service Appliance (CSA). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Ivanti déclare que la vulnérabilité CVE-2024-8190 est activement exploitée dans le cadre d'attaques ciblées.|Publié le 17 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0783/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0782/)|Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0781/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 16 septembre 2024|
@@ -42,32 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0778/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0777/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 13 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0776/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 13 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0774/)|Une vulnérabilité a été découverte dans Juniper Networks. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 12 septembre 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766)|An attacker can use several vulnerabilities of the Linux kernel, dated 17/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libpcap-NULL-pointer-dereference-via-Remote-Packet-Capture-45049" class="noirorange"><b>libpcap</b>: NULL pointer dereference via Remote Packet Capture</a>](https://vigilance.fr/vulnerability/libpcap-NULL-pointer-dereference-via-Remote-Packet-Capture-45049)|An attacker can force a NULL pointer to be dereferenced on libpcap, via Remote Packet Capture, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-spoofing-via-SR-44765" class="noirorange"><b>Xen</b>: spoofing via SR</a>](https://vigilance.fr/vulnerability/Xen-spoofing-via-SR-44765)|An attacker can create spoofed data on Xen, via SR metadata, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Botan-spoofing-via-X-509-nameConstraint-44763" class="noirorange"><b>Botan</b>: spoofing via X.509 nameConstraint</a>](https://vigilance.fr/vulnerability/Botan-spoofing-via-X-509-nameConstraint-44763)|An attacker can create spoofed data on Botan, via X.509 nameConstraint, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-SQL-injection-via-testServiceExistence-44760" class="noirorange"><b>Centreon</b>: SQL injection via testServiceExistence</a>](https://vigilance.fr/vulnerability/Centreon-SQL-injection-via-testServiceExistence-44760)|An attacker can use a SQL injection of Centreon, via testServiceExistence|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-REXML-Gem-overload-via-specific-characters-44759" class="noirorange"><b>Ruby REXML Gem</b>: overload via specific characters</a>](https://vigilance.fr/vulnerability/Ruby-REXML-Gem-overload-via-specific-characters-44759)|An attacker can trigger an overload of Ruby REXML Gem, via specific characters, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-dated-16-07-2024-44756" class="noirorange"><b>Microsoft Edge Chromium</b>: vulnerability dated 16/07/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-dated-16-07-2024-44756)|A vulnerability of Microsoft Edge Chromium, dated 16/07/2024, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GTK-executing-DLL-code-dated-16-07-2024-44755" class="noirorange"><b>GTK+</b>: executing DLL code dated 16/07/2024</a>](https://vigilance.fr/vulnerability/GTK-executing-DLL-code-dated-16-07-2024-44755)|An attacker can create a malicious DLL for GTK+, dated 16/07/2024, and then put it in the current directory, in order to execute code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ghostscript-five-vulnerabilities-dated-16-07-2024-44753" class="noirorange"><b>Ghostscript</b>: five vulnerabilities dated 16/07/2024</a>](https://vigilance.fr/vulnerability/Ghostscript-five-vulnerabilities-dated-16-07-2024-44753)|An attacker can use several vulnerabilities of Ghostscript, dated 16/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-Cross-Site-Scripting-via-email-44750" class="noirorange"><b>Airbus Stormshield Network Security</b>: Cross Site Scripting via email</a>](https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-Cross-Site-Scripting-via-email-44750)|An attacker can trigger a Cross Site Scripting of Airbus Stormshield Network Security, via email, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
