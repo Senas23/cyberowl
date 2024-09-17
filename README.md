@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/09/2024 09:26:56 UTC
+ > Last Updated 17/09/2024 09:23:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,34 +30,13 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ghostscript-five-vulnerabilities-dated-16-07-2024-44753" class="noirorange"><b>Ghostscript</b>: five vulnerabilities dated 16/07/2024</a>](https://vigilance.fr/vulnerability/Ghostscript-five-vulnerabilities-dated-16-07-2024-44753)|An attacker can use several vulnerabilities of Ghostscript, dated 16/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-Cross-Site-Scripting-via-email-44750" class="noirorange"><b>Airbus Stormshield Network Security</b>: Cross Site Scripting via email</a>](https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-Cross-Site-Scripting-via-email-44750)|An attacker can trigger a Cross Site Scripting of Airbus Stormshield Network Security, via email, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-export-44749" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via export</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-export-44749)|An attacker can bypass access restrictions to data of OTRS Help Desk, via export, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-privilege-escalation-via-editor-44748" class="noirorange"><b>OTRS Help Desk</b>: privilege escalation via editor</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-privilege-escalation-via-editor-44748)|An attacker can bypass restrictions of OTRS Help Desk, via editor, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-ingress-filtrering-bypass-via-TCP-44744" class="noirorange"><b>Juniper Junos OS</b>: ingress filtrering bypass via TCP</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-ingress-filtrering-bypass-via-TCP-44744)|An attacker can bypass filtering rules of Juniper Junos OS, via TCP, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-login-44743" class="noirorange"><b>Juniper Junos OS</b>: memory leak via login</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-login-44743)|An attacker can create a memory leak of Juniper Junos OS, via login, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Conntrack-Type-Confusion-45043" class="noirorange"><b>Linux kernel</b>: information disclosure via Conntrack Type Confusion</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Conntrack-Type-Confusion-45043)|An attacker can bypass access restrictions to data of the Linux kernel, via Conntrack Type Confusion, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WALLIX-Bastion-user-access-43084" class="noirorange"><b>WALLIX Bastion</b>: user access</a>](https://vigilance.fr/vulnerability/WALLIX-Bastion-user-access-43084)|An attacker can bypass restrictions of WALLIX Bastion, in order to gain user privileges...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0783/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0782/)|Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0781/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 16 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0780/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 13 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0779/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 13 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0778/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 septembre 2024|
@@ -65,9 +44,30 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0776/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 13 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0774/)|Une vulnérabilité a été découverte dans Juniper Networks. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 12 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 12 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0772/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 12 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0771/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 12 septembre 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766)|An attacker can use several vulnerabilities of the Linux kernel, dated 17/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libpcap-NULL-pointer-dereference-via-Remote-Packet-Capture-45049" class="noirorange"><b>libpcap</b>: NULL pointer dereference via Remote Packet Capture</a>](https://vigilance.fr/vulnerability/libpcap-NULL-pointer-dereference-via-Remote-Packet-Capture-45049)|An attacker can force a NULL pointer to be dereferenced on libpcap, via Remote Packet Capture, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-spoofing-via-SR-44765" class="noirorange"><b>Xen</b>: spoofing via SR</a>](https://vigilance.fr/vulnerability/Xen-spoofing-via-SR-44765)|An attacker can create spoofed data on Xen, via SR metadata, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Botan-spoofing-via-X-509-nameConstraint-44763" class="noirorange"><b>Botan</b>: spoofing via X.509 nameConstraint</a>](https://vigilance.fr/vulnerability/Botan-spoofing-via-X-509-nameConstraint-44763)|An attacker can create spoofed data on Botan, via X.509 nameConstraint, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-SQL-injection-via-testServiceExistence-44760" class="noirorange"><b>Centreon</b>: SQL injection via testServiceExistence</a>](https://vigilance.fr/vulnerability/Centreon-SQL-injection-via-testServiceExistence-44760)|An attacker can use a SQL injection of Centreon, via testServiceExistence|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-REXML-Gem-overload-via-specific-characters-44759" class="noirorange"><b>Ruby REXML Gem</b>: overload via specific characters</a>](https://vigilance.fr/vulnerability/Ruby-REXML-Gem-overload-via-specific-characters-44759)|An attacker can trigger an overload of Ruby REXML Gem, via specific characters, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-dated-16-07-2024-44756" class="noirorange"><b>Microsoft Edge Chromium</b>: vulnerability dated 16/07/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-dated-16-07-2024-44756)|A vulnerability of Microsoft Edge Chromium, dated 16/07/2024, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GTK-executing-DLL-code-dated-16-07-2024-44755" class="noirorange"><b>GTK+</b>: executing DLL code dated 16/07/2024</a>](https://vigilance.fr/vulnerability/GTK-executing-DLL-code-dated-16-07-2024-44755)|An attacker can create a malicious DLL for GTK+, dated 16/07/2024, and then put it in the current directory, in order to execute code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ghostscript-five-vulnerabilities-dated-16-07-2024-44753" class="noirorange"><b>Ghostscript</b>: five vulnerabilities dated 16/07/2024</a>](https://vigilance.fr/vulnerability/Ghostscript-five-vulnerabilities-dated-16-07-2024-44753)|An attacker can use several vulnerabilities of Ghostscript, dated 16/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-Cross-Site-Scripting-via-email-44750" class="noirorange"><b>Airbus Stormshield Network Security</b>: Cross Site Scripting via email</a>](https://vigilance.fr/vulnerability/Airbus-Stormshield-Network-Security-Cross-Site-Scripting-via-email-44750)|An attacker can trigger a Cross Site Scripting of Airbus Stormshield Network Security, via email, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
