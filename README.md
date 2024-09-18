@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/09/2024 21:21:27 UTC
+ > Last Updated 18/09/2024 09:24:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-SQL-injection-dated-17-07-2024-44776" class="noirorange"><b>Ivanti Endpoint Manager</b>: SQL injection dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-SQL-injection-dated-17-07-2024-44776)|An attacker can use a SQL injection of Ivanti Endpoint Manager, dated 17/07/2024, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-17-07-2024-44774" class="noirorange"><b>Atlassian Confluence Server/DC</b>: Cross Site Scripting dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-17-07-2024-44774)|An attacker can trigger a Cross Site Scripting of Atlassian Confluence Server/DC, dated 17/07/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-July-2024-44772" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-July-2024-44772)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2024-44771" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2024-44771)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766)|An attacker can use several vulnerabilities of the Linux kernel, dated 17/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libpcap-NULL-pointer-dereference-via-Remote-Packet-Capture-45049" class="noirorange"><b>libpcap</b>: NULL pointer dereference via Remote Packet Capture</a>](https://vigilance.fr/vulnerability/libpcap-NULL-pointer-dereference-via-Remote-Packet-Capture-45049)|An attacker can force a NULL pointer to be dereferenced on libpcap, via Remote Packet Capture, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-spoofing-via-SR-44765" class="noirorange"><b>Xen</b>: spoofing via SR</a>](https://vigilance.fr/vulnerability/Xen-spoofing-via-SR-44765)|An attacker can create spoofed data on Xen, via SR metadata, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Botan-spoofing-via-X-509-nameConstraint-44763" class="noirorange"><b>Botan</b>: spoofing via X.509 nameConstraint</a>](https://vigilance.fr/vulnerability/Botan-spoofing-via-X-509-nameConstraint-44763)|An attacker can create spoofed data on Botan, via X.509 nameConstraint, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-SQL-injection-via-testServiceExistence-44760" class="noirorange"><b>Centreon</b>: SQL injection via testServiceExistence</a>](https://vigilance.fr/vulnerability/Centreon-SQL-injection-via-testServiceExistence-44760)|An attacker can use a SQL injection of Centreon, via testServiceExistence|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-REXML-Gem-overload-via-specific-characters-44759" class="noirorange"><b>Ruby REXML Gem</b>: overload via specific characters</a>](https://vigilance.fr/vulnerability/Ruby-REXML-Gem-overload-via-specific-characters-44759)|An attacker can trigger an overload of Ruby REXML Gem, via specific characters, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0778/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0777/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 13 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0776/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 13 septembre 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783" class="noirorange"><b>Kubernetes with MS-Windows</b>: log read/write via wrong permissions assignment</a>](https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783)|An attacker can bypass access restrictions of Kubernetes avec MS-Windows, via wrong permissions assignment, in order to read or alter log files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-code-execution-via-Template-44781" class="noirorange"><b>Cisco Email Security Appliance</b>: code execution via Template</a>](https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-code-execution-via-Template-44781)|An attacker can use a vulnerability of Cisco Email Security Appliance, via Template, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-file-reading-via-AddType-44778" class="noirorange"><b>Apache httpd</b>: file reading via AddType</a>](https://vigilance.fr/vulnerability/Apache-httpd-file-reading-via-AddType-44778)|An attacker can read a file of Apache httpd, according to the AddType directives, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-mod-rewrite-on-MS-Windows-44777" class="noirorange"><b>Apache httpd</b>: Server-Side Request Forgery via mod_rewrite on MS-Windows</a>](https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-mod-rewrite-on-MS-Windows-44777)|An attacker can trigger a Server-Side Request Forgery of Apache httpd, via mod_rewrite, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-SQL-injection-dated-17-07-2024-44776" class="noirorange"><b>Ivanti Endpoint Manager</b>: SQL injection dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-SQL-injection-dated-17-07-2024-44776)|An attacker can use a SQL injection of Ivanti Endpoint Manager, dated 17/07/2024, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-17-07-2024-44774" class="noirorange"><b>Atlassian Confluence Server/DC</b>: Cross Site Scripting dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-17-07-2024-44774)|An attacker can trigger a Cross Site Scripting of Atlassian Confluence Server/DC, dated 17/07/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-July-2024-44772" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-July-2024-44772)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2024-44771" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2024-44771)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766)|An attacker can use several vulnerabilities of the Linux kernel, dated 17/07/2024...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
