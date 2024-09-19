@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/09/2024 21:20:15 UTC
+ > Last Updated 19/09/2024 09:25:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-privilege-escalation-via-a-command-injection-44786" class="noirorange"><b>Mitel 6800/6900 Series Phones</b>: privilege escalation via a command injection</a>](https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-privilege-escalation-via-a-command-injection-44786)|An attacker can bypass restrictions of Mitel 6800/6900 Series Phones, via a command injection, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783" class="noirorange"><b>Kubernetes with MS-Windows</b>: log read/write via wrong permissions assignment</a>](https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783)|An attacker can bypass access restrictions of Kubernetes avec MS-Windows, via wrong permissions assignment, in order to read or alter log files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-code-execution-via-Template-44781" class="noirorange"><b>Cisco Email Security Appliance</b>: code execution via Template</a>](https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-code-execution-via-Template-44781)|An attacker can use a vulnerability of Cisco Email Security Appliance, via Template, in order to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-17-07-2024-44774" class="noirorange"><b>Atlassian Confluence Server/DC</b>: Cross Site Scripting dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-17-07-2024-44774)|An attacker can trigger a Cross Site Scripting of Atlassian Confluence Server/DC, dated 17/07/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-July-2024-44772" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-July-2024-44772)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2024-44771" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-July-2024-44771)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-07-2024-44766)|An attacker can use several vulnerabilities of the Linux kernel, dated 17/07/2024...|Visit link for details|
  
  ---
 
