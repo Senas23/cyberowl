@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/09/2024 21:21:28 UTC
+ > Last Updated 20/09/2024 09:27:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,34 +30,13 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0785/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 17 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0784/)|Une vulnérabilité a été découverte dans Ivanti Cloud Service Appliance (CSA). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Ivanti déclare que la vulnérabilité CVE-2024-8190 est activement exploitée dans le cadre d'attaques ciblées.|Publié le 17 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0783/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0782/)|Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0781/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 16 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0780/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 13 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0779/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 13 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0778/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0777/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 13 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0776/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 13 septembre 2024|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-Argument-List-New-File-45082" class="noirorange"><b>Vim</b>: use after free via Argument List New File</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-Argument-List-New-File-45082)|An attacker can force the reuse of a freed memory area of Vim, via Argument List New File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-double-free-via-Window-Closing-45081" class="noirorange"><b>Vim</b>: double free via Window Closing</a>](https://vigilance.fr/vulnerability/Vim-double-free-via-Window-Closing-45081)|An attacker can force a double memory free of Vim, via Window Closing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Ironic-information-disclosure-via-qemu-img-45080" class="noirorange"><b>OpenStack Ironic</b>: information disclosure via qemu-img</a>](https://vigilance.fr/vulnerability/OpenStack-Ironic-information-disclosure-via-qemu-img-45080)|An attacker can bypass access restrictions to data of OpenStack Ironic, via qemu-img, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-an-ill-formed-password-fingerprint-44787" class="noirorange"><b>389 Directory Server</b>: denial of service via an ill formed password fingerprint</a>](https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-an-ill-formed-password-fingerprint-44787)|An attacker can cause a fatal error of 389 Directory Server, via an ill formed password fingerprint, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-privilege-escalation-via-a-command-injection-44786" class="noirorange"><b>Mitel 6800/6900 Series Phones</b>: privilege escalation via a command injection</a>](https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-privilege-escalation-via-a-command-injection-44786)|An attacker can bypass restrictions of Mitel 6800/6900 Series Phones, via a command injection, in order to escalate his privileges...|Visit link for details|
@@ -65,9 +44,30 @@
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-code-execution-via-Template-44781" class="noirorange"><b>Cisco Email Security Appliance</b>: code execution via Template</a>](https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-code-execution-via-Template-44781)|An attacker can use a vulnerability of Cisco Email Security Appliance, via Template, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-file-reading-via-AddType-44778" class="noirorange"><b>Apache httpd</b>: file reading via AddType</a>](https://vigilance.fr/vulnerability/Apache-httpd-file-reading-via-AddType-44778)|An attacker can read a file of Apache httpd, according to the AddType directives, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-mod-rewrite-on-MS-Windows-44777" class="noirorange"><b>Apache httpd</b>: Server-Side Request Forgery via mod_rewrite on MS-Windows</a>](https://vigilance.fr/vulnerability/Apache-httpd-Server-Side-Request-Forgery-via-mod-rewrite-on-MS-Windows-44777)|An attacker can trigger a Server-Side Request Forgery of Apache httpd, via mod_rewrite, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-SQL-injection-dated-17-07-2024-44776" class="noirorange"><b>Ivanti Endpoint Manager</b>: SQL injection dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-SQL-injection-dated-17-07-2024-44776)|An attacker can use a SQL injection of Ivanti Endpoint Manager, dated 17/07/2024, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-17-07-2024-44774" class="noirorange"><b>Atlassian Confluence Server/DC</b>: Cross Site Scripting dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-17-07-2024-44774)|An attacker can trigger a Cross Site Scripting of Atlassian Confluence Server/DC, dated 17/07/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0791/)|Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0789/)|Une vulnérabilité a été découverte dans Mozilla Firefox pour Android. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 18 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0787/)|Une vulnérabilité a été découverte dans LibreOffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0786/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 18 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0785/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 17 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0784/)|Une vulnérabilité a été découverte dans Ivanti Cloud Service Appliance (CSA). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Ivanti déclare que la vulnérabilité CVE-2024-8190 est activement exploitée dans le cadre d'attaques ciblées.|Publié le 17 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0783/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 septembre 2024|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
