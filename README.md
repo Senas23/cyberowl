@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/09/2024 09:21:47 UTC
+ > Last Updated 21/09/2024 21:20:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0800/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 20 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0799/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 20 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0798/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service à distance.|Publié le 20 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0797/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 20 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0796/)|Une vulnérabilité a été découverte dans Ivanti Cloud Service Appliance (CSA). Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Ivanti déclare que la vulnérabilité CVE-2024-8963 est activement exploitée dans le cadre d'attaques ciblées, en combinaison avec la...|Publié le 20 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0795/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0794/)|Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0793/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 20 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0791/)|Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 septembre 2024|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +51,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783" class="noirorange"><b>Kubernetes with MS-Windows</b>: log read/write via wrong permissions assignment</a>](https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783)|An attacker can bypass access restrictions of Kubernetes avec MS-Windows, via wrong permissions assignment, in order to read or alter log files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-code-execution-via-Template-44781" class="noirorange"><b>Cisco Email Security Appliance</b>: code execution via Template</a>](https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-code-execution-via-Template-44781)|An attacker can use a vulnerability of Cisco Email Security Appliance, via Template, in order to run code...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0800/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 20 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0799/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 20 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0798/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service à distance.|Publié le 20 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0797/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 20 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0796/)|Une vulnérabilité a été découverte dans Ivanti Cloud Service Appliance (CSA). Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Ivanti déclare que la vulnérabilité CVE-2024-8963 est activement exploitée dans le cadre d'attaques ciblées, en combinaison avec la...|Publié le 20 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0795/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0794/)|Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0793/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 20 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 septembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0791/)|Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 septembre 2024|
  
  ---
 
