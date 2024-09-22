@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/09/2024 21:20:23 UTC
+ > Last Updated 22/09/2024 09:21:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-buffer-overflow-via-WebRTC-43157" class="noirorange"><b>Chrome  Edge  Opera</b>: buffer overflow via WebRTC</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-buffer-overflow-via-WebRTC-43157)|An attacker can trigger a buffer overflow of Chrome  Edge  Opera, via WebRTC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-Argument-List-New-File-45082" class="noirorange"><b>Vim</b>: use after free via Argument List New File</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-Argument-List-New-File-45082)|An attacker can force the reuse of a freed memory area of Vim, via Argument List New File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-double-free-via-Window-Closing-45081" class="noirorange"><b>Vim</b>: double free via Window Closing</a>](https://vigilance.fr/vulnerability/Vim-double-free-via-Window-Closing-45081)|An attacker can force a double memory free of Vim, via Window Closing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Ironic-information-disclosure-via-qemu-img-45080" class="noirorange"><b>OpenStack Ironic</b>: information disclosure via qemu-img</a>](https://vigilance.fr/vulnerability/OpenStack-Ironic-information-disclosure-via-qemu-img-45080)|An attacker can bypass access restrictions to data of OpenStack Ironic, via qemu-img, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-an-ill-formed-password-fingerprint-44787" class="noirorange"><b>389 Directory Server</b>: denial of service via an ill formed password fingerprint</a>](https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-an-ill-formed-password-fingerprint-44787)|An attacker can cause a fatal error of 389 Directory Server, via an ill formed password fingerprint, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-privilege-escalation-via-a-command-injection-44786" class="noirorange"><b>Mitel 6800/6900 Series Phones</b>: privilege escalation via a command injection</a>](https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-privilege-escalation-via-a-command-injection-44786)|An attacker can bypass restrictions of Mitel 6800/6900 Series Phones, via a command injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783" class="noirorange"><b>Kubernetes with MS-Windows</b>: log read/write via wrong permissions assignment</a>](https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783)|An attacker can bypass access restrictions of Kubernetes avec MS-Windows, via wrong permissions assignment, in order to read or alter log files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-code-execution-via-Template-44781" class="noirorange"><b>Cisco Email Security Appliance</b>: code execution via Template</a>](https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-code-execution-via-Template-44781)|An attacker can use a vulnerability of Cisco Email Security Appliance, via Template, in order to run code...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0793/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 20 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0791/)|Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 18 septembre 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169" class="noirorange"><b>GStreamer</b>: buffer overflow via AV1 Codec Parser</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169)|An attacker can trigger a buffer overflow of GStreamer, via AV1 Codec Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-buffer-overflow-via-WebRTC-43157" class="noirorange"><b>Chrome  Edge  Opera</b>: buffer overflow via WebRTC</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-buffer-overflow-via-WebRTC-43157)|An attacker can trigger a buffer overflow of Chrome  Edge  Opera, via WebRTC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-Argument-List-New-File-45082" class="noirorange"><b>Vim</b>: use after free via Argument List New File</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-Argument-List-New-File-45082)|An attacker can force the reuse of a freed memory area of Vim, via Argument List New File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-double-free-via-Window-Closing-45081" class="noirorange"><b>Vim</b>: double free via Window Closing</a>](https://vigilance.fr/vulnerability/Vim-double-free-via-Window-Closing-45081)|An attacker can force a double memory free of Vim, via Window Closing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Ironic-information-disclosure-via-qemu-img-45080" class="noirorange"><b>OpenStack Ironic</b>: information disclosure via qemu-img</a>](https://vigilance.fr/vulnerability/OpenStack-Ironic-information-disclosure-via-qemu-img-45080)|An attacker can bypass access restrictions to data of OpenStack Ironic, via qemu-img, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-an-ill-formed-password-fingerprint-44787" class="noirorange"><b>389 Directory Server</b>: denial of service via an ill formed password fingerprint</a>](https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-an-ill-formed-password-fingerprint-44787)|An attacker can cause a fatal error of 389 Directory Server, via an ill formed password fingerprint, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-privilege-escalation-via-a-command-injection-44786" class="noirorange"><b>Mitel 6800/6900 Series Phones</b>: privilege escalation via a command injection</a>](https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-privilege-escalation-via-a-command-injection-44786)|An attacker can bypass restrictions of Mitel 6800/6900 Series Phones, via a command injection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783" class="noirorange"><b>Kubernetes with MS-Windows</b>: log read/write via wrong permissions assignment</a>](https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783)|An attacker can bypass access restrictions of Kubernetes avec MS-Windows, via wrong permissions assignment, in order to read or alter log files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
