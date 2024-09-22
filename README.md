@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/09/2024 09:21:40 UTC
+ > Last Updated 22/09/2024 21:20:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-Shell-overload-via-Portal-Helper-44790" class="noirorange"><b>GNOME Shell</b>: overload via Portal Helper</a>](https://vigilance.fr/vulnerability/GNOME-Shell-overload-via-Portal-Helper-44790)|An attacker can trigger an overload of GNOME Shell, via Portal Helper, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Global-code-execution-via-Htags-Untrusted-Dbpath-44789" class="noirorange"><b>GNU Global</b>: code execution via Htags Untrusted Dbpath</a>](https://vigilance.fr/vulnerability/GNU-Global-code-execution-via-Htags-Untrusted-Dbpath-44789)|An attacker can use a vulnerability of GNU Global, via Htags Untrusted Dbpath, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenText-Performance-Center-Cross-Site-Scripting-dated-22-07-2024-44788" class="noirorange"><b>OpenText Performance Center</b>: Cross Site Scripting dated 22/07/2024</a>](https://vigilance.fr/vulnerability/OpenText-Performance-Center-Cross-Site-Scripting-dated-22-07-2024-44788)|An attacker can trigger a Cross Site Scripting of OpenText Performance Center, dated 22/07/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173" class="noirorange"><b>ProFTPD</b>: out-of-bounds memory reading via Quote Escape</a>](https://vigilance.fr/vulnerability/ProFTPD-out-of-bounds-memory-reading-via-Quote-Escape-43173)|An attacker can force a read at an invalid memory address of ProFTPD, via Quote Escape, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169" class="noirorange"><b>GStreamer</b>: buffer overflow via AV1 Codec Parser</a>](https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-AV1-Codec-Parser-43169)|An attacker can trigger a buffer overflow of GStreamer, via AV1 Codec Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-buffer-overflow-via-WebRTC-43157" class="noirorange"><b>Chrome  Edge  Opera</b>: buffer overflow via WebRTC</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-buffer-overflow-via-WebRTC-43157)|An attacker can trigger a buffer overflow of Chrome  Edge  Opera, via WebRTC, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-Argument-List-New-File-45082" class="noirorange"><b>Vim</b>: use after free via Argument List New File</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-Argument-List-New-File-45082)|An attacker can force the reuse of a freed memory area of Vim, via Argument List New File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-double-free-via-Window-Closing-45081" class="noirorange"><b>Vim</b>: double free via Window Closing</a>](https://vigilance.fr/vulnerability/Vim-double-free-via-Window-Closing-45081)|An attacker can force a double memory free of Vim, via Window Closing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenStack-Ironic-information-disclosure-via-qemu-img-45080" class="noirorange"><b>OpenStack Ironic</b>: information disclosure via qemu-img</a>](https://vigilance.fr/vulnerability/OpenStack-Ironic-information-disclosure-via-qemu-img-45080)|An attacker can bypass access restrictions to data of OpenStack Ironic, via qemu-img, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43149)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-an-ill-formed-password-fingerprint-44787" class="noirorange"><b>389 Directory Server</b>: denial of service via an ill formed password fingerprint</a>](https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-an-ill-formed-password-fingerprint-44787)|An attacker can cause a fatal error of 389 Directory Server, via an ill formed password fingerprint, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-privilege-escalation-via-a-command-injection-44786" class="noirorange"><b>Mitel 6800/6900 Series Phones</b>: privilege escalation via a command injection</a>](https://vigilance.fr/vulnerability/Mitel-6800-6900-Series-Phones-privilege-escalation-via-a-command-injection-44786)|An attacker can bypass restrictions of Mitel 6800/6900 Series Phones, via a command injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783" class="noirorange"><b>Kubernetes with MS-Windows</b>: log read/write via wrong permissions assignment</a>](https://vigilance.fr/vulnerability/Kubernetes-with-MS-Windows-log-read-write-via-wrong-permissions-assignment-44783)|An attacker can bypass access restrictions of Kubernetes avec MS-Windows, via wrong permissions assignment, in order to read or alter log files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-43123)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
