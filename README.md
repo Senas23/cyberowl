@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/09/2024 09:24:52 UTC
+ > Last Updated 24/09/2024 21:21:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0803/)|Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0802/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 23 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0801/)|De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges et un déni de service.|Publié le 23 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0800/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 20 septembre 2024|
@@ -43,24 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0796/)|Une vulnérabilité a été découverte dans Ivanti Cloud Service Appliance (CSA). Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Ivanti déclare que la vulnérabilité CVE-2024-8963 est activement exploitée dans le cadre d'attaques ciblées, en combinaison avec la...|Publié le 20 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0795/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0794/)|Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0793/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 20 septembre 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-user-access-via-AuthZ-Bypass-44805" class="noirorange"><b>Docker Engine</b>: user access via AuthZ Bypass</a>](https://vigilance.fr/vulnerability/Docker-Engine-user-access-via-AuthZ-Bypass-44805)|An attacker can bypass restrictions of Docker Engine, via AuthZ Bypass, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-macidn-44800" class="noirorange"><b>cURL</b>: out-of-bounds memory reading via macidn</a>](https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-macidn-44800)|An attacker can force a read at an invalid memory address of cURL, via macidn, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-use-after-free-via-utf8asn1str-44799" class="noirorange"><b>cURL</b>: use after free via utf8asn1str()</a>](https://vigilance.fr/vulnerability/cURL-use-after-free-via-utf8asn1str-44799)|An attacker can force the reuse of a freed memory area of cURL, via utf8asn1str(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lock-get-status-44798" class="noirorange"><b>Linux kernel</b>: use after free via lock_get_status()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lock-get-status-44798)|An attacker can force the reuse of a freed memory area of the Linux kernel, via lock_get_status(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f9035-i2c-master-xfer-45105" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via f9035_i2c_master_<wbr>xfer()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f9035-i2c-master-xfer-45105)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via f9035_i2c_master_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-ActiveMQ-code-execution-via-Jolokia-44797" class="noirorange"><b>Apache ActiveMQ</b>: code execution via Jolokia</a>](https://vigilance.fr/vulnerability/Apache-ActiveMQ-code-execution-via-Jolokia-44797)|An attacker can use a vulnerability of Apache ActiveMQ, via Jolokia, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-open-redirect-via-Urlparse-45103" class="noirorange"><b>Python Core</b>: open redirect via Urlparse</a>](https://vigilance.fr/vulnerability/Python-Core-open-redirect-via-Urlparse-45103)|An attacker can deceive the user of Python Core, via Urlparse, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-HEAD-LOCK-Deadlocked-Child-Process-45102" class="noirorange"><b>Python Core</b>: denial of service via HEAD_LOCK Deadlocked Child Process</a>](https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-HEAD-LOCK-Deadlocked-Child-Process-45102)|An attacker can cause a fatal error of Python Core, via HEAD_LOCK Deadlocked Child Process, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-out-of-bounds-memory-reading-via-Winapi-Audit-Events-45100" class="noirorange"><b>Python Core</b>: out-of-bounds memory reading via Winapi Audit Events</a>](https://vigilance.fr/vulnerability/Python-Core-out-of-bounds-memory-reading-via-Winapi-Audit-Events-45100)|An attacker can force a read at an invalid memory address of Python Core, via Winapi Audit Events, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Nova-privilege-escalation-via-QCOW2-Backing-Files-VMDK-Flat-Descriptors-44796" class="noirorange"><b>OpenStack Nova</b>: privilege escalation via QCOW2 Backing Files VMDK Flat Descriptors</a>](https://vigilance.fr/vulnerability/OpenStack-Nova-privilege-escalation-via-QCOW2-Backing-Files-VMDK-Flat-Descriptors-44796)|An attacker can bypass restrictions of OpenStack Nova, via QCOW2 Backing Files VMDK Flat Descriptors, in order to escalate his privileges...|Visit link for details|
  
  ---
 
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809" class="noirorange"><b>libxml2</b>: external XML entity injection dated 24/07/2024</a>](https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809)|An attacker can transmit malicious XML data to libxml2, dated 24/07/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gorilla-schema-overload-via-Sparse-Slice-Deserialization-44808" class="noirorange"><b>gorilla/schema</b>: overload via Sparse Slice Deserialization</a>](https://vigilance.fr/vulnerability/gorilla-schema-overload-via-Sparse-Slice-Deserialization-44808)|An attacker can trigger an overload of gorilla/schema, via Sparse Slice Deserialization, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/provd-privilege-escalation-via-Environment-Variables-44807" class="noirorange"><b>provd</b>: privilege escalation via Environment Variables</a>](https://vigilance.fr/vulnerability/provd-privilege-escalation-via-Environment-Variables-44807)|An attacker can bypass restrictions of provd, via Environment Variables, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-user-access-via-AuthZ-Bypass-44805" class="noirorange"><b>Docker Engine</b>: user access via AuthZ Bypass</a>](https://vigilance.fr/vulnerability/Docker-Engine-user-access-via-AuthZ-Bypass-44805)|An attacker can bypass restrictions of Docker Engine, via AuthZ Bypass, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-macidn-44800" class="noirorange"><b>cURL</b>: out-of-bounds memory reading via macidn</a>](https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-macidn-44800)|An attacker can force a read at an invalid memory address of cURL, via macidn, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-use-after-free-via-utf8asn1str-44799" class="noirorange"><b>cURL</b>: use after free via utf8asn1str()</a>](https://vigilance.fr/vulnerability/cURL-use-after-free-via-utf8asn1str-44799)|An attacker can force the reuse of a freed memory area of cURL, via utf8asn1str(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lock-get-status-44798" class="noirorange"><b>Linux kernel</b>: use after free via lock_get_status()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lock-get-status-44798)|An attacker can force the reuse of a freed memory area of the Linux kernel, via lock_get_status(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f9035-i2c-master-xfer-45105" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via f9035_i2c_master_<wbr>xfer()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f9035-i2c-master-xfer-45105)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via f9035_i2c_master_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-ActiveMQ-code-execution-via-Jolokia-44797" class="noirorange"><b>Apache ActiveMQ</b>: code execution via Jolokia</a>](https://vigilance.fr/vulnerability/Apache-ActiveMQ-code-execution-via-Jolokia-44797)|An attacker can use a vulnerability of Apache ActiveMQ, via Jolokia, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-open-redirect-via-Urlparse-45103" class="noirorange"><b>Python Core</b>: open redirect via Urlparse</a>](https://vigilance.fr/vulnerability/Python-Core-open-redirect-via-Urlparse-45103)|An attacker can deceive the user of Python Core, via Urlparse, in order to redirect him to a malicious site...|Visit link for details|
  
  ---
 
