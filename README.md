@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/09/2024 21:21:21 UTC
+ > Last Updated 25/09/2024 09:24:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-25-07-2024-44811" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 25/07/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-25-07-2024-44811)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 25/07/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809" class="noirorange"><b>libxml2</b>: external XML entity injection dated 24/07/2024</a>](https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809)|An attacker can transmit malicious XML data to libxml2, dated 24/07/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gorilla-schema-overload-via-Sparse-Slice-Deserialization-44808" class="noirorange"><b>gorilla/schema</b>: overload via Sparse Slice Deserialization</a>](https://vigilance.fr/vulnerability/gorilla-schema-overload-via-Sparse-Slice-Deserialization-44808)|An attacker can trigger an overload of gorilla/schema, via Sparse Slice Deserialization, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/provd-privilege-escalation-via-Environment-Variables-44807" class="noirorange"><b>provd</b>: privilege escalation via Environment Variables</a>](https://vigilance.fr/vulnerability/provd-privilege-escalation-via-Environment-Variables-44807)|An attacker can bypass restrictions of provd, via Environment Variables, in order to escalate his privileges...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lock-get-status-44798" class="noirorange"><b>Linux kernel</b>: use after free via lock_get_status()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-lock-get-status-44798)|An attacker can force the reuse of a freed memory area of the Linux kernel, via lock_get_status(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f9035-i2c-master-xfer-45105" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via f9035_i2c_master_<wbr>xfer()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-f9035-i2c-master-xfer-45105)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via f9035_i2c_master_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-ActiveMQ-code-execution-via-Jolokia-44797" class="noirorange"><b>Apache ActiveMQ</b>: code execution via Jolokia</a>](https://vigilance.fr/vulnerability/Apache-ActiveMQ-code-execution-via-Jolokia-44797)|An attacker can use a vulnerability of Apache ActiveMQ, via Jolokia, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-open-redirect-via-Urlparse-45103" class="noirorange"><b>Python Core</b>: open redirect via Urlparse</a>](https://vigilance.fr/vulnerability/Python-Core-open-redirect-via-Urlparse-45103)|An attacker can deceive the user of Python Core, via Urlparse, in order to redirect him to a malicious site...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
