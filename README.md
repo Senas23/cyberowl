@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/09/2024 21:21:17 UTC
+ > Last Updated 27/09/2024 09:25:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Security-Kit-denial-of-service-dated-12-09-2024-45140" class="noirorange"><b>Drupal Security Kit</b>: denial of service dated 12/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-Security-Kit-denial-of-service-dated-12-09-2024-45140)|An attacker can cause a fatal error of Drupal Security Kit, dated 12/09/2024, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NLTK-code-execution-via-Integrated-Data-Package-Download-44818" class="noirorange"><b>NLTK</b>: code execution via Integrated Data Package Download</a>](https://vigilance.fr/vulnerability/NLTK-code-execution-via-Integrated-Data-Package-Download-44818)|An attacker can use a vulnerability of NLTK, via Integrated Data Package Download, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Mac-privilege-escalation-dated-26-07-2024-44816" class="noirorange"><b>WithSecure Endpoint Protection Mac</b>: privilege escalation dated 26/07/2024</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Mac-privilege-escalation-dated-26-07-2024-44816)|An attacker can bypass restrictions of WithSecure Endpoint Protection Mac, dated 26/07/2024, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Balises-Code-44815" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Balises Code</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Balises-Code-44815)|An attacker can trigger a Cross Site Scripting of SPIP, via Balises Code, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-25-07-2024-44811" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 25/07/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-25-07-2024-44811)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 25/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809" class="noirorange"><b>libxml2</b>: external XML entity injection dated 24/07/2024</a>](https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809)|An attacker can transmit malicious XML data to libxml2, dated 24/07/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gorilla-schema-overload-via-Sparse-Slice-Deserialization-44808" class="noirorange"><b>gorilla/schema</b>: overload via Sparse Slice Deserialization</a>](https://vigilance.fr/vulnerability/gorilla-schema-overload-via-Sparse-Slice-Deserialization-44808)|An attacker can trigger an overload of gorilla/schema, via Sparse Slice Deserialization, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/provd-privilege-escalation-via-Environment-Variables-44807" class="noirorange"><b>provd</b>: privilege escalation via Environment Variables</a>](https://vigilance.fr/vulnerability/provd-privilege-escalation-via-Environment-Variables-44807)|An attacker can bypass restrictions of provd, via Environment Variables, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-user-access-via-AuthZ-Bypass-44805" class="noirorange"><b>Docker Engine</b>: user access via AuthZ Bypass</a>](https://vigilance.fr/vulnerability/Docker-Engine-user-access-via-AuthZ-Bypass-44805)|An attacker can bypass restrictions of Docker Engine, via AuthZ Bypass, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-macidn-44800" class="noirorange"><b>cURL</b>: out-of-bounds memory reading via macidn</a>](https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-macidn-44800)|An attacker can force a read at an invalid memory address of cURL, via macidn, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/NLTK-code-execution-via-Integrated-Data-Package-Download-44818" class="noirorange"><b>NLTK</b>: code execution via Integrated Data Package Download</a>](https://vigilance.fr/vulnerability/NLTK-code-execution-via-Integrated-Data-Package-Download-44818)|An attacker can use a vulnerability of NLTK, via Integrated Data Package Download, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Mac-privilege-escalation-dated-26-07-2024-44816" class="noirorange"><b>WithSecure Endpoint Protection Mac</b>: privilege escalation dated 26/07/2024</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Mac-privilege-escalation-dated-26-07-2024-44816)|An attacker can bypass restrictions of WithSecure Endpoint Protection Mac, dated 26/07/2024, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Balises-Code-44815" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Balises Code</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Balises-Code-44815)|An attacker can trigger a Cross Site Scripting of SPIP, via Balises Code, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-25-07-2024-44811" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 25/07/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-25-07-2024-44811)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 25/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809" class="noirorange"><b>libxml2</b>: external XML entity injection dated 24/07/2024</a>](https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809)|An attacker can transmit malicious XML data to libxml2, dated 24/07/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gorilla-schema-overload-via-Sparse-Slice-Deserialization-44808" class="noirorange"><b>gorilla/schema</b>: overload via Sparse Slice Deserialization</a>](https://vigilance.fr/vulnerability/gorilla-schema-overload-via-Sparse-Slice-Deserialization-44808)|An attacker can trigger an overload of gorilla/schema, via Sparse Slice Deserialization, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/provd-privilege-escalation-via-Environment-Variables-44807" class="noirorange"><b>provd</b>: privilege escalation via Environment Variables</a>](https://vigilance.fr/vulnerability/provd-privilege-escalation-via-Environment-Variables-44807)|An attacker can bypass restrictions of provd, via Environment Variables, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-user-access-via-AuthZ-Bypass-44805" class="noirorange"><b>Docker Engine</b>: user access via AuthZ Bypass</a>](https://vigilance.fr/vulnerability/Docker-Engine-user-access-via-AuthZ-Bypass-44805)|An attacker can bypass restrictions of Docker Engine, via AuthZ Bypass, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-macidn-44800" class="noirorange"><b>cURL</b>: out-of-bounds memory reading via macidn</a>](https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-macidn-44800)|An attacker can force a read at an invalid memory address of cURL, via macidn, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-use-after-free-via-utf8asn1str-44799" class="noirorange"><b>cURL</b>: use after free via utf8asn1str()</a>](https://vigilance.fr/vulnerability/cURL-use-after-free-via-utf8asn1str-44799)|An attacker can force the reuse of a freed memory area of cURL, via utf8asn1str(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
