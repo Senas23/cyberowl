@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/09/2024 09:22:38 UTC
+ > Last Updated 28/09/2024 21:20:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Links-Internal-Macros-43192" class="noirorange"><b>Apache OpenOffice</b>: code execution via Links Internal Macros</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Links-Internal-Macros-43192)|An attacker can use a vulnerability of Apache OpenOffice, via Links Internal Macros, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/runc-file-creation-45151" class="noirorange"><b>runc</b>: file creation</a>](https://vigilance.fr/vulnerability/runc-file-creation-45151)|An attacker can make runc create files or directories...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Security-Kit-denial-of-service-dated-12-09-2024-45140" class="noirorange"><b>Drupal Security Kit</b>: denial of service dated 12/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-Security-Kit-denial-of-service-dated-12-09-2024-45140)|An attacker can cause a fatal error of Drupal Security Kit, dated 12/09/2024, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NLTK-code-execution-via-Integrated-Data-Package-Download-44818" class="noirorange"><b>NLTK</b>: code execution via Integrated Data Package Download</a>](https://vigilance.fr/vulnerability/NLTK-code-execution-via-Integrated-Data-Package-Download-44818)|An attacker can use a vulnerability of NLTK, via Integrated Data Package Download, in order to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809" class="noirorange"><b>libxml2</b>: external XML entity injection dated 24/07/2024</a>](https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809)|An attacker can transmit malicious XML data to libxml2, dated 24/07/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gorilla-schema-overload-via-Sparse-Slice-Deserialization-44808" class="noirorange"><b>gorilla/schema</b>: overload via Sparse Slice Deserialization</a>](https://vigilance.fr/vulnerability/gorilla-schema-overload-via-Sparse-Slice-Deserialization-44808)|An attacker can trigger an overload of gorilla/schema, via Sparse Slice Deserialization, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/provd-privilege-escalation-via-Environment-Variables-44807" class="noirorange"><b>provd</b>: privilege escalation via Environment Variables</a>](https://vigilance.fr/vulnerability/provd-privilege-escalation-via-Environment-Variables-44807)|An attacker can bypass restrictions of provd, via Environment Variables, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-user-access-via-AuthZ-Bypass-44805" class="noirorange"><b>Docker Engine</b>: user access via AuthZ Bypass</a>](https://vigilance.fr/vulnerability/Docker-Engine-user-access-via-AuthZ-Bypass-44805)|An attacker can bypass restrictions of Docker Engine, via AuthZ Bypass, in order to gain user privileges...|Visit link for details|
  
  ---
 
