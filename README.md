@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/09/2024 21:20:20 UTC
+ > Last Updated 30/09/2024 09:27:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/containerized-data-importer-Cross-Site-Scripting-dated-30-07-2024-44827" class="noirorange"><b>containerized-data-<wbr>importer</wbr></b>: Cross Site Scripting dated 30/07/2024</a>](https://vigilance.fr/vulnerability/containerized-data-importer-Cross-Site-Scripting-dated-30-07-2024-44827)|An attacker can trigger a Cross Site Scripting of containerized-data-|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-four-vulnerabilities-dated-30-07-2024-44825" class="noirorange"><b>Avast Antivirus</b>: four vulnerabilities dated 30/07/2024</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-four-vulnerabilities-dated-30-07-2024-44825)|An attacker can use several vulnerabilities of Avast Antivirus, dated 30/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-FabricOS-information-disclosure-via-SNMP-Clear-Text-Passwords-44836" class="noirorange"><b>Brocade FabricOS</b>: information disclosure via SNMP Clear Text Passwords</a>](https://vigilance.fr/vulnerability/Brocade-FabricOS-information-disclosure-via-SNMP-Clear-Text-Passwords-44836)|An attacker can bypass access restrictions to data of Brocade FabricOS, via SNMP Clear Text Passwords, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-code-execution-via-Brocade-6547-SNMP-44835" class="noirorange"><b>Brocade Fabric OS</b>: code execution via Brocade 6547 SNMP</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-code-execution-via-Brocade-6547-SNMP-44835)|An attacker can use a vulnerability of Brocade Fabric OS, via Brocade 6547 SNMP, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-ASN-1-Date-Parser-44834" class="noirorange"><b>cURL</b>: out-of-bounds memory reading via ASN.1 Date Parser</a>](https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-ASN-1-Date-Parser-44834)|An attacker can force a read at an invalid memory address of cURL, via ASN.1 Date Parser, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-ClearPass-Policy-Manager-three-vulnerabilities-dated-31-07-2024-44833" class="noirorange"><b>HPE Aruba ClearPass Policy Manager</b>: three vulnerabilities dated 31/07/2024</a>](https://vigilance.fr/vulnerability/HPE-Aruba-ClearPass-Policy-Manager-three-vulnerabilities-dated-31-07-2024-44833)|An attacker can use several vulnerabilities of HPE Aruba ClearPass Policy Manager, dated 31/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-07-2024-44823" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-07-2024-44823)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-read-write-access-via-socket-socketpair-44822" class="noirorange"><b>Python Core</b>: read-write access via socket.socketpair()</a>](https://vigilance.fr/vulnerability/Python-Core-read-write-access-via-socket-socketpair-44822)|An attacker can bypass access restrictions of Python Core, via socket.socketpair(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-node-ip-ingress-filtrering-bypass-via-isPublic-44832" class="noirorange"><b>Node.js node-ip</b>: ingress filtrering bypass via isPublic()</a>](https://vigilance.fr/vulnerability/Node-js-node-ip-ingress-filtrering-bypass-via-isPublic-44832)|An attacker can bypass filtering rules of Node.js node-ip, via isPublic(), in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-31-07-2024-44831" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 31/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-31-07-2024-44831)|An attacker can use several vulnerabilities of the Linux kernel, dated 31/07/2024...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0816/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 26 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0815/)|De multiples vulnérabilités ont été découvertes dans les produits Synology. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 26 septembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 26 septembre 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-AppImage-Environment-Variables-44821" class="noirorange"><b>ImageMagick</b>: code execution via AppImage Environment Variables</a>](https://vigilance.fr/vulnerability/ImageMagick-code-execution-via-AppImage-Environment-Variables-44821)|An attacker can use a vulnerability of ImageMagick, via AppImage Environment Variables, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Assimp-buffer-overflow-dated-29-07-2024-44819" class="noirorange"><b>Assimp</b>: buffer overflow dated 29/07/2024</a>](https://vigilance.fr/vulnerability/Assimp-buffer-overflow-dated-29-07-2024-44819)|An attacker can trigger a buffer overflow of Assimp, dated 29/07/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Links-Internal-Macros-43192" class="noirorange"><b>Apache OpenOffice</b>: code execution via Links Internal Macros</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Links-Internal-Macros-43192)|An attacker can use a vulnerability of Apache OpenOffice, via Links Internal Macros, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/runc-file-creation-45151" class="noirorange"><b>runc</b>: file creation</a>](https://vigilance.fr/vulnerability/runc-file-creation-45151)|An attacker can make runc create files or directories...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Security-Kit-denial-of-service-dated-12-09-2024-45140" class="noirorange"><b>Drupal Security Kit</b>: denial of service dated 12/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-Security-Kit-denial-of-service-dated-12-09-2024-45140)|An attacker can cause a fatal error of Drupal Security Kit, dated 12/09/2024, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NLTK-code-execution-via-Integrated-Data-Package-Download-44818" class="noirorange"><b>NLTK</b>: code execution via Integrated Data Package Download</a>](https://vigilance.fr/vulnerability/NLTK-code-execution-via-Integrated-Data-Package-Download-44818)|An attacker can use a vulnerability of NLTK, via Integrated Data Package Download, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Mac-privilege-escalation-dated-26-07-2024-44816" class="noirorange"><b>WithSecure Endpoint Protection Mac</b>: privilege escalation dated 26/07/2024</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Mac-privilege-escalation-dated-26-07-2024-44816)|An attacker can bypass restrictions of WithSecure Endpoint Protection Mac, dated 26/07/2024, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Balises-Code-44815" class="noirorange"><b>SPIP</b>: Cross Site Scripting via Balises Code</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-via-Balises-Code-44815)|An attacker can trigger a Cross Site Scripting of SPIP, via Balises Code, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-25-07-2024-44811" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 25/07/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-25-07-2024-44811)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 25/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809" class="noirorange"><b>libxml2</b>: external XML entity injection dated 24/07/2024</a>](https://vigilance.fr/vulnerability/libxml2-external-XML-entity-injection-dated-24-07-2024-44809)|An attacker can transmit malicious XML data to libxml2, dated 24/07/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  
  ---
 
