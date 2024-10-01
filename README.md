@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/09/2024 21:21:33 UTC
+ > Last Updated 01/10/2024 09:25:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/REXML-overload-dated-01-08-2024-44850" class="noirorange"><b>REXML</b>: overload dated 01/08/2024</a>](https://vigilance.fr/vulnerability/REXML-overload-dated-01-08-2024-44850)|An attacker can trigger an overload of REXML, dated 01/08/2024, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/snapd-file-write-via-Symbolic-Links-44849" class="noirorange"><b>snapd</b>: file write via Symbolic Links</a>](https://vigilance.fr/vulnerability/snapd-file-write-via-Symbolic-Links-44849)|An attacker can bypass access restrictions of snapd, via Symbolic Links, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Forensic-Recorder-Service-Symbolic-Link-44846" class="noirorange"><b>ZoneAlarm Extreme Security</b>: privilege escalation via Forensic Recorder Service Symbolic Link</a>](https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Forensic-Recorder-Service-Symbolic-Link-44846)|An attacker can bypass restrictions of ZoneAlarm Extreme Security, via Forensic Recorder Service Symbolic Link, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-File-Uploads-44845" class="noirorange"><b>Ibexa DXP</b>: Cross Site Scripting via File Uploads</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-File-Uploads-44845)|An attacker can trigger a Cross Site Scripting of Ibexa DXP, via File Uploads, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-information-disclosure-via-Certutil-Private-Key-44844" class="noirorange"><b>Elasticsearch</b>: information disclosure via Certutil Private Key</a>](https://vigilance.fr/vulnerability/Elasticsearch-information-disclosure-via-Certutil-Private-Key-44844)|An attacker can bypass access restrictions to data of Elasticsearch, via Certutil Private Key, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ORC-buffer-overflow-via-orcparse-c-44829" class="noirorange"><b>ORC</b>: buffer overflow via orcparse.c</a>](https://vigilance.fr/vulnerability/ORC-buffer-overflow-via-orcparse-c-44829)|An attacker can trigger a buffer overflow of ORC, via orcparse.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-four-vulnerabilities-dated-30-07-2024-44825" class="noirorange"><b>Avast Antivirus</b>: four vulnerabilities dated 30/07/2024</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-four-vulnerabilities-dated-30-07-2024-44825)|An attacker can use several vulnerabilities of Avast Antivirus, dated 30/07/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Brocade-FabricOS-information-disclosure-via-SNMP-Clear-Text-Passwords-44836" class="noirorange"><b>Brocade FabricOS</b>: information disclosure via SNMP Clear Text Passwords</a>](https://vigilance.fr/vulnerability/Brocade-FabricOS-information-disclosure-via-SNMP-Clear-Text-Passwords-44836)|An attacker can bypass access restrictions to data of Brocade FabricOS, via SNMP Clear Text Passwords, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-code-execution-via-Brocade-6547-SNMP-44835" class="noirorange"><b>Brocade Fabric OS</b>: code execution via Brocade 6547 SNMP</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-code-execution-via-Brocade-6547-SNMP-44835)|An attacker can use a vulnerability of Brocade Fabric OS, via Brocade 6547 SNMP, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-ASN-1-Date-Parser-44834" class="noirorange"><b>cURL</b>: out-of-bounds memory reading via ASN.1 Date Parser</a>](https://vigilance.fr/vulnerability/cURL-out-of-bounds-memory-reading-via-ASN-1-Date-Parser-44834)|An attacker can force a read at an invalid memory address of cURL, via ASN.1 Date Parser, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-ClearPass-Policy-Manager-three-vulnerabilities-dated-31-07-2024-44833" class="noirorange"><b>HPE Aruba ClearPass Policy Manager</b>: three vulnerabilities dated 31/07/2024</a>](https://vigilance.fr/vulnerability/HPE-Aruba-ClearPass-Policy-Manager-three-vulnerabilities-dated-31-07-2024-44833)|An attacker can use several vulnerabilities of HPE Aruba ClearPass Policy Manager, dated 31/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-07-2024-44823" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-07-2024-44823)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/07/2024...|Visit link for details|
  
  ---
 
