@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/10/2024 21:23:48 UTC
+ > Last Updated 03/10/2024 09:24:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,13 +24,6 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -58,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209" class="noirorange"><b>Slurm</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209)|An attacker can use several vulnerabilities of Slurm...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-ingress-filtrering-bypass-via-mail-Newline-Header-Injection-44856" class="noirorange"><b>PHP</b>: ingress filtrering bypass via mail() Newline Header Injection</a>](https://vigilance.fr/vulnerability/PHP-ingress-filtrering-bypass-via-mail-Newline-Header-Injection-44856)|An attacker can bypass filtering rules of PHP, via mail() Newline Header Injection, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204" class="noirorange"><b>Deepin-Compressor</b>: code execution via Zip Path Traversal</a>](https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204)|An attacker can use a vulnerability of Deepin-Compressor, via Zip Path Traversal, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseExcel-code-execution-via-eval-43198" class="noirorange"><b>Perl Spreadsheet-<wbr>ParseExcel</wbr></b>: code execution via eval</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseExcel-code-execution-via-eval-43198)|An attacker can use a vulnerability of Perl Spreadsheet::|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/snapd-file-write-via-Symbolic-Links-44849" class="noirorange"><b>snapd</b>: file write via Symbolic Links</a>](https://vigilance.fr/vulnerability/snapd-file-write-via-Symbolic-Links-44849)|An attacker can bypass access restrictions of snapd, via Symbolic Links, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Forensic-Recorder-Service-Symbolic-Link-44846" class="noirorange"><b>ZoneAlarm Extreme Security</b>: privilege escalation via Forensic Recorder Service Symbolic Link</a>](https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Forensic-Recorder-Service-Symbolic-Link-44846)|An attacker can bypass restrictions of ZoneAlarm Extreme Security, via Forensic Recorder Service Symbolic Link, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-File-Uploads-44845" class="noirorange"><b>Ibexa DXP</b>: Cross Site Scripting via File Uploads</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-File-Uploads-44845)|An attacker can trigger a Cross Site Scripting of Ibexa DXP, via File Uploads, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-information-disclosure-via-Certutil-Private-Key-44844" class="noirorange"><b>Elasticsearch</b>: information disclosure via Certutil Private Key</a>](https://vigilance.fr/vulnerability/Elasticsearch-information-disclosure-via-Certutil-Private-Key-44844)|An attacker can bypass access restrictions to data of Elasticsearch, via Certutil Private Key, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
