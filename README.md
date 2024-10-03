@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/10/2024 09:24:53 UTC
+ > Last Updated 03/10/2024 21:22:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209" class="noirorange"><b>Slurm</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209)|An attacker can use several vulnerabilities of Slurm...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-ingress-filtrering-bypass-via-mail-Newline-Header-Injection-44856" class="noirorange"><b>PHP</b>: ingress filtrering bypass via mail() Newline Header Injection</a>](https://vigilance.fr/vulnerability/PHP-ingress-filtrering-bypass-via-mail-Newline-Header-Injection-44856)|An attacker can bypass filtering rules of PHP, via mail() Newline Header Injection, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204" class="noirorange"><b>Deepin-Compressor</b>: code execution via Zip Path Traversal</a>](https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204)|An attacker can use a vulnerability of Deepin-Compressor, via Zip Path Traversal, in order to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/REXML-overload-dated-01-08-2024-44850" class="noirorange"><b>REXML</b>: overload dated 01/08/2024</a>](https://vigilance.fr/vulnerability/REXML-overload-dated-01-08-2024-44850)|An attacker can trigger an overload of REXML, dated 01/08/2024, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/snapd-file-write-via-Symbolic-Links-44849" class="noirorange"><b>snapd</b>: file write via Symbolic Links</a>](https://vigilance.fr/vulnerability/snapd-file-write-via-Symbolic-Links-44849)|An attacker can bypass access restrictions of snapd, via Symbolic Links, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Forensic-Recorder-Service-Symbolic-Link-44846" class="noirorange"><b>ZoneAlarm Extreme Security</b>: privilege escalation via Forensic Recorder Service Symbolic Link</a>](https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Forensic-Recorder-Service-Symbolic-Link-44846)|An attacker can bypass restrictions of ZoneAlarm Extreme Security, via Forensic Recorder Service Symbolic Link, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-File-Uploads-44845" class="noirorange"><b>Ibexa DXP</b>: Cross Site Scripting via File Uploads</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-File-Uploads-44845)|An attacker can trigger a Cross Site Scripting of Ibexa DXP, via File Uploads, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
