@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/10/2024 21:22:03 UTC
+ > Last Updated 04/10/2024 09:23:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0833/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 03 octobre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0832/)|Une vulnérabilité a été découverte dans Sophos Intercept X. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 03 octobre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0831/)|De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 03 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0830/)|De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 02 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0829/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 02 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0828/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 02 octobre 2024|
@@ -41,9 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0826/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 01 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0825/)|Une vulnérabilité a été découverte dans NetApp StorageGRID. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service.|Publié le 01 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0824/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Editor. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 30 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0823/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 27 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0822/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 27 septembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0821/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 27 septembre 2024|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209" class="noirorange"><b>Slurm</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209)|An attacker can use several vulnerabilities of Slurm...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-ingress-filtrering-bypass-via-mail-Newline-Header-Injection-44856" class="noirorange"><b>PHP</b>: ingress filtrering bypass via mail() Newline Header Injection</a>](https://vigilance.fr/vulnerability/PHP-ingress-filtrering-bypass-via-mail-Newline-Header-Injection-44856)|An attacker can bypass filtering rules of PHP, via mail() Newline Header Injection, in order to send malicious data...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-Serialized-Email-Header-Newlines-Injection-44852" class="noirorange"><b>Python Core</b>: ingress filtrering bypass via Serialized Email Header Newlines Injection</a>](https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-Serialized-Email-Header-Newlines-Injection-44852)|An attacker can bypass filtering rules of Python Core, via Serialized Email Header Newlines Injection, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/REXML-overload-dated-01-08-2024-44850" class="noirorange"><b>REXML</b>: overload dated 01/08/2024</a>](https://vigilance.fr/vulnerability/REXML-overload-dated-01-08-2024-44850)|An attacker can trigger an overload of REXML, dated 01/08/2024, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/snapd-file-write-via-Symbolic-Links-44849" class="noirorange"><b>snapd</b>: file write via Symbolic Links</a>](https://vigilance.fr/vulnerability/snapd-file-write-via-Symbolic-Links-44849)|An attacker can bypass access restrictions of snapd, via Symbolic Links, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Forensic-Recorder-Service-Symbolic-Link-44846" class="noirorange"><b>ZoneAlarm Extreme Security</b>: privilege escalation via Forensic Recorder Service Symbolic Link</a>](https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Forensic-Recorder-Service-Symbolic-Link-44846)|An attacker can bypass restrictions of ZoneAlarm Extreme Security, via Forensic Recorder Service Symbolic Link, in order to escalate his privileges...|Visit link for details|
  
  ---
 
