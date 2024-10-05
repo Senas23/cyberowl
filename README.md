@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/10/2024 09:25:38 UTC
+ > Last Updated 05/10/2024 21:20:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/tgt-privilege-escalation-via-lack-of-randomness-45193" class="noirorange"><b>tgt</b>: privilege escalation via lack of randomness</a>](https://vigilance.fr/vulnerability/tgt-privilege-escalation-via-lack-of-randomness-45193)|An attacker can bypass restrictions of tgt, via lack of randomness, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222" class="noirorange"><b>libaom</b>: buffer overflow via av1_loop_<wbr>restoration_dealloc(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222)|An attacker can trigger a buffer overflow of libaom, via av1_loop_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209" class="noirorange"><b>Slurm</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209)|An attacker can use several vulnerabilities of Slurm...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-ingress-filtrering-bypass-via-mail-Newline-Header-Injection-44856" class="noirorange"><b>PHP</b>: ingress filtrering bypass via mail() Newline Header Injection</a>](https://vigilance.fr/vulnerability/PHP-ingress-filtrering-bypass-via-mail-Newline-Header-Injection-44856)|An attacker can bypass filtering rules of PHP, via mail() Newline Header Injection, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204" class="noirorange"><b>Deepin-Compressor</b>: code execution via Zip Path Traversal</a>](https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204)|An attacker can use a vulnerability of Deepin-Compressor, via Zip Path Traversal, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseExcel-code-execution-via-eval-43198" class="noirorange"><b>Perl Spreadsheet-<wbr>ParseExcel</wbr></b>: code execution via eval</a>](https://vigilance.fr/vulnerability/Perl-Spreadsheet-ParseExcel-code-execution-via-eval-43198)|An attacker can use a vulnerability of Perl Spreadsheet::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-sndiod-44854" class="noirorange"><b>OpenBSD</b>: out-of-bounds memory reading via sndiod</a>](https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-sndiod-44854)|An attacker can force a read at an invalid memory address of OpenBSD, via sndiod, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-Serialized-Email-Header-Newlines-Injection-44852" class="noirorange"><b>Python Core</b>: ingress filtrering bypass via Serialized Email Header Newlines Injection</a>](https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-Serialized-Email-Header-Newlines-Injection-44852)|An attacker can bypass filtering rules of Python Core, via Serialized Email Header Newlines Injection, in order to send malicious data...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0834/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 04 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0833/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 03 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0832/)|Une vulnérabilité a été découverte dans Sophos Intercept X. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 03 octobre 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-user-access-via-SQL-Injection-43225" class="noirorange"><b>Ivanti Endpoint Manager</b>: user access via SQL Injection</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-user-access-via-SQL-Injection-43225)|An attacker can bypass restrictions of Ivanti Endpoint Manager, via SQL Injection, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-memory-reading-via-virtqueue-push-45200" class="noirorange"><b>QEMU</b>: memory reading via virtqueue_push</a>](https://vigilance.fr/vulnerability/QEMU-memory-reading-via-virtqueue-push-45200)|An attacker, in a guest system, can read a memory fragment of QEMU, via virtqueue_push, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-open-redirect-via-http-localhost-45196" class="noirorange"><b>Keycloak</b>: open redirect via http://localhost</a>](https://vigilance.fr/vulnerability/Keycloak-open-redirect-via-http-localhost-45196)|An attacker can deceive the user of Keycloak, via http://localhost, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tgt-privilege-escalation-via-lack-of-randomness-45193" class="noirorange"><b>tgt</b>: privilege escalation via lack of randomness</a>](https://vigilance.fr/vulnerability/tgt-privilege-escalation-via-lack-of-randomness-45193)|An attacker can bypass restrictions of tgt, via lack of randomness, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222" class="noirorange"><b>libaom</b>: buffer overflow via av1_loop_<wbr>restoration_dealloc(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222)|An attacker can trigger a buffer overflow of libaom, via av1_loop_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209" class="noirorange"><b>Slurm</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Slurm-six-vulnerabilities-43209)|An attacker can use several vulnerabilities of Slurm...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-ingress-filtrering-bypass-via-mail-Newline-Header-Injection-44856" class="noirorange"><b>PHP</b>: ingress filtrering bypass via mail() Newline Header Injection</a>](https://vigilance.fr/vulnerability/PHP-ingress-filtrering-bypass-via-mail-Newline-Header-Injection-44856)|An attacker can bypass filtering rules of PHP, via mail() Newline Header Injection, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204" class="noirorange"><b>Deepin-Compressor</b>: code execution via Zip Path Traversal</a>](https://vigilance.fr/vulnerability/Deepin-Compressor-code-execution-via-Zip-Path-Traversal-43204)|An attacker can use a vulnerability of Deepin-Compressor, via Zip Path Traversal, in order to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
