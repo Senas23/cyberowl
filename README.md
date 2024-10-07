@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/10/2024 21:21:00 UTC
+ > Last Updated 07/10/2024 09:25:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Django-four-vulnerabilities-dated-07-08-2024-44871" class="noirorange"><b>Django</b>: four vulnerabilities dated 07/08/2024</a>](https://vigilance.fr/vulnerability/Django-four-vulnerabilities-dated-07-08-2024-44871)|An attacker can use several vulnerabilities of Django, dated 07/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libnbd-Man-in-the-Middle-dated-06-08-2024-44868" class="noirorange"><b>libnbd</b>: Man-in-the-Middle dated 06/08/2024</a>](https://vigilance.fr/vulnerability/libnbd-Man-in-the-Middle-dated-06-08-2024-44868)|An attacker can act as a Man-in-the-Middle on libnbd, dated 06/08/2024, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Poly-Clariti-Manager-multiple-vulnerabilities-dated-06-08-2024-44863" class="noirorange"><b>Poly Clariti Manager</b>: multiple vulnerabilities dated 06/08/2024</a>](https://vigilance.fr/vulnerability/Poly-Clariti-Manager-multiple-vulnerabilities-dated-06-08-2024-44863)|An attacker can use several vulnerabilities of Poly Clariti Manager, dated 06/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Twisted-Cross-Site-Scripting-via-Redirect-Response-HTML-Body-44861" class="noirorange"><b>Twisted</b>: Cross Site Scripting via Redirect Response HTML Body</a>](https://vigilance.fr/vulnerability/Twisted-Cross-Site-Scripting-via-Redirect-Response-HTML-Body-44861)|An attacker can trigger a Cross Site Scripting of Twisted, via Redirect Response HTML Body, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/tgt-privilege-escalation-via-lack-of-randomness-45193" class="noirorange"><b>tgt</b>: privilege escalation via lack of randomness</a>](https://vigilance.fr/vulnerability/tgt-privilege-escalation-via-lack-of-randomness-45193)|An attacker can bypass restrictions of tgt, via lack of randomness, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222" class="noirorange"><b>libaom</b>: buffer overflow via av1_loop_<wbr>restoration_dealloc(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/libaom-buffer-overflow-via-av1-loop-restoration-dealloc-43222)|An attacker can trigger a buffer overflow of libaom, via av1_loop_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43220)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  
  ---
 
