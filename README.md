@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/10/2024 21:21:51 UTC
+ > Last Updated 08/10/2024 09:24:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-08-2024-44891" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 08/08/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-08-2024-44891)|An attacker can use several vulnerabilities of the Linux kernel, dated 08/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Opigno-Learning-Path-code-execution-via-Manage-Group-Content-44890" class="noirorange"><b>Drupal Opigno Learning Path</b>: code execution via Manage Group Content</a>](https://vigilance.fr/vulnerability/Drupal-Opigno-Learning-Path-code-execution-via-Manage-Group-Content-44890)|An attacker can use a vulnerability of Drupal Opigno Learning Path, via Manage Group Content, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Opigno-Module-file-upload-via-Tincan-Activities-44889" class="noirorange"><b>Drupal Opigno Module</b>: file upload via Tincan Activities</a>](https://vigilance.fr/vulnerability/Drupal-Opigno-Module-file-upload-via-Tincan-Activities-44889)|An attacker can upload a malicious file on Drupal Opigno Module, via Tincan Activities, in order for example to upload a Trojan...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Opigno-Group-Manager-code-execution-via-Administration-Form-44888" class="noirorange"><b>Drupal Opigno Group Manager</b>: code execution via Administration Form</a>](https://vigilance.fr/vulnerability/Drupal-Opigno-Group-Manager-code-execution-via-Administration-Form-44888)|An attacker can use a vulnerability of Drupal Opigno Group Manager, via Administration Form, in order to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-Setuid-Ktrace-Undetached-44882" class="noirorange"><b>FreeBSD</b>: information disclosure via Setuid Ktrace Undetached</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-Setuid-Ktrace-Undetached-44882)|An attacker can bypass access restrictions to data of FreeBSD, via Setuid Ktrace Undetached, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Different-ICMPv6-States-44881" class="noirorange"><b>FreeBSD</b>: ingress filtrering bypass via Pf Different ICMPv6 States</a>](https://vigilance.fr/vulnerability/FreeBSD-ingress-filtrering-bypass-via-Pf-Different-ICMPv6-States-44881)|An attacker can bypass filtering rules of FreeBSD, via Pf Different ICMPv6 States, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-privilege-escalation-via-Windows-Untrusted-Directory-44880" class="noirorange"><b>MongoDB Server</b>: privilege escalation via Windows Untrusted Directory</a>](https://vigilance.fr/vulnerability/MongoDB-Server-privilege-escalation-via-Windows-Untrusted-Directory-44880)|An attacker can bypass restrictions of MongoDB Server, via Windows Untrusted Directory, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-load-input-picture-44878" class="noirorange"><b>FFmpeg</b>: buffer overflow via load_input_picture()</a>](https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-load-input-picture-44878)|An attacker can trigger a buffer overflow of FFmpeg, via load_input_picture()|Visit link for details|
  
  ---
 
