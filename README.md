@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/10/2024 09:23:20 UTC
+ > Last Updated 12/10/2024 21:23:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,13 +51,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0867/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une élévation de privilèges, un contournement de la politique de sécurité et un déni de service.|Publié le 11 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0866/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 10 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0865/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Mozilla indique que la vulnérabilité CVE-2024-9680 est activement exploitée.|Publié le 10 octobre 2024|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
