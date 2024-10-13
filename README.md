@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/10/2024 21:23:04 UTC
+ > Last Updated 13/10/2024 09:23:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Qt-memory-corruption-via-QStringDecoder-44911" class="noirorange"><b>Qt</b>: memory corruption via QStringDecoder</a>](https://vigilance.fr/vulnerability/Qt-memory-corruption-via-QStringDecoder-44911)|An attacker can trigger a memory corruption of Qt, via QStringDecoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-MSR-SMM-44909" class="noirorange"><b>AMD Processors</b>: read-write access via MSR SMM</a>](https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-MSR-SMM-44909)|An attacker, in a guest system, can bypass access restrictions of AMD Processors, via MSR SMM, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278" class="noirorange"><b>Microsoft Edge Chromium</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-Extended-Search-Request-44908" class="noirorange"><b>389 Directory Server</b>: denial of service via Extended Search Request</a>](https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-Extended-Search-Request-44908)|An attacker can cause a fatal error of 389 Directory Server, via Extended Search Request, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSC-six-vulnerabilities-dated-26-09-2024-45231" class="noirorange"><b>OpenSC</b>: six vulnerabilities dated 26/09/2024</a>](https://vigilance.fr/vulnerability/OpenSC-six-vulnerabilities-dated-26-09-2024-45231)|An attacker can use several vulnerabilities of OpenSC, dated 26/09/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274" class="noirorange"><b>Cisco IronPort Email  Secure Email Gateway</b>: memory corruption via Contentscanner Document Filters</a>](https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274)|An attacker can trigger a memory corruption of Cisco IronPort Email  Secure Email Gateway, via Contentscanner Document Filters, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268" class="noirorange"><b>Cisco Unity Connection</b>: file upload</a>](https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268)|An attacker can upload a malicious file on Cisco Unity Connection, in order for example to upload a Trojan...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-Large-DNS-Messages-43266" class="noirorange"><b>ISC BIND</b>: overload via Large DNS Messages</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-Large-DNS-Messages-43266)|An attacker can trigger an overload of ISC BIND, via Large DNS Messages, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via Extensions</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via Extensions, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -54,20 +64,10 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-MSR-SMM-44909" class="noirorange"><b>AMD Processors</b>: read-write access via MSR SMM</a>](https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-MSR-SMM-44909)|An attacker, in a guest system, can bypass access restrictions of AMD Processors, via MSR SMM, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278" class="noirorange"><b>Microsoft Edge Chromium</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-four-vulnerabilities-43278)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-Extended-Search-Request-44908" class="noirorange"><b>389 Directory Server</b>: denial of service via Extended Search Request</a>](https://vigilance.fr/vulnerability/389-Directory-Server-denial-of-service-via-Extended-Search-Request-44908)|An attacker can cause a fatal error of 389 Directory Server, via Extended Search Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-six-vulnerabilities-dated-26-09-2024-45231" class="noirorange"><b>OpenSC</b>: six vulnerabilities dated 26/09/2024</a>](https://vigilance.fr/vulnerability/OpenSC-six-vulnerabilities-dated-26-09-2024-45231)|An attacker can use several vulnerabilities of OpenSC, dated 26/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274" class="noirorange"><b>Cisco IronPort Email  Secure Email Gateway</b>: memory corruption via Contentscanner Document Filters</a>](https://vigilance.fr/vulnerability/Cisco-IronPort-Email-Secure-Email-Gateway-memory-corruption-via-Contentscanner-Document-Filters-43274)|An attacker can trigger a memory corruption of Cisco IronPort Email  Secure Email Gateway, via Contentscanner Document Filters, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-43270)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268" class="noirorange"><b>Cisco Unity Connection</b>: file upload</a>](https://vigilance.fr/vulnerability/Cisco-Unity-Connection-file-upload-43268)|An attacker can upload a malicious file on Cisco Unity Connection, in order for example to upload a Trojan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-Large-DNS-Messages-43266" class="noirorange"><b>ISC BIND</b>: overload via Large DNS Messages</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-Large-DNS-Messages-43266)|An attacker can trigger an overload of ISC BIND, via Large DNS Messages, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via Extensions</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-Extensions-43260)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via Extensions, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43258)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
  
  ---
 
