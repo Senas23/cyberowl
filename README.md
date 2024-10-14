@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/10/2024 09:26:12 UTC
+ > Last Updated 14/10/2024 21:21:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-privilege-escalation-via-Protection-Mechanism-Failure-44938" class="noirorange"><b>Intel Xeon Processor</b>: privilege escalation via Protection Mechanism Failure</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-privilege-escalation-via-Protection-Mechanism-Failure-44938)|An attacker can bypass restrictions of Intel Xeon Processor, via Protection Mechanism Failure, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-dated-14-08-2024-44934" class="noirorange"><b>AMD Processor</b>: multiple vulnerabilities dated 14/08/2024</a>](https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-dated-14-08-2024-44934)|An attacker can use several vulnerabilities of AMD Processor, dated 14/08/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-TDX-Module-Software-privilege-escalation-dated-14-08-2024-44932" class="noirorange"><b>Intel TDX Module Software</b>: privilege escalation dated 14/08/2024</a>](https://vigilance.fr/vulnerability/Intel-TDX-Module-Software-privilege-escalation-dated-14-08-2024-44932)|An attacker can bypass restrictions of Intel TDX Module Software, dated 14/08/2024, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-Stream-Cache-44930" class="noirorange"><b>Intel Processor</b>: privilege escalation via Stream Cache</a>](https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-Stream-Cache-44930)|An attacker can bypass restrictions of Intel Processor, via Stream Cache, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Teams-for-iOS-spoofing-dated-13-08-2024-44924" class="noirorange"><b>Microsoft Teams for iOS</b>: spoofing dated 13/08/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Teams-for-iOS-spoofing-dated-13-08-2024-44924)|An attacker can create spoofed data on Microsoft Teams for iOS, dated 13/08/2024, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-GUI-Console-WebSockets-44921" class="noirorange"><b>FortiOS</b>: user access via GUI Console WebSockets</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-GUI-Console-WebSockets-44921)|An attacker can bypass restrictions of FortiOS, via GUI Console WebSockets, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-file-write-via-Real-time-File-System-Integrity-44919" class="noirorange"><b>FortiOS</b>: file write via Real-time File System Integrity</a>](https://vigilance.fr/vulnerability/FortiOS-file-write-via-Real-time-File-System-Integrity-44919)|An attacker can bypass access restrictions of FortiOS, via Real-time File System Integrity, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-file-reading-via-Hot-Backup-Files-44915" class="noirorange"><b>MongoDB</b>: file reading via Hot Backup Files</a>](https://vigilance.fr/vulnerability/MongoDB-file-reading-via-Hot-Backup-Files-44915)|An attacker can read a file of MongoDB, via Hot Backup Files, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-memory-corruption-via-QStringDecoder-44911" class="noirorange"><b>Qt</b>: memory corruption via QStringDecoder</a>](https://vigilance.fr/vulnerability/Qt-memory-corruption-via-QStringDecoder-44911)|An attacker can trigger a memory corruption of Qt, via QStringDecoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-MSR-SMM-44909" class="noirorange"><b>AMD Processors</b>: read-write access via MSR SMM</a>](https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-MSR-SMM-44909)|An attacker, in a guest system, can bypass access restrictions of AMD Processors, via MSR SMM, in order to read or alter data...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0867/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une élévation de privilèges, un contournement de la politique de sécurité et un déni de service.|Publié le 11 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0866/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 10 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0865/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Mozilla indique que la vulnérabilité CVE-2024-9680 est activement exploitée.|Publié le 10 octobre 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-RichText-Fields-44952" class="noirorange"><b>Ibexa DXP</b>: Cross Site Scripting via RichText Fields</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-RichText-Fields-44952)|An attacker can trigger a Cross Site Scripting of Ibexa DXP, via RichText Fields, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-via-Swagger-queryConfigEnabled-44950" class="noirorange"><b>Grafana</b>: Cross Site Scripting via Swagger queryConfigEnabled</a>](https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-via-Swagger-queryConfigEnabled-44950)|An attacker can trigger a Cross Site Scripting of Grafana, via Swagger queryConfigEnabled, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Spring-Expression-Language-44949" class="noirorange"><b>Spring Framework</b>: denial of service via Spring Expression Language</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Spring-Expression-Language-44949)|An attacker can cause a fatal error of Spring Framework, via Spring Expression Language, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Traditional-spoofing-dated-14-08-2024-44946" class="noirorange"><b>WebSphere AS Traditional</b>: spoofing dated 14/08/2024</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Traditional-spoofing-dated-14-08-2024-44946)|An attacker can create spoofed data on WebSphere AS Traditional, dated 14/08/2024, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Liberty-spoofing-dated-14-08-2024-44945" class="noirorange"><b>WebSphere AS Liberty</b>: spoofing dated 14/08/2024</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Liberty-spoofing-dated-14-08-2024-44945)|An attacker can create spoofed data on WebSphere AS Liberty, dated 14/08/2024, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-PCI-Device-Pass-through-44943" class="noirorange"><b>Xen</b>: memory corruption via PCI Device Pass-through</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-PCI-Device-Pass-through-44943)|An attacker, in a guest system, can trigger a memory corruption of Xen, via PCI Device Pass-through, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-IOMMU-Identity-Mapping-44942" class="noirorange"><b>Xen</b>: memory corruption via X86 IOMMU Identity Mapping</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-IOMMU-Identity-Mapping-44942)|An attacker, in a guest system, can trigger a memory corruption of Xen, via X86 IOMMU Identity Mapping, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Latchset-Jose-overload-via-Large-PBES2-Count-44939" class="noirorange"><b>Latchset Jose</b>: overload via Large PBES2 Count</a>](https://vigilance.fr/vulnerability/Latchset-Jose-overload-via-Large-PBES2-Count-44939)|An attacker can trigger an overload of Latchset Jose, via Large PBES2 Count, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-privilege-escalation-via-Protection-Mechanism-Failure-44938" class="noirorange"><b>Intel Xeon Processor</b>: privilege escalation via Protection Mechanism Failure</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-privilege-escalation-via-Protection-Mechanism-Failure-44938)|An attacker can bypass restrictions of Intel Xeon Processor, via Protection Mechanism Failure, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-dated-14-08-2024-44934" class="noirorange"><b>AMD Processor</b>: multiple vulnerabilities dated 14/08/2024</a>](https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-dated-14-08-2024-44934)|An attacker can use several vulnerabilities of AMD Processor, dated 14/08/2024...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
