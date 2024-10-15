@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/10/2024 21:21:43 UTC
+ > Last Updated 15/10/2024 09:25:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/zziplibv-buffer-overflow-via-zzip-fetch-disk-trailer-44956" class="noirorange"><b>zziplibv</b>: buffer overflow via __zzip_fetch_disk_<wbr>trailer()</wbr></a>](https://vigilance.fr/vulnerability/zziplibv-buffer-overflow-via-zzip-fetch-disk-trailer-44956)|An attacker can trigger a buffer overflow of zziplibv, via __zzip_fetch_disk_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vm-fault-gtt-44955" class="noirorange"><b>Linux kernel</b>: buffer overflow via vm_fault_gtt()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vm-fault-gtt-44955)|An attacker can trigger a buffer overflow of the Linux kernel, via vm_fault_gtt(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Flatpak-file-read-write-via-Persistent-Directories-Mounts-44953" class="noirorange"><b>Flatpak</b>: file read/write via Persistent Directories Mounts</a>](https://vigilance.fr/vulnerability/Flatpak-file-read-write-via-Persistent-Directories-Mounts-44953)|An attacker can bypass access restrictions of Flatpak, via Persistent Directories Mounts, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-RichText-Fields-44952" class="noirorange"><b>Ibexa DXP</b>: Cross Site Scripting via RichText Fields</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-RichText-Fields-44952)|An attacker can trigger a Cross Site Scripting of Ibexa DXP, via RichText Fields, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-via-Swagger-queryConfigEnabled-44950" class="noirorange"><b>Grafana</b>: Cross Site Scripting via Swagger queryConfigEnabled</a>](https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-via-Swagger-queryConfigEnabled-44950)|An attacker can trigger a Cross Site Scripting of Grafana, via Swagger queryConfigEnabled, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Spring-Expression-Language-44949" class="noirorange"><b>Spring Framework</b>: denial of service via Spring Expression Language</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Spring-Expression-Language-44949)|An attacker can cause a fatal error of Spring Framework, via Spring Expression Language, in order to trigger a denial of service...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Liberty-spoofing-dated-14-08-2024-44945" class="noirorange"><b>WebSphere AS Liberty</b>: spoofing dated 14/08/2024</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Liberty-spoofing-dated-14-08-2024-44945)|An attacker can create spoofed data on WebSphere AS Liberty, dated 14/08/2024, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-PCI-Device-Pass-through-44943" class="noirorange"><b>Xen</b>: memory corruption via PCI Device Pass-through</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-PCI-Device-Pass-through-44943)|An attacker, in a guest system, can trigger a memory corruption of Xen, via PCI Device Pass-through, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-IOMMU-Identity-Mapping-44942" class="noirorange"><b>Xen</b>: memory corruption via X86 IOMMU Identity Mapping</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-IOMMU-Identity-Mapping-44942)|An attacker, in a guest system, can trigger a memory corruption of Xen, via X86 IOMMU Identity Mapping, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Latchset-Jose-overload-via-Large-PBES2-Count-44939" class="noirorange"><b>Latchset Jose</b>: overload via Large PBES2 Count</a>](https://vigilance.fr/vulnerability/Latchset-Jose-overload-via-Large-PBES2-Count-44939)|An attacker can trigger an overload of Latchset Jose, via Large PBES2 Count, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-privilege-escalation-via-Protection-Mechanism-Failure-44938" class="noirorange"><b>Intel Xeon Processor</b>: privilege escalation via Protection Mechanism Failure</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-privilege-escalation-via-Protection-Mechanism-Failure-44938)|An attacker can bypass restrictions of Intel Xeon Processor, via Protection Mechanism Failure, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-dated-14-08-2024-44934" class="noirorange"><b>AMD Processor</b>: multiple vulnerabilities dated 14/08/2024</a>](https://vigilance.fr/vulnerability/AMD-Processor-multiple-vulnerabilities-dated-14-08-2024-44934)|An attacker can use several vulnerabilities of AMD Processor, dated 14/08/2024...|Visit link for details|
  
  ---
 
