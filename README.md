@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/10/2024 09:25:54 UTC
+ > Last Updated 16/10/2024 21:23:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300" class="noirorange"><b>Synology DSM</b>: code execution via Patch</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300)|An attacker can use a vulnerability of Synology DSM, via Patch, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293" class="noirorange"><b>Atlassian Confluence Server/DC</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293)|An attacker can use several vulnerabilities of Atlassian Confluence Server/DC...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apptainer-file-deletion-via-Container-Network-Setup-44962" class="noirorange"><b>Apptainer</b>: file deletion via Container Network Setup</a>](https://vigilance.fr/vulnerability/Apptainer-file-deletion-via-Container-Network-Setup-44962)|An attacker, in a guest system, can bypass access restrictions of Apptainer, via Container Network Setup, in order to delete a file...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apptainer-use-after-free-via-ext4-44961" class="noirorange"><b>Apptainer</b>: use after free via ext4</a>](https://vigilance.fr/vulnerability/Apptainer-use-after-free-via-ext4-44961)|An attacker can force the reuse of a freed memory area of Apptainer, via ext4, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -43,7 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/zziplibv-buffer-overflow-via-zzip-fetch-disk-trailer-44956" class="noirorange"><b>zziplibv</b>: buffer overflow via __zzip_fetch_disk_<wbr>trailer()</wbr></a>](https://vigilance.fr/vulnerability/zziplibv-buffer-overflow-via-zzip-fetch-disk-trailer-44956)|An attacker can trigger a buffer overflow of zziplibv, via __zzip_fetch_disk_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vm-fault-gtt-44955" class="noirorange"><b>Linux kernel</b>: buffer overflow via vm_fault_gtt()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vm-fault-gtt-44955)|An attacker can trigger a buffer overflow of the Linux kernel, via vm_fault_gtt(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Flatpak-file-read-write-via-Persistent-Directories-Mounts-44953" class="noirorange"><b>Flatpak</b>: file read/write via Persistent Directories Mounts</a>](https://vigilance.fr/vulnerability/Flatpak-file-read-write-via-Persistent-Directories-Mounts-44953)|An attacker can bypass access restrictions of Flatpak, via Persistent Directories Mounts, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-RichText-Fields-44952" class="noirorange"><b>Ibexa DXP</b>: Cross Site Scripting via RichText Fields</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-RichText-Fields-44952)|An attacker can trigger a Cross Site Scripting of Ibexa DXP, via RichText Fields, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
