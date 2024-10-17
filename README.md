@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/10/2024 21:23:06 UTC
+ > Last Updated 17/10/2024 09:25:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,29 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 16 octobre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0891/)|Une vulnérabilité a été découverte dans Synacor Zimbra Desktop. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 octobre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 16 octobre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0889/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 16 octobre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0888/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 octobre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0887/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 octobre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0886/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 octobre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0885/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 octobre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0884/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 octobre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0883/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 octobre 2024|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300" class="noirorange"><b>Synology DSM</b>: code execution via Patch</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300)|An attacker can use a vulnerability of Synology DSM, via Patch, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293" class="noirorange"><b>Atlassian Confluence Server/DC</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293)|An attacker can use several vulnerabilities of Atlassian Confluence Server/DC...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apptainer-file-deletion-via-Container-Network-Setup-44962" class="noirorange"><b>Apptainer</b>: file deletion via Container Network Setup</a>](https://vigilance.fr/vulnerability/Apptainer-file-deletion-via-Container-Network-Setup-44962)|An attacker, in a guest system, can bypass access restrictions of Apptainer, via Container Network Setup, in order to delete a file...|Visit link for details|
@@ -42,25 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/aiosmtpd-ingress-filtrering-bypass-via-SMTP-Smuggling-44959" class="noirorange"><b>aiosmtpd</b>: ingress filtrering bypass via SMTP Smuggling</a>](https://vigilance.fr/vulnerability/aiosmtpd-ingress-filtrering-bypass-via-SMTP-Smuggling-44959)|An attacker can bypass filtering rules of aiosmtpd, via SMTP Smuggling, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-privilege-escalation-dated-16-08-2024-44957" class="noirorange"><b>Microsoft Edge Chromium</b>: privilege escalation dated 16/08/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-privilege-escalation-dated-16-08-2024-44957)|An attacker can bypass restrictions of Microsoft Edge Chromium, dated 16/08/2024, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/zziplibv-buffer-overflow-via-zzip-fetch-disk-trailer-44956" class="noirorange"><b>zziplibv</b>: buffer overflow via __zzip_fetch_disk_<wbr>trailer()</wbr></a>](https://vigilance.fr/vulnerability/zziplibv-buffer-overflow-via-zzip-fetch-disk-trailer-44956)|An attacker can trigger a buffer overflow of zziplibv, via __zzip_fetch_disk_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vm-fault-gtt-44955" class="noirorange"><b>Linux kernel</b>: buffer overflow via vm_fault_gtt()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vm-fault-gtt-44955)|An attacker can trigger a buffer overflow of the Linux kernel, via vm_fault_gtt(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flatpak-file-read-write-via-Persistent-Directories-Mounts-44953" class="noirorange"><b>Flatpak</b>: file read/write via Persistent Directories Mounts</a>](https://vigilance.fr/vulnerability/Flatpak-file-read-write-via-Persistent-Directories-Mounts-44953)|An attacker can bypass access restrictions of Flatpak, via Persistent Directories Mounts, in order to read or alter files...|Visit link for details|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0878/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 15 octobre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0877/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 octobre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0876/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 14 octobre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0875/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 14 octobre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0874/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 11 octobre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 octobre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0872/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 11 octobre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0871/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 11 octobre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0870/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 11 octobre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0869/)|Une vulnérabilité a été découverte dans Mozilla Thunderbird. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Mozilla indique que la vulnérabilité CVE-2024-9680 est activement exploitée.|Publié le 11 octobre 2024|
  
  ---
 
