@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/10/2024 21:23:00 UTC
+ > Last Updated 18/10/2024 09:25:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321" class="noirorange"><b>GTKWave</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GTKWave-multiple-vulnerabilities-43321)|An attacker can use several vulnerabilities of GTKWave...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Golang-FIPS-OpenSSL-memory-reading-via-FIPS-Mode-45283" class="noirorange"><b>Golang FIPS OpenSSL</b>: memory reading via FIPS Mode</a>](https://vigilance.fr/vulnerability/Golang-FIPS-OpenSSL-memory-reading-via-FIPS-Mode-45283)|An attacker can read a memory fragment of Golang FIPS OpenSSL, via FIPS Mode, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Persistent-Login-user-access-via-Unexpired-Cookie-45280" class="noirorange"><b>Drupal Persistent Login</b>: user access via Unexpired Cookie</a>](https://vigilance.fr/vulnerability/Drupal-Persistent-Login-user-access-via-Unexpired-Cookie-45280)|An attacker can bypass restrictions of Drupal Persistent Login, via Unexpired Cookie, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Diff-information-disclosure-dated-02-10-2024-45278" class="noirorange"><b>Drupal Diff</b>: information disclosure dated 02/10/2024</a>](https://vigilance.fr/vulnerability/Drupal-Diff-information-disclosure-dated-02-10-2024-45278)|An attacker can bypass access restrictions to data of Drupal Diff, dated 02/10/2024, in order to read sensitive information...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2024-43307)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2024-43305)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300" class="noirorange"><b>Synology DSM</b>: code execution via Patch</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Patch-43300)|An attacker can use a vulnerability of Synology DSM, via Patch, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293" class="noirorange"><b>Atlassian Confluence Server/DC</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-multiple-vulnerabilities-43293)|An attacker can use several vulnerabilities of Atlassian Confluence Server/DC...|Visit link for details|
  
  ---
 
