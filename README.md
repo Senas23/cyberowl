@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/10/2024 21:20:51 UTC
+ > Last Updated 21/10/2024 09:26:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-08-2024-44991" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 21/08/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-08-2024-44991)|An attacker can use several vulnerabilities of the Linux kernel, dated 21/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-20-08-2024-44990" class="noirorange"><b>Atlassian Confluence Server/DC</b>: Cross Site Scripting dated 20/08/2024</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-20-08-2024-44990)|An attacker can trigger a Cross Site Scripting of Atlassian Confluence Server/DC, dated 20/08/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Outputfilter-strip-44989" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via Outputfilter::strip</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Outputfilter-strip-44989)|An attacker can trigger a Cross Site Scripting of Joomla Core, via Outputfilter::strip, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-HTML-Mail-Templates-44987" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via HTML Mail Templates</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-HTML-Mail-Templates-44987)|An attacker can trigger a Cross Site Scripting of Joomla Core, via HTML Mail Templates, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Office-for-macOS-five-vulnerabilities-dated-19-08-2024-44979" class="noirorange"><b>Microsoft Office for macOS</b>: five vulnerabilities dated 19/08/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Office-for-macOS-five-vulnerabilities-dated-19-08-2024-44979)|An attacker can use several vulnerabilities of Microsoft Office for macOS, dated 19/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Teams-for-macOS-three-vulnerabilities-dated-19-08-2024-44978" class="noirorange"><b>Microsoft Teams for macOS</b>: three vulnerabilities dated 19/08/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Teams-for-macOS-three-vulnerabilities-dated-19-08-2024-44978)|An attacker can use several vulnerabilities of Microsoft Teams for macOS, dated 19/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-Cookies-With-Backslashes-44975" class="noirorange"><b>Python Core</b>: overload via Cookies With Backslashes</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-Cookies-With-Backslashes-44975)|An attacker can trigger an overload of Python Core, via Cookies With Backslashes, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/tqdm-code-execution-via-eval-44974" class="noirorange"><b>tqdm</b>: code execution via eval()</a>](https://vigilance.fr/vulnerability/tqdm-code-execution-via-eval-44974)|An attacker can use a vulnerability of tqdm, via eval(), in order to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
