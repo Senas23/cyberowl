@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/10/2024 09:24:38 UTC
+ > Last Updated 22/10/2024 21:21:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -47,24 +54,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-43343)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-REXML-overload-via-Deep-Elements-Same-Local-Name-Attributes-45001" class="noirorange"><b>Ruby REXML</b>: overload via Deep Elements Same Local Name Attributes</a>](https://vigilance.fr/vulnerability/Ruby-REXML-overload-via-Deep-Elements-Same-Local-Name-Attributes-45001)|An attacker can trigger an overload of Ruby REXML, via Deep Elements Same Local Name Attributes, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-four-vulnerabilities-dated-22-08-2024-44999" class="noirorange"><b>GitLab CE/EE</b>: four vulnerabilities dated 22/08/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-four-vulnerabilities-dated-22-08-2024-44999)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 22/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-08-2024-44998" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 22/08/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-08-2024-44998)|An attacker can use several vulnerabilities of the Linux kernel, dated 22/08/2024...|Visit link for details|
@@ -74,5 +68,11 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-Cross-Site-Scripting-dated-21-08-2024-44994" class="noirorange"><b>Cisco Unified Communications Manager</b>: Cross Site Scripting dated 21/08/2024</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-Cross-Site-Scripting-dated-21-08-2024-44994)|An attacker can trigger a Cross Site Scripting of Cisco Unified Communications Manager, dated 21/08/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-08-2024-44991" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 21/08/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-08-2024-44991)|An attacker can use several vulnerabilities of the Linux kernel, dated 21/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-20-08-2024-44990" class="noirorange"><b>Atlassian Confluence Server/DC</b>: Cross Site Scripting dated 20/08/2024</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-Cross-Site-Scripting-dated-20-08-2024-44990)|An attacker can trigger a Cross Site Scripting of Atlassian Confluence Server/DC, dated 20/08/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Outputfilter-strip-44989" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via Outputfilter::strip</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Outputfilter-strip-44989)|An attacker can trigger a Cross Site Scripting of Joomla Core, via Outputfilter::strip, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
