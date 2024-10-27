@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/10/2024 09:22:07 UTC
+ > Last Updated 27/10/2024 21:21:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,6 +24,13 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,6 +58,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/TeamViewer-information-disclosure-via-Meeting-Session-Clipboard-Sharing-45026" class="noirorange"><b>TeamViewer</b>: information disclosure via Meeting Session Clipboard Sharing</a>](https://vigilance.fr/vulnerability/TeamViewer-information-disclosure-via-Meeting-Session-Clipboard-Sharing-45026)|An attacker can bypass access restrictions to data of TeamViewer, via Meeting Session Clipboard Sharing, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-code-execution-via-Shared-Libraries-45025" class="noirorange"><b>MongoDB Server</b>: code execution via Shared Libraries</a>](https://vigilance.fr/vulnerability/MongoDB-Server-code-execution-via-Shared-Libraries-45025)|An attacker can use a vulnerability of MongoDB Server, via Shared Libraries, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Powermail-two-vulnerabilities-dated-27-08-2024-45024" class="noirorange"><b>TYPO3 Powermail</b>: two vulnerabilities dated 27/08/2024</a>](https://vigilance.fr/vulnerability/TYPO3-Powermail-two-vulnerabilities-dated-27-08-2024-45024)|An attacker can use several vulnerabilities of TYPO3 Powermail, dated 27/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-27-08-2024-45023" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 27/08/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-27-08-2024-45023)|An attacker can use several vulnerabilities of the Linux kernel, dated 27/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/html-sanitizer-Cross-Site-Scripting-via-keep-typographic-whitespace-45022" class="noirorange"><b>html-sanitizer</b>: Cross Site Scripting via keep_typographic_<wbr>whitespace</wbr></a>](https://vigilance.fr/vulnerability/html-sanitizer-Cross-Site-Scripting-via-keep-typographic-whitespace-45022)|An attacker can trigger a Cross Site Scripting of html-sanitizer, via keep_typographic_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-APR-core-information-disclosure-via-Named-Shared-Memory-Segments-45021" class="noirorange"><b>Apache APR-core</b>: information disclosure via Named Shared Memory Segments</a>](https://vigilance.fr/vulnerability/Apache-APR-core-information-disclosure-via-Named-Shared-Memory-Segments-45021)|An attacker can bypass access restrictions to data of Apache APR-core, via Named Shared Memory Segments, in order to read sensitive information...|Visit link for details|
@@ -58,16 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-Accept-Encoding-Header-45019" class="noirorange"><b>Apache Traffic Server</b>: write access via Accept-Encoding Header</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-Accept-Encoding-Header-45019)|An attacker can bypass access restrictions of Apache Traffic Server, via Accept-Encoding Header, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-Malformed-HTTP-Chunked-Trailer-Section-45018" class="noirorange"><b>Apache Traffic Server</b>: header injection via Malformed HTTP Chunked Trailer Section</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-Malformed-HTTP-Chunked-Trailer-Section-45018)|An attacker can add new headers on Apache Traffic Server, via Malformed HTTP Chunked Trailer Section, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-HTTP-Field-Names-45017" class="noirorange"><b>Apache Traffic Server</b>: header injection via HTTP Field Names</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-HTTP-Field-Names-45017)|An attacker can add new headers on Apache Traffic Server, via HTTP Field Names, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Admin-Log-Module-45015" class="noirorange"><b>OTRS Help Desk</b>: logged sensitive information via Admin Log Module</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Admin-Log-Module-45015)|An attacker can read logs of OTRS Help Desk, via Admin Log Module, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386" class="noirorange"><b>Junos OS</b>: four vulnerabilities via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386)|An attacker can use several vulnerabilities of Junos OS, via J-Web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-usb-usbip-vhci-hcd-c-45012" class="noirorange"><b>Linux kernel</b>: memory corruption via usb/usbip/vhci_hcd.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-usb-usbip-vhci-hcd-c-45012)|An attacker can trigger a memory corruption of the Linux kernel, via usb/usbip/vhci_hcd.|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
