@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/10/2024 21:21:25 UTC
+ > Last Updated 27/10/2024 09:22:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-27-08-2024-45023" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 27/08/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-27-08-2024-45023)|An attacker can use several vulnerabilities of the Linux kernel, dated 27/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/html-sanitizer-Cross-Site-Scripting-via-keep-typographic-whitespace-45022" class="noirorange"><b>html-sanitizer</b>: Cross Site Scripting via keep_typographic_<wbr>whitespace</wbr></a>](https://vigilance.fr/vulnerability/html-sanitizer-Cross-Site-Scripting-via-keep-typographic-whitespace-45022)|An attacker can trigger a Cross Site Scripting of html-sanitizer, via keep_typographic_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-APR-core-information-disclosure-via-Named-Shared-Memory-Segments-45021" class="noirorange"><b>Apache APR-core</b>: information disclosure via Named Shared Memory Segments</a>](https://vigilance.fr/vulnerability/Apache-APR-core-information-disclosure-via-Named-Shared-Memory-Segments-45021)|An attacker can bypass access restrictions to data of Apache APR-core, via Named Shared Memory Segments, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Percona-Server-for-MySQL-integer-overflow-via-sql-item-sum-cc-45020" class="noirorange"><b>Percona Server for MySQL</b>: integer overflow via sql/item_sum.cc</a>](https://vigilance.fr/vulnerability/Percona-Server-for-MySQL-integer-overflow-via-sql-item-sum-cc-45020)|An attacker can trigger an integer overflow of Percona Server for MySQL, via sql/item_sum.cc, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Admin-Log-Module-45015" class="noirorange"><b>OTRS Help Desk</b>: logged sensitive information via Admin Log Module</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-logged-sensitive-information-via-Admin-Log-Module-45015)|An attacker can read logs of OTRS Help Desk, via Admin Log Module, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386" class="noirorange"><b>Junos OS</b>: four vulnerabilities via J-Web</a>](https://vigilance.fr/vulnerability/Junos-OS-four-vulnerabilities-via-J-Web-43386)|An attacker can use several vulnerabilities of Junos OS, via J-Web...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-usb-usbip-vhci-hcd-c-45012" class="noirorange"><b>Linux kernel</b>: memory corruption via usb/usbip/vhci_hcd.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-usb-usbip-vhci-hcd-c-45012)|An attacker can trigger a memory corruption of the Linux kernel, via usb/usbip/vhci_hcd.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385" class="noirorange"><b>Microsoft Edge Chromium</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-43385)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  
  ---
 
