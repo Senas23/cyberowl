@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/10/2024 21:21:07 UTC
+ > Last Updated 28/10/2024 09:25:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,13 +24,6 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -58,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-d3-color-overload-via-Parsing-Backtracking-45030" class="noirorange"><b>Node.js d3-color</b>: overload via Parsing Backtracking</a>](https://vigilance.fr/vulnerability/Node-js-d3-color-overload-via-Parsing-Backtracking-45030)|An attacker can trigger an overload of Node.js d3-color, via Parsing Backtracking, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/KDE-KCron-code-execution-via-Temporary-File-45028" class="noirorange"><b>KDE KCron</b>: code execution via Temporary File</a>](https://vigilance.fr/vulnerability/KDE-KCron-code-execution-via-Temporary-File-45028)|An attacker can use a vulnerability of KDE KCron, via Temporary File, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/keepalived-integer-overflow-via-vrrp-ipsets-handler-45027" class="noirorange"><b>keepalived</b>: integer overflow via vrrp_ipsets_handler(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/keepalived-integer-overflow-via-vrrp-ipsets-handler-45027)|An attacker can trigger an integer overflow of keepalived, via vrrp_ipsets_handler(|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TeamViewer-information-disclosure-via-Meeting-Session-Clipboard-Sharing-45026" class="noirorange"><b>TeamViewer</b>: information disclosure via Meeting Session Clipboard Sharing</a>](https://vigilance.fr/vulnerability/TeamViewer-information-disclosure-via-Meeting-Session-Clipboard-Sharing-45026)|An attacker can bypass access restrictions to data of TeamViewer, via Meeting Session Clipboard Sharing, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-code-execution-via-Shared-Libraries-45025" class="noirorange"><b>MongoDB Server</b>: code execution via Shared Libraries</a>](https://vigilance.fr/vulnerability/MongoDB-Server-code-execution-via-Shared-Libraries-45025)|An attacker can use a vulnerability of MongoDB Server, via Shared Libraries, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Powermail-two-vulnerabilities-dated-27-08-2024-45024" class="noirorange"><b>TYPO3 Powermail</b>: two vulnerabilities dated 27/08/2024</a>](https://vigilance.fr/vulnerability/TYPO3-Powermail-two-vulnerabilities-dated-27-08-2024-45024)|An attacker can use several vulnerabilities of TYPO3 Powermail, dated 27/08/2024...|Visit link for details|
@@ -65,9 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/html-sanitizer-Cross-Site-Scripting-via-keep-typographic-whitespace-45022" class="noirorange"><b>html-sanitizer</b>: Cross Site Scripting via keep_typographic_<wbr>whitespace</wbr></a>](https://vigilance.fr/vulnerability/html-sanitizer-Cross-Site-Scripting-via-keep-typographic-whitespace-45022)|An attacker can trigger a Cross Site Scripting of html-sanitizer, via keep_typographic_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-APR-core-information-disclosure-via-Named-Shared-Memory-Segments-45021" class="noirorange"><b>Apache APR-core</b>: information disclosure via Named Shared Memory Segments</a>](https://vigilance.fr/vulnerability/Apache-APR-core-information-disclosure-via-Named-Shared-Memory-Segments-45021)|An attacker can bypass access restrictions to data of Apache APR-core, via Named Shared Memory Segments, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Percona-Server-for-MySQL-integer-overflow-via-sql-item-sum-cc-45020" class="noirorange"><b>Percona Server for MySQL</b>: integer overflow via sql/item_sum.cc</a>](https://vigilance.fr/vulnerability/Percona-Server-for-MySQL-integer-overflow-via-sql-item-sum-cc-45020)|An attacker can trigger an integer overflow of Percona Server for MySQL, via sql/item_sum.cc, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-Accept-Encoding-Header-45019" class="noirorange"><b>Apache Traffic Server</b>: write access via Accept-Encoding Header</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-write-access-via-Accept-Encoding-Header-45019)|An attacker can bypass access restrictions of Apache Traffic Server, via Accept-Encoding Header, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-Malformed-HTTP-Chunked-Trailer-Section-45018" class="noirorange"><b>Apache Traffic Server</b>: header injection via Malformed HTTP Chunked Trailer Section</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-Malformed-HTTP-Chunked-Trailer-Section-45018)|An attacker can add new headers on Apache Traffic Server, via Malformed HTTP Chunked Trailer Section, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-HTTP-Field-Names-45017" class="noirorange"><b>Apache Traffic Server</b>: header injection via HTTP Field Names</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-HTTP-Field-Names-45017)|An attacker can add new headers on Apache Traffic Server, via HTTP Field Names, in order to alter the service behavior...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
