@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/10/2024 21:21:51 UTC
+ > Last Updated 29/10/2024 09:25:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,6 +23,13 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -40,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-NTLMSSP-45038" class="noirorange"><b>Wireshark</b>: denial of service via NTLMSSP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-NTLMSSP-45038)|An attacker can cause a fatal error of Wireshark, via NTLMSSP, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-DHCPv6-Relay-Agent-45035" class="noirorange"><b>Cisco NX-OS</b>: denial of service via DHCPv6 Relay Agent</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-DHCPv6-Relay-Agent-45035)|An attacker can cause a fatal error of Cisco NX-OS, via DHCPv6 Relay Agent, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-Python-Sandbox-Escape-45034" class="noirorange"><b>Cisco NX-OS</b>: privilege escalation via Python Sandbox Escape</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-Python-Sandbox-Escape-45034)|An attacker can bypass restrictions of Cisco NX-OS, via Python Sandbox Escape, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-Command-Injection-45033" class="noirorange"><b>Cisco NX-OS</b>: privilege escalation via Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-Command-Injection-45033)|An attacker can bypass restrictions of Cisco NX-OS, via Command Injection, in order to escalate his privileges...|Visit link for details|
@@ -60,18 +61,17 @@
  |[<a href="https://vigilance.fr/vulnerability/KDE-KCron-code-execution-via-Temporary-File-45028" class="noirorange"><b>KDE KCron</b>: code execution via Temporary File</a>](https://vigilance.fr/vulnerability/KDE-KCron-code-execution-via-Temporary-File-45028)|An attacker can use a vulnerability of KDE KCron, via Temporary File, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/keepalived-integer-overflow-via-vrrp-ipsets-handler-45027" class="noirorange"><b>keepalived</b>: integer overflow via vrrp_ipsets_handler(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/keepalived-integer-overflow-via-vrrp-ipsets-handler-45027)|An attacker can trigger an integer overflow of keepalived, via vrrp_ipsets_handler(|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TeamViewer-information-disclosure-via-Meeting-Session-Clipboard-Sharing-45026" class="noirorange"><b>TeamViewer</b>: information disclosure via Meeting Session Clipboard Sharing</a>](https://vigilance.fr/vulnerability/TeamViewer-information-disclosure-via-Meeting-Session-Clipboard-Sharing-45026)|An attacker can bypass access restrictions to data of TeamViewer, via Meeting Session Clipboard Sharing, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-code-execution-via-Shared-Libraries-45025" class="noirorange"><b>MongoDB Server</b>: code execution via Shared Libraries</a>](https://vigilance.fr/vulnerability/MongoDB-Server-code-execution-via-Shared-Libraries-45025)|An attacker can use a vulnerability of MongoDB Server, via Shared Libraries, in order to run code...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
