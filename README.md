@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/11/2024 09:22:16 UTC
+ > Last Updated 02/11/2024 21:20:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-02-09-2024-45051" class="noirorange"><b>Portal for ArcGIS</b>: multiple vulnerabilities dated 02/09/2024</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-02-09-2024-45051)|An attacker can use several vulnerabilities of Portal for ArcGIS, dated 02/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libpcap-double-free-via-sock-initaddress-45048" class="noirorange"><b>libpcap</b>: double free via sock_initaddress()</a>](https://vigilance.fr/vulnerability/libpcap-double-free-via-sock-initaddress-45048)|An attacker can force a double memory free of libpcap, via sock_initaddress(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-02-09-2024-45047" class="noirorange"><b>Linux kernel</b>: three vulnerabilities dated 02/09/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-02-09-2024-45047)|An attacker can use several vulnerabilities of the Linux kernel, dated 02/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-43432" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-43432)|An attacker can use a vulnerability of Microsoft Edge Chromium, in order to run code...|Visit link for details|
@@ -60,18 +61,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Trivy-information-disclosure-via-Credentials-Leakage-45045" class="noirorange"><b>Trivy</b>: information disclosure via Credentials Leakage</a>](https://vigilance.fr/vulnerability/Trivy-information-disclosure-via-Credentials-Leakage-45045)|An attacker can bypass access restrictions to data of Trivy, via Credentials Leakage, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-TCP-QUEUE-SEQ-45042" class="noirorange"><b>Linux kernel</b>: memory corruption via TCP_QUEUE_SEQ</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-TCP-QUEUE-SEQ-45042)|An attacker can trigger a memory corruption of the Linux kernel, via TCP_QUEUE_SEQ, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401" class="noirorange"><b>OTRS Help Desk</b>: file upload via Avatar Picture</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401)|An attacker can upload a malicious file on OTRS Help Desk, via Avatar Picture, in order for example to upload a Trojan...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-OTP-TimeSeverity-Expiration-45378" class="noirorange"><b>Keycloak</b>: user access via OTP TimeSeverity Expiration</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-OTP-TimeSeverity-Expiration-45378)|An attacker can bypass restrictions of Keycloak, via OTP TimeSeverity Expiration, in order to gain user privileges...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
