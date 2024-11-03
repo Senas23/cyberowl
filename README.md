@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/11/2024 09:23:35 UTC
+ > Last Updated 03/11/2024 21:21:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,27 +51,27 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Django-two-vulnerabilities-dated-03-09-2024-45069" class="noirorange"><b>Django</b>: two vulnerabilities dated 03/09/2024</a>](https://vigilance.fr/vulnerability/Django-two-vulnerabilities-dated-03-09-2024-45069)|An attacker can use several vulnerabilities of Django, dated 03/09/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/aiohttp-directory-traversal-via-Compressed-Static-Routes-45065" class="noirorange"><b>aiohttp</b>: directory traversal via Compressed Static Routes</a>](https://vigilance.fr/vulnerability/aiohttp-directory-traversal-via-Compressed-Static-Routes-45065)|An attacker can traverse directories of aiohttp, via Compressed Static Routes, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-X-509-Name-Checks-45063" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via X.509 Name Checks</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-X-509-Name-Checks-45063)|An attacker can force a read at an invalid memory address of OpenSSL, via X.509 Name Checks, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Elliptic-three-vulnerabilities-via-EDDSA-Signature-Malleability-45061" class="noirorange"><b>Node.js Elliptic</b>: three vulnerabilities via EDDSA Signature Malleability</a>](https://vigilance.fr/vulnerability/Node-js-Elliptic-three-vulnerabilities-via-EDDSA-Signature-Malleability-45061)|An attacker can use several vulnerabilities of Node.js Elliptic, via EDDSA Signature Malleability...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Axios-Server-Side-Request-Forgery-via-Path-Relative-URLs-45060" class="noirorange"><b>Axios</b>: Server-Side Request Forgery via Path Relative URLs</a>](https://vigilance.fr/vulnerability/Axios-Server-Side-Request-Forgery-via-Path-Relative-URLs-45060)|An attacker can trigger a Server-Side Request Forgery of Axios, via Path Relative URLs, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-Tarfile-Headers-Backtracking-45059" class="noirorange"><b>Python Core</b>: overload via Tarfile Headers Backtracking</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-Tarfile-Headers-Backtracking-45059)|An attacker can trigger an overload of Python Core, via Tarfile Headers Backtracking, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fuse-notify-store-45057" class="noirorange"><b>Linux kernel</b>: buffer overflow via fuse_notify_store()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fuse-notify-store-45057)|An attacker can trigger a buffer overflow of the Linux kernel, via fuse_notify_store(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Calibre-directory-traversal-via-link-to-local-path-45055" class="noirorange"><b>Calibre</b>: directory traversal via link_to_local_path()</a>](https://vigilance.fr/vulnerability/Calibre-directory-traversal-via-link-to-local-path-45055)|An attacker can traverse directories of Calibre, via link_to_local_path()|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Calibre-overload-via-html-preprocess-rules-45054" class="noirorange"><b>Calibre</b>: overload via html_preprocess_<wbr>rules()</wbr></a>](https://vigilance.fr/vulnerability/Calibre-overload-via-html-preprocess-rules-45054)|An attacker can trigger an overload of Calibre, via html_preprocess_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-02-09-2024-45051" class="noirorange"><b>Portal for ArcGIS</b>: multiple vulnerabilities dated 02/09/2024</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-02-09-2024-45051)|An attacker can use several vulnerabilities of Portal for ArcGIS, dated 02/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libpcap-double-free-via-sock-initaddress-45048" class="noirorange"><b>libpcap</b>: double free via sock_initaddress()</a>](https://vigilance.fr/vulnerability/libpcap-double-free-via-sock-initaddress-45048)|An attacker can force a double memory free of libpcap, via sock_initaddress(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-02-09-2024-45047" class="noirorange"><b>Linux kernel</b>: three vulnerabilities dated 02/09/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-02-09-2024-45047)|An attacker can use several vulnerabilities of the Linux kernel, dated 02/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-43432" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-43432)|An attacker can use a vulnerability of Microsoft Edge Chromium, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417" class="noirorange"><b>WordPress Core</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/go-getter-Trivy-code-execution-via-Git-Update-45046" class="noirorange"><b>go-getter Trivy</b>: code execution via Git Update</a>](https://vigilance.fr/vulnerability/go-getter-Trivy-code-execution-via-Git-Update-45046)|An attacker can use a vulnerability of go-getter Trivy, via Git Update, in order to run code...|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
