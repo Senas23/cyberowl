@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/11/2024 21:20:33 UTC
+ > Last Updated 03/11/2024 09:23:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fuse-notify-store-45057" class="noirorange"><b>Linux kernel</b>: buffer overflow via fuse_notify_store()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fuse-notify-store-45057)|An attacker can trigger a buffer overflow of the Linux kernel, via fuse_notify_store(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Calibre-directory-traversal-via-link-to-local-path-45055" class="noirorange"><b>Calibre</b>: directory traversal via link_to_local_path()</a>](https://vigilance.fr/vulnerability/Calibre-directory-traversal-via-link-to-local-path-45055)|An attacker can traverse directories of Calibre, via link_to_local_path()|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Calibre-overload-via-html-preprocess-rules-45054" class="noirorange"><b>Calibre</b>: overload via html_preprocess_<wbr>rules()</wbr></a>](https://vigilance.fr/vulnerability/Calibre-overload-via-html-preprocess-rules-45054)|An attacker can trigger an overload of Calibre, via html_preprocess_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-02-09-2024-45051" class="noirorange"><b>Portal for ArcGIS</b>: multiple vulnerabilities dated 02/09/2024</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-02-09-2024-45051)|An attacker can use several vulnerabilities of Portal for ArcGIS, dated 02/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libpcap-double-free-via-sock-initaddress-45048" class="noirorange"><b>libpcap</b>: double free via sock_initaddress()</a>](https://vigilance.fr/vulnerability/libpcap-double-free-via-sock-initaddress-45048)|An attacker can force a double memory free of libpcap, via sock_initaddress(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-02-09-2024-45047" class="noirorange"><b>Linux kernel</b>: three vulnerabilities dated 02/09/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-02-09-2024-45047)|An attacker can use several vulnerabilities of the Linux kernel, dated 02/09/2024...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417" class="noirorange"><b>WordPress Core</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-43417)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-43414)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/go-getter-Trivy-code-execution-via-Git-Update-45046" class="noirorange"><b>go-getter Trivy</b>: code execution via Git Update</a>](https://vigilance.fr/vulnerability/go-getter-Trivy-code-execution-via-Git-Update-45046)|An attacker can use a vulnerability of go-getter Trivy, via Git Update, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trivy-information-disclosure-via-Credentials-Leakage-45045" class="noirorange"><b>Trivy</b>: information disclosure via Credentials Leakage</a>](https://vigilance.fr/vulnerability/Trivy-information-disclosure-via-Credentials-Leakage-45045)|An attacker can bypass access restrictions to data of Trivy, via Credentials Leakage, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-TCP-QUEUE-SEQ-45042" class="noirorange"><b>Linux kernel</b>: memory corruption via TCP_QUEUE_SEQ</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-TCP-QUEUE-SEQ-45042)|An attacker can trigger a memory corruption of the Linux kernel, via TCP_QUEUE_SEQ, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401" class="noirorange"><b>OTRS Help Desk</b>: file upload via Avatar Picture</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-file-upload-via-Avatar-Picture-43401)|An attacker can upload a malicious file on OTRS Help Desk, via Avatar Picture, in order for example to upload a Trojan...|Visit link for details|
  
  ---
 
