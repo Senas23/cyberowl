@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/11/2024 09:27:11 UTC
+ > Last Updated 04/11/2024 21:20:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Brute-Force-Protection-Bypass-45071" class="noirorange"><b>Keycloak</b>: user access via Brute Force Protection Bypass</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Brute-Force-Protection-Bypass-45071)|An attacker can bypass restrictions of Keycloak, via Brute Force Protection Bypass, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-two-vulnerabilities-dated-03-09-2024-45069" class="noirorange"><b>Django</b>: two vulnerabilities dated 03/09/2024</a>](https://vigilance.fr/vulnerability/Django-two-vulnerabilities-dated-03-09-2024-45069)|An attacker can use several vulnerabilities of Django, dated 03/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aiohttp-directory-traversal-via-Compressed-Static-Routes-45065" class="noirorange"><b>aiohttp</b>: directory traversal via Compressed Static Routes</a>](https://vigilance.fr/vulnerability/aiohttp-directory-traversal-via-Compressed-Static-Routes-45065)|An attacker can traverse directories of aiohttp, via Compressed Static Routes, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-X-509-Name-Checks-45063" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via X.509 Name Checks</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-X-509-Name-Checks-45063)|An attacker can force a read at an invalid memory address of OpenSSL, via X.509 Name Checks, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Elliptic-three-vulnerabilities-via-EDDSA-Signature-Malleability-45061" class="noirorange"><b>Node.js Elliptic</b>: three vulnerabilities via EDDSA Signature Malleability</a>](https://vigilance.fr/vulnerability/Node-js-Elliptic-three-vulnerabilities-via-EDDSA-Signature-Malleability-45061)|An attacker can use several vulnerabilities of Node.js Elliptic, via EDDSA Signature Malleability...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Axios-Server-Side-Request-Forgery-via-Path-Relative-URLs-45060" class="noirorange"><b>Axios</b>: Server-Side Request Forgery via Path Relative URLs</a>](https://vigilance.fr/vulnerability/Axios-Server-Side-Request-Forgery-via-Path-Relative-URLs-45060)|An attacker can trigger a Server-Side Request Forgery of Axios, via Path Relative URLs, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-Tarfile-Headers-Backtracking-45059" class="noirorange"><b>Python Core</b>: overload via Tarfile Headers Backtracking</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-Tarfile-Headers-Backtracking-45059)|An attacker can trigger an overload of Python Core, via Tarfile Headers Backtracking, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fuse-notify-store-45057" class="noirorange"><b>Linux kernel</b>: buffer overflow via fuse_notify_store()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-fuse-notify-store-45057)|An attacker can trigger a buffer overflow of the Linux kernel, via fuse_notify_store(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Calibre-directory-traversal-via-link-to-local-path-45055" class="noirorange"><b>Calibre</b>: directory traversal via link_to_local_path()</a>](https://vigilance.fr/vulnerability/Calibre-directory-traversal-via-link-to-local-path-45055)|An attacker can traverse directories of Calibre, via link_to_local_path()|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Calibre-overload-via-html-preprocess-rules-45054" class="noirorange"><b>Calibre</b>: overload via html_preprocess_<wbr>rules()</wbr></a>](https://vigilance.fr/vulnerability/Calibre-overload-via-html-preprocess-rules-45054)|An attacker can trigger an overload of Calibre, via html_preprocess_|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0932/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 30 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0931/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 octobre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0930/)|Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 29 octobre 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ClamAV-two-vulnerabilities-dated-04-09-2024-45079" class="noirorange"><b>ClamAV</b>: two vulnerabilities dated 04/09/2024</a>](https://vigilance.fr/vulnerability/ClamAV-two-vulnerabilities-dated-04-09-2024-45079)|An attacker can use several vulnerabilities of ClamAV, dated 04/09/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-two-vulnerabilities-dated-04-09-2024-45076" class="noirorange"><b>Drupal Open Social</b>: two vulnerabilities dated 04/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-two-vulnerabilities-dated-04-09-2024-45076)|An attacker can use several vulnerabilities of Drupal Open Social, dated 04/09/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Paragraphs-Table-information-disclosure-dated-04-09-2024-45075" class="noirorange"><b>Drupal Paragraphs Table</b>: information disclosure dated 04/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-Paragraphs-Table-information-disclosure-dated-04-09-2024-45075)|An attacker can bypass access restrictions to data of Drupal Paragraphs Table, dated 04/09/2024, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Content-Entity-Clone-information-disclosure-dated-04-09-2024-45074" class="noirorange"><b>Drupal Content Entity Clone</b>: information disclosure dated 04/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-Content-Entity-Clone-information-disclosure-dated-04-09-2024-45074)|An attacker can bypass access restrictions to data of Drupal Content Entity Clone, dated 04/09/2024, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Freelinking-information-disclosure-dated-04-09-2024-45073" class="noirorange"><b>Drupal Freelinking</b>: information disclosure dated 04/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-Freelinking-information-disclosure-dated-04-09-2024-45073)|An attacker can bypass access restrictions to data of Drupal Freelinking, dated 04/09/2024, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Brute-Force-Protection-Bypass-45071" class="noirorange"><b>Keycloak</b>: user access via Brute Force Protection Bypass</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Brute-Force-Protection-Bypass-45071)|An attacker can bypass restrictions of Keycloak, via Brute Force Protection Bypass, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-two-vulnerabilities-dated-03-09-2024-45069" class="noirorange"><b>Django</b>: two vulnerabilities dated 03/09/2024</a>](https://vigilance.fr/vulnerability/Django-two-vulnerabilities-dated-03-09-2024-45069)|An attacker can use several vulnerabilities of Django, dated 03/09/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/aiohttp-directory-traversal-via-Compressed-Static-Routes-45065" class="noirorange"><b>aiohttp</b>: directory traversal via Compressed Static Routes</a>](https://vigilance.fr/vulnerability/aiohttp-directory-traversal-via-Compressed-Static-Routes-45065)|An attacker can traverse directories of aiohttp, via Compressed Static Routes, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-X-509-Name-Checks-45063" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via X.509 Name Checks</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-X-509-Name-Checks-45063)|An attacker can force a read at an invalid memory address of OpenSSL, via X.509 Name Checks, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Elliptic-three-vulnerabilities-via-EDDSA-Signature-Malleability-45061" class="noirorange"><b>Node.js Elliptic</b>: three vulnerabilities via EDDSA Signature Malleability</a>](https://vigilance.fr/vulnerability/Node-js-Elliptic-three-vulnerabilities-via-EDDSA-Signature-Malleability-45061)|An attacker can use several vulnerabilities of Node.js Elliptic, via EDDSA Signature Malleability...|Visit link for details|
  
  ---
 
