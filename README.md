@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/11/2024 09:24:14 UTC
+ > Last Updated 08/11/2024 21:20:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0958/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 08 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0957/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 08 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0956/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 08 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0955/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un contournement de la politique de sécurité et un déni de service.|Publié le 08 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0954/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 08 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0953/)|De multiples vulnérabilités ont été découvertes dans Moxa EDS-P510 Series. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 08 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0952/)|Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 08 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0951/)|De multiples vulnérabilités ont été découvertes Google Pixel. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 07 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0950/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 07 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0949/)|Une vulnérabilité a été découverte dans Veeam Backup & Replication. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 07 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0948/)|De multiples vulnérabilités ont été découvertes dans les produits Symfony. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 06 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0947/)|Une vulnérabilité a été découverte dans NetApp ONTAP Select Deploy administration utility. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 06 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0946/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 06 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0945/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 06 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0944/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Google indique que les vulnérabilités...|Publié le 05 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0943/)|Une vulnérabilité a été découverte dans Qnap QuRouter. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 05 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0942/)|Une vulnérabilité a été découverte dans les produits Broadcom. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 04 novembre 2024|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -61,13 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-res-resolver-unbound-45093" class="noirorange"><b>Asterisk Open Source</b>: denial of service via res_resolver_unbound</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-res-resolver-unbound-45093)|An attacker can cause a fatal error of Asterisk Open Source, via res_resolver_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2024-43444" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2024-43444)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/thymeleaf-spring5-code-execution-via-Template-Injection-43442" class="noirorange"><b>thymeleaf-spring5</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/thymeleaf-spring5-code-execution-via-Template-Injection-43442)|An attacker can use a vulnerability of thymeleaf-spring5, via Template Injection, in order to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
