@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/11/2024 21:20:54 UTC
+ > Last Updated 09/11/2024 09:22:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-fgfmd-Format-String-43469" class="noirorange"><b>FortiOS</b>: memory corruption via fgfmd Format String</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-fgfmd-Format-String-43469)|An attacker can trigger a memory corruption of FortiOS, via fgfmd Format String, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-43466" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-43466)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-aspeed-video-c-1600x900-45104" class="noirorange"><b>Linux kernel</b>: buffer overflow via aspeed-video.c 1600x900</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-aspeed-video-c-1600x900-45104)|An attacker can trigger a buffer overflow of the Linux kernel, via aspeed-video.c 1600x900, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-memory-corruption-via-Windows-ProactorEventLoop-45101" class="noirorange"><b>Python Core</b>: memory corruption via Windows ProactorEventLoop</a>](https://vigilance.fr/vulnerability/Python-Core-memory-corruption-via-Windows-ProactorEventLoop-45101)|An attacker can trigger a memory corruption of Python Core, via Windows ProactorEventLoop, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-Interactive-Asyncio-Audit-Events-45099" class="noirorange"><b>Python Core</b>: ingress filtrering bypass via Interactive / Asyncio Audit Events</a>](https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-Interactive-Asyncio-Audit-Events-45099)|An attacker can bypass filtering rules of Python Core, via Interactive / Asyncio Audit Events, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ClamAV-code-execution-via-VirusEvent-feature-43456" class="noirorange"><b>ClamAV</b>: code execution via VirusEvent feature</a>](https://vigilance.fr/vulnerability/ClamAV-code-execution-via-VirusEvent-feature-43456)|An attacker can use a vulnerability of ClamAV, via VirusEvent feature, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ClamAV-buffer-overflow-via-OLE2-File-Parser-43455" class="noirorange"><b>ClamAV</b>: buffer overflow via OLE2 File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-buffer-overflow-via-OLE2-File-Parser-43455)|An attacker can trigger a buffer overflow of ClamAV, via OLE2 File Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-43449" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-43449)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Java-denial-of-service-via-ORB-Listener-Threads-45098" class="noirorange"><b>IBM Java</b>: denial of service via ORB Listener Threads</a>](https://vigilance.fr/vulnerability/IBM-Java-denial-of-service-via-ORB-Listener-Threads-45098)|An attacker can cause a fatal error of IBM Java, via ORB Listener Threads, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FileZilla-Server-code-execution-via-Install-Outside-Program-Files-45097" class="noirorange"><b>FileZilla Server</b>: code execution via Install Outside Program Files</a>](https://vigilance.fr/vulnerability/FileZilla-Server-code-execution-via-Install-Outside-Program-Files-45097)|An attacker can use a vulnerability of FileZilla Server, via Install Outside Program Files, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Memory-Allocation-45095" class="noirorange"><b>IBM MQ</b>: denial of service via Memory Allocation</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Memory-Allocation-45095)|An attacker can cause a fatal error of IBM MQ, via Memory Allocation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-code-execution-via-Queue-Manager-45094" class="noirorange"><b>IBM MQ  Appliance</b>: code execution via Queue Manager</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-code-execution-via-Queue-Manager-45094)|An attacker can use a vulnerability of IBM MQ  Appliance, via Queue Manager, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-res-resolver-unbound-45093" class="noirorange"><b>Asterisk Open Source</b>: denial of service via res_resolver_unbound</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-res-resolver-unbound-45093)|An attacker can cause a fatal error of Asterisk Open Source, via res_resolver_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2024-43444" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2024-43444)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/thymeleaf-spring5-code-execution-via-Template-Injection-43442" class="noirorange"><b>thymeleaf-spring5</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/thymeleaf-spring5-code-execution-via-Template-Injection-43442)|An attacker can use a vulnerability of thymeleaf-spring5, via Template Injection, in order to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
