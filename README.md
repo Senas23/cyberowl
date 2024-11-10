@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/11/2024 09:21:05 UTC
+ > Last Updated 10/11/2024 21:20:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Socket-IO-denial-of-service-via-Uncaught-Exception-45113" class="noirorange"><b>Socket.IO</b>: denial of service via Uncaught Exception</a>](https://vigilance.fr/vulnerability/Socket-IO-denial-of-service-via-Uncaught-Exception-45113)|An attacker can cause a fatal error of Socket.IO, via Uncaught Exception, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-UX-denial-of-service-via-RPC-45112" class="noirorange"><b>HP-UX</b>: denial of service via RPC</a>](https://vigilance.fr/vulnerability/HP-UX-denial-of-service-via-RPC-45112)|An attacker can cause a fatal error of HP-UX, via RPC, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/wolfSSL-four-vulnerabilities-dated-10-09-2024-45106" class="noirorange"><b>wolfSSL</b>: four vulnerabilities dated 10/09/2024</a>](https://vigilance.fr/vulnerability/wolfSSL-four-vulnerabilities-dated-10-09-2024-45106)|An attacker can use several vulnerabilities of wolfSSL, dated 10/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-May-2023-41222" class="noirorange"><b>Windows</b>: vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-May-2023-41222)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-fgfmd-Format-String-43469" class="noirorange"><b>FortiOS</b>: memory corruption via fgfmd Format String</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-fgfmd-Format-String-43469)|An attacker can trigger a memory corruption of FortiOS, via fgfmd Format String, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-memory-corruption-via-Windows-ProactorEventLoop-45101" class="noirorange"><b>Python Core</b>: memory corruption via Windows ProactorEventLoop</a>](https://vigilance.fr/vulnerability/Python-Core-memory-corruption-via-Windows-ProactorEventLoop-45101)|An attacker can trigger a memory corruption of Python Core, via Windows ProactorEventLoop, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-Interactive-Asyncio-Audit-Events-45099" class="noirorange"><b>Python Core</b>: ingress filtrering bypass via Interactive / Asyncio Audit Events</a>](https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-Interactive-Asyncio-Audit-Events-45099)|An attacker can bypass filtering rules of Python Core, via Interactive / Asyncio Audit Events, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ClamAV-code-execution-via-VirusEvent-feature-43456" class="noirorange"><b>ClamAV</b>: code execution via VirusEvent feature</a>](https://vigilance.fr/vulnerability/ClamAV-code-execution-via-VirusEvent-feature-43456)|An attacker can use a vulnerability of ClamAV, via VirusEvent feature, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-buffer-overflow-via-OLE2-File-Parser-43455" class="noirorange"><b>ClamAV</b>: buffer overflow via OLE2 File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-buffer-overflow-via-OLE2-File-Parser-43455)|An attacker can trigger a buffer overflow of ClamAV, via OLE2 File Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-43449" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-43449)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  
  ---
 
