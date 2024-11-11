@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/11/2024 21:20:45 UTC
+ > Last Updated 11/11/2024 09:25:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/curl-with-GnuTLS-Man-in-the-Middle-via-OCSP-Stapling-45122" class="noirorange"><b>curl with GnuTLS</b>: Man-in-the-Middle via OCSP Stapling</a>](https://vigilance.fr/vulnerability/curl-with-GnuTLS-Man-in-the-Middle-via-OCSP-Stapling-45122)|An attacker can act as a Man-in-the-Middle on curl, via OCSP Stapling, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Socket-IO-denial-of-service-via-Uncaught-Exception-45113" class="noirorange"><b>Socket.IO</b>: denial of service via Uncaught Exception</a>](https://vigilance.fr/vulnerability/Socket-IO-denial-of-service-via-Uncaught-Exception-45113)|An attacker can cause a fatal error of Socket.IO, via Uncaught Exception, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-UX-denial-of-service-via-RPC-45112" class="noirorange"><b>HP-UX</b>: denial of service via RPC</a>](https://vigilance.fr/vulnerability/HP-UX-denial-of-service-via-RPC-45112)|An attacker can cause a fatal error of HP-UX, via RPC, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/wolfSSL-four-vulnerabilities-dated-10-09-2024-45106" class="noirorange"><b>wolfSSL</b>: four vulnerabilities dated 10/09/2024</a>](https://vigilance.fr/vulnerability/wolfSSL-four-vulnerabilities-dated-10-09-2024-45106)|An attacker can use several vulnerabilities of wolfSSL, dated 10/09/2024...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-aspeed-video-c-1600x900-45104" class="noirorange"><b>Linux kernel</b>: buffer overflow via aspeed-video.c 1600x900</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-aspeed-video-c-1600x900-45104)|An attacker can trigger a buffer overflow of the Linux kernel, via aspeed-video.c 1600x900, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-memory-corruption-via-Windows-ProactorEventLoop-45101" class="noirorange"><b>Python Core</b>: memory corruption via Windows ProactorEventLoop</a>](https://vigilance.fr/vulnerability/Python-Core-memory-corruption-via-Windows-ProactorEventLoop-45101)|An attacker can trigger a memory corruption of Python Core, via Windows ProactorEventLoop, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-Interactive-Asyncio-Audit-Events-45099" class="noirorange"><b>Python Core</b>: ingress filtrering bypass via Interactive / Asyncio Audit Events</a>](https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-Interactive-Asyncio-Audit-Events-45099)|An attacker can bypass filtering rules of Python Core, via Interactive / Asyncio Audit Events, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-code-execution-via-VirusEvent-feature-43456" class="noirorange"><b>ClamAV</b>: code execution via VirusEvent feature</a>](https://vigilance.fr/vulnerability/ClamAV-code-execution-via-VirusEvent-feature-43456)|An attacker can use a vulnerability of ClamAV, via VirusEvent feature, in order to run code...|Visit link for details|
  
  ---
 
