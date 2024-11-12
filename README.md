@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/11/2024 21:20:33 UTC
+ > Last Updated 12/11/2024 09:24:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-overload-via-XML-Agent-45137" class="noirorange"><b>Cisco IOS XR</b>: overload via XML Agent</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-overload-via-XML-Agent-45137)|An attacker can trigger an overload of Cisco IOS XR, via XML Agent, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-CLI-45136" class="noirorange"><b>Cisco IOS XR</b>: file reading via CLI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-CLI-45136)|An attacker can read a file of Cisco IOS XR, via CLI, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ntpd-rs-denial-of-service-via-NTS-KE-45133" class="noirorange"><b>ntpd-rs</b>: denial of service via NTS-KE</a>](https://vigilance.fr/vulnerability/ntpd-rs-denial-of-service-via-NTS-KE-45133)|An attacker can send malicious NTS-KE packets to ntpd-rs, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiClient-for-iOS-information-disclosure-via-mot-de-passe-non-protege-45128" class="noirorange"><b>Fortinet FortiClient for iOS</b>: information disclosure via mot de passe non protégé</a>](https://vigilance.fr/vulnerability/Fortinet-FortiClient-for-iOS-information-disclosure-via-mot-de-passe-non-protege-45128)|An attacker can bypass access restrictions to data of Fortinet FortiClient for iOS, via an unprotected password, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiClient-Man-in-the-Middle-via-ZTNA-45127" class="noirorange"><b>Fortinet FortiClient</b>: Man-in-the-Middle via ZTNA</a>](https://vigilance.fr/vulnerability/Fortinet-FortiClient-Man-in-the-Middle-via-ZTNA-45127)|An attacker can act as a Man-in-the-Middle on Fortinet FortiClient, via ZTNA, in order to read or write data in the session...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Go-libraries-memory-leak-via-recursion-45124" class="noirorange"><b>Go libraries</b>: memory leak via recursion</a>](https://vigilance.fr/vulnerability/Go-libraries-memory-leak-via-recursion-45124)|An attacker can create a memory leak in Go libraries, via recursion, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GStreamer-multiple-vulnerabilities-via-libmfx-45123" class="noirorange"><b>GStreamer</b>: multiple vulnerabilities via libmfx</a>](https://vigilance.fr/vulnerability/GStreamer-multiple-vulnerabilities-via-libmfx-45123)|An attacker can use several vulnerabilities of GStreamer, via libmfx...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/curl-with-GnuTLS-Man-in-the-Middle-via-OCSP-Stapling-45122" class="noirorange"><b>curl with GnuTLS</b>: Man-in-the-Middle via OCSP Stapling</a>](https://vigilance.fr/vulnerability/curl-with-GnuTLS-Man-in-the-Middle-via-OCSP-Stapling-45122)|An attacker can act as a Man-in-the-Middle on curl, via OCSP Stapling, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Socket-IO-denial-of-service-via-Uncaught-Exception-45113" class="noirorange"><b>Socket.IO</b>: denial of service via Uncaught Exception</a>](https://vigilance.fr/vulnerability/Socket-IO-denial-of-service-via-Uncaught-Exception-45113)|An attacker can cause a fatal error of Socket.IO, via Uncaught Exception, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-UX-denial-of-service-via-RPC-45112" class="noirorange"><b>HP-UX</b>: denial of service via RPC</a>](https://vigilance.fr/vulnerability/HP-UX-denial-of-service-via-RPC-45112)|An attacker can cause a fatal error of HP-UX, via RPC, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
