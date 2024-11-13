@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/11/2024 21:21:18 UTC
+ > Last Updated 13/11/2024 09:23:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-09-2024-45150" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 13/09/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-09-2024-45150)|An attacker can use several vulnerabilities of the Linux kernel, dated 13/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/colord-privilege-escalation-via-var-lib-colord-45148" class="noirorange"><b>colord</b>: privilege escalation via /var/lib/colord</a>](https://vigilance.fr/vulnerability/colord-privilege-escalation-via-var-lib-colord-45148)|An attacker can bypass restrictions of colord, via /var/lib/colord, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-contacts-45146" class="noirorange"><b>Centreon Web</b>: SQL injection via contacts</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-contacts-45146)|An attacker can use a SQL injection of Centreon Web, via contacts, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-password-leak-via-GlobalProtect-45145" class="noirorange"><b>Palo Alto PAN-OS</b>: password leak via GlobalProtect</a>](https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-password-leak-via-GlobalProtect-45145)|An attacker can get passwords of Palo Alto PAN-OS, via GlobalProtect, in order to get administrative capabilities...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Entity-file-reading-dated-12-09-2024-45141" class="noirorange"><b>Drupal File Entity</b>: file reading dated 12/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-File-Entity-file-reading-dated-12-09-2024-45141)|An attacker can read a file of Drupal File Entity, dated 12/09/2024, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-overload-via-XML-Agent-45137" class="noirorange"><b>Cisco IOS XR</b>: overload via XML Agent</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-overload-via-XML-Agent-45137)|An attacker can trigger an overload of Cisco IOS XR, via XML Agent, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-CLI-45136" class="noirorange"><b>Cisco IOS XR</b>: file reading via CLI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-CLI-45136)|An attacker can read a file of Cisco IOS XR, via CLI, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ntpd-rs-denial-of-service-via-NTS-KE-45133" class="noirorange"><b>ntpd-rs</b>: denial of service via NTS-KE</a>](https://vigilance.fr/vulnerability/ntpd-rs-denial-of-service-via-NTS-KE-45133)|An attacker can send malicious NTS-KE packets to ntpd-rs, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
