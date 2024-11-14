@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/11/2024 09:24:05 UTC
+ > Last Updated 14/11/2024 21:22:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-43538" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-43538)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-43534" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-43534)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-ctl-persistent-reserve-out-45489" class="noirorange"><b>FreeBSD</b>: denial of service via ctl_persistent_<wbr>reserve_out</wbr></a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-ctl-persistent-reserve-out-45489)|An attacker, in a guest system, can cause a fatal error of FreeBSD, via ctl_persistent_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-vulnerability-43520" class="noirorange"><b>Chrome  Edge  Opera</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-vulnerability-43520)|A vulnerability of Chrome  Edge  Opera was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Skype-for-Business-code-execution-43518" class="noirorange"><b>Skype for Business</b>: code execution</a>](https://vigilance.fr/vulnerability/Skype-for-Business-code-execution-43518)|An attacker can use a vulnerability of Skype for Business, in order to run code...|Visit link for details|
@@ -59,19 +61,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-43512" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-43512)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-43511" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-43511)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-directory-escape-dated-13-09-2024-45156" class="noirorange"><b>Spring Framework</b>: directory escape dated 13/09/2024</a>](https://vigilance.fr/vulnerability/Spring-Framework-directory-escape-dated-13-09-2024-45156)|An attacker can escape from the working directory of Spring Framework, dated 13/09/2024, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-Nxdomain-redirect-Reverse-Zones-43509" class="noirorange"><b>ISC BIND</b>: assertion error via Nxdomain-redirect Reverse Zones</a>](https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-Nxdomain-redirect-Reverse-Zones-43509)|An attacker can force an assertion error of ISC BIND, via Nxdomain-redirect Reverse Zones, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DNSSEC-overload-via-DNSSEC-Validator-KeyTrap-43507" class="noirorange"><b>DNSSEC</b>: overload via DNSSEC Validator KeyTrap</a>](https://vigilance.fr/vulnerability/DNSSEC-overload-via-DNSSEC-Validator-KeyTrap-43507)|An attacker can trigger an overload of DNSSEC, via DNSSEC Validator KeyTrap, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
