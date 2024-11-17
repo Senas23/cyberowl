@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/11/2024 09:23:58 UTC
+ > Last Updated 17/11/2024 21:21:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,16 +51,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-powermail-information-disclosure-via-createAction-45173" class="noirorange"><b>TYPO3 powermail</b>: information disclosure via createAction</a>](https://vigilance.fr/vulnerability/TYPO3-powermail-information-disclosure-via-createAction-45173)|An attacker can bypass access restrictions to data of TYPO3 powermail, via createAction, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-dated-17-09-2024-45172" class="noirorange"><b>Contao</b>: Cross Site Scripting dated 17/09/2024</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-dated-17-09-2024-45172)|An attacker can trigger a Cross Site Scripting of Contao, dated 17/09/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Contao-directory-traversal-via-FileSelector-45170" class="noirorange"><b>Contao</b>: directory traversal via FileSelector</a>](https://vigilance.fr/vulnerability/Contao-directory-traversal-via-FileSelector-45170)|An attacker can traverse directories of Contao, via FileSelector, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-multiple-vulnerabilities-via-UEFI-Firmware-45168" class="noirorange"><b>Intel Processors</b>: multiple vulnerabilities via UEFI Firmware</a>](https://vigilance.fr/vulnerability/Intel-Processors-multiple-vulnerabilities-via-UEFI-Firmware-45168)|An attacker can use several vulnerabilities of Intel Processors, via UEFI Firmware...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/htmldoc-buffer-overflow-via-parse-paragraph-45164" class="noirorange"><b>htmldoc</b>: buffer overflow via parse_paragraph()</a>](https://vigilance.fr/vulnerability/htmldoc-buffer-overflow-via-parse-paragraph-45164)|An attacker can trigger a buffer overflow of htmldoc, via parse_paragraph(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-directory-traversal-dated-17-09-2024-45163" class="noirorange"><b>OpenBSD</b>: directory traversal dated 17/09/2024</a>](https://vigilance.fr/vulnerability/OpenBSD-directory-traversal-dated-17-09-2024-45163)|An attacker could modify the handling of path in OpenBSD, in order to cause path traversal errors...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-double-free-via-NFS-45162" class="noirorange"><b>OpenBSD</b>: double free via NFS</a>](https://vigilance.fr/vulnerability/OpenBSD-double-free-via-NFS-45162)|An attacker can force a double memory free of OpenBSD, via NFS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-six-vulnerabilities-41275" class="noirorange"><b>Chrome  Edge  Opera</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-six-vulnerabilities-41275)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/php-twig-sandbox-escape-45160" class="noirorange"><b>php-twig</b>: sandbox escape</a>](https://vigilance.fr/vulnerability/php-twig-sandbox-escape-45160)|An attacker can escape from the php-twig sandbox to gain access to the host machine...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-09-2024-45157" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 16/09/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-09-2024-45157)|An attacker can use several vulnerabilities of the Linux kernel, dated 16/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-43538" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-43538)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-43534" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-43534)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-ctl-persistent-reserve-out-45489" class="noirorange"><b>FreeBSD</b>: denial of service via ctl_persistent_<wbr>reserve_out</wbr></a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-ctl-persistent-reserve-out-45489)|An attacker, in a guest system, can cause a fatal error of FreeBSD, via ctl_persistent_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-vulnerability-43520" class="noirorange"><b>Chrome  Edge  Opera</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-vulnerability-43520)|A vulnerability of Chrome  Edge  Opera was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Skype-for-Business-code-execution-43518" class="noirorange"><b>Skype for Business</b>: code execution</a>](https://vigilance.fr/vulnerability/Skype-for-Business-code-execution-43518)|An attacker can use a vulnerability of Skype for Business, in order to run code...|Visit link for details|
  
  ---
 
