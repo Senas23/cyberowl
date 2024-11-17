@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/11/2024 21:21:34 UTC
+ > Last Updated 17/11/2024 09:23:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-directory-traversal-dated-17-09-2024-45163" class="noirorange"><b>OpenBSD</b>: directory traversal dated 17/09/2024</a>](https://vigilance.fr/vulnerability/OpenBSD-directory-traversal-dated-17-09-2024-45163)|An attacker could modify the handling of path in OpenBSD, in order to cause path traversal errors...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-double-free-via-NFS-45162" class="noirorange"><b>OpenBSD</b>: double free via NFS</a>](https://vigilance.fr/vulnerability/OpenBSD-double-free-via-NFS-45162)|An attacker can force a double memory free of OpenBSD, via NFS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-six-vulnerabilities-41275" class="noirorange"><b>Chrome  Edge  Opera</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-six-vulnerabilities-41275)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/php-twig-sandbox-escape-45160" class="noirorange"><b>php-twig</b>: sandbox escape</a>](https://vigilance.fr/vulnerability/php-twig-sandbox-escape-45160)|An attacker can escape from the php-twig sandbox to gain access to the host machine...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-09-2024-45157" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 16/09/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-09-2024-45157)|An attacker can use several vulnerabilities of the Linux kernel, dated 16/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-43538" class="noirorange"><b>Node.js Core</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-Core-multiple-vulnerabilities-43538)|An attacker can use several vulnerabilities of Node.js Core...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-ctl-persistent-reserve-out-45489" class="noirorange"><b>FreeBSD</b>: denial of service via ctl_persistent_<wbr>reserve_out</wbr></a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-ctl-persistent-reserve-out-45489)|An attacker, in a guest system, can cause a fatal error of FreeBSD, via ctl_persistent_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-vulnerability-43520" class="noirorange"><b>Chrome  Edge  Opera</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-vulnerability-43520)|A vulnerability of Chrome  Edge  Opera was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Skype-for-Business-code-execution-43518" class="noirorange"><b>Skype for Business</b>: code execution</a>](https://vigilance.fr/vulnerability/Skype-for-Business-code-execution-43518)|An attacker can use a vulnerability of Skype for Business, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-privilege-escalation-43517" class="noirorange"><b>Microsoft Exchange Server</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-privilege-escalation-43517)|An attacker can bypass restrictions of Microsoft Exchange Server, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-February-2024-43515" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-February-2024-43515)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-43512" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-43512)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader...|Visit link for details|
  
  ---
 
