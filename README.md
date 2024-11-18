@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/11/2024 21:21:27 UTC
+ > Last Updated 18/11/2024 09:27:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -21,13 +21,6 @@
  |[VulDB](#vuldb-arrow_heading_up)|Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.|
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
  ---
 
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
@@ -51,6 +44,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-signature-spoofing-via-the-repair-mode-45175" class="noirorange"><b>LibreOffice</b>: signature spoofing via the repair mode</a>](https://vigilance.fr/vulnerability/LibreOffice-signature-spoofing-via-the-repair-mode-45175)|An attacker can create spoofed data on LibreOffice, via the archive repair mode, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-powermail-information-disclosure-via-createAction-45173" class="noirorange"><b>TYPO3 powermail</b>: information disclosure via createAction</a>](https://vigilance.fr/vulnerability/TYPO3-powermail-information-disclosure-via-createAction-45173)|An attacker can bypass access restrictions to data of TYPO3 powermail, via createAction, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-dated-17-09-2024-45172" class="noirorange"><b>Contao</b>: Cross Site Scripting dated 17/09/2024</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-dated-17-09-2024-45172)|An attacker can trigger a Cross Site Scripting of Contao, dated 17/09/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Contao-directory-traversal-via-FileSelector-45170" class="noirorange"><b>Contao</b>: directory traversal via FileSelector</a>](https://vigilance.fr/vulnerability/Contao-directory-traversal-via-FileSelector-45170)|An attacker can traverse directories of Contao, via FileSelector, in order to read a file outside the service root path...|Visit link for details|
@@ -60,7 +54,13 @@
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-double-free-via-NFS-45162" class="noirorange"><b>OpenBSD</b>: double free via NFS</a>](https://vigilance.fr/vulnerability/OpenBSD-double-free-via-NFS-45162)|An attacker can force a double memory free of OpenBSD, via NFS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-six-vulnerabilities-41275" class="noirorange"><b>Chrome  Edge  Opera</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-six-vulnerabilities-41275)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/php-twig-sandbox-escape-45160" class="noirorange"><b>php-twig</b>: sandbox escape</a>](https://vigilance.fr/vulnerability/php-twig-sandbox-escape-45160)|An attacker can escape from the php-twig sandbox to gain access to the host machine...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-09-2024-45157" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 16/09/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-09-2024-45157)|An attacker can use several vulnerabilities of the Linux kernel, dated 16/09/2024...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -71,7 +71,7 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
