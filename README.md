@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/11/2024 09:26:42 UTC
+ > Last Updated 19/11/2024 21:22:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1000/)|De multiples vulnérabilités ont été découvertes dans les produits Apache. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 18 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0999/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 18 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0998/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 18 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0997/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 18 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0996/)|De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 18 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0995/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 18 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0994/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 18 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0993/)|Une vulnérabilité a été découverte dans les caméras Synology BC500, CC400W et TC500. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 18 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0992/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 15 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0991/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0990/)|Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0989/)|Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 15 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0988/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 15 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0987/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 15 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0986/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 14 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0985/)|De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 14 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0984/)|Une vulnérabilité a été découverte dans les produits Symfony. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0983/)|Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 14 novembre 2024|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Redmine-information-disclosure-via-Watcher-List-45519" class="noirorange"><b>Redmine</b>: information disclosure via Watcher List</a>](https://vigilance.fr/vulnerability/Redmine-information-disclosure-via-Watcher-List-45519)|An attacker can bypass access restrictions to data of Redmine, via Watcher List, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pulp-wrong-permission-assignment-45187" class="noirorange"><b>Pulp</b>: wrong permission assignment</a>](https://vigilance.fr/vulnerability/Pulp-wrong-permission-assignment-45187)|An attacker can exploit an incorrect assignment of permissions in Pulp, in order to gain privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-09-2024-45184" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 19/09/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-09-2024-45184)|An attacker can use several vulnerabilities of the Linux kernel, dated 19/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-for-Android-address-spoofing-via-redirection-45180" class="noirorange"><b>Mozilla Firefox for Android</b>: address spoofing via redirection</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-for-Android-address-spoofing-via-redirection-45180)|An attacker can create spoofed data on Mozilla Firefox for Android, via redirection, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Aruba-Networks-ArubaOS-three-vulnerabilities-dated-18-09-2024-45178" class="noirorange"><b>Aruba Networks ArubaOS</b>: three vulnerabilities dated 18/09/2024</a>](https://vigilance.fr/vulnerability/Aruba-Networks-ArubaOS-three-vulnerabilities-dated-18-09-2024-45178)|An attacker can use several vulnerabilities of Aruba Networks ArubaOS, dated 18/09/2024...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-powermail-information-disclosure-via-createAction-45173" class="noirorange"><b>TYPO3 powermail</b>: information disclosure via createAction</a>](https://vigilance.fr/vulnerability/TYPO3-powermail-information-disclosure-via-createAction-45173)|An attacker can bypass access restrictions to data of TYPO3 powermail, via createAction, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-dated-17-09-2024-45172" class="noirorange"><b>Contao</b>: Cross Site Scripting dated 17/09/2024</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-dated-17-09-2024-45172)|An attacker can trigger a Cross Site Scripting of Contao, dated 17/09/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Contao-directory-traversal-via-FileSelector-45170" class="noirorange"><b>Contao</b>: directory traversal via FileSelector</a>](https://vigilance.fr/vulnerability/Contao-directory-traversal-via-FileSelector-45170)|An attacker can traverse directories of Contao, via FileSelector, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-multiple-vulnerabilities-via-UEFI-Firmware-45168" class="noirorange"><b>Intel Processors</b>: multiple vulnerabilities via UEFI Firmware</a>](https://vigilance.fr/vulnerability/Intel-Processors-multiple-vulnerabilities-via-UEFI-Firmware-45168)|An attacker can use several vulnerabilities of Intel Processors, via UEFI Firmware...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/htmldoc-buffer-overflow-via-parse-paragraph-45164" class="noirorange"><b>htmldoc</b>: buffer overflow via parse_paragraph()</a>](https://vigilance.fr/vulnerability/htmldoc-buffer-overflow-via-parse-paragraph-45164)|An attacker can trigger a buffer overflow of htmldoc, via parse_paragraph(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
