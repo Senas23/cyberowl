@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/11/2024 21:21:39 UTC
+ > Last Updated 19/11/2024 09:26:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-for-Android-address-spoofing-via-redirection-45180" class="noirorange"><b>Mozilla Firefox for Android</b>: address spoofing via redirection</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-for-Android-address-spoofing-via-redirection-45180)|An attacker can create spoofed data on Mozilla Firefox for Android, via redirection, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-Networks-ArubaOS-three-vulnerabilities-dated-18-09-2024-45178" class="noirorange"><b>Aruba Networks ArubaOS</b>: three vulnerabilities dated 18/09/2024</a>](https://vigilance.fr/vulnerability/Aruba-Networks-ArubaOS-three-vulnerabilities-dated-18-09-2024-45178)|An attacker can use several vulnerabilities of Aruba Networks ArubaOS, dated 18/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Embedded-JavaScript-templates-prototype-pollution-dated-18-09-2024-45177" class="noirorange"><b>Node.js Embedded JavaScript templates</b>: prototype pollution dated 18/09/2024</a>](https://vigilance.fr/vulnerability/Node-js-Embedded-JavaScript-templates-prototype-pollution-dated-18-09-2024-45177)|An attacker can alter the JavaScript code of Node.js Embedded JavaScript templates, dated 18/09/2024, in order to change the software behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-signature-spoofing-via-the-repair-mode-45175" class="noirorange"><b>LibreOffice</b>: signature spoofing via the repair mode</a>](https://vigilance.fr/vulnerability/LibreOffice-signature-spoofing-via-the-repair-mode-45175)|An attacker can create spoofed data on LibreOffice, via the archive repair mode, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-powermail-information-disclosure-via-createAction-45173" class="noirorange"><b>TYPO3 powermail</b>: information disclosure via createAction</a>](https://vigilance.fr/vulnerability/TYPO3-powermail-information-disclosure-via-createAction-45173)|An attacker can bypass access restrictions to data of TYPO3 powermail, via createAction, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-dated-17-09-2024-45172" class="noirorange"><b>Contao</b>: Cross Site Scripting dated 17/09/2024</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-dated-17-09-2024-45172)|An attacker can trigger a Cross Site Scripting of Contao, dated 17/09/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Contao-directory-traversal-via-FileSelector-45170" class="noirorange"><b>Contao</b>: directory traversal via FileSelector</a>](https://vigilance.fr/vulnerability/Contao-directory-traversal-via-FileSelector-45170)|An attacker can traverse directories of Contao, via FileSelector, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-multiple-vulnerabilities-via-UEFI-Firmware-45168" class="noirorange"><b>Intel Processors</b>: multiple vulnerabilities via UEFI Firmware</a>](https://vigilance.fr/vulnerability/Intel-Processors-multiple-vulnerabilities-via-UEFI-Firmware-45168)|An attacker can use several vulnerabilities of Intel Processors, via UEFI Firmware...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/htmldoc-buffer-overflow-via-parse-paragraph-45164" class="noirorange"><b>htmldoc</b>: buffer overflow via parse_paragraph()</a>](https://vigilance.fr/vulnerability/htmldoc-buffer-overflow-via-parse-paragraph-45164)|An attacker can trigger a buffer overflow of htmldoc, via parse_paragraph(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-directory-traversal-dated-17-09-2024-45163" class="noirorange"><b>OpenBSD</b>: directory traversal dated 17/09/2024</a>](https://vigilance.fr/vulnerability/OpenBSD-directory-traversal-dated-17-09-2024-45163)|An attacker could modify the handling of path in OpenBSD, in order to cause path traversal errors...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0985/)|De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 14 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0984/)|Une vulnérabilité a été découverte dans les produits Symfony. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0983/)|Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 14 novembre 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-09-2024-45184" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 19/09/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-09-2024-45184)|An attacker can use several vulnerabilities of the Linux kernel, dated 19/09/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-for-Android-address-spoofing-via-redirection-45180" class="noirorange"><b>Mozilla Firefox for Android</b>: address spoofing via redirection</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-for-Android-address-spoofing-via-redirection-45180)|An attacker can create spoofed data on Mozilla Firefox for Android, via redirection, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Aruba-Networks-ArubaOS-three-vulnerabilities-dated-18-09-2024-45178" class="noirorange"><b>Aruba Networks ArubaOS</b>: three vulnerabilities dated 18/09/2024</a>](https://vigilance.fr/vulnerability/Aruba-Networks-ArubaOS-three-vulnerabilities-dated-18-09-2024-45178)|An attacker can use several vulnerabilities of Aruba Networks ArubaOS, dated 18/09/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Embedded-JavaScript-templates-prototype-pollution-dated-18-09-2024-45177" class="noirorange"><b>Node.js Embedded JavaScript templates</b>: prototype pollution dated 18/09/2024</a>](https://vigilance.fr/vulnerability/Node-js-Embedded-JavaScript-templates-prototype-pollution-dated-18-09-2024-45177)|An attacker can alter the JavaScript code of Node.js Embedded JavaScript templates, dated 18/09/2024, in order to change the software behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-signature-spoofing-via-the-repair-mode-45175" class="noirorange"><b>LibreOffice</b>: signature spoofing via the repair mode</a>](https://vigilance.fr/vulnerability/LibreOffice-signature-spoofing-via-the-repair-mode-45175)|An attacker can create spoofed data on LibreOffice, via the archive repair mode, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-powermail-information-disclosure-via-createAction-45173" class="noirorange"><b>TYPO3 powermail</b>: information disclosure via createAction</a>](https://vigilance.fr/vulnerability/TYPO3-powermail-information-disclosure-via-createAction-45173)|An attacker can bypass access restrictions to data of TYPO3 powermail, via createAction, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-dated-17-09-2024-45172" class="noirorange"><b>Contao</b>: Cross Site Scripting dated 17/09/2024</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-dated-17-09-2024-45172)|An attacker can trigger a Cross Site Scripting of Contao, dated 17/09/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Contao-directory-traversal-via-FileSelector-45170" class="noirorange"><b>Contao</b>: directory traversal via FileSelector</a>](https://vigilance.fr/vulnerability/Contao-directory-traversal-via-FileSelector-45170)|An attacker can traverse directories of Contao, via FileSelector, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-multiple-vulnerabilities-via-UEFI-Firmware-45168" class="noirorange"><b>Intel Processors</b>: multiple vulnerabilities via UEFI Firmware</a>](https://vigilance.fr/vulnerability/Intel-Processors-multiple-vulnerabilities-via-UEFI-Firmware-45168)|An attacker can use several vulnerabilities of Intel Processors, via UEFI Firmware...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/htmldoc-buffer-overflow-via-parse-paragraph-45164" class="noirorange"><b>htmldoc</b>: buffer overflow via parse_paragraph()</a>](https://vigilance.fr/vulnerability/htmldoc-buffer-overflow-via-parse-paragraph-45164)|An attacker can trigger a buffer overflow of htmldoc, via parse_paragraph(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
