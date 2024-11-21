@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/11/2024 09:26:17 UTC
+ > Last Updated 21/11/2024 21:22:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/RabbitMQ-data-deletion-via-HTTP-API-Queue-Deletion-45556" class="noirorange"><b>RabbitMQ</b>: data deletion via HTTP API Queue Deletion</a>](https://vigilance.fr/vulnerability/RabbitMQ-data-deletion-via-HTTP-API-Queue-Deletion-45556)|An attacker can bypass access restrictions of RabbitMQ, via HTTP API Queue Deletion, in order to delete data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43587" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43587)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-PDF-Fonts-43584" class="noirorange"><b>HP LaserJet</b>: buffer overflow via PDF Fonts</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-PDF-Fonts-43584)|An attacker can trigger a buffer overflow of HP LaserJet, via PDF Fonts, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bluetooth-spoofing-via-Passkey-Entry-Protocol-45199" class="noirorange"><b>Bluetooth</b>: spoofing via Passkey Entry Protocol</a>](https://vigilance.fr/vulnerability/Bluetooth-spoofing-via-Passkey-Entry-Protocol-45199)|An attacker can create spoofed data on Bluetooth, via Passkey Entry Protocol, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-Detected-File-Removal-45198" class="noirorange"><b>ESET NOD32 Antivirus</b>: file deletion via Detected File Removal</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-Detected-File-Removal-45198)|An attacker can bypass access restrictions of ESET NOD32 Antivirus, via Detected File Removal, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43571" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43571)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-plugin-SDK-credential-disclosure-via-git-remote-45197" class="noirorange"><b>Grafana plugin SDK</b>: credential disclosure via git-remote</a>](https://vigilance.fr/vulnerability/Grafana-plugin-SDK-credential-disclosure-via-git-remote-45197)|The Grafana plugin SDK product does not correctly filter the information provided by the git remote get-url origin command...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-assertion-error-via-usb-ep-get-45194" class="noirorange"><b>QEMU</b>: assertion error via usb_ep_get()</a>](https://vigilance.fr/vulnerability/QEMU-assertion-error-via-usb-ep-get-45194)|An attacker can force an assertion error of QEMU, via usb_ep_get(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Azure-SDK-for-Python-privilege-escalation-via-azure-identity-45192" class="noirorange"><b>Azure SDK for Python</b>: privilege escalation via azure-identity</a>](https://vigilance.fr/vulnerability/Azure-SDK-for-Python-privilege-escalation-via-azure-identity-45192)|An attacker can bypass restrictions of Azure SDK for Python, via azure-identity, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Office-Visio-buffer-overflow-dated-20-09-2024-45191" class="noirorange"><b>Microsoft Office Visio</b>: buffer overflow dated 20/09/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Office-Visio-buffer-overflow-dated-20-09-2024-45191)|An attacker can trigger a buffer overflow of Microsoft Office Visio, dated 20/09/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -47,31 +64,14 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43587" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43587)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-PDF-Fonts-43584" class="noirorange"><b>HP LaserJet</b>: buffer overflow via PDF Fonts</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-PDF-Fonts-43584)|An attacker can trigger a buffer overflow of HP LaserJet, via PDF Fonts, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bluetooth-spoofing-via-Passkey-Entry-Protocol-45199" class="noirorange"><b>Bluetooth</b>: spoofing via Passkey Entry Protocol</a>](https://vigilance.fr/vulnerability/Bluetooth-spoofing-via-Passkey-Entry-Protocol-45199)|An attacker can create spoofed data on Bluetooth, via Passkey Entry Protocol, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-Detected-File-Removal-45198" class="noirorange"><b>ESET NOD32 Antivirus</b>: file deletion via Detected File Removal</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-Detected-File-Removal-45198)|An attacker can bypass access restrictions of ESET NOD32 Antivirus, via Detected File Removal, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43571" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43571)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-plugin-SDK-credential-disclosure-via-git-remote-45197" class="noirorange"><b>Grafana plugin SDK</b>: credential disclosure via git-remote</a>](https://vigilance.fr/vulnerability/Grafana-plugin-SDK-credential-disclosure-via-git-remote-45197)|The Grafana plugin SDK product does not correctly filter the information provided by the git remote get-url origin command...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-assertion-error-via-usb-ep-get-45194" class="noirorange"><b>QEMU</b>: assertion error via usb_ep_get()</a>](https://vigilance.fr/vulnerability/QEMU-assertion-error-via-usb-ep-get-45194)|An attacker can force an assertion error of QEMU, via usb_ep_get(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Azure-SDK-for-Python-privilege-escalation-via-azure-identity-45192" class="noirorange"><b>Azure SDK for Python</b>: privilege escalation via azure-identity</a>](https://vigilance.fr/vulnerability/Azure-SDK-for-Python-privilege-escalation-via-azure-identity-45192)|An attacker can bypass restrictions of Azure SDK for Python, via azure-identity, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Office-Visio-buffer-overflow-dated-20-09-2024-45191" class="noirorange"><b>Microsoft Office Visio</b>: buffer overflow dated 20/09/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Office-Visio-buffer-overflow-dated-20-09-2024-45191)|An attacker can trigger a buffer overflow of Microsoft Office Visio, dated 20/09/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-bhyve-buffer-overflow-via-XHCI-45189" class="noirorange"><b>FreeBSD bhyve</b>: buffer overflow via XHCI</a>](https://vigilance.fr/vulnerability/FreeBSD-bhyve-buffer-overflow-via-XHCI-45189)|An attacker can trigger a buffer overflow of FreeBSD bhyve, via XHCI, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
