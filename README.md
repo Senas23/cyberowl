@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/11/2024 21:22:41 UTC
+ > Last Updated 24/11/2024 09:21:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,30 +23,6 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Rustix-overload-via-fs-Dir-45202" class="noirorange"><b>Rustix</b>: overload via fs::Dir</a>](https://vigilance.fr/vulnerability/Rustix-overload-via-fs-Dir-45202)|An attacker can trigger an overload of Rustix, via fs::Dir, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iNet-Wireless-Daemon-user-access-via-eapol-auth-key-handle-43613" class="noirorange"><b>iNet Wireless Daemon</b>: user access via eapol_auth_key_<wbr>handle()</wbr></a>](https://vigilance.fr/vulnerability/iNet-Wireless-Daemon-user-access-via-eapol-auth-key-handle-43613)|An attacker can bypass restrictions of iNet Wireless Daemon, via eapol_auth_key_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RabbitMQ-data-deletion-via-HTTP-API-Queue-Deletion-45556" class="noirorange"><b>RabbitMQ</b>: data deletion via HTTP API Queue Deletion</a>](https://vigilance.fr/vulnerability/RabbitMQ-data-deletion-via-HTTP-API-Queue-Deletion-45556)|An attacker can bypass access restrictions of RabbitMQ, via HTTP API Queue Deletion, in order to delete data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43587" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43587)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-PDF-Fonts-43584" class="noirorange"><b>HP LaserJet</b>: buffer overflow via PDF Fonts</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-PDF-Fonts-43584)|An attacker can trigger a buffer overflow of HP LaserJet, via PDF Fonts, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bluetooth-spoofing-via-Passkey-Entry-Protocol-45199" class="noirorange"><b>Bluetooth</b>: spoofing via Passkey Entry Protocol</a>](https://vigilance.fr/vulnerability/Bluetooth-spoofing-via-Passkey-Entry-Protocol-45199)|An attacker can create spoofed data on Bluetooth, via Passkey Entry Protocol, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-Detected-File-Removal-45198" class="noirorange"><b>ESET NOD32 Antivirus</b>: file deletion via Detected File Removal</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-Detected-File-Removal-45198)|An attacker can bypass access restrictions of ESET NOD32 Antivirus, via Detected File Removal, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43571" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-43571)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-plugin-SDK-credential-disclosure-via-git-remote-45197" class="noirorange"><b>Grafana plugin SDK</b>: credential disclosure via git-remote</a>](https://vigilance.fr/vulnerability/Grafana-plugin-SDK-credential-disclosure-via-git-remote-45197)|The Grafana plugin SDK product does not correctly filter the information provided by the git remote get-url origin command...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-assertion-error-via-usb-ep-get-45194" class="noirorange"><b>QEMU</b>: assertion error via usb_ep_get()</a>](https://vigilance.fr/vulnerability/QEMU-assertion-error-via-usb-ep-get-45194)|An attacker can force an assertion error of QEMU, via usb_ep_get(), in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -64,6 +40,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-V4L2-SEL-TGT-CROP-45206" class="noirorange"><b>Linux kernel</b>: buffer overflow via V4L2_SEL_TGT_CROP</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-V4L2-SEL-TGT-CROP-45206)|An attacker can trigger a buffer overflow of the Linux kernel, via V4L2_SEL_TGT_CROP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Contacts-Form-45205" class="noirorange"><b>Centreon Web</b>: SQL injection via Contacts Form</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Contacts-Form-45205)|An attacker can use a SQL injection of Centreon Web, via Contacts Form, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-socket-io-parser-denial-of-service-via-Packet-45204" class="noirorange"><b>Node.js socket.io-parser</b>: denial of service via Packet</a>](https://vigilance.fr/vulnerability/Node-js-socket-io-parser-denial-of-service-via-Packet-45204)|An attacker can cause a fatal error of Node.js socket.io-parser, via Packet, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rustix-overload-via-fs-Dir-45202" class="noirorange"><b>Rustix</b>: overload via fs::Dir</a>](https://vigilance.fr/vulnerability/Rustix-overload-via-fs-Dir-45202)|An attacker can trigger an overload of Rustix, via fs::Dir, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iNet-Wireless-Daemon-user-access-via-eapol-auth-key-handle-43613" class="noirorange"><b>iNet Wireless Daemon</b>: user access via eapol_auth_key_<wbr>handle()</wbr></a>](https://vigilance.fr/vulnerability/iNet-Wireless-Daemon-user-access-via-eapol-auth-key-handle-43613)|An attacker can bypass restrictions of iNet Wireless Daemon, via eapol_auth_key_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RabbitMQ-data-deletion-via-HTTP-API-Queue-Deletion-45556" class="noirorange"><b>RabbitMQ</b>: data deletion via HTTP API Queue Deletion</a>](https://vigilance.fr/vulnerability/RabbitMQ-data-deletion-via-HTTP-API-Queue-Deletion-45556)|An attacker can bypass access restrictions of RabbitMQ, via HTTP API Queue Deletion, in order to delete data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43587" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43587)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-PDF-Fonts-43584" class="noirorange"><b>HP LaserJet</b>: buffer overflow via PDF Fonts</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-PDF-Fonts-43584)|An attacker can trigger a buffer overflow of HP LaserJet, via PDF Fonts, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bluetooth-spoofing-via-Passkey-Entry-Protocol-45199" class="noirorange"><b>Bluetooth</b>: spoofing via Passkey Entry Protocol</a>](https://vigilance.fr/vulnerability/Bluetooth-spoofing-via-Passkey-Entry-Protocol-45199)|An attacker can create spoofed data on Bluetooth, via Passkey Entry Protocol, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-Detected-File-Removal-45198" class="noirorange"><b>ESET NOD32 Antivirus</b>: file deletion via Detected File Removal</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-Detected-File-Removal-45198)|An attacker can bypass access restrictions of ESET NOD32 Antivirus, via Detected File Removal, in order to delete a file...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -72,6 +65,13 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
