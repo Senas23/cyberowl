@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/11/2024 21:20:32 UTC
+ > Last Updated 25/11/2024 09:26:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/djangorestframework-Cross-Site-Scripting-via-break-long-headers-45215" class="noirorange"><b>djangorestframework</b>: Cross Site Scripting via break_long_headers</a>](https://vigilance.fr/vulnerability/djangorestframework-Cross-Site-Scripting-via-break-long-headers-45215)|An attacker can trigger a Cross Site Scripting of djangorestframework, via break_long_headers, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-memory-reading-via-BGP-UPDATE-Packet-RN-690-45211" class="noirorange"><b>FRRouting</b>: memory reading via BGP UPDATE Packet RN-690</a>](https://vigilance.fr/vulnerability/FRRouting-memory-reading-via-BGP-UPDATE-Packet-RN-690-45211)|An attacker can read a memory fragment of FRRouting, via BGP UPDATE Packet RN-690, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Puma-header-injection-via-Same-Header-Underscore-45208" class="noirorange"><b>Puma</b>: header injection via Same Header Underscore</a>](https://vigilance.fr/vulnerability/Puma-header-injection-via-Same-Header-Underscore-45208)|An attacker can add new headers on Puma, via Same Header Underscore, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-V4L2-SEL-TGT-CROP-45206" class="noirorange"><b>Linux kernel</b>: buffer overflow via V4L2_SEL_TGT_CROP</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-V4L2-SEL-TGT-CROP-45206)|An attacker can trigger a buffer overflow of the Linux kernel, via V4L2_SEL_TGT_CROP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Contacts-Form-45205" class="noirorange"><b>Centreon Web</b>: SQL injection via Contacts Form</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Contacts-Form-45205)|An attacker can use a SQL injection of Centreon Web, via Contacts Form, in order to read or alter data...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/iNet-Wireless-Daemon-user-access-via-eapol-auth-key-handle-43613" class="noirorange"><b>iNet Wireless Daemon</b>: user access via eapol_auth_key_<wbr>handle()</wbr></a>](https://vigilance.fr/vulnerability/iNet-Wireless-Daemon-user-access-via-eapol-auth-key-handle-43613)|An attacker can bypass restrictions of iNet Wireless Daemon, via eapol_auth_key_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/RabbitMQ-data-deletion-via-HTTP-API-Queue-Deletion-45556" class="noirorange"><b>RabbitMQ</b>: data deletion via HTTP API Queue Deletion</a>](https://vigilance.fr/vulnerability/RabbitMQ-data-deletion-via-HTTP-API-Queue-Deletion-45556)|An attacker can bypass access restrictions of RabbitMQ, via HTTP API Queue Deletion, in order to delete data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43587" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-43587)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-PDF-Fonts-43584" class="noirorange"><b>HP LaserJet</b>: buffer overflow via PDF Fonts</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-via-PDF-Fonts-43584)|An attacker can trigger a buffer overflow of HP LaserJet, via PDF Fonts, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bluetooth-spoofing-via-Passkey-Entry-Protocol-45199" class="noirorange"><b>Bluetooth</b>: spoofing via Passkey Entry Protocol</a>](https://vigilance.fr/vulnerability/Bluetooth-spoofing-via-Passkey-Entry-Protocol-45199)|An attacker can create spoofed data on Bluetooth, via Passkey Entry Protocol, in order to deceive the victim...|Visit link for details|
  
  ---
 
