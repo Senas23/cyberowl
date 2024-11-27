@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/11/2024 09:26:20 UTC
+ > Last Updated 27/11/2024 21:23:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,33 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1025/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1024/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 27 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1023/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1022/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1021/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 27 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1020/)|Une vulnérabilité a été découverte dans Palo Alto Networks GlobalProtect App. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 26 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1019/)|De multiples vulnérabilités ont été découvertes dans Netgate pfSense. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 26 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1018/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1017/)|De multiples vulnérabilités ont été découvertes dans Centreon Central server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1016/)|Une vulnérabilité a été découverte dans NetApp Brocade SAN Navigator. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1015/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1014/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1013/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 22 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1012/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1011/)|Une vulnérabilité a été découverte dans Centreon Web. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 22 novembre 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-privilege-escalation-via-Activation-Cache-Poisoning-45247" class="noirorange"><b>Microsoft Windows</b>: privilege escalation via Activation Cache Poisoning</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-privilege-escalation-via-Activation-Cache-Poisoning-45247)|An attacker can bypass restrictions of Microsoft Windows, via Activation Cache Poisoning, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Boost-file-write-via-Cmake-Files-Hardcoded-Temporary-Paths-45246" class="noirorange"><b>Boost</b>: file write via Cmake Files Hardcoded Temporary Paths</a>](https://vigilance.fr/vulnerability/Boost-file-write-via-Cmake-Files-Hardcoded-Temporary-Paths-45246)|An attacker can bypass access restrictions of Boost, via Cmake Files Hardcoded Temporary Paths, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fork-khugepaged-45576" class="noirorange"><b>Linux kernel</b>: denial of service via fork khugepaged</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fork-khugepaged-45576)|An attacker can cause a fatal error of the Linux kernel, via fork khugepaged, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcupsfilters-file-write-via-cfGetPrinterAttributes5-45245" class="noirorange"><b>libcupsfilters</b>: file write via cfGetPrinterAttribut<wbr>es5()</wbr></a>](https://vigilance.fr/vulnerability/libcupsfilters-file-write-via-cfGetPrinterAttributes5-45245)|An attacker can bypass access restrictions of libcupsfilters, via cfGetPrinterAttribut|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cups-browsed-information-disclosure-via-Port-631-45244" class="noirorange"><b>cups-browsed</b>: information disclosure via Port 631</a>](https://vigilance.fr/vulnerability/cups-browsed-information-disclosure-via-Port-631-45244)|An attacker can bypass access restrictions to data of cups-browsed, via Port 631, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-write-access-via-Alert-Rule-Write-API-Endpoint-45241" class="noirorange"><b>Grafana</b>: write access via Alert Rule Write API Endpoint</a>](https://vigilance.fr/vulnerability/Grafana-write-access-via-Alert-Rule-Write-API-Endpoint-45241)|An attacker can bypass access restrictions of Grafana, via Alert Rule Write API Endpoint, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-denial-of-service-via-HTTP-2-Connection-Leaking-43640" class="noirorange"><b>Eclipse Jetty</b>: denial of service via HTTP/2 Connection Leaking</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-denial-of-service-via-HTTP-2-Connection-Leaking-43640)|An attacker can cause a fatal error of Eclipse Jetty, via HTTP/2 Connection Leaking, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-four-vulnerabilities-dated-26-09-2024-45240" class="noirorange"><b>PHP</b>: four vulnerabilities dated 26/09/2024</a>](https://vigilance.fr/vulnerability/PHP-four-vulnerabilities-dated-26-09-2024-45240)|An attacker can use several vulnerabilities of PHP, dated 26/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-Drive-Client-six-vulnerabilities-dated-26-09-2024-45239" class="noirorange"><b>Synology Drive Client</b>: six vulnerabilities dated 26/09/2024</a>](https://vigilance.fr/vulnerability/Synology-Drive-Client-six-vulnerabilities-dated-26-09-2024-45239)|An attacker can use several vulnerabilities of Synology Drive Client, dated 26/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-Active-Backup-for-Business-Agent-four-vulnerabilities-dated-26-09-2024-45238" class="noirorange"><b>Synology Active Backup for Business Agent</b>: four vulnerabilities dated 26/09/2024</a>](https://vigilance.fr/vulnerability/Synology-Active-Backup-for-Business-Agent-four-vulnerabilities-dated-26-09-2024-45238)|An attacker can use several vulnerabilities of Synology Active Backup for Business Agent, dated 26/09/2024...|Visit link for details|
  
  ---
 
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Command-Injection-45610" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: code execution via CLI Command Injection</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Command-Injection-45610)|An attacker can use a vulnerability of FortiAnalyzer  FortiManager, via CLI Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-Commands-45609" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: file deletion via CLI Commands</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-Commands-45609)|An attacker can bypass access restrictions of FortiAnalyzer  FortiManager, via CLI Commands, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-via-CLI-Requests-45608" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: directory traversal via CLI Requests</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-via-CLI-Requests-45608)|An attacker can traverse directories of FortiAnalyzer  FortiManager, via CLI Requests, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CoreDNS-spoofing-via-Birthday-Attack-45254" class="noirorange"><b>CoreDNS</b>: spoofing via Birthday Attack</a>](https://vigilance.fr/vulnerability/CoreDNS-spoofing-via-Birthday-Attack-45254)|An attacker can create spoofed data on CoreDNS, via Birthday Attack, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CoreDNS-denial-of-service-via-Source-Port-45253" class="noirorange"><b>CoreDNS</b>: denial of service via Source Port</a>](https://vigilance.fr/vulnerability/CoreDNS-denial-of-service-via-Source-Port-45253)|An attacker can cause a fatal error of CoreDNS, via Source Port, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-Yaml-denial-of-service-via-Unmarshal-45252" class="noirorange"><b>Go-Yaml</b>: denial of service via Unmarshal</a>](https://vigilance.fr/vulnerability/Go-Yaml-denial-of-service-via-Unmarshal-45252)|An attacker can cause a fatal error of Go-Yaml, via Unmarshal, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tryton-user-access-via-Missing-Authorisation-Checks-45251" class="noirorange"><b>Tryton</b>: user access via Missing Authorisation Checks</a>](https://vigilance.fr/vulnerability/Tryton-user-access-via-Missing-Authorisation-Checks-45251)|An attacker can bypass restrictions of Tryton, via Missing Authorisation Checks, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libgcrypt-information-disclosure-via-RSA-45591" class="noirorange"><b>libgcrypt</b>: information disclosure via RSA</a>](https://vigilance.fr/vulnerability/libgcrypt-information-disclosure-via-RSA-45591)|An attacker can bypass access restrictions to data of libgcrypt, via RSA, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-vApp-code-execution-via-OS-Command-Injection-45248" class="noirorange"><b>Dell Unisphere for PowerMax vApp</b>: code execution via OS Command Injection</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-vApp-code-execution-via-OS-Command-Injection-45248)|An attacker can use a vulnerability of Dell Unisphere for PowerMax vApp, via OS Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-privilege-escalation-via-Activation-Cache-Poisoning-45247" class="noirorange"><b>Microsoft Windows</b>: privilege escalation via Activation Cache Poisoning</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-privilege-escalation-via-Activation-Cache-Poisoning-45247)|An attacker can bypass restrictions of Microsoft Windows, via Activation Cache Poisoning, in order to escalate his privileges...|Visit link for details|
  
  ---
 
