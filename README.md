@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/11/2024 21:23:37 UTC
+ > Last Updated 27/11/2024 09:26:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,13 +24,6 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -58,16 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-privilege-escalation-via-Activation-Cache-Poisoning-45247" class="noirorange"><b>Microsoft Windows</b>: privilege escalation via Activation Cache Poisoning</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-privilege-escalation-via-Activation-Cache-Poisoning-45247)|An attacker can bypass restrictions of Microsoft Windows, via Activation Cache Poisoning, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Boost-file-write-via-Cmake-Files-Hardcoded-Temporary-Paths-45246" class="noirorange"><b>Boost</b>: file write via Cmake Files Hardcoded Temporary Paths</a>](https://vigilance.fr/vulnerability/Boost-file-write-via-Cmake-Files-Hardcoded-Temporary-Paths-45246)|An attacker can bypass access restrictions of Boost, via Cmake Files Hardcoded Temporary Paths, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fork-khugepaged-45576" class="noirorange"><b>Linux kernel</b>: denial of service via fork khugepaged</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fork-khugepaged-45576)|An attacker can cause a fatal error of the Linux kernel, via fork khugepaged, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libcupsfilters-file-write-via-cfGetPrinterAttributes5-45245" class="noirorange"><b>libcupsfilters</b>: file write via cfGetPrinterAttribut<wbr>es5()</wbr></a>](https://vigilance.fr/vulnerability/libcupsfilters-file-write-via-cfGetPrinterAttributes5-45245)|An attacker can bypass access restrictions of libcupsfilters, via cfGetPrinterAttribut|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cups-browsed-information-disclosure-via-Port-631-45244" class="noirorange"><b>cups-browsed</b>: information disclosure via Port 631</a>](https://vigilance.fr/vulnerability/cups-browsed-information-disclosure-via-Port-631-45244)|An attacker can bypass access restrictions to data of cups-browsed, via Port 631, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-write-access-via-Alert-Rule-Write-API-Endpoint-45241" class="noirorange"><b>Grafana</b>: write access via Alert Rule Write API Endpoint</a>](https://vigilance.fr/vulnerability/Grafana-write-access-via-Alert-Rule-Write-API-Endpoint-45241)|An attacker can bypass access restrictions of Grafana, via Alert Rule Write API Endpoint, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-denial-of-service-via-HTTP-2-Connection-Leaking-43640" class="noirorange"><b>Eclipse Jetty</b>: denial of service via HTTP/2 Connection Leaking</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-denial-of-service-via-HTTP-2-Connection-Leaking-43640)|An attacker can cause a fatal error of Eclipse Jetty, via HTTP/2 Connection Leaking, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-four-vulnerabilities-dated-26-09-2024-45240" class="noirorange"><b>PHP</b>: four vulnerabilities dated 26/09/2024</a>](https://vigilance.fr/vulnerability/PHP-four-vulnerabilities-dated-26-09-2024-45240)|An attacker can use several vulnerabilities of PHP, dated 26/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synology-Drive-Client-six-vulnerabilities-dated-26-09-2024-45239" class="noirorange"><b>Synology Drive Client</b>: six vulnerabilities dated 26/09/2024</a>](https://vigilance.fr/vulnerability/Synology-Drive-Client-six-vulnerabilities-dated-26-09-2024-45239)|An attacker can use several vulnerabilities of Synology Drive Client, dated 26/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synology-Active-Backup-for-Business-Agent-four-vulnerabilities-dated-26-09-2024-45238" class="noirorange"><b>Synology Active Backup for Business Agent</b>: four vulnerabilities dated 26/09/2024</a>](https://vigilance.fr/vulnerability/Synology-Active-Backup-for-Business-Agent-four-vulnerabilities-dated-26-09-2024-45238)|An attacker can use several vulnerabilities of Synology Active Backup for Business Agent, dated 26/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenJPEG-overload-via-Terminal-Warning-Messages-45237" class="noirorange"><b>OpenJPEG</b>: overload via Terminal Warning Messages</a>](https://vigilance.fr/vulnerability/OpenJPEG-overload-via-Terminal-Warning-Messages-45237)|An attacker can trigger an overload of OpenJPEG, via Terminal Warning Messages, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pure-Data-privilege-escalation-via-setid-45234" class="noirorange"><b>Pure Data</b>: privilege escalation via setid()</a>](https://vigilance.fr/vulnerability/Pure-Data-privilege-escalation-via-setid-45234)|An attacker can bypass restrictions of Pure Data, via setid(), in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-three-vulnerabilities-dated-26-09-2024-45233" class="noirorange"><b>GitLab CE/EE</b>: three vulnerabilities dated 26/09/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-three-vulnerabilities-dated-26-09-2024-45233)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 26/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSC-buffer-overflow-via-OpenPGP-Driver-45232" class="noirorange"><b>OpenSC</b>: buffer overflow via OpenPGP Driver</a>](https://vigilance.fr/vulnerability/OpenSC-buffer-overflow-via-OpenPGP-Driver-45232)|An attacker can trigger a buffer overflow of OpenSC, via OpenPGP Driver, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AppArmor-file-read-write-via-Mount-Rules-45230" class="noirorange"><b>AppArmor</b>: file read/write via Mount Rules</a>](https://vigilance.fr/vulnerability/AppArmor-file-read-write-via-Mount-Rules-45230)|An attacker can bypass access restrictions of AppArmor, via Mount Rules, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/radare2-denial-of-service-via-bf-div-45570" class="noirorange"><b>radare2</b>: denial of service via __bf_div()</a>](https://vigilance.fr/vulnerability/radare2-denial-of-service-via-bf-div-45570)|An attacker can cause a fatal error of radare2, via __bf_div(), in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
