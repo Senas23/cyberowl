@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/11/2024 09:26:57 UTC
+ > Last Updated 28/11/2024 21:22:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Command-Injection-45610" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: code execution via CLI Command Injection</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Command-Injection-45610)|An attacker can use a vulnerability of FortiAnalyzer  FortiManager, via CLI Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-Commands-45609" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: file deletion via CLI Commands</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-Commands-45609)|An attacker can bypass access restrictions of FortiAnalyzer  FortiManager, via CLI Commands, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-via-CLI-Requests-45608" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: directory traversal via CLI Requests</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-via-CLI-Requests-45608)|An attacker can traverse directories of FortiAnalyzer  FortiManager, via CLI Requests, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CoreDNS-spoofing-via-Birthday-Attack-45254" class="noirorange"><b>CoreDNS</b>: spoofing via Birthday Attack</a>](https://vigilance.fr/vulnerability/CoreDNS-spoofing-via-Birthday-Attack-45254)|An attacker can create spoofed data on CoreDNS, via Birthday Attack, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CoreDNS-denial-of-service-via-Source-Port-45253" class="noirorange"><b>CoreDNS</b>: denial of service via Source Port</a>](https://vigilance.fr/vulnerability/CoreDNS-denial-of-service-via-Source-Port-45253)|An attacker can cause a fatal error of CoreDNS, via Source Port, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-Yaml-denial-of-service-via-Unmarshal-45252" class="noirorange"><b>Go-Yaml</b>: denial of service via Unmarshal</a>](https://vigilance.fr/vulnerability/Go-Yaml-denial-of-service-via-Unmarshal-45252)|An attacker can cause a fatal error of Go-Yaml, via Unmarshal, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tryton-user-access-via-Missing-Authorisation-Checks-45251" class="noirorange"><b>Tryton</b>: user access via Missing Authorisation Checks</a>](https://vigilance.fr/vulnerability/Tryton-user-access-via-Missing-Authorisation-Checks-45251)|An attacker can bypass restrictions of Tryton, via Missing Authorisation Checks, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libgcrypt-information-disclosure-via-RSA-45591" class="noirorange"><b>libgcrypt</b>: information disclosure via RSA</a>](https://vigilance.fr/vulnerability/libgcrypt-information-disclosure-via-RSA-45591)|An attacker can bypass access restrictions to data of libgcrypt, via RSA, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-vApp-code-execution-via-OS-Command-Injection-45248" class="noirorange"><b>Dell Unisphere for PowerMax vApp</b>: code execution via OS Command Injection</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-vApp-code-execution-via-OS-Command-Injection-45248)|An attacker can use a vulnerability of Dell Unisphere for PowerMax vApp, via OS Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-privilege-escalation-via-Activation-Cache-Poisoning-45247" class="noirorange"><b>Microsoft Windows</b>: privilege escalation via Activation Cache Poisoning</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-privilege-escalation-via-Activation-Cache-Poisoning-45247)|An attacker can bypass restrictions of Microsoft Windows, via Activation Cache Poisoning, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1018/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1017/)|De multiples vulnérabilités ont été découvertes dans Centreon Central server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1016/)|Une vulnérabilité a été découverte dans NetApp Brocade SAN Navigator. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 novembre 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-privilege-escalation-via-Administrator-Creation-45638" class="noirorange"><b>Stormshield Network Security</b>: privilege escalation via Administrator Creation</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-privilege-escalation-via-Administrator-Creation-45638)|An attacker can bypass restrictions of Stormshield Network Security, via Administrator Creation, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-UEFI-Firmware-denial-of-service-via-Control-Flow-Management-45630" class="noirorange"><b>Intel UEFI Firmware</b>: denial of service via Control Flow Management</a>](https://vigilance.fr/vulnerability/Intel-UEFI-Firmware-denial-of-service-via-Control-Flow-Management-45630)|An attacker can cause a fatal error of Intel UEFI Firmware, via Control Flow Management, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-FSMs-45628" class="noirorange"><b>Intel Xeon Processor</b>: denial of service via FSMs</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-FSMs-45628)|An attacker can cause a fatal error of Intel Xeon Processor, via FSMs, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Command-Injection-45610" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: code execution via CLI Command Injection</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Command-Injection-45610)|An attacker can use a vulnerability of FortiAnalyzer  FortiManager, via CLI Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-Commands-45609" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: file deletion via CLI Commands</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-Commands-45609)|An attacker can bypass access restrictions of FortiAnalyzer  FortiManager, via CLI Commands, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-via-CLI-Requests-45608" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: directory traversal via CLI Requests</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-via-CLI-Requests-45608)|An attacker can traverse directories of FortiAnalyzer  FortiManager, via CLI Requests, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CoreDNS-spoofing-via-Birthday-Attack-45254" class="noirorange"><b>CoreDNS</b>: spoofing via Birthday Attack</a>](https://vigilance.fr/vulnerability/CoreDNS-spoofing-via-Birthday-Attack-45254)|An attacker can create spoofed data on CoreDNS, via Birthday Attack, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CoreDNS-denial-of-service-via-Source-Port-45253" class="noirorange"><b>CoreDNS</b>: denial of service via Source Port</a>](https://vigilance.fr/vulnerability/CoreDNS-denial-of-service-via-Source-Port-45253)|An attacker can cause a fatal error of CoreDNS, via Source Port, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-Yaml-denial-of-service-via-Unmarshal-45252" class="noirorange"><b>Go-Yaml</b>: denial of service via Unmarshal</a>](https://vigilance.fr/vulnerability/Go-Yaml-denial-of-service-via-Unmarshal-45252)|An attacker can cause a fatal error of Go-Yaml, via Unmarshal, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tryton-user-access-via-Missing-Authorisation-Checks-45251" class="noirorange"><b>Tryton</b>: user access via Missing Authorisation Checks</a>](https://vigilance.fr/vulnerability/Tryton-user-access-via-Missing-Authorisation-Checks-45251)|An attacker can bypass restrictions of Tryton, via Missing Authorisation Checks, in order to gain user privileges...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
