@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/11/2024 21:23:06 UTC
+ > Last Updated 28/11/2024 09:26:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1025/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1024/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 27 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1023/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1022/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1021/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 27 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1020/)|Une vulnérabilité a été découverte dans Palo Alto Networks GlobalProtect App. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 26 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1019/)|De multiples vulnérabilités ont été découvertes dans Netgate pfSense. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 26 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1018/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1017/)|De multiples vulnérabilités ont été découvertes dans Centreon Central server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1016/)|Une vulnérabilité a été découverte dans NetApp Brocade SAN Navigator. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 novembre 2024|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[<a href="https://vigilance.fr/vulnerability/libgcrypt-information-disclosure-via-RSA-45591" class="noirorange"><b>libgcrypt</b>: information disclosure via RSA</a>](https://vigilance.fr/vulnerability/libgcrypt-information-disclosure-via-RSA-45591)|An attacker can bypass access restrictions to data of libgcrypt, via RSA, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-vApp-code-execution-via-OS-Command-Injection-45248" class="noirorange"><b>Dell Unisphere for PowerMax vApp</b>: code execution via OS Command Injection</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-vApp-code-execution-via-OS-Command-Injection-45248)|An attacker can use a vulnerability of Dell Unisphere for PowerMax vApp, via OS Command Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-privilege-escalation-via-Activation-Cache-Poisoning-45247" class="noirorange"><b>Microsoft Windows</b>: privilege escalation via Activation Cache Poisoning</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-privilege-escalation-via-Activation-Cache-Poisoning-45247)|An attacker can bypass restrictions of Microsoft Windows, via Activation Cache Poisoning, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1025/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1024/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 27 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1023/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1022/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1021/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 27 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1020/)|Une vulnérabilité a été découverte dans Palo Alto Networks GlobalProtect App. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 26 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1019/)|De multiples vulnérabilités ont été découvertes dans Netgate pfSense. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 26 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1018/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1017/)|De multiples vulnérabilités ont été découvertes dans Centreon Central server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1016/)|Une vulnérabilité a été découverte dans NetApp Brocade SAN Navigator. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 novembre 2024|
  
  ---
 
