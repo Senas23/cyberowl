@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/11/2024 09:27:40 UTC
+ > Last Updated 29/11/2024 21:22:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1033/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 29 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1032/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 29 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 29 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1030/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 29 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1029/)|Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1028/)|De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 29 novembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1027/)|De multiples vulnérabilités ont été découvertes dans VMware Aria Operations. Elles permettent à un attaquant de provoquer une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 29 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1026/)|De multiples vulnérabilités ont été découvertes dans les produits Synology. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 28 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1025/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1024/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 27 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1023/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1022/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1021/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 27 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1020/)|Une vulnérabilité a été découverte dans Palo Alto Networks GlobalProtect App. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 26 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1019/)|De multiples vulnérabilités ont été découvertes dans Netgate pfSense. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 26 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1018/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1017/)|De multiples vulnérabilités ont été découvertes dans Centreon Central server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 novembre 2024|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-deletion-via-CLI-45656" class="noirorange"><b>PAN-OS</b>: file deletion via CLI</a>](https://vigilance.fr/vulnerability/PAN-OS-file-deletion-via-CLI-45656)|An attacker can bypass access restrictions of PAN-OS, via CLI, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-directory-traversal-via-HTTP-Request-43678" class="noirorange"><b>Undertow</b>: directory traversal via HTTP Request</a>](https://vigilance.fr/vulnerability/Undertow-directory-traversal-via-HTTP-Request-43678)|An attacker can traverse directories of Undertow, via HTTP Request, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query4-45648" class="noirorange"><b>IBM Db2</b>: denial of service via Query4</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query4-45648)|An attacker can cause a fatal error of IBM Db2, via Query4, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query3-45647" class="noirorange"><b>IBM Db2</b>: denial of service via Query3</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query3-45647)|An attacker can cause a fatal error of IBM Db2, via Query3, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query2-45646" class="noirorange"><b>IBM Db2</b>: denial of service via Query2</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query2-45646)|An attacker can cause a fatal error of IBM Db2, via Query2, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Intel-UEFI-Firmware-denial-of-service-via-Control-Flow-Management-45630" class="noirorange"><b>Intel UEFI Firmware</b>: denial of service via Control Flow Management</a>](https://vigilance.fr/vulnerability/Intel-UEFI-Firmware-denial-of-service-via-Control-Flow-Management-45630)|An attacker can cause a fatal error of Intel UEFI Firmware, via Control Flow Management, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-FSMs-45628" class="noirorange"><b>Intel Xeon Processor</b>: denial of service via FSMs</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-FSMs-45628)|An attacker can cause a fatal error of Intel Xeon Processor, via FSMs, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Command-Injection-45610" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: code execution via CLI Command Injection</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Command-Injection-45610)|An attacker can use a vulnerability of FortiAnalyzer  FortiManager, via CLI Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-Commands-45609" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: file deletion via CLI Commands</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-Commands-45609)|An attacker can bypass access restrictions of FortiAnalyzer  FortiManager, via CLI Commands, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-via-CLI-Requests-45608" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: directory traversal via CLI Requests</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-via-CLI-Requests-45608)|An attacker can traverse directories of FortiAnalyzer  FortiManager, via CLI Requests, in order to write a file outside the service root path...|Visit link for details|
  
  ---
 
