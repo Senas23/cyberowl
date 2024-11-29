@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/11/2024 21:22:12 UTC
+ > Last Updated 29/11/2024 09:27:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1026/)|De multiples vulnérabilités ont été découvertes dans les produits Synology. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 28 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1025/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1024/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 27 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1023/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 novembre 2024|
@@ -43,7 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1019/)|De multiples vulnérabilités ont été découvertes dans Netgate pfSense. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 26 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1018/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 novembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1017/)|De multiples vulnérabilités ont été découvertes dans Centreon Central server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 novembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1016/)|Une vulnérabilité a été découverte dans NetApp Brocade SAN Navigator. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 25 novembre 2024|
  
  ---
 
@@ -51,16 +51,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query4-45648" class="noirorange"><b>IBM Db2</b>: denial of service via Query4</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query4-45648)|An attacker can cause a fatal error of IBM Db2, via Query4, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query3-45647" class="noirorange"><b>IBM Db2</b>: denial of service via Query3</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query3-45647)|An attacker can cause a fatal error of IBM Db2, via Query3, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query2-45646" class="noirorange"><b>IBM Db2</b>: denial of service via Query2</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query2-45646)|An attacker can cause a fatal error of IBM Db2, via Query2, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-45645" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-45645)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-privilege-escalation-via-Administrator-Creation-45638" class="noirorange"><b>Stormshield Network Security</b>: privilege escalation via Administrator Creation</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-privilege-escalation-via-Administrator-Creation-45638)|An attacker can bypass restrictions of Stormshield Network Security, via Administrator Creation, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-UEFI-Firmware-denial-of-service-via-Control-Flow-Management-45630" class="noirorange"><b>Intel UEFI Firmware</b>: denial of service via Control Flow Management</a>](https://vigilance.fr/vulnerability/Intel-UEFI-Firmware-denial-of-service-via-Control-Flow-Management-45630)|An attacker can cause a fatal error of Intel UEFI Firmware, via Control Flow Management, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-FSMs-45628" class="noirorange"><b>Intel Xeon Processor</b>: denial of service via FSMs</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-denial-of-service-via-FSMs-45628)|An attacker can cause a fatal error of Intel Xeon Processor, via FSMs, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Command-Injection-45610" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: code execution via CLI Command Injection</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Command-Injection-45610)|An attacker can use a vulnerability of FortiAnalyzer  FortiManager, via CLI Command Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-Commands-45609" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: file deletion via CLI Commands</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-Commands-45609)|An attacker can bypass access restrictions of FortiAnalyzer  FortiManager, via CLI Commands, in order to delete a file...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-via-CLI-Requests-45608" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: directory traversal via CLI Requests</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-directory-traversal-via-CLI-Requests-45608)|An attacker can traverse directories of FortiAnalyzer  FortiManager, via CLI Requests, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CoreDNS-spoofing-via-Birthday-Attack-45254" class="noirorange"><b>CoreDNS</b>: spoofing via Birthday Attack</a>](https://vigilance.fr/vulnerability/CoreDNS-spoofing-via-Birthday-Attack-45254)|An attacker can create spoofed data on CoreDNS, via Birthday Attack, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CoreDNS-denial-of-service-via-Source-Port-45253" class="noirorange"><b>CoreDNS</b>: denial of service via Source Port</a>](https://vigilance.fr/vulnerability/CoreDNS-denial-of-service-via-Source-Port-45253)|An attacker can cause a fatal error of CoreDNS, via Source Port, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-Yaml-denial-of-service-via-Unmarshal-45252" class="noirorange"><b>Go-Yaml</b>: denial of service via Unmarshal</a>](https://vigilance.fr/vulnerability/Go-Yaml-denial-of-service-via-Unmarshal-45252)|An attacker can cause a fatal error of Go-Yaml, via Unmarshal, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tryton-user-access-via-Missing-Authorisation-Checks-45251" class="noirorange"><b>Tryton</b>: user access via Missing Authorisation Checks</a>](https://vigilance.fr/vulnerability/Tryton-user-access-via-Missing-Authorisation-Checks-45251)|An attacker can bypass restrictions of Tryton, via Missing Authorisation Checks, in order to gain user privileges...|Visit link for details|
  
  ---
 
