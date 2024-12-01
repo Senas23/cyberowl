@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/11/2024 21:21:55 UTC
+ > Last Updated 01/12/2024 09:24:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-btintel-pcie-45259" class="noirorange"><b>Linux kernel</b>: memory corruption via btintel_pcie()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-btintel-pcie-45259)|An attacker can trigger a memory corruption of the Linux kernel, via btintel_pcie(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Host-monitoring-Widgets-45258" class="noirorange"><b>Centreon Web</b>: SQL injection via Host-monitoring Widgets</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Host-monitoring-Widgets-45258)|An attacker can use a SQL injection of Centreon Web, via Host-monitoring Widgets, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Web-UI-45257" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Web-UI-45257)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Modular-exponentiation-Calculations-45256" class="noirorange"><b>Diffie-Hellman Key Agreement Protocol</b>: overload via Modular-<wbr>exponentiation Calculations</wbr></a>](https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Modular-exponentiation-Calculations-45256)|An attacker can trigger an overload of Diffie-Hellman Key Agreement Protocol, via Modular-|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query4-45648" class="noirorange"><b>IBM Db2</b>: denial of service via Query4</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query4-45648)|An attacker can cause a fatal error of IBM Db2, via Query4, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query3-45647" class="noirorange"><b>IBM Db2</b>: denial of service via Query3</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query3-45647)|An attacker can cause a fatal error of IBM Db2, via Query3, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query2-45646" class="noirorange"><b>IBM Db2</b>: denial of service via Query2</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query2-45646)|An attacker can cause a fatal error of IBM Db2, via Query2, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-45645" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-45645)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
