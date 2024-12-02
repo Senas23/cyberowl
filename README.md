@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/12/2024 21:21:52 UTC
+ > Last Updated 02/12/2024 09:29:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Slackware-15-0-privilege-escalation-via-tmp-Rpath-45268" class="noirorange"><b>Slackware 15.0</b>: privilege escalation via /tmp Rpath</a>](https://vigilance.fr/vulnerability/Slackware-15-0-privilege-escalation-via-tmp-Rpath-45268)|An attacker can bypass restrictions of Slackware 15.0, via /tmp Rpath, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Devise-Two-Factor-weak-encryption-via-120-Bits-Shared-Secrets-45267" class="noirorange"><b>Devise-Two-Factor</b>: weak encryption via 120 Bits Shared Secrets</a>](https://vigilance.fr/vulnerability/Devise-Two-Factor-weak-encryption-via-120-Bits-Shared-Secrets-45267)|An attacker can access data on Devise-Two-Factor, via 120 Bits Shared Secrets, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Devise-Two-Factor-user-access-via-Immediately-Trailing-Interval-45266" class="noirorange"><b>Devise-Two-Factor</b>: user access via Immediately Trailing Interval</a>](https://vigilance.fr/vulnerability/Devise-Two-Factor-user-access-via-Immediately-Trailing-Interval-45266)|An attacker can bypass restrictions of Devise-Two-Factor, via Immediately Trailing Interval, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenIPMI-buffer-overflow-dated-01-10-2024-45264" class="noirorange"><b>OpenIPMI</b>: buffer overflow dated 01/10/2024</a>](https://vigilance.fr/vulnerability/OpenIPMI-buffer-overflow-dated-01-10-2024-45264)|An attacker can trigger a buffer overflow of OpenIPMI, dated 01/10/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Host-monitoring-Widgets-45258" class="noirorange"><b>Centreon Web</b>: SQL injection via Host-monitoring Widgets</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Host-monitoring-Widgets-45258)|An attacker can use a SQL injection of Centreon Web, via Host-monitoring Widgets, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Web-UI-45257" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Web-UI-45257)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Modular-exponentiation-Calculations-45256" class="noirorange"><b>Diffie-Hellman Key Agreement Protocol</b>: overload via Modular-<wbr>exponentiation Calculations</wbr></a>](https://vigilance.fr/vulnerability/Diffie-Hellman-Key-Agreement-Protocol-overload-via-Modular-exponentiation-Calculations-45256)|An attacker can trigger an overload of Diffie-Hellman Key Agreement Protocol, via Modular-|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-09-2024-45255" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/09/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-09-2024-45255)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/09/2024...|Visit link for details|
  
  ---
 
