@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/12/2024 21:23:45 UTC
+ > Last Updated 03/12/2024 09:26:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-overload-via-Unbounded-Pattern-Matching-45286" class="noirorange"><b>Redis</b>: overload via Unbounded Pattern Matching</a>](https://vigilance.fr/vulnerability/Redis-overload-via-Unbounded-Pattern-Matching-45286)|An attacker can trigger an overload of Redis, via Unbounded Pattern Matching, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-denial-of-service-via-Malformed-ACL-Selectors-45285" class="noirorange"><b>Redis</b>: denial of service via Malformed ACL Selectors</a>](https://vigilance.fr/vulnerability/Redis-denial-of-service-via-Malformed-ACL-Selectors-45285)|An attacker can cause a fatal error of Redis, via Malformed ACL Selectors, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DOMPurify-Cross-Site-Scripting-via-Nesting-45282" class="noirorange"><b>DOMPurify</b>: Cross Site Scripting via Nesting</a>](https://vigilance.fr/vulnerability/DOMPurify-Cross-Site-Scripting-via-Nesting-45282)|An attacker can trigger a Cross Site Scripting of DOMPurify, via Nesting, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/path-to-regexp-overload-via-Single-Segment-Two-Parameters-45281" class="noirorange"><b>path-to-regexp</b>: overload via Single Segment Two Parameters</a>](https://vigilance.fr/vulnerability/path-to-regexp-overload-via-Single-Segment-Two-Parameters-45281)|An attacker can trigger an overload of path-to-regexp, via Single Segment Two Parameters, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Session-Fixation-45279" class="noirorange"><b>Drupal Two-factor Authentication</b>: user access via Session Fixation</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-user-access-via-Session-Fixation-45279)|An attacker can bypass restrictions of Drupal Two-factor Authentication, via Session Fixation, in order to gain user privileges...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Credentials-OpenId-Connect-Authentication-three-vulnerabilities-dated-02-10-2024-45271" class="noirorange"><b>Jenkins Credentials  OpenId Connect Authentication</b>: three vulnerabilities dated 02/10/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Credentials-OpenId-Connect-Authentication-three-vulnerabilities-dated-02-10-2024-45271)|An attacker can use several vulnerabilities of Jenkins Credentials  OpenId Connect Authentication, dated 02/10/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-two-vulnerabilities-dated-02-10-2024-45270" class="noirorange"><b>Jenkins Core LTS</b>: two vulnerabilities dated 02/10/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-two-vulnerabilities-dated-02-10-2024-45270)|An attacker can use several vulnerabilities of Jenkins Core LTS, dated 02/10/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Slackware-15-0-privilege-escalation-via-tmp-Rpath-45268" class="noirorange"><b>Slackware 15.0</b>: privilege escalation via /tmp Rpath</a>](https://vigilance.fr/vulnerability/Slackware-15-0-privilege-escalation-via-tmp-Rpath-45268)|An attacker can bypass restrictions of Slackware 15.0, via /tmp Rpath, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Devise-Two-Factor-weak-encryption-via-120-Bits-Shared-Secrets-45267" class="noirorange"><b>Devise-Two-Factor</b>: weak encryption via 120 Bits Shared Secrets</a>](https://vigilance.fr/vulnerability/Devise-Two-Factor-weak-encryption-via-120-Bits-Shared-Secrets-45267)|An attacker can access data on Devise-Two-Factor, via 120 Bits Shared Secrets, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Devise-Two-Factor-user-access-via-Immediately-Trailing-Interval-45266" class="noirorange"><b>Devise-Two-Factor</b>: user access via Immediately Trailing Interval</a>](https://vigilance.fr/vulnerability/Devise-Two-Factor-user-access-via-Immediately-Trailing-Interval-45266)|An attacker can bypass restrictions of Devise-Two-Factor, via Immediately Trailing Interval, in order to gain user privileges...|Visit link for details|
  
  ---
 
