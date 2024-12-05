@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/12/2024 21:23:59 UTC
+ > Last Updated 05/12/2024 09:26:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,20 +23,10 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mesa-memory-corruption-via-glXGetDrawableAttribute-45298" class="noirorange"><b>Mesa</b>: memory corruption via __<wbr>glXGetDrawableAttrib<wbr>ute()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mesa-memory-corruption-via-glXGetDrawableAttribute-45298)|An attacker can trigger a memory corruption of Mesa, via __|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mesa-out-of-bounds-memory-reading-via-glXQueryServerString-45297" class="noirorange"><b>Mesa</b>: out-of-bounds memory reading via glXQueryServerString<wbr>()</wbr></a>](https://vigilance.fr/vulnerability/Mesa-out-of-bounds-memory-reading-via-glXQueryServerString-45297)|An attacker can force a read at an invalid memory address of Mesa, via glXQueryServerString|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-on-MacOS-four-vulnerabilities-dated-04-10-2024-45295" class="noirorange"><b>Avast Antivirus on MacOS</b>: four vulnerabilities dated 04/10/2024</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-on-MacOS-four-vulnerabilities-dated-04-10-2024-45295)|An attacker can use several vulnerabilities of Avast Antivirus on MacOS, dated 04/10/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/XStream-buffer-overflow-via-BinaryStreamDriver-45697" class="noirorange"><b>XStream</b>: buffer overflow via BinaryStreamDriver</a>](https://vigilance.fr/vulnerability/XStream-buffer-overflow-via-BinaryStreamDriver-45697)|An attacker can trigger a buffer overflow of XStream, via BinaryStreamDriver, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-Pluggable-Authentication-Module-information-disclosure-about-passwords-45696" class="noirorange"><b>Linux Pluggable Authentication Module</b>: information disclosure about passwords</a>](https://vigilance.fr/vulnerability/Linux-Pluggable-Authentication-Module-information-disclosure-about-passwords-45696)|An attacker can get information about passwords loaded by a Linux Pluggable Authentication Module, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cups-filters-denial-of-service-via-HTTP-Requests-45294" class="noirorange"><b>cups-filters</b>: denial of service via HTTP Requests</a>](https://vigilance.fr/vulnerability/cups-filters-denial-of-service-via-HTTP-Requests-45294)|An attacker can cause a fatal error of cups-filters, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-two-vulnerabilities-dated-04-10-2024-45293" class="noirorange"><b>Apple iOS</b>: two vulnerabilities dated 04/10/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-two-vulnerabilities-dated-04-10-2024-45293)|An attacker can use several vulnerabilities of Apple iOS, dated 04/10/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-COM-Hijack-45292" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via COM Hijack</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-COM-Hijack-45292)|An attacker can bypass restrictions of Avast Antivirus, via COM Hijack, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-for-Mac-Linux-denial-of-service-via-PE32-File-45291" class="noirorange"><b>WithSecure Endpoint Protection for Mac/Linux</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-for-Mac-Linux-denial-of-service-via-PE32-File-45291)|An attacker can cause a fatal error of WithSecure Endpoint Protection for Mac/Linux, via PE32 File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-three-vulnerabilities-dated-03-10-2024-45290" class="noirorange"><b>Webroot SecureAnywhere</b>: three vulnerabilities dated 03/10/2024</a>](https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-three-vulnerabilities-dated-03-10-2024-45290)|An attacker can use several vulnerabilities of Webroot SecureAnywhere, dated 03/10/2024...|Visit link for details|
  
  ---
 
@@ -57,6 +47,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mesa-memory-corruption-via-glXGetDrawableAttribute-45298" class="noirorange"><b>Mesa</b>: memory corruption via __<wbr>glXGetDrawableAttrib<wbr>ute()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mesa-memory-corruption-via-glXGetDrawableAttribute-45298)|An attacker can trigger a memory corruption of Mesa, via __|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mesa-out-of-bounds-memory-reading-via-glXQueryServerString-45297" class="noirorange"><b>Mesa</b>: out-of-bounds memory reading via glXQueryServerString<wbr>()</wbr></a>](https://vigilance.fr/vulnerability/Mesa-out-of-bounds-memory-reading-via-glXQueryServerString-45297)|An attacker can force a read at an invalid memory address of Mesa, via glXQueryServerString|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-on-MacOS-four-vulnerabilities-dated-04-10-2024-45295" class="noirorange"><b>Avast Antivirus on MacOS</b>: four vulnerabilities dated 04/10/2024</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-on-MacOS-four-vulnerabilities-dated-04-10-2024-45295)|An attacker can use several vulnerabilities of Avast Antivirus on MacOS, dated 04/10/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/XStream-buffer-overflow-via-BinaryStreamDriver-45697" class="noirorange"><b>XStream</b>: buffer overflow via BinaryStreamDriver</a>](https://vigilance.fr/vulnerability/XStream-buffer-overflow-via-BinaryStreamDriver-45697)|An attacker can trigger a buffer overflow of XStream, via BinaryStreamDriver, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-Pluggable-Authentication-Module-information-disclosure-about-passwords-45696" class="noirorange"><b>Linux Pluggable Authentication Module</b>: information disclosure about passwords</a>](https://vigilance.fr/vulnerability/Linux-Pluggable-Authentication-Module-information-disclosure-about-passwords-45696)|An attacker can get information about passwords loaded by a Linux Pluggable Authentication Module, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cups-filters-denial-of-service-via-HTTP-Requests-45294" class="noirorange"><b>cups-filters</b>: denial of service via HTTP Requests</a>](https://vigilance.fr/vulnerability/cups-filters-denial-of-service-via-HTTP-Requests-45294)|An attacker can cause a fatal error of cups-filters, via HTTP Requests, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-two-vulnerabilities-dated-04-10-2024-45293" class="noirorange"><b>Apple iOS</b>: two vulnerabilities dated 04/10/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-two-vulnerabilities-dated-04-10-2024-45293)|An attacker can use several vulnerabilities of Apple iOS, dated 04/10/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-COM-Hijack-45292" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via COM Hijack</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-COM-Hijack-45292)|An attacker can bypass restrictions of Avast Antivirus, via COM Hijack, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-for-Mac-Linux-denial-of-service-via-PE32-File-45291" class="noirorange"><b>WithSecure Endpoint Protection for Mac/Linux</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-for-Mac-Linux-denial-of-service-via-PE32-File-45291)|An attacker can cause a fatal error of WithSecure Endpoint Protection for Mac/Linux, via PE32 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-three-vulnerabilities-dated-03-10-2024-45290" class="noirorange"><b>Webroot SecureAnywhere</b>: three vulnerabilities dated 03/10/2024</a>](https://vigilance.fr/vulnerability/Webroot-SecureAnywhere-three-vulnerabilities-dated-03-10-2024-45290)|An attacker can use several vulnerabilities of Webroot SecureAnywhere, dated 03/10/2024...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -65,13 +72,6 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
