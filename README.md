@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/12/2024 21:22:49 UTC
+ > Last Updated 07/12/2024 09:25:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-Cross-Site-Scripting-via-Backend-45305" class="noirorange"><b>Joomla HikaShop</b>: Cross Site Scripting via Backend</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-Cross-Site-Scripting-via-Backend-45305)|An attacker can trigger a Cross Site Scripting of Joomla HikaShop, via Backend, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-three-vulnerabilities-dated-07-03-2024-43724" class="noirorange"><b>GitLab CE/EE</b>: three vulnerabilities dated 07/03/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-three-vulnerabilities-dated-07-03-2024-43724)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 07/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-four-vulnerabilities-dated-07-10-2024-45304" class="noirorange"><b>Cacti</b>: four vulnerabilities dated 07/10/2024</a>](https://vigilance.fr/vulnerability/Cacti-four-vulnerabilities-dated-07-10-2024-45304)|An attacker can use several vulnerabilities of Cacti, dated 07/10/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsndfile-denial-of-service-via-Ogg-Vorbis-45722" class="noirorange"><b>libsndfile</b>: denial of service via Ogg Vorbis</a>](https://vigilance.fr/vulnerability/libsndfile-denial-of-service-via-Ogg-Vorbis-45722)|An attacker can cause a fatal error of libsndfile, via Ogg Vorbis, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Registration-role-privilege-escalation-43721" class="noirorange"><b>Drupal Registration role</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Drupal-Registration-role-privilege-escalation-43721)|An attacker can bypass restrictions of Drupal Registration role, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-three-vulnerabilities-dated-22-11-2024-45721" class="noirorange"><b>Apache Traffic Server</b>: three vulnerabilities dated 22/11/2024</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-three-vulnerabilities-dated-22-11-2024-45721)|An attacker can use several vulnerabilities of Apache Traffic Server, dated 22/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-AbuseFilter-45302" class="noirorange"><b>MediaWiki</b>: information disclosure via AbuseFilter</a>](https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-AbuseFilter-45302)|An attacker can bypass access restrictions to data of MediaWiki, via AbuseFilter, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/oath-toolkit-privilege-escalation-via-PAM-Module-45301" class="noirorange"><b>oath-toolkit</b>: privilege escalation via PAM Module</a>](https://vigilance.fr/vulnerability/oath-toolkit-privilege-escalation-via-PAM-Module-45301)|An attacker can bypass restrictions of oath-toolkit, via PAM Module, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-Project-G-Structured-File-Library-out-of-bounds-memory-reading-via-Compound-Document-Binary-File-Format-Parser-45300" class="noirorange"><b>GNOME Project G Structured File Library</b>: out-of-bounds memory reading via Compound Document Binary File Format Parser</a>](https://vigilance.fr/vulnerability/GNOME-Project-G-Structured-File-Library-out-of-bounds-memory-reading-via-Compound-Document-Binary-File-Format-Parser-45300)|An attacker can force a read at an invalid memory address of GNOME Project G Structured File Library, via Compound Document Binary File Format Parser, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-Project-G-Structured-File-Library-out-of-bounds-memory-reading-via-Compound-Document-Binary-File-Format-Parser-45299" class="noirorange"><b>GNOME Project G Structured File Library</b>: out-of-bounds memory reading via Compound Document Binary File Format Parser</a>](https://vigilance.fr/vulnerability/GNOME-Project-G-Structured-File-Library-out-of-bounds-memory-reading-via-Compound-Document-Binary-File-Format-Parser-45299)|An attacker can force a read at an invalid memory address of GNOME Project G Structured File Library, via Compound Document Binary File Format Parser, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Client-code-execution-via-Carriage-Return-Line-Feed-43718" class="noirorange"><b>Cisco Secure Client</b>: code execution via Carriage Return Line Feed</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Client-code-execution-via-Carriage-Return-Line-Feed-43718)|An attacker can use a vulnerability of Cisco Secure Client, via Carriage Return Line Feed, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-06-03-2024-43716" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 06/03/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-06-03-2024-43716)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 06/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-Networks-ArubaOS-multiple-vulnerabilities-dated-06-03-2024-43712" class="noirorange"><b>Aruba Networks ArubaOS</b>: multiple vulnerabilities dated 06/03/2024</a>](https://vigilance.fr/vulnerability/Aruba-Networks-ArubaOS-multiple-vulnerabilities-dated-06-03-2024-43712)|An attacker can use several vulnerabilities of Aruba Networks ArubaOS, dated 06/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-Rack-denial-of-service-43711" class="noirorange"><b>RubyGem Rack</b>: denial of service</a>](https://vigilance.fr/vulnerability/RubyGem-Rack-denial-of-service-43711)|An attacker can cause a fatal error of RubyGem Rack, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ECMP-45718" class="noirorange"><b>Wireshark</b>: denial of service via ECMP</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ECMP-45718)|An attacker can send malicious ECMP packets to Wireshark, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-FiveCo-RAP-45717" class="noirorange"><b>Wireshark</b>: overload via FiveCo RAP</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-FiveCo-RAP-45717)|An attacker can trigger an overload of Wireshark, via FiveCo RAP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-June-2023-41419" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-June-2023-41419)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-06-03-2024-43707" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 06/03/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-06-03-2024-43707)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 06/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-March-2024-43703" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of March 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-March-2024-43703)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mesa-memory-corruption-via-glXGetDrawableAttribute-45298" class="noirorange"><b>Mesa</b>: memory corruption via __<wbr>glXGetDrawableAttrib<wbr>ute()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mesa-memory-corruption-via-glXGetDrawableAttribute-45298)|An attacker can trigger a memory corruption of Mesa, via __|Visit link for details|
  
  ---
 
