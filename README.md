@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/12/2024 21:21:14 UTC
+ > Last Updated 08/12/2024 09:24:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-multiple-vulnerabilities-dated-08-03-2024-43732" class="noirorange"><b>Apple macOS</b>: multiple vulnerabilities dated 08/03/2024</a>](https://vigilance.fr/vulnerability/Apple-macOS-multiple-vulnerabilities-dated-08-03-2024-43732)|An attacker can use several vulnerabilities of Apple macOS, dated 08/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Bibliotheques-Go-five-vulnerabilities-dated-07-03-2024-43731" class="noirorange"><b>Bibliothèques Go</b>: five vulnerabilities dated 07/03/2024</a>](https://vigilance.fr/vulnerability/Bibliotheques-Go-five-vulnerabilities-dated-07-03-2024-43731)|An attacker can use several vulnerabilities of Bibliothèques Go, dated 07/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/body-parser-overload-via-Url-Encoding-45313" class="noirorange"><b>body-parser</b>: overload via Url Encoding</a>](https://vigilance.fr/vulnerability/body-parser-overload-via-Url-Encoding-45313)|An attacker can trigger an overload of body-parser, via Url Encoding, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/serve-static-code-execution-via-redirect-45311" class="noirorange"><b>serve-static</b>: code execution via redirect()</a>](https://vigilance.fr/vulnerability/serve-static-code-execution-via-redirect-45311)|An attacker can use a vulnerability of serve-static, via redirect(), in order to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/NLnet-Labs-Unbound-overload-via-EDE-43728" class="noirorange"><b>NLnet Labs Unbound</b>: overload via EDE</a>](https://vigilance.fr/vulnerability/NLnet-Labs-Unbound-overload-via-EDE-43728)|An attacker can trigger an overload of NLnet Labs Unbound, via EDE, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-HikaShop-Cross-Site-Scripting-via-Backend-45305" class="noirorange"><b>Joomla HikaShop</b>: Cross Site Scripting via Backend</a>](https://vigilance.fr/vulnerability/Joomla-HikaShop-Cross-Site-Scripting-via-Backend-45305)|An attacker can trigger a Cross Site Scripting of Joomla HikaShop, via Backend, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-three-vulnerabilities-dated-07-03-2024-43724" class="noirorange"><b>GitLab CE/EE</b>: three vulnerabilities dated 07/03/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-three-vulnerabilities-dated-07-03-2024-43724)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 07/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-four-vulnerabilities-dated-07-10-2024-45304" class="noirorange"><b>Cacti</b>: four vulnerabilities dated 07/10/2024</a>](https://vigilance.fr/vulnerability/Cacti-four-vulnerabilities-dated-07-10-2024-45304)|An attacker can use several vulnerabilities of Cacti, dated 07/10/2024...|Visit link for details|
  
  ---
 
