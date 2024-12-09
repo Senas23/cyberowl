@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/12/2024 21:21:48 UTC
+ > Last Updated 09/12/2024 09:27:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-cookie-Cross-Site-Scripting-dated-09-10-2024-45348" class="noirorange"><b>Node.js cookie</b>: Cross Site Scripting dated 09/10/2024</a>](https://vigilance.fr/vulnerability/Node-js-cookie-Cross-Site-Scripting-dated-09-10-2024-45348)|An attacker can trigger a Cross Site Scripting of Node.js cookie, dated 09/10/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436" class="noirorange"><b>Puppet Enterprise</b>: code execution via Orchestrator</a>](https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Orchestrator-41436)|An attacker can use a vulnerability of Puppet Enterprise, via Orchestrator, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-no-encryption-via-Event-Driven-Automation-45344" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: no encryption via Event-Driven Automation</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-no-encryption-via-Event-Driven-Automation-45344)|An attacker can access data on Red Hat Ansible Automation Platform, via Event-Driven Automation, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-privilege-escalation-dated-08-10-2024-45341" class="noirorange"><b>Microsoft SharePoint</b>: privilege escalation dated 08/10/2024</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-privilege-escalation-dated-08-10-2024-45341)|An attacker can bypass restrictions of Microsoft SharePoint, dated 08/10/2024, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Linux-spoofing-dated-08-10-2024-45340" class="noirorange"><b>Microsoft Defender for Endpoint for Linux</b>: spoofing dated 08/10/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Linux-spoofing-dated-08-10-2024-45340)|An attacker can create spoofed data on Microsoft Defender for Endpoint for Linux, dated 08/10/2024, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/JSON-lib-ingress-filtrering-bypass-via-JSONTokener-45335" class="noirorange"><b>JSON-lib</b>: ingress filtrering bypass via JSONTokener</a>](https://vigilance.fr/vulnerability/JSON-lib-ingress-filtrering-bypass-via-JSONTokener-45335)|An attacker can bypass filtering rules of JSON-lib, via JSONTokener, in order to send malicious data...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Go-file-reading-via-FIPS-Mode-45333" class="noirorange"><b>Go</b>: file reading via FIPS Mode</a>](https://vigilance.fr/vulnerability/Go-file-reading-via-FIPS-Mode-45333)|An attacker can read a file of Go, via FIPS Mode, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-code-execution-via-Authenticated-Admin-45331" class="noirorange"><b>Ivanti Connect Secure</b>: code execution via Authenticated Admin</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-code-execution-via-Authenticated-Admin-45331)|An attacker can use a vulnerability of Ivanti Connect Secure, via Authenticated Admin, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-memory-corruption-via-fazsvcd-45329" class="noirorange"><b>FortiAnalyzer</b>: memory corruption via fazsvcd</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-memory-corruption-via-fazsvcd-45329)|An attacker can trigger a memory corruption of FortiAnalyzer, via fazsvcd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Page-Tree-45325" class="noirorange"><b>TYPO3 Core</b>: information disclosure via Page Tree</a>](https://vigilance.fr/vulnerability/TYPO3-Core-information-disclosure-via-Page-Tree-45325)|An attacker can bypass access restrictions to data of TYPO3 Core, via Page Tree, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Subversion-code-execution-via-Windows-Command-Line-Argument-45323" class="noirorange"><b>Apache Subversion</b>: code execution via Windows Command Line Argument</a>](https://vigilance.fr/vulnerability/Apache-Subversion-code-execution-via-Windows-Command-Line-Argument-45323)|An attacker can use a vulnerability of Apache Subversion, via Windows Command Line Argument, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-access-to-all-databases-43735" class="noirorange"><b>Grafana</b>: access to all databases</a>](https://vigilance.fr/vulnerability/Grafana-access-to-all-databases-43735)|An attacker can create a data source via the API, in order to gain access to all databases...|Visit link for details|
  
  ---
 
