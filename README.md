@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/12/2024 21:24:40 UTC
+ > Last Updated 12/12/2024 09:29:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,10 +23,35 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1070/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 11 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1069/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2024-49138...|Publié le 11 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1068/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.|Publié le 11 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1067/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 11 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1066/)|Une vulnérabilité a été découverte dans Apache Struts. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 11 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1065/)|De multiples vulnérabilités ont été découvertes dans les produits GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 11 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1064/)|De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 11 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1063/)|Une vulnérabilité a été découverte dans cURL et libcurl. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 11 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1062/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 11 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1061/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 11 décembre 2024|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-libsoup-buffer-overflow-via-soup-header-parse-param-list-strict-45745" class="noirorange"><b>GNOME libsoup</b>: buffer overflow via soup_header_parse_<wbr>param_list_strict()</wbr></a>](https://vigilance.fr/vulnerability/GNOME-libsoup-buffer-overflow-via-soup-header-parse-param-list-strict-45745)|An attacker can trigger a buffer overflow of GNOME libsoup, via soup_header_parse_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-IO-overload-via-XmlStreamReader-45370" class="noirorange"><b>Apache Commons IO</b>: overload via XmlStreamReader</a>](https://vigilance.fr/vulnerability/Apache-Commons-IO-overload-via-XmlStreamReader-45370)|An attacker can trigger an overload of Apache Commons IO, via XmlStreamReader, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-information-disclosure-via-DHCP-ACK-45741" class="noirorange"><b>pfSense CE</b>: information disclosure via DHCP ACK</a>](https://vigilance.fr/vulnerability/pfSense-CE-information-disclosure-via-DHCP-ACK-45741)|An attacker can bypass access restrictions to data of pfSense CE, via DHCP ACK, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-denial-of-service-via-P2c-Parameter-45369" class="noirorange"><b>Apache CXF</b>: denial of service via P2c Parameter</a>](https://vigilance.fr/vulnerability/Apache-CXF-denial-of-service-via-P2c-Parameter-45369)|An attacker can cause a fatal error of Apache CXF, via P2c Parameter, in order to trigger a denial of service...|Visit link for details|
@@ -36,24 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bluetooth-BR-EDR-JUST-WORKS-45365" class="noirorange"><b>Linux kernel</b>: memory corruption via Bluetooth BR/EDR JUST_WORKS</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Bluetooth-BR-EDR-JUST-WORKS-45365)|An attacker can trigger a memory corruption of the Linux kernel, via Bluetooth BR/EDR JUST_WORKS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenStack-Neutron-wrong-use-of-identifers-45731" class="noirorange"><b>OpenStack Neutron</b>: wrong use of identifers</a>](https://vigilance.fr/vulnerability/OpenStack-Neutron-wrong-use-of-identifers-45731)|An attacker can take advantage of the incorrect handling of credentials in the permissions control, in order to obtain a user's privileges. analysis has not been performed for this bulletin...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-10-2024-45363" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 10/10/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-10-2024-45363)|An attacker can use several vulnerabilities of the Linux kernel, dated 10/10/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-10-10-2024-45360" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 10/10/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-10-10-2024-45360)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 10/10/2024...|Visit link for details|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1054/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 10 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1053/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 10 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1052/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 09 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1051/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 06 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1050/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 06 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1049/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 06 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 06 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1047/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 06 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1046/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 06 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1045/)|De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 06 décembre 2024|
  
  ---
 
@@ -65,13 +72,6 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
