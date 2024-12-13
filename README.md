@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/12/2024 21:23:16 UTC
+ > Last Updated 13/12/2024 09:26:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-Sslvpn-Pre-authentication-41457" class="noirorange"><b>Fortinet FortiOS</b>: buffer overflow via Sslvpn Pre-authentication</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-Sslvpn-Pre-authentication-41457)|An attacker can trigger a buffer overflow of Fortinet FortiOS, via Sslvpn Pre-authentication, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-aiohttp-ingress-filtrering-bypass-via-chunk-extension-45765" class="noirorange"><b>Python aiohttp</b>: ingress filtrering bypass via chunk extension</a>](https://vigilance.fr/vulnerability/Python-aiohttp-ingress-filtrering-bypass-via-chunk-extension-45765)|An attacker can bypass filtering rules of Python aiohttp, via chunk extension, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-PowerEdge-multiple-vulnerabilities-dated-13-03-2024-43753" class="noirorange"><b>Dell PowerEdge</b>: multiple vulnerabilities dated 13/03/2024</a>](https://vigilance.fr/vulnerability/Dell-PowerEdge-multiple-vulnerabilities-dated-13-03-2024-43753)|An attacker can use several vulnerabilities of Dell PowerEdge, dated 13/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43749" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43749)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-43748" class="noirorange"><b>Microsoft Exchange Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-43748)|An attacker can use a vulnerability of Microsoft Exchange Server, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-memory-reading-via-str-base64-encode-rfc2047-45762" class="noirorange"><b>Zabbix</b>: memory reading via str_base64_encode_<wbr>rfc2047()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-memory-reading-via-str-base64-encode-rfc2047-45762)|An attacker can read a memory fragment of Zabbix, via str_base64_encode_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-SNMP-message-corruption-45761" class="noirorange"><b>Zabbix</b>: SNMP message corruption</a>](https://vigilance.fr/vulnerability/Zabbix-SNMP-message-corruption-45761)|A detailed analysis has not been performed for this bulletin...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-session-query-45759" class="noirorange"><b>Zabbix</b>: NULL pointer dereference via webdriver_session_<wbr>query()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-session-query-45759)|An attacker can force a NULL pointer to be dereferenced on Zabbix, via webdriver_session_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-45758" class="noirorange"><b>Zabbix</b>: NULL pointer dereference via webdriver</a>](https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-45758)|An attacker can force a NULL pointer to be dereferenced on Zabbix, via webdriver, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-zbx-snmp-cache-handle-engineid-45755" class="noirorange"><b>Zabbix</b>: buffer overflow via zbx_snmp_cache_<wbr>handle_engineid()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-zbx-snmp-cache-handle-engineid-45755)|An attacker can trigger a buffer overflow of Zabbix, via zbx_snmp_cache_|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1067/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 11 décembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1066/)|Une vulnérabilité a été découverte dans Apache Struts. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 11 décembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1065/)|De multiples vulnérabilités ont été découvertes dans les produits GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 11 décembre 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43749" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43749)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-43748" class="noirorange"><b>Microsoft Exchange Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-43748)|An attacker can use a vulnerability of Microsoft Exchange Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-memory-reading-via-str-base64-encode-rfc2047-45762" class="noirorange"><b>Zabbix</b>: memory reading via str_base64_encode_<wbr>rfc2047()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-memory-reading-via-str-base64-encode-rfc2047-45762)|An attacker can read a memory fragment of Zabbix, via str_base64_encode_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-SNMP-message-corruption-45761" class="noirorange"><b>Zabbix</b>: SNMP message corruption</a>](https://vigilance.fr/vulnerability/Zabbix-SNMP-message-corruption-45761)|A detailed analysis has not been performed for this bulletin...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-session-query-45759" class="noirorange"><b>Zabbix</b>: NULL pointer dereference via webdriver_session_<wbr>query()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-session-query-45759)|An attacker can force a NULL pointer to be dereferenced on Zabbix, via webdriver_session_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-45758" class="noirorange"><b>Zabbix</b>: NULL pointer dereference via webdriver</a>](https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-45758)|An attacker can force a NULL pointer to be dereferenced on Zabbix, via webdriver, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-zbx-snmp-cache-handle-engineid-45755" class="noirorange"><b>Zabbix</b>: buffer overflow via zbx_snmp_cache_<wbr>handle_engineid()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-zbx-snmp-cache-handle-engineid-45755)|An attacker can trigger a buffer overflow of Zabbix, via zbx_snmp_cache_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-denial-of-service-via-sysmapelementurlid-45752" class="noirorange"><b>Zabbix</b>: denial of service via sysmapelementurlid</a>](https://vigilance.fr/vulnerability/Zabbix-denial-of-service-via-sysmapelementurlid-45752)|An attacker can cause a fatal error of Zabbix, via sysmapelementurlid, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitHub-command-line-interface-code-execution-via-codespace-SSH-45751" class="noirorange"><b>GitHub command line interface</b>: code execution via codespace SSH</a>](https://vigilance.fr/vulnerability/GitHub-command-line-interface-code-execution-via-codespace-SSH-45751)|An attacker can use a vulnerability of GitHub command line interface, via codespace SSH, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2024-43745" class="noirorange"><b>SAP</b>: multiple vulnerabilities of March 2024</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2024-43745)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  
  ---
 
