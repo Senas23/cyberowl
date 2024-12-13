@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/12/2024 09:26:59 UTC
+ > Last Updated 13/12/2024 21:22:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,37 +30,37 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-Sslvpn-Pre-authentication-41457" class="noirorange"><b>Fortinet FortiOS</b>: buffer overflow via Sslvpn Pre-authentication</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-Sslvpn-Pre-authentication-41457)|An attacker can trigger a buffer overflow of Fortinet FortiOS, via Sslvpn Pre-authentication, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-aiohttp-ingress-filtrering-bypass-via-chunk-extension-45765" class="noirorange"><b>Python aiohttp</b>: ingress filtrering bypass via chunk extension</a>](https://vigilance.fr/vulnerability/Python-aiohttp-ingress-filtrering-bypass-via-chunk-extension-45765)|An attacker can bypass filtering rules of Python aiohttp, via chunk extension, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-PowerEdge-multiple-vulnerabilities-dated-13-03-2024-43753" class="noirorange"><b>Dell PowerEdge</b>: multiple vulnerabilities dated 13/03/2024</a>](https://vigilance.fr/vulnerability/Dell-PowerEdge-multiple-vulnerabilities-dated-13-03-2024-43753)|An attacker can use several vulnerabilities of Dell PowerEdge, dated 13/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43749" class="noirorange"><b>Microsoft SharePoint</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-43749)|An attacker can use a vulnerability of Microsoft SharePoint, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-43748" class="noirorange"><b>Microsoft Exchange Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-43748)|An attacker can use a vulnerability of Microsoft Exchange Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-memory-reading-via-str-base64-encode-rfc2047-45762" class="noirorange"><b>Zabbix</b>: memory reading via str_base64_encode_<wbr>rfc2047()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-memory-reading-via-str-base64-encode-rfc2047-45762)|An attacker can read a memory fragment of Zabbix, via str_base64_encode_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-SNMP-message-corruption-45761" class="noirorange"><b>Zabbix</b>: SNMP message corruption</a>](https://vigilance.fr/vulnerability/Zabbix-SNMP-message-corruption-45761)|A detailed analysis has not been performed for this bulletin...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-session-query-45759" class="noirorange"><b>Zabbix</b>: NULL pointer dereference via webdriver_session_<wbr>query()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-session-query-45759)|An attacker can force a NULL pointer to be dereferenced on Zabbix, via webdriver_session_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-45758" class="noirorange"><b>Zabbix</b>: NULL pointer dereference via webdriver</a>](https://vigilance.fr/vulnerability/Zabbix-NULL-pointer-dereference-via-webdriver-45758)|An attacker can force a NULL pointer to be dereferenced on Zabbix, via webdriver, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-zbx-snmp-cache-handle-engineid-45755" class="noirorange"><b>Zabbix</b>: buffer overflow via zbx_snmp_cache_<wbr>handle_engineid()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-buffer-overflow-via-zbx-snmp-cache-handle-engineid-45755)|An attacker can trigger a buffer overflow of Zabbix, via zbx_snmp_cache_|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1081/)|De multiples vulnérabilités ont été découvertes dans les produits IBM.Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1080/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1079/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 13 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1078/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 13 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1077/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1076/)|De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 décembre 2024|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1075/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 13 décembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1074/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 12 décembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1073/)|Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 décembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1072/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 12 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1071/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1070/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 11 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1069/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2024-49138...|Publié le 11 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1068/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.|Publié le 11 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1067/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 11 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1066/)|Une vulnérabilité a été découverte dans Apache Struts. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 11 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1065/)|De multiples vulnérabilités ont été découvertes dans les produits GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 11 décembre 2024|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487" class="noirorange"><b>Windows</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2023-41486" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2023-41486)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-June-2023-41482" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-June-2023-41482)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-41481" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-41481)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Derby-privilege-escalation-via-LDAP-43771" class="noirorange"><b>Apache Derby</b>: privilege escalation via LDAP</a>](https://vigilance.fr/vulnerability/Apache-Derby-privilege-escalation-via-LDAP-43771)|An attacker can bypass restrictions of Apache Derby, via LDAP, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Performance-Manager-43769" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via Performance Manager</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Performance-Manager-43769)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via Performance Manager, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSLVPN-43768" class="noirorange"><b>Fortinet FortiOS</b>: information disclosure via SSLVPN</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSLVPN-43768)|An attacker can bypass access restrictions to data of Fortinet FortiOS, via SSLVPN, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-code-execution-via-HTTP-43767" class="noirorange"><b>Fortinet FortiOS</b>: code execution via HTTP</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-code-execution-via-HTTP-43767)|An attacker can use a vulnerability of Fortinet FortiOS, via HTTP, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiManager-code-execution-via-FortiWLM-MEA-43765" class="noirorange"><b>Fortinet FortiManager</b>: code execution via FortiWLM MEA</a>](https://vigilance.fr/vulnerability/Fortinet-FortiManager-code-execution-via-FortiWLM-MEA-43765)|An attacker can use a vulnerability of Fortinet FortiManager, via FortiWLM MEA, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hplip-memory-corruption-via-USB-serial-number-45768" class="noirorange"><b>hplip</b>: memory corruption via USB serial number</a>](https://vigilance.fr/vulnerability/hplip-memory-corruption-via-USB-serial-number-45768)|An attacker can trigger a memory corruption of hplip, via USB serial number, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
