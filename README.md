@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/12/2024 21:22:08 UTC
+ > Last Updated 14/12/2024 09:24:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487" class="noirorange"><b>Windows</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2023-41486" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2023-41486)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-June-2023-41482" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-June-2023-41482)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-41481" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-41481)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Derby-privilege-escalation-via-LDAP-43771" class="noirorange"><b>Apache Derby</b>: privilege escalation via LDAP</a>](https://vigilance.fr/vulnerability/Apache-Derby-privilege-escalation-via-LDAP-43771)|An attacker can bypass restrictions of Apache Derby, via LDAP, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Performance-Manager-43769" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via Performance Manager</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Performance-Manager-43769)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via Performance Manager, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSLVPN-43768" class="noirorange"><b>Fortinet FortiOS</b>: information disclosure via SSLVPN</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-information-disclosure-via-SSLVPN-43768)|An attacker can bypass access restrictions to data of Fortinet FortiOS, via SSLVPN, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-code-execution-via-HTTP-43767" class="noirorange"><b>Fortinet FortiOS</b>: code execution via HTTP</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-code-execution-via-HTTP-43767)|An attacker can use a vulnerability of Fortinet FortiOS, via HTTP, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiManager-code-execution-via-FortiWLM-MEA-43765" class="noirorange"><b>Fortinet FortiManager</b>: code execution via FortiWLM MEA</a>](https://vigilance.fr/vulnerability/Fortinet-FortiManager-code-execution-via-FortiWLM-MEA-43765)|An attacker can use a vulnerability of Fortinet FortiManager, via FortiWLM MEA, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hplip-memory-corruption-via-USB-serial-number-45768" class="noirorange"><b>hplip</b>: memory corruption via USB serial number</a>](https://vigilance.fr/vulnerability/hplip-memory-corruption-via-USB-serial-number-45768)|An attacker can trigger a memory corruption of hplip, via USB serial number, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bcm-proc-show-45777" class="noirorange"><b>Linux kernel</b>: use after free via bcm_proc_show()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bcm-proc-show-45777)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bcm_proc_show(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rustls-memory-leak-via-zlib-rs-45776" class="noirorange"><b>Rustls</b>: memory leak via zlib-rs</a>](https://vigilance.fr/vulnerability/Rustls-memory-leak-via-zlib-rs-45776)|An attacker can create a memory leak of Rustls, via zlib-rs, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Ethernet-43776" class="noirorange"><b>Cisco IOS XR</b>: denial of service via Ethernet</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Ethernet-43776)|An attacker can send malicious Ethernet packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-NULL-pointer-dereference-via-Digest-Authentication-45374" class="noirorange"><b>Squid</b>: NULL pointer dereference via Digest Authentication</a>](https://vigilance.fr/vulnerability/Squid-NULL-pointer-dereference-via-Digest-Authentication-45374)|An attacker can force a NULL pointer to be dereferenced on Squid, via Digest Authentication, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-PPPoE-43775" class="noirorange"><b>Cisco IOS XR</b>: denial of service via PPPoE</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-PPPoE-43775)|An attacker can send malicious PPPoE packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-43774" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-43774)|An attacker can bypass restrictions of Cisco IOS XR, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-ingress-filtrering-bypass-via-QUIC-0-RTT-Session-Spoofed-IP-Address-45373" class="noirorange"><b>HAProxy</b>: ingress filtrering bypass via QUIC 0-RTT Session Spoofed IP Address</a>](https://vigilance.fr/vulnerability/HAProxy-ingress-filtrering-bypass-via-QUIC-0-RTT-Session-Spoofed-IP-Address-45373)|An attacker can bypass filtering rules of HAProxy, via QUIC 0-RTT Session Spoofed IP Address, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DOMPurify-Cross-Site-Scripting-via-Nesting-based-45372" class="noirorange"><b>DOMPurify</b>: Cross Site Scripting via Nesting-based</a>](https://vigilance.fr/vulnerability/DOMPurify-Cross-Site-Scripting-via-Nesting-based-45372)|An attacker can trigger a Cross Site Scripting of DOMPurify, via Nesting-based, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ubuntu-Advantage-Desktop-Daemon-information-disclosure-via-Pro-Token-45371" class="noirorange"><b>Ubuntu Advantage Desktop Daemon</b>: information disclosure via Pro Token</a>](https://vigilance.fr/vulnerability/Ubuntu-Advantage-Desktop-Daemon-information-disclosure-via-Pro-Token-45371)|An attacker can bypass access restrictions to data of Ubuntu Advantage Desktop Daemon, via Pro Token, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487" class="noirorange"><b>Windows</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
  ---
 
