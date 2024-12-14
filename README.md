@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/12/2024 09:24:09 UTC
+ > Last Updated 14/12/2024 21:21:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/jose2go-overload-via-Large-PBES2-Count-45385" class="noirorange"><b>jose2go</b>: overload via Large PBES2 Count</a>](https://vigilance.fr/vulnerability/jose2go-overload-via-Large-PBES2-Count-45385)|An attacker can trigger an overload of jose2go, via Large PBES2 Count, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gin-write-access-via-X-Forwarded-Prefix-Header-45384" class="noirorange"><b>gin</b>: write access via X-Forwarded-Prefix Header</a>](https://vigilance.fr/vulnerability/gin-write-access-via-X-Forwarded-Prefix-Header-45384)|An attacker can bypass access restrictions of gin, via X-Forwarded-Prefix Header, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jetty-denial-of-service-via-DosFilter-45382" class="noirorange"><b>Jetty</b>: denial of service via DosFilter</a>](https://vigilance.fr/vulnerability/Jetty-denial-of-service-via-DosFilter-45382)|An attacker can cause a fatal error of Jetty, via DosFilter, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jetty-denial-of-service-via-ThreadLimitHandler-getRemote-45381" class="noirorange"><b>Jetty</b>: denial of service via ThreadLimitHandler.<wbr>getRemote()</wbr></a>](https://vigilance.fr/vulnerability/Jetty-denial-of-service-via-ThreadLimitHandler-getRemote-45381)|An attacker can cause a fatal error of Jetty, via ThreadLimitHandler.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jetty-Server-Side-Request-Forgery-via-Authority-URI-Parsing-45380" class="noirorange"><b>Jetty</b>: Server-Side Request Forgery via Authority URI Parsing</a>](https://vigilance.fr/vulnerability/Jetty-Server-Side-Request-Forgery-via-Authority-URI-Parsing-45380)|An attacker can trigger a Server-Side Request Forgery of Jetty, via Authority URI Parsing, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-Module-Parameter-45377" class="noirorange"><b>Vtiger CRM</b>: Cross Site Scripting via Module Parameter</a>](https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-Module-Parameter-45377)|An attacker can trigger a Cross Site Scripting of Vtiger CRM, via Module Parameter, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bcm-proc-show-45777" class="noirorange"><b>Linux kernel</b>: use after free via bcm_proc_show()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bcm-proc-show-45777)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bcm_proc_show(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rustls-memory-leak-via-zlib-rs-45776" class="noirorange"><b>Rustls</b>: memory leak via zlib-rs</a>](https://vigilance.fr/vulnerability/Rustls-memory-leak-via-zlib-rs-45776)|An attacker can create a memory leak of Rustls, via zlib-rs, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Ethernet-43776" class="noirorange"><b>Cisco IOS XR</b>: denial of service via Ethernet</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Ethernet-43776)|An attacker can send malicious Ethernet packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-NULL-pointer-dereference-via-Digest-Authentication-45374" class="noirorange"><b>Squid</b>: NULL pointer dereference via Digest Authentication</a>](https://vigilance.fr/vulnerability/Squid-NULL-pointer-dereference-via-Digest-Authentication-45374)|An attacker can force a NULL pointer to be dereferenced on Squid, via Digest Authentication, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bcm-proc-show-45777" class="noirorange"><b>Linux kernel</b>: use after free via bcm_proc_show()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bcm-proc-show-45777)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bcm_proc_show(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rustls-memory-leak-via-zlib-rs-45776" class="noirorange"><b>Rustls</b>: memory leak via zlib-rs</a>](https://vigilance.fr/vulnerability/Rustls-memory-leak-via-zlib-rs-45776)|An attacker can create a memory leak of Rustls, via zlib-rs, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Ethernet-43776" class="noirorange"><b>Cisco IOS XR</b>: denial of service via Ethernet</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Ethernet-43776)|An attacker can send malicious Ethernet packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-NULL-pointer-dereference-via-Digest-Authentication-45374" class="noirorange"><b>Squid</b>: NULL pointer dereference via Digest Authentication</a>](https://vigilance.fr/vulnerability/Squid-NULL-pointer-dereference-via-Digest-Authentication-45374)|An attacker can force a NULL pointer to be dereferenced on Squid, via Digest Authentication, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-PPPoE-43775" class="noirorange"><b>Cisco IOS XR</b>: denial of service via PPPoE</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-PPPoE-43775)|An attacker can send malicious PPPoE packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-43774" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-43774)|An attacker can bypass restrictions of Cisco IOS XR, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-ingress-filtrering-bypass-via-QUIC-0-RTT-Session-Spoofed-IP-Address-45373" class="noirorange"><b>HAProxy</b>: ingress filtrering bypass via QUIC 0-RTT Session Spoofed IP Address</a>](https://vigilance.fr/vulnerability/HAProxy-ingress-filtrering-bypass-via-QUIC-0-RTT-Session-Spoofed-IP-Address-45373)|An attacker can bypass filtering rules of HAProxy, via QUIC 0-RTT Session Spoofed IP Address, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DOMPurify-Cross-Site-Scripting-via-Nesting-based-45372" class="noirorange"><b>DOMPurify</b>: Cross Site Scripting via Nesting-based</a>](https://vigilance.fr/vulnerability/DOMPurify-Cross-Site-Scripting-via-Nesting-based-45372)|An attacker can trigger a Cross Site Scripting of DOMPurify, via Nesting-based, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ubuntu-Advantage-Desktop-Daemon-information-disclosure-via-Pro-Token-45371" class="noirorange"><b>Ubuntu Advantage Desktop Daemon</b>: information disclosure via Pro Token</a>](https://vigilance.fr/vulnerability/Ubuntu-Advantage-Desktop-Daemon-information-disclosure-via-Pro-Token-45371)|An attacker can bypass access restrictions to data of Ubuntu Advantage Desktop Daemon, via Pro Token, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487" class="noirorange"><b>Windows</b>: vulnerabilities of June 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2023-41487)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
  ---
 
