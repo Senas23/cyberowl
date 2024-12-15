@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/12/2024 21:21:38 UTC
+ > Last Updated 15/12/2024 09:23:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/uplot-prototype-pollution-via-Assign-Function-45388" class="noirorange"><b>uplot</b>: prototype pollution via Assign Function</a>](https://vigilance.fr/vulnerability/uplot-prototype-pollution-via-Assign-Function-45388)|An attacker can alter the JavaScript code of uplot, via Assign Function, in order to change the software behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jetty-denial-of-service-via-PushSessionCacheFilter-45386" class="noirorange"><b>Jetty</b>: denial of service via PushSessionCacheFilt<wbr>er</wbr></a>](https://vigilance.fr/vulnerability/Jetty-denial-of-service-via-PushSessionCacheFilter-45386)|An attacker can cause a fatal error of Jetty, via PushSessionCacheFilt|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-ZooKeeper-information-disclosure-via-the-addwatch-command-43793" class="noirorange"><b>Apache ZooKeeper</b>: information disclosure via the addwatch command</a>](https://vigilance.fr/vulnerability/Apache-ZooKeeper-information-disclosure-via-the-addwatch-command-43793)|An attacker can bypass access restrictions to data of Apache ZooKeeper, via the addwatch command, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/jose2go-overload-via-Large-PBES2-Count-45385" class="noirorange"><b>jose2go</b>: overload via Large PBES2 Count</a>](https://vigilance.fr/vulnerability/jose2go-overload-via-Large-PBES2-Count-45385)|An attacker can trigger an overload of jose2go, via Large PBES2 Count, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gin-write-access-via-X-Forwarded-Prefix-Header-45384" class="noirorange"><b>gin</b>: write access via X-Forwarded-Prefix Header</a>](https://vigilance.fr/vulnerability/gin-write-access-via-X-Forwarded-Prefix-Header-45384)|An attacker can bypass access restrictions of gin, via X-Forwarded-Prefix Header, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jetty-denial-of-service-via-DosFilter-45382" class="noirorange"><b>Jetty</b>: denial of service via DosFilter</a>](https://vigilance.fr/vulnerability/Jetty-denial-of-service-via-DosFilter-45382)|An attacker can cause a fatal error of Jetty, via DosFilter, in order to trigger a denial of service...|Visit link for details|
@@ -41,9 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Jetty-Server-Side-Request-Forgery-via-Authority-URI-Parsing-45380" class="noirorange"><b>Jetty</b>: Server-Side Request Forgery via Authority URI Parsing</a>](https://vigilance.fr/vulnerability/Jetty-Server-Side-Request-Forgery-via-Authority-URI-Parsing-45380)|An attacker can trigger a Server-Side Request Forgery of Jetty, via Authority URI Parsing, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-Module-Parameter-45377" class="noirorange"><b>Vtiger CRM</b>: Cross Site Scripting via Module Parameter</a>](https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-Module-Parameter-45377)|An attacker can trigger a Cross Site Scripting of Vtiger CRM, via Module Parameter, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bcm-proc-show-45777" class="noirorange"><b>Linux kernel</b>: use after free via bcm_proc_show()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-bcm-proc-show-45777)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bcm_proc_show(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rustls-memory-leak-via-zlib-rs-45776" class="noirorange"><b>Rustls</b>: memory leak via zlib-rs</a>](https://vigilance.fr/vulnerability/Rustls-memory-leak-via-zlib-rs-45776)|An attacker can create a memory leak of Rustls, via zlib-rs, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Ethernet-43776" class="noirorange"><b>Cisco IOS XR</b>: denial of service via Ethernet</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Ethernet-43776)|An attacker can send malicious Ethernet packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-NULL-pointer-dereference-via-Digest-Authentication-45374" class="noirorange"><b>Squid</b>: NULL pointer dereference via Digest Authentication</a>](https://vigilance.fr/vulnerability/Squid-NULL-pointer-dereference-via-Digest-Authentication-45374)|An attacker can force a NULL pointer to be dereferenced on Squid, via Digest Authentication, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
