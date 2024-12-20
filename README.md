@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/12/2024 09:23:29 UTC
+ > Last Updated 20/12/2024 21:20:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/php-svg-lib-code-execution-via-Font-family-PHAR-Url-43835" class="noirorange"><b>php-svg-lib</b>: code execution via Font-family PHAR Url</a>](https://vigilance.fr/vulnerability/php-svg-lib-code-execution-via-Font-family-PHAR-Url-43835)|An attacker can use a vulnerability of php-svg-lib, via Font-family PHAR Url, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-20-03-2024-43827" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 20/03/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-20-03-2024-43827)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 20/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Maintenance-Pages-Errors-45813" class="noirorange"><b>Drupal Core</b>: information disclosure via Maintenance Pages Errors</a>](https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Maintenance-Pages-Errors-45813)|An attacker can bypass access restrictions to data of Drupal Core, via Maintenance Pages Errors, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Form-Steps-Cross-Site-Scripting-via-Text-Administrative-Configurations-45812" class="noirorange"><b>Drupal Entity Form Steps</b>: Cross Site Scripting via Text Administrative Configurations</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Form-Steps-Cross-Site-Scripting-via-Text-Administrative-Configurations-45812)|An attacker can trigger a Cross Site Scripting of Drupal Entity Form Steps, via Text Administrative Configurations, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-Software-Image-Verification-45805" class="noirorange"><b>Cisco NX-OS</b>: privilege escalation via Software Image Verification</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-Software-Image-Verification-45805)|An attacker can bypass restrictions of Cisco NX-OS, via Software Image Verification, in order to escalate his privileges...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Synology-Router-Manager-45435" class="noirorange"><b>Synology DSM</b>: multiple vulnerabilities via Synology Router Manager</a>](https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Synology-Router-Manager-45435)|An attacker can use several vulnerabilities of Synology DSM, via Synology Router Manager...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Snappy-out-of-bounds-memory-reading-via-Byte-Arrays-45434" class="noirorange"><b>Snappy</b>: out-of-bounds memory reading via Byte Arrays</a>](https://vigilance.fr/vulnerability/Snappy-out-of-bounds-memory-reading-via-Byte-Arrays-45434)|An attacker can force a read at an invalid memory address of Snappy, via Byte Arrays, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/YARA-denial-of-service-via-yr-set-configuration-45433" class="noirorange"><b>YARA</b>: denial of service via yr_set_<wbr>configuration()</wbr></a>](https://vigilance.fr/vulnerability/YARA-denial-of-service-via-yr-set-configuration-45433)|An attacker can cause a fatal error of YARA, via yr_set_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/urllib3-overload-via-encode-invalid-chars-45432" class="noirorange"><b>urllib3</b>: overload via _encode_invalid_<wbr>chars()</wbr></a>](https://vigilance.fr/vulnerability/urllib3-overload-via-encode-invalid-chars-45432)|An attacker can trigger an overload of urllib3, via _encode_invalid_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Communication-Channel-45431" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Communication Channel</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Communication-Channel-45431)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Communication Channel, in order to read sensitive information...|Visit link for details|
  
  ---
 
