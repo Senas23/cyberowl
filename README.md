@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/12/2024 09:21:43 UTC
+ > Last Updated 21/12/2024 21:21:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-PrepareUnique-Forced-Index-Constraints-45439" class="noirorange"><b>MongoDB Server</b>: denial of service via PrepareUnique Forced Index Constraints</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-PrepareUnique-Forced-Index-Constraints-45439)|An attacker can cause a fatal error of MongoDB Server, via PrepareUnique Forced Index Constraints, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Standalone-Sentry-code-execution-via-Arbitrary-Commands-43842" class="noirorange"><b>Ivanti Standalone Sentry</b>: code execution via Arbitrary Commands</a>](https://vigilance.fr/vulnerability/Ivanti-Standalone-Sentry-code-execution-via-Arbitrary-Commands-43842)|An attacker can use a vulnerability of Ivanti Standalone Sentry, via Arbitrary Commands, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-RDoc-code-execution-via-rdoc-options-43839" class="noirorange"><b>Ruby RDoc</b>: code execution via rdoc_options</a>](https://vigilance.fr/vulnerability/Ruby-RDoc-code-execution-via-rdoc-options-43839)|An attacker can use a vulnerability of Ruby RDoc, via rdoc_options, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/php-svg-lib-code-execution-via-Font-family-PHAR-Url-43835" class="noirorange"><b>php-svg-lib</b>: code execution via Font-family PHAR Url</a>](https://vigilance.fr/vulnerability/php-svg-lib-code-execution-via-Font-family-PHAR-Url-43835)|An attacker can use a vulnerability of php-svg-lib, via Font-family PHAR Url, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-20-03-2024-43827" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 20/03/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-20-03-2024-43827)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 20/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Maintenance-Pages-Errors-45813" class="noirorange"><b>Drupal Core</b>: information disclosure via Maintenance Pages Errors</a>](https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Maintenance-Pages-Errors-45813)|An attacker can bypass access restrictions to data of Drupal Core, via Maintenance Pages Errors, in order to read sensitive information...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-Software-Image-Verification-45805" class="noirorange"><b>Cisco NX-OS</b>: privilege escalation via Software Image Verification</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-Software-Image-Verification-45805)|An attacker can bypass restrictions of Cisco NX-OS, via Software Image Verification, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-19-03-2024-43819" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 19/03/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-19-03-2024-43819)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 19/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Buildah-file-read-write-via-Cache-mounts-45437" class="noirorange"><b>Buildah</b>: file read/write via Cache mounts</a>](https://vigilance.fr/vulnerability/Buildah-file-read-write-via-Cache-mounts-45437)|An attacker can bypass access restrictions of Buildah, via Cache mounts, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Synology-Router-Manager-45435" class="noirorange"><b>Synology DSM</b>: multiple vulnerabilities via Synology Router Manager</a>](https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Synology-Router-Manager-45435)|An attacker can use several vulnerabilities of Synology DSM, via Synology Router Manager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Snappy-out-of-bounds-memory-reading-via-Byte-Arrays-45434" class="noirorange"><b>Snappy</b>: out-of-bounds memory reading via Byte Arrays</a>](https://vigilance.fr/vulnerability/Snappy-out-of-bounds-memory-reading-via-Byte-Arrays-45434)|An attacker can force a read at an invalid memory address of Snappy, via Byte Arrays, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/YARA-denial-of-service-via-yr-set-configuration-45433" class="noirorange"><b>YARA</b>: denial of service via yr_set_<wbr>configuration()</wbr></a>](https://vigilance.fr/vulnerability/YARA-denial-of-service-via-yr-set-configuration-45433)|An attacker can cause a fatal error of YARA, via yr_set_|Visit link for details|
  
  ---
 
