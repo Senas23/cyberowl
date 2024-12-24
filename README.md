@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/12/2024 21:20:57 UTC
+ > Last Updated 24/12/2024 09:23:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,13 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-pyo3-use-after-free-via-Python-Borrowed-Reads-45471" class="noirorange"><b>Rust pyo3</b>: use after free via Python Borrowed Reads</a>](https://vigilance.fr/vulnerability/Rust-pyo3-use-after-free-via-Python-Borrowed-Reads-45471)|An attacker can force the reuse of a freed memory area of Rust pyo3, via Python Borrowed Reads, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Koji-Cross-Site-Scripting-via-Query-String-45470" class="noirorange"><b>Koji</b>: Cross Site Scripting via Query String</a>](https://vigilance.fr/vulnerability/Koji-Cross-Site-Scripting-via-Query-String-45470)|An attacker can trigger a Cross Site Scripting of Koji, via Query String, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sonatype-Nexus-Repository-Manager-weak-encryption-via-Hard-coded-Encryption-Passphrase-45469" class="noirorange"><b>Sonatype Nexus Repository Manager</b>: weak encryption via Hard-coded Encryption Passphrase</a>](https://vigilance.fr/vulnerability/Sonatype-Nexus-Repository-Manager-weak-encryption-via-Hard-coded-Encryption-Passphrase-45469)|An attacker can access data on Sonatype Nexus Repository Manager, via Hard-coded Encryption Passphrase, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Loft-Data-Grids-multiple-vulnerabilities-via-phpoffice-phpspreadsheet-45467" class="noirorange"><b>Drupal Loft Data Grids</b>: multiple vulnerabilities via phpoffice/<wbr>phpspreadsheet</wbr></a>](https://vigilance.fr/vulnerability/Drupal-Loft-Data-Grids-multiple-vulnerabilities-via-phpoffice-phpspreadsheet-45467)|An attacker can use several vulnerabilities of Drupal Loft Data Grids, via phpoffice/|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Smartling-Connector-multiple-vulnerabilities-via-Guzzle-45466" class="noirorange"><b>Drupal Smartling Connector</b>: multiple vulnerabilities via Guzzle</a>](https://vigilance.fr/vulnerability/Drupal-Smartling-Connector-multiple-vulnerabilities-via-Guzzle-45466)|An attacker can use several vulnerabilities of Drupal Smartling Connector, via Guzzle...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Views-SVG-Animation-Cross-Site-Scripting-via-SVG-File-45464" class="noirorange"><b>Drupal Views SVG Animation</b>: Cross Site Scripting via SVG File</a>](https://vigilance.fr/vulnerability/Drupal-Views-SVG-Animation-Cross-Site-Scripting-via-SVG-File-45464)|An attacker can trigger a Cross Site Scripting of Drupal Views SVG Animation, via SVG File, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -65,9 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Rust-Tonic-denial-of-service-via-Server-Accept-Call-45461" class="noirorange"><b>Rust Tonic</b>: denial of service via Server Accept Call</a>](https://vigilance.fr/vulnerability/Rust-Tonic-denial-of-service-via-Server-Accept-Call-45461)|An attacker can cause a fatal error of Rust Tonic, via Server Accept Call, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Snort-ingress-filtrering-bypass-via-Rate-Filtering-45460" class="noirorange"><b>Snort</b>: ingress filtrering bypass via Rate Filtering</a>](https://vigilance.fr/vulnerability/Snort-ingress-filtrering-bypass-via-Rate-Filtering-45460)|An attacker can bypass filtering rules of Snort, via Rate Filtering, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Client-denial-of-service-via-IKEv2-45459" class="noirorange"><b>Cisco Secure Client</b>: denial of service via IKEv2</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Client-denial-of-service-via-IKEv2-45459)|An attacker can cause a fatal error of Cisco Secure Client, via IKEv2, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elliptic-weak-encryption-via-verify-isNeg-45457" class="noirorange"><b>Elliptic</b>: weak encryption via verify() isNeg()</a>](https://vigilance.fr/vulnerability/Elliptic-weak-encryption-via-verify-isNeg-45457)|An attacker can access data on Elliptic, via verify() isNeg(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-two-vulnerabilities-dated-23-10-2024-45455" class="noirorange"><b>GitLab CE/EE</b>: two vulnerabilities dated 23/10/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-two-vulnerabilities-dated-23-10-2024-45455)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 23/10/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gix-path-code-execution-via-Non-ASCII-Characters-45454" class="noirorange"><b>gix-path</b>: code execution via Non-ASCII Characters</a>](https://vigilance.fr/vulnerability/gix-path-code-execution-via-Non-ASCII-Characters-45454)|An attacker can use a vulnerability of gix-path, via Non-ASCII Characters, in order to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
