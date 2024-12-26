@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/12/2024 21:21:04 UTC
+ > Last Updated 26/12/2024 09:23:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,13 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Loft-Data-Grids-multiple-vulnerabilities-via-phpoffice-phpspreadsheet-45467" class="noirorange"><b>Drupal Loft Data Grids</b>: multiple vulnerabilities via phpoffice/<wbr>phpspreadsheet</wbr></a>](https://vigilance.fr/vulnerability/Drupal-Loft-Data-Grids-multiple-vulnerabilities-via-phpoffice-phpspreadsheet-45467)|An attacker can use several vulnerabilities of Drupal Loft Data Grids, via phpoffice/|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Smartling-Connector-multiple-vulnerabilities-via-Guzzle-45466" class="noirorange"><b>Drupal Smartling Connector</b>: multiple vulnerabilities via Guzzle</a>](https://vigilance.fr/vulnerability/Drupal-Smartling-Connector-multiple-vulnerabilities-via-Guzzle-45466)|An attacker can use several vulnerabilities of Drupal Smartling Connector, via Guzzle...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Views-SVG-Animation-Cross-Site-Scripting-via-SVG-File-45464" class="noirorange"><b>Drupal Views SVG Animation</b>: Cross Site Scripting via SVG File</a>](https://vigilance.fr/vulnerability/Drupal-Views-SVG-Animation-Cross-Site-Scripting-via-SVG-File-45464)|An attacker can trigger a Cross Site Scripting of Drupal Views SVG Animation, via SVG File, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
