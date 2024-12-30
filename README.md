@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/12/2024 21:20:32 UTC
+ > Last Updated 30/12/2024 09:25:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-Man-in-the-Middle-via-Certificate-Revocation-List-Fetch-45490" class="noirorange"><b>FreeBSD</b>: Man-in-the-Middle via Certificate Revocation List Fetch</a>](https://vigilance.fr/vulnerability/FreeBSD-Man-in-the-Middle-via-Certificate-Revocation-List-Fetch-45490)|An attacker can act as a Man-in-the-Middle on FreeBSD, via Certificate Revocation List Fetch, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-multiple-vulnerabilities-via-bhyve-45488" class="noirorange"><b>FreeBSD</b>: multiple vulnerabilities via bhyve</a>](https://vigilance.fr/vulnerability/FreeBSD-multiple-vulnerabilities-via-bhyve-45488)|An attacker, in a guest system, can use several vulnerabilities of FreeBSD, via bhyve sur le système hôte...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/xz-liblzma-code-execution-via-Backdoor-43925" class="noirorange"><b>xz/liblzma</b>: code execution via Backdoor</a>](https://vigilance.fr/vulnerability/xz-liblzma-code-execution-via-Backdoor-43925)|An attacker can use a vulnerability of xz/liblzma, via Backdoor, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pgAdmin-information-disclosure-via-OAuth2-45487" class="noirorange"><b>pgAdmin</b>: information disclosure via OAuth2</a>](https://vigilance.fr/vulnerability/pgAdmin-information-disclosure-via-OAuth2-45487)|An attacker can bypass access restrictions to data of pgAdmin, via OAuth2, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Elliptic-weak-signature-via-truncateToN-45486" class="noirorange"><b>Elliptic</b>: weak signature via _truncateToN</a>](https://vigilance.fr/vulnerability/Elliptic-weak-signature-via-truncateToN-45486)|An attacker can use malicious data on Elliptic, via _truncateToN, in order to deceive the victim...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-29-10-2024-45481" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 29/10/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-29-10-2024-45481)|An attacker can use several vulnerabilities of the Linux kernel, dated 29/10/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/aap-gateway-Cross-Site-Scripting-via-Next-45480" class="noirorange"><b>aap-gateway</b>: Cross Site Scripting via Next</a>](https://vigilance.fr/vulnerability/aap-gateway-Cross-Site-Scripting-via-Next-45480)|An attacker can trigger a Cross Site Scripting of aap-gateway, via Next, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-multiple-vulnerabilities-via-ESI-45478" class="noirorange"><b>Squid</b>: multiple vulnerabilities via ESI</a>](https://vigilance.fr/vulnerability/Squid-multiple-vulnerabilities-via-ESI-45478)|An attacker can use several vulnerabilities of Squid, via ESI...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-overload-via-REXML-Gem-45477" class="noirorange"><b>Ruby</b>: overload via REXML Gem</a>](https://vigilance.fr/vulnerability/Ruby-overload-via-REXML-Gem-45477)|An attacker can trigger an overload of Ruby, via REXML Gem, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Open62541-assertion-error-via-fuzz-binary-decode-45903" class="noirorange"><b>Open62541</b>: assertion error via fuzz_binary_decode()</a>](https://vigilance.fr/vulnerability/Open62541-assertion-error-via-fuzz-binary-decode-45903)|An attacker can force an assertion error of Open62541, via fuzz_binary_decode()|Visit link for details|
  
  ---
 
