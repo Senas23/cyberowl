@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/12/2024 09:25:01 UTC
+ > Last Updated 30/12/2024 21:22:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Sling-Commons-Messaging-Mail-Man-in-the-Middle-via-SimpleMailService-45492" class="noirorange"><b>Apache Sling Commons Messaging Mail</b>: Man-in-the-Middle via SimpleMailService</a>](https://vigilance.fr/vulnerability/Apache-Sling-Commons-Messaging-Mail-Man-in-the-Middle-via-SimpleMailService-45492)|An attacker can act as a Man-in-the-Middle on Apache Sling Commons Messaging Mail, via SimpleMailService, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-Man-in-the-Middle-via-Certificate-Revocation-List-Fetch-45490" class="noirorange"><b>FreeBSD</b>: Man-in-the-Middle via Certificate Revocation List Fetch</a>](https://vigilance.fr/vulnerability/FreeBSD-Man-in-the-Middle-via-Certificate-Revocation-List-Fetch-45490)|An attacker can act as a Man-in-the-Middle on FreeBSD, via Certificate Revocation List Fetch, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-multiple-vulnerabilities-via-bhyve-45488" class="noirorange"><b>FreeBSD</b>: multiple vulnerabilities via bhyve</a>](https://vigilance.fr/vulnerability/FreeBSD-multiple-vulnerabilities-via-bhyve-45488)|An attacker, in a guest system, can use several vulnerabilities of FreeBSD, via bhyve sur le système hôte...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/xz-liblzma-code-execution-via-Backdoor-43925" class="noirorange"><b>xz/liblzma</b>: code execution via Backdoor</a>](https://vigilance.fr/vulnerability/xz-liblzma-code-execution-via-Backdoor-43925)|An attacker can use a vulnerability of xz/liblzma, via Backdoor, in order to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/XnView-vulnerability-dated-29-10-2024-45483" class="noirorange"><b>XnView</b>: vulnerability dated 29/10/2024</a>](https://vigilance.fr/vulnerability/XnView-vulnerability-dated-29-10-2024-45483)|A vulnerability of XnView, dated 29/10/2024, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-29-10-2024-45481" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 29/10/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-29-10-2024-45481)|An attacker can use several vulnerabilities of the Linux kernel, dated 29/10/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/aap-gateway-Cross-Site-Scripting-via-Next-45480" class="noirorange"><b>aap-gateway</b>: Cross Site Scripting via Next</a>](https://vigilance.fr/vulnerability/aap-gateway-Cross-Site-Scripting-via-Next-45480)|An attacker can trigger a Cross Site Scripting of aap-gateway, via Next, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-multiple-vulnerabilities-via-ESI-45478" class="noirorange"><b>Squid</b>: multiple vulnerabilities via ESI</a>](https://vigilance.fr/vulnerability/Squid-multiple-vulnerabilities-via-ESI-45478)|An attacker can use several vulnerabilities of Squid, via ESI...|Visit link for details|
  
  ---
 
