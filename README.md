@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/01/2025 09:23:30 UTC
+ > Last Updated 03/01/2025 21:21:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -21,13 +21,6 @@
  |[VulDB](#vuldb-arrow_heading_up)|Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.|
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
  ---
 
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
@@ -51,6 +44,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-five-vulnerabilities-dated-03-04-2024-43954" class="noirorange"><b>Ivanti Connect Secure</b>: five vulnerabilities dated 03/04/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-five-vulnerabilities-dated-03-04-2024-43954)|An attacker can use several vulnerabilities of Ivanti Connect Secure, dated 03/04/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-dated-03-04-2024-43949" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities dated 03/04/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-dated-03-04-2024-43949)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 03/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2024-43935" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of April 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2024-43935)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-Web-Application-Examples-45918" class="noirorange"><b>Apache Tomcat</b>: denial of service via Web Application Examples</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-Web-Application-Examples-45918)|An attacker can cause a fatal error of Apache Tomcat, via Web Application Examples, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-privilege-escalation-via-Non-canonical-Accesses-Transient-Execution-45507" class="noirorange"><b>AMD Processors</b>: privilege escalation via Non-canonical Accesses Transient Execution</a>](https://vigilance.fr/vulnerability/AMD-Processors-privilege-escalation-via-Non-canonical-Accesses-Transient-Execution-45507)|An attacker can bypass restrictions of AMD Processors, via Non-canonical Accesses Transient Execution, in order to escalate his privileges...|Visit link for details|
@@ -59,8 +54,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Cookiebot-GTM-Cross-Site-Scripting-dated-31-10-2024-45500" class="noirorange"><b>Drupal Cookiebot GTM</b>: Cross Site Scripting dated 31/10/2024</a>](https://vigilance.fr/vulnerability/Drupal-Cookiebot-GTM-Cross-Site-Scripting-dated-31-10-2024-45500)|An attacker can trigger a Cross Site Scripting of Drupal Cookiebot GTM, dated 31/10/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Bypass-45499" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: ingress filtrering bypass via Content Security Policy Bypass</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-ingress-filtrering-bypass-via-Content-Security-Policy-Bypass-45499)|An attacker can bypass filtering rules of WebKitGTK  WPE WebKit, via Content Security Policy Bypass, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-denial-of-service-via-Web-Content-45497" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: denial of service via Web Content</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-denial-of-service-via-Web-Content-45497)|An attacker can cause a fatal error of WebKitGTK  WPE WebKit, via Web Content, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Botan-weak-signature-via-donna128-45496" class="noirorange"><b>Botan</b>: weak signature via donna128</a>](https://vigilance.fr/vulnerability/Botan-weak-signature-via-donna128-45496)|An attacker can use malicious data on Botan, via donna128, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Botan-weak-signature-via-XOR-With-Carry-45495" class="noirorange"><b>Botan</b>: weak signature via XOR With Carry</a>](https://vigilance.fr/vulnerability/Botan-weak-signature-via-XOR-With-Carry-45495)|An attacker can use malicious data on Botan, via XOR With Carry, in order to deceive the victim...|Visit link for details|
+ 
+ ---
+
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
