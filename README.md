@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/01/2025 09:21:10 UTC
+ > Last Updated 05/01/2025 21:19:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/gRPC-denial-of-service-via-HPACK-Table-Poisoning-45535" class="noirorange"><b>gRPC</b>: denial of service via HPACK Table Poisoning</a>](https://vigilance.fr/vulnerability/gRPC-denial-of-service-via-HPACK-Table-Poisoning-45535)|An attacker can cause a fatal error of gRPC, via HPACK Table Poisoning, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/bpftrace-write-access-via-Linux-Headers-45530" class="noirorange"><b>bpftrace</b>: write access via Linux Headers</a>](https://vigilance.fr/vulnerability/bpftrace-write-access-via-Linux-Headers-45530)|An attacker can bypass access restrictions of bpftrace, via Linux Headers, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/bcc-write-access-via-Linux-Headers-45529" class="noirorange"><b>bcc</b>: write access via Linux Headers</a>](https://vigilance.fr/vulnerability/bcc-write-access-via-Linux-Headers-45529)|An attacker can bypass access restrictions of bcc, via Linux Headers, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-memory-leak-via-HTTP-Client-Conduit-45528" class="noirorange"><b>Apache CXF</b>: memory leak via HTTP Client Conduit</a>](https://vigilance.fr/vulnerability/Apache-CXF-memory-leak-via-HTTP-Client-Conduit-45528)|An attacker can create a memory leak of Apache CXF, via HTTP Client Conduit, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-external-XML-entity-injection-dated-04-11-2024-45520" class="noirorange"><b>WebSphere AS</b>: external XML entity injection dated 04/11/2024</a>](https://vigilance.fr/vulnerability/WebSphere-AS-external-XML-entity-injection-dated-04-11-2024-45520)|An attacker can transmit malicious XML data to WebSphere AS, dated 04/11/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-04-04-2024-43966" class="noirorange"><b>Portal for ArcGIS</b>: multiple vulnerabilities dated 04/04/2024</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-04-04-2024-43966)|An attacker can use several vulnerabilities of Portal for ArcGIS, dated 04/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-code-execution-dated-04-04-2024-43965" class="noirorange"><b>Brocade Fabric OS</b>: code execution dated 04/04/2024</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-code-execution-dated-04-04-2024-43965)|An attacker can use a vulnerability of Brocade Fabric OS, dated 04/04/2024, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MicroPython-use-after-free-via-poll-set-add-fd-43960" class="noirorange"><b>MicroPython</b>: use after free via poll_set_add_fd()</a>](https://vigilance.fr/vulnerability/MicroPython-use-after-free-via-poll-set-add-fd-43960)|An attacker can force the reuse of a freed memory area of MicroPython, via poll_set_add_fd(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
