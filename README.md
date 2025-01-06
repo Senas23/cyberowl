@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/01/2025 21:19:31 UTC
+ > Last Updated 06/01/2025 09:25:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/TCPDF-overload-via-SVG-File-45538" class="noirorange"><b>TCPDF</b>: overload via SVG File</a>](https://vigilance.fr/vulnerability/TCPDF-overload-via-SVG-File-45538)|An attacker can trigger an overload of TCPDF, via SVG File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-11-2024-45537" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-11-2024-45537)|An attacker can use several vulnerabilities of the Linux kernel, dated 06/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-Man-in-the-Middle-via-HSTS-Subdomain-Expire-Earlier-45536" class="noirorange"><b>cURL</b>: Man-in-the-Middle via HSTS Subdomain Expire Earlier</a>](https://vigilance.fr/vulnerability/cURL-Man-in-the-Middle-via-HSTS-Subdomain-Expire-Earlier-45536)|An attacker can act as a Man-in-the-Middle on cURL, via HSTS Subdomain Expire Earlier, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gRPC-denial-of-service-via-HPACK-Table-Poisoning-45535" class="noirorange"><b>gRPC</b>: denial of service via HPACK Table Poisoning</a>](https://vigilance.fr/vulnerability/gRPC-denial-of-service-via-HPACK-Table-Poisoning-45535)|An attacker can cause a fatal error of gRPC, via HPACK Table Poisoning, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/bpftrace-write-access-via-Linux-Headers-45530" class="noirorange"><b>bpftrace</b>: write access via Linux Headers</a>](https://vigilance.fr/vulnerability/bpftrace-write-access-via-Linux-Headers-45530)|An attacker can bypass access restrictions of bpftrace, via Linux Headers, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/bcc-write-access-via-Linux-Headers-45529" class="noirorange"><b>bcc</b>: write access via Linux Headers</a>](https://vigilance.fr/vulnerability/bcc-write-access-via-Linux-Headers-45529)|An attacker can bypass access restrictions of bcc, via Linux Headers, in order to alter data...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/llama-cpp-memory-corruption-via-Rpc-tensor-Structure-45524" class="noirorange"><b>llama.cpp</b>: memory corruption via Rpc_tensor Structure</a>](https://vigilance.fr/vulnerability/llama-cpp-memory-corruption-via-Rpc-tensor-Structure-45524)|An attacker can trigger a memory corruption of llama.cpp, via Rpc_tensor Structure, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NetBackup-on-Windows-executing-DLL-code-dated-04-11-2024-45523" class="noirorange"><b>NetBackup on Windows</b>: executing DLL code dated 04/11/2024</a>](https://vigilance.fr/vulnerability/NetBackup-on-Windows-executing-DLL-code-dated-04-11-2024-45523)|An attacker can create a malicious DLL for NetBackup on Windows, dated 04/11/2024, and then put it in the current directory, in order to execute code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ansible-core-three-vulnerabilities-dated-04-11-2024-45521" class="noirorange"><b>ansible-core</b>: three vulnerabilities dated 04/11/2024</a>](https://vigilance.fr/vulnerability/ansible-core-three-vulnerabilities-dated-04-11-2024-45521)|An attacker can use several vulnerabilities of ansible-core, dated 04/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-external-XML-entity-injection-dated-04-11-2024-45520" class="noirorange"><b>WebSphere AS</b>: external XML entity injection dated 04/11/2024</a>](https://vigilance.fr/vulnerability/WebSphere-AS-external-XML-entity-injection-dated-04-11-2024-45520)|An attacker can transmit malicious XML data to WebSphere AS, dated 04/11/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-04-04-2024-43966" class="noirorange"><b>Portal for ArcGIS</b>: multiple vulnerabilities dated 04/04/2024</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-04-04-2024-43966)|An attacker can use several vulnerabilities of Portal for ArcGIS, dated 04/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-code-execution-dated-04-04-2024-43965" class="noirorange"><b>Brocade Fabric OS</b>: code execution dated 04/04/2024</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-code-execution-dated-04-04-2024-43965)|An attacker can use a vulnerability of Brocade Fabric OS, dated 04/04/2024, in order to run code...|Visit link for details|
  
  ---
 
