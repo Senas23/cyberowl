@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/01/2025 09:24:14 UTC
+ > Last Updated 07/01/2025 21:21:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,18 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 03 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0003/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 03 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0002/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 03 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0001/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges .|Publié le 03 janvier 2025|
@@ -43,7 +51,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1107/)|Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer un déni de service à distance. Palo Alto Networks indique que la vulnérabilité CVE-2024-3393 est activement exploitée.|Publié le 27 décembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1106/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 décembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1105/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 23 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1104/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 23 décembre 2024|
  
  ---
 
@@ -51,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-read-write-access-via-New-Installation-Permissions-45561" class="noirorange"><b>Joomla Core</b>: read-write access via New Installation Permissions</a>](https://vigilance.fr/vulnerability/Joomla-Core-read-write-access-via-New-Installation-Permissions-45561)|An attacker can bypass access restrictions of Joomla Core, via New Installation Permissions, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/KDE-Kmail-Man-in-the-Middle-via-ispdbservice-cpp-45558" class="noirorange"><b>KDE Kmail</b>: Man-in-the-Middle via ispdbservice.cpp</a>](https://vigilance.fr/vulnerability/KDE-Kmail-Man-in-the-Middle-via-ispdbservice-cpp-45558)|An attacker can act as a Man-in-the-Middle on KDE Kmail, via ispdbservice.cpp, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Notebook-Markdown-Cells-45557" class="noirorange"><b>JupyterLab</b>: information disclosure via Notebook Markdown Cells</a>](https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Notebook-Markdown-Cells-45557)|An attacker can bypass access restrictions to data of JupyterLab, via Notebook Markdown Cells, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Tooltip-Cross-Site-Scripting-dated-06-11-2024-45555" class="noirorange"><b>Drupal Tooltip</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Drupal-Tooltip-Cross-Site-Scripting-dated-06-11-2024-45555)|An attacker can trigger a Cross Site Scripting of Drupal Tooltip, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -60,14 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-3550-F-Switches-ingress-filtrering-bypass-dated-06-11-2024-45551" class="noirorange"><b>Cisco Nexus 3550-F Switches</b>: ingress filtrering bypass dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-3550-F-Switches-ingress-filtrering-bypass-dated-06-11-2024-45551)|An attacker can bypass filtering rules of Cisco Nexus 3550-F Switches, dated 06/11/2024, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Phones-information-disclosure-dated-06-11-2024-45550" class="noirorange"><b>Cisco Phones</b>: information disclosure dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Phones-information-disclosure-dated-06-11-2024-45550)|An attacker can bypass access restrictions to data of Cisco Phones, dated 06/11/2024, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Phones-Cross-Site-Scripting-dated-06-11-2024-45549" class="noirorange"><b>Cisco Phones</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Phones-Cross-Site-Scripting-dated-06-11-2024-45549)|An attacker can trigger a Cross Site Scripting of Cisco Phones, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-Service-information-disclosure-dated-06-11-2024-45548" class="noirorange"><b>Cisco Unified Communications Manager IM Presence Service</b>: information disclosure dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-Service-information-disclosure-dated-06-11-2024-45548)|An attacker can bypass access restrictions to data of Cisco Unified Communications Manager IM Presence Service, dated 06/11/2024, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
