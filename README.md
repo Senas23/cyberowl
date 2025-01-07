@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/01/2025 21:21:11 UTC
+ > Last Updated 07/01/2025 09:24:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/KDE-Kmail-Man-in-the-Middle-via-ispdbservice-cpp-45558" class="noirorange"><b>KDE Kmail</b>: Man-in-the-Middle via ispdbservice.cpp</a>](https://vigilance.fr/vulnerability/KDE-Kmail-Man-in-the-Middle-via-ispdbservice-cpp-45558)|An attacker can act as a Man-in-the-Middle on KDE Kmail, via ispdbservice.cpp, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Notebook-Markdown-Cells-45557" class="noirorange"><b>JupyterLab</b>: information disclosure via Notebook Markdown Cells</a>](https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Notebook-Markdown-Cells-45557)|An attacker can bypass access restrictions to data of JupyterLab, via Notebook Markdown Cells, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Tooltip-Cross-Site-Scripting-dated-06-11-2024-45555" class="noirorange"><b>Drupal Tooltip</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Drupal-Tooltip-Cross-Site-Scripting-dated-06-11-2024-45555)|An attacker can trigger a Cross Site Scripting of Drupal Tooltip, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Basic-HTTP-Authentication-user-access-dated-06-11-2024-45554" class="noirorange"><b>Drupal Basic HTTP Authentication</b>: user access dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Drupal-Basic-HTTP-Authentication-user-access-dated-06-11-2024-45554)|An attacker can bypass restrictions of Drupal Basic HTTP Authentication, dated 06/11/2024, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-ExecutableNormalizedFields-45553" class="noirorange"><b>GraphQL Java</b>: denial of service via ExecutableNormalized<wbr>Fields</wbr></a>](https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-ExecutableNormalizedFields-45553)|An attacker can cause a fatal error of GraphQL Java, via ExecutableNormalized|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Phones-information-disclosure-dated-06-11-2024-45550" class="noirorange"><b>Cisco Phones</b>: information disclosure dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Phones-information-disclosure-dated-06-11-2024-45550)|An attacker can bypass access restrictions to data of Cisco Phones, dated 06/11/2024, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Phones-Cross-Site-Scripting-dated-06-11-2024-45549" class="noirorange"><b>Cisco Phones</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Phones-Cross-Site-Scripting-dated-06-11-2024-45549)|An attacker can trigger a Cross Site Scripting of Cisco Phones, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-Service-information-disclosure-dated-06-11-2024-45548" class="noirorange"><b>Cisco Unified Communications Manager IM Presence Service</b>: information disclosure dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-IM-Presence-Service-information-disclosure-dated-06-11-2024-45548)|An attacker can bypass access restrictions to data of Cisco Unified Communications Manager IM Presence Service, dated 06/11/2024, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-AsyncOS-Secure-Email-and-Web-Manager-Secure-Email-Gateway-Secure-Web-Appliance-Cross-Site-Scripting-dated-06-11-2024-45547" class="noirorange"><b>Cisco AsyncOS  Secure Email and Web Manager  Secure Email Gateway  Secure Web Appliance</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-AsyncOS-Secure-Email-and-Web-Manager-Secure-Email-Gateway-Secure-Web-Appliance-Cross-Site-Scripting-dated-06-11-2024-45547)|An attacker can trigger a Cross Site Scripting of Cisco AsyncOS  Secure Email and Web Manager  Secure Email Gateway  Secure Web Appliance, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-dated-06-11-2024-45546" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-dated-06-11-2024-45546)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
