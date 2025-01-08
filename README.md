@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/01/2025 09:24:57 UTC
+ > Last Updated 08/01/2025 21:20:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,30 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0013/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 08 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0012/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 08 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0011/)|Une vulnérabilité a été découverte dans VMware Aria automation et Cloud Fondation. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 08 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0010/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 08 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0009/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 08 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0008/)|De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 08 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking 501 Wireless Client Bridge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 08 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans LibreOffice. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 08 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0005/)|Une vulnérabilité a été découverte dans Google Pixel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 08 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 03 janvier 2025|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Guix-user-access-via-User-Takeover-45567" class="noirorange"><b>GNU Guix</b>: user access via User Takeover</a>](https://vigilance.fr/vulnerability/GNU-Guix-user-access-via-User-Takeover-45567)|An attacker can bypass restrictions of GNU Guix, via User Takeover, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/qBittorrent-Man-in-the-Middle-dated-08-11-2024-45566" class="noirorange"><b>qBittorrent</b>: Man-in-the-Middle dated 08/11/2024</a>](https://vigilance.fr/vulnerability/qBittorrent-Man-in-the-Middle-dated-08-11-2024-45566)|An attacker can act as a Man-in-the-Middle on qBittorrent, dated 08/11/2024, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenText-ArcSight-Management-Center-Cross-Site-Scripting-dated-08-11-2024-45565" class="noirorange"><b>OpenText ArcSight Management Center</b>: Cross Site Scripting dated 08/11/2024</a>](https://vigilance.fr/vulnerability/OpenText-ArcSight-Management-Center-Cross-Site-Scripting-dated-08-11-2024-45565)|An attacker can trigger a Cross Site Scripting of OpenText ArcSight Management Center, dated 08/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-get-ne64-43979" class="noirorange"><b>UPX</b>: buffer overflow via get_ne64()</a>](https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-get-ne64-43979)|An attacker can trigger a buffer overflow of UPX, via get_ne64(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-11-2024-45563" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 08/11/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-11-2024-45563)|An attacker can use several vulnerabilities of the Linux kernel, dated 08/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-XML-ResumeParser-45562" class="noirorange"><b>libexpat</b>: denial of service via XML_ResumeParser()</a>](https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-XML-ResumeParser-45562)|An attacker can cause a fatal error of libexpat, via XML_ResumeParser(), in order to trigger a denial of service...|Visit link for details|
@@ -41,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/KDE-Kmail-Man-in-the-Middle-via-ispdbservice-cpp-45558" class="noirorange"><b>KDE Kmail</b>: Man-in-the-Middle via ispdbservice.cpp</a>](https://vigilance.fr/vulnerability/KDE-Kmail-Man-in-the-Middle-via-ispdbservice-cpp-45558)|An attacker can act as a Man-in-the-Middle on KDE Kmail, via ispdbservice.cpp, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Notebook-Markdown-Cells-45557" class="noirorange"><b>JupyterLab</b>: information disclosure via Notebook Markdown Cells</a>](https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Notebook-Markdown-Cells-45557)|An attacker can bypass access restrictions to data of JupyterLab, via Notebook Markdown Cells, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Tooltip-Cross-Site-Scripting-dated-06-11-2024-45555" class="noirorange"><b>Drupal Tooltip</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Drupal-Tooltip-Cross-Site-Scripting-dated-06-11-2024-45555)|An attacker can trigger a Cross Site Scripting of Drupal Tooltip, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Basic-HTTP-Authentication-user-access-dated-06-11-2024-45554" class="noirorange"><b>Drupal Basic HTTP Authentication</b>: user access dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Drupal-Basic-HTTP-Authentication-user-access-dated-06-11-2024-45554)|An attacker can bypass restrictions of Drupal Basic HTTP Authentication, dated 06/11/2024, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-ExecutableNormalizedFields-45553" class="noirorange"><b>GraphQL Java</b>: denial of service via ExecutableNormalized<wbr>Fields</wbr></a>](https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-ExecutableNormalizedFields-45553)|An attacker can cause a fatal error of GraphQL Java, via ExecutableNormalized|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Management-Portal-Cross-Site-Scripting-dated-06-11-2024-45552" class="noirorange"><b>Cisco Unified Contact Center Management Portal</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Management-Portal-Cross-Site-Scripting-dated-06-11-2024-45552)|An attacker can trigger a Cross Site Scripting of Cisco Unified Contact Center Management Portal, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
@@ -51,23 +68,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 03 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0003/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 03 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0002/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 03 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0001/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges .|Publié le 03 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1110/)|De multiples vulnérabilités ont été découvertes dans le greffon Security QRadar Log Management AQL de IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1109/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1108/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1107/)|Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer un déni de service à distance. Palo Alto Networks indique que la vulnérabilité CVE-2024-3393 est activement exploitée.|Publié le 27 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1106/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 décembre 2024|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1105/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 23 décembre 2024|
  
  ---
 
