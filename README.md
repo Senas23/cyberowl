@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/01/2025 21:21:59 UTC
+ > Last Updated 08/01/2025 09:24:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-get-ne64-43979" class="noirorange"><b>UPX</b>: buffer overflow via get_ne64()</a>](https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-get-ne64-43979)|An attacker can trigger a buffer overflow of UPX, via get_ne64(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-11-2024-45563" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 08/11/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-08-11-2024-45563)|An attacker can use several vulnerabilities of the Linux kernel, dated 08/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-XML-ResumeParser-45562" class="noirorange"><b>libexpat</b>: denial of service via XML_ResumeParser()</a>](https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-XML-ResumeParser-45562)|An attacker can cause a fatal error of libexpat, via XML_ResumeParser(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-read-write-access-via-New-Installation-Permissions-45561" class="noirorange"><b>Joomla Core</b>: read-write access via New Installation Permissions</a>](https://vigilance.fr/vulnerability/Joomla-Core-read-write-access-via-New-Installation-Permissions-45561)|An attacker can bypass access restrictions of Joomla Core, via New Installation Permissions, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/KDE-Kmail-Man-in-the-Middle-via-ispdbservice-cpp-45558" class="noirorange"><b>KDE Kmail</b>: Man-in-the-Middle via ispdbservice.cpp</a>](https://vigilance.fr/vulnerability/KDE-Kmail-Man-in-the-Middle-via-ispdbservice-cpp-45558)|An attacker can act as a Man-in-the-Middle on KDE Kmail, via ispdbservice.cpp, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Notebook-Markdown-Cells-45557" class="noirorange"><b>JupyterLab</b>: information disclosure via Notebook Markdown Cells</a>](https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Notebook-Markdown-Cells-45557)|An attacker can bypass access restrictions to data of JupyterLab, via Notebook Markdown Cells, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Tooltip-Cross-Site-Scripting-dated-06-11-2024-45555" class="noirorange"><b>Drupal Tooltip</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Drupal-Tooltip-Cross-Site-Scripting-dated-06-11-2024-45555)|An attacker can trigger a Cross Site Scripting of Drupal Tooltip, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Basic-HTTP-Authentication-user-access-dated-06-11-2024-45554" class="noirorange"><b>Drupal Basic HTTP Authentication</b>: user access dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Drupal-Basic-HTTP-Authentication-user-access-dated-06-11-2024-45554)|An attacker can bypass restrictions of Drupal Basic HTTP Authentication, dated 06/11/2024, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-ExecutableNormalizedFields-45553" class="noirorange"><b>GraphQL Java</b>: denial of service via ExecutableNormalized<wbr>Fields</wbr></a>](https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-ExecutableNormalizedFields-45553)|An attacker can cause a fatal error of GraphQL Java, via ExecutableNormalized|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Management-Portal-Cross-Site-Scripting-dated-06-11-2024-45552" class="noirorange"><b>Cisco Unified Contact Center Management Portal</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Management-Portal-Cross-Site-Scripting-dated-06-11-2024-45552)|An attacker can trigger a Cross Site Scripting of Cisco Unified Contact Center Management Portal, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1107/)|Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer un déni de service à distance. Palo Alto Networks indique que la vulnérabilité CVE-2024-3393 est activement exploitée.|Publié le 27 décembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1106/)|Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 décembre 2024|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-1105/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 23 décembre 2024|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-read-write-access-via-New-Installation-Permissions-45561" class="noirorange"><b>Joomla Core</b>: read-write access via New Installation Permissions</a>](https://vigilance.fr/vulnerability/Joomla-Core-read-write-access-via-New-Installation-Permissions-45561)|An attacker can bypass access restrictions of Joomla Core, via New Installation Permissions, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/KDE-Kmail-Man-in-the-Middle-via-ispdbservice-cpp-45558" class="noirorange"><b>KDE Kmail</b>: Man-in-the-Middle via ispdbservice.cpp</a>](https://vigilance.fr/vulnerability/KDE-Kmail-Man-in-the-Middle-via-ispdbservice-cpp-45558)|An attacker can act as a Man-in-the-Middle on KDE Kmail, via ispdbservice.cpp, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Notebook-Markdown-Cells-45557" class="noirorange"><b>JupyterLab</b>: information disclosure via Notebook Markdown Cells</a>](https://vigilance.fr/vulnerability/JupyterLab-information-disclosure-via-Notebook-Markdown-Cells-45557)|An attacker can bypass access restrictions to data of JupyterLab, via Notebook Markdown Cells, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Tooltip-Cross-Site-Scripting-dated-06-11-2024-45555" class="noirorange"><b>Drupal Tooltip</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Drupal-Tooltip-Cross-Site-Scripting-dated-06-11-2024-45555)|An attacker can trigger a Cross Site Scripting of Drupal Tooltip, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Basic-HTTP-Authentication-user-access-dated-06-11-2024-45554" class="noirorange"><b>Drupal Basic HTTP Authentication</b>: user access dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Drupal-Basic-HTTP-Authentication-user-access-dated-06-11-2024-45554)|An attacker can bypass restrictions of Drupal Basic HTTP Authentication, dated 06/11/2024, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-ExecutableNormalizedFields-45553" class="noirorange"><b>GraphQL Java</b>: denial of service via ExecutableNormalized<wbr>Fields</wbr></a>](https://vigilance.fr/vulnerability/GraphQL-Java-denial-of-service-via-ExecutableNormalizedFields-45553)|An attacker can cause a fatal error of GraphQL Java, via ExecutableNormalized|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Management-Portal-Cross-Site-Scripting-dated-06-11-2024-45552" class="noirorange"><b>Cisco Unified Contact Center Management Portal</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Management-Portal-Cross-Site-Scripting-dated-06-11-2024-45552)|An attacker can trigger a Cross Site Scripting of Cisco Unified Contact Center Management Portal, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-3550-F-Switches-ingress-filtrering-bypass-dated-06-11-2024-45551" class="noirorange"><b>Cisco Nexus 3550-F Switches</b>: ingress filtrering bypass dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-3550-F-Switches-ingress-filtrering-bypass-dated-06-11-2024-45551)|An attacker can bypass filtering rules of Cisco Nexus 3550-F Switches, dated 06/11/2024, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Phones-information-disclosure-dated-06-11-2024-45550" class="noirorange"><b>Cisco Phones</b>: information disclosure dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Phones-information-disclosure-dated-06-11-2024-45550)|An attacker can bypass access restrictions to data of Cisco Phones, dated 06/11/2024, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Phones-Cross-Site-Scripting-dated-06-11-2024-45549" class="noirorange"><b>Cisco Phones</b>: Cross Site Scripting dated 06/11/2024</a>](https://vigilance.fr/vulnerability/Cisco-Phones-Cross-Site-Scripting-dated-06-11-2024-45549)|An attacker can trigger a Cross Site Scripting of Cisco Phones, dated 06/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
