@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/01/2025 21:23:40 UTC
+ > Last Updated 11/01/2025 09:22:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-ingress-filtrering-bypass-via-H2C-Protocol-Upgrade-45572" class="noirorange"><b>HAProxy</b>: ingress filtrering bypass via H2C Protocol Upgrade</a>](https://vigilance.fr/vulnerability/HAProxy-ingress-filtrering-bypass-via-H2C-Protocol-Upgrade-45572)|An attacker can bypass filtering rules of HAProxy, via H2C Protocol Upgrade, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-11-2024-45569" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 11/11/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-11-2024-45569)|An attacker can use several vulnerabilities of the Linux kernel, dated 11/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-snd-pcm-in-cb-45568" class="noirorange"><b>QEMU</b>: buffer overflow via virtio_snd_pcm_in_<wbr>cb()</wbr></a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-virtio-snd-pcm-in-cb-45568)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via virtio_snd_pcm_in_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-dated-10-04-2024-44047" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities dated 10/04/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-dated-10-04-2024-44047)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 10/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-dated-10-04-2024-44045" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities dated 10/04/2024</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-dated-10-04-2024-44045)|An attacker can use several vulnerabilities of Junos OS, dated 10/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-code-execution-via-Windows-child-process-spawn-44044" class="noirorange"><b>Node.js Core</b>: code execution via Windows child_process.spawn</a>](https://vigilance.fr/vulnerability/Node-js-Core-code-execution-via-Windows-child-process-spawn-44044)|An attacker can use a vulnerability of Node.js Core, via Windows child_process.spawn, in order to run code...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-April-2024-44014" class="noirorange"><b>Microsoft SQL Server</b>: vulnerabilities of April 2024</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-April-2024-44014)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-for-IoT-vulnerabilities-of-April-2024-44013" class="noirorange"><b>Microsoft Defender for IoT</b>: vulnerabilities of April 2024</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-for-IoT-vulnerabilities-of-April-2024-44013)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-dated-09-04-2024-44012" class="noirorange"><b>Microsoft 365 Apps  Office</b>: code execution dated 09/04/2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-dated-09-04-2024-44012)|An attacker can use a vulnerability of Microsoft 365 Apps  Office, dated 09/04/2024, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-two-vulnerabilities-dated-09-04-2024-44008" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: two vulnerabilities dated 09/04/2024</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-two-vulnerabilities-dated-09-04-2024-44008)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source, dated 09/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiClientLinux-code-execution-via-Code-Generation-44001" class="noirorange"><b>FortiClientLinux</b>: code execution via Code Generation</a>](https://vigilance.fr/vulnerability/FortiClientLinux-code-execution-via-Code-Generation-44001)|An attacker can use a vulnerability of FortiClientLinux, via Code Generation, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-April-2024-43996" class="noirorange"><b>SAP</b>: multiple vulnerabilities of April 2024</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-April-2024-43996)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  
  ---
 
