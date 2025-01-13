@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/01/2025 09:25:30 UTC
+ > Last Updated 13/01/2025 21:19:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0025/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox pour iOS. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0024/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0023/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 10 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0022/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 10 janvier 2025|
@@ -43,24 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0018/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 09 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0017/)|Une vulnérabilité a été découverte dans les produits HPE Aruba Networking. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 09 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0016/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 09 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0015/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 09 janvier 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/NVIDIA-Container-Toolkit-two-vulnerabilities-via-Container-Image-45626" class="noirorange"><b>NVIDIA Container Toolkit</b>: two vulnerabilities via Container Image</a>](https://vigilance.fr/vulnerability/NVIDIA-Container-Toolkit-two-vulnerabilities-via-Container-Image-45626)|An attacker can use several vulnerabilities of NVIDIA Container Toolkit, via Container Image...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-IPv6-IPvFuture-Addresses-45625" class="noirorange"><b>Python Core</b>: ingress filtrering bypass via IPv6 / IPvFuture Addresses</a>](https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-IPv6-IPvFuture-Addresses-45625)|An attacker can bypass filtering rules of Python Core, via IPv6 / IPvFuture Addresses, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-November-2024-45623" class="noirorange"><b>Microsoft SQL Server</b>: vulnerabilities of November 2024</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-November-2024-45623)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-spoofing-dated-12-11-2024-45622" class="noirorange"><b>Microsoft Exchange Server</b>: spoofing dated 12/11/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-spoofing-dated-12-11-2024-45622)|An attacker can create spoofed data on Microsoft Exchange Server, dated 12/11/2024, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cloud-Migration-Assistant-45617" class="noirorange"><b>Grafana</b>: privilege escalation via Cloud Migration Assistant</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Cloud-Migration-Assistant-45617)|An attacker can bypass restrictions of Grafana, via Cloud Migration Assistant, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-executing-DLL-code-via-Online-Installer-45616" class="noirorange"><b>FortiClientWindows</b>: executing DLL code via Online Installer</a>](https://vigilance.fr/vulnerability/FortiClientWindows-executing-DLL-code-via-Online-Installer-45616)|An attacker can create a malicious DLL for FortiClientWindows, via Online Installer, and then put it in the current directory, in order to execute code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiClientMac-code-execution-via-Missing-Signature-Verification-45615" class="noirorange"><b>FortiClientMac</b>: code execution via Missing Signature Verification</a>](https://vigilance.fr/vulnerability/FortiClientMac-code-execution-via-Missing-Signature-Verification-45615)|An attacker can use a vulnerability of FortiClientMac, via Missing Signature Verification, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-reading-via-HTTPs-Requests-45614" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: file reading via HTTPs Requests</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-reading-via-HTTPs-Requests-45614)|An attacker can read a file of FortiAnalyzer  FortiManager, via HTTPs Requests, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiManager-FortiOS-ingress-filtrering-bypass-via-fgfmd-45613" class="noirorange"><b>FortiManager  FortiOS</b>: ingress filtrering bypass via fgfmd</a>](https://vigilance.fr/vulnerability/FortiManager-FortiOS-ingress-filtrering-bypass-via-fgfmd-45613)|An attacker can bypass filtering rules of FortiManager  FortiOS, via fgfmd, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-logged-sensitive-information-via-Adom-Event-Logs-45611" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: logged sensitive information via Adom Event Logs</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-logged-sensitive-information-via-Adom-Event-Logs-45611)|An attacker can read logs of FortiAnalyzer  FortiManager, via Adom Event Logs, in order to obtain sensitive information...|Visit link for details|
  
  ---
 
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-13-11-2024-45644" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities dated 13/11/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-13-11-2024-45644)|An attacker can use several vulnerabilities of Jenkins Plugins, dated 13/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-POST-File-Cross-Site-Scripting-via-postfile-upload-45643" class="noirorange"><b>Drupal POST File</b>: Cross Site Scripting via /postfile/upload</a>](https://vigilance.fr/vulnerability/Drupal-POST-File-Cross-Site-Scripting-via-postfile-upload-45643)|An attacker can trigger a Cross Site Scripting of Drupal POST File, via /postfile/upload, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-POST-File-Cross-Site-Request-Forgery-via-postfile-upload-45642" class="noirorange"><b>Drupal POST File</b>: Cross Site Request Forgery via /postfile/upload</a>](https://vigilance.fr/vulnerability/Drupal-POST-File-Cross-Site-Request-Forgery-via-postfile-upload-45642)|An attacker can trigger a Cross Site Request Forgery of Drupal POST File, via /postfile/upload, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-libsoup-overload-via-WebSocket-45641" class="noirorange"><b>GNOME libsoup</b>: overload via WebSocket</a>](https://vigilance.fr/vulnerability/GNOME-libsoup-overload-via-WebSocket-45641)|An attacker can trigger an overload of GNOME libsoup, via WebSocket, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-information-disclosure-via-NoPrivateNetworkHttpClient-Enumeration-45640" class="noirorange"><b>Symfony</b>: information disclosure via NoPrivateNetworkHttp<wbr>Client Enumeration</wbr></a>](https://vigilance.fr/vulnerability/Symfony-information-disclosure-via-NoPrivateNetworkHttpClient-Enumeration-45640)|An attacker can bypass access restrictions to data of Symfony, via NoPrivateNetworkHttp|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DotNetZip-directory-traversal-dated-13-11-2024-45639" class="noirorange"><b>DotNetZip</b>: directory traversal dated 13/11/2024</a>](https://vigilance.fr/vulnerability/DotNetZip-directory-traversal-dated-13-11-2024-45639)|An attacker can traverse directories of DotNetZip, dated 13/11/2024, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Telerik-UI-for-ASP-NET-AJAX-vulnerability-via-Document-Processing-Libraries-45637" class="noirorange"><b>Telerik UI for ASP.NET AJAX</b>: vulnerability via Document Processing Libraries</a>](https://vigilance.fr/vulnerability/Telerik-UI-for-ASP-NET-AJAX-vulnerability-via-Document-Processing-Libraries-45637)|A vulnerability of Telerik UI for ASP.NET AJAX, via Document Processing Libraries, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-weak-encryption-via-OpenPGP-Encrypted-Message-45636" class="noirorange"><b>Mozilla Thunderbird</b>: weak encryption via OpenPGP Encrypted Message</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-weak-encryption-via-OpenPGP-Encrypted-Message-45636)|An attacker can access data on Mozilla Thunderbird, via OpenPGP Encrypted Message, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-user-access-via-Persisted-Remember-me-Cookie-45635" class="noirorange"><b>Symfony</b>: user access via Persisted Remember-me Cookie</a>](https://vigilance.fr/vulnerability/Symfony-user-access-via-Persisted-Remember-me-Cookie-45635)|An attacker can bypass restrictions of Symfony, via Persisted Remember-me Cookie, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-libsoup-header-injection-via-End-Header-Names-Nul-Character-45634" class="noirorange"><b>GNOME libsoup</b>: header injection via End Header Names Nul Character</a>](https://vigilance.fr/vulnerability/GNOME-libsoup-header-injection-via-End-Header-Names-Nul-Character-45634)|An attacker can add new headers on GNOME libsoup, via End Header Names Nul Character, in order to alter the service behavior...|Visit link for details|
  
  ---
 
