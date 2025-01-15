@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/01/2025 09:22:49 UTC
+ > Last Updated 15/01/2025 21:19:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,12 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0030/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. Fortinet indique que la vulnérabilité CVE-2024-55591 est activement exploitée.|Publié le 14 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0029/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 14 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0028/)|De multiples vulnérabilités ont été découvertes dans les produits Typo3. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de requêtes illégitimes par rebond (CSRF) et un contournement de la politique de sécurité.|Publié le 14 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0027/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 14 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0026/)|Une vulnérabilité a été découverte dans Veeam Backup pour Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0025/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox pour iOS. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0024/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0023/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 10 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0022/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 10 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0021/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 janvier 2025|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-Enterprise-Vault-Cross-Site-Scripting-via-HTTP-Request-45680" class="noirorange"><b>Veritas Enterprise Vault</b>: Cross Site Scripting via HTTP Request</a>](https://vigilance.fr/vulnerability/Veritas-Enterprise-Vault-Cross-Site-Scripting-via-HTTP-Request-45680)|An attacker can trigger a Cross Site Scripting of Veritas Enterprise Vault, via HTTP Request, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-GLib-buffer-overflow-via-SOCKS4-CONN-MSG-LEN-45667" class="noirorange"><b>GNOME GLib</b>: buffer overflow via SOCKS4_CONN_MSG_LEN</a>](https://vigilance.fr/vulnerability/GNOME-GLib-buffer-overflow-via-SOCKS4-CONN-MSG-LEN-45667)|An attacker can trigger a buffer overflow of GNOME GLib, via SOCKS4_CONN_MSG_LEN, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Spring-MVC-Controller-Method-Byte-Array-45666" class="noirorange"><b>Spring Framework</b>: denial of service via Spring MVC Controller Method Byte Array</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Spring-MVC-Controller-Method-Byte-Array-45666)|An attacker can cause a fatal error of Spring Framework, via Spring MVC Controller Method Byte Array, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-dated-15-11-2024-45665" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure dated 15/11/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-dated-15-11-2024-45665)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, dated 15/11/2024, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rust-h2-overload-via-HTTP-2-CONTINUATION-44069" class="noirorange"><b>Rust h2</b>: overload via HTTP/2 CONTINUATION</a>](https://vigilance.fr/vulnerability/Rust-h2-overload-via-HTTP-2-CONTINUATION-44069)|An attacker can trigger an overload of Rust h2, via HTTP/2 CONTINUATION, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-four-vulnerabilities-dated-14-11-2024-45662" class="noirorange"><b>PostgreSQL</b>: four vulnerabilities dated 14/11/2024</a>](https://vigilance.fr/vulnerability/PostgreSQL-four-vulnerabilities-dated-14-11-2024-45662)|An attacker can use several vulnerabilities of PostgreSQL, dated 14/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Crafted-Configuration-45660" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Crafted Configuration</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Crafted-Configuration-45660)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Crafted Configuration, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-XML-External-Entities-45659" class="noirorange"><b>PAN-OS</b>: file reading via XML External Entities</a>](https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-XML-External-Entities-45659)|An attacker can read a file of PAN-OS, via XML External Entities, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-user-access-via-Certificate-Validation-GlobalProtect-User-45658" class="noirorange"><b>PAN-OS</b>: user access via Certificate Validation GlobalProtect User</a>](https://vigilance.fr/vulnerability/PAN-OS-user-access-via-Certificate-Validation-GlobalProtect-User-45658)|An attacker can bypass restrictions of PAN-OS, via Certificate Validation GlobalProtect User, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Server-Side-Request-Forgery-via-WildFire-45657" class="noirorange"><b>PAN-OS</b>: Server-Side Request Forgery via WildFire</a>](https://vigilance.fr/vulnerability/PAN-OS-Server-Side-Request-Forgery-via-WildFire-45657)|An attacker can trigger a Server-Side Request Forgery of PAN-OS, via WildFire, in order to force the server to send queries...|Visit link for details|
  
  ---
 
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0041/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 15 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0040/)|De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 15 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0039/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que les vulnérabilités...|Publié le 15 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0038/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 15 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0037/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0036/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 15 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0035/)|De multiples vulnérabilités ont été découvertes dans Ivanti Endpoint Manager (EPM). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 15 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0034/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 15 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0033/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0032/)|De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking AOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 janvier 2025|
  
  ---
 
