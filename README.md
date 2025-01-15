@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/01/2025 21:21:35 UTC
+ > Last Updated 15/01/2025 09:22:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-out-of-bounds-memory-reading-via-Null-Bytes-45663" class="noirorange"><b>MongoDB Server</b>: out-of-bounds memory reading via Null Bytes</a>](https://vigilance.fr/vulnerability/MongoDB-Server-out-of-bounds-memory-reading-via-Null-Bytes-45663)|An attacker can force a read at an invalid memory address of MongoDB Server, via Null Bytes, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-four-vulnerabilities-dated-14-11-2024-45662" class="noirorange"><b>PostgreSQL</b>: four vulnerabilities dated 14/11/2024</a>](https://vigilance.fr/vulnerability/PostgreSQL-four-vulnerabilities-dated-14-11-2024-45662)|An attacker can use several vulnerabilities of PostgreSQL, dated 14/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Crafted-Configuration-45660" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Crafted Configuration</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Crafted-Configuration-45660)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Crafted Configuration, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-XML-External-Entities-45659" class="noirorange"><b>PAN-OS</b>: file reading via XML External Entities</a>](https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-XML-External-Entities-45659)|An attacker can read a file of PAN-OS, via XML External Entities, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-user-access-via-Certificate-Validation-GlobalProtect-User-45658" class="noirorange"><b>PAN-OS</b>: user access via Certificate Validation GlobalProtect User</a>](https://vigilance.fr/vulnerability/PAN-OS-user-access-via-Certificate-Validation-GlobalProtect-User-45658)|An attacker can bypass restrictions of PAN-OS, via Certificate Validation GlobalProtect User, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Server-Side-Request-Forgery-via-WildFire-45657" class="noirorange"><b>PAN-OS</b>: Server-Side Request Forgery via WildFire</a>](https://vigilance.fr/vulnerability/PAN-OS-Server-Side-Request-Forgery-via-WildFire-45657)|An attacker can trigger a Server-Side Request Forgery of PAN-OS, via WildFire, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-NULL-pointer-dereference-via-GlobalProtect-Gateway-45654" class="noirorange"><b>PAN-OS</b>: NULL pointer dereference via GlobalProtect Gateway</a>](https://vigilance.fr/vulnerability/PAN-OS-NULL-pointer-dereference-via-GlobalProtect-Gateway-45654)|An attacker can force a NULL pointer to be dereferenced on PAN-OS, via GlobalProtect Gateway, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sonatype-Nexus-Repository-Manager-Cross-Site-Scripting-via-Maven-Artifact-45652" class="noirorange"><b>Sonatype Nexus Repository Manager</b>: Cross Site Scripting via Maven Artifact</a>](https://vigilance.fr/vulnerability/Sonatype-Nexus-Repository-Manager-Cross-Site-Scripting-via-Maven-Artifact-45652)|An attacker can trigger a Cross Site Scripting of Sonatype Nexus Repository Manager, via Maven Artifact, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/llama-cpp-buffer-overflow-via-rpc-tensor-45650" class="noirorange"><b>llama.cpp</b>: buffer overflow via rpc_tensor</a>](https://vigilance.fr/vulnerability/llama-cpp-buffer-overflow-via-rpc-tensor-45650)|An attacker can trigger a buffer overflow of llama.cpp, via rpc_tensor, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-logged-sensitive-information-via-Log-45649" class="noirorange"><b>IBM Db2</b>: logged sensitive information via Log</a>](https://vigilance.fr/vulnerability/IBM-Db2-logged-sensitive-information-via-Log-45649)|An attacker can read logs of IBM Db2, via Log, in order to obtain sensitive information...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0023/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 10 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0022/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 10 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0021/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 janvier 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Spring-MVC-Controller-Method-Byte-Array-45666" class="noirorange"><b>Spring Framework</b>: denial of service via Spring MVC Controller Method Byte Array</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Spring-MVC-Controller-Method-Byte-Array-45666)|An attacker can cause a fatal error of Spring Framework, via Spring MVC Controller Method Byte Array, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-dated-15-11-2024-45665" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure dated 15/11/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-dated-15-11-2024-45665)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, dated 15/11/2024, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-h2-overload-via-HTTP-2-CONTINUATION-44069" class="noirorange"><b>Rust h2</b>: overload via HTTP/2 CONTINUATION</a>](https://vigilance.fr/vulnerability/Rust-h2-overload-via-HTTP-2-CONTINUATION-44069)|An attacker can trigger an overload of Rust h2, via HTTP/2 CONTINUATION, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-Sub-Page-Write-Permissions-45664" class="noirorange"><b>Intel Processor</b>: privilege escalation via Sub-Page Write Permissions</a>](https://vigilance.fr/vulnerability/Intel-Processor-privilege-escalation-via-Sub-Page-Write-Permissions-45664)|An attacker can bypass restrictions of Intel Processor, via Sub-Page Write Permissions, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-out-of-bounds-memory-reading-via-Null-Bytes-45663" class="noirorange"><b>MongoDB Server</b>: out-of-bounds memory reading via Null Bytes</a>](https://vigilance.fr/vulnerability/MongoDB-Server-out-of-bounds-memory-reading-via-Null-Bytes-45663)|An attacker can force a read at an invalid memory address of MongoDB Server, via Null Bytes, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-four-vulnerabilities-dated-14-11-2024-45662" class="noirorange"><b>PostgreSQL</b>: four vulnerabilities dated 14/11/2024</a>](https://vigilance.fr/vulnerability/PostgreSQL-four-vulnerabilities-dated-14-11-2024-45662)|An attacker can use several vulnerabilities of PostgreSQL, dated 14/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Crafted-Configuration-45660" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Crafted Configuration</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Crafted-Configuration-45660)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Crafted Configuration, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-XML-External-Entities-45659" class="noirorange"><b>PAN-OS</b>: file reading via XML External Entities</a>](https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-XML-External-Entities-45659)|An attacker can read a file of PAN-OS, via XML External Entities, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-user-access-via-Certificate-Validation-GlobalProtect-User-45658" class="noirorange"><b>PAN-OS</b>: user access via Certificate Validation GlobalProtect User</a>](https://vigilance.fr/vulnerability/PAN-OS-user-access-via-Certificate-Validation-GlobalProtect-User-45658)|An attacker can bypass restrictions of PAN-OS, via Certificate Validation GlobalProtect User, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Server-Side-Request-Forgery-via-WildFire-45657" class="noirorange"><b>PAN-OS</b>: Server-Side Request Forgery via WildFire</a>](https://vigilance.fr/vulnerability/PAN-OS-Server-Side-Request-Forgery-via-WildFire-45657)|An attacker can trigger a Server-Side Request Forgery of PAN-OS, via WildFire, in order to force the server to send queries...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
