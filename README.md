@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/01/2025 09:24:27 UTC
+ > Last Updated 16/01/2025 21:20:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0042/)|Une vulnérabilité a été découverte dans le greffon Splunk Supporting pour Active Directory. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0041/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 15 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0040/)|De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 15 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0039/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que les vulnérabilités...|Publié le 15 janvier 2025|
@@ -43,14 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0035/)|De multiples vulnérabilités ont été découvertes dans Ivanti Endpoint Manager (EPM). Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 15 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0034/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 15 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0033/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0032/)|De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking AOS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 15 janvier 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-four-vulnerabilities-dated-14-11-2024-45662" class="noirorange"><b>PostgreSQL</b>: four vulnerabilities dated 14/11/2024</a>](https://vigilance.fr/vulnerability/PostgreSQL-four-vulnerabilities-dated-14-11-2024-45662)|An attacker can use several vulnerabilities of PostgreSQL, dated 14/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Crafted-Configuration-45660" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Crafted Configuration</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Crafted-Configuration-45660)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Crafted Configuration, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-XML-External-Entities-45659" class="noirorange"><b>PAN-OS</b>: file reading via XML External Entities</a>](https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-XML-External-Entities-45659)|An attacker can read a file of PAN-OS, via XML External Entities, in order to obtain sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
