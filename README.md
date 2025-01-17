@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/01/2025 21:20:58 UTC
+ > Last Updated 17/01/2025 09:23:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-17-04-2024-44085" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 17/04/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-17-04-2024-44085)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 17/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Veritas-Enterprise-Vault-Cross-Site-Scripting-via-HTTP-Request-45680" class="noirorange"><b>Veritas Enterprise Vault</b>: Cross Site Scripting via HTTP Request</a>](https://vigilance.fr/vulnerability/Veritas-Enterprise-Vault-Cross-Site-Scripting-via-HTTP-Request-45680)|An attacker can trigger a Cross Site Scripting of Veritas Enterprise Vault, via HTTP Request, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNOME-GLib-buffer-overflow-via-SOCKS4-CONN-MSG-LEN-45667" class="noirorange"><b>GNOME GLib</b>: buffer overflow via SOCKS4_CONN_MSG_LEN</a>](https://vigilance.fr/vulnerability/GNOME-GLib-buffer-overflow-via-SOCKS4-CONN-MSG-LEN-45667)|An attacker can trigger a buffer overflow of GNOME GLib, via SOCKS4_CONN_MSG_LEN, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Spring-MVC-Controller-Method-Byte-Array-45666" class="noirorange"><b>Spring Framework</b>: denial of service via Spring MVC Controller Method Byte Array</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Spring-MVC-Controller-Method-Byte-Array-45666)|An attacker can cause a fatal error of Spring Framework, via Spring MVC Controller Method Byte Array, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-out-of-bounds-memory-reading-via-Null-Bytes-45663" class="noirorange"><b>MongoDB Server</b>: out-of-bounds memory reading via Null Bytes</a>](https://vigilance.fr/vulnerability/MongoDB-Server-out-of-bounds-memory-reading-via-Null-Bytes-45663)|An attacker can force a read at an invalid memory address of MongoDB Server, via Null Bytes, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-four-vulnerabilities-dated-14-11-2024-45662" class="noirorange"><b>PostgreSQL</b>: four vulnerabilities dated 14/11/2024</a>](https://vigilance.fr/vulnerability/PostgreSQL-four-vulnerabilities-dated-14-11-2024-45662)|An attacker can use several vulnerabilities of PostgreSQL, dated 14/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Crafted-Configuration-45660" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via Crafted Configuration</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-Crafted-Configuration-45660)|An attacker can trigger a Cross Site Scripting of PAN-OS, via Crafted Configuration, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-XML-External-Entities-45659" class="noirorange"><b>PAN-OS</b>: file reading via XML External Entities</a>](https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-XML-External-Entities-45659)|An attacker can read a file of PAN-OS, via XML External Entities, in order to obtain sensitive information...|Visit link for details|
  
  ---
 
