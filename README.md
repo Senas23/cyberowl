@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/01/2025 09:20:40 UTC
+ > Last Updated 19/01/2025 21:21:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Embedded-Development-Kit-2-integer-overflow-via-PeCoffLoaderRelocateImage-45695" class="noirorange"><b>Embedded Development Kit 2</b>: integer overflow via PeCoffLoaderRelocate<wbr>Image()</wbr></a>](https://vigilance.fr/vulnerability/Embedded-Development-Kit-2-integer-overflow-via-PeCoffLoaderRelocateImage-45695)|An attacker can trigger an integer overflow of Embedded Development Kit 2, via PeCoffLoaderRelocate|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-41782" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-41782)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-11-2024-45694" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 19/11/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-11-2024-45694)|An attacker can use several vulnerabilities of the Linux kernel, dated 19/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-two-vulnerabilities-dated-19-11-2024-45693" class="noirorange"><b>LemonLDAP-NG</b>: two vulnerabilities dated 19/11/2024</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-two-vulnerabilities-dated-19-11-2024-45693)|An attacker can use several vulnerabilities of LemonLDAP::NG, dated 19/11/2024...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Management-Interface-45689" class="noirorange"><b>PAN-OS</b>: privilege escalation via Web Management Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Management-Interface-45689)|An attacker can bypass restrictions of PAN-OS, via Web Management Interface, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-Cross-Site-Scripting-via-Pooled-JSP-Tags-45687" class="noirorange"><b>Apache Tomcat</b>: Cross Site Scripting via Pooled JSP Tags</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-Cross-Site-Scripting-via-Pooled-JSP-Tags-45687)|An attacker can trigger a Cross Site Scripting of Apache Tomcat, via Pooled JSP Tags, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Response-Recycling-45686" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Response Recycling</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Response-Recycling-45686)|An attacker can bypass access restrictions to data of Apache Tomcat, via Response Recycling, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avahi-information-disclosure-via-Wide-Area-DNS-45684" class="noirorange"><b>Avahi</b>: information disclosure via Wide-Area DNS</a>](https://vigilance.fr/vulnerability/Avahi-information-disclosure-via-Wide-Area-DNS-45684)|An attacker can bypass access restrictions to data of Avahi, via Wide-Area DNS, in order to read sensitive information...|Visit link for details|
  
  ---
 
