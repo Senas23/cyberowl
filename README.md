@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/01/2025 21:21:35 UTC
+ > Last Updated 20/01/2025 09:24:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,20 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Guix-privilege-escalation-dated-20-11-2024-45702" class="noirorange"><b>GNU Guix</b>: privilege escalation dated 20/11/2024</a>](https://vigilance.fr/vulnerability/GNU-Guix-privilege-escalation-dated-20-11-2024-45702)|An attacker can bypass restrictions of GNU Guix, dated 20/11/2024, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Module-Scandeps-code-execution-dated-20-11-2024-45701" class="noirorange"><b>Perl Module-Scandeps</b>: code execution dated 20/11/2024</a>](https://vigilance.fr/vulnerability/Perl-Module-Scandeps-code-execution-dated-20-11-2024-45701)|An attacker can use a vulnerability of Module-Scandeps, dated 20/11/2024, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-Cross-Site-Scripting-dated-20-11-2024-45699" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: Cross Site Scripting dated 20/11/2024</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-Cross-Site-Scripting-dated-20-11-2024-45699)|An attacker can trigger a Cross Site Scripting of WebKitGTK  WPE WebKit, dated 20/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Embedded-Development-Kit-2-integer-overflow-via-PeCoffLoaderRelocateImage-45695" class="noirorange"><b>Embedded Development Kit 2</b>: integer overflow via PeCoffLoaderRelocate<wbr>Image()</wbr></a>](https://vigilance.fr/vulnerability/Embedded-Development-Kit-2-integer-overflow-via-PeCoffLoaderRelocateImage-45695)|An attacker can trigger an integer overflow of Embedded Development Kit 2, via PeCoffLoaderRelocate|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-41782" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-41782)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-11-2024-45694" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 19/11/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-11-2024-45694)|An attacker can use several vulnerabilities of the Linux kernel, dated 19/11/2024...|Visit link for details|
@@ -58,16 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-Clients-privilege-escalation-via-Automatic-ConfigProvider-45692" class="noirorange"><b>Apache Kafka Clients</b>: privilege escalation via Automatic ConfigProvider</a>](https://vigilance.fr/vulnerability/Apache-Kafka-Clients-privilege-escalation-via-Automatic-ConfigProvider-45692)|An attacker can bypass restrictions of Apache Kafka Clients, via Automatic ConfigProvider, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-MariaDB-vulnerabilities-of-April-2024-44101" class="noirorange"><b>Oracle MySQL  MariaDB</b>: vulnerabilities of April 2024</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-MariaDB-vulnerabilities-of-April-2024-44101)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-April-2024-44100" class="noirorange"><b>Oracle VM VirtualBox</b>: vulnerabilities of April 2024</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-April-2024-44100)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Management-Interface-45689" class="noirorange"><b>PAN-OS</b>: privilege escalation via Web Management Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Management-Interface-45689)|An attacker can bypass restrictions of PAN-OS, via Web Management Interface, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-Cross-Site-Scripting-via-Pooled-JSP-Tags-45687" class="noirorange"><b>Apache Tomcat</b>: Cross Site Scripting via Pooled JSP Tags</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-Cross-Site-Scripting-via-Pooled-JSP-Tags-45687)|An attacker can trigger a Cross Site Scripting of Apache Tomcat, via Pooled JSP Tags, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Response-Recycling-45686" class="noirorange"><b>Apache Tomcat</b>: information disclosure via Response Recycling</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-Response-Recycling-45686)|An attacker can bypass access restrictions to data of Apache Tomcat, via Response Recycling, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
