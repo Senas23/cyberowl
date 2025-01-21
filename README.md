@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/01/2025 09:23:47 UTC
+ > Last Updated 21/01/2025 21:20:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-permissions-not-taken-into-account-45720" class="noirorange"><b>PostgreSQL</b>: permissions not taken into account</a>](https://vigilance.fr/vulnerability/PostgreSQL-permissions-not-taken-into-account-45720)|Due to a regression in the fix for CVE-2024-10978, included in VIGILANCE-VUL-45662, permission definitions are not always taken into account...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/7-Zip-code-execution-via-Zstandard-45719" class="noirorange"><b>7-Zip</b>: code execution via Zstandard</a>](https://vigilance.fr/vulnerability/7-Zip-code-execution-via-Zstandard-45719)|An attacker can use a vulnerability of 7-Zip, via Zstandard, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-five-vulnerabilities-dated-21-11-2024-45716" class="noirorange"><b>PHP</b>: five vulnerabilities dated 21/11/2024</a>](https://vigilance.fr/vulnerability/PHP-five-vulnerabilities-dated-21-11-2024-45716)|An attacker can use several vulnerabilities of PHP, dated 21/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Eloqua-code-execution-via-unserialize-45715" class="noirorange"><b>Drupal Eloqua</b>: code execution via unserialize()</a>](https://vigilance.fr/vulnerability/Drupal-Eloqua-code-execution-via-unserialize-45715)|An attacker can use a vulnerability of Drupal Eloqua, via unserialize(), in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Mailjet-code-execution-via-unserialize-45714" class="noirorange"><b>Drupal Mailjet</b>: code execution via unserialize()</a>](https://vigilance.fr/vulnerability/Drupal-Mailjet-code-execution-via-unserialize-45714)|An attacker can use a vulnerability of Drupal Mailjet, via unserialize(), in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Node-export-code-execution-via-unserialize-45713" class="noirorange"><b>Drupal Node export</b>: code execution via unserialize()</a>](https://vigilance.fr/vulnerability/Drupal-Node-export-code-execution-via-unserialize-45713)|An attacker can use a vulnerability of Drupal Node export, via unserialize(), in order to run code...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-spoofing-via-e-mail-45711" class="noirorange"><b>Drupal Core</b>: spoofing via e-mail</a>](https://vigilance.fr/vulnerability/Drupal-Core-spoofing-via-e-mail-45711)|An attacker can create spoofed data on Drupal Core, via e-mail, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-Cross-Site-Scripting-via-Overlay-45710" class="noirorange"><b>Drupal Core</b>: Cross Site Scripting via Overlay</a>](https://vigilance.fr/vulnerability/Drupal-Core-Cross-Site-Scripting-via-Overlay-45710)|An attacker can trigger a Cross Site Scripting of Drupal Core, via Overlay, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Next-js-overload-via-Image-Optimization-Feature-45705" class="noirorange"><b>Next.js</b>: overload via Image Optimization Feature</a>](https://vigilance.fr/vulnerability/Next-js-overload-via-Image-Optimization-Feature-45705)|An attacker can trigger an overload of Next.js, via Image Optimization Feature, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-11-2024-45703" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 20/11/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-11-2024-45703)|An attacker can use several vulnerabilities of the Linux kernel, dated 20/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Guix-privilege-escalation-dated-20-11-2024-45702" class="noirorange"><b>GNU Guix</b>: privilege escalation dated 20/11/2024</a>](https://vigilance.fr/vulnerability/GNU-Guix-privilege-escalation-dated-20-11-2024-45702)|An attacker can bypass restrictions of GNU Guix, dated 20/11/2024, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Module-Scandeps-code-execution-dated-20-11-2024-45701" class="noirorange"><b>Perl Module-Scandeps</b>: code execution dated 20/11/2024</a>](https://vigilance.fr/vulnerability/Perl-Module-Scandeps-code-execution-dated-20-11-2024-45701)|An attacker can use a vulnerability of Module-Scandeps, dated 20/11/2024, in order to run code...|Visit link for details|
  
  ---
 
