@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/01/2025 09:23:39 UTC
+ > Last Updated 22/01/2025 21:17:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,20 +30,10 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 21 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0049/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.|Publié le 20 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0048/)|Une vulnérabilité a été découverte dans Microsoft Windows. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 17 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0047/)|De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 17 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0046/)|De multiples vulnérabilités ont été découvertes dans les produits Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 17 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0045/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 17 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0044/)|Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 17 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0043/)|Une vulnérabilité a été découverte dans SPIP SPIP. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 17 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0042/)|Une vulnérabilité a été découverte dans le greffon Splunk Supporting pour Active Directory. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0041/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 15 janvier 2025|
  
  ---
 
@@ -51,6 +41,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-menus-45728" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting via menus</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-menus-45728)|An attacker can trigger a Cross Site Scripting of Centreon Web, via menus, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/7-Zip-overload-via-streams-45727" class="noirorange"><b>7-Zip</b>: overload via streams</a>](https://vigilance.fr/vulnerability/7-Zip-overload-via-streams-45727)|An attacker can trigger an overload of 7-Zip, via streams, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-URL-45725" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing via URL</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-URL-45725)|An attacker can create spoofed data on Microsoft Edge Chromium, via URL, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-11-2024-45724" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 22/11/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-11-2024-45724)|An attacker can use several vulnerabilities of the Linux kernel, dated 22/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-Cross-Site-Scripting-dated-22-11-2024-45723" class="noirorange"><b>IBM Security Directory Server</b>: Cross Site Scripting dated 22/11/2024</a>](https://vigilance.fr/vulnerability/IBM-Security-Directory-Server-Cross-Site-Scripting-dated-22-11-2024-45723)|An attacker can trigger a Cross Site Scripting of IBM Security Directory Server, dated 22/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -59,15 +51,23 @@
  |[<a href="https://vigilance.fr/vulnerability/7-Zip-code-execution-via-Zstandard-45719" class="noirorange"><b>7-Zip</b>: code execution via Zstandard</a>](https://vigilance.fr/vulnerability/7-Zip-code-execution-via-Zstandard-45719)|An attacker can use a vulnerability of 7-Zip, via Zstandard, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-five-vulnerabilities-dated-21-11-2024-45716" class="noirorange"><b>PHP</b>: five vulnerabilities dated 21/11/2024</a>](https://vigilance.fr/vulnerability/PHP-five-vulnerabilities-dated-21-11-2024-45716)|An attacker can use several vulnerabilities of PHP, dated 21/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Eloqua-code-execution-via-unserialize-45715" class="noirorange"><b>Drupal Eloqua</b>: code execution via unserialize()</a>](https://vigilance.fr/vulnerability/Drupal-Eloqua-code-execution-via-unserialize-45715)|An attacker can use a vulnerability of Drupal Eloqua, via unserialize(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Mailjet-code-execution-via-unserialize-45714" class="noirorange"><b>Drupal Mailjet</b>: code execution via unserialize()</a>](https://vigilance.fr/vulnerability/Drupal-Mailjet-code-execution-via-unserialize-45714)|An attacker can use a vulnerability of Drupal Mailjet, via unserialize(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Node-export-code-execution-via-unserialize-45713" class="noirorange"><b>Drupal Node export</b>: code execution via unserialize()</a>](https://vigilance.fr/vulnerability/Drupal-Node-export-code-execution-via-unserialize-45713)|An attacker can use a vulnerability of Drupal Node export, via unserialize(), in order to run code...|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0060/)|De multiples vulnérabilités ont été découvertes dans Node.js. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0059/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 22 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0058/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0057/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service.|Publié le 22 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0056/)|Une vulnérabilité a été découverte dans Oracle Systems. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.|Publié le 22 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0055/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 22 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0054/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 22 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 22 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0052/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0051/)|De multiples vulnérabilités ont été découvertes dans PHPMyAdmin. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un problème de sécurité non spécifié par l'éditeur.|Publié le 22 janvier 2025|
  
  ---
 
