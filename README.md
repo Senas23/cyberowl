@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/01/2025 21:19:38 UTC
+ > Last Updated 25/01/2025 09:21:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,34 +30,11 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0030/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. Fortinet indique que la vulnérabilité CVE-2024-55591 est activement exploitée.|Publié le 14 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0029/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 14 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0028/)|De multiples vulnérabilités ont été découvertes dans les produits Typo3. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de requêtes illégitimes par rebond (CSRF) et un contournement de la politique de sécurité.|Publié le 14 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0027/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 14 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0026/)|Une vulnérabilité a été découverte dans Veeam Backup pour Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0025/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox pour iOS. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0024/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0023/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 10 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0022/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 10 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0021/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 janvier 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Scout-open-redirect-via-login-API-Endpoint-46041" class="noirorange"><b>Scout</b>: open redirect via /login API Endpoint</a>](https://vigilance.fr/vulnerability/Scout-open-redirect-via-login-API-Endpoint-46041)|An attacker can deceive the user of Scout, via /login API Endpoint, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-24-04-2024-44144" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 24/04/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-24-04-2024-44144)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 24/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-AOS-CX-10000-information-disclosure-via-Packet-Leakage-46035" class="noirorange"><b>HPE Aruba AOS-CX 10000</b>: information disclosure via Packet Leakage</a>](https://vigilance.fr/vulnerability/HPE-Aruba-AOS-CX-10000-information-disclosure-via-Packet-Leakage-46035)|An attacker can bypass access restrictions to data of HPE Aruba AOS-CX 10000, via Packet Leakage, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Junos-OS-SRX-denial-of-service-via-Show-Chassis-Environment-Pem-46025" class="noirorange"><b>Junos OS SRX</b>: denial of service via Show Chassis Environment Pem</a>](https://vigilance.fr/vulnerability/Junos-OS-SRX-denial-of-service-via-Show-Chassis-Environment-Pem-46025)|An attacker can cause a fatal error of Junos OS SRX, via Show Chassis Environment Pem, in order to trigger a denial of service...|Visit link for details|
@@ -67,7 +44,30 @@
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-menus-45728" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting via menus</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-menus-45728)|An attacker can trigger a Cross Site Scripting of Centreon Web, via menus, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/7-Zip-overload-via-streams-45727" class="noirorange"><b>7-Zip</b>: overload via streams</a>](https://vigilance.fr/vulnerability/7-Zip-overload-via-streams-45727)|An attacker can trigger an overload of 7-Zip, via streams, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-URL-45725" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing via URL</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-URL-45725)|An attacker can create spoofed data on Microsoft Edge Chromium, via URL, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-11-2024-45724" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 22/11/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-11-2024-45724)|An attacker can use several vulnerabilities of the Linux kernel, dated 22/11/2024...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0071/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 24 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0070/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 24 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 24 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0068/)|Une vulnérabilité a été découverte dans ClamAV ClamAV. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans Qnap HBS 3 Hybrid Backup Sync. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0066/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0065/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 23 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une élévation de privilèges et un déni de service à distance.|Publié le 23 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0063/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0062/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 23 janvier 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
