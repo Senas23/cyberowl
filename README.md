@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/01/2025 09:24:32 UTC
+ > Last Updated 27/01/2025 21:23:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,12 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-buffer-overflow-dated-26-04-2024-44157" class="noirorange"><b>IBM MQ Appliance</b>: buffer overflow dated 26/04/2024</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-buffer-overflow-dated-26-04-2024-44157)|An attacker can trigger a buffer overflow of IBM MQ Appliance, dated 26/04/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-11-2024-45744" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 26/11/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-11-2024-45744)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 26/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-Interface-Groups-45742" class="noirorange"><b>pfSense CE</b>: Cross Site Scripting via Interface Groups</a>](https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-Interface-Groups-45742)|An attacker can trigger a Cross Site Scripting of pfSense CE, via Interface Groups, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-diag-edit-php-45740" class="noirorange"><b>pfSense CE</b>: Cross Site Scripting via diag_edit.php</a>](https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-diag-edit-php-45740)|An attacker can trigger a Cross Site Scripting of pfSense CE, via diag_edit.php, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Fop-external-XML-entity-injection-dated-26-11-2024-45738" class="noirorange"><b>Apache Fop</b>: external XML entity injection dated 26/11/2024</a>](https://vigilance.fr/vulnerability/Apache-Fop-external-XML-entity-injection-dated-26-11-2024-45738)|An attacker can transmit malicious XML data to Apache Fop, dated 26/11/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RapidJSON-integer-overflow-dated-26-11-2024-45737" class="noirorange"><b>RapidJSON</b>: integer overflow dated 26/11/2024</a>](https://vigilance.fr/vulnerability/RapidJSON-integer-overflow-dated-26-11-2024-45737)|An attacker can trigger an integer overflow of RapidJSON, dated 26/11/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-26-11-2024-45736" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 26/11/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-26-11-2024-45736)|An attacker can use several vulnerabilities of the Linux kernel, dated 26/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OFFIS-DCMTK-memory-corruption-via-DVPSSoftcopyVOI-PList-createFromImage-44150" class="noirorange"><b>OFFIS DCMTK</b>: memory corruption via DVPSSoftcopyVOI_<wbr>PList::<wbr>createFromImage()</wbr></wbr></a>](https://vigilance.fr/vulnerability/OFFIS-DCMTK-memory-corruption-via-DVPSSoftcopyVOI-PList-createFromImage-44150)|An attacker can trigger a memory corruption of OFFIS DCMTK, via DVPSSoftcopyVOI_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libarchive-code-execution-dated-26-04-2024-44149" class="noirorange"><b>libarchive</b>: code execution dated 26/04/2024</a>](https://vigilance.fr/vulnerability/libarchive-code-execution-dated-26-04-2024-44149)|An attacker can use a vulnerability of libarchive, dated 26/04/2024, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-privilege-escalation-via-API-Access-41846" class="noirorange"><b>Ivanti Endpoint Manager Mobile</b>: privilege escalation via API Access</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-privilege-escalation-via-API-Access-41846)|An attacker can bypass restrictions of Ivanti Endpoint Manager Mobile, via API Access, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0073/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 27 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0071/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 24 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0070/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 24 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 24 janvier 2025|
@@ -59,8 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0066/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0065/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 23 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une élévation de privilèges et un déni de service à distance.|Publié le 23 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0063/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 23 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0062/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 23 janvier 2025|
  
  ---
 
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-password-leak-via-export-YAML-45763" class="noirorange"><b>Zabbix</b>: password leak via export YAML</a>](https://vigilance.fr/vulnerability/Zabbix-password-leak-via-export-YAML-45763)|An attacker can read a YAML export file from Zabbix, in order to get passwords...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-use-after-free-via-es-browser-get-variant-45756" class="noirorange"><b>Zabbix</b>: use after free via es_browser_get_<wbr>variant()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-use-after-free-via-es-browser-get-variant-45756)|An attacker can force the reuse of a freed memory area of Zabbix, via es_browser_get_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-atob-45753" class="noirorange"><b>Zabbix</b>: information disclosure via atob()</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-atob-45753)|An attacker can bypass access restrictions to data of Zabbix, via atob(), in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-file-read-write-via-wrongly-defined-permissions-45750" class="noirorange"><b>Joomla Core</b>: file read/write via wrongly defined permissions</a>](https://vigilance.fr/vulnerability/Joomla-Core-file-read-write-via-wrongly-defined-permissions-45750)|An attacker can take profit of a wrong permission definition by Joomla Core, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tuned-spoofing-in-log-file-45746" class="noirorange"><b>Tuned</b>: spoofing in log file</a>](https://vigilance.fr/vulnerability/Tuned-spoofing-in-log-file-45746)|An attacker can corrupt the Tuned log, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-buffer-overflow-dated-26-04-2024-44157" class="noirorange"><b>IBM MQ Appliance</b>: buffer overflow dated 26/04/2024</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-buffer-overflow-dated-26-04-2024-44157)|An attacker can trigger a buffer overflow of IBM MQ Appliance, dated 26/04/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-11-2024-45744" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 26/11/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-11-2024-45744)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 26/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-Interface-Groups-45742" class="noirorange"><b>pfSense CE</b>: Cross Site Scripting via Interface Groups</a>](https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-Interface-Groups-45742)|An attacker can trigger a Cross Site Scripting of pfSense CE, via Interface Groups, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-diag-edit-php-45740" class="noirorange"><b>pfSense CE</b>: Cross Site Scripting via diag_edit.php</a>](https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-diag-edit-php-45740)|An attacker can trigger a Cross Site Scripting of pfSense CE, via diag_edit.php, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Fop-external-XML-entity-injection-dated-26-11-2024-45738" class="noirorange"><b>Apache Fop</b>: external XML entity injection dated 26/11/2024</a>](https://vigilance.fr/vulnerability/Apache-Fop-external-XML-entity-injection-dated-26-11-2024-45738)|An attacker can transmit malicious XML data to Apache Fop, dated 26/11/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  
  ---
 
