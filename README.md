@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/01/2025 09:23:14 UTC
+ > Last Updated 28/01/2025 21:20:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,27 +23,20 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0073/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 27 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0076/)|Une vulnérabilité a été découverte dans NetApp ONTAP. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 28 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 28 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0074/)|Une vulnérabilité a été découverte dans Synacor Zimbra Collaboration. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 28 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 27 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 27 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0071/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 24 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0070/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 24 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 24 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0068/)|Une vulnérabilité a été découverte dans ClamAV ClamAV. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0067/)|De multiples vulnérabilités ont été découvertes dans Qnap HBS 3 Hybrid Backup Sync. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0066/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0065/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 23 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une élévation de privilèges et un déni de service à distance.|Publié le 23 janvier 2025|
  
  ---
 
@@ -51,16 +44,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-via-Environment-Variables-46051" class="noirorange"><b>Keycloak</b>: privilege escalation via Environment Variables</a>](https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-via-Environment-Variables-46051)|An attacker can bypass restrictions of Keycloak, via Environment Variables, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/XStream-memory-leak-via-BinaryStreamDriver-45773" class="noirorange"><b>XStream</b>: memory leak via BinaryStreamDriver</a>](https://vigilance.fr/vulnerability/XStream-memory-leak-via-BinaryStreamDriver-45773)|An attacker can create a memory leak of XStream, via BinaryStreamDriver, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-two-vulnerabilities-dated-28-11-2024-45772" class="noirorange"><b>Centreon Web</b>: two vulnerabilities dated 28/11/2024</a>](https://vigilance.fr/vulnerability/Centreon-Web-two-vulnerabilities-dated-28-11-2024-45772)|An attacker can use several vulnerabilities of Centreon Web, dated 28/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-ingress-filtrering-bypass-via-HTTP-3-45771" class="noirorange"><b>HAProxy</b>: ingress filtrering bypass via HTTP/3</a>](https://vigilance.fr/vulnerability/HAProxy-ingress-filtrering-bypass-via-HTTP-3-45771)|An attacker can bypass filtering rules of HAProxy, via HTTP/3, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-read-access-to-confluence-cfg-xml-45770" class="noirorange"><b>Atlassian Confluence Server/DC</b>: read access to confluence.cfg.xml</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-read-access-to-confluence-cfg-xml-45770)|An attacker can read a file confluence.cfg.xml of Atlassian Confluence Server/DC, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-dated-28-11-2024-45769" class="noirorange"><b>Vim</b>: use after free dated 28/11/2024</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-dated-28-11-2024-45769)|An attacker can force the reuse of a freed memory area of Vim, dated 28/11/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Tarte-au-Citron-Cross-Site-Scripting-via-Google-Tag-Manager-45764" class="noirorange"><b>Drupal Tarte au Citron</b>: Cross Site Scripting via Google Tag Manager</a>](https://vigilance.fr/vulnerability/Drupal-Tarte-au-Citron-Cross-Site-Scripting-via-Google-Tag-Manager-45764)|An attacker can trigger a Cross Site Scripting of Drupal Tarte au Citron, via Google Tag Manager, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-password-leak-via-export-YAML-45763" class="noirorange"><b>Zabbix</b>: password leak via export YAML</a>](https://vigilance.fr/vulnerability/Zabbix-password-leak-via-export-YAML-45763)|An attacker can read a YAML export file from Zabbix, in order to get passwords...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-use-after-free-via-es-browser-get-variant-45756" class="noirorange"><b>Zabbix</b>: use after free via es_browser_get_<wbr>variant()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-use-after-free-via-es-browser-get-variant-45756)|An attacker can force the reuse of a freed memory area of Zabbix, via es_browser_get_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-atob-45753" class="noirorange"><b>Zabbix</b>: information disclosure via atob()</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-atob-45753)|An attacker can bypass access restrictions to data of Zabbix, via atob(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-file-read-write-via-wrongly-defined-permissions-45750" class="noirorange"><b>Joomla Core</b>: file read/write via wrongly defined permissions</a>](https://vigilance.fr/vulnerability/Joomla-Core-file-read-write-via-wrongly-defined-permissions-45750)|An attacker can take profit of a wrong permission definition by Joomla Core, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tuned-spoofing-in-log-file-45746" class="noirorange"><b>Tuned</b>: spoofing in log file</a>](https://vigilance.fr/vulnerability/Tuned-spoofing-in-log-file-45746)|An attacker can corrupt the Tuned log, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-buffer-overflow-dated-26-04-2024-44157" class="noirorange"><b>IBM MQ Appliance</b>: buffer overflow dated 26/04/2024</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-buffer-overflow-dated-26-04-2024-44157)|An attacker can trigger a buffer overflow of IBM MQ Appliance, dated 26/04/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-11-2024-45744" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 26/11/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-11-2024-45744)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 26/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-Interface-Groups-45742" class="noirorange"><b>pfSense CE</b>: Cross Site Scripting via Interface Groups</a>](https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-Interface-Groups-45742)|An attacker can trigger a Cross Site Scripting of pfSense CE, via Interface Groups, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-diag-edit-php-45740" class="noirorange"><b>pfSense CE</b>: Cross Site Scripting via diag_edit.php</a>](https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-diag-edit-php-45740)|An attacker can trigger a Cross Site Scripting of pfSense CE, via diag_edit.php, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
@@ -72,6 +65,13 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
