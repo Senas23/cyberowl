@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/01/2025 21:23:29 UTC
+ > Last Updated 28/01/2025 09:23:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Tarte-au-Citron-Cross-Site-Scripting-via-Google-Tag-Manager-45764" class="noirorange"><b>Drupal Tarte au Citron</b>: Cross Site Scripting via Google Tag Manager</a>](https://vigilance.fr/vulnerability/Drupal-Tarte-au-Citron-Cross-Site-Scripting-via-Google-Tag-Manager-45764)|An attacker can trigger a Cross Site Scripting of Drupal Tarte au Citron, via Google Tag Manager, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-password-leak-via-export-YAML-45763" class="noirorange"><b>Zabbix</b>: password leak via export YAML</a>](https://vigilance.fr/vulnerability/Zabbix-password-leak-via-export-YAML-45763)|An attacker can read a YAML export file from Zabbix, in order to get passwords...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-use-after-free-via-es-browser-get-variant-45756" class="noirorange"><b>Zabbix</b>: use after free via es_browser_get_<wbr>variant()</wbr></a>](https://vigilance.fr/vulnerability/Zabbix-use-after-free-via-es-browser-get-variant-45756)|An attacker can force the reuse of a freed memory area of Zabbix, via es_browser_get_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-atob-45753" class="noirorange"><b>Zabbix</b>: information disclosure via atob()</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-atob-45753)|An attacker can bypass access restrictions to data of Zabbix, via atob(), in order to read sensitive information...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-11-2024-45744" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 26/11/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-11-2024-45744)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 26/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-Interface-Groups-45742" class="noirorange"><b>pfSense CE</b>: Cross Site Scripting via Interface Groups</a>](https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-Interface-Groups-45742)|An attacker can trigger a Cross Site Scripting of pfSense CE, via Interface Groups, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-diag-edit-php-45740" class="noirorange"><b>pfSense CE</b>: Cross Site Scripting via diag_edit.php</a>](https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-diag-edit-php-45740)|An attacker can trigger a Cross Site Scripting of pfSense CE, via diag_edit.php, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Fop-external-XML-entity-injection-dated-26-11-2024-45738" class="noirorange"><b>Apache Fop</b>: external XML entity injection dated 26/11/2024</a>](https://vigilance.fr/vulnerability/Apache-Fop-external-XML-entity-injection-dated-26-11-2024-45738)|An attacker can transmit malicious XML data to Apache Fop, dated 26/11/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
