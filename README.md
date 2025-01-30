@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/01/2025 09:23:37 UTC
+ > Last Updated 30/01/2025 21:20:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-use-after-free-via-Memory-Management-44175" class="noirorange"><b>WebKitGTK</b>: use after free via Memory Management</a>](https://vigilance.fr/vulnerability/WebKitGTK-use-after-free-via-Memory-Management-44175)|An attacker can force the reuse of a freed memory area of WebKitGTK, via Memory Management, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Git-ingress-filtrering-bypass-via-Credential-Protocol-Carriage-Returns-46098" class="noirorange"><b>Git</b>: ingress filtrering bypass via Credential Protocol Carriage Returns</a>](https://vigilance.fr/vulnerability/Git-ingress-filtrering-bypass-via-Credential-Protocol-Carriage-Returns-46098)|An attacker can bypass filtering rules of Git, via Credential Protocol Carriage Returns, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-integer-overflow-via-Ipsec-IKE-46090" class="noirorange"><b>FortiOS</b>: integer overflow via Ipsec IKE</a>](https://vigilance.fr/vulnerability/FortiOS-integer-overflow-via-Ipsec-IKE-46090)|An attacker can trigger an integer overflow of FortiOS, via Ipsec IKE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiManager-user-access-via-Admin-Account-Persistence-46077" class="noirorange"><b>FortiManager</b>: user access via Admin Account Persistence</a>](https://vigilance.fr/vulnerability/FortiManager-user-access-via-Admin-Account-Persistence-46077)|An attacker can bypass restrictions of FortiManager, via Admin Account Persistence, in order to gain user privileges...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/jQuery-UI-vulnerability-via-injection-45781" class="noirorange"><b>jQuery UI</b>: vulnerability via injection</a>](https://vigilance.fr/vulnerability/jQuery-UI-vulnerability-via-injection-45781)|A vulnerability of jQuery UI, via injection, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-dated-29-11-2024-45780" class="noirorange"><b>Ibexa DXP</b>: Cross Site Scripting dated 29/11/2024</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-dated-29-11-2024-45780)|An attacker can trigger a Cross Site Scripting of Ibexa DXP, dated 29/11/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ProFTPD-privilege-escalation-via-group-inheritance-45778" class="noirorange"><b>ProFTPD</b>: privilege escalation via group inheritance</a>](https://vigilance.fr/vulnerability/ProFTPD-privilege-escalation-via-group-inheritance-45778)|An attacker can bypass restrictions of ProFTPD, via inherited groupss, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-via-Environment-Variables-46051" class="noirorange"><b>Keycloak</b>: privilege escalation via Environment Variables</a>](https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-via-Environment-Variables-46051)|An attacker can bypass restrictions of Keycloak, via Environment Variables, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
