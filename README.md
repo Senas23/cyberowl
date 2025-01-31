@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/01/2025 21:20:30 UTC
+ > Last Updated 31/01/2025 09:23:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0082/)|Une vulnérabilité a été découverte dans Sonicwall NetExtender. Elle permet à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 30 janvier 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0081/)|De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0080/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 29 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0079/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0078/)|Une vulnérabilité a été découverte dans VMware Avi Load Balancer. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 29 janvier 2025|
@@ -42,8 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0075/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 28 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0074/)|Une vulnérabilité a été découverte dans Synacor Zimbra Collaboration. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 28 janvier 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 27 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0072/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 27 janvier 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0071/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 24 janvier 2025|
  
  ---
 
