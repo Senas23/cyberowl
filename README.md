@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/02/2025 21:19:06 UTC
+ > Last Updated 03/02/2025 09:24:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/XnSoft-XnView-Classic-integer-overflow-via-RWZ-Files-45798" class="noirorange"><b>XnSoft XnView Classic</b>: integer overflow via RWZ Files</a>](https://vigilance.fr/vulnerability/XnSoft-XnView-Classic-integer-overflow-via-RWZ-Files-45798)|An attacker can trigger an integer overflow of XnSoft XnView Classic, via RWZ Files, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-03-12-2024-45797" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 03/12/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-03-12-2024-45797)|An attacker can use several vulnerabilities of the Linux kernel, dated 03/12/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SimpleSAMLphp-external-XML-entity-injection-dated-02-12-2024-45795" class="noirorange"><b>SimpleSAMLphp</b>: external XML entity injection dated 02/12/2024</a>](https://vigilance.fr/vulnerability/SimpleSAMLphp-external-XML-entity-injection-dated-02-12-2024-45795)|An attacker can transmit malicious XML data to SimpleSAMLphp, dated 02/12/2024, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tornado-overload-via-HTTP-Cookies-45794" class="noirorange"><b>Tornado</b>: overload via HTTP Cookies</a>](https://vigilance.fr/vulnerability/Tornado-overload-via-HTTP-Cookies-45794)|An attacker can trigger an overload of Tornado, via HTTP Cookies, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-CSV-Keepass-Imports-45793" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via CSV / Keepass Imports</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-CSV-Keepass-Imports-45793)|An attacker can trigger a Cross Site Scripting of TeamPass, via CSV / Keepass Imports, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Moby-NULL-pointer-dereference-via-image-history-go-45790" class="noirorange"><b>Moby</b>: NULL pointer dereference via image_history.go</a>](https://vigilance.fr/vulnerability/Moby-NULL-pointer-dereference-via-image-history-go-45790)|An attacker can force a NULL pointer to be dereferenced on Moby, via image_history.go, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Symfony-user-access-via-Empty-Username-Password-45789" class="noirorange"><b>Symfony</b>: user access via Empty Username / Password</a>](https://vigilance.fr/vulnerability/Symfony-user-access-via-Empty-Username-Password-45789)|An attacker can bypass restrictions of Symfony, via Empty Username / Password, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Cross-Site-Scripting-via-Upgrade-Session-Confirmation-Page-45788" class="noirorange"><b>LemonLDAP-NG</b>: Cross Site Scripting via Upgrade Session Confirmation Page</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Cross-Site-Scripting-via-Upgrade-Session-Confirmation-Page-45788)|An attacker can trigger a Cross Site Scripting of LemonLDAP::NG, via Upgrade Session Confirmation Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-privilege-escalation-via-Adaptative-Authentication-Rule-45787" class="noirorange"><b>LemonLDAP-NG</b>: privilege escalation via Adaptative Authentication Rule</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-privilege-escalation-via-Adaptative-Authentication-Rule-45787)|An attacker can bypass restrictions of LemonLDAP::NG, via Adaptative Authentication Rule, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Cross-Site-Scripting-via-Username-45786" class="noirorange"><b>LemonLDAP-NG</b>: Cross Site Scripting via Username</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Cross-Site-Scripting-via-Username-45786)|An attacker can trigger a Cross Site Scripting of LemonLDAP::NG, via Username, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
