@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/02/2025 09:23:21 UTC
+ > Last Updated 07/02/2025 21:21:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0108/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 07 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0107/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 07 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0106/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 07 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0105/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 07 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0104/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 07 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0103/)|Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 07 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0102/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 07 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0101/)|Une vulnérabilité a été découverte dans Kaspersky. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 07 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0100/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 06 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0099/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 06 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans les produits Curl. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 05 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 05 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0096/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 05 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0095/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 05 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0094/)|Une vulnérabilité a été découverte dans les produits Veeam. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 05 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0093/)|Une vulnérabilité a été découverte dans Google Pixel. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 05 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0092/)|De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 04 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0091/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service. Google indique que la vulnérabilité CVE-2024-53104 est activement...|Publié le 04 février 2025|
  
  ---
 
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/obs-scm-bridge-information-disclosure-via-Git-Repositories-45825" class="noirorange"><b>obs-scm-bridge</b>: information disclosure via Git Repositories</a>](https://vigilance.fr/vulnerability/obs-scm-bridge-information-disclosure-via-Git-Repositories-45825)|An attacker can bypass access restrictions to data of obs-scm-bridge, via Git Repositories, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-information-disclosure-via-Monitoring-Tab-Path-Disclosure-46150" class="noirorange"><b>phpMyAdmin</b>: information disclosure via Monitoring Tab Path Disclosure</a>](https://vigilance.fr/vulnerability/phpMyAdmin-information-disclosure-via-Monitoring-Tab-Path-Disclosure-46150)|An attacker can bypass access restrictions to data of phpMyAdmin, via Monitoring Tab Path Disclosure, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-Visual-Mode-All-Command-46146" class="noirorange"><b>Vim</b>: buffer overflow via Visual Mode All Command</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-Visual-Mode-All-Command-46146)|An attacker can trigger a buffer overflow of Vim, via Visual Mode All Command, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
