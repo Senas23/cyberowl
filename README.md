@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/02/2025 21:21:48 UTC
+ > Last Updated 08/02/2025 09:21:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-nf-set-pipapo-46191" class="noirorange"><b>Linux kernel</b>: memory reading via nf_set_pipapo()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-nf-set-pipapo-46191)|An attacker can read a memory fragment of the Linux kernel, via nf_set_pipapo(), in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-45830" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-45830)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ceph-RadosGW-user-access-dated-06-12-2024-45829" class="noirorange"><b>Ceph RadosGW</b>: user access dated 06/12/2024</a>](https://vigilance.fr/vulnerability/Ceph-RadosGW-user-access-dated-06-12-2024-45829)|An attacker can bypass restrictions of Ceph RadosGW, dated 06/12/2024, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2024-44215" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of May 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2024-44215)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-45826" class="noirorange"><b>AIX</b>: privilege escalation via invscout</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-45826)|An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/obs-scm-bridge-information-disclosure-via-Git-Repositories-45825" class="noirorange"><b>obs-scm-bridge</b>: information disclosure via Git Repositories</a>](https://vigilance.fr/vulnerability/obs-scm-bridge-information-disclosure-via-Git-Repositories-45825)|An attacker can bypass access restrictions to data of obs-scm-bridge, via Git Repositories, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-information-disclosure-via-Monitoring-Tab-Path-Disclosure-46150" class="noirorange"><b>phpMyAdmin</b>: information disclosure via Monitoring Tab Path Disclosure</a>](https://vigilance.fr/vulnerability/phpMyAdmin-information-disclosure-via-Monitoring-Tab-Path-Disclosure-46150)|An attacker can bypass access restrictions to data of phpMyAdmin, via Monitoring Tab Path Disclosure, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-Visual-Mode-All-Command-46146" class="noirorange"><b>Vim</b>: buffer overflow via Visual Mode All Command</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-Visual-Mode-All-Command-46146)|An attacker can trigger a buffer overflow of Vim, via Visual Mode All Command, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
