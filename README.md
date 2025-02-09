@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/02/2025 21:21:16 UTC
+ > Last Updated 09/02/2025 09:21:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,20 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-09-12-2024-45833" class="noirorange"><b>Linux kernel</b>: three vulnerabilities dated 09/12/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-09-12-2024-45833)|An attacker can use several vulnerabilities of the Linux kernel, dated 09/12/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Subversion-denial-of-service-via-Mod-dav-svn-Control-Characters-45832" class="noirorange"><b>Apache Subversion</b>: denial of service via Mod_dav_svn Control Characters</a>](https://vigilance.fr/vulnerability/Apache-Subversion-denial-of-service-via-Mod-dav-svn-Control-Characters-45832)|An attacker can cause a fatal error of Apache Subversion, via Mod_dav_svn Control Characters, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-use-after-free-via-browser-push-error-45831" class="noirorange"><b>Zabbix</b>: use after free via browser_push_error()</a>](https://vigilance.fr/vulnerability/Zabbix-use-after-free-via-browser-push-error-45831)|An attacker can force the reuse of a freed memory area of Zabbix, via browser_push_error()|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2023-41974" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2023-41974)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Teams-vulnerabilities-of-August-2023-41973" class="noirorange"><b>Microsoft Teams</b>: vulnerabilities of August 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Teams-vulnerabilities-of-August-2023-41973)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-dated-08-05-2024-44228" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities dated 08/05/2024</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-dated-08-05-2024-44228)|An attacker can use several vulnerabilities of F5 BIG-IP, dated 08/05/2024...|Visit link for details|
@@ -41,9 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-nf-set-pipapo-46191" class="noirorange"><b>Linux kernel</b>: memory reading via nf_set_pipapo()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-nf-set-pipapo-46191)|An attacker can read a memory fragment of the Linux kernel, via nf_set_pipapo(), in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-45830" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-45830)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ceph-RadosGW-user-access-dated-06-12-2024-45829" class="noirorange"><b>Ceph RadosGW</b>: user access dated 06/12/2024</a>](https://vigilance.fr/vulnerability/Ceph-RadosGW-user-access-dated-06-12-2024-45829)|An attacker can bypass restrictions of Ceph RadosGW, dated 06/12/2024, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2024-44215" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of May 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2024-44215)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kaspersky-Anti-Virus-file-deletion-via-Local-Administrator-46166" class="noirorange"><b>Kaspersky Anti-Virus</b>: file deletion via Local Administrator</a>](https://vigilance.fr/vulnerability/Kaspersky-Anti-Virus-file-deletion-via-Local-Administrator-46166)|An attacker can bypass access restrictions of Kaspersky Anti-Virus, via Local Administrator, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-SelectorSocketTransport-writelines-45828" class="noirorange"><b>Python Core</b>: overload via _<wbr>SelectorSocketTransp<wbr>ort.writelines</wbr></wbr></a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-SelectorSocketTransport-writelines-45828)|An attacker can trigger an overload of Python Core, via _|Visit link for details|
  
  ---
 
@@ -61,13 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0101/)|Une vulnérabilité a été découverte dans Kaspersky. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 07 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0100/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 06 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0099/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 06 février 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
