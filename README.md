@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/02/2025 09:23:51 UTC
+ > Last Updated 11/02/2025 21:21:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Neutron-vulnerability-via-ML2-SR-IOV-Port-Disabling-45884" class="noirorange"><b>OpenStack Neutron</b>: vulnerability via ML2/SR-IOV Port Disabling</a>](https://vigilance.fr/vulnerability/OpenStack-Neutron-vulnerability-via-ML2-SR-IOV-Port-Disabling-45884)|A vulnerability of OpenStack Neutron, via ML2/SR-IOV Port Disabling, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-file-reading-via-Temporary-Directory-45883" class="noirorange"><b>Apache Hadoop</b>: file reading via Temporary Directory</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-file-reading-via-Temporary-Directory-45883)|An attacker can read a file of Apache Hadoop, via Temporary Directory, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-11-12-2024-45882" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 11/12/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-11-12-2024-45882)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 11/12/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Public-File-System-45881" class="noirorange"><b>Drupal Open Social</b>: information disclosure via Public File System</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Public-File-System-45881)|An attacker can bypass access restrictions to data of Drupal Open Social, via Public File System, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Allow-All-File-Extensions-For-File-Fields-vulnerability-dated-11-12-2024-45880" class="noirorange"><b>Drupal Allow All File Extensions For File Fields</b>: vulnerability dated 11/12/2024</a>](https://vigilance.fr/vulnerability/Drupal-Allow-All-File-Extensions-For-File-Fields-vulnerability-dated-11-12-2024-45880)|A vulnerability of Drupal Allow All File Extensions For File Fields, dated 11/12/2024, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Login-Disable-vulnerability-dated-11-12-2024-45879" class="noirorange"><b>Drupal Login Disable</b>: vulnerability dated 11/12/2024</a>](https://vigilance.fr/vulnerability/Drupal-Login-Disable-vulnerability-dated-11-12-2024-45879)|A vulnerability of Drupal Login Disable, dated 11/12/2024, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Browser-Back-Button-Cross-Site-Scripting-via-Administer-Blocks-45877" class="noirorange"><b>Drupal Browser Back Button</b>: Cross Site Scripting via Administer Blocks</a>](https://vigilance.fr/vulnerability/Drupal-Browser-Back-Button-Cross-Site-Scripting-via-Administer-Blocks-45877)|An attacker can trigger a Cross Site Scripting of Drupal Browser Back Button, via Administer Blocks, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-VPE-VMOVP-45876" class="noirorange"><b>Linux kernel</b>: memory corruption via VPE VMOVP</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-VPE-VMOVP-45876)|An attacker can trigger a memory corruption of the Linux kernel, via VPE VMOVP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/socat-file-write-via-Predictable-tmp-Directory-45875" class="noirorange"><b>socat</b>: file write via Predictable /tmp Directory</a>](https://vigilance.fr/vulnerability/socat-file-write-via-Predictable-tmp-Directory-45875)|An attacker can bypass access restrictions of socat, via Predictable /tmp Directory, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-Flow-Designer-information-disclosure-dated-11-12-2024-45874" class="noirorange"><b>IBM InfoSphere DataStage Flow Designer</b>: information disclosure dated 11/12/2024</a>](https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-Flow-Designer-information-disclosure-dated-11-12-2024-45874)|An attacker can bypass access restrictions to data of IBM InfoSphere DataStage Flow Designer, dated 11/12/2024, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -58,21 +75,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-Netrc-File-Redirect-45866" class="noirorange"><b>cURL</b>: information disclosure via Netrc File Redirect</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-Netrc-File-Redirect-45866)|An attacker can bypass access restrictions to data of cURL, via Netrc File Redirect, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Sentry-privilege-escalation-via-Application-Components-45863" class="noirorange"><b>Ivanti Sentry</b>: privilege escalation via Application Components</a>](https://vigilance.fr/vulnerability/Ivanti-Sentry-privilege-escalation-via-Application-Components-45863)|An attacker can bypass restrictions of Ivanti Sentry, via Application Components, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-deletion-via-Patch-SDK-45862" class="noirorange"><b>Ivanti Endpoint Manager</b>: file deletion via Patch SDK</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-deletion-via-Patch-SDK-45862)|An attacker can bypass access restrictions of Ivanti Endpoint Manager, via Patch SDK, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-directory-traversal-via-Semicolon-45858" class="noirorange"><b>Apache Shiro</b>: directory traversal via Semicolon</a>](https://vigilance.fr/vulnerability/Apache-Shiro-directory-traversal-via-Semicolon-45858)|An attacker can traverse directories of Apache Shiro, via Semicolon, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-Carousel-Component-45857" class="noirorange"><b>Bootstrap</b>: Cross Site Scripting via Carousel Component</a>](https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-Carousel-Component-45857)|An attacker can trigger a Cross Site Scripting of Bootstrap, via Carousel Component, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-SPL-commands-45854" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via SPL commands</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-SPL-commands-45854)|An attacker can bypass access restrictions to data of Splunk Enterprise, via SPL commands, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Username-Collision-45853" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Username Collision</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Username-Collision-45853)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Username Collision, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-app-search-report-45852" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via /app/search/report</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-app-search-report-45852)|An attacker can bypass access restrictions to data of Splunk Enterprise, via /app/search/report, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Gateway-Mobile-Alert-Responses-45851" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Gateway Mobile Alert Responses</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Gateway-Mobile-Alert-Responses-45851)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Gateway Mobile Alert Responses, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-dated-10-12-2024-45849" class="noirorange"><b>Microsoft System Center Operations Manager</b>: privilege escalation dated 10/12/2024</a>](https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-dated-10-12-2024-45849)|An attacker can bypass restrictions of Microsoft System Center Operations Manager, dated 10/12/2024, in order to escalate his privileges...|Visit link for details|
  
