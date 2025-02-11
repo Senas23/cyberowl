@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/02/2025 21:21:55 UTC
+ > Last Updated 11/02/2025 09:23:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,23 +47,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Sentry-privilege-escalation-via-Application-Components-45863" class="noirorange"><b>Ivanti Sentry</b>: privilege escalation via Application Components</a>](https://vigilance.fr/vulnerability/Ivanti-Sentry-privilege-escalation-via-Application-Components-45863)|An attacker can bypass restrictions of Ivanti Sentry, via Application Components, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-deletion-via-Patch-SDK-45862" class="noirorange"><b>Ivanti Endpoint Manager</b>: file deletion via Patch SDK</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-deletion-via-Patch-SDK-45862)|An attacker can bypass access restrictions of Ivanti Endpoint Manager, via Patch SDK, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-directory-traversal-via-Semicolon-45858" class="noirorange"><b>Apache Shiro</b>: directory traversal via Semicolon</a>](https://vigilance.fr/vulnerability/Apache-Shiro-directory-traversal-via-Semicolon-45858)|An attacker can traverse directories of Apache Shiro, via Semicolon, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-Carousel-Component-45857" class="noirorange"><b>Bootstrap</b>: Cross Site Scripting via Carousel Component</a>](https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-Carousel-Component-45857)|An attacker can trigger a Cross Site Scripting of Bootstrap, via Carousel Component, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-SPL-commands-45854" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via SPL commands</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-SPL-commands-45854)|An attacker can bypass access restrictions to data of Splunk Enterprise, via SPL commands, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Username-Collision-45853" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Username Collision</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Username-Collision-45853)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Username Collision, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-app-search-report-45852" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via /app/search/report</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-app-search-report-45852)|An attacker can bypass access restrictions to data of Splunk Enterprise, via /app/search/report, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Gateway-Mobile-Alert-Responses-45851" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Gateway Mobile Alert Responses</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Gateway-Mobile-Alert-Responses-45851)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Gateway Mobile Alert Responses, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-dated-10-12-2024-45849" class="noirorange"><b>Microsoft System Center Operations Manager</b>: privilege escalation dated 10/12/2024</a>](https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-dated-10-12-2024-45849)|An attacker can bypass restrictions of Microsoft System Center Operations Manager, dated 10/12/2024, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-code-execution-via-Log-Files-45846" class="noirorange"><b>SIMATIC</b>: code execution via Log Files</a>](https://vigilance.fr/vulnerability/SIMATIC-code-execution-via-Log-Files-45846)|An attacker can use a vulnerability of SIMATIC, via Log Files, in order to run code...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -75,4 +58,21 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-information-disclosure-via-Netrc-File-Redirect-45866" class="noirorange"><b>cURL</b>: information disclosure via Netrc File Redirect</a>](https://vigilance.fr/vulnerability/cURL-information-disclosure-via-Netrc-File-Redirect-45866)|An attacker can bypass access restrictions to data of cURL, via Netrc File Redirect, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Sentry-privilege-escalation-via-Application-Components-45863" class="noirorange"><b>Ivanti Sentry</b>: privilege escalation via Application Components</a>](https://vigilance.fr/vulnerability/Ivanti-Sentry-privilege-escalation-via-Application-Components-45863)|An attacker can bypass restrictions of Ivanti Sentry, via Application Components, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-deletion-via-Patch-SDK-45862" class="noirorange"><b>Ivanti Endpoint Manager</b>: file deletion via Patch SDK</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-file-deletion-via-Patch-SDK-45862)|An attacker can bypass access restrictions of Ivanti Endpoint Manager, via Patch SDK, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Shiro-directory-traversal-via-Semicolon-45858" class="noirorange"><b>Apache Shiro</b>: directory traversal via Semicolon</a>](https://vigilance.fr/vulnerability/Apache-Shiro-directory-traversal-via-Semicolon-45858)|An attacker can traverse directories of Apache Shiro, via Semicolon, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-Carousel-Component-45857" class="noirorange"><b>Bootstrap</b>: Cross Site Scripting via Carousel Component</a>](https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-Carousel-Component-45857)|An attacker can trigger a Cross Site Scripting of Bootstrap, via Carousel Component, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-SPL-commands-45854" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via SPL commands</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-SPL-commands-45854)|An attacker can bypass access restrictions to data of Splunk Enterprise, via SPL commands, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Username-Collision-45853" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Username Collision</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Username-Collision-45853)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Username Collision, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-app-search-report-45852" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via /app/search/report</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-app-search-report-45852)|An attacker can bypass access restrictions to data of Splunk Enterprise, via /app/search/report, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Gateway-Mobile-Alert-Responses-45851" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Gateway Mobile Alert Responses</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Gateway-Mobile-Alert-Responses-45851)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Gateway Mobile Alert Responses, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-dated-10-12-2024-45849" class="noirorange"><b>Microsoft System Center Operations Manager</b>: privilege escalation dated 10/12/2024</a>](https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-dated-10-12-2024-45849)|An attacker can bypass restrictions of Microsoft System Center Operations Manager, dated 10/12/2024, in order to escalate his privileges...|Visit link for details|
  
