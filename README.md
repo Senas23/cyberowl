@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/02/2025 09:25:37 UTC
+ > Last Updated 12/02/2025 21:22:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-MIME-Type-Sniffing-46211" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via MIME Type Sniffing</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-MIME-Type-Sniffing-46211)|An attacker can bypass access restrictions to data of OTRS Help Desk, via MIME Type Sniffing, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Radare2-code-execution-via-Pebble-Application-Files-45888" class="noirorange"><b>Radare2</b>: code execution via Pebble Application Files</a>](https://vigilance.fr/vulnerability/Radare2-code-execution-via-Pebble-Application-Files-45888)|An attacker can use a vulnerability of Radare2, via Pebble Application Files, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-directory-traversal-via-Matrix-45887" class="noirorange"><b>Mozilla Thunderbird</b>: directory traversal via Matrix</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-directory-traversal-via-Matrix-45887)|An attacker can traverse directories of Mozilla Thunderbird, via Matrix, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Neutron-vulnerability-via-ML2-SR-IOV-Port-Disabling-45884" class="noirorange"><b>OpenStack Neutron</b>: vulnerability via ML2/SR-IOV Port Disabling</a>](https://vigilance.fr/vulnerability/OpenStack-Neutron-vulnerability-via-ML2-SR-IOV-Port-Disabling-45884)|A vulnerability of OpenStack Neutron, via ML2/SR-IOV Port Disabling, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-file-reading-via-Temporary-Directory-45883" class="noirorange"><b>Apache Hadoop</b>: file reading via Temporary Directory</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-file-reading-via-Temporary-Directory-45883)|An attacker can read a file of Apache Hadoop, via Temporary Directory, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-11-12-2024-45882" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 11/12/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-11-12-2024-45882)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 11/12/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Public-File-System-45881" class="noirorange"><b>Drupal Open Social</b>: information disclosure via Public File System</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Public-File-System-45881)|An attacker can bypass access restrictions to data of Drupal Open Social, via Public File System, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Allow-All-File-Extensions-For-File-Fields-vulnerability-dated-11-12-2024-45880" class="noirorange"><b>Drupal Allow All File Extensions For File Fields</b>: vulnerability dated 11/12/2024</a>](https://vigilance.fr/vulnerability/Drupal-Allow-All-File-Extensions-For-File-Fields-vulnerability-dated-11-12-2024-45880)|A vulnerability of Drupal Allow All File Extensions For File Fields, dated 11/12/2024, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Login-Disable-vulnerability-dated-11-12-2024-45879" class="noirorange"><b>Drupal Login Disable</b>: vulnerability dated 11/12/2024</a>](https://vigilance.fr/vulnerability/Drupal-Login-Disable-vulnerability-dated-11-12-2024-45879)|A vulnerability of Drupal Login Disable, dated 11/12/2024, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Browser-Back-Button-Cross-Site-Scripting-via-Administer-Blocks-45877" class="noirorange"><b>Drupal Browser Back Button</b>: Cross Site Scripting via Administer Blocks</a>](https://vigilance.fr/vulnerability/Drupal-Browser-Back-Button-Cross-Site-Scripting-via-Administer-Blocks-45877)|An attacker can trigger a Cross Site Scripting of Drupal Browser Back Button, via Administer Blocks, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0107/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 07 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0106/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 07 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0105/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 07 février 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Aironet-overload-via-Traffic-Types-45889" class="noirorange"><b>Cisco Aironet</b>: overload via Traffic Types</a>](https://vigilance.fr/vulnerability/Cisco-Aironet-overload-via-Traffic-Types-45889)|An attacker can trigger an overload of Cisco Aironet, via Traffic Types, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-MIME-Type-Sniffing-46211" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via MIME Type Sniffing</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-MIME-Type-Sniffing-46211)|An attacker can bypass access restrictions to data of OTRS Help Desk, via MIME Type Sniffing, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Radare2-code-execution-via-Pebble-Application-Files-45888" class="noirorange"><b>Radare2</b>: code execution via Pebble Application Files</a>](https://vigilance.fr/vulnerability/Radare2-code-execution-via-Pebble-Application-Files-45888)|An attacker can use a vulnerability of Radare2, via Pebble Application Files, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-directory-traversal-via-Matrix-45887" class="noirorange"><b>Mozilla Thunderbird</b>: directory traversal via Matrix</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-directory-traversal-via-Matrix-45887)|An attacker can traverse directories of Mozilla Thunderbird, via Matrix, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Neutron-vulnerability-via-ML2-SR-IOV-Port-Disabling-45884" class="noirorange"><b>OpenStack Neutron</b>: vulnerability via ML2/SR-IOV Port Disabling</a>](https://vigilance.fr/vulnerability/OpenStack-Neutron-vulnerability-via-ML2-SR-IOV-Port-Disabling-45884)|A vulnerability of OpenStack Neutron, via ML2/SR-IOV Port Disabling, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-file-reading-via-Temporary-Directory-45883" class="noirorange"><b>Apache Hadoop</b>: file reading via Temporary Directory</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-file-reading-via-Temporary-Directory-45883)|An attacker can read a file of Apache Hadoop, via Temporary Directory, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-11-12-2024-45882" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 11/12/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-11-12-2024-45882)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 11/12/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Public-File-System-45881" class="noirorange"><b>Drupal Open Social</b>: information disclosure via Public File System</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Public-File-System-45881)|An attacker can bypass access restrictions to data of Drupal Open Social, via Public File System, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Allow-All-File-Extensions-For-File-Fields-vulnerability-dated-11-12-2024-45880" class="noirorange"><b>Drupal Allow All File Extensions For File Fields</b>: vulnerability dated 11/12/2024</a>](https://vigilance.fr/vulnerability/Drupal-Allow-All-File-Extensions-For-File-Fields-vulnerability-dated-11-12-2024-45880)|A vulnerability of Drupal Allow All File Extensions For File Fields, dated 11/12/2024, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Login-Disable-vulnerability-dated-11-12-2024-45879" class="noirorange"><b>Drupal Login Disable</b>: vulnerability dated 11/12/2024</a>](https://vigilance.fr/vulnerability/Drupal-Login-Disable-vulnerability-dated-11-12-2024-45879)|A vulnerability of Drupal Login Disable, dated 11/12/2024, was announced...|Visit link for details|
  
  ---
 
