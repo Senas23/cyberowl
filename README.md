@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/02/2025 09:24:49 UTC
+ > Last Updated 13/02/2025 21:21:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,29 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0129/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 13 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0128/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 13 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0127/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0126/)|Une vulnérabilité a été découverte dans les produits Juniper Networks. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0125/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 12 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0124/)|Une vulnérabilité a été découverte dans le greffon "Saisies pour formulaire" pour SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0123/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0122/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 12 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0121/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0120/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 février 2025|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-13-05-2024-44266" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 13/05/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-13-05-2024-44266)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 13/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-dated-13-05-2024-44262" class="noirorange"><b>Cacti</b>: multiple vulnerabilities dated 13/05/2024</a>](https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-dated-13-05-2024-44262)|An attacker can use several vulnerabilities of Cacti, dated 13/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synapse-information-disclosure-via-Sliding-Sync-45902" class="noirorange"><b>Synapse</b>: information disclosure via Sliding Sync</a>](https://vigilance.fr/vulnerability/Synapse-information-disclosure-via-Sliding-Sync-45902)|An attacker can bypass access restrictions to data of Synapse, via Sliding Sync, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synapse-code-execution-via-dynamic-thumbnails-45901" class="noirorange"><b>Synapse</b>: code execution via dynamic_thumbnails</a>](https://vigilance.fr/vulnerability/Synapse-code-execution-via-dynamic-thumbnails-45901)|An attacker can use a vulnerability of Synapse, via dynamic_thumbnails, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synapse-overload-via-Federation-Invites-45900" class="noirorange"><b>Synapse</b>: overload via Federation Invites</a>](https://vigilance.fr/vulnerability/Synapse-overload-via-Federation-Invites-45900)|An attacker can trigger an overload of Synapse, via Federation Invites, in order to trigger a denial of service...|Visit link for details|
@@ -42,25 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Pgpool-II-user-access-via-Authentication-Information-45897" class="noirorange"><b>Pgpool-II</b>: user access via Authentication Information</a>](https://vigilance.fr/vulnerability/Pgpool-II-user-access-via-Authentication-Information-45897)|An attacker can bypass restrictions of Pgpool-II, via Authentication Information, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-five-vulnerabilities-dated-12-05-2024-44256" class="noirorange"><b>FFmpeg</b>: five vulnerabilities dated 12/05/2024</a>](https://vigilance.fr/vulnerability/FFmpeg-five-vulnerabilities-dated-12-05-2024-44256)|An attacker can use several vulnerabilities of FFmpeg, dated 12/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-three-vulnerabilities-dated-12-05-2024-44257" class="noirorange"><b>FFmpeg</b>: three vulnerabilities dated 12/05/2024</a>](https://vigilance.fr/vulnerability/FFmpeg-three-vulnerabilities-dated-12-05-2024-44257)|An attacker can use several vulnerabilities of FFmpeg, dated 12/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Kerby-user-access-via-LdapIdentityBackend-44261" class="noirorange"><b>Apache Kerby</b>: user access via LdapIdentityBackend</a>](https://vigilance.fr/vulnerability/Apache-Kerby-user-access-via-LdapIdentityBackend-44261)|An attacker can bypass restrictions of Apache Kerby, via LdapIdentityBackend, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-five-vulnerabilities-dated-12-05-2024-44255" class="noirorange"><b>FFmpeg</b>: five vulnerabilities dated 12/05/2024</a>](https://vigilance.fr/vulnerability/FFmpeg-five-vulnerabilities-dated-12-05-2024-44255)|An attacker can use several vulnerabilities of FFmpeg, dated 12/05/2024...|Visit link for details|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0126/)|Une vulnérabilité a été découverte dans les produits Juniper Networks. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0125/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0124/)|Une vulnérabilité a été découverte dans le greffon "Saisies pour formulaire" pour SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0123/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0122/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0121/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0120/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0119/)|De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0118/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0117/)|Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 février 2025|
  
  ---
 
