@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/02/2025 09:24:44 UTC
+ > Last Updated 14/02/2025 21:21:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,37 +30,37 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-NFSv4-Client-46235" class="noirorange"><b>FreeBSD</b>: NULL pointer dereference via NFSv4 Client</a>](https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-NFSv4-Client-46235)|An attacker can force a NULL pointer to be dereferenced on FreeBSD, via NFSv4 Client, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-ktrace-46234" class="noirorange"><b>FreeBSD</b>: memory reading via ktrace</a>](https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-ktrace-46234)|An attacker can read a memory fragment of FreeBSD, via ktrace, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-13-05-2024-44266" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 13/05/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-13-05-2024-44266)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 13/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-dated-13-05-2024-44262" class="noirorange"><b>Cacti</b>: multiple vulnerabilities dated 13/05/2024</a>](https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-dated-13-05-2024-44262)|An attacker can use several vulnerabilities of Cacti, dated 13/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-information-disclosure-via-Sliding-Sync-45902" class="noirorange"><b>Synapse</b>: information disclosure via Sliding Sync</a>](https://vigilance.fr/vulnerability/Synapse-information-disclosure-via-Sliding-Sync-45902)|An attacker can bypass access restrictions to data of Synapse, via Sliding Sync, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-code-execution-via-dynamic-thumbnails-45901" class="noirorange"><b>Synapse</b>: code execution via dynamic_thumbnails</a>](https://vigilance.fr/vulnerability/Synapse-code-execution-via-dynamic-thumbnails-45901)|An attacker can use a vulnerability of Synapse, via dynamic_thumbnails, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-overload-via-Federation-Invites-45900" class="noirorange"><b>Synapse</b>: overload via Federation Invites</a>](https://vigilance.fr/vulnerability/Synapse-overload-via-Federation-Invites-45900)|An attacker can trigger an overload of Synapse, via Federation Invites, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-overload-via-Multipart-form-data-Requests-45899" class="noirorange"><b>Synapse</b>: overload via Multipart/form-data Requests</a>](https://vigilance.fr/vulnerability/Synapse-overload-via-Multipart-form-data-Requests-45899)|An attacker can trigger an overload of Synapse, via Multipart/form-data Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pgpool-II-information-disclosure-via-Query-Cache-45898" class="noirorange"><b>Pgpool-II</b>: information disclosure via Query Cache</a>](https://vigilance.fr/vulnerability/Pgpool-II-information-disclosure-via-Query-Cache-45898)|An attacker can bypass access restrictions to data of Pgpool-II, via Query Cache, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pgpool-II-user-access-via-Authentication-Information-45897" class="noirorange"><b>Pgpool-II</b>: user access via Authentication Information</a>](https://vigilance.fr/vulnerability/Pgpool-II-user-access-via-Authentication-Information-45897)|An attacker can bypass restrictions of Pgpool-II, via Authentication Information, in order to gain user privileges...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0135/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar Deployment Intelligence App. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0134/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 14 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0133/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 14 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0132/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 14 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0131/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 14 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0130/)|Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 14 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0129/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 13 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0128/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 13 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0127/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0126/)|Une vulnérabilité a été découverte dans les produits Juniper Networks. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0125/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0124/)|Une vulnérabilité a été découverte dans le greffon "Saisies pour formulaire" pour SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0123/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0122/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0121/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0120/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 février 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-May-2024-44301" class="noirorange"><b>Windows</b>: vulnerabilities of May 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-May-2024-44301)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2024-44300" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of May 2024</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-May-2024-44300)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-dated-14-05-2024-44299" class="noirorange"><b>Microsoft 365 Apps  Office</b>: code execution dated 14/05/2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-code-execution-dated-14-05-2024-44299)|An attacker can use a vulnerability of Microsoft 365 Apps  Office, dated 14/05/2024, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-May-2024-44298" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of May 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-May-2024-44298)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Git-code-execution-via-Cloning-Special-crafted-Local-Repositories-44289" class="noirorange"><b>Git</b>: code execution via Cloning Special-crafted Local Repositories</a>](https://vigilance.fr/vulnerability/Git-code-execution-via-Cloning-Special-crafted-Local-Repositories-44289)|An attacker can use a vulnerability of Git, via Cloning Special-crafted Local Repositories, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Git-code-execution-via-Recursive-Clones-Case-insensitive-Filesystems-44288" class="noirorange"><b>Git</b>: code execution via Recursive Clones Case-insensitive Filesystems</a>](https://vigilance.fr/vulnerability/Git-code-execution-via-Recursive-Clones-Case-insensitive-Filesystems-44288)|An attacker can use a vulnerability of Git, via Recursive Clones Case-insensitive Filesystems, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-14-05-2024-44287" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities dated 14/05/2024</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-14-05-2024-44287)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader, dated 14/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-May-2024-44283" class="noirorange"><b>SAP</b>: multiple vulnerabilities of May 2024</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-May-2024-44283)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-14-05-2024-44281" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 14/05/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-14-05-2024-44281)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 14/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-RTLS-Locating-Manager-multiple-vulnerabilities-dated-14-05-2024-44276" class="noirorange"><b>SIMATIC RTLS Locating Manager</b>: multiple vulnerabilities dated 14/05/2024</a>](https://vigilance.fr/vulnerability/SIMATIC-RTLS-Locating-Manager-multiple-vulnerabilities-dated-14-05-2024-44276)|An attacker can use several vulnerabilities of SIMATIC RTLS Locating Manager, dated 14/05/2024...|Visit link for details|
  
  ---
 
