@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/02/2025 21:21:07 UTC
+ > Last Updated 14/02/2025 09:24:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-NFSv4-Client-46235" class="noirorange"><b>FreeBSD</b>: NULL pointer dereference via NFSv4 Client</a>](https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-NFSv4-Client-46235)|An attacker can force a NULL pointer to be dereferenced on FreeBSD, via NFSv4 Client, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-ktrace-46234" class="noirorange"><b>FreeBSD</b>: memory reading via ktrace</a>](https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-ktrace-46234)|An attacker can read a memory fragment of FreeBSD, via ktrace, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-13-05-2024-44266" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 13/05/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-13-05-2024-44266)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 13/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-dated-13-05-2024-44262" class="noirorange"><b>Cacti</b>: multiple vulnerabilities dated 13/05/2024</a>](https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-dated-13-05-2024-44262)|An attacker can use several vulnerabilities of Cacti, dated 13/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-information-disclosure-via-Sliding-Sync-45902" class="noirorange"><b>Synapse</b>: information disclosure via Sliding Sync</a>](https://vigilance.fr/vulnerability/Synapse-information-disclosure-via-Sliding-Sync-45902)|An attacker can bypass access restrictions to data of Synapse, via Sliding Sync, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-code-execution-via-dynamic-thumbnails-45901" class="noirorange"><b>Synapse</b>: code execution via dynamic_thumbnails</a>](https://vigilance.fr/vulnerability/Synapse-code-execution-via-dynamic-thumbnails-45901)|An attacker can use a vulnerability of Synapse, via dynamic_thumbnails, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-overload-via-Federation-Invites-45900" class="noirorange"><b>Synapse</b>: overload via Federation Invites</a>](https://vigilance.fr/vulnerability/Synapse-overload-via-Federation-Invites-45900)|An attacker can trigger an overload of Synapse, via Federation Invites, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synapse-overload-via-Multipart-form-data-Requests-45899" class="noirorange"><b>Synapse</b>: overload via Multipart/form-data Requests</a>](https://vigilance.fr/vulnerability/Synapse-overload-via-Multipart-form-data-Requests-45899)|An attacker can trigger an overload of Synapse, via Multipart/form-data Requests, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pgpool-II-information-disclosure-via-Query-Cache-45898" class="noirorange"><b>Pgpool-II</b>: information disclosure via Query Cache</a>](https://vigilance.fr/vulnerability/Pgpool-II-information-disclosure-via-Query-Cache-45898)|An attacker can bypass access restrictions to data of Pgpool-II, via Query Cache, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pgpool-II-user-access-via-Authentication-Information-45897" class="noirorange"><b>Pgpool-II</b>: user access via Authentication Information</a>](https://vigilance.fr/vulnerability/Pgpool-II-user-access-via-Authentication-Information-45897)|An attacker can bypass restrictions of Pgpool-II, via Authentication Information, in order to gain user privileges...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0122/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 12 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0121/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0120/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 février 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-13-05-2024-44266" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 13/05/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-13-05-2024-44266)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 13/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-dated-13-05-2024-44262" class="noirorange"><b>Cacti</b>: multiple vulnerabilities dated 13/05/2024</a>](https://vigilance.fr/vulnerability/Cacti-multiple-vulnerabilities-dated-13-05-2024-44262)|An attacker can use several vulnerabilities of Cacti, dated 13/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-information-disclosure-via-Sliding-Sync-45902" class="noirorange"><b>Synapse</b>: information disclosure via Sliding Sync</a>](https://vigilance.fr/vulnerability/Synapse-information-disclosure-via-Sliding-Sync-45902)|An attacker can bypass access restrictions to data of Synapse, via Sliding Sync, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-code-execution-via-dynamic-thumbnails-45901" class="noirorange"><b>Synapse</b>: code execution via dynamic_thumbnails</a>](https://vigilance.fr/vulnerability/Synapse-code-execution-via-dynamic-thumbnails-45901)|An attacker can use a vulnerability of Synapse, via dynamic_thumbnails, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-overload-via-Federation-Invites-45900" class="noirorange"><b>Synapse</b>: overload via Federation Invites</a>](https://vigilance.fr/vulnerability/Synapse-overload-via-Federation-Invites-45900)|An attacker can trigger an overload of Synapse, via Federation Invites, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synapse-overload-via-Multipart-form-data-Requests-45899" class="noirorange"><b>Synapse</b>: overload via Multipart/form-data Requests</a>](https://vigilance.fr/vulnerability/Synapse-overload-via-Multipart-form-data-Requests-45899)|An attacker can trigger an overload of Synapse, via Multipart/form-data Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pgpool-II-information-disclosure-via-Query-Cache-45898" class="noirorange"><b>Pgpool-II</b>: information disclosure via Query Cache</a>](https://vigilance.fr/vulnerability/Pgpool-II-information-disclosure-via-Query-Cache-45898)|An attacker can bypass access restrictions to data of Pgpool-II, via Query Cache, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pgpool-II-user-access-via-Authentication-Information-45897" class="noirorange"><b>Pgpool-II</b>: user access via Authentication Information</a>](https://vigilance.fr/vulnerability/Pgpool-II-user-access-via-Authentication-Information-45897)|An attacker can bypass restrictions of Pgpool-II, via Authentication Information, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-five-vulnerabilities-dated-12-05-2024-44256" class="noirorange"><b>FFmpeg</b>: five vulnerabilities dated 12/05/2024</a>](https://vigilance.fr/vulnerability/FFmpeg-five-vulnerabilities-dated-12-05-2024-44256)|An attacker can use several vulnerabilities of FFmpeg, dated 12/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-three-vulnerabilities-dated-12-05-2024-44257" class="noirorange"><b>FFmpeg</b>: three vulnerabilities dated 12/05/2024</a>](https://vigilance.fr/vulnerability/FFmpeg-three-vulnerabilities-dated-12-05-2024-44257)|An attacker can use several vulnerabilities of FFmpeg, dated 12/05/2024...|Visit link for details|
  
  ---
 
