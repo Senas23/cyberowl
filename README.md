@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/02/2025 09:27:05 UTC
+ > Last Updated 17/02/2025 21:21:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-file-read-write-via-File-Attributes-45921" class="noirorange"><b>IBM i</b>: file read/write via File Attributes</a>](https://vigilance.fr/vulnerability/IBM-i-file-read-write-via-File-Attributes-45921)|An attacker can bypass access restrictions of IBM i, via File Attributes, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-Linux-information-disclosure-via-Hypercall-Page-45920" class="noirorange"><b>Xen  Linux</b>: information disclosure via Hypercall Page</a>](https://vigilance.fr/vulnerability/Xen-Linux-information-disclosure-via-Hypercall-Page-45920)|An attacker, in a guest system, can bypass access restrictions to data of Xen  Linux, via Hypercall Page, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-Linux-denial-of-service-via-Guest-Suspend-resume-45919" class="noirorange"><b>Xen  Linux</b>: denial of service via Guest Suspend/resume</a>](https://vigilance.fr/vulnerability/Xen-Linux-denial-of-service-via-Guest-Suspend-resume-45919)|An attacker, in a guest system, can cause a fatal error of Xen  Linux, via Guest Suspend/resume, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/markdown-to-jsx-Cross-Site-Scripting-via-Iframe-Element-45913" class="noirorange"><b>markdown-to-jsx</b>: Cross Site Scripting via Iframe Element</a>](https://vigilance.fr/vulnerability/markdown-to-jsx-Cross-Site-Scripting-via-Iframe-Element-45913)|An attacker can trigger a Cross Site Scripting of markdown-to-jsx, via Iframe Element, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ansible-Automation-Platform-user-access-via-OAuth2-Tokens-45910" class="noirorange"><b>Ansible Automation Platform</b>: user access via OAuth2 Tokens</a>](https://vigilance.fr/vulnerability/Ansible-Automation-Platform-user-access-via-OAuth2-Tokens-45910)|An attacker can bypass restrictions of Ansible Automation Platform, via OAuth2 Tokens, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GStreamer-multiple-vulnerabilities-dated-16-12-2024-45906" class="noirorange"><b>GStreamer</b>: multiple vulnerabilities dated 16/12/2024</a>](https://vigilance.fr/vulnerability/GStreamer-multiple-vulnerabilities-dated-16-12-2024-45906)|An attacker can use several vulnerabilities of GStreamer, dated 16/12/2024...|Visit link for details|
@@ -41,9 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Ghostscript-three-vulnerabilities-dated-16-05-2024-44320" class="noirorange"><b>Ghostscript</b>: three vulnerabilities dated 16/05/2024</a>](https://vigilance.fr/vulnerability/Ghostscript-three-vulnerabilities-dated-16-05-2024-44320)|An attacker can use several vulnerabilities of Ghostscript, dated 16/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mpmath-overload-dated-16-12-2024-45904" class="noirorange"><b>Mpmath</b>: overload dated 16/12/2024</a>](https://vigilance.fr/vulnerability/Mpmath-overload-dated-16-12-2024-45904)|An attacker can trigger an overload of Mpmath, dated 16/12/2024, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-RESTful-Web-Services-read-write-access-dated-15-05-2024-44314" class="noirorange"><b>Drupal RESTful Web Services</b>: read-write access dated 15/05/2024</a>](https://vigilance.fr/vulnerability/Drupal-RESTful-Web-Services-read-write-access-dated-15-05-2024-44314)|An attacker can bypass access restrictions of Drupal RESTful Web Services, dated 15/05/2024, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-NULL-pointer-dereference-via-PySys-AddWarnOptionUnicode-46247" class="noirorange"><b>Python Core</b>: NULL pointer dereference via PySys_<wbr>AddWarnOptionUnicode<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Python-Core-NULL-pointer-dereference-via-PySys-AddWarnOptionUnicode-46247)|An attacker can force a NULL pointer to be dereferenced on Python Core, via PySys_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-dated-15-05-2024-44306" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities dated 15/05/2024</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-dated-15-05-2024-44306)|An attacker can use several vulnerabilities of ArubaOS, dated 15/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Graphic-On-click-Binding-44305" class="noirorange"><b>LibreOffice</b>: code execution via Graphic On-click Binding</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Graphic-On-click-Binding-44305)|An attacker can use a vulnerability of LibreOffice, via Graphic On-click Binding, in order to run code...|Visit link for details|
  
  ---
 
@@ -64,14 +64,14 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
