@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/02/2025 21:20:14 UTC
+ > Last Updated 17/02/2025 09:27:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/markdown-to-jsx-Cross-Site-Scripting-via-Iframe-Element-45913" class="noirorange"><b>markdown-to-jsx</b>: Cross Site Scripting via Iframe Element</a>](https://vigilance.fr/vulnerability/markdown-to-jsx-Cross-Site-Scripting-via-Iframe-Element-45913)|An attacker can trigger a Cross Site Scripting of markdown-to-jsx, via Iframe Element, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ansible-Automation-Platform-user-access-via-OAuth2-Tokens-45910" class="noirorange"><b>Ansible Automation Platform</b>: user access via OAuth2 Tokens</a>](https://vigilance.fr/vulnerability/Ansible-Automation-Platform-user-access-via-OAuth2-Tokens-45910)|An attacker can bypass restrictions of Ansible Automation Platform, via OAuth2 Tokens, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GStreamer-multiple-vulnerabilities-dated-16-12-2024-45906" class="noirorange"><b>GStreamer</b>: multiple vulnerabilities dated 16/12/2024</a>](https://vigilance.fr/vulnerability/GStreamer-multiple-vulnerabilities-dated-16-12-2024-45906)|An attacker can use several vulnerabilities of GStreamer, dated 16/12/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-qtdemux-parse-theora-extension-45905" class="noirorange"><b>GStreamer</b>: integer overflow via qtdemux_parse_<wbr>theora_extension()</wbr></a>](https://vigilance.fr/vulnerability/GStreamer-integer-overflow-via-qtdemux-parse-theora-extension-45905)|An attacker can trigger an integer overflow of GStreamer, via qtdemux_parse_|Visit link for details|
@@ -43,7 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-NULL-pointer-dereference-via-PySys-AddWarnOptionUnicode-46247" class="noirorange"><b>Python Core</b>: NULL pointer dereference via PySys_<wbr>AddWarnOptionUnicode<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Python-Core-NULL-pointer-dereference-via-PySys-AddWarnOptionUnicode-46247)|An attacker can force a NULL pointer to be dereferenced on Python Core, via PySys_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-dated-15-05-2024-44306" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities dated 15/05/2024</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-dated-15-05-2024-44306)|An attacker can use several vulnerabilities of ArubaOS, dated 15/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Graphic-On-click-Binding-44305" class="noirorange"><b>LibreOffice</b>: code execution via Graphic On-click Binding</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Graphic-On-click-Binding-44305)|An attacker can use a vulnerability of LibreOffice, via Graphic On-click Binding, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-May-2024-44301" class="noirorange"><b>Windows</b>: vulnerabilities of May 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-May-2024-44301)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
  ---
 
@@ -64,14 +64,14 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
