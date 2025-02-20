@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/02/2025 21:22:05 UTC
+ > Last Updated 20/02/2025 09:25:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libcurl-denial-of-service-via-Eventfd-Double-Close-46283" class="noirorange"><b>libcurl</b>: denial of service via Eventfd Double Close</a>](https://vigilance.fr/vulnerability/libcurl-denial-of-service-via-Eventfd-Double-Close-46283)|An attacker can cause a fatal error of libcurl, via Eventfd Double Close, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-Cross-Site-Scripting-dated-20-12-2024-45950" class="noirorange"><b>Trellix ePolicy Orchestrator</b>: Cross Site Scripting dated 20/12/2024</a>](https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-Cross-Site-Scripting-dated-20-12-2024-45950)|An attacker can trigger a Cross Site Scripting of Trellix ePolicy Orchestrator, dated 20/12/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-data-loading-text-45948" class="noirorange"><b>Bootstrap</b>: Cross Site Scripting via data-loading-text</a>](https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-data-loading-text-45948)|An attacker can trigger a Cross Site Scripting of Bootstrap, via data-loading-text, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/golang-jwt-information-disclosure-via-ParseWithClaims-45946" class="noirorange"><b>golang-jwt</b>: information disclosure via ParseWithClaims</a>](https://vigilance.fr/vulnerability/golang-jwt-information-disclosure-via-ParseWithClaims-45946)|An attacker can bypass access restrictions to data of golang-jwt, via ParseWithClaims, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ingress-nginx-user-access-via-Annotation-Validation-45945" class="noirorange"><b>ingress-nginx</b>: user access via Annotation Validation</a>](https://vigilance.fr/vulnerability/ingress-nginx-user-access-via-Annotation-Validation-45945)|An attacker can bypass restrictions of ingress-nginx, via Annotation Validation, in order to gain user privileges...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/PHPSpreadsheet-Cross-Site-Scripting-via-Styling-Information-45942" class="noirorange"><b>PHPSpreadsheet</b>: Cross Site Scripting via Styling Information</a>](https://vigilance.fr/vulnerability/PHPSpreadsheet-Cross-Site-Scripting-via-Styling-Information-45942)|An attacker can trigger a Cross Site Scripting of PHPSpreadsheet, via Styling Information, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-information-disclosure-via-SEV-SNP-46274" class="noirorange"><b>AMD Processor</b>: information disclosure via SEV-SNP</a>](https://vigilance.fr/vulnerability/AMD-Processor-information-disclosure-via-SEV-SNP-46274)|An attacker can bypass access restrictions to data of AMD Processor, via SEV-SNP, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/hornetq-file-read-write-via-createTempFile-45941" class="noirorange"><b>hornetq</b>: file read/write via createTempFile()</a>](https://vigilance.fr/vulnerability/hornetq-file-read-write-via-createTempFile-45941)|An attacker can bypass access restrictions of hornetq, via createTempFile(), in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fedora-41-weak-encryption-via-Glibc-Ppc64le-Getrandom-arc4random-45937" class="noirorange"><b>Fedora 41</b>: weak encryption via Glibc Ppc64le Getrandom/arc4random</a>](https://vigilance.fr/vulnerability/Fedora-41-weak-encryption-via-Glibc-Ppc64le-Getrandom-arc4random-45937)|An attacker can access data on Fedora 41, via Glibc Ppc64le Getrandom/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/git-urls-overload-via-Regular-Expression-45936" class="noirorange"><b>git-urls</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/git-urls-overload-via-Regular-Expression-45936)|An attacker can trigger an overload of git-urls, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
