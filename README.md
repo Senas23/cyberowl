@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/02/2025 21:20:41 UTC
+ > Last Updated 21/02/2025 09:23:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0135/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar Deployment Intelligence App. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0134/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 14 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0133/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 14 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0132/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 14 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0131/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 14 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0130/)|Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 14 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0129/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 13 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0128/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 13 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0127/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0126/)|Une vulnérabilité a été découverte dans les produits Juniper Networks. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0149/)|De multiples vulnérabilités ont été découvertes dans Drupal. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 20 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0148/)|Une vulnérabilité a été découverte dans Microsoft Power Pages. Elle permet à un attaquant de provoquer une élévation de privilèges. Microsoft indique que la vulnérabilité CVE-2025-24989 est activement exploitée.|Publié le 20 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0147/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0146/)|Une vulnérabilité a été découverte dans Symantec Diagnostic Tool. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 20 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0145/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0144/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0143/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0142/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0141/)|Une vulnérabilité a été découverte dans Joomla!. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0140/)|Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 février 2025|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor4-read-write-access-via-cke4-ckeditor-com-46298" class="noirorange"><b>CKEditor4</b>: read-write access via cke4.ckeditor.com</a>](https://vigilance.fr/vulnerability/CKEditor4-read-write-access-via-cke4-ckeditor-com-46298)|An attacker can bypass access restrictions of CKEditor4, via cke4.ckeditor.com, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-Preview-Samples-46297" class="noirorange"><b>CKEditor4</b>: Cross Site Scripting via Preview Samples</a>](https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-Preview-Samples-46297)|An attacker can trigger a Cross Site Scripting of CKEditor4, via Preview Samples, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-44344" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OAuth / OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-44344)|A vulnerability of Apereo CAS Server, via OAuth / OpenID Connect, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-dated-23-04-2024-44343" class="noirorange"><b>Suricata</b>: three vulnerabilities dated 23/04/2024</a>](https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-dated-23-04-2024-44343)|An attacker can use several vulnerabilities of Suricata, dated 23/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-20-12-2024-45954" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities dated 20/12/2024</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-20-12-2024-45954)|An attacker can use several vulnerabilities of Centreon Web, dated 20/12/2024...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/gRPC-C-denial-of-service-via-GRPC-ARG-TCP-TX-ZEROCOPY-ENABLED-45951" class="noirorange"><b>gRPC-C++</b>: denial of service via GRPC_ARG_TCP_TX_<wbr>ZEROCOPY_ENABLED</wbr></a>](https://vigilance.fr/vulnerability/gRPC-C-denial-of-service-via-GRPC-ARG-TCP-TX-ZEROCOPY-ENABLED-45951)|An attacker can cause a fatal error of gRPC-C++, via GRPC_ARG_TCP_TX_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libcurl-denial-of-service-via-Eventfd-Double-Close-46283" class="noirorange"><b>libcurl</b>: denial of service via Eventfd Double Close</a>](https://vigilance.fr/vulnerability/libcurl-denial-of-service-via-Eventfd-Double-Close-46283)|An attacker can cause a fatal error of libcurl, via Eventfd Double Close, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-Cross-Site-Scripting-dated-20-12-2024-45950" class="noirorange"><b>Trellix ePolicy Orchestrator</b>: Cross Site Scripting dated 20/12/2024</a>](https://vigilance.fr/vulnerability/Trellix-ePolicy-Orchestrator-Cross-Site-Scripting-dated-20-12-2024-45950)|An attacker can trigger a Cross Site Scripting of Trellix ePolicy Orchestrator, dated 20/12/2024, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-data-loading-text-45948" class="noirorange"><b>Bootstrap</b>: Cross Site Scripting via data-loading-text</a>](https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-data-loading-text-45948)|An attacker can trigger a Cross Site Scripting of Bootstrap, via data-loading-text, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/golang-jwt-information-disclosure-via-ParseWithClaims-45946" class="noirorange"><b>golang-jwt</b>: information disclosure via ParseWithClaims</a>](https://vigilance.fr/vulnerability/golang-jwt-information-disclosure-via-ParseWithClaims-45946)|An attacker can bypass access restrictions to data of golang-jwt, via ParseWithClaims, in order to read sensitive information...|Visit link for details|
  
  ---
 
