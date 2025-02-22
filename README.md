@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/02/2025 09:23:17 UTC
+ > Last Updated 22/02/2025 21:21:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-22-05-2024-44366" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 22/05/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-22-05-2024-44366)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 22/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Linux-denial-of-service-dated-07-02-2025-46309" class="noirorange"><b>WithSecure Endpoint Protection Linux</b>: denial of service dated 07/02/2025</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Linux-denial-of-service-dated-07-02-2025-46309)|An attacker can cause a fatal error of WithSecure Endpoint Protection Linux, dated 07/02/2025, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-22-05-2024-44361" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 22/05/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-22-05-2024-44361)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 22/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PDF-js-code-execution-via-isEvalSupported-44360" class="noirorange"><b>PDF.js</b>: code execution via isEvalSupported</a>](https://vigilance.fr/vulnerability/PDF-js-code-execution-via-isEvalSupported-44360)|An attacker can use a vulnerability of PDF.js, via isEvalSupported, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wildfly-denial-of-service-via-RBAC-Suspend-Resume-46305" class="noirorange"><b>Wildfly</b>: denial of service via RBAC Suspend / Resume</a>](https://vigilance.fr/vulnerability/Wildfly-denial-of-service-via-RBAC-Suspend-Resume-46305)|An attacker can cause a fatal error of Wildfly, via RBAC Suspend / Resume, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Pointer-Authentication-Bypass-44351" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: memory corruption via Pointer Authentication Bypass</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Pointer-Authentication-Bypass-44351)|An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, via Pointer Authentication Bypass, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor4-read-write-access-via-cke4-ckeditor-com-46298" class="noirorange"><b>CKEditor4</b>: read-write access via cke4.ckeditor.com</a>](https://vigilance.fr/vulnerability/CKEditor4-read-write-access-via-cke4-ckeditor-com-46298)|An attacker can bypass access restrictions of CKEditor4, via cke4.ckeditor.com, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-Preview-Samples-46297" class="noirorange"><b>CKEditor4</b>: Cross Site Scripting via Preview Samples</a>](https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-Preview-Samples-46297)|An attacker can trigger a Cross Site Scripting of CKEditor4, via Preview Samples, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-44344" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OAuth / OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-44344)|A vulnerability of Apereo CAS Server, via OAuth / OpenID Connect, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-dated-23-04-2024-44343" class="noirorange"><b>Suricata</b>: three vulnerabilities dated 23/04/2024</a>](https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-dated-23-04-2024-44343)|An attacker can use several vulnerabilities of Suricata, dated 23/04/2024...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0147/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0146/)|Une vulnérabilité a été découverte dans Symantec Diagnostic Tool. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 20 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0145/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 février 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-22-05-2024-44361" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 22/05/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-22-05-2024-44361)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 22/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PDF-js-code-execution-via-isEvalSupported-44360" class="noirorange"><b>PDF.js</b>: code execution via isEvalSupported</a>](https://vigilance.fr/vulnerability/PDF-js-code-execution-via-isEvalSupported-44360)|An attacker can use a vulnerability of PDF.js, via isEvalSupported, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wildfly-denial-of-service-via-RBAC-Suspend-Resume-46305" class="noirorange"><b>Wildfly</b>: denial of service via RBAC Suspend / Resume</a>](https://vigilance.fr/vulnerability/Wildfly-denial-of-service-via-RBAC-Suspend-Resume-46305)|An attacker can cause a fatal error of Wildfly, via RBAC Suspend / Resume, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Pointer-Authentication-Bypass-44351" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: memory corruption via Pointer Authentication Bypass</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Pointer-Authentication-Bypass-44351)|An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, via Pointer Authentication Bypass, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CKEditor4-read-write-access-via-cke4-ckeditor-com-46298" class="noirorange"><b>CKEditor4</b>: read-write access via cke4.ckeditor.com</a>](https://vigilance.fr/vulnerability/CKEditor4-read-write-access-via-cke4-ckeditor-com-46298)|An attacker can bypass access restrictions of CKEditor4, via cke4.ckeditor.com, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-Preview-Samples-46297" class="noirorange"><b>CKEditor4</b>: Cross Site Scripting via Preview Samples</a>](https://vigilance.fr/vulnerability/CKEditor4-Cross-Site-Scripting-via-Preview-Samples-46297)|An attacker can trigger a Cross Site Scripting of CKEditor4, via Preview Samples, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-44344" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OAuth / OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-44344)|A vulnerability of Apereo CAS Server, via OAuth / OpenID Connect, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-dated-23-04-2024-44343" class="noirorange"><b>Suricata</b>: three vulnerabilities dated 23/04/2024</a>](https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-dated-23-04-2024-44343)|An attacker can use several vulnerabilities of Suricata, dated 23/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-20-12-2024-45954" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities dated 20/12/2024</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-20-12-2024-45954)|An attacker can use several vulnerabilities of Centreon Web, dated 20/12/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-two-vulnerabilities-dated-20-12-2024-45953" class="noirorange"><b>IBM i</b>: two vulnerabilities dated 20/12/2024</a>](https://vigilance.fr/vulnerability/IBM-i-two-vulnerabilities-dated-20-12-2024-45953)|An attacker can use several vulnerabilities of IBM i, dated 20/12/2024...|Visit link for details|
  
  ---
 
