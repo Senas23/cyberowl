@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/02/2025 21:20:06 UTC
+ > Last Updated 22/02/2025 09:23:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,29 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0154/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 21 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0153/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 21 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0152/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service.|Publié le 21 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0151/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0150/)|De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 21 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0149/)|De multiples vulnérabilités ont été découvertes dans Drupal. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 20 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0148/)|Une vulnérabilité a été découverte dans Microsoft Power Pages. Elle permet à un attaquant de provoquer une élévation de privilèges. Microsoft indique que la vulnérabilité CVE-2025-24989 est activement exploitée.|Publié le 20 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0147/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0146/)|Une vulnérabilité a été découverte dans Symantec Diagnostic Tool. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 20 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0145/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 février 2025|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-22-05-2024-44361" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 22/05/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-22-05-2024-44361)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 22/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PDF-js-code-execution-via-isEvalSupported-44360" class="noirorange"><b>PDF.js</b>: code execution via isEvalSupported</a>](https://vigilance.fr/vulnerability/PDF-js-code-execution-via-isEvalSupported-44360)|An attacker can use a vulnerability of PDF.js, via isEvalSupported, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wildfly-denial-of-service-via-RBAC-Suspend-Resume-46305" class="noirorange"><b>Wildfly</b>: denial of service via RBAC Suspend / Resume</a>](https://vigilance.fr/vulnerability/Wildfly-denial-of-service-via-RBAC-Suspend-Resume-46305)|An attacker can cause a fatal error of Wildfly, via RBAC Suspend / Resume, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Pointer-Authentication-Bypass-44351" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: memory corruption via Pointer Authentication Bypass</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Pointer-Authentication-Bypass-44351)|An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, via Pointer Authentication Bypass, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/CKEditor4-read-write-access-via-cke4-ckeditor-com-46298" class="noirorange"><b>CKEditor4</b>: read-write access via cke4.ckeditor.com</a>](https://vigilance.fr/vulnerability/CKEditor4-read-write-access-via-cke4-ckeditor-com-46298)|An attacker can bypass access restrictions of CKEditor4, via cke4.ckeditor.com, in order to read or alter data...|Visit link for details|
@@ -42,25 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-dated-23-04-2024-44343" class="noirorange"><b>Suricata</b>: three vulnerabilities dated 23/04/2024</a>](https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-dated-23-04-2024-44343)|An attacker can use several vulnerabilities of Suricata, dated 23/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-20-12-2024-45954" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities dated 20/12/2024</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-20-12-2024-45954)|An attacker can use several vulnerabilities of Centreon Web, dated 20/12/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-two-vulnerabilities-dated-20-12-2024-45953" class="noirorange"><b>IBM i</b>: two vulnerabilities dated 20/12/2024</a>](https://vigilance.fr/vulnerability/IBM-i-two-vulnerabilities-dated-20-12-2024-45953)|An attacker can use several vulnerabilities of IBM i, dated 20/12/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Emacs-code-execution-via-elisp-mode-el-45952" class="noirorange"><b>GNU Emacs</b>: code execution via elisp-mode.el</a>](https://vigilance.fr/vulnerability/GNU-Emacs-code-execution-via-elisp-mode-el-45952)|An attacker can use a vulnerability of GNU Emacs, via elisp-mode.el, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gRPC-C-denial-of-service-via-GRPC-ARG-TCP-TX-ZEROCOPY-ENABLED-45951" class="noirorange"><b>gRPC-C++</b>: denial of service via GRPC_ARG_TCP_TX_<wbr>ZEROCOPY_ENABLED</wbr></a>](https://vigilance.fr/vulnerability/gRPC-C-denial-of-service-via-GRPC-ARG-TCP-TX-ZEROCOPY-ENABLED-45951)|An attacker can cause a fatal error of gRPC-C++, via GRPC_ARG_TCP_TX_|Visit link for details|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0149/)|De multiples vulnérabilités ont été découvertes dans Drupal. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 20 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0148/)|Une vulnérabilité a été découverte dans Microsoft Power Pages. Elle permet à un attaquant de provoquer une élévation de privilèges. Microsoft indique que la vulnérabilité CVE-2025-24989 est activement exploitée.|Publié le 20 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0147/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0146/)|Une vulnérabilité a été découverte dans Symantec Diagnostic Tool. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 20 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0145/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 20 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0144/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0143/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0142/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0141/)|Une vulnérabilité a été découverte dans Joomla!. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0140/)|Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 février 2025|
  
  ---
 
