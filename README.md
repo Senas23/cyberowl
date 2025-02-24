@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/02/2025 21:21:03 UTC
+ > Last Updated 24/02/2025 09:26:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,13 +47,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/oFono-SMS-Decoder-buffer-overflow-via-SMS-PDU-Parsing-45956" class="noirorange"><b>oFono SMS Decoder</b>: buffer overflow via SMS PDU Parsing</a>](https://vigilance.fr/vulnerability/oFono-SMS-Decoder-buffer-overflow-via-SMS-PDU-Parsing-45956)|An attacker can trigger a buffer overflow of oFono SMS Decoder, via SMS PDU Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-22-05-2024-44366" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 22/05/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-22-05-2024-44366)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 22/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Linux-denial-of-service-dated-07-02-2025-46309" class="noirorange"><b>WithSecure Endpoint Protection Linux</b>: denial of service dated 07/02/2025</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Linux-denial-of-service-dated-07-02-2025-46309)|An attacker can cause a fatal error of WithSecure Endpoint Protection Linux, dated 07/02/2025, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
