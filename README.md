@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/02/2025 21:21:40 UTC
+ > Last Updated 25/02/2025 09:25:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/stalld-file-corruption-via-tmp-rtthrottle-46313" class="noirorange"><b>stalld</b>: file corruption via /tmp/rtthrottle</a>](https://vigilance.fr/vulnerability/stalld-file-corruption-via-tmp-rtthrottle-46313)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of stalld, via /tmp/rtthrottle...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-SetValuestring-Second-44381" class="noirorange"><b>cJSON</b>: memory corruption via cJSON_<wbr>SetValuestring() Second</wbr></a>](https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-SetValuestring-Second-44381)|An attacker can trigger a memory corruption of cJSON, via cJSON_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-SetValuestring-44380" class="noirorange"><b>cJSON</b>: memory corruption via cJSON_<wbr>SetValuestring()</wbr></a>](https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-SetValuestring-44380)|An attacker can trigger a memory corruption of cJSON, via cJSON_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libjxl-overload-via-JPEG-45968" class="noirorange"><b>libjxl</b>: overload via JPEG</a>](https://vigilance.fr/vulnerability/libjxl-overload-via-JPEG-45968)|An attacker can trigger an overload of libjxl, via JPEG, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/oFono-SimToolKit-buffer-overflow-via-STK-Command-PDU-45957" class="noirorange"><b>oFono SimToolKit</b>: buffer overflow via STK Command PDU</a>](https://vigilance.fr/vulnerability/oFono-SimToolKit-buffer-overflow-via-STK-Command-PDU-45957)|An attacker can trigger a buffer overflow of oFono SimToolKit, via STK Command PDU, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/oFono-SMS-Decoder-buffer-overflow-via-SMS-PDU-Parsing-45956" class="noirorange"><b>oFono SMS Decoder</b>: buffer overflow via SMS PDU Parsing</a>](https://vigilance.fr/vulnerability/oFono-SMS-Decoder-buffer-overflow-via-SMS-PDU-Parsing-45956)|An attacker can trigger a buffer overflow of oFono SMS Decoder, via SMS PDU Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-22-05-2024-44366" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 22/05/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-22-05-2024-44366)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 22/05/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Linux-denial-of-service-dated-07-02-2025-46309" class="noirorange"><b>WithSecure Endpoint Protection Linux</b>: denial of service dated 07/02/2025</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-Linux-denial-of-service-dated-07-02-2025-46309)|An attacker can cause a fatal error of WithSecure Endpoint Protection Linux, dated 07/02/2025, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
