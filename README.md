@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/02/2025 09:25:31 UTC
+ > Last Updated 26/02/2025 21:21:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,7 +34,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0159/)|Une vulnérabilité a été découverte dans Progress Telerik Reporting. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0158/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 24 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0157/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 24 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0156/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 février 2025|
@@ -44,6 +43,7 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0152/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service.|Publié le 21 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0151/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0150/)|De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 21 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0149/)|De multiples vulnérabilités ont été découvertes dans Drupal. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 20 février 2025|
  
  ---
 
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Other-Devices-Logs-46347" class="noirorange"><b>FortiAnalyzer</b>: information disclosure via Other Devices Logs</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Other-Devices-Logs-46347)|An attacker can bypass access restrictions to data of FortiAnalyzer, via Other Devices Logs, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-46342" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: file deletion via CLI</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-file-deletion-via-CLI-46342)|An attacker can bypass access restrictions of FortiAnalyzer  FortiManager, via CLI, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Upstream-FortiGate-46340" class="noirorange"><b>FortiOS</b>: privilege escalation via Upstream FortiGate</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Upstream-FortiGate-46340)|An attacker can bypass restrictions of FortiOS, via Upstream FortiGate, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/stalld-file-corruption-via-tmp-rtthrottle-46313" class="noirorange"><b>stalld</b>: file corruption via /tmp/rtthrottle</a>](https://vigilance.fr/vulnerability/stalld-file-corruption-via-tmp-rtthrottle-46313)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of stalld, via /tmp/rtthrottle...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-SetValuestring-Second-44381" class="noirorange"><b>cJSON</b>: memory corruption via cJSON_<wbr>SetValuestring() Second</wbr></a>](https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-SetValuestring-Second-44381)|An attacker can trigger a memory corruption of cJSON, via cJSON_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-SetValuestring-44380" class="noirorange"><b>cJSON</b>: memory corruption via cJSON_<wbr>SetValuestring()</wbr></a>](https://vigilance.fr/vulnerability/cJSON-memory-corruption-via-cJSON-SetValuestring-44380)|An attacker can trigger a memory corruption of cJSON, via cJSON_|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Netty-denial-of-service-via-Environment-File-Reading-45967" class="noirorange"><b>Netty</b>: denial of service via Environment File Reading</a>](https://vigilance.fr/vulnerability/Netty-denial-of-service-via-Environment-File-Reading-45967)|An attacker can cause a fatal error of Netty, via Environment File Reading, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Webmin-code-execution-via-authentic-theme-45960" class="noirorange"><b>Webmin</b>: code execution via authentic-theme</a>](https://vigilance.fr/vulnerability/Webmin-code-execution-via-authentic-theme-45960)|An attacker can use a vulnerability of Webmin, via authentic-theme, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Laravel-write-access-via-register-argc-argv-45959" class="noirorange"><b>Laravel</b>: write access via register_argc_argv</a>](https://vigilance.fr/vulnerability/Laravel-write-access-via-register-argc-argv-45959)|An attacker can bypass access restrictions of Laravel, via register_argc_argv, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/oFono-SimToolKit-buffer-overflow-via-STK-Command-PDU-45957" class="noirorange"><b>oFono SimToolKit</b>: buffer overflow via STK Command PDU</a>](https://vigilance.fr/vulnerability/oFono-SimToolKit-buffer-overflow-via-STK-Command-PDU-45957)|An attacker can trigger a buffer overflow of oFono SimToolKit, via STK Command PDU, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/oFono-SMS-Decoder-buffer-overflow-via-SMS-PDU-Parsing-45956" class="noirorange"><b>oFono SMS Decoder</b>: buffer overflow via SMS PDU Parsing</a>](https://vigilance.fr/vulnerability/oFono-SMS-Decoder-buffer-overflow-via-SMS-PDU-Parsing-45956)|An attacker can trigger a buffer overflow of oFono SMS Decoder, via SMS PDU Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-22-05-2024-44366" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 22/05/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-22-05-2024-44366)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 22/05/2024...|Visit link for details|
  
  ---
 
