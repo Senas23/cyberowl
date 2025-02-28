@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/02/2025 09:25:03 UTC
+ > Last Updated 28/02/2025 21:21:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Check-Point-Security-Gateway-information-disclosure-via-Remote-Access-VPN-Mobile-Access-44411" class="noirorange"><b>Check Point Security Gateway</b>: information disclosure via Remote Access VPN / Mobile Access</a>](https://vigilance.fr/vulnerability/Check-Point-Security-Gateway-information-disclosure-via-Remote-Access-VPN-Mobile-Access-44411)|An attacker can bypass access restrictions to data of Check Point Security Gateway, via Remote Access VPN / Mobile Access, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-user-access-via-user-queries-45993" class="noirorange"><b>TeamPass</b>: user access via user.queries</a>](https://vigilance.fr/vulnerability/TeamPass-user-access-via-user-queries-45993)|An attacker can bypass restrictions of TeamPass, via user.queries, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-privilege-escalation-via-mail-me-45992" class="noirorange"><b>TeamPass</b>: privilege escalation via mail_me</a>](https://vigilance.fr/vulnerability/TeamPass-privilege-escalation-via-mail-me-45992)|An attacker can bypass restrictions of TeamPass, via mail_me, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-read-write-access-via-Folder-Access-Rights-45991" class="noirorange"><b>TeamPass</b>: read-write access via Folder Access Rights</a>](https://vigilance.fr/vulnerability/TeamPass-read-write-access-via-Folder-Access-Rights-45991)|An attacker can bypass access restrictions of TeamPass, via Folder Access Rights, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-31-05-2024-44427" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 31/05/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-31-05-2024-44427)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 31/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Logback-Server-Side-Request-Forgery-via-SaxEventRecorder-DOCTYPE-DTD-Files-45990" class="noirorange"><b>Logback</b>: Server-Side Request Forgery via SaxEventRecorder DOCTYPE DTD Files</a>](https://vigilance.fr/vulnerability/Logback-Server-Side-Request-Forgery-via-SaxEventRecorder-DOCTYPE-DTD-Files-45990)|An attacker can trigger a Server-Side Request Forgery of Logback, via SaxEventRecorder DOCTYPE DTD Files, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-12-2024-45989" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/12/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-12-2024-45989)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/12/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSC-double-free-via-sc-pkcs15-free-tokeninfo-45987" class="noirorange"><b>OpenSC</b>: double free via sc_pkcs15_free_<wbr>tokeninfo()</wbr></a>](https://vigilance.fr/vulnerability/OpenSC-double-free-via-sc-pkcs15-free-tokeninfo-45987)|An attacker can force a double memory free of OpenSC, via sc_pkcs15_free_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSC-denial-of-service-via-APDU-Response-45986" class="noirorange"><b>OpenSC</b>: denial of service via APDU Response</a>](https://vigilance.fr/vulnerability/OpenSC-denial-of-service-via-APDU-Response-45986)|An attacker can cause a fatal error of OpenSC, via APDU Response, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-information-disclosure-via-User-Fingerprint-46381" class="noirorange"><b>WebKitGTK</b>: information disclosure via User Fingerprint</a>](https://vigilance.fr/vulnerability/WebKitGTK-information-disclosure-via-User-Fingerprint-46381)|An attacker can bypass access restrictions to data of WebKitGTK, via User Fingerprint, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-Data-Streaming-Accelerator-46364" class="noirorange"><b>Intel Processors</b>: denial of service via Data Streaming Accelerator</a>](https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-Data-Streaming-Accelerator-46364)|An attacker can cause a fatal error of Intel Processors, via Data Streaming Accelerator, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-Finite-State-Machines-46363" class="noirorange"><b>Intel Processors</b>: denial of service via Finite State Machines</a>](https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-Finite-State-Machines-46363)|An attacker can cause a fatal error of Intel Processors, via Finite State Machines, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-code-execution-via-SMM-AmdPlatformRasSspSmm-46362" class="noirorange"><b>AMD Processors</b>: code execution via SMM AmdPlatformRasSspSmm</a>](https://vigilance.fr/vulnerability/AMD-Processors-code-execution-via-SMM-AmdPlatformRasSspSmm-46362)|An attacker can use a vulnerability of AMD Processors, via SMM AmdPlatformRasSspSmm|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-SGX-EDECCSSA-User-Leaf-46357" class="noirorange"><b>Intel Processors</b>: denial of service via SGX EDECCSSA User Leaf</a>](https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-SGX-EDECCSSA-User-Leaf-46357)|An attacker can cause a fatal error of Intel Processors, via SGX EDECCSSA User Leaf, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-file-reading-via-Confidential-Issues-Uploaded-Files-Comments-45984" class="noirorange"><b>GitLab</b>: file reading via Confidential Issues Uploaded Files Comments</a>](https://vigilance.fr/vulnerability/GitLab-file-reading-via-Confidential-Issues-Uploaded-Files-Comments-45984)|An attacker can read a file of GitLab, via Confidential Issues Uploaded Files Comments, in order to obtain sensitive information...|Visit link for details|
  
  ---
 
@@ -68,6 +61,13 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0157/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 24 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0156/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0155/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 février 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
