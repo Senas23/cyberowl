@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/02/2025 21:21:40 UTC
+ > Last Updated 01/03/2025 09:22:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,16 +51,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0170/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0169/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0168/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 28 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0167/)|Une vulnérabilité a été découverte dans Synology DSM. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 28 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0166/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 28 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0165/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 27 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0163/)|Une vulnérabilité a été découverte dans les commutateurs Cisco Nexus. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 27 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 26 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0161/)|Une vulnérabilité a été découverte dans LibreOffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 26 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0160/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0159/)|Une vulnérabilité a été découverte dans Progress Telerik Reporting. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0158/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 24 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0157/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 24 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0156/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0155/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 février 2025|
  
  ---
 
