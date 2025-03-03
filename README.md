@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/03/2025 21:21:45 UTC
+ > Last Updated 03/03/2025 09:28:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-CEC-MAX-MSG-SIZE-45999" class="noirorange"><b>Linux kernel</b>: buffer overflow via CEC_MAX_MSG_SIZE</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-CEC-MAX-MSG-SIZE-45999)|An attacker can trigger a buffer overflow of the Linux kernel, via CEC_MAX_MSG_SIZE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/oqs-provider-memory-corruption-via-Serialized-Hybrid-45998" class="noirorange"><b>oqs-provider</b>: memory corruption via Serialized Hybrid</a>](https://vigilance.fr/vulnerability/oqs-provider-memory-corruption-via-Serialized-Hybrid-45998)|An attacker can trigger a memory corruption of oqs-provider, via Serialized Hybrid, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/liboqs-information-disclosure-via-HQC-Key-Encapsulation-45997" class="noirorange"><b>liboqs</b>: information disclosure via HQC Key Encapsulation</a>](https://vigilance.fr/vulnerability/liboqs-information-disclosure-via-HQC-Key-Encapsulation-45997)|An attacker can bypass access restrictions to data of liboqs, via HQC Key Encapsulation, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/liboqs-weak-encryption-via-Kyber-Key-Encapsulation-45996" class="noirorange"><b>liboqs</b>: weak encryption via Kyber Key Encapsulation</a>](https://vigilance.fr/vulnerability/liboqs-weak-encryption-via-Kyber-Key-Encapsulation-45996)|An attacker can access data on liboqs, via Kyber Key Encapsulation, in order to read sensitive information...|Visit link for details|
@@ -43,7 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/TeamPass-user-access-via-user-queries-45993" class="noirorange"><b>TeamPass</b>: user access via user.queries</a>](https://vigilance.fr/vulnerability/TeamPass-user-access-via-user-queries-45993)|An attacker can bypass restrictions of TeamPass, via user.queries, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TeamPass-privilege-escalation-via-mail-me-45992" class="noirorange"><b>TeamPass</b>: privilege escalation via mail_me</a>](https://vigilance.fr/vulnerability/TeamPass-privilege-escalation-via-mail-me-45992)|An attacker can bypass restrictions of TeamPass, via mail_me, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TeamPass-read-write-access-via-Folder-Access-Rights-45991" class="noirorange"><b>TeamPass</b>: read-write access via Folder Access Rights</a>](https://vigilance.fr/vulnerability/TeamPass-read-write-access-via-Folder-Access-Rights-45991)|An attacker can bypass access restrictions of TeamPass, via Folder Access Rights, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-31-05-2024-44427" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 31/05/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-31-05-2024-44427)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 31/05/2024...|Visit link for details|
  
  ---
 
