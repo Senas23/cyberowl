@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/03/2025 21:23:58 UTC
+ > Last Updated 04/03/2025 09:25:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-IPU-46398" class="noirorange"><b>Intel Processors</b>: denial of service via IPU</a>](https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-IPU-46398)|An attacker can cause a fatal error of Intel Processors, via IPU, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-June-2024-44438" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of June 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-June-2024-44438)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-CEC-MAX-MSG-SIZE-45999" class="noirorange"><b>Linux kernel</b>: buffer overflow via CEC_MAX_MSG_SIZE</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-CEC-MAX-MSG-SIZE-45999)|An attacker can trigger a buffer overflow of the Linux kernel, via CEC_MAX_MSG_SIZE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/oqs-provider-memory-corruption-via-Serialized-Hybrid-45998" class="noirorange"><b>oqs-provider</b>: memory corruption via Serialized Hybrid</a>](https://vigilance.fr/vulnerability/oqs-provider-memory-corruption-via-Serialized-Hybrid-45998)|An attacker can trigger a memory corruption of oqs-provider, via Serialized Hybrid, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Jinja-code-execution-via-Template-Filename-Contents-45994" class="noirorange"><b>Jinja</b>: code execution via Template Filename / Contents</a>](https://vigilance.fr/vulnerability/Jinja-code-execution-via-Template-Filename-Contents-45994)|An attacker can use a vulnerability of Jinja, via Template Filename / Contents, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Check-Point-Security-Gateway-information-disclosure-via-Remote-Access-VPN-Mobile-Access-44411" class="noirorange"><b>Check Point Security Gateway</b>: information disclosure via Remote Access VPN / Mobile Access</a>](https://vigilance.fr/vulnerability/Check-Point-Security-Gateway-information-disclosure-via-Remote-Access-VPN-Mobile-Access-44411)|An attacker can bypass access restrictions to data of Check Point Security Gateway, via Remote Access VPN / Mobile Access, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TeamPass-user-access-via-user-queries-45993" class="noirorange"><b>TeamPass</b>: user access via user.queries</a>](https://vigilance.fr/vulnerability/TeamPass-user-access-via-user-queries-45993)|An attacker can bypass restrictions of TeamPass, via user.queries, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-privilege-escalation-via-mail-me-45992" class="noirorange"><b>TeamPass</b>: privilege escalation via mail_me</a>](https://vigilance.fr/vulnerability/TeamPass-privilege-escalation-via-mail-me-45992)|An attacker can bypass restrictions of TeamPass, via mail_me, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
