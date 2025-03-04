@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/03/2025 09:25:03 UTC
+ > Last Updated 04/03/2025 21:24:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0172/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Google indique que les vulnérabilités...|Publié le 04 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0171/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 03 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0170/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0169/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 février 2025|
@@ -43,7 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0165/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 27 février 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0163/)|Une vulnérabilité a été découverte dans les commutateurs Cisco Nexus. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 27 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 26 février 2025|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Go-file-corruption-via-Log-File-Path-46399" class="noirorange"><b>Go</b>: file corruption via Log File Path</a>](https://vigilance.fr/vulnerability/Go-file-corruption-via-Log-File-Path-46399)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Go, via Log File Path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-IPU-46398" class="noirorange"><b>Intel Processors</b>: denial of service via IPU</a>](https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-IPU-46398)|An attacker can cause a fatal error of Intel Processors, via IPU, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-June-2024-44438" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of June 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-June-2024-44438)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-CEC-MAX-MSG-SIZE-45999" class="noirorange"><b>Linux kernel</b>: buffer overflow via CEC_MAX_MSG_SIZE</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-CEC-MAX-MSG-SIZE-45999)|An attacker can trigger a buffer overflow of the Linux kernel, via CEC_MAX_MSG_SIZE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Jinja-code-execution-via-str-format-45995" class="noirorange"><b>Jinja</b>: code execution via str.format()</a>](https://vigilance.fr/vulnerability/Jinja-code-execution-via-str-format-45995)|An attacker can use a vulnerability of Jinja, via str.format(), in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jinja-code-execution-via-Template-Filename-Contents-45994" class="noirorange"><b>Jinja</b>: code execution via Template Filename / Contents</a>](https://vigilance.fr/vulnerability/Jinja-code-execution-via-Template-Filename-Contents-45994)|An attacker can use a vulnerability of Jinja, via Template Filename / Contents, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Check-Point-Security-Gateway-information-disclosure-via-Remote-Access-VPN-Mobile-Access-44411" class="noirorange"><b>Check Point Security Gateway</b>: information disclosure via Remote Access VPN / Mobile Access</a>](https://vigilance.fr/vulnerability/Check-Point-Security-Gateway-information-disclosure-via-Remote-Access-VPN-Mobile-Access-44411)|An attacker can bypass access restrictions to data of Check Point Security Gateway, via Remote Access VPN / Mobile Access, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-user-access-via-user-queries-45993" class="noirorange"><b>TeamPass</b>: user access via user.queries</a>](https://vigilance.fr/vulnerability/TeamPass-user-access-via-user-queries-45993)|An attacker can bypass restrictions of TeamPass, via user.queries, in order to gain user privileges...|Visit link for details|
  
  ---
 
