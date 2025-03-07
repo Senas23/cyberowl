@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/03/2025 09:24:30 UTC
+ > Last Updated 07/03/2025 21:20:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0171/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 03 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0170/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0169/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0168/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 28 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0167/)|Une vulnérabilité a été découverte dans Synology DSM. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 28 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0166/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 28 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0165/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0164/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 27 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0163/)|Une vulnérabilité a été découverte dans les commutateurs Cisco Nexus. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 27 février 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0162/)|De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 26 février 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0186/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 07 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0185/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 07 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0184/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 07 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0183/)|De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 07 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0182/)|Une vulnérabilité a été découverte dans Nagios Nagios XI. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 07 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0181/)|Une vulnérabilités a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 06 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0180/)|Une vulnérabilité a été découverte dans Cisco Secure Client. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 06 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0179/)|Une vulnérabilité a été découverte dans les produits Symantec. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 06 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0178/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 05 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. VMware indique que les vulnérabilités...|Publié le 05 mars 2025|
  
  ---
 
@@ -51,27 +51,27 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Core-Views-46012" class="noirorange"><b>Joomla Core</b>: information disclosure via Core Views</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Core-Views-46012)|An attacker can bypass access restrictions to data of Joomla Core, via Core Views, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Menu-Lists-Id-Attribute-46011" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via Menu Lists Id Attribute</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Menu-Lists-Id-Attribute-46011)|An attacker can trigger a Cross Site Scripting of Joomla Core, via Menu Lists Id Attribute, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Module-Chromes-46010" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via Module Chromes</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Module-Chromes-46010)|An attacker can trigger a Cross Site Scripting of Joomla Core, via Module Chromes, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-07-01-2025-46009" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 07/01/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-07-01-2025-46009)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 07/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-file-reading-via-URL-Fetching-INI-File-46008" class="noirorange"><b>LibreOffice</b>: file reading via URL Fetching INI File</a>](https://vigilance.fr/vulnerability/LibreOffice-file-reading-via-URL-Fetching-INI-File-46008)|An attacker can read a file of LibreOffice, via URL Fetching INI File, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-directory-traversal-via-Embedded-Font-Files-46007" class="noirorange"><b>LibreOffice</b>: directory traversal via Embedded Font Files</a>](https://vigilance.fr/vulnerability/LibreOffice-directory-traversal-via-Embedded-Font-Files-46007)|An attacker can traverse directories of LibreOffice, via Embedded Font Files, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fedora-information-disclosure-via-Linux-Kernel-Disabled-Lockdown-Mode-46428" class="noirorange"><b>Fedora</b>: information disclosure via Linux Kernel Disabled Lockdown Mode</a>](https://vigilance.fr/vulnerability/Fedora-information-disclosure-via-Linux-Kernel-Disabled-Lockdown-Mode-46428)|An attacker can bypass access restrictions to data of Fedora, via Linux Kernel Disabled Lockdown Mode, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-01-2025-46005" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 07/01/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-01-2025-46005)|An attacker can use several vulnerabilities of the Linux kernel, dated 07/01/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-four-vulnerabilities-dated-06-06-2024-44455" class="noirorange"><b>PHP</b>: four vulnerabilities dated 06/06/2024</a>](https://vigilance.fr/vulnerability/PHP-four-vulnerabilities-dated-06-06-2024-44455)|An attacker can use several vulnerabilities of PHP, dated 06/06/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Video-Phone-8875-Desk-Phone-9800-information-disclosure-via-Debug-Shell-46421" class="noirorange"><b>Cisco Video Phone 8875  Desk Phone 9800</b>: information disclosure via Debug Shell</a>](https://vigilance.fr/vulnerability/Cisco-Video-Phone-8875-Desk-Phone-9800-information-disclosure-via-Debug-Shell-46421)|An attacker can bypass access restrictions to data of Cisco Video Phone 8875  Desk Phone 9800, via Debug Shell, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-denial-of-service-via-ACL-Selectors-46003" class="noirorange"><b>Redis</b>: denial of service via ACL Selectors</a>](https://vigilance.fr/vulnerability/Redis-denial-of-service-via-ACL-Selectors-46003)|An attacker can cause a fatal error of Redis, via ACL Selectors, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-code-execution-via-Lua-Script-46002" class="noirorange"><b>Redis</b>: code execution via Lua Script</a>](https://vigilance.fr/vulnerability/Redis-code-execution-via-Lua-Script-46002)|An attacker can use a vulnerability of Redis, via Lua Script, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/golang-org-x-net-overload-via-Parse-Functions-46001" class="noirorange"><b>golang.org/x/net</b>: overload via Parse Functions</a>](https://vigilance.fr/vulnerability/golang-org-x-net-overload-via-Parse-Functions-46001)|An attacker can trigger an overload of golang.org/x/net, via Parse Functions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2023-42195)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-file-corruption-via-Log-File-Path-46399" class="noirorange"><b>Go</b>: file corruption via Log File Path</a>](https://vigilance.fr/vulnerability/Go-file-corruption-via-Log-File-Path-46399)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Go, via Log File Path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-IPU-46398" class="noirorange"><b>Intel Processors</b>: denial of service via IPU</a>](https://vigilance.fr/vulnerability/Intel-Processors-denial-of-service-via-IPU-46398)|An attacker can cause a fatal error of Intel Processors, via IPU, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
