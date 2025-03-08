@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/03/2025 21:20:32 UTC
+ > Last Updated 08/03/2025 09:19:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/php-tcpdf-four-vulnerabilities-dated-08-01-2025-46018" class="noirorange"><b>php-tcpdf</b>: four vulnerabilities dated 08/01/2025</a>](https://vigilance.fr/vulnerability/php-tcpdf-four-vulnerabilities-dated-08-01-2025-46018)|An attacker can use several vulnerabilities of php-tcpdf, dated 08/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-json-jwt-user-access-via-Confusion-46017" class="noirorange"><b>Ruby json-jwt</b>: user access via Confusion</a>](https://vigilance.fr/vulnerability/Ruby-json-jwt-user-access-via-Confusion-46017)|An attacker can bypass restrictions of Ruby json-jwt, via Confusion, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-memory-corruption-via-parse-paragraph-46016" class="noirorange"><b>HTMLDOC</b>: memory corruption via parse_paragraph()</a>](https://vigilance.fr/vulnerability/HTMLDOC-memory-corruption-via-parse-paragraph-46016)|An attacker can trigger a memory corruption of HTMLDOC, via parse_paragraph(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-out-of-bounds-memory-reading-via-parse-tree-46015" class="noirorange"><b>HTMLDOC</b>: out-of-bounds memory reading via parse_tree()</a>](https://vigilance.fr/vulnerability/HTMLDOC-out-of-bounds-memory-reading-via-parse-tree-46015)|An attacker can force a read at an invalid memory address of HTMLDOC, via parse_tree(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-CAF-Decoder-46014" class="noirorange"><b>FFmpeg</b>: integer overflow via CAF Decoder</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-CAF-Decoder-46014)|An attacker can trigger an integer overflow of FFmpeg, via CAF Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Core-Views-46012" class="noirorange"><b>Joomla Core</b>: information disclosure via Core Views</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Core-Views-46012)|An attacker can bypass access restrictions to data of Joomla Core, via Core Views, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Menu-Lists-Id-Attribute-46011" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via Menu Lists Id Attribute</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Menu-Lists-Id-Attribute-46011)|An attacker can trigger a Cross Site Scripting of Joomla Core, via Menu Lists Id Attribute, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Module-Chromes-46010" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via Module Chromes</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Module-Chromes-46010)|An attacker can trigger a Cross Site Scripting of Joomla Core, via Module Chromes, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-07-01-2025-46009" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 07/01/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-07-01-2025-46009)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 07/01/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibreOffice-file-reading-via-URL-Fetching-INI-File-46008" class="noirorange"><b>LibreOffice</b>: file reading via URL Fetching INI File</a>](https://vigilance.fr/vulnerability/LibreOffice-file-reading-via-URL-Fetching-INI-File-46008)|An attacker can read a file of LibreOffice, via URL Fetching INI File, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-directory-traversal-via-Embedded-Font-Files-46007" class="noirorange"><b>LibreOffice</b>: directory traversal via Embedded Font Files</a>](https://vigilance.fr/vulnerability/LibreOffice-directory-traversal-via-Embedded-Font-Files-46007)|An attacker can traverse directories of LibreOffice, via Embedded Font Files, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fedora-information-disclosure-via-Linux-Kernel-Disabled-Lockdown-Mode-46428" class="noirorange"><b>Fedora</b>: information disclosure via Linux Kernel Disabled Lockdown Mode</a>](https://vigilance.fr/vulnerability/Fedora-information-disclosure-via-Linux-Kernel-Disabled-Lockdown-Mode-46428)|An attacker can bypass access restrictions to data of Fedora, via Linux Kernel Disabled Lockdown Mode, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-01-2025-46005" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 07/01/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-01-2025-46005)|An attacker can use several vulnerabilities of the Linux kernel, dated 07/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-four-vulnerabilities-dated-06-06-2024-44455" class="noirorange"><b>PHP</b>: four vulnerabilities dated 06/06/2024</a>](https://vigilance.fr/vulnerability/PHP-four-vulnerabilities-dated-06-06-2024-44455)|An attacker can use several vulnerabilities of PHP, dated 06/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Video-Phone-8875-Desk-Phone-9800-information-disclosure-via-Debug-Shell-46421" class="noirorange"><b>Cisco Video Phone 8875  Desk Phone 9800</b>: information disclosure via Debug Shell</a>](https://vigilance.fr/vulnerability/Cisco-Video-Phone-8875-Desk-Phone-9800-information-disclosure-via-Debug-Shell-46421)|An attacker can bypass access restrictions to data of Cisco Video Phone 8875  Desk Phone 9800, via Debug Shell, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
