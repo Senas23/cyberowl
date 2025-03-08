@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/03/2025 09:19:42 UTC
+ > Last Updated 08/03/2025 21:19:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Options-46029" class="noirorange"><b>Junos OS</b>: denial of service via BGP Options</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Options-46029)|An attacker can cause a fatal error of Junos OS, via BGP Options, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Traceoptions-46028" class="noirorange"><b>Junos OS</b>: denial of service via BGP Traceoptions</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Traceoptions-46028)|An attacker can cause a fatal error of Junos OS, via BGP Traceoptions, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Conditions-46027" class="noirorange"><b>Junos OS</b>: denial of service via BGP Update Conditions</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Conditions-46027)|An attacker can cause a fatal error of Junos OS, via BGP Update Conditions, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Lifetime-46026" class="noirorange"><b>Junos OS</b>: denial of service via BGP Update Lifetime</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Lifetime-46026)|An attacker can cause a fatal error of Junos OS, via BGP Update Lifetime, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Profile-Private-vulnerability-dated-08-01-2025-46022" class="noirorange"><b>Drupal Profile Private</b>: vulnerability dated 08/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Profile-Private-vulnerability-dated-08-01-2025-46022)|A vulnerability of Drupal Profile Private, dated 08/01/2025, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Email-TFA-user-access-via-Second-Factor-Bypass-46021" class="noirorange"><b>Drupal Email TFA</b>: user access via Second Factor Bypass</a>](https://vigilance.fr/vulnerability/Drupal-Email-TFA-user-access-via-Second-Factor-Bypass-46021)|An attacker can bypass restrictions of Drupal Email TFA, via Second Factor Bypass, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-08-01-2025-46020" class="noirorange"><b>GitLab CE/EE</b>: five vulnerabilities dated 08/01/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-08-01-2025-46020)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 08/01/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/php-tcpdf-four-vulnerabilities-dated-08-01-2025-46018" class="noirorange"><b>php-tcpdf</b>: four vulnerabilities dated 08/01/2025</a>](https://vigilance.fr/vulnerability/php-tcpdf-four-vulnerabilities-dated-08-01-2025-46018)|An attacker can use several vulnerabilities of php-tcpdf, dated 08/01/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-json-jwt-user-access-via-Confusion-46017" class="noirorange"><b>Ruby json-jwt</b>: user access via Confusion</a>](https://vigilance.fr/vulnerability/Ruby-json-jwt-user-access-via-Confusion-46017)|An attacker can bypass restrictions of Ruby json-jwt, via Confusion, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-memory-corruption-via-parse-paragraph-46016" class="noirorange"><b>HTMLDOC</b>: memory corruption via parse_paragraph()</a>](https://vigilance.fr/vulnerability/HTMLDOC-memory-corruption-via-parse-paragraph-46016)|An attacker can trigger a memory corruption of HTMLDOC, via parse_paragraph(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-out-of-bounds-memory-reading-via-parse-tree-46015" class="noirorange"><b>HTMLDOC</b>: out-of-bounds memory reading via parse_tree()</a>](https://vigilance.fr/vulnerability/HTMLDOC-out-of-bounds-memory-reading-via-parse-tree-46015)|An attacker can force a read at an invalid memory address of HTMLDOC, via parse_tree(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-CAF-Decoder-46014" class="noirorange"><b>FFmpeg</b>: integer overflow via CAF Decoder</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-CAF-Decoder-46014)|An attacker can trigger an integer overflow of FFmpeg, via CAF Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Core-Views-46012" class="noirorange"><b>Joomla Core</b>: information disclosure via Core Views</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Core-Views-46012)|An attacker can bypass access restrictions to data of Joomla Core, via Core Views, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Menu-Lists-Id-Attribute-46011" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via Menu Lists Id Attribute</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Menu-Lists-Id-Attribute-46011)|An attacker can trigger a Cross Site Scripting of Joomla Core, via Menu Lists Id Attribute, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Module-Chromes-46010" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via Module Chromes</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-Module-Chromes-46010)|An attacker can trigger a Cross Site Scripting of Joomla Core, via Module Chromes, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-07-01-2025-46009" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 07/01/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-07-01-2025-46009)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 07/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-file-reading-via-URL-Fetching-INI-File-46008" class="noirorange"><b>LibreOffice</b>: file reading via URL Fetching INI File</a>](https://vigilance.fr/vulnerability/LibreOffice-file-reading-via-URL-Fetching-INI-File-46008)|An attacker can read a file of LibreOffice, via URL Fetching INI File, in order to obtain sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
