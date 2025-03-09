@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/03/2025 09:20:06 UTC
+ > Last Updated 09/03/2025 21:20:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-01-2025-46034" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 09/01/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-01-2025-46034)|An attacker can use several vulnerabilities of the Linux kernel, dated 09/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-TGA-XCF-46033" class="noirorange"><b>GIMP</b>: memory corruption via TGA / XCF</a>](https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-TGA-XCF-46033)|An attacker can trigger a memory corruption of GIMP, via TGA / XCF, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenJPEG-buffer-overflow-via-sycc422-to-rgb-46032" class="noirorange"><b>OpenJPEG</b>: buffer overflow via sycc422_to_rgb()</a>](https://vigilance.fr/vulnerability/OpenJPEG-buffer-overflow-via-sycc422-to-rgb-46032)|An attacker can trigger a buffer overflow of OpenJPEG, via sycc422_to_rgb(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenJPEG-buffer-overflow-via-opj-j2k-add-tlmarker-46031" class="noirorange"><b>OpenJPEG</b>: buffer overflow via opj_j2k_add_<wbr>tlmarker()</wbr></a>](https://vigilance.fr/vulnerability/OpenJPEG-buffer-overflow-via-opj-j2k-add-tlmarker-46031)|An attacker can trigger a buffer overflow of OpenJPEG, via opj_j2k_add_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Options-46029" class="noirorange"><b>Junos OS</b>: denial of service via BGP Options</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Options-46029)|An attacker can cause a fatal error of Junos OS, via BGP Options, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Traceoptions-46028" class="noirorange"><b>Junos OS</b>: denial of service via BGP Traceoptions</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Traceoptions-46028)|An attacker can cause a fatal error of Junos OS, via BGP Traceoptions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Conditions-46027" class="noirorange"><b>Junos OS</b>: denial of service via BGP Update Conditions</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Conditions-46027)|An attacker can cause a fatal error of Junos OS, via BGP Update Conditions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Lifetime-46026" class="noirorange"><b>Junos OS</b>: denial of service via BGP Update Lifetime</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Lifetime-46026)|An attacker can cause a fatal error of Junos OS, via BGP Update Lifetime, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Profile-Private-vulnerability-dated-08-01-2025-46022" class="noirorange"><b>Drupal Profile Private</b>: vulnerability dated 08/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Profile-Private-vulnerability-dated-08-01-2025-46022)|A vulnerability of Drupal Profile Private, dated 08/01/2025, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Email-TFA-user-access-via-Second-Factor-Bypass-46021" class="noirorange"><b>Drupal Email TFA</b>: user access via Second Factor Bypass</a>](https://vigilance.fr/vulnerability/Drupal-Email-TFA-user-access-via-Second-Factor-Bypass-46021)|An attacker can bypass restrictions of Drupal Email TFA, via Second Factor Bypass, in order to gain user privileges...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0179/)|Une vulnérabilité a été découverte dans les produits Symantec. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 06 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0178/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 05 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. VMware indique que les vulnérabilités...|Publié le 05 mars 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-ListCategories-46040" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via AMI ListCategories</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-ListCategories-46040)|An attacker can traverse directories of Asterisk Open Source, via AMI ListCategories, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wg-46039" class="noirorange"><b>OpenBSD</b>: denial of service via wg</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wg-46039)|An attacker can cause a fatal error of OpenBSD, via wg, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iperf-denial-of-service-via-iperf-exchange-parameters-46038" class="noirorange"><b>iperf</b>: denial of service via iperf_exchange_<wbr>parameters()</wbr></a>](https://vigilance.fr/vulnerability/iperf-denial-of-service-via-iperf-exchange-parameters-46038)|An attacker can cause a fatal error of iperf, via iperf_exchange_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-01-2025-46034" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 09/01/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-01-2025-46034)|An attacker can use several vulnerabilities of the Linux kernel, dated 09/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-TGA-XCF-46033" class="noirorange"><b>GIMP</b>: memory corruption via TGA / XCF</a>](https://vigilance.fr/vulnerability/GIMP-memory-corruption-via-TGA-XCF-46033)|An attacker can trigger a memory corruption of GIMP, via TGA / XCF, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenJPEG-buffer-overflow-via-sycc422-to-rgb-46032" class="noirorange"><b>OpenJPEG</b>: buffer overflow via sycc422_to_rgb()</a>](https://vigilance.fr/vulnerability/OpenJPEG-buffer-overflow-via-sycc422-to-rgb-46032)|An attacker can trigger a buffer overflow of OpenJPEG, via sycc422_to_rgb(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenJPEG-buffer-overflow-via-opj-j2k-add-tlmarker-46031" class="noirorange"><b>OpenJPEG</b>: buffer overflow via opj_j2k_add_<wbr>tlmarker()</wbr></a>](https://vigilance.fr/vulnerability/OpenJPEG-buffer-overflow-via-opj-j2k-add-tlmarker-46031)|An attacker can trigger a buffer overflow of OpenJPEG, via opj_j2k_add_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Options-46029" class="noirorange"><b>Junos OS</b>: denial of service via BGP Options</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Options-46029)|An attacker can cause a fatal error of Junos OS, via BGP Options, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Traceoptions-46028" class="noirorange"><b>Junos OS</b>: denial of service via BGP Traceoptions</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Traceoptions-46028)|An attacker can cause a fatal error of Junos OS, via BGP Traceoptions, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Conditions-46027" class="noirorange"><b>Junos OS</b>: denial of service via BGP Update Conditions</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Conditions-46027)|An attacker can cause a fatal error of Junos OS, via BGP Update Conditions, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
