@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/03/2025 09:22:33 UTC
+ > Last Updated 10/03/2025 21:22:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,34 +30,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0186/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 07 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0185/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 07 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0184/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 07 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0183/)|De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 07 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0182/)|Une vulnérabilité a été découverte dans Nagios Nagios XI. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 07 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0181/)|Une vulnérabilités a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 06 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0180/)|Une vulnérabilité a été découverte dans Cisco Secure Client. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 06 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0179/)|Une vulnérabilité a été découverte dans les produits Symantec. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 06 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0178/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 05 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un contournement de la politique de sécurité. VMware indique que les vulnérabilités...|Publié le 05 mars 2025|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-uploadAndSaveFile-46044" class="noirorange"><b>Vtiger CRM</b>: Cross Site Scripting via uploadAndSaveFile</a>](https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-uploadAndSaveFile-46044)|An attacker can trigger a Cross Site Scripting of Vtiger CRM, via uploadAndSaveFile, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-ListCategories-46040" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via AMI ListCategories</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-AMI-ListCategories-46040)|An attacker can traverse directories of Asterisk Open Source, via AMI ListCategories, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wg-46039" class="noirorange"><b>OpenBSD</b>: denial of service via wg</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wg-46039)|An attacker can cause a fatal error of OpenBSD, via wg, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/iperf-denial-of-service-via-iperf-exchange-parameters-46038" class="noirorange"><b>iperf</b>: denial of service via iperf_exchange_<wbr>parameters()</wbr></a>](https://vigilance.fr/vulnerability/iperf-denial-of-service-via-iperf-exchange-parameters-46038)|An attacker can cause a fatal error of iperf, via iperf_exchange_|Visit link for details|
@@ -67,7 +44,30 @@
  |[<a href="https://vigilance.fr/vulnerability/OpenJPEG-buffer-overflow-via-opj-j2k-add-tlmarker-46031" class="noirorange"><b>OpenJPEG</b>: buffer overflow via opj_j2k_add_<wbr>tlmarker()</wbr></a>](https://vigilance.fr/vulnerability/OpenJPEG-buffer-overflow-via-opj-j2k-add-tlmarker-46031)|An attacker can trigger a buffer overflow of OpenJPEG, via opj_j2k_add_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Options-46029" class="noirorange"><b>Junos OS</b>: denial of service via BGP Options</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Options-46029)|An attacker can cause a fatal error of Junos OS, via BGP Options, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Traceoptions-46028" class="noirorange"><b>Junos OS</b>: denial of service via BGP Traceoptions</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Traceoptions-46028)|An attacker can cause a fatal error of Junos OS, via BGP Traceoptions, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Conditions-46027" class="noirorange"><b>Junos OS</b>: denial of service via BGP Update Conditions</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Update-Conditions-46027)|An attacker can cause a fatal error of Junos OS, via BGP Update Conditions, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0188/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 10 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0187/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 10 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0186/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 07 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0185/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 07 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0184/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 07 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0183/)|De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 07 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0182/)|Une vulnérabilité a été découverte dans Nagios Nagios XI. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 07 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0181/)|Une vulnérabilités a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 06 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0180/)|Une vulnérabilité a été découverte dans Cisco Secure Client. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 06 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0179/)|Une vulnérabilité a été découverte dans les produits Symantec. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 06 mars 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
