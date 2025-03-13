@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/03/2025 21:23:03 UTC
+ > Last Updated 13/03/2025 09:26:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/crun-file-corruption-dated-26-02-2025-46451" class="noirorange"><b>crun</b>: file corruption dated 26/02/2025</a>](https://vigilance.fr/vulnerability/crun-file-corruption-dated-26-02-2025-46451)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of crun, dated 26/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenAFS-three-vulnerabilities-dated-13-01-2025-46049" class="noirorange"><b>OpenAFS</b>: three vulnerabilities dated 13/01/2025</a>](https://vigilance.fr/vulnerability/OpenAFS-three-vulnerabilities-dated-13-01-2025-46049)|An attacker can use several vulnerabilities of OpenAFS, dated 13/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/stb-vorbis-five-vulnerabilities-dated-13-01-2025-46047" class="noirorange"><b>stb_vorbis</b>: five vulnerabilities dated 13/01/2025</a>](https://vigilance.fr/vulnerability/stb-vorbis-five-vulnerabilities-dated-13-01-2025-46047)|An attacker can use several vulnerabilities of stb_vorbis, dated 13/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-01-2025-46046" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 13/01/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-01-2025-46046)|An attacker can use several vulnerabilities of the Linux kernel, dated 13/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Logback-privilege-escalation-via-JaninoEventEvaluator-46045" class="noirorange"><b>Logback</b>: privilege escalation via JaninoEventEvaluator</a>](https://vigilance.fr/vulnerability/Logback-privilege-escalation-via-JaninoEventEvaluator-46045)|An attacker can bypass restrictions of Logback, via JaninoEventEvaluator|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-September-2023-42263" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-September-2023-42263)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Nesbot-Carbon-information-disclosure-dated-25-02-2025-46449" class="noirorange"><b>Nesbot Carbon</b>: information disclosure dated 25/02/2025</a>](https://vigilance.fr/vulnerability/Nesbot-Carbon-information-disclosure-dated-25-02-2025-46449)|An attacker can bypass access restrictions to data of Nesbot Carbon, dated 25/02/2025, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-12-06-2024-44504" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 12/06/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-12-06-2024-44504)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 12/06/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-on-Intel-x86-information-disclosure-via-asm-exc-nmi-46448" class="noirorange"><b>Linux kernel on Intel x86</b>: information disclosure via asm_exc_nmi()</a>](https://vigilance.fr/vulnerability/Linux-kernel-on-Intel-x86-information-disclosure-via-asm-exc-nmi-46448)|An attacker can bypass access restrictions to data of the Linux kernel on Intel x86, via asm_exc_nmi(), in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libcap2-privilege-escalation-via-pam-cap-46447" class="noirorange"><b>libcap2</b>: privilege escalation via pam_cap</a>](https://vigilance.fr/vulnerability/libcap2-privilege-escalation-via-pam-cap-46447)|An attacker can bypass restrictions of libcap2, via pam_cap, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iniparser-denial-of-service-dated-25-02-2025-46446" class="noirorange"><b>iniparser</b>: denial of service dated 25/02/2025</a>](https://vigilance.fr/vulnerability/iniparser-denial-of-service-dated-25-02-2025-46446)|An attacker can cause a fatal error of iniparser, dated 25/02/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pam-pkcs11-out-of-bounds-memory-reading-via-PIN-46445" class="noirorange"><b>pam_pkcs11</b>: out-of-bounds memory reading via PIN</a>](https://vigilance.fr/vulnerability/pam-pkcs11-out-of-bounds-memory-reading-via-PIN-46445)|An attacker can force a read at an invalid memory address of pam_pkcs11, via PIN, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libwebp-Chrome-Firefox-buffer-overflow-via-BuildHuffmanTable-42249" class="noirorange"><b>libwebp  Chrome  Firefox</b>: buffer overflow via BuildHuffmanTable</a>](https://vigilance.fr/vulnerability/libwebp-Chrome-Firefox-buffer-overflow-via-BuildHuffmanTable-42249)|An attacker can trigger a buffer overflow of libwebp  Chrome  Firefox, via BuildHuffmanTable, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2024-44498" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of June 2024</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-June-2024-44498)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-dated-11-06-2024-44497" class="noirorange"><b>Microsoft SharePoint</b>: code execution dated 11/06/2024</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-dated-11-06-2024-44497)|An attacker can use a vulnerability of Microsoft SharePoint, dated 11/06/2024, in order to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
