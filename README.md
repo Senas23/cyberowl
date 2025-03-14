@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/03/2025 21:22:17 UTC
+ > Last Updated 14/03/2025 09:24:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rclone-file-read-write-via-Symlinks-46053" class="noirorange"><b>Rclone</b>: file read/write via Symlinks</a>](https://vigilance.fr/vulnerability/Rclone-file-read-write-via-Symlinks-46053)|An attacker can bypass access restrictions of Rclone, via Symlinks, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-14-06-2024-44514" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities dated 14/06/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-14-06-2024-44514)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 14/06/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Security-Headers-46052" class="noirorange"><b>Keycloak</b>: denial of service via Security Headers</a>](https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-Security-Headers-46052)|An attacker can cause a fatal error of Keycloak, via Security Headers, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HPLIP-buffer-overflow-via-MDNS-Response-46050" class="noirorange"><b>HPLIP</b>: buffer overflow via MDNS Response</a>](https://vigilance.fr/vulnerability/HPLIP-buffer-overflow-via-MDNS-Response-46050)|An attacker can trigger a buffer overflow of HPLIP, via MDNS Response, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/crun-file-corruption-dated-26-02-2025-46451" class="noirorange"><b>crun</b>: file corruption dated 26/02/2025</a>](https://vigilance.fr/vulnerability/crun-file-corruption-dated-26-02-2025-46451)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of crun, dated 26/02/2025...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-01-2025-46046" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 13/01/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-01-2025-46046)|An attacker can use several vulnerabilities of the Linux kernel, dated 13/01/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Logback-privilege-escalation-via-JaninoEventEvaluator-46045" class="noirorange"><b>Logback</b>: privilege escalation via JaninoEventEvaluator</a>](https://vigilance.fr/vulnerability/Logback-privilege-escalation-via-JaninoEventEvaluator-46045)|An attacker can bypass restrictions of Logback, via JaninoEventEvaluator|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-September-2023-42263" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of September 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-September-2023-42263)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nesbot-Carbon-information-disclosure-dated-25-02-2025-46449" class="noirorange"><b>Nesbot Carbon</b>: information disclosure dated 25/02/2025</a>](https://vigilance.fr/vulnerability/Nesbot-Carbon-information-disclosure-dated-25-02-2025-46449)|An attacker can bypass access restrictions to data of Nesbot Carbon, dated 25/02/2025, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-12-06-2024-44504" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 12/06/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-12-06-2024-44504)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 12/06/2024...|Visit link for details|
  
  ---
 
