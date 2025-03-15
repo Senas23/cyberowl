@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/03/2025 21:22:25 UTC
+ > Last Updated 15/03/2025 09:22:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,13 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0202/)|Une vulnérabilité a été découverte dans Joomla!. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0201/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 12 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0200/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0199/)|Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Apple indique que la vulnérabilité CVE-2025-24201 est activement exploitée.|Publié le 12 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0198/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 12 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0197/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0196/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 12 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0195/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 12 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0194/)|Une vulnérabilité a été découverte dans Microsoft .Net. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0193/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que les...|Publié le 12 mars 2025|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Net-OAuth-weak-encryption-via-Client-Randomness-46106" class="noirorange"><b>Perl Net-OAuth</b>: weak encryption via Client Randomness</a>](https://vigilance.fr/vulnerability/Perl-Net-OAuth-weak-encryption-via-Client-Randomness-46106)|An attacker can access data on Perl Net-OAuth, via Client Randomness, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rlottie-five-vulnerabilities-dated-15-01-2025-46105" class="noirorange"><b>rlottie</b>: five vulnerabilities dated 15/01/2025</a>](https://vigilance.fr/vulnerability/rlottie-five-vulnerabilities-dated-15-01-2025-46105)|An attacker can use several vulnerabilities of rlottie, dated 15/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-IPv6-Validation-46104" class="noirorange"><b>Django</b>: denial of service via IPv6 Validation</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-IPv6-Validation-46104)|An attacker can cause a fatal error of Django, via IPv6 Validation, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-AOS-two-vulnerabilities-dated-14-01-2025-46103" class="noirorange"><b>HPE Aruba AOS</b>: two vulnerabilities dated 14/01/2025</a>](https://vigilance.fr/vulnerability/HPE-Aruba-AOS-two-vulnerabilities-dated-14-01-2025-46103)|An attacker can use several vulnerabilities of HPE Aruba AOS, dated 14/01/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Git-information-disclosure-via-Unsanitized-URLs-46097" class="noirorange"><b>Git</b>: information disclosure via Unsanitized URLs</a>](https://vigilance.fr/vulnerability/Git-information-disclosure-via-Unsanitized-URLs-46097)|An attacker can bypass access restrictions to data of Git, via Unsanitized URLs, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-privilege-escalation-via-Filesystem-Permissions-46095" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: privilege escalation via Filesystem Permissions</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-privilege-escalation-via-Filesystem-Permissions-46095)|An attacker can bypass restrictions of FortiAnalyzer  FortiManager, via Filesystem Permissions, in order to escalate his privileges...|Visit link for details|
@@ -58,20 +44,34 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-IPSEC-Daemon-46093" class="noirorange"><b>FortiOS</b>: buffer overflow via IPSEC Daemon</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-IPSEC-Daemon-46093)|An attacker can trigger a buffer overflow of FortiOS, via IPSEC Daemon, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiAnalyzer-FortiManager-user-access-via-Csfd-Daemon-46092" class="noirorange"><b>FortiOS  FortiAnalyzer  FortiManager</b>: user access via Csfd Daemon</a>](https://vigilance.fr/vulnerability/FortiOS-FortiAnalyzer-FortiManager-user-access-via-Csfd-Daemon-46092)|An attacker can bypass restrictions of FortiOS  FortiAnalyzer  FortiManager, via Csfd Daemon, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiManager-directory-traversal-via-Csfd-Daemon-46091" class="noirorange"><b>FortiOS  FortiManager</b>: directory traversal via Csfd Daemon</a>](https://vigilance.fr/vulnerability/FortiOS-FortiManager-directory-traversal-via-Csfd-Daemon-46091)|An attacker can traverse directories of FortiOS  FortiManager, via Csfd Daemon, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-GUI-Endpoints-46087" class="noirorange"><b>FortiOS</b>: denial of service via GUI Endpoints</a>](https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-GUI-Endpoints-46087)|An attacker can cause a fatal error of FortiOS, via GUI Endpoints, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-SSLVPN-46086" class="noirorange"><b>FortiOS</b>: denial of service via SSLVPN</a>](https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-SSLVPN-46086)|An attacker can cause a fatal error of FortiOS, via SSLVPN, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiManager-information-disclosure-via-Managed-Device-Configuration-Files-46085" class="noirorange"><b>FortiManager</b>: information disclosure via Managed Device Configuration Files</a>](https://vigilance.fr/vulnerability/FortiManager-information-disclosure-via-Managed-Device-Configuration-Files-46085)|An attacker can bypass access restrictions to data of FortiManager, via Managed Device Configuration Files, in order to read sensitive information...|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0213/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.|Publié le 14 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0212/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 14 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0211/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 14 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0210/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0209/)|De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 14 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0208/)|Une vulnérabilité a été découverte dans Microsoft Dataverse. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 14 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0207/)|De multiples vulnérabilités ont été découvertes dans Cisco IOS XR. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0206/)|Une vulnérabilité a été découverte dans Juniper Networks Junos OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 13 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0205/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 mars 2025|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
