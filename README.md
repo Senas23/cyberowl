@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/03/2025 21:23:22 UTC
+ > Last Updated 16/03/2025 09:22:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,30 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-01-2025-46113" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 16/01/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-01-2025-46113)|An attacker can use several vulnerabilities of the Linux kernel, dated 16/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-code-execution-via-Windows-nodes-logs-query-API-46112" class="noirorange"><b>Kubernetes</b>: code execution via Windows nodes/_/logs/query API</a>](https://vigilance.fr/vulnerability/Kubernetes-code-execution-via-Windows-nodes-logs-query-API-46112)|An attacker can use a vulnerability of Kubernetes, via Windows nodes/_/logs/query API, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mutt-no-signature-via-In-Reply-To-Email-46111" class="noirorange"><b>Mutt</b>: no signature via In-Reply-To Email</a>](https://vigilance.fr/vulnerability/Mutt-no-signature-via-In-Reply-To-Email-46111)|An attacker can use malicious data on Mutt, via In-Reply-To Email, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mutt-no-signature-via-To-Cc-Email-46110" class="noirorange"><b>Mutt</b>: no signature via To / Cc Email</a>](https://vigilance.fr/vulnerability/Mutt-no-signature-via-To-Cc-Email-46110)|An attacker can use malicious data on Mutt, via To / Cc Email, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Git-for-Windows-code-execution-via-Sideband-Payload-46109" class="noirorange"><b>Git for Windows</b>: code execution via Sideband Payload</a>](https://vigilance.fr/vulnerability/Git-for-Windows-code-execution-via-Sideband-Payload-46109)|An attacker can use a vulnerability of Git for Windows, via Sideband Payload, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeIPA-logged-sensitive-information-via-proc-pid-commandline-46108" class="noirorange"><b>FreeIPA</b>: logged sensitive information via /proc/pid/<wbr>commandline</wbr></a>](https://vigilance.fr/vulnerability/FreeIPA-logged-sensitive-information-via-proc-pid-commandline-46108)|An attacker can read logs of FreeIPA, via /proc/pid/|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Net-OAuth-weak-encryption-via-Client-Randomness-46106" class="noirorange"><b>Perl Net-OAuth</b>: weak encryption via Client Randomness</a>](https://vigilance.fr/vulnerability/Perl-Net-OAuth-weak-encryption-via-Client-Randomness-46106)|An attacker can access data on Perl Net-OAuth, via Client Randomness, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rlottie-five-vulnerabilities-dated-15-01-2025-46105" class="noirorange"><b>rlottie</b>: five vulnerabilities dated 15/01/2025</a>](https://vigilance.fr/vulnerability/rlottie-five-vulnerabilities-dated-15-01-2025-46105)|An attacker can use several vulnerabilities of rlottie, dated 15/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-IPv6-Validation-46104" class="noirorange"><b>Django</b>: denial of service via IPv6 Validation</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-IPv6-Validation-46104)|An attacker can cause a fatal error of Django, via IPv6 Validation, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-AOS-two-vulnerabilities-dated-14-01-2025-46103" class="noirorange"><b>HPE Aruba AOS</b>: two vulnerabilities dated 14/01/2025</a>](https://vigilance.fr/vulnerability/HPE-Aruba-AOS-two-vulnerabilities-dated-14-01-2025-46103)|An attacker can use several vulnerabilities of HPE Aruba AOS, dated 14/01/2025...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,30 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0207/)|De multiples vulnérabilités ont été découvertes dans Cisco IOS XR. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0206/)|Une vulnérabilité a été découverte dans Juniper Networks Junos OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 13 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0205/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 mars 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Git-for-Windows-code-execution-via-Sideband-Payload-46109" class="noirorange"><b>Git for Windows</b>: code execution via Sideband Payload</a>](https://vigilance.fr/vulnerability/Git-for-Windows-code-execution-via-Sideband-Payload-46109)|An attacker can use a vulnerability of Git for Windows, via Sideband Payload, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeIPA-logged-sensitive-information-via-proc-pid-commandline-46108" class="noirorange"><b>FreeIPA</b>: logged sensitive information via /proc/pid/<wbr>commandline</wbr></a>](https://vigilance.fr/vulnerability/FreeIPA-logged-sensitive-information-via-proc-pid-commandline-46108)|An attacker can read logs of FreeIPA, via /proc/pid/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Net-OAuth-weak-encryption-via-Client-Randomness-46106" class="noirorange"><b>Perl Net-OAuth</b>: weak encryption via Client Randomness</a>](https://vigilance.fr/vulnerability/Perl-Net-OAuth-weak-encryption-via-Client-Randomness-46106)|An attacker can access data on Perl Net-OAuth, via Client Randomness, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/rlottie-five-vulnerabilities-dated-15-01-2025-46105" class="noirorange"><b>rlottie</b>: five vulnerabilities dated 15/01/2025</a>](https://vigilance.fr/vulnerability/rlottie-five-vulnerabilities-dated-15-01-2025-46105)|An attacker can use several vulnerabilities of rlottie, dated 15/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-IPv6-Validation-46104" class="noirorange"><b>Django</b>: denial of service via IPv6 Validation</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-IPv6-Validation-46104)|An attacker can cause a fatal error of Django, via IPv6 Validation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-AOS-two-vulnerabilities-dated-14-01-2025-46103" class="noirorange"><b>HPE Aruba AOS</b>: two vulnerabilities dated 14/01/2025</a>](https://vigilance.fr/vulnerability/HPE-Aruba-AOS-two-vulnerabilities-dated-14-01-2025-46103)|An attacker can use several vulnerabilities of HPE Aruba AOS, dated 14/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-information-disclosure-via-Unsanitized-URLs-46097" class="noirorange"><b>Git</b>: information disclosure via Unsanitized URLs</a>](https://vigilance.fr/vulnerability/Git-information-disclosure-via-Unsanitized-URLs-46097)|An attacker can bypass access restrictions to data of Git, via Unsanitized URLs, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-privilege-escalation-via-Filesystem-Permissions-46095" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: privilege escalation via Filesystem Permissions</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-privilege-escalation-via-Filesystem-Permissions-46095)|An attacker can bypass restrictions of FortiAnalyzer  FortiManager, via Filesystem Permissions, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-Sslvpn-46094" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via Sslvpn</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-Sslvpn-46094)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via Sslvpn, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-IPSEC-Daemon-46093" class="noirorange"><b>FortiOS</b>: buffer overflow via IPSEC Daemon</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-IPSEC-Daemon-46093)|An attacker can trigger a buffer overflow of FortiOS, via IPSEC Daemon, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
