@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/03/2025 09:26:48 UTC
+ > Last Updated 18/03/2025 21:22:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,17 +30,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0217/)|De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0216/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 17 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0215/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 mars 2025|
@@ -50,7 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0210/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0209/)|De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 14 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0208/)|Une vulnérabilité a été découverte dans Microsoft Dataverse. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 14 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0207/)|De multiples vulnérabilités ont été découvertes dans Cisco IOS XR. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 mars 2025|
  
  ---
 
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-01-2025-46113" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 16/01/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-01-2025-46113)|An attacker can use several vulnerabilities of the Linux kernel, dated 16/01/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-code-execution-via-Windows-nodes-logs-query-API-46112" class="noirorange"><b>Kubernetes</b>: code execution via Windows nodes/_/logs/query API</a>](https://vigilance.fr/vulnerability/Kubernetes-code-execution-via-Windows-nodes-logs-query-API-46112)|An attacker can use a vulnerability of Kubernetes, via Windows nodes/_/logs/query API, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mutt-no-signature-via-In-Reply-To-Email-46111" class="noirorange"><b>Mutt</b>: no signature via In-Reply-To Email</a>](https://vigilance.fr/vulnerability/Mutt-no-signature-via-In-Reply-To-Email-46111)|An attacker can use malicious data on Mutt, via In-Reply-To Email, in order to deceive the victim...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
