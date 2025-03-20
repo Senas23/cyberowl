@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/03/2025 21:22:54 UTC
+ > Last Updated 20/03/2025 09:25:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,27 +34,20 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-20-01-2025-46132" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities dated 20/01/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-20-01-2025-46132)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 20/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/go-git-privilege-escalation-via-Git-upload-pack-Flags-46131" class="noirorange"><b>go-git</b>: privilege escalation via Git-upload-pack Flags</a>](https://vigilance.fr/vulnerability/go-git-privilege-escalation-via-Git-upload-pack-Flags-46131)|An attacker can bypass restrictions of go-git, via Git-upload-pack Flags, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libsixel-NULL-pointer-dereference-via-PICT-File-46130" class="noirorange"><b>Libsixel</b>: NULL pointer dereference via PICT File</a>](https://vigilance.fr/vulnerability/Libsixel-NULL-pointer-dereference-via-PICT-File-46130)|An attacker can force a NULL pointer to be dereferenced on Libsixel, via PICT File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tryton-overload-via-Zip-Bomb-46129" class="noirorange"><b>Tryton</b>: overload via Zip Bomb</a>](https://vigilance.fr/vulnerability/Tryton-overload-via-Zip-Bomb-46129)|An attacker can trigger an overload of Tryton, via Zip Bomb, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PoDoFo-buffer-overflow-via-src-base-PdfDictionary-cpp-46126" class="noirorange"><b>PoDoFo</b>: buffer overflow via src/base/<wbr>PdfDictionary.cpp</wbr></a>](https://vigilance.fr/vulnerability/PoDoFo-buffer-overflow-via-src-base-PdfDictionary-cpp-46126)|An attacker can trigger a buffer overflow of PoDoFo, via src/base/|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-01-2025-46124" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 20/01/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-01-2025-46124)|An attacker can use several vulnerabilities of the Linux kernel, dated 20/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Yubico-pam-u2f-privilege-escalation-dated-20-01-2025-46123" class="noirorange"><b>Yubico pam-u2f</b>: privilege escalation dated 20/01/2025</a>](https://vigilance.fr/vulnerability/Yubico-pam-u2f-privilege-escalation-dated-20-01-2025-46123)|An attacker can bypass restrictions of Yubico pam-u2f, dated 20/01/2025, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GeoTools-code-execution-via-XPath-44547" class="noirorange"><b>GeoTools</b>: code execution via XPath</a>](https://vigilance.fr/vulnerability/GeoTools-code-execution-via-XPath-44547)|An attacker can use a vulnerability of GeoTools, via XPath, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-six-vulnerabilities-dated-19-06-2024-44545" class="noirorange"><b>Chrome  Edge  Opera</b>: six vulnerabilities dated 19/06/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-six-vulnerabilities-dated-19-06-2024-44545)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 19/06/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-three-vulnerabilities-dated-18-06-2024-44534" class="noirorange"><b>VMware vCenter Server</b>: three vulnerabilities dated 18/06/2024</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-three-vulnerabilities-dated-18-06-2024-44534)|An attacker can use several vulnerabilities of VMware vCenter Server, dated 18/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-privilege-escalation-via-Secure-Kernel-Page-Table-Data-46122" class="noirorange"><b>Windows</b>: privilege escalation via Secure Kernel Page Table Data</a>](https://vigilance.fr/vulnerability/Windows-privilege-escalation-via-Secure-Kernel-Page-Table-Data-46122)|An attacker can bypass restrictions of Windows, via Secure Kernel Page Table Data, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-dated-16-01-2025-46121" class="noirorange"><b>SPIP</b>: two vulnerabilities dated 16/01/2025</a>](https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-dated-16-01-2025-46121)|An attacker can use several vulnerabilities of SPIP, dated 16/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HarfBuzz-buffer-overflow-via-hb-cairo-glyphs-from-buffer-46120" class="noirorange"><b>HarfBuzz</b>: buffer overflow via hb_cairo_glyphs_<wbr>from_buffer()</wbr></a>](https://vigilance.fr/vulnerability/HarfBuzz-buffer-overflow-via-hb-cairo-glyphs-from-buffer-46120)|An attacker can trigger a buffer overflow of HarfBuzz, via hb_cairo_glyphs_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Supporting-Add-on-for-Active-Directory-overload-via-Regular-Expression-46119" class="noirorange"><b>Splunk Supporting Add-on for Active Directory</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Splunk-Supporting-Add-on-for-Active-Directory-overload-via-Regular-Expression-46119)|An attacker can trigger an overload of Splunk Supporting Add-on for Active Directory, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-App-for-SOAR-privilege-escalation-via-splunk-app-soar-46118" class="noirorange"><b>Splunk App for SOAR</b>: privilege escalation via splunk_app_soar</a>](https://vigilance.fr/vulnerability/Splunk-App-for-SOAR-privilege-escalation-via-splunk-app-soar-46118)|An attacker can bypass restrictions of Splunk App for SOAR, via splunk_app_soar, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Artificial-Intelligence-Cross-Site-Request-Forgery-via-Deepchat-Chatbot-46114" class="noirorange"><b>Drupal Artificial Intelligence</b>: Cross Site Request Forgery via Deepchat Chatbot</a>](https://vigilance.fr/vulnerability/Drupal-Artificial-Intelligence-Cross-Site-Request-Forgery-via-Deepchat-Chatbot-46114)|An attacker can trigger a Cross Site Request Forgery of Drupal Artificial Intelligence, via Deepchat Chatbot, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-01-2025-46113" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 16/01/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-16-01-2025-46113)|An attacker can use several vulnerabilities of the Linux kernel, dated 16/01/2025...|Visit link for details|
  
  ---
 
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -75,4 +68,11 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0217/)|De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0216/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 17 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0215/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 mars 2025|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
