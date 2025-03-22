@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/03/2025 21:21:54 UTC
+ > Last Updated 22/03/2025 09:25:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/dnsjava-spoofing-via-DNS-Replies-Different-Zones-46164" class="noirorange"><b>dnsjava</b>: spoofing via DNS Replies Different Zones</a>](https://vigilance.fr/vulnerability/dnsjava-spoofing-via-DNS-Replies-Different-Zones-46164)|An attacker can create spoofed data on dnsjava, via DNS Replies Different Zones, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-file-write-via-File-System-46161" class="noirorange"><b>Oracle Solaris</b>: file write via File System</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-file-write-via-File-System-46161)|An attacker can bypass access restrictions of Oracle Solaris, via File System, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-two-vulnerabilities-dated-22-01-2025-46160" class="noirorange"><b>Oracle VM VirtualBox</b>: two vulnerabilities dated 22/01/2025</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-two-vulnerabilities-dated-22-01-2025-46160)|An attacker can use several vulnerabilities of Oracle VM VirtualBox, dated 22/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AntiSamy-Cross-Site-Scripting-via-preserveComments-46158" class="noirorange"><b>AntiSamy</b>: Cross Site Scripting via preserveComments</a>](https://vigilance.fr/vulnerability/AntiSamy-Cross-Site-Scripting-via-preserveComments-46158)|An attacker can trigger a Cross Site Scripting of AntiSamy, via preserveComments, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-Parsson-denial-of-service-via-Nested-Objects-46157" class="noirorange"><b>Eclipse Parsson</b>: denial of service via Nested Objects</a>](https://vigilance.fr/vulnerability/Eclipse-Parsson-denial-of-service-via-Nested-Objects-46157)|An attacker can cause a fatal error of Eclipse Parsson, via Nested Objects, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-oneAPI-Toolkit-OpenMP-code-execution-via-Search-Path-Element-46154" class="noirorange"><b>Intel oneAPI Toolkit OpenMP</b>: code execution via Search Path Element</a>](https://vigilance.fr/vulnerability/Intel-oneAPI-Toolkit-OpenMP-code-execution-via-Search-Path-Element-46154)|An attacker can use a vulnerability of Intel oneAPI Toolkit OpenMP, via Search Path Element, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-read-write-access-via-Java-VM-Component-46153" class="noirorange"><b>Oracle Database</b>: read-write access via Java VM Component</a>](https://vigilance.fr/vulnerability/Oracle-Database-read-write-access-via-Java-VM-Component-46153)|An attacker can bypass access restrictions of Oracle Database, via Java VM Component, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Snapcast-code-execution-via-JSON-RPC-Interface-46152" class="noirorange"><b>Snapcast</b>: code execution via JSON RPC Interface</a>](https://vigilance.fr/vulnerability/Snapcast-code-execution-via-JSON-RPC-Interface-46152)|An attacker can use a vulnerability of Snapcast, via JSON RPC Interface, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-01-2025-46151" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 22/01/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-01-2025-46151)|An attacker can use several vulnerabilities of the Linux kernel, dated 22/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/slim-psr7-header-injection-via-Newline-46149" class="noirorange"><b>slim/psr7</b>: header injection via Newline</a>](https://vigilance.fr/vulnerability/slim-psr7-header-injection-via-Newline-46149)|An attacker can add new headers on slim/psr7, via Newline, in order to alter the service behavior...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/undici-weak-encryption-via-fetch-46145" class="noirorange"><b>undici</b>: weak encryption via fetch()</a>](https://vigilance.fr/vulnerability/undici-weak-encryption-via-fetch-46145)|An attacker can access data on undici, via fetch(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nvidia-Open-Driver-five-vulnerabilities-dated-21-01-2025-46143" class="noirorange"><b>Nvidia Open Driver</b>: five vulnerabilities dated 21/01/2025</a>](https://vigilance.fr/vulnerability/Nvidia-Open-Driver-five-vulnerabilities-dated-21-01-2025-46143)|An attacker can use several vulnerabilities of Nvidia Open Driver, dated 21/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-SQL-Function-46141" class="noirorange"><b>Elasticsearch</b>: denial of service via SQL Function</a>](https://vigilance.fr/vulnerability/Elasticsearch-denial-of-service-via-SQL-Function-46141)|An attacker can cause a fatal error of Elasticsearch, via SQL Function, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WinZip-buffer-overflow-via-7Z-File-46140" class="noirorange"><b>WinZip</b>: buffer overflow via 7Z File</a>](https://vigilance.fr/vulnerability/WinZip-buffer-overflow-via-7Z-File-46140)|An attacker can trigger a buffer overflow of WinZip, via 7Z File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ucf-code-execution-via-Command-Injection-46139" class="noirorange"><b>ucf</b>: code execution via Command Injection</a>](https://vigilance.fr/vulnerability/ucf-code-execution-via-Command-Injection-46139)|An attacker can use a vulnerability of ucf, via Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-io-eventfd-signal-46138" class="noirorange"><b>Linux kernel</b>: double free via io_eventfd_signal()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-io-eventfd-signal-46138)|An attacker can force a double memory free of the Linux kernel, via io_eventfd_signal(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-ingress-filtrering-bypass-via-First-factor-Login-Credential-46532" class="noirorange"><b>Drupal Two-factor Authentication</b>: ingress filtrering bypass via First-factor Login Credential</a>](https://vigilance.fr/vulnerability/Drupal-Two-factor-Authentication-ingress-filtrering-bypass-via-First-factor-Login-Credential-46532)|An attacker can bypass filtering rules of Drupal Two-factor Authentication, via First-factor Login Credential, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/POCO-integer-overflow-via-UTF32Encoding-46136" class="noirorange"><b>POCO</b>: integer overflow via UTF32Encoding()</a>](https://vigilance.fr/vulnerability/POCO-integer-overflow-via-UTF32Encoding-46136)|An attacker can trigger an integer overflow of POCO, via UTF32Encoding(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-header-injection-via-Long-Quoted-string-Email-Address-Header-Folding-46135" class="noirorange"><b>Python Core</b>: header injection via Long Quoted-string Email Address Header Folding</a>](https://vigilance.fr/vulnerability/Python-Core-header-injection-via-Long-Quoted-string-Email-Address-Header-Folding-46135)|An attacker can add new headers on Python Core, via Long Quoted-string Email Address Header Folding, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/go-git-denial-of-service-via-Server-Responses-46134" class="noirorange"><b>go-git</b>: denial of service via Server Responses</a>](https://vigilance.fr/vulnerability/go-git-denial-of-service-via-Server-Responses-46134)|An attacker can cause a fatal error of go-git, via Server Responses, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
