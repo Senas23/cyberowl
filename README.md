@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/03/2025 09:22:23 UTC
+ > Last Updated 23/03/2025 21:21:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-HttpOnly-Cookie-Sandwich-46182" class="noirorange"><b>Apache Tomcat</b>: information disclosure via HttpOnly Cookie Sandwich</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-HttpOnly-Cookie-Sandwich-46182)|An attacker can bypass access restrictions to data of Apache Tomcat, via HttpOnly Cookie Sandwich, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-Route-Validation-Trigger-46181" class="noirorange"><b>FRRouting</b>: denial of service via Route Validation Trigger</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-Route-Validation-Trigger-46181)|An attacker can cause a fatal error of FRRouting, via Route Validation Trigger, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-16-01-2025-46177" class="noirorange"><b>Go</b>: two vulnerabilities dated 16/01/2025</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-16-01-2025-46177)|An attacker can use several vulnerabilities of Go, dated 16/01/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-22-01-2025-46176" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 22/01/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-22-01-2025-46176)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 22/01/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Ignition-Error-Pages-Cross-Site-Scripting-dated-22-01-2025-46175" class="noirorange"><b>Drupal Ignition Error Pages</b>: Cross Site Scripting dated 22/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Ignition-Error-Pages-Cross-Site-Scripting-dated-22-01-2025-46175)|An attacker can trigger a Cross Site Scripting of Drupal Ignition Error Pages, dated 22/01/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Artificial-Intelligence-information-disclosure-via-Preview-Listing-46172" class="noirorange"><b>Drupal Artificial Intelligence</b>: information disclosure via Preview Listing</a>](https://vigilance.fr/vulnerability/Drupal-Artificial-Intelligence-information-disclosure-via-Preview-Listing-46172)|An attacker can bypass access restrictions to data of Drupal Artificial Intelligence, via Preview Listing, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Password-Reset-LDAP-Bind-46170" class="noirorange"><b>Keycloak</b>: user access via Password Reset LDAP Bind</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Password-Reset-LDAP-Bind-46170)|An attacker can bypass restrictions of Keycloak, via Password Reset LDAP Bind, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-22-01-2025-46169" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities dated 22/01/2025</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-22-01-2025-46169)|An attacker can use several vulnerabilities of Jenkins Plugins, dated 22/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-LFS-code-execution-via-git-credential-46168" class="noirorange"><b>Git LFS</b>: code execution via git-credential</a>](https://vigilance.fr/vulnerability/Git-LFS-code-execution-via-git-credential-46168)|An attacker can use a vulnerability of Git LFS, via git-credential, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-buffer-overflow-via-OLE2-File-Parser-46167" class="noirorange"><b>ClamAV</b>: buffer overflow via OLE2 File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-buffer-overflow-via-OLE2-File-Parser-46167)|An attacker can trigger a buffer overflow of ClamAV, via OLE2 File Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
