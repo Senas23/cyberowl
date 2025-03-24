@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/03/2025 09:27:21 UTC
+ > Last Updated 24/03/2025 21:22:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.|Publié le 24 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0236/)|Une vulnérabilité a été découverte dans Qnap NAKIVO Backup & Replication. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0235/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 21 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0233/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0232/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0231/)|Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 21 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0230/)|Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 21 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0229/)|Une vulnérabilité a été découverte dans Veeam Backup & Replication. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans Spring Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 mars 2025|
  
  ---
 
@@ -54,20 +64,10 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0235/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0233/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0232/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0231/)|Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0230/)|Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0229/)|Une vulnérabilité a été découverte dans Veeam Backup & Replication. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans Spring Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0227/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 20 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0226/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 mars 2025|
  
  ---
 
