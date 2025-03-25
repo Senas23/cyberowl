@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/03/2025 21:22:10 UTC
+ > Last Updated 25/03/2025 09:28:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-privilege-escalation-via-Microcode-Signature-Verification-46546" class="noirorange"><b>AMD Processor</b>: privilege escalation via Microcode Signature Verification</a>](https://vigilance.fr/vulnerability/AMD-Processor-privilege-escalation-via-Microcode-Signature-Verification-46546)|An attacker can bypass restrictions of AMD Processor, via Microcode Signature Verification, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-find-field-in-table-46544" class="noirorange"><b>MariaDB</b>: denial of service via find_field_in_table(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-find-field-in-table-46544)|An attacker can cause a fatal error of MariaDB, via find_field_in_table(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Emacs-code-execution-via-Org-Mode-44572" class="noirorange"><b>Emacs</b>: code execution via Org Mode</a>](https://vigilance.fr/vulnerability/Emacs-code-execution-via-Org-Mode-44572)|An attacker can use a vulnerability of Emacs, via Org Mode, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dante-read-write-access-via-Socksmethod-46190" class="noirorange"><b>Dante</b>: read-write access via Socksmethod</a>](https://vigilance.fr/vulnerability/Dante-read-write-access-via-Socksmethod-46190)|An attacker can bypass access restrictions of Dante, via Socksmethod, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PCL-assertion-error-via-PLY-Files-46189" class="noirorange"><b>PCL</b>: assertion error via PLY Files</a>](https://vigilance.fr/vulnerability/PCL-assertion-error-via-PLY-Files-46189)|An attacker can force an assertion error of PCL, via PLY Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-pdf-write-names-46188" class="noirorange"><b>HTMLDOC</b>: buffer overflow via pdf_write_names()</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-pdf-write-names-46188)|An attacker can trigger a buffer overflow of HTMLDOC, via pdf_write_names(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-e-node-46187" class="noirorange"><b>HTMLDOC</b>: buffer overflow via e_node()</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-e-node-46187)|An attacker can trigger a buffer overflow of HTMLDOC, via e_node(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-write-header-46186" class="noirorange"><b>HTMLDOC</b>: buffer overflow via write_header()</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-write-header-46186)|An attacker can trigger a buffer overflow of HTMLDOC, via write_header(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-image-set-mask-46185" class="noirorange"><b>HTMLDOC</b>: buffer overflow via image_set_mask()</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-image-set-mask-46185)|An attacker can trigger a buffer overflow of HTMLDOC, via image_set_mask(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-HttpOnly-Cookie-Sandwich-46182" class="noirorange"><b>Apache Tomcat</b>: information disclosure via HttpOnly Cookie Sandwich</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-HttpOnly-Cookie-Sandwich-46182)|An attacker can bypass access restrictions to data of Apache Tomcat, via HttpOnly Cookie Sandwich, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0230/)|Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 21 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0229/)|Une vulnérabilité a été découverte dans Veeam Backup & Replication. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans Spring Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 mars 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Emacs-code-execution-via-Org-Mode-44572" class="noirorange"><b>Emacs</b>: code execution via Org Mode</a>](https://vigilance.fr/vulnerability/Emacs-code-execution-via-Org-Mode-44572)|An attacker can use a vulnerability of Emacs, via Org Mode, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dante-read-write-access-via-Socksmethod-46190" class="noirorange"><b>Dante</b>: read-write access via Socksmethod</a>](https://vigilance.fr/vulnerability/Dante-read-write-access-via-Socksmethod-46190)|An attacker can bypass access restrictions of Dante, via Socksmethod, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PCL-assertion-error-via-PLY-Files-46189" class="noirorange"><b>PCL</b>: assertion error via PLY Files</a>](https://vigilance.fr/vulnerability/PCL-assertion-error-via-PLY-Files-46189)|An attacker can force an assertion error of PCL, via PLY Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-pdf-write-names-46188" class="noirorange"><b>HTMLDOC</b>: buffer overflow via pdf_write_names()</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-pdf-write-names-46188)|An attacker can trigger a buffer overflow of HTMLDOC, via pdf_write_names(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-e-node-46187" class="noirorange"><b>HTMLDOC</b>: buffer overflow via e_node()</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-e-node-46187)|An attacker can trigger a buffer overflow of HTMLDOC, via e_node(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-write-header-46186" class="noirorange"><b>HTMLDOC</b>: buffer overflow via write_header()</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-write-header-46186)|An attacker can trigger a buffer overflow of HTMLDOC, via write_header(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-image-set-mask-46185" class="noirorange"><b>HTMLDOC</b>: buffer overflow via image_set_mask()</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-image-set-mask-46185)|An attacker can trigger a buffer overflow of HTMLDOC, via image_set_mask(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-HttpOnly-Cookie-Sandwich-46182" class="noirorange"><b>Apache Tomcat</b>: information disclosure via HttpOnly Cookie Sandwich</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-HttpOnly-Cookie-Sandwich-46182)|An attacker can bypass access restrictions to data of Apache Tomcat, via HttpOnly Cookie Sandwich, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-Route-Validation-Trigger-46181" class="noirorange"><b>FRRouting</b>: denial of service via Route Validation Trigger</a>](https://vigilance.fr/vulnerability/FRRouting-denial-of-service-via-Route-Validation-Trigger-46181)|An attacker can cause a fatal error of FRRouting, via Route Validation Trigger, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-16-01-2025-46177" class="noirorange"><b>Go</b>: two vulnerabilities dated 16/01/2025</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-16-01-2025-46177)|An attacker can use several vulnerabilities of Go, dated 16/01/2025...|Visit link for details|
  
  ---
 
