@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/03/2025 09:28:13 UTC
+ > Last Updated 25/03/2025 21:23:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,28 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0239/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure Kubernetes Service. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 25 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0238/)|De multiples vulnérabilités ont été découvertes dans Laravel. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 25 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.|Publié le 24 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0236/)|Une vulnérabilité a été découverte dans Qnap NAKIVO Backup & Replication. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0235/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 21 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0233/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0232/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0231/)|Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 21 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0230/)|Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 21 mars 2025|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-25-06-2024-44587" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities dated 25/06/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-25-06-2024-44587)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 25/06/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-privilege-escalation-via-Microcode-Signature-Verification-46546" class="noirorange"><b>AMD Processor</b>: privilege escalation via Microcode Signature Verification</a>](https://vigilance.fr/vulnerability/AMD-Processor-privilege-escalation-via-Microcode-Signature-Verification-46546)|An attacker can bypass restrictions of AMD Processor, via Microcode Signature Verification, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-find-field-in-table-46544" class="noirorange"><b>MariaDB</b>: denial of service via find_field_in_table(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-find-field-in-table-46544)|An attacker can cause a fatal error of MariaDB, via find_field_in_table(|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Emacs-code-execution-via-Org-Mode-44572" class="noirorange"><b>Emacs</b>: code execution via Org Mode</a>](https://vigilance.fr/vulnerability/Emacs-code-execution-via-Org-Mode-44572)|An attacker can use a vulnerability of Emacs, via Org Mode, in order to run code...|Visit link for details|
@@ -43,24 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-e-node-46187" class="noirorange"><b>HTMLDOC</b>: buffer overflow via e_node()</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-e-node-46187)|An attacker can trigger a buffer overflow of HTMLDOC, via e_node(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-write-header-46186" class="noirorange"><b>HTMLDOC</b>: buffer overflow via write_header()</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-write-header-46186)|An attacker can trigger a buffer overflow of HTMLDOC, via write_header(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-image-set-mask-46185" class="noirorange"><b>HTMLDOC</b>: buffer overflow via image_set_mask()</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-image-set-mask-46185)|An attacker can trigger a buffer overflow of HTMLDOC, via image_set_mask(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-HttpOnly-Cookie-Sandwich-46182" class="noirorange"><b>Apache Tomcat</b>: information disclosure via HttpOnly Cookie Sandwich</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-HttpOnly-Cookie-Sandwich-46182)|An attacker can bypass access restrictions to data of Apache Tomcat, via HttpOnly Cookie Sandwich, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.|Publié le 24 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0236/)|Une vulnérabilité a été découverte dans Qnap NAKIVO Backup & Replication. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0235/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0233/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0232/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0231/)|Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0230/)|Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 21 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0229/)|Une vulnérabilité a été découverte dans Veeam Backup & Replication. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 20 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans Spring Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 mars 2025|
  
  ---
 
