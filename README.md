@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/03/2025 21:22:57 UTC
+ > Last Updated 27/03/2025 09:26:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-dated-26-06-2024-44605" class="noirorange"><b>GitLab</b>: multiple vulnerabilities dated 26/06/2024</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-dated-26-06-2024-44605)|An attacker can use several vulnerabilities of GitLab, dated 26/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Request-46566" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: code execution via CLI Request</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-code-execution-via-CLI-Request-46566)|An attacker can use a vulnerability of FortiAnalyzer  FortiManager, via CLI Request, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-memory-corruption-via-ESI-Reverse-Proxy-44598" class="noirorange"><b>Squid</b>: memory corruption via ESI Reverse Proxy</a>](https://vigilance.fr/vulnerability/Squid-memory-corruption-via-ESI-Reverse-Proxy-44598)|An attacker can trigger a memory corruption of Squid, via ESI Reverse Proxy, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-bgpd-Withdraw-Desyncronization-44595" class="noirorange"><b>OpenBSD</b>: denial of service via bgpd Withdraw Desyncronization</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-bgpd-Withdraw-Desyncronization-44595)|An attacker can cause a fatal error of OpenBSD, via bgpd Withdraw Desyncronization, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-25-06-2024-44587" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities dated 25/06/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-25-06-2024-44587)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 25/06/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-privilege-escalation-via-Microcode-Signature-Verification-46546" class="noirorange"><b>AMD Processor</b>: privilege escalation via Microcode Signature Verification</a>](https://vigilance.fr/vulnerability/AMD-Processor-privilege-escalation-via-Microcode-Signature-Verification-46546)|An attacker can bypass restrictions of AMD Processor, via Microcode Signature Verification, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-find-field-in-table-46544" class="noirorange"><b>MariaDB</b>: denial of service via find_field_in_table(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-find-field-in-table-46544)|An attacker can cause a fatal error of MariaDB, via find_field_in_table(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Emacs-code-execution-via-Org-Mode-44572" class="noirorange"><b>Emacs</b>: code execution via Org Mode</a>](https://vigilance.fr/vulnerability/Emacs-code-execution-via-Org-Mode-44572)|An attacker can use a vulnerability of Emacs, via Org Mode, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dante-read-write-access-via-Socksmethod-46190" class="noirorange"><b>Dante</b>: read-write access via Socksmethod</a>](https://vigilance.fr/vulnerability/Dante-read-write-access-via-Socksmethod-46190)|An attacker can bypass access restrictions of Dante, via Socksmethod, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PCL-assertion-error-via-PLY-Files-46189" class="noirorange"><b>PCL</b>: assertion error via PLY Files</a>](https://vigilance.fr/vulnerability/PCL-assertion-error-via-PLY-Files-46189)|An attacker can force an assertion error of PCL, via PLY Files, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +51,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0235/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 21 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0234/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0233/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mars 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-weak-encryption-via-getrandom-46206" class="noirorange"><b>GNU C Library</b>: weak encryption via getrandom()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-weak-encryption-via-getrandom-46206)|An attacker can access data on GNU C Library, via getrandom(), in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-assert-46205" class="noirorange"><b>GNU C Library</b>: buffer overflow via assert()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-assert-46205)|An attacker can trigger a buffer overflow of GNU C Library, via assert(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vyper-write-access-via-AugAssign-Statements-46579" class="noirorange"><b>Vyper</b>: write access via AugAssign Statements</a>](https://vigilance.fr/vulnerability/Vyper-write-access-via-AugAssign-Statements-46579)|An attacker can bypass access restrictions of Vyper, via AugAssign Statements, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vyper-write-access-via-Sqrt-Babylonian-Method-46577" class="noirorange"><b>Vyper</b>: write access via Sqrt Babylonian Method</a>](https://vigilance.fr/vulnerability/Vyper-write-access-via-Sqrt-Babylonian-Method-46577)|An attacker can bypass access restrictions of Vyper, via Sqrt Babylonian Method, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vyper-write-access-via-Precompiles-EcRecover-Identity-46576" class="noirorange"><b>Vyper</b>: write access via Precompiles EcRecover Identity</a>](https://vigilance.fr/vulnerability/Vyper-write-access-via-Precompiles-EcRecover-Identity-46576)|An attacker can bypass access restrictions of Vyper, via Precompiles EcRecover Identity, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-file-reading-via-Poller-Standard-Error-Log-Path-46204" class="noirorange"><b>Cacti</b>: file reading via Poller Standard Error Log Path</a>](https://vigilance.fr/vulnerability/Cacti-file-reading-via-Poller-Standard-Error-Log-Path-46204)|An attacker can read a file of Cacti, via Poller Standard Error Log Path, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ARM-Processor-privilege-escalation-via-Hardware-Page-Aggregation-46193" class="noirorange"><b>ARM Processor</b>: privilege escalation via Hardware Page Aggregation</a>](https://vigilance.fr/vulnerability/ARM-Processor-privilege-escalation-via-Hardware-Page-Aggregation-46193)|An attacker, in a guest system, can bypass restrictions of ARM Processor, via Hardware Page Aggregation, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mediawiki-information-disclosure-via-PageTriage-46196" class="noirorange"><b>Mediawiki</b>: information disclosure via PageTriage</a>](https://vigilance.fr/vulnerability/Mediawiki-information-disclosure-via-PageTriage-46196)|An attacker can bypass access restrictions to data of Mediawiki, via PageTriage, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-unuse-vma-46192" class="noirorange"><b>Linux kernel</b>: use after free via unuse_vma()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-unuse-vma-46192)|An attacker can force the reuse of a freed memory area of the Linux kernel, via unuse_vma(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cacti-code-execution-via-Multi-line-SNMP-Responses-46202" class="noirorange"><b>Cacti</b>: code execution via Multi-line SNMP Responses</a>](https://vigilance.fr/vulnerability/Cacti-code-execution-via-Multi-line-SNMP-Responses-46202)|An attacker can use a vulnerability of Cacti, via Multi-line SNMP Responses, in order to run code...|Visit link for details|
  
  ---
 
