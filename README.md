@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/03/2025 09:27:55 UTC
+ > Last Updated 28/03/2025 21:22:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,33 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0255/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et un déni de service.|Publié le 28 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0253/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 28 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0252/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 28 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0251/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 mars 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0250/)|De multiples vulnérabilités ont été découvertes dans StormShield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 28 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0249/)|Une vulnérabilité a été découverte dans StormShield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 27 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0248/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0247/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0246/)|Une vulnérabilité a été découverte dans Mitel MiContact Center Business. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 27 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0245/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0244/)|Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 27 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0243/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu Gemfire. Elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un problème de sécurité non spécifié par l'éditeur.|Publié le 27 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 26 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0241/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2025-2783 est activement exploitée.|Publié le 26 mars 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0240/)|Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. La vulnérabilité |Publié le 26 mars 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-28-01-2025-46216" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities dated 28/01/2025</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-28-01-2025-46216)|An attacker can use several vulnerabilities of Centreon Web, dated 28/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Request-Forgery-dated-28-01-2025-46215" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Request Forgery dated 28/01/2025</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Request-Forgery-dated-28-01-2025-46215)|An attacker can trigger a Cross Site Request Forgery of OTRS Help Desk, dated 28/01/2025, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-Cookie-HTTPS-Sessions-Flags-46214" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via Cookie HTTPS Sessions Flags</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-Cookie-HTTPS-Sessions-Flags-46214)|An attacker can bypass access restrictions to data of OTRS Help Desk, via Cookie HTTPS Sessions Flags, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-SMTP-Password-Errors-46213" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via SMTP Password Errors</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-SMTP-Password-Errors-46213)|An attacker can bypass access restrictions to data of OTRS Help Desk, via SMTP Password Errors, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-write-access-via-Generic-Interface-Ticket-Status-46212" class="noirorange"><b>OTRS Help Desk</b>: write access via Generic Interface Ticket Status</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-write-access-via-Generic-Interface-Ticket-Status-46212)|An attacker can bypass access restrictions of OTRS Help Desk, via Generic Interface Ticket Status, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-mem-c-46589" class="noirorange"><b>FFmpeg</b>: memory leak via libavutil/mem.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-mem-c-46589)|An attacker can create a memory leak of FFmpeg, via libavutil/mem.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-weak-encryption-via-Weak-Password-Hashing-46210" class="noirorange"><b>Wind River VxWorks</b>: weak encryption via Weak Password Hashing</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-weak-encryption-via-Weak-Password-Hashing-46210)|An attacker can access data on Wind River VxWorks, via Weak Password Hashing, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-CLI-46585" class="noirorange"><b>PAN-OS</b>: file reading via CLI</a>](https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-CLI-46585)|An attacker can read a file of PAN-OS, via CLI, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Client-weak-encryption-dated-27-01-2025-46208" class="noirorange"><b>IBM Storage Protect Client</b>: weak encryption dated 27/01/2025</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Client-weak-encryption-dated-27-01-2025-46208)|An attacker can access data on IBM Storage Protect Client, dated 27/01/2025, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-weak-encryption-via-getrandom-46206" class="noirorange"><b>GNU C Library</b>: weak encryption via getrandom()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-weak-encryption-via-getrandom-46206)|An attacker can access data on GNU C Library, via getrandom(), in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PDNS-Recursor-overload-via-Specific-RRSets-Result-Caching-46222" class="noirorange"><b>PDNS Recursor</b>: overload via Specific RRSets Result Caching</a>](https://vigilance.fr/vulnerability/PDNS-Recursor-overload-via-Specific-RRSets-Result-Caching-46222)|An attacker can trigger an overload of PDNS Recursor, via Specific RRSets Result Caching, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-OpenID-Connect-Authentication-user-access-via-Account-Linking-Logic-46220" class="noirorange"><b>TYPO3 OpenID Connect Authentication</b>: user access via Account Linking Logic</a>](https://vigilance.fr/vulnerability/TYPO3-OpenID-Connect-Authentication-user-access-via-Account-Linking-Logic-46220)|An attacker can bypass restrictions of TYPO3 OpenID Connect Authentication, via Account Linking Logic, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libvpx-Chrome-Firefox-memory-corruption-via-Thread-Count-Change-42417" class="noirorange"><b>libvpx  Chrome  Firefox</b>: memory corruption via Thread Count Change</a>](https://vigilance.fr/vulnerability/libvpx-Chrome-Firefox-memory-corruption-via-Thread-Count-Change-42417)|An attacker can trigger a memory corruption of libvpx  Chrome  Firefox, via Thread Count Change, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Imaplib-Module-46219" class="noirorange"><b>Python Core</b>: denial of service via Imaplib Module</a>](https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Imaplib-Module-46219)|An attacker can cause a fatal error of Python Core, via Imaplib Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamViewer-Clients-for-Windows-privilege-escalation-via-TeamViewer-service-exe-Argument-Injection-46218" class="noirorange"><b>TeamViewer Clients for Windows</b>: privilege escalation via TeamViewer_service.<wbr>exe Argument Injection</wbr></a>](https://vigilance.fr/vulnerability/TeamViewer-Clients-for-Windows-privilege-escalation-via-TeamViewer-service-exe-Argument-Injection-46218)|An attacker can bypass restrictions of TeamViewer Clients for Windows, via TeamViewer_service.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-open-redirect-via-Management-Console-46591" class="noirorange"><b>Dell NetWorker</b>: open redirect via Management Console</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-open-redirect-via-Management-Console-46591)|An attacker can deceive the user of Dell NetWorker, via Management Console, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-vulnerability-via-Victorops-Url-46217" class="noirorange"><b>Grafana</b>: vulnerability via Victorops Url</a>](https://vigilance.fr/vulnerability/Grafana-vulnerability-via-Victorops-Url-46217)|A vulnerability of Grafana, via Victorops Url, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-28-01-2025-46216" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities dated 28/01/2025</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-28-01-2025-46216)|An attacker can use several vulnerabilities of Centreon Web, dated 28/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Request-Forgery-dated-28-01-2025-46215" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Request Forgery dated 28/01/2025</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Request-Forgery-dated-28-01-2025-46215)|An attacker can trigger a Cross Site Request Forgery of OTRS Help Desk, dated 28/01/2025, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-Cookie-HTTPS-Sessions-Flags-46214" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via Cookie HTTPS Sessions Flags</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-Cookie-HTTPS-Sessions-Flags-46214)|An attacker can bypass access restrictions to data of OTRS Help Desk, via Cookie HTTPS Sessions Flags, in order to read sensitive information...|Visit link for details|
  
  ---
 
