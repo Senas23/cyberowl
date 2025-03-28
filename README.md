@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/03/2025 21:23:16 UTC
+ > Last Updated 28/03/2025 09:27:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-CLI-46585" class="noirorange"><b>PAN-OS</b>: file reading via CLI</a>](https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-CLI-46585)|An attacker can read a file of PAN-OS, via CLI, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Client-weak-encryption-dated-27-01-2025-46208" class="noirorange"><b>IBM Storage Protect Client</b>: weak encryption dated 27/01/2025</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Client-weak-encryption-dated-27-01-2025-46208)|An attacker can access data on IBM Storage Protect Client, dated 27/01/2025, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-weak-encryption-via-getrandom-46206" class="noirorange"><b>GNU C Library</b>: weak encryption via getrandom()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-weak-encryption-via-getrandom-46206)|An attacker can access data on GNU C Library, via getrandom(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-assert-46205" class="noirorange"><b>GNU C Library</b>: buffer overflow via assert()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-assert-46205)|An attacker can trigger a buffer overflow of GNU C Library, via assert(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vyper-write-access-via-AugAssign-Statements-46579" class="noirorange"><b>Vyper</b>: write access via AugAssign Statements</a>](https://vigilance.fr/vulnerability/Vyper-write-access-via-AugAssign-Statements-46579)|An attacker can bypass access restrictions of Vyper, via AugAssign Statements, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vyper-write-access-via-Sqrt-Babylonian-Method-46577" class="noirorange"><b>Vyper</b>: write access via Sqrt Babylonian Method</a>](https://vigilance.fr/vulnerability/Vyper-write-access-via-Sqrt-Babylonian-Method-46577)|An attacker can bypass access restrictions of Vyper, via Sqrt Babylonian Method, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vyper-write-access-via-Precompiles-EcRecover-Identity-46576" class="noirorange"><b>Vyper</b>: write access via Precompiles EcRecover Identity</a>](https://vigilance.fr/vulnerability/Vyper-write-access-via-Precompiles-EcRecover-Identity-46576)|An attacker can bypass access restrictions of Vyper, via Precompiles EcRecover Identity, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-file-reading-via-Poller-Standard-Error-Log-Path-46204" class="noirorange"><b>Cacti</b>: file reading via Poller Standard Error Log Path</a>](https://vigilance.fr/vulnerability/Cacti-file-reading-via-Poller-Standard-Error-Log-Path-46204)|An attacker can read a file of Cacti, via Poller Standard Error Log Path, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Request-Automation-Devices-46200" class="noirorange"><b>Cacti</b>: SQL injection via Request Automation Devices</a>](https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-Request-Automation-Devices-46200)|An attacker can use a SQL injection of Cacti, via Request Automation Devices, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-code-execution-via-Multi-line-SNMP-Responses-46202" class="noirorange"><b>Cacti</b>: code execution via Multi-line SNMP Responses</a>](https://vigilance.fr/vulnerability/Cacti-code-execution-via-Multi-line-SNMP-Responses-46202)|An attacker can use a vulnerability of Cacti, via Multi-line SNMP Responses, in order to run code...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 26 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0241/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2025-2783 est activement exploitée.|Publié le 26 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0240/)|Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. La vulnérabilité |Publié le 26 mars 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-28-01-2025-46216" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities dated 28/01/2025</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-28-01-2025-46216)|An attacker can use several vulnerabilities of Centreon Web, dated 28/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Request-Forgery-dated-28-01-2025-46215" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Request Forgery dated 28/01/2025</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Request-Forgery-dated-28-01-2025-46215)|An attacker can trigger a Cross Site Request Forgery of OTRS Help Desk, dated 28/01/2025, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-Cookie-HTTPS-Sessions-Flags-46214" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via Cookie HTTPS Sessions Flags</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-Cookie-HTTPS-Sessions-Flags-46214)|An attacker can bypass access restrictions to data of OTRS Help Desk, via Cookie HTTPS Sessions Flags, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-SMTP-Password-Errors-46213" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via SMTP Password Errors</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-SMTP-Password-Errors-46213)|An attacker can bypass access restrictions to data of OTRS Help Desk, via SMTP Password Errors, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-write-access-via-Generic-Interface-Ticket-Status-46212" class="noirorange"><b>OTRS Help Desk</b>: write access via Generic Interface Ticket Status</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-write-access-via-Generic-Interface-Ticket-Status-46212)|An attacker can bypass access restrictions of OTRS Help Desk, via Generic Interface Ticket Status, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-mem-c-46589" class="noirorange"><b>FFmpeg</b>: memory leak via libavutil/mem.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-mem-c-46589)|An attacker can create a memory leak of FFmpeg, via libavutil/mem.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-weak-encryption-via-Weak-Password-Hashing-46210" class="noirorange"><b>Wind River VxWorks</b>: weak encryption via Weak Password Hashing</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-weak-encryption-via-Weak-Password-Hashing-46210)|An attacker can access data on Wind River VxWorks, via Weak Password Hashing, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-CLI-46585" class="noirorange"><b>PAN-OS</b>: file reading via CLI</a>](https://vigilance.fr/vulnerability/PAN-OS-file-reading-via-CLI-46585)|An attacker can read a file of PAN-OS, via CLI, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Client-weak-encryption-dated-27-01-2025-46208" class="noirorange"><b>IBM Storage Protect Client</b>: weak encryption dated 27/01/2025</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Client-weak-encryption-dated-27-01-2025-46208)|An attacker can access data on IBM Storage Protect Client, dated 27/01/2025, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-weak-encryption-via-getrandom-46206" class="noirorange"><b>GNU C Library</b>: weak encryption via getrandom()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-weak-encryption-via-getrandom-46206)|An attacker can access data on GNU C Library, via getrandom(), in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
