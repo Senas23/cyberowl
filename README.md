@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/03/2025 09:24:12 UTC
+ > Last Updated 29/03/2025 21:21:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-29-01-2025-46231" class="noirorange"><b>Go</b>: two vulnerabilities dated 29/01/2025</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-29-01-2025-46231)|An attacker can use several vulnerabilities of Go, dated 29/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rack-write-access-via-Sendfile-X-Sendfile-Type-Header-46604" class="noirorange"><b>Rack</b>: write access via Sendfile X-Sendfile-Type Header</a>](https://vigilance.fr/vulnerability/Rack-write-access-via-Sendfile-X-Sendfile-Type-Header-46604)|An attacker can bypass access restrictions of Rack, via Sendfile X-Sendfile-Type Header, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-libavformat-mov-c-46602" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via libavformat/mov.c</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-libavformat-mov-c-46602)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via libavformat/mov.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-dated-14-03-2025-46600" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference dated 14/03/2025</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-dated-14-03-2025-46600)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, dated 14/03/2025, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/path-to-regexp-overload-dated-29-01-2025-46228" class="noirorange"><b>path-to-regexp</b>: overload dated 29/01/2025</a>](https://vigilance.fr/vulnerability/path-to-regexp-overload-dated-29-01-2025-46228)|An attacker can trigger an overload of path-to-regexp, dated 29/01/2025, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vaultwarden-three-vulnerabilities-dated-13-09-2024-46226" class="noirorange"><b>Vaultwarden</b>: three vulnerabilities dated 13/09/2024</a>](https://vigilance.fr/vulnerability/Vaultwarden-three-vulnerabilities-dated-13-09-2024-46226)|An attacker can use several vulnerabilities of Vaultwarden, dated 13/09/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Abseil-integer-overflow-via-Hash-Container-Create-Resize-46225" class="noirorange"><b>Abseil</b>: integer overflow via Hash Container Create/Resize</a>](https://vigilance.fr/vulnerability/Abseil-integer-overflow-via-Hash-Container-Create-Resize-46225)|An attacker can trigger an integer overflow of Abseil, via Hash Container Create/Resize, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vaultwarden-privilege-escalation-via-Groups-Updating-46224" class="noirorange"><b>Vaultwarden</b>: privilege escalation via Groups Updating</a>](https://vigilance.fr/vulnerability/Vaultwarden-privilege-escalation-via-Groups-Updating-46224)|An attacker can bypass restrictions of Vaultwarden, via Groups Updating, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vaultwarden-three-vulnerabilities-dated-29-01-2025-46223" class="noirorange"><b>Vaultwarden</b>: three vulnerabilities dated 29/01/2025</a>](https://vigilance.fr/vulnerability/Vaultwarden-three-vulnerabilities-dated-29-01-2025-46223)|An attacker can use several vulnerabilities of Vaultwarden, dated 29/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PDNS-Recursor-overload-via-Specific-RRSets-Result-Caching-46222" class="noirorange"><b>PDNS Recursor</b>: overload via Specific RRSets Result Caching</a>](https://vigilance.fr/vulnerability/PDNS-Recursor-overload-via-Specific-RRSets-Result-Caching-46222)|An attacker can trigger an overload of PDNS Recursor, via Specific RRSets Result Caching, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/path-to-regexp-overload-dated-29-01-2025-46228" class="noirorange"><b>path-to-regexp</b>: overload dated 29/01/2025</a>](https://vigilance.fr/vulnerability/path-to-regexp-overload-dated-29-01-2025-46228)|An attacker can trigger an overload of path-to-regexp, dated 29/01/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vaultwarden-three-vulnerabilities-dated-13-09-2024-46226" class="noirorange"><b>Vaultwarden</b>: three vulnerabilities dated 13/09/2024</a>](https://vigilance.fr/vulnerability/Vaultwarden-three-vulnerabilities-dated-13-09-2024-46226)|An attacker can use several vulnerabilities of Vaultwarden, dated 13/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Abseil-integer-overflow-via-Hash-Container-Create-Resize-46225" class="noirorange"><b>Abseil</b>: integer overflow via Hash Container Create/Resize</a>](https://vigilance.fr/vulnerability/Abseil-integer-overflow-via-Hash-Container-Create-Resize-46225)|An attacker can trigger an integer overflow of Abseil, via Hash Container Create/Resize, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vaultwarden-privilege-escalation-via-Groups-Updating-46224" class="noirorange"><b>Vaultwarden</b>: privilege escalation via Groups Updating</a>](https://vigilance.fr/vulnerability/Vaultwarden-privilege-escalation-via-Groups-Updating-46224)|An attacker can bypass restrictions of Vaultwarden, via Groups Updating, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vaultwarden-three-vulnerabilities-dated-29-01-2025-46223" class="noirorange"><b>Vaultwarden</b>: three vulnerabilities dated 29/01/2025</a>](https://vigilance.fr/vulnerability/Vaultwarden-three-vulnerabilities-dated-29-01-2025-46223)|An attacker can use several vulnerabilities of Vaultwarden, dated 29/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PDNS-Recursor-overload-via-Specific-RRSets-Result-Caching-46222" class="noirorange"><b>PDNS Recursor</b>: overload via Specific RRSets Result Caching</a>](https://vigilance.fr/vulnerability/PDNS-Recursor-overload-via-Specific-RRSets-Result-Caching-46222)|An attacker can trigger an overload of PDNS Recursor, via Specific RRSets Result Caching, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-OpenID-Connect-Authentication-user-access-via-Account-Linking-Logic-46220" class="noirorange"><b>TYPO3 OpenID Connect Authentication</b>: user access via Account Linking Logic</a>](https://vigilance.fr/vulnerability/TYPO3-OpenID-Connect-Authentication-user-access-via-Account-Linking-Logic-46220)|An attacker can bypass restrictions of TYPO3 OpenID Connect Authentication, via Account Linking Logic, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvpx-Chrome-Firefox-memory-corruption-via-Thread-Count-Change-42417" class="noirorange"><b>libvpx  Chrome  Firefox</b>: memory corruption via Thread Count Change</a>](https://vigilance.fr/vulnerability/libvpx-Chrome-Firefox-memory-corruption-via-Thread-Count-Change-42417)|An attacker can trigger a memory corruption of libvpx  Chrome  Firefox, via Thread Count Change, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Imaplib-Module-46219" class="noirorange"><b>Python Core</b>: denial of service via Imaplib Module</a>](https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Imaplib-Module-46219)|An attacker can cause a fatal error of Python Core, via Imaplib Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamViewer-Clients-for-Windows-privilege-escalation-via-TeamViewer-service-exe-Argument-Injection-46218" class="noirorange"><b>TeamViewer Clients for Windows</b>: privilege escalation via TeamViewer_service.<wbr>exe Argument Injection</wbr></a>](https://vigilance.fr/vulnerability/TeamViewer-Clients-for-Windows-privilege-escalation-via-TeamViewer-service-exe-Argument-Injection-46218)|An attacker can bypass restrictions of TeamViewer Clients for Windows, via TeamViewer_service.|Visit link for details|
  
  ---
 
