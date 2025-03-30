@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/03/2025 09:23:31 UTC
+ > Last Updated 30/03/2025 21:21:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MIT-krb5-buffer-overflow-via-Incremental-Propagation-Iprop-Log-File-46244" class="noirorange"><b>MIT krb5</b>: buffer overflow via Incremental Propagation Iprop Log File</a>](https://vigilance.fr/vulnerability/MIT-krb5-buffer-overflow-via-Incremental-Propagation-Iprop-Log-File-46244)|An attacker can trigger a buffer overflow of MIT krb5, via Incremental Propagation Iprop Log File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Unquoted-Search-Path-46242" class="noirorange"><b>Dell NetWorker</b>: privilege escalation via Unquoted Search Path</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Unquoted-Search-Path-46242)|An attacker can bypass restrictions of Dell NetWorker, via Unquoted Search Path, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Google-Tag-Cross-Site-Request-Forgery-dated-30-01-2025-46241" class="noirorange"><b>Drupal Google Tag</b>: Cross Site Request Forgery dated 30/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Google-Tag-Cross-Site-Request-Forgery-dated-30-01-2025-46241)|An attacker can trigger a Cross Site Request Forgery of Drupal Google Tag, dated 30/01/2025, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Google-Tag-Cross-Site-Scripting-dated-30-01-2025-46240" class="noirorange"><b>Drupal Google Tag</b>: Cross Site Scripting dated 30/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Google-Tag-Cross-Site-Scripting-dated-30-01-2025-46240)|An attacker can trigger a Cross Site Scripting of Drupal Google Tag, dated 30/01/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Request-Forgery-via-Tag-Manager-46237" class="noirorange"><b>Drupal Matomo Analytics</b>: Cross Site Request Forgery via Tag Manager</a>](https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Request-Forgery-via-Tag-Manager-46237)|An attacker can trigger a Cross Site Request Forgery of Drupal Matomo Analytics, via Tag Manager, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FlightGear-directory-traversal-via-Nasal-Scripts-46236" class="noirorange"><b>FlightGear</b>: directory traversal via Nasal Scripts</a>](https://vigilance.fr/vulnerability/FlightGear-directory-traversal-via-Nasal-Scripts-46236)|An attacker can traverse directories of FlightGear, via Nasal Scripts, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-file-reading-via-System-Files-46233" class="noirorange"><b>FreeBSD</b>: file reading via System Files</a>](https://vigilance.fr/vulnerability/FreeBSD-file-reading-via-System-Files-46233)|An attacker can read a file of FreeBSD, via System Files, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-NFS-46232" class="noirorange"><b>FreeBSD</b>: buffer overflow via NFS</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-NFS-46232)|An attacker can trigger a buffer overflow of FreeBSD, via NFS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-29-01-2025-46231" class="noirorange"><b>Go</b>: two vulnerabilities dated 29/01/2025</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-29-01-2025-46231)|An attacker can use several vulnerabilities of Go, dated 29/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rack-write-access-via-Sendfile-X-Sendfile-Type-Header-46604" class="noirorange"><b>Rack</b>: write access via Sendfile X-Sendfile-Type Header</a>](https://vigilance.fr/vulnerability/Rack-write-access-via-Sendfile-X-Sendfile-Type-Header-46604)|An attacker can bypass access restrictions of Rack, via Sendfile X-Sendfile-Type Header, in order to alter data...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0248/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0247/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 mars 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0246/)|Une vulnérabilité a été découverte dans Mitel MiContact Center Business. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 27 mars 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Unquoted-Search-Path-46242" class="noirorange"><b>Dell NetWorker</b>: privilege escalation via Unquoted Search Path</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-privilege-escalation-via-Unquoted-Search-Path-46242)|An attacker can bypass restrictions of Dell NetWorker, via Unquoted Search Path, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Google-Tag-Cross-Site-Request-Forgery-dated-30-01-2025-46241" class="noirorange"><b>Drupal Google Tag</b>: Cross Site Request Forgery dated 30/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Google-Tag-Cross-Site-Request-Forgery-dated-30-01-2025-46241)|An attacker can trigger a Cross Site Request Forgery of Drupal Google Tag, dated 30/01/2025, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Google-Tag-Cross-Site-Scripting-dated-30-01-2025-46240" class="noirorange"><b>Drupal Google Tag</b>: Cross Site Scripting dated 30/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Google-Tag-Cross-Site-Scripting-dated-30-01-2025-46240)|An attacker can trigger a Cross Site Scripting of Drupal Google Tag, dated 30/01/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Request-Forgery-via-Tag-Manager-46237" class="noirorange"><b>Drupal Matomo Analytics</b>: Cross Site Request Forgery via Tag Manager</a>](https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Request-Forgery-via-Tag-Manager-46237)|An attacker can trigger a Cross Site Request Forgery of Drupal Matomo Analytics, via Tag Manager, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FlightGear-directory-traversal-via-Nasal-Scripts-46236" class="noirorange"><b>FlightGear</b>: directory traversal via Nasal Scripts</a>](https://vigilance.fr/vulnerability/FlightGear-directory-traversal-via-Nasal-Scripts-46236)|An attacker can traverse directories of FlightGear, via Nasal Scripts, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-file-reading-via-System-Files-46233" class="noirorange"><b>FreeBSD</b>: file reading via System Files</a>](https://vigilance.fr/vulnerability/FreeBSD-file-reading-via-System-Files-46233)|An attacker can read a file of FreeBSD, via System Files, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-NFS-46232" class="noirorange"><b>FreeBSD</b>: buffer overflow via NFS</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-NFS-46232)|An attacker can trigger a buffer overflow of FreeBSD, via NFS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-29-01-2025-46231" class="noirorange"><b>Go</b>: two vulnerabilities dated 29/01/2025</a>](https://vigilance.fr/vulnerability/Go-two-vulnerabilities-dated-29-01-2025-46231)|An attacker can use several vulnerabilities of Go, dated 29/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rack-write-access-via-Sendfile-X-Sendfile-Type-Header-46604" class="noirorange"><b>Rack</b>: write access via Sendfile X-Sendfile-Type Header</a>](https://vigilance.fr/vulnerability/Rack-write-access-via-Sendfile-X-Sendfile-Type-Header-46604)|An attacker can bypass access restrictions of Rack, via Sendfile X-Sendfile-Type Header, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-libavformat-mov-c-46602" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via libavformat/mov.c</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-libavformat-mov-c-46602)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via libavformat/mov.c, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
