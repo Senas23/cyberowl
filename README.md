@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/03/2025 21:23:46 UTC
+ > Last Updated 01/04/2025 09:27:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,18 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-read-write-access-via-Zip-File-46607" class="noirorange"><b>Vim</b>: read-write access via Zip File</a>](https://vigilance.fr/vulnerability/Vim-read-write-access-via-Zip-File-46607)|An attacker can bypass access restrictions of Vim, via Zip File, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-urllib-parse-urlsplit-46248" class="noirorange"><b>Python Core</b>: ingress filtrering bypass via urllib.parse.<wbr>urlsplit()</wbr></a>](https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-urllib-parse-urlsplit-46248)|An attacker can bypass filtering rules of Python Core, via urllib.parse.|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/CA-Privileged-Access-Manager-vulnerability-dated-31-01-2025-46246" class="noirorange"><b>CA Privileged Access Manager</b>: vulnerability dated 31/01/2025</a>](https://vigilance.fr/vulnerability/CA-Privileged-Access-Manager-vulnerability-dated-31-01-2025-46246)|A vulnerability of CA Privileged Access Manager, dated 31/01/2025, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LemonLdap-NG-Cross-Site-Request-Forgery-via-2FA-Registration-46245" class="noirorange"><b>LemonLdap-NG</b>: Cross Site Request Forgery via 2FA Registration</a>](https://vigilance.fr/vulnerability/LemonLdap-NG-Cross-Site-Request-Forgery-via-2FA-Registration-46245)|An attacker can trigger a Cross Site Request Forgery of LemonLdap::NG, via 2FA Registration, in order to force the victim to perform operations...|Visit link for details|
@@ -60,14 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Google-Tag-Cross-Site-Scripting-dated-30-01-2025-46240" class="noirorange"><b>Drupal Google Tag</b>: Cross Site Scripting dated 30/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Google-Tag-Cross-Site-Scripting-dated-30-01-2025-46240)|An attacker can trigger a Cross Site Scripting of Drupal Google Tag, dated 30/01/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Request-Forgery-via-Tag-Manager-46237" class="noirorange"><b>Drupal Matomo Analytics</b>: Cross Site Request Forgery via Tag Manager</a>](https://vigilance.fr/vulnerability/Drupal-Matomo-Analytics-Cross-Site-Request-Forgery-via-Tag-Manager-46237)|An attacker can trigger a Cross Site Request Forgery of Drupal Matomo Analytics, via Tag Manager, in order to force the victim to perform operations...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FlightGear-directory-traversal-via-Nasal-Scripts-46236" class="noirorange"><b>FlightGear</b>: directory traversal via Nasal Scripts</a>](https://vigilance.fr/vulnerability/FlightGear-directory-traversal-via-Nasal-Scripts-46236)|An attacker can traverse directories of FlightGear, via Nasal Scripts, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-file-reading-via-System-Files-46233" class="noirorange"><b>FreeBSD</b>: file reading via System Files</a>](https://vigilance.fr/vulnerability/FreeBSD-file-reading-via-System-Files-46233)|An attacker can read a file of FreeBSD, via System Files, in order to obtain sensitive information...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
