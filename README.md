@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/04/2025 21:25:26 UTC
+ > Last Updated 05/04/2025 09:22:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Regularlabs-Sourcer-directory-traversal-dated-05-02-2025-46286" class="noirorange"><b>Joomla Regularlabs Sourcer</b>: directory traversal dated 05/02/2025</a>](https://vigilance.fr/vulnerability/Joomla-Regularlabs-Sourcer-directory-traversal-dated-05-02-2025-46286)|An attacker can traverse directories of Joomla Regularlabs Sourcer, dated 05/02/2025, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-JS-Jobs-SQL-injection-dated-05-02-2025-46285" class="noirorange"><b>Joomla JS Jobs</b>: SQL injection dated 05/02/2025</a>](https://vigilance.fr/vulnerability/Joomla-JS-Jobs-SQL-injection-dated-05-02-2025-46285)|An attacker can use a SQL injection of Joomla JS Jobs, dated 05/02/2025, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libcurl-integer-overflow-via-Gzip-Decompression-46284" class="noirorange"><b>libcurl</b>: integer overflow via Gzip Decompression</a>](https://vigilance.fr/vulnerability/libcurl-integer-overflow-via-Gzip-Decompression-46284)|An attacker can trigger an integer overflow of libcurl, via Gzip Decompression, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/curl-information-disclosure-via-HTTP-Redirects-Netrc-File-46282" class="noirorange"><b>curl</b>: information disclosure via HTTP Redirects Netrc File</a>](https://vigilance.fr/vulnerability/curl-information-disclosure-via-HTTP-Redirects-Netrc-File-46282)|An attacker can bypass access restrictions to data of curl, via HTTP Redirects Netrc File, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-Networking-ClearPass-Policy-Manager-multiple-vulnerabilities-dated-05-02-2025-46281" class="noirorange"><b>HPE Aruba Networking ClearPass Policy Manager</b>: multiple vulnerabilities dated 05/02/2025</a>](https://vigilance.fr/vulnerability/HPE-Aruba-Networking-ClearPass-Policy-Manager-multiple-vulnerabilities-dated-05-02-2025-46281)|An attacker can use several vulnerabilities of HPE Aruba Networking ClearPass Policy Manager, dated 05/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fluent-Bit-vulnerability-dated-21-03-2025-46645" class="noirorange"><b>Fluent Bit</b>: vulnerability dated 21/03/2025</a>](https://vigilance.fr/vulnerability/Fluent-Bit-vulnerability-dated-21-03-2025-46645)|A vulnerability of Fluent Bit, dated 21/03/2025, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libarchive-denial-of-service-via-list-item-verbose-46644" class="noirorange"><b>libarchive</b>: denial of service via list_item_verbose()</a>](https://vigilance.fr/vulnerability/libarchive-denial-of-service-via-list-item-verbose-46644)|An attacker can cause a fatal error of libarchive, via list_item_verbose(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-bsdunzip-c-46643" class="noirorange"><b>libarchive</b>: NULL pointer dereference via bsdunzip.c</a>](https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-bsdunzip-c-46643)|An attacker can force a NULL pointer to be dereferenced on libarchive, via bsdunzip.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenCV-two-vulnerabilities-via-wechat-qrcode-Module-46277" class="noirorange"><b>OpenCV</b>: two vulnerabilities via wechat_qrcode Module</a>](https://vigilance.fr/vulnerability/OpenCV-two-vulnerabilities-via-wechat-qrcode-Module-46277)|An attacker can use several vulnerabilities of OpenCV, via wechat_qrcode Module...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenCV-out-of-bounds-memory-reading-via-ocl-calc-46276" class="noirorange"><b>OpenCV</b>: out-of-bounds memory reading via ocl_calc()</a>](https://vigilance.fr/vulnerability/OpenCV-out-of-bounds-memory-reading-via-ocl-calc-46276)|An attacker can force a read at an invalid memory address of OpenCV, via ocl_calc(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenCV-two-vulnerabilities-via-wechat-qrcode-Module-46277" class="noirorange"><b>OpenCV</b>: two vulnerabilities via wechat_qrcode Module</a>](https://vigilance.fr/vulnerability/OpenCV-two-vulnerabilities-via-wechat-qrcode-Module-46277)|An attacker can use several vulnerabilities of OpenCV, via wechat_qrcode Module...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenCV-out-of-bounds-memory-reading-via-ocl-calc-46276" class="noirorange"><b>OpenCV</b>: out-of-bounds memory reading via ocl_calc()</a>](https://vigilance.fr/vulnerability/OpenCV-out-of-bounds-memory-reading-via-ocl-calc-46276)|An attacker can force a read at an invalid memory address of OpenCV, via ocl_calc(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenCV-out-of-bounds-memory-reading-via-v-load-46275" class="noirorange"><b>OpenCV</b>: out-of-bounds memory reading via v_load()</a>](https://vigilance.fr/vulnerability/OpenCV-out-of-bounds-memory-reading-via-v-load-46275)|An attacker can force a read at an invalid memory address of OpenCV, via v_load(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-Man-in-the-Middle-via-Administrators-Authentication-46273" class="noirorange"><b>Synology DSM</b>: Man-in-the-Middle via Administrators Authentication</a>](https://vigilance.fr/vulnerability/Synology-DSM-Man-in-the-Middle-via-Administrators-Authentication-46273)|An attacker can act as a Man-in-the-Middle on Synology DSM, via Administrators Authentication, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Managed-System-Services-44661" class="noirorange"><b>IBM i</b>: privilege escalation via Managed System Services</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Managed-System-Services-44661)|An attacker can bypass restrictions of IBM i, via Managed System Services, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/fastd-overload-via-Unknown-IP-Address-Port-Combination-46267" class="noirorange"><b>fastd</b>: overload via Unknown IP Address/Port Combination</a>](https://vigilance.fr/vulnerability/fastd-overload-via-Unknown-IP-Address-Port-Combination-46267)|An attacker can trigger an overload of fastd, via Unknown IP Address/Port Combination, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OVN-ingress-filtrering-bypass-via-UDP-Packets-46266" class="noirorange"><b>OVN</b>: ingress filtrering bypass via UDP Packets</a>](https://vigilance.fr/vulnerability/OVN-ingress-filtrering-bypass-via-UDP-Packets-46266)|An attacker can bypass filtering rules of OVN, via UDP Packets, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Cassandra-ingress-filtrering-bypass-via-CassandraNetworkAuthorizer-CassandraCIDRAuthorizer-46265" class="noirorange"><b>Apache Cassandra</b>: ingress filtrering bypass via CassandraNetworkAuth<wbr>orizer / CassandraCIDRAuthori<wbr>zer</wbr></wbr></a>](https://vigilance.fr/vulnerability/Apache-Cassandra-ingress-filtrering-bypass-via-CassandraNetworkAuthorizer-CassandraCIDRAuthorizer-46265)|An attacker can bypass filtering rules of Apache Cassandra, via CassandraNetworkAuth|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Cassandra-privilege-escalation-via-ALL-KEYSPACES-MODIFY-Permission-46264" class="noirorange"><b>Apache Cassandra</b>: privilege escalation via ALL KEYSPACES MODIFY Permission</a>](https://vigilance.fr/vulnerability/Apache-Cassandra-privilege-escalation-via-ALL-KEYSPACES-MODIFY-Permission-46264)|An attacker can bypass restrictions of Apache Cassandra, via ALL KEYSPACES MODIFY Permission, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Cassandra-user-access-via-JMX-Authentication-Credentials-Deserialization-46263" class="noirorange"><b>Apache Cassandra</b>: user access via JMX Authentication Credentials Deserialization</a>](https://vigilance.fr/vulnerability/Apache-Cassandra-user-access-via-JMX-Authentication-Credentials-Deserialization-46263)|An attacker can bypass restrictions of Apache Cassandra, via JMX Authentication Credentials Deserialization, in order to gain user privileges...|Visit link for details|
  
  ---
 
