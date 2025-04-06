@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/04/2025 21:22:51 UTC
+ > Last Updated 06/04/2025 09:25:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Twig-Cross-Site-Scripting-via-Question-Operator-46300" class="noirorange"><b>Twig</b>: Cross Site Scripting via Question Operator</a>](https://vigilance.fr/vulnerability/Twig-Cross-Site-Scripting-via-Question-Operator-46300)|An attacker can trigger a Cross Site Scripting of Twig, via Question Operator, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nf-tables-Expired-Duplicate-46299" class="noirorange"><b>Linux kernel</b>: denial of service via nf_tables Expired Duplicate</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nf-tables-Expired-Duplicate-46299)|An attacker can cause a fatal error of the Linux kernel, via nf_tables Expired Duplicate, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/nginx-read-write-access-via-SSL-Session-Resumption-Client-Certificate-Authentication-46294" class="noirorange"><b>nginx</b>: read-write access via SSL Session Resumption Client Certificate Authentication</a>](https://vigilance.fr/vulnerability/nginx-read-write-access-via-SSL-Session-Resumption-Client-Certificate-Authentication-46294)|An attacker can bypass access restrictions of nginx, via SSL Session Resumption Client Certificate Authentication, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-OAuth2-Client-Cross-Site-Request-Forgery-dated-05-02-2025-46293" class="noirorange"><b>Drupal OAuth2 Client</b>: Cross Site Request Forgery dated 05/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-OAuth2-Client-Cross-Site-Request-Forgery-dated-05-02-2025-46293)|An attacker can trigger a Cross Site Request Forgery of Drupal OAuth2 Client, dated 05/02/2025, in order to force the victim to perform operations...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-IOS-XR-denial-of-service-via-SNMP-46292" class="noirorange"><b>Cisco IOS  IOS XE  IOS XR</b>: denial of service via SNMP</a>](https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-IOS-XR-denial-of-service-via-SNMP-46292)|An attacker can cause a fatal error of Cisco IOS  IOS XE  IOS XR, via SNMP, in order to trigger a denial of service...|Visit link for details|
@@ -42,8 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-SMA-WSA-information-disclosure-via-SNMP-Polling-46289" class="noirorange"><b>Cisco AsyncOS  ESA  SMA  WSA</b>: information disclosure via SNMP Polling</a>](https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-SMA-WSA-information-disclosure-via-SNMP-Polling-46289)|An attacker can bypass access restrictions to data of Cisco AsyncOS  ESA  SMA  WSA, via SNMP Polling, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-SMA-WSA-two-vulnerabilities-dated-05-02-2025-46288" class="noirorange"><b>Cisco AsyncOS  ESA  SMA  WSA</b>: two vulnerabilities dated 05/02/2025</a>](https://vigilance.fr/vulnerability/Cisco-AsyncOS-ESA-SMA-WSA-two-vulnerabilities-dated-05-02-2025-46288)|An attacker can use several vulnerabilities of Cisco AsyncOS  ESA  SMA  WSA, dated 05/02/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-Avamar-user-access-via-AUI-Access-Token-Reuse-46287" class="noirorange"><b>Dell Avamar</b>: user access via AUI Access Token Reuse</a>](https://vigilance.fr/vulnerability/Dell-Avamar-user-access-via-AUI-Access-Token-Reuse-46287)|An attacker can bypass restrictions of Dell Avamar, via AUI Access Token Reuse, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Regularlabs-Sourcer-directory-traversal-dated-05-02-2025-46286" class="noirorange"><b>Joomla Regularlabs Sourcer</b>: directory traversal dated 05/02/2025</a>](https://vigilance.fr/vulnerability/Joomla-Regularlabs-Sourcer-directory-traversal-dated-05-02-2025-46286)|An attacker can traverse directories of Joomla Regularlabs Sourcer, dated 05/02/2025, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-JS-Jobs-SQL-injection-dated-05-02-2025-46285" class="noirorange"><b>Joomla JS Jobs</b>: SQL injection dated 05/02/2025</a>](https://vigilance.fr/vulnerability/Joomla-JS-Jobs-SQL-injection-dated-05-02-2025-46285)|An attacker can use a SQL injection of Joomla JS Jobs, dated 05/02/2025, in order to read or alter data...|Visit link for details|
  
  ---
 
