@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/04/2025 21:23:15 UTC
+ > Last Updated 08/04/2025 21:23:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,7 +34,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0280/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 07 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 04 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0278/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 04 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 04 avril 2025|
@@ -44,6 +43,7 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0273/)|Une vulnérabilité a été découverte dans les produits Ivanti. Elle permet à un attaquant de provoquer une une exécution de code arbitraire à distance. Ivanti indique que la vulnérabilité CVE-2025-22457 est activement exploitée.|Publié le 03 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0272/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 03 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0271/)|Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 03 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0270/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 03 avril 2025|
  
  ---
 
