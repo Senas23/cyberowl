@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/04/2025 21:23:41 UTC
+ > Last Updated 09/04/2025 09:27:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF).|Publié le 08 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0284/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 08 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0283/)|De multiples vulnérabilités ont été découvertes dans dans VMware Tanzu Greenplum. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 08 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0282/)|De multiples vulnérabilités ont été découvertes dans Schneider Electric ConneXium Network Manager. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 08 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0281/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service. Google indique que les vulnérabilités CVE-2024-53150 et...|Publié le 08 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0280/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 07 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 04 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0278/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 04 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 04 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 04 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 04 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une injection indirecte à distance (XSS).|Publié le 04 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0273/)|Une vulnérabilité a été découverte dans les produits Ivanti. Elle permet à un attaquant de provoquer une une exécution de code arbitraire à distance. Ivanti indique que la vulnérabilité CVE-2025-22457 est activement exploitée.|Publié le 03 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0272/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 03 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0271/)|Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 03 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0270/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 03 avril 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -51,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-five-vulnerabilities-dated-09-07-2024-44678" class="noirorange"><b>Node.js Core</b>: five vulnerabilities dated 09/07/2024</a>](https://vigilance.fr/vulnerability/Node-js-Core-five-vulnerabilities-dated-09-07-2024-44678)|An attacker can use several vulnerabilities of Node.js Core, dated 09/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/elfutils-NULL-pointer-dereference-via-handle-verdef-46660" class="noirorange"><b>elfutils</b>: NULL pointer dereference via handle_verdef()</a>](https://vigilance.fr/vulnerability/elfutils-NULL-pointer-dereference-via-handle-verdef-46660)|An attacker can force a NULL pointer to be dereferenced on elfutils, via handle_verdef(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/go-getter-code-execution-via-Git-Discover-Remote-Branches-46310" class="noirorange"><b>go-getter</b>: code execution via Git Discover Remote Branches</a>](https://vigilance.fr/vulnerability/go-getter-code-execution-via-Git-Discover-Remote-Branches-46310)|An attacker can use a vulnerability of go-getter, via Git Discover Remote Branches, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Check-Point-Quantum-Security-Management-out-of-bounds-memory-reading-via-CPCA-Process-46308" class="noirorange"><b>Check Point Quantum Security Management</b>: out-of-bounds memory reading via CPCA Process</a>](https://vigilance.fr/vulnerability/Check-Point-Quantum-Security-Management-out-of-bounds-memory-reading-via-CPCA-Process-46308)|An attacker can force a read at an invalid memory address of Check Point Quantum Security Management, via CPCA Process, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-MFP-denial-of-service-dated-07-02-2025-46307" class="noirorange"><b>HP LaserJet Pro MFP</b>: denial of service dated 07/02/2025</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-MFP-denial-of-service-dated-07-02-2025-46307)|An attacker can cause a fatal error of HP LaserJet Pro MFP, dated 07/02/2025, in order to trigger a denial of service...|Visit link for details|
@@ -59,15 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/etcd-two-vulnerabilities-dated-06-02-2025-46303" class="noirorange"><b>etcd</b>: two vulnerabilities dated 06/02/2025</a>](https://vigilance.fr/vulnerability/etcd-two-vulnerabilities-dated-06-02-2025-46303)|An attacker can use several vulnerabilities of etcd, dated 06/02/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Wget-information-disclosure-via-Authorization-Header-Redirect-46302" class="noirorange"><b>GNU Wget</b>: information disclosure via Authorization Header Redirect</a>](https://vigilance.fr/vulnerability/GNU-Wget-information-disclosure-via-Authorization-Header-Redirect-46302)|An attacker can bypass access restrictions to data of GNU Wget, via Authorization Header Redirect, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kaspersky-Anti-Virus-buffer-overflow-dated-06-02-2025-46301" class="noirorange"><b>Kaspersky Anti-Virus</b>: buffer overflow dated 06/02/2025</a>](https://vigilance.fr/vulnerability/Kaspersky-Anti-Virus-buffer-overflow-dated-06-02-2025-46301)|An attacker can trigger a buffer overflow of Kaspersky Anti-Virus, dated 06/02/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Twig-Cross-Site-Scripting-via-Question-Operator-46300" class="noirorange"><b>Twig</b>: Cross Site Scripting via Question Operator</a>](https://vigilance.fr/vulnerability/Twig-Cross-Site-Scripting-via-Question-Operator-46300)|An attacker can trigger a Cross Site Scripting of Twig, via Question Operator, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nf-tables-Expired-Duplicate-46299" class="noirorange"><b>Linux kernel</b>: denial of service via nf_tables Expired Duplicate</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nf-tables-Expired-Duplicate-46299)|An attacker can cause a fatal error of the Linux kernel, via nf_tables Expired Duplicate, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
