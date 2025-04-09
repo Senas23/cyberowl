@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/04/2025 09:27:36 UTC
+ > Last Updated 09/04/2025 21:21:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,23 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF).|Publié le 08 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0284/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 08 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0283/)|De multiples vulnérabilités ont été découvertes dans dans VMware Tanzu Greenplum. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 08 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0282/)|De multiples vulnérabilités ont été découvertes dans Schneider Electric ConneXium Network Manager. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 08 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0281/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service. Google indique que les vulnérabilités CVE-2024-53150 et...|Publié le 08 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0280/)|Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 07 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 04 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0278/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 04 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 04 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 04 avril 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0298/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 09 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0297/)|Une vulnérabilité a été découverte dans Spring Cloud Config. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 09 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer une injection SQL (SQLi) et un contournement de la politique de sécurité.|Publié le 09 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0295/)|De multiples vulnérabilités ont été découvertes dans Ivanti Endpoint Manager (EPM). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0294/)|De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 09 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0293/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0292/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 09 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0291/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 09 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0290/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0289/)|Une vulnérabilité a été découverte dans Microsoft .Net. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 09 avril 2025|
  
  ---
 
@@ -58,16 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-July-2024-44692" class="noirorange"><b>Microsoft SQL Server</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-July-2024-44692)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2024-44691" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-July-2024-44691)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-July-2024-44690" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-July-2024-44690)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-July-2024-44689" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-July-2024-44689)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-July-2024-44687" class="noirorange"><b>SAP</b>: multiple vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-July-2024-44687)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Siemens-RUGGEDCOM-ROS-four-vulnerabilities-dated-09-07-2024-44683" class="noirorange"><b>Siemens RUGGEDCOM ROS</b>: four vulnerabilities dated 09/07/2024</a>](https://vigilance.fr/vulnerability/Siemens-RUGGEDCOM-ROS-four-vulnerabilities-dated-09-07-2024-44683)|An attacker can use several vulnerabilities of Siemens RUGGEDCOM ROS, dated 09/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxslt-information-disclosure-via-Heap-Global-Pointers-Difference-46666" class="noirorange"><b>libxslt</b>: information disclosure via Heap Global Pointers Difference</a>](https://vigilance.fr/vulnerability/libxslt-information-disclosure-via-Heap-Global-Pointers-Difference-46666)|An attacker can bypass access restrictions to data of libxslt, via Heap Global Pointers Difference, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-SIGALRM-44681" class="noirorange"><b>OpenSSH</b>: code execution via SIGALRM</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-SIGALRM-44681)|An attacker can use a vulnerability of OpenSSH, via SIGALRM, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-five-vulnerabilities-dated-09-07-2024-44678" class="noirorange"><b>Node.js Core</b>: five vulnerabilities dated 09/07/2024</a>](https://vigilance.fr/vulnerability/Node-js-Core-five-vulnerabilities-dated-09-07-2024-44678)|An attacker can use several vulnerabilities of Node.js Core, dated 09/07/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/elfutils-NULL-pointer-dereference-via-handle-verdef-46660" class="noirorange"><b>elfutils</b>: NULL pointer dereference via handle_verdef()</a>](https://vigilance.fr/vulnerability/elfutils-NULL-pointer-dereference-via-handle-verdef-46660)|An attacker can force a NULL pointer to be dereferenced on elfutils, via handle_verdef(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/go-getter-code-execution-via-Git-Discover-Remote-Branches-46310" class="noirorange"><b>go-getter</b>: code execution via Git Discover Remote Branches</a>](https://vigilance.fr/vulnerability/go-getter-code-execution-via-Git-Discover-Remote-Branches-46310)|An attacker can use a vulnerability of go-getter, via Git Discover Remote Branches, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Check-Point-Quantum-Security-Management-out-of-bounds-memory-reading-via-CPCA-Process-46308" class="noirorange"><b>Check Point Quantum Security Management</b>: out-of-bounds memory reading via CPCA Process</a>](https://vigilance.fr/vulnerability/Check-Point-Quantum-Security-Management-out-of-bounds-memory-reading-via-CPCA-Process-46308)|An attacker can force a read at an invalid memory address of Check Point Quantum Security Management, via CPCA Process, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-Pro-MFP-denial-of-service-dated-07-02-2025-46307" class="noirorange"><b>HP LaserJet Pro MFP</b>: denial of service dated 07/02/2025</a>](https://vigilance.fr/vulnerability/HP-LaserJet-Pro-MFP-denial-of-service-dated-07-02-2025-46307)|An attacker can cause a fatal error of HP LaserJet Pro MFP, dated 07/02/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-dated-07-02-2025-46306" class="noirorange"><b>Microsoft Edge Chromium</b>: seven vulnerabilities dated 07/02/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-seven-vulnerabilities-dated-07-02-2025-46306)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 07/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-code-execution-via-EctEnhancedCT-46304" class="noirorange"><b>DCMTK</b>: code execution via EctEnhancedCT()</a>](https://vigilance.fr/vulnerability/DCMTK-code-execution-via-EctEnhancedCT-46304)|An attacker can use a vulnerability of DCMTK, via EctEnhancedCT(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/etcd-two-vulnerabilities-dated-06-02-2025-46303" class="noirorange"><b>etcd</b>: two vulnerabilities dated 06/02/2025</a>](https://vigilance.fr/vulnerability/etcd-two-vulnerabilities-dated-06-02-2025-46303)|An attacker can use several vulnerabilities of etcd, dated 06/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Wget-information-disclosure-via-Authorization-Header-Redirect-46302" class="noirorange"><b>GNU Wget</b>: information disclosure via Authorization Header Redirect</a>](https://vigilance.fr/vulnerability/GNU-Wget-information-disclosure-via-Authorization-Header-Redirect-46302)|An attacker can bypass access restrictions to data of GNU Wget, via Authorization Header Redirect, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kaspersky-Anti-Virus-buffer-overflow-dated-06-02-2025-46301" class="noirorange"><b>Kaspersky Anti-Virus</b>: buffer overflow dated 06/02/2025</a>](https://vigilance.fr/vulnerability/Kaspersky-Anti-Virus-buffer-overflow-dated-06-02-2025-46301)|An attacker can trigger a buffer overflow of Kaspersky Anti-Virus, dated 06/02/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
