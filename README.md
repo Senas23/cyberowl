@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/04/2025 21:23:29 UTC
+ > Last Updated 11/04/2025 09:26:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583" class="noirorange"><b>Windows</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-ingress-filtrering-bypass-via-USB-Restricted-Mode-46326" class="noirorange"><b>Apple iOS</b>: ingress filtrering bypass via USB Restricted Mode</a>](https://vigilance.fr/vulnerability/Apple-iOS-ingress-filtrering-bypass-via-USB-Restricted-Mode-46326)|An attacker can bypass filtering rules of Apple iOS, via USB Restricted Mode, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-ingress-filtrering-bypass-via-IP-Reassemble-Overlapping-Fragments-46325" class="noirorange"><b>OpenBSD</b>: ingress filtrering bypass via IP Reassemble Overlapping Fragments</a>](https://vigilance.fr/vulnerability/OpenBSD-ingress-filtrering-bypass-via-IP-Reassemble-Overlapping-Fragments-46325)|An attacker can bypass filtering rules of OpenBSD, via IP Reassemble Overlapping Fragments, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-Scrolling-Redraw-46324" class="noirorange"><b>Vim</b>: memory corruption via Scrolling Redraw</a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-Scrolling-Redraw-46324)|An attacker can trigger a memory corruption of Vim, via Scrolling Redraw, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-information-disclosure-via-Event-Logs-46322" class="noirorange"><b>Centreon Web</b>: information disclosure via Event Logs</a>](https://vigilance.fr/vulnerability/Centreon-Web-information-disclosure-via-Event-Logs-46322)|An attacker can bypass access restrictions to data of Centreon Web, via Event Logs, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-10-07-2024-44698" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 10/07/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-10-07-2024-44698)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 10/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-10-02-2025-46321" class="noirorange"><b>Linux kernel</b>: three vulnerabilities dated 10/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-10-02-2025-46321)|An attacker can use several vulnerabilities of the Linux kernel, dated 10/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-information-disclosure-via-crypto-elliptic-46320" class="noirorange"><b>Go</b>: information disclosure via crypto/elliptic</a>](https://vigilance.fr/vulnerability/Go-information-disclosure-via-crypto-elliptic-46320)|An attacker can bypass access restrictions to data of Go, via crypto/elliptic, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuTLS-overload-via-Certificate-Numerous-Name-Constraints-46319" class="noirorange"><b>GnuTLS</b>: overload via Certificate Numerous Name Constraints</a>](https://vigilance.fr/vulnerability/GnuTLS-overload-via-Certificate-Numerous-Name-Constraints-46319)|An attacker can trigger an overload of GnuTLS, via Certificate Numerous Name Constraints, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenRefine-seven-vulnerabilities-dated-10-02-2025-46318" class="noirorange"><b>OpenRefine</b>: seven vulnerabilities dated 10/02/2025</a>](https://vigilance.fr/vulnerability/OpenRefine-seven-vulnerabilities-dated-10-02-2025-46318)|An attacker can use several vulnerabilities of OpenRefine, dated 10/02/2025...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0297/)|Une vulnérabilité a été découverte dans Spring Cloud Config. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 09 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0296/)|De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer une injection SQL (SQLi) et un contournement de la politique de sécurité.|Publié le 09 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0295/)|De multiples vulnérabilités ont été découvertes dans Ivanti Endpoint Manager (EPM). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 avril 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-42600)|An attacker can use several vulnerabilities of Chrome  Edge  Opera...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-UPDATE-44708" class="noirorange"><b>Juniper Junos OS</b>: denial of service via BGP UPDATE</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-denial-of-service-via-BGP-UPDATE-44708)|An attacker can send malicious BGP UPDATE packets to Juniper Junos OS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-SRX-Series-EX-Series-privilege-escalation-via-J-Web-44707" class="noirorange"><b>Juniper SRX-Series  EX-Series</b>: privilege escalation via J-Web</a>](https://vigilance.fr/vulnerability/Juniper-SRX-Series-EX-Series-privilege-escalation-via-J-Web-44707)|An attacker can bypass restrictions of Juniper SRX-Series  EX-Series, via J-Web, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-net-imap-overload-via-Highly-Compressed-Uid-set-Data-46330" class="noirorange"><b>Ruby net-imap</b>: overload via Highly Compressed Uid-set Data</a>](https://vigilance.fr/vulnerability/Ruby-net-imap-overload-via-Highly-Compressed-Uid-set-Data-46330)|An attacker can trigger an overload of Ruby net-imap, via Highly Compressed Uid-set Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-six-vulnerabilities-dated-11-07-2024-44706" class="noirorange"><b>GitLab CE/EE</b>: six vulnerabilities dated 11/07/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-six-vulnerabilities-dated-11-07-2024-44706)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 11/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-02-2025-46328" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 11/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-02-2025-46328)|An attacker can use several vulnerabilities of the Linux kernel, dated 11/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libtasn1-overload-via-Certificate-Numerous-Sequences-46327" class="noirorange"><b>libtasn1</b>: overload via Certificate Numerous Sequences</a>](https://vigilance.fr/vulnerability/libtasn1-overload-via-Certificate-Numerous-Sequences-46327)|An attacker can trigger an overload of libtasn1, via Certificate Numerous Sequences, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583" class="noirorange"><b>Windows</b>: vulnerabilities of October 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2023-42583)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-ingress-filtrering-bypass-via-USB-Restricted-Mode-46326" class="noirorange"><b>Apple iOS</b>: ingress filtrering bypass via USB Restricted Mode</a>](https://vigilance.fr/vulnerability/Apple-iOS-ingress-filtrering-bypass-via-USB-Restricted-Mode-46326)|An attacker can bypass filtering rules of Apple iOS, via USB Restricted Mode, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-ingress-filtrering-bypass-via-IP-Reassemble-Overlapping-Fragments-46325" class="noirorange"><b>OpenBSD</b>: ingress filtrering bypass via IP Reassemble Overlapping Fragments</a>](https://vigilance.fr/vulnerability/OpenBSD-ingress-filtrering-bypass-via-IP-Reassemble-Overlapping-Fragments-46325)|An attacker can bypass filtering rules of OpenBSD, via IP Reassemble Overlapping Fragments, in order to send malicious data...|Visit link for details|
  
  ---
 
