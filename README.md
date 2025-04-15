@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/04/2025 21:24:34 UTC
+ > Last Updated 15/04/2025 09:28:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-mimetypes-denial-of-service-via-Windows-Default-Mimetype-Files-46395" class="noirorange"><b>Python Core mimetypes</b>: denial of service via Windows Default Mimetype Files</a>](https://vigilance.fr/vulnerability/Python-Core-mimetypes-denial-of-service-via-Windows-Default-Mimetype-Files-46395)|An attacker can cause a fatal error of Python Core mimetypes, via Windows Default Mimetype Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ProFTPD-NULL-pointer-dereference-via-mod-ls-c-46393" class="noirorange"><b>ProFTPD</b>: NULL pointer dereference via mod_ls.c</a>](https://vigilance.fr/vulnerability/ProFTPD-NULL-pointer-dereference-via-mod-ls-c-46393)|An attacker can force a NULL pointer to be dereferenced on ProFTPD, via mod_ls.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-14-02-2025-46392" class="noirorange"><b>Linux kernel</b>: two vulnerabilities dated 14/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-14-02-2025-46392)|An attacker can use several vulnerabilities of the Linux kernel, dated 14/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-46391" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-46391)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-overload-via-Kubelet-Checkpoint-API-46389" class="noirorange"><b>Kubernetes</b>: overload via Kubelet Checkpoint API</a>](https://vigilance.fr/vulnerability/Kubernetes-overload-via-Kubelet-Checkpoint-API-46389)|An attacker can trigger an overload of Kubernetes, via Kubelet Checkpoint API, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dotclear-three-vulnerabilities-dated-13-02-2025-46388" class="noirorange"><b>Dotclear</b>: three vulnerabilities dated 13/02/2025</a>](https://vigilance.fr/vulnerability/Dotclear-three-vulnerabilities-dated-13-02-2025-46388)|An attacker can use several vulnerabilities of Dotclear, dated 13/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-02-2025-46387" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 13/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-02-2025-46387)|An attacker can use several vulnerabilities of the Linux kernel, dated 13/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Platinum-Upnp-SDK-information-disclosure-via-privacy-avi-46386" class="noirorange"><b>Platinum Upnp SDK</b>: information disclosure via privacy.avi</a>](https://vigilance.fr/vulnerability/Platinum-Upnp-SDK-information-disclosure-via-privacy-avi-46386)|An attacker can bypass access restrictions to data of Platinum Upnp SDK, via privacy.avi, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-via-Web-Content-46383" class="noirorange"><b>WebKitGTK</b>: denial of service via Web Content</a>](https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-via-Web-Content-46383)|An attacker can cause a fatal error of WebKitGTK, via Web Content, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Configuration-Split-Cross-Site-Request-Forgery-dated-12-02-2025-46380" class="noirorange"><b>Drupal Configuration Split</b>: Cross Site Request Forgery dated 12/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-Configuration-Split-Cross-Site-Request-Forgery-dated-12-02-2025-46380)|An attacker can trigger a Cross Site Request Forgery of Drupal Configuration Split, dated 12/02/2025, in order to force the victim to perform operations...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 10 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 10 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans Sonicwall NetExtender. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 10 avril 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-Telemetry-44745" class="noirorange"><b>Juniper Junos OS</b>: memory leak via Telemetry</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-Telemetry-44745)|An attacker can create a memory leak of Juniper Junos OS, via Telemetry, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-15-07-2024-44742" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 15/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-15-07-2024-44742)|An attacker can use several vulnerabilities of the Linux kernel, dated 15/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-mimetypes-denial-of-service-via-Windows-Default-Mimetype-Files-46395" class="noirorange"><b>Python Core mimetypes</b>: denial of service via Windows Default Mimetype Files</a>](https://vigilance.fr/vulnerability/Python-Core-mimetypes-denial-of-service-via-Windows-Default-Mimetype-Files-46395)|An attacker can cause a fatal error of Python Core mimetypes, via Windows Default Mimetype Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ProFTPD-NULL-pointer-dereference-via-mod-ls-c-46393" class="noirorange"><b>ProFTPD</b>: NULL pointer dereference via mod_ls.c</a>](https://vigilance.fr/vulnerability/ProFTPD-NULL-pointer-dereference-via-mod-ls-c-46393)|An attacker can force a NULL pointer to be dereferenced on ProFTPD, via mod_ls.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-14-02-2025-46392" class="noirorange"><b>Linux kernel</b>: two vulnerabilities dated 14/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-14-02-2025-46392)|An attacker can use several vulnerabilities of the Linux kernel, dated 14/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-46391" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-46391)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-overload-via-Kubelet-Checkpoint-API-46389" class="noirorange"><b>Kubernetes</b>: overload via Kubelet Checkpoint API</a>](https://vigilance.fr/vulnerability/Kubernetes-overload-via-Kubelet-Checkpoint-API-46389)|An attacker can trigger an overload of Kubernetes, via Kubelet Checkpoint API, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dotclear-three-vulnerabilities-dated-13-02-2025-46388" class="noirorange"><b>Dotclear</b>: three vulnerabilities dated 13/02/2025</a>](https://vigilance.fr/vulnerability/Dotclear-three-vulnerabilities-dated-13-02-2025-46388)|An attacker can use several vulnerabilities of Dotclear, dated 13/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-02-2025-46387" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 13/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-02-2025-46387)|An attacker can use several vulnerabilities of the Linux kernel, dated 13/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Platinum-Upnp-SDK-information-disclosure-via-privacy-avi-46386" class="noirorange"><b>Platinum Upnp SDK</b>: information disclosure via privacy.avi</a>](https://vigilance.fr/vulnerability/Platinum-Upnp-SDK-information-disclosure-via-privacy-avi-46386)|An attacker can bypass access restrictions to data of Platinum Upnp SDK, via privacy.avi, in order to read sensitive information...|Visit link for details|
  
  ---
 
