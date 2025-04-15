@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/04/2025 09:28:23 UTC
+ > Last Updated 15/04/2025 21:23:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0313/)|Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 15 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0312/)|Une vulnérabilité a été découverte dans Mattermost Desktop. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0311/)|Une vulnérabilité a été découverte dans Microsoft Visual Studio Code. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 14 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0310/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 14 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0309/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 11 avril 2025|
@@ -42,8 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0306/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 11 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0305/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 11 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 10 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 10 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans Sonicwall NetExtender. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 10 avril 2025|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Restic-information-disclosure-via-Content-defined-Chunking-Algorithm-46706" class="noirorange"><b>Restic</b>: information disclosure via Content-defined Chunking Algorithm</a>](https://vigilance.fr/vulnerability/Restic-information-disclosure-via-Content-defined-Chunking-Algorithm-46706)|An attacker can bypass access restrictions to data of Restic, via Content-defined Chunking Algorithm, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-privilege-escalation-via-Enhanced-Authentication-Plug-in-44746" class="noirorange"><b>VMware vCenter Server</b>: privilege escalation via Enhanced Authentication Plug-in</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-privilege-escalation-via-Enhanced-Authentication-Plug-in-44746)|An attacker can bypass restrictions of VMware vCenter Server, via Enhanced Authentication Plug-in, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-Telemetry-44745" class="noirorange"><b>Juniper Junos OS</b>: memory leak via Telemetry</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-Telemetry-44745)|An attacker can create a memory leak of Juniper Junos OS, via Telemetry, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-15-07-2024-44742" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 15/07/2024</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-15-07-2024-44742)|An attacker can use several vulnerabilities of the Linux kernel, dated 15/07/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-mimetypes-denial-of-service-via-Windows-Default-Mimetype-Files-46395" class="noirorange"><b>Python Core mimetypes</b>: denial of service via Windows Default Mimetype Files</a>](https://vigilance.fr/vulnerability/Python-Core-mimetypes-denial-of-service-via-Windows-Default-Mimetype-Files-46395)|An attacker can cause a fatal error of Python Core mimetypes, via Windows Default Mimetype Files, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-46391" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-46391)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-overload-via-Kubelet-Checkpoint-API-46389" class="noirorange"><b>Kubernetes</b>: overload via Kubelet Checkpoint API</a>](https://vigilance.fr/vulnerability/Kubernetes-overload-via-Kubelet-Checkpoint-API-46389)|An attacker can trigger an overload of Kubernetes, via Kubelet Checkpoint API, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dotclear-three-vulnerabilities-dated-13-02-2025-46388" class="noirorange"><b>Dotclear</b>: three vulnerabilities dated 13/02/2025</a>](https://vigilance.fr/vulnerability/Dotclear-three-vulnerabilities-dated-13-02-2025-46388)|An attacker can use several vulnerabilities of Dotclear, dated 13/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-02-2025-46387" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 13/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-02-2025-46387)|An attacker can use several vulnerabilities of the Linux kernel, dated 13/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Platinum-Upnp-SDK-information-disclosure-via-privacy-avi-46386" class="noirorange"><b>Platinum Upnp SDK</b>: information disclosure via privacy.avi</a>](https://vigilance.fr/vulnerability/Platinum-Upnp-SDK-information-disclosure-via-privacy-avi-46386)|An attacker can bypass access restrictions to data of Platinum Upnp SDK, via privacy.avi, in order to read sensitive information...|Visit link for details|
  
  ---
 
