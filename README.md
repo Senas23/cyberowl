@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/04/2025 21:23:18 UTC
+ > Last Updated 16/04/2025 09:28:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Broadcom-Layer7-Privileged-Access-Management-nine-vulnerabilities-dated-16-07-2024-44754" class="noirorange"><b>Broadcom Layer7 Privileged Access Management</b>: nine vulnerabilities dated 16/07/2024</a>](https://vigilance.fr/vulnerability/Broadcom-Layer7-Privileged-Access-Management-nine-vulnerabilities-dated-16-07-2024-44754)|An attacker can use several vulnerabilities of Broadcom Layer7 Privileged Access Management, dated 16/07/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Restic-information-disclosure-via-Content-defined-Chunking-Algorithm-46706" class="noirorange"><b>Restic</b>: information disclosure via Content-defined Chunking Algorithm</a>](https://vigilance.fr/vulnerability/Restic-information-disclosure-via-Content-defined-Chunking-Algorithm-46706)|An attacker can bypass access restrictions to data of Restic, via Content-defined Chunking Algorithm, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-privilege-escalation-via-Enhanced-Authentication-Plug-in-44746" class="noirorange"><b>VMware vCenter Server</b>: privilege escalation via Enhanced Authentication Plug-in</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-privilege-escalation-via-Enhanced-Authentication-Plug-in-44746)|An attacker can bypass restrictions of VMware vCenter Server, via Enhanced Authentication Plug-in, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-Telemetry-44745" class="noirorange"><b>Juniper Junos OS</b>: memory leak via Telemetry</a>](https://vigilance.fr/vulnerability/Juniper-Junos-OS-memory-leak-via-Telemetry-44745)|An attacker can create a memory leak of Juniper Junos OS, via Telemetry, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-14-02-2025-46392" class="noirorange"><b>Linux kernel</b>: two vulnerabilities dated 14/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-14-02-2025-46392)|An attacker can use several vulnerabilities of the Linux kernel, dated 14/02/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-46391" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-46391)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-overload-via-Kubelet-Checkpoint-API-46389" class="noirorange"><b>Kubernetes</b>: overload via Kubelet Checkpoint API</a>](https://vigilance.fr/vulnerability/Kubernetes-overload-via-Kubelet-Checkpoint-API-46389)|An attacker can trigger an overload of Kubernetes, via Kubelet Checkpoint API, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dotclear-three-vulnerabilities-dated-13-02-2025-46388" class="noirorange"><b>Dotclear</b>: three vulnerabilities dated 13/02/2025</a>](https://vigilance.fr/vulnerability/Dotclear-three-vulnerabilities-dated-13-02-2025-46388)|An attacker can use several vulnerabilities of Dotclear, dated 13/02/2025...|Visit link for details|
  
  ---
 
