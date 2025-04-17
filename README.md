@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/04/2025 09:27:05 UTC
+ > Last Updated 17/04/2025 21:23:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-seven-vulnerabilities-of-July-2024-44770" class="noirorange"><b>Oracle Fusion Middleware</b>: seven vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-seven-vulnerabilities-of-July-2024-44770)|An attacker can use several vulnerabilities of Oracle Fusion Middleware...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-five-vulnerabilities-of-July-2024-44769" class="noirorange"><b>Oracle Database</b>: five vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-Database-five-vulnerabilities-of-July-2024-44769)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Security-user-access-via-AuthenticationTrustResolver-isFullyAuthenticated-44768" class="noirorange"><b>Spring Security</b>: user access via AuthenticationTrustR<wbr>esolver.<wbr>isFullyAuthenticated<wbr>()</wbr></wbr></wbr></a>](https://vigilance.fr/vulnerability/Spring-Security-user-access-via-AuthenticationTrustResolver-isFullyAuthenticated-44768)|An attacker can bypass restrictions of Spring Security, via AuthenticationTrustR|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenJDK-Oracle-Java-six-vulnerabilities-of-July-2024-44767" class="noirorange"><b>OpenJDK  Oracle Java</b>: six vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/OpenJDK-Oracle-Java-six-vulnerabilities-of-July-2024-44767)|An attacker can use several vulnerabilities of OpenJDK  Oracle Java...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-ingress-filtrering-bypass-dated-16-02-2025-46397" class="noirorange"><b>Microsoft Edge Chromium</b>: ingress filtrering bypass dated 16/02/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-ingress-filtrering-bypass-dated-16-02-2025-46397)|An attacker can bypass filtering rules of Microsoft Edge Chromium, dated 16/02/2025, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-double-unlock-44764" class="noirorange"><b>Xen</b>: denial of service via double unlock</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-double-unlock-44764)|An attacker can cause a fatal error of Xen, via double unlock, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NagVis-multiple-vulnerabilities-dated-16-07-2024-44761" class="noirorange"><b>NagVis</b>: multiple vulnerabilities dated 16/07/2024</a>](https://vigilance.fr/vulnerability/NagVis-multiple-vulnerabilities-dated-16-07-2024-44761)|An attacker can use several vulnerabilities of NagVis, dated 16/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-user-get-46716" class="noirorange"><b>Zabbix</b>: information disclosure via user.get</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-user-get-46716)|An attacker can bypass access restrictions to data of Zabbix, via user.get, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Broadcom-Layer7-Privileged-Access-Management-nine-vulnerabilities-dated-16-07-2024-44754" class="noirorange"><b>Broadcom Layer7 Privileged Access Management</b>: nine vulnerabilities dated 16/07/2024</a>](https://vigilance.fr/vulnerability/Broadcom-Layer7-Privileged-Access-Management-nine-vulnerabilities-dated-16-07-2024-44754)|An attacker can use several vulnerabilities of Broadcom Layer7 Privileged Access Management, dated 16/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Restic-information-disclosure-via-Content-defined-Chunking-Algorithm-46706" class="noirorange"><b>Restic</b>: information disclosure via Content-defined Chunking Algorithm</a>](https://vigilance.fr/vulnerability/Restic-information-disclosure-via-Content-defined-Chunking-Algorithm-46706)|An attacker can bypass access restrictions to data of Restic, via Content-defined Chunking Algorithm, in order to read sensitive information...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0317/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 16 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0316/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 16 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0315/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 16 avril 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-Management-Console-46401" class="noirorange"><b>Dell NetWorker</b>: code execution via Management Console</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-Management-Console-46401)|An attacker can use a vulnerability of Dell NetWorker, via Management Console, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-multiple-vulnerabilities-dated-17-07-2024-44775" class="noirorange"><b>Google Chrome  Microsoft Edge  Opera</b>: multiple vulnerabilities dated 17/07/2024</a>](https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-multiple-vulnerabilities-dated-17-07-2024-44775)|An attacker can use several vulnerabilities of Google Chrome, dated 17/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-of-July-2024-44773" class="noirorange"><b>Oracle VM VirtualBox</b>: three vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-three-vulnerabilities-of-July-2024-44773)|An attacker can use several vulnerabilities of Oracle VM VirtualBox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-seven-vulnerabilities-of-July-2024-44770" class="noirorange"><b>Oracle Fusion Middleware</b>: seven vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-seven-vulnerabilities-of-July-2024-44770)|An attacker can use several vulnerabilities of Oracle Fusion Middleware...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-five-vulnerabilities-of-July-2024-44769" class="noirorange"><b>Oracle Database</b>: five vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/Oracle-Database-five-vulnerabilities-of-July-2024-44769)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Security-user-access-via-AuthenticationTrustResolver-isFullyAuthenticated-44768" class="noirorange"><b>Spring Security</b>: user access via AuthenticationTrustR<wbr>esolver.<wbr>isFullyAuthenticated<wbr>()</wbr></wbr></wbr></a>](https://vigilance.fr/vulnerability/Spring-Security-user-access-via-AuthenticationTrustResolver-isFullyAuthenticated-44768)|An attacker can bypass restrictions of Spring Security, via AuthenticationTrustR|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenJDK-Oracle-Java-six-vulnerabilities-of-July-2024-44767" class="noirorange"><b>OpenJDK  Oracle Java</b>: six vulnerabilities of July 2024</a>](https://vigilance.fr/vulnerability/OpenJDK-Oracle-Java-six-vulnerabilities-of-July-2024-44767)|An attacker can use several vulnerabilities of OpenJDK  Oracle Java...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-ingress-filtrering-bypass-dated-16-02-2025-46397" class="noirorange"><b>Microsoft Edge Chromium</b>: ingress filtrering bypass dated 16/02/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-ingress-filtrering-bypass-dated-16-02-2025-46397)|An attacker can bypass filtering rules of Microsoft Edge Chromium, dated 16/02/2025, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-double-unlock-44764" class="noirorange"><b>Xen</b>: denial of service via double unlock</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-double-unlock-44764)|An attacker can cause a fatal error of Xen, via double unlock, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NagVis-multiple-vulnerabilities-dated-16-07-2024-44761" class="noirorange"><b>NagVis</b>: multiple vulnerabilities dated 16/07/2024</a>](https://vigilance.fr/vulnerability/NagVis-multiple-vulnerabilities-dated-16-07-2024-44761)|An attacker can use several vulnerabilities of NagVis, dated 16/07/2024...|Visit link for details|
  
  ---
 
