@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/04/2025 09:23:02 UTC
+ > Last Updated 20/04/2025 21:22:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,30 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/DCMTK-three-vulnerabilities-dated-20-02-2025-46431" class="noirorange"><b>DCMTK</b>: three vulnerabilities dated 20/02/2025</a>](https://vigilance.fr/vulnerability/DCMTK-three-vulnerabilities-dated-20-02-2025-46431)|An attacker can use several vulnerabilities of DCMTK, dated 20/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-Mosquito-out-of-bounds-memory-reading-via-SUBACK-No-Reason-Codes-46430" class="noirorange"><b>Eclipse Mosquito</b>: out-of-bounds memory reading via SUBACK No Reason Codes</a>](https://vigilance.fr/vulnerability/Eclipse-Mosquito-out-of-bounds-memory-reading-via-SUBACK-No-Reason-Codes-46430)|An attacker can force a read at an invalid memory address of Eclipse Mosquito, via SUBACK No Reason Codes, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-Mosquito-double-free-via-Outgoing-Bridge-Connection-Remapping-PUBLISH-46429" class="noirorange"><b>Eclipse Mosquito</b>: double free via Outgoing Bridge Connection Remapping PUBLISH</a>](https://vigilance.fr/vulnerability/Eclipse-Mosquito-double-free-via-Outgoing-Bridge-Connection-Remapping-PUBLISH-46429)|An attacker can force a double memory free of Eclipse Mosquito, via Outgoing Bridge Connection Remapping PUBLISH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exim-4-98-SQL-injection-via-hints-46427" class="noirorange"><b>Exim 4.98</b>: SQL injection via hints</a>](https://vigilance.fr/vulnerability/Exim-4-98-SQL-injection-via-hints-46427)|An attacker can use a SQL injection of Exim 4.98, via hints, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Bundle-Protocol-CBOR-Dissectors-46426" class="noirorange"><b>Wireshark</b>: denial of service via Bundle Protocol / CBOR Dissectors</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Bundle-Protocol-CBOR-Dissectors-46426)|An attacker can cause a fatal error of Wireshark, via Bundle Protocol / CBOR Dissectors, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-PHP-Object-Injection-46425" class="noirorange"><b>Drupal Core</b>: code execution via PHP Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-PHP-Object-Injection-46425)|An attacker can use a vulnerability of Drupal Core, via PHP Object Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-write-access-via-admin-content-46424" class="noirorange"><b>Drupal Core</b>: write access via /admin/content</a>](https://vigilance.fr/vulnerability/Drupal-Core-write-access-via-admin-content-46424)|An attacker can bypass access restrictions of Drupal Core, via /admin/content, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-Cross-Site-Scripting-dated-19-02-2025-46423" class="noirorange"><b>Drupal Core</b>: Cross Site Scripting dated 19/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-Core-Cross-Site-Scripting-dated-19-02-2025-46423)|An attacker can trigger a Cross Site Scripting of Drupal Core, dated 19/02/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Email-Gateway-ingress-filtrering-bypass-via-Email-Filter-46422" class="noirorange"><b>Cisco Secure Email Gateway</b>: ingress filtrering bypass via Email Filter</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Email-Gateway-ingress-filtrering-bypass-via-Email-Filter-46422)|An attacker can bypass filtering rules of Cisco Secure Email Gateway, via Email Filter, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-DLL-Search-Order-46772" class="noirorange"><b>ESET NOD32 Antivirus</b>: privilege escalation via DLL Search Order</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-DLL-Search-Order-46772)|An attacker can bypass restrictions of ESET NOD32 Antivirus, via DLL Search Order, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,30 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0330/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0329/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0328/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 17 avril 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Exim-4-98-SQL-injection-via-hints-46427" class="noirorange"><b>Exim 4.98</b>: SQL injection via hints</a>](https://vigilance.fr/vulnerability/Exim-4-98-SQL-injection-via-hints-46427)|An attacker can use a SQL injection of Exim 4.98, via hints, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Bundle-Protocol-CBOR-Dissectors-46426" class="noirorange"><b>Wireshark</b>: denial of service via Bundle Protocol / CBOR Dissectors</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Bundle-Protocol-CBOR-Dissectors-46426)|An attacker can cause a fatal error of Wireshark, via Bundle Protocol / CBOR Dissectors, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-PHP-Object-Injection-46425" class="noirorange"><b>Drupal Core</b>: code execution via PHP Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-PHP-Object-Injection-46425)|An attacker can use a vulnerability of Drupal Core, via PHP Object Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-write-access-via-admin-content-46424" class="noirorange"><b>Drupal Core</b>: write access via /admin/content</a>](https://vigilance.fr/vulnerability/Drupal-Core-write-access-via-admin-content-46424)|An attacker can bypass access restrictions of Drupal Core, via /admin/content, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-Cross-Site-Scripting-dated-19-02-2025-46423" class="noirorange"><b>Drupal Core</b>: Cross Site Scripting dated 19/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-Core-Cross-Site-Scripting-dated-19-02-2025-46423)|An attacker can trigger a Cross Site Scripting of Drupal Core, dated 19/02/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Email-Gateway-ingress-filtrering-bypass-via-Email-Filter-46422" class="noirorange"><b>Cisco Secure Email Gateway</b>: ingress filtrering bypass via Email Filter</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Email-Gateway-ingress-filtrering-bypass-via-Email-Filter-46422)|An attacker can bypass filtering rules of Cisco Secure Email Gateway, via Email Filter, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-DLL-Search-Order-46772" class="noirorange"><b>ESET NOD32 Antivirus</b>: privilege escalation via DLL Search Order</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-privilege-escalation-via-DLL-Search-Order-46772)|An attacker can bypass restrictions of ESET NOD32 Antivirus, via DLL Search Order, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netty-denial-of-service-via-Windows-Environment-File-46419" class="noirorange"><b>Netty</b>: denial of service via Windows Environment File</a>](https://vigilance.fr/vulnerability/Netty-denial-of-service-via-Windows-Environment-File-46419)|An attacker can cause a fatal error of Netty, via Windows Environment File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-buffer-overflow-via-Dashboard-Long-Title-46418" class="noirorange"><b>Grafana</b>: buffer overflow via Dashboard Long Title</a>](https://vigilance.fr/vulnerability/Grafana-buffer-overflow-via-Dashboard-Long-Title-46418)|An attacker can trigger a buffer overflow of Grafana, via Dashboard Long Title, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GRUB2-file-read-write-via-Encrypted-Disks-Shell-46416" class="noirorange"><b>GRUB2</b>: file read/write via Encrypted Disks Shell</a>](https://vigilance.fr/vulnerability/GRUB2-file-read-write-via-Encrypted-Disks-Shell-46416)|An attacker can bypass access restrictions of GRUB2, via Encrypted Disks Shell, in order to read or alter files...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
