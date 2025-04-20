@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/04/2025 21:23:47 UTC
+ > Last Updated 20/04/2025 09:23:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Exim-4-98-SQL-injection-via-hints-46427" class="noirorange"><b>Exim 4.98</b>: SQL injection via hints</a>](https://vigilance.fr/vulnerability/Exim-4-98-SQL-injection-via-hints-46427)|An attacker can use a SQL injection of Exim 4.98, via hints, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Bundle-Protocol-CBOR-Dissectors-46426" class="noirorange"><b>Wireshark</b>: denial of service via Bundle Protocol / CBOR Dissectors</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Bundle-Protocol-CBOR-Dissectors-46426)|An attacker can cause a fatal error of Wireshark, via Bundle Protocol / CBOR Dissectors, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-PHP-Object-Injection-46425" class="noirorange"><b>Drupal Core</b>: code execution via PHP Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-PHP-Object-Injection-46425)|An attacker can use a vulnerability of Drupal Core, via PHP Object Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-write-access-via-admin-content-46424" class="noirorange"><b>Drupal Core</b>: write access via /admin/content</a>](https://vigilance.fr/vulnerability/Drupal-Core-write-access-via-admin-content-46424)|An attacker can bypass access restrictions of Drupal Core, via /admin/content, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-Cross-Site-Scripting-dated-19-02-2025-46423" class="noirorange"><b>Drupal Core</b>: Cross Site Scripting dated 19/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-Core-Cross-Site-Scripting-dated-19-02-2025-46423)|An attacker can trigger a Cross Site Scripting of Drupal Core, dated 19/02/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Netty-denial-of-service-via-Windows-Environment-File-46419" class="noirorange"><b>Netty</b>: denial of service via Windows Environment File</a>](https://vigilance.fr/vulnerability/Netty-denial-of-service-via-Windows-Environment-File-46419)|An attacker can cause a fatal error of Netty, via Windows Environment File, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-buffer-overflow-via-Dashboard-Long-Title-46418" class="noirorange"><b>Grafana</b>: buffer overflow via Dashboard Long Title</a>](https://vigilance.fr/vulnerability/Grafana-buffer-overflow-via-Dashboard-Long-Title-46418)|An attacker can trigger a buffer overflow of Grafana, via Dashboard Long Title, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GRUB2-file-read-write-via-Encrypted-Disks-Shell-46416" class="noirorange"><b>GRUB2</b>: file read/write via Encrypted Disks Shell</a>](https://vigilance.fr/vulnerability/GRUB2-file-read-write-via-Encrypted-Disks-Shell-46416)|An attacker can bypass access restrictions of GRUB2, via Encrypted Disks Shell, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-HFS-Filesystem-Sblock-46415" class="noirorange"><b>GRUB2</b>: buffer overflow via HFS Filesystem Sblock</a>](https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-HFS-Filesystem-Sblock-46415)|An attacker can trigger a buffer overflow of GRUB2, via HFS Filesystem Sblock, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GRUB2-multiple-vulnerabilities-dated-18-02-2025-46414" class="noirorange"><b>GRUB2</b>: multiple vulnerabilities dated 18/02/2025</a>](https://vigilance.fr/vulnerability/GRUB2-multiple-vulnerabilities-dated-18-02-2025-46414)|An attacker can use several vulnerabilities of GRUB2, dated 18/02/2025...|Visit link for details|
  
  ---
 
