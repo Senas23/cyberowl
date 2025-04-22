@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/04/2025 09:27:05 UTC
+ > Last Updated 22/04/2025 21:23:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 22 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0340/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0339/)|Une vulnérabilité a été découverte dans PostgreSQL PgBouncer. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0338/)|Une vulnérabilité a été découverte dans Tenable Security Center. Elle permet à un attaquant de provoquer une injection SQL (SQLi).|Publié le 22 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 18 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 18 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 18 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 18 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0332/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 18 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0330/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0329/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0328/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 17 avril 2025|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/event-driven-ansible-information-disclosure-via-Inventory-Passwords-Debug-Verbosity-46784" class="noirorange"><b>event-driven-ansible</b>: information disclosure via Inventory Passwords Debug Verbosity</a>](https://vigilance.fr/vulnerability/event-driven-ansible-information-disclosure-via-Inventory-Passwords-Debug-Verbosity-46784)|An attacker can bypass access restrictions to data of event-driven-|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-code-execution-via-LDAP-Query-Elements-Script-Injection-46782" class="noirorange"><b>Dell Unisphere for PowerMax</b>: code execution via LDAP Query Elements Script Injection</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-code-execution-via-LDAP-Query-Elements-Script-Injection-46782)|An attacker can use a vulnerability of Dell Unisphere for PowerMax, via LDAP Query Elements Script Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/radare2-memory-corruption-via-rasm2-c-46435" class="noirorange"><b>radare2</b>: memory corruption via rasm2.c</a>](https://vigilance.fr/vulnerability/radare2-memory-corruption-via-rasm2-c-46435)|An attacker can trigger a memory corruption of radare2, via rasm2.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-Redirecting-46433" class="noirorange"><b>Vim</b>: use after free via Redirecting</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-Redirecting-46433)|An attacker can force the reuse of a freed memory area of Vim, via Redirecting, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/djoser-user-access-via-Custom-Authentication-Checks-46432" class="noirorange"><b>djoser</b>: user access via Custom Authentication Checks</a>](https://vigilance.fr/vulnerability/djoser-user-access-via-Custom-Authentication-Checks-46432)|An attacker can bypass restrictions of djoser, via Custom Authentication Checks, in order to gain user privileges...|Visit link for details|
@@ -59,19 +61,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Mosquito-double-free-via-Outgoing-Bridge-Connection-Remapping-PUBLISH-46429" class="noirorange"><b>Eclipse Mosquito</b>: double free via Outgoing Bridge Connection Remapping PUBLISH</a>](https://vigilance.fr/vulnerability/Eclipse-Mosquito-double-free-via-Outgoing-Bridge-Connection-Remapping-PUBLISH-46429)|An attacker can force a double memory free of Eclipse Mosquito, via Outgoing Bridge Connection Remapping PUBLISH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Exim-4-98-SQL-injection-via-hints-46427" class="noirorange"><b>Exim 4.98</b>: SQL injection via hints</a>](https://vigilance.fr/vulnerability/Exim-4-98-SQL-injection-via-hints-46427)|An attacker can use a SQL injection of Exim 4.98, via hints, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Bundle-Protocol-CBOR-Dissectors-46426" class="noirorange"><b>Wireshark</b>: denial of service via Bundle Protocol / CBOR Dissectors</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Bundle-Protocol-CBOR-Dissectors-46426)|An attacker can cause a fatal error of Wireshark, via Bundle Protocol / CBOR Dissectors, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-PHP-Object-Injection-46425" class="noirorange"><b>Drupal Core</b>: code execution via PHP Object Injection</a>](https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-PHP-Object-Injection-46425)|An attacker can use a vulnerability of Drupal Core, via PHP Object Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-write-access-via-admin-content-46424" class="noirorange"><b>Drupal Core</b>: write access via /admin/content</a>](https://vigilance.fr/vulnerability/Drupal-Core-write-access-via-admin-content-46424)|An attacker can bypass access restrictions of Drupal Core, via /admin/content, in order to alter data...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
