@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/04/2025 21:23:49 UTC
+ > Last Updated 23/04/2025 09:28:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Net-EasyTCP-weak-encryption-via-rand-Fallback-46794" class="noirorange"><b>Perl Net-EasyTCP</b>: weak encryption via rand() Fallback</a>](https://vigilance.fr/vulnerability/Perl-Net-EasyTCP-weak-encryption-via-rand-Fallback-46794)|An attacker can access data on Perl Net::EasyTCP, via rand() Fallback, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-via-Web-Content-46787" class="noirorange"><b>WebKitGTK</b>: denial of service via Web Content</a>](https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-via-Web-Content-46787)|An attacker can cause a fatal error of WebKitGTK, via Web Content, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/event-driven-ansible-information-disclosure-via-Inventory-Passwords-Debug-Verbosity-46784" class="noirorange"><b>event-driven-ansible</b>: information disclosure via Inventory Passwords Debug Verbosity</a>](https://vigilance.fr/vulnerability/event-driven-ansible-information-disclosure-via-Inventory-Passwords-Debug-Verbosity-46784)|An attacker can bypass access restrictions to data of event-driven-|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-code-execution-via-LDAP-Query-Elements-Script-Injection-46782" class="noirorange"><b>Dell Unisphere for PowerMax</b>: code execution via LDAP Query Elements Script Injection</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-code-execution-via-LDAP-Query-Elements-Script-Injection-46782)|An attacker can use a vulnerability of Dell Unisphere for PowerMax, via LDAP Query Elements Script Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/radare2-memory-corruption-via-rasm2-c-46435" class="noirorange"><b>radare2</b>: memory corruption via rasm2.c</a>](https://vigilance.fr/vulnerability/radare2-memory-corruption-via-rasm2-c-46435)|An attacker can trigger a memory corruption of radare2, via rasm2.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-three-vulnerabilities-dated-20-02-2025-46431" class="noirorange"><b>DCMTK</b>: three vulnerabilities dated 20/02/2025</a>](https://vigilance.fr/vulnerability/DCMTK-three-vulnerabilities-dated-20-02-2025-46431)|An attacker can use several vulnerabilities of DCMTK, dated 20/02/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Mosquito-out-of-bounds-memory-reading-via-SUBACK-No-Reason-Codes-46430" class="noirorange"><b>Eclipse Mosquito</b>: out-of-bounds memory reading via SUBACK No Reason Codes</a>](https://vigilance.fr/vulnerability/Eclipse-Mosquito-out-of-bounds-memory-reading-via-SUBACK-No-Reason-Codes-46430)|An attacker can force a read at an invalid memory address of Eclipse Mosquito, via SUBACK No Reason Codes, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Mosquito-double-free-via-Outgoing-Bridge-Connection-Remapping-PUBLISH-46429" class="noirorange"><b>Eclipse Mosquito</b>: double free via Outgoing Bridge Connection Remapping PUBLISH</a>](https://vigilance.fr/vulnerability/Eclipse-Mosquito-double-free-via-Outgoing-Bridge-Connection-Remapping-PUBLISH-46429)|An attacker can force a double memory free of Eclipse Mosquito, via Outgoing Bridge Connection Remapping PUBLISH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exim-4-98-SQL-injection-via-hints-46427" class="noirorange"><b>Exim 4.98</b>: SQL injection via hints</a>](https://vigilance.fr/vulnerability/Exim-4-98-SQL-injection-via-hints-46427)|An attacker can use a SQL injection of Exim 4.98, via hints, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Bundle-Protocol-CBOR-Dissectors-46426" class="noirorange"><b>Wireshark</b>: denial of service via Bundle Protocol / CBOR Dissectors</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Bundle-Protocol-CBOR-Dissectors-46426)|An attacker can cause a fatal error of Wireshark, via Bundle Protocol / CBOR Dissectors, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
