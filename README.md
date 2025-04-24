@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/04/2025 21:24:08 UTC
+ > Last Updated 24/04/2025 09:28:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-cdc-acm-46438" class="noirorange"><b>Linux kernel</b>: memory corruption via cdc-acm</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-cdc-acm-46438)|An attacker can trigger a memory corruption of the Linux kernel, via cdc-acm, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rpki-client-denial-of-service-via-Internal-RRDP-State-Handling-46835" class="noirorange"><b>rpki-client</b>: denial of service via Internal RRDP State Handling</a>](https://vigilance.fr/vulnerability/rpki-client-denial-of-service-via-Internal-RRDP-State-Handling-46835)|An attacker can cause a fatal error of rpki-client, via Internal RRDP State Handling, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-24-07-2024-44803" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 24/07/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-24-07-2024-44803)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 24/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/fort-validator-seven-vulnerabilities-dated-24-02-2025-46436" class="noirorange"><b>fort-validator</b>: seven vulnerabilities dated 24/02/2025</a>](https://vigilance.fr/vulnerability/fort-validator-seven-vulnerabilities-dated-24-02-2025-46436)|An attacker can use several vulnerabilities of fort-validator, dated 24/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-Server-assertion-error-via-best-extension-by-limited-search-46831" class="noirorange"><b>MariaDB Server</b>: assertion error via best_extension_by_<wbr>limited_search()</wbr></a>](https://vigilance.fr/vulnerability/MariaDB-Server-assertion-error-via-best-extension-by-limited-search-46831)|An attacker can force an assertion error of MariaDB Server, via best_extension_by_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-Server-denial-of-service-via-Item-direct-view-ref-46830" class="noirorange"><b>MariaDB Server</b>: denial of service via Item_direct_view_ref</a>](https://vigilance.fr/vulnerability/MariaDB-Server-denial-of-service-via-Item-direct-view-ref-46830)|An attacker can cause a fatal error of MariaDB Server, via Item_direct_view_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-Server-denial-of-service-via-Empty-Backtrace-Log-46829" class="noirorange"><b>MariaDB Server</b>: denial of service via Empty Backtrace Log</a>](https://vigilance.fr/vulnerability/MariaDB-Server-denial-of-service-via-Empty-Backtrace-Log-46829)|An attacker can cause a fatal error of MariaDB Server, via Empty Backtrace Log, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-PSStack-roll-46809" class="noirorange"><b>Poppler</b>: denial of service via PSStack::roll()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-PSStack-roll-46809)|An attacker can cause a fatal error of Poppler, via PSStack::roll(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-Stale-Cache-Data-Authoritative-Zone-Content-44795" class="noirorange"><b>ISC BIND</b>: assertion error via Stale Cache Data Authoritative Zone Content</a>](https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-Stale-Cache-Data-Authoritative-Zone-Content-44795)|An attacker can force an assertion error of ISC BIND, via Stale Cache Data Authoritative Zone Content, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-SIG0-Stream-Requests-44794" class="noirorange"><b>ISC BIND</b>: overload via SIG0 Stream Requests</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-SIG0-Stream-Requests-44794)|An attacker can trigger an overload of ISC BIND, via SIG0 Stream Requests, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 18 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 18 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 18 avril 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-PSStack-roll-46809" class="noirorange"><b>Poppler</b>: denial of service via PSStack::roll()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-PSStack-roll-46809)|An attacker can cause a fatal error of Poppler, via PSStack::roll(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-Stale-Cache-Data-Authoritative-Zone-Content-44795" class="noirorange"><b>ISC BIND</b>: assertion error via Stale Cache Data Authoritative Zone Content</a>](https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-Stale-Cache-Data-Authoritative-Zone-Content-44795)|An attacker can force an assertion error of ISC BIND, via Stale Cache Data Authoritative Zone Content, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-SIG0-Stream-Requests-44794" class="noirorange"><b>ISC BIND</b>: overload via SIG0 Stream Requests</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-SIG0-Stream-Requests-44794)|An attacker can trigger an overload of ISC BIND, via SIG0 Stream Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-Large-Number-RRs-44793" class="noirorange"><b>ISC BIND</b>: overload via Large Number RRs</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-Large-Number-RRs-44793)|An attacker can trigger an overload of ISC BIND, via Large Number RRs, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-DNS-Messages-Over-TCP-44792" class="noirorange"><b>ISC BIND</b>: overload via DNS Messages Over TCP</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-DNS-Messages-Over-TCP-44792)|An attacker can trigger an overload of ISC BIND, via DNS Messages Over TCP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Net-EasyTCP-weak-encryption-via-rand-Fallback-46794" class="noirorange"><b>Perl Net-EasyTCP</b>: weak encryption via rand() Fallback</a>](https://vigilance.fr/vulnerability/Perl-Net-EasyTCP-weak-encryption-via-rand-Fallback-46794)|An attacker can access data on Perl Net::EasyTCP, via rand() Fallback, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-via-Web-Content-46787" class="noirorange"><b>WebKitGTK</b>: denial of service via Web Content</a>](https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-via-Web-Content-46787)|An attacker can cause a fatal error of WebKitGTK, via Web Content, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/event-driven-ansible-information-disclosure-via-Inventory-Passwords-Debug-Verbosity-46784" class="noirorange"><b>event-driven-ansible</b>: information disclosure via Inventory Passwords Debug Verbosity</a>](https://vigilance.fr/vulnerability/event-driven-ansible-information-disclosure-via-Inventory-Passwords-Debug-Verbosity-46784)|An attacker can bypass access restrictions to data of event-driven-|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-code-execution-via-LDAP-Query-Elements-Script-Injection-46782" class="noirorange"><b>Dell Unisphere for PowerMax</b>: code execution via LDAP Query Elements Script Injection</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-code-execution-via-LDAP-Query-Elements-Script-Injection-46782)|An attacker can use a vulnerability of Dell Unisphere for PowerMax, via LDAP Query Elements Script Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/radare2-memory-corruption-via-rasm2-c-46435" class="noirorange"><b>radare2</b>: memory corruption via rasm2.c</a>](https://vigilance.fr/vulnerability/radare2-memory-corruption-via-rasm2-c-46435)|An attacker can trigger a memory corruption of radare2, via rasm2.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
