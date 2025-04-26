@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/04/2025 09:24:41 UTC
+ > Last Updated 26/04/2025 21:22:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ESRI-ArcGIS-for-Desktop-code-execution-dated-26-02-2025-46454" class="noirorange"><b>ESRI ArcGIS for Desktop</b>: code execution dated 26/02/2025</a>](https://vigilance.fr/vulnerability/ESRI-ArcGIS-for-Desktop-code-execution-dated-26-02-2025-46454)|An attacker can use a vulnerability of ESRI ArcGIS for Desktop, dated 26/02/2025, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-on-MS-Windows-code-execution-via-an-hypertext-link-46453" class="noirorange"><b>LibreOffice on MS Windows</b>: code execution via an hypertext link</a>](https://vigilance.fr/vulnerability/LibreOffice-on-MS-Windows-code-execution-via-an-hypertext-link-46453)|An attacker can use a vulnerability of LibreOffice for MS Windows, via an hypertext link, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xorg-X-server-multiple-vulnerabilities-dated-26-02-2025-46452" class="noirorange"><b>Xorg X server</b>: multiple vulnerabilities dated 26/02/2025</a>](https://vigilance.fr/vulnerability/Xorg-X-server-multiple-vulnerabilities-dated-26-02-2025-46452)|An attacker can use several vulnerabilities of Xorg X server, dated 26/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-26-07-2024-44812" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities dated 26/07/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-26-07-2024-44812)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 26/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-Daemon-Missing-Signals-46857" class="noirorange"><b>FreeBSD</b>: denial of service via Daemon Missing Signals</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-Daemon-Missing-Signals-46857)|An attacker can cause a fatal error of FreeBSD, via Daemon Missing Signals, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-HFS-46450" class="noirorange"><b>Linux kernel</b>: buffer overflow via HFS+</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-HFS-46450)|An attacker can trigger a buffer overflow of the Linux kernel, via HFS+, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-security-improvement-via-Dovecot-auth-sbin-Unix-Check-Password-46856" class="noirorange"><b>SUSE</b>: security improvement via Dovecot-auth /sbin Unix Check Password</a>](https://vigilance.fr/vulnerability/SUSE-security-improvement-via-Dovecot-auth-sbin-Unix-Check-Password-46856)|The security of SUSE was improved via Dovecot-auth /sbin Unix Check Password...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-io-read-46444" class="noirorange"><b>Linux kernel</b>: use after free via io_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-io-read-46444)|An attacker can force the reuse of a freed memory area of the Linux kernel, via io_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Management-Web-Interface-46851" class="noirorange"><b>PAN-OS</b>: privilege escalation via Management Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Management-Web-Interface-46851)|An attacker can bypass restrictions of PAN-OS, via Management Web Interface, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-deletion-via-Management-Web-Interface-46850" class="noirorange"><b>PAN-OS</b>: file deletion via Management Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-file-deletion-via-Management-Web-Interface-46850)|An attacker can bypass access restrictions of PAN-OS, via Management Web Interface, in order to delete a file...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0343/)|Une vulnérabilité a été découverte dans Spring Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 23 avril 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 22 avril 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-26-02-2025-46459" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 26/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-26-02-2025-46459)|An attacker can use several vulnerabilities of the Linux kernel, dated 26/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-file-reading-via-Network-File-System-46458" class="noirorange"><b>Synology DiskStation Manager</b>: file reading via Network File System</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-file-reading-via-Network-File-System-46458)|An attacker can read a file of Synology DiskStation Manager, via Network File System, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-CGI-URI-three-vulnerabilities-dated-26-02-2025-46457" class="noirorange"><b>Ruby CGI  URI</b>: three vulnerabilities dated 26/02/2025</a>](https://vigilance.fr/vulnerability/Ruby-CGI-URI-three-vulnerabilities-dated-26-02-2025-46457)|An attacker can use several vulnerabilities of Ruby CGI  URI, dated 26/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-vulnerability-dated-26-02-2025-46455" class="noirorange"><b>Google Chrome</b>: vulnerability dated 26/02/2025</a>](https://vigilance.fr/vulnerability/Google-Chrome-vulnerability-dated-26-02-2025-46455)|A vulnerability of Google Chrome, dated 26/02/2025, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ESRI-ArcGIS-for-Desktop-code-execution-dated-26-02-2025-46454" class="noirorange"><b>ESRI ArcGIS for Desktop</b>: code execution dated 26/02/2025</a>](https://vigilance.fr/vulnerability/ESRI-ArcGIS-for-Desktop-code-execution-dated-26-02-2025-46454)|An attacker can use a vulnerability of ESRI ArcGIS for Desktop, dated 26/02/2025, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-on-MS-Windows-code-execution-via-an-hypertext-link-46453" class="noirorange"><b>LibreOffice on MS Windows</b>: code execution via an hypertext link</a>](https://vigilance.fr/vulnerability/LibreOffice-on-MS-Windows-code-execution-via-an-hypertext-link-46453)|An attacker can use a vulnerability of LibreOffice for MS Windows, via an hypertext link, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xorg-X-server-multiple-vulnerabilities-dated-26-02-2025-46452" class="noirorange"><b>Xorg X server</b>: multiple vulnerabilities dated 26/02/2025</a>](https://vigilance.fr/vulnerability/Xorg-X-server-multiple-vulnerabilities-dated-26-02-2025-46452)|An attacker can use several vulnerabilities of Xorg X server, dated 26/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-26-07-2024-44812" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities dated 26/07/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-26-07-2024-44812)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 26/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-Daemon-Missing-Signals-46857" class="noirorange"><b>FreeBSD</b>: denial of service via Daemon Missing Signals</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-Daemon-Missing-Signals-46857)|An attacker can cause a fatal error of FreeBSD, via Daemon Missing Signals, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-HFS-46450" class="noirorange"><b>Linux kernel</b>: buffer overflow via HFS+</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-HFS-46450)|An attacker can trigger a buffer overflow of the Linux kernel, via HFS+, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
