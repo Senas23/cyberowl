@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/04/2025 09:24:18 UTC
+ > Last Updated 27/04/2025 21:22:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-OAuth2-Server-user-access-dated-27-02-2025-46465" class="noirorange"><b>Drupal OAuth2 Server</b>: user access dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-OAuth2-Server-user-access-dated-27-02-2025-46465)|An attacker can bypass restrictions of Drupal OAuth2 Server, even if disabled, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-General-Data-Protection-Regulation-Cross-Site-Request-Forgery-dated-27-02-2025-46464" class="noirorange"><b>Drupal General Data Protection Regulation</b>: Cross Site Request Forgery dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-General-Data-Protection-Regulation-Cross-Site-Request-Forgery-dated-27-02-2025-46464)|An attacker can trigger a Cross Site Request Forgery of Drupal General Data Protection Regulation, dated 27/02/2025, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Cache-Utility-Cross-Site-Request-Forgery-dated-27-02-2025-46463" class="noirorange"><b>Drupal Cache Utility</b>: Cross Site Request Forgery dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-Cache-Utility-Cross-Site-Request-Forgery-dated-27-02-2025-46463)|An attacker can trigger a Cross Site Request Forgery of Drupal Cache Utility, dated 27/02/2025, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-code-execution-dated-27-02-2025-46462" class="noirorange"><b>Cisco Nexus</b>: code execution dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-code-execution-dated-27-02-2025-46462)|An attacker can use a vulnerability of Cisco Nexus, dated 27/02/2025, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/openh264-buffer-overflow-via-decoding-46460" class="noirorange"><b>openh264</b>: buffer overflow via decoding</a>](https://vigilance.fr/vulnerability/openh264-buffer-overflow-via-decoding-46460)|An attacker can trigger a buffer overflow of openh264, via decoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-26-02-2025-46459" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 26/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-26-02-2025-46459)|An attacker can use several vulnerabilities of the Linux kernel, dated 26/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-file-reading-via-Network-File-System-46458" class="noirorange"><b>Synology DiskStation Manager</b>: file reading via Network File System</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-file-reading-via-Network-File-System-46458)|An attacker can read a file of Synology DiskStation Manager, via Network File System, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-CGI-URI-three-vulnerabilities-dated-26-02-2025-46457" class="noirorange"><b>Ruby CGI  URI</b>: three vulnerabilities dated 26/02/2025</a>](https://vigilance.fr/vulnerability/Ruby-CGI-URI-three-vulnerabilities-dated-26-02-2025-46457)|An attacker can use several vulnerabilities of Ruby CGI  URI, dated 26/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-vulnerability-dated-26-02-2025-46455" class="noirorange"><b>Google Chrome</b>: vulnerability dated 26/02/2025</a>](https://vigilance.fr/vulnerability/Google-Chrome-vulnerability-dated-26-02-2025-46455)|A vulnerability of Google Chrome, dated 26/02/2025, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESRI-ArcGIS-for-Desktop-code-execution-dated-26-02-2025-46454" class="noirorange"><b>ESRI ArcGIS for Desktop</b>: code execution dated 26/02/2025</a>](https://vigilance.fr/vulnerability/ESRI-ArcGIS-for-Desktop-code-execution-dated-26-02-2025-46454)|An attacker can use a vulnerability of ESRI ArcGIS for Desktop, dated 26/02/2025, in order to run code...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-logged-sensitive-information-via-Console-Password-46479" class="noirorange"><b>IBM MQ  MQ Appliance</b>: logged sensitive information via Console Password</a>](https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-logged-sensitive-information-via-Console-Password-46479)|An attacker can read logs of IBM MQ  MQ Appliance, via Console Password, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-code-execution-via-Console-Command-Injection-46478" class="noirorange"><b>IBM MQ  MQ Appliance</b>: code execution via Console Command Injection</a>](https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-code-execution-via-Console-Command-Injection-46478)|An attacker can use a vulnerability of IBM MQ  MQ Appliance, via Console Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-library-JOSE-overload-via-strings-Split-46475" class="noirorange"><b>Go library JOSE</b>: overload via strings.Split()</a>](https://vigilance.fr/vulnerability/Go-library-JOSE-overload-via-strings-Split-46475)|An attacker can trigger an overload of the Go library JOSE, via strings.Split(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-27-02-2025-46474" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-27-02-2025-46474)|An attacker can use several vulnerabilities of the Linux kernel, dated 27/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Webmin-spoofing-via-proxy-bypass-46473" class="noirorange"><b>Webmin</b>: spoofing via proxy bypass</a>](https://vigilance.fr/vulnerability/Webmin-spoofing-via-proxy-bypass-46473)|An attacker can create spoofed data on Webmin, via proxy bypass, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-two-vulnerabilities-dated-27-02-2025-46472" class="noirorange"><b>Centreon Web</b>: two vulnerabilities dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Centreon-Web-two-vulnerabilities-dated-27-02-2025-46472)|An attacker can use several vulnerabilities of Centreon Web, dated 27/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-OAuth2-Server-user-access-dated-27-02-2025-46465" class="noirorange"><b>Drupal OAuth2 Server</b>: user access dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-OAuth2-Server-user-access-dated-27-02-2025-46465)|An attacker can bypass restrictions of Drupal OAuth2 Server, even if disabled, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-General-Data-Protection-Regulation-Cross-Site-Request-Forgery-dated-27-02-2025-46464" class="noirorange"><b>Drupal General Data Protection Regulation</b>: Cross Site Request Forgery dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-General-Data-Protection-Regulation-Cross-Site-Request-Forgery-dated-27-02-2025-46464)|An attacker can trigger a Cross Site Request Forgery of Drupal General Data Protection Regulation, dated 27/02/2025, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Cache-Utility-Cross-Site-Request-Forgery-dated-27-02-2025-46463" class="noirorange"><b>Drupal Cache Utility</b>: Cross Site Request Forgery dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-Cache-Utility-Cross-Site-Request-Forgery-dated-27-02-2025-46463)|An attacker can trigger a Cross Site Request Forgery of Drupal Cache Utility, dated 27/02/2025, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-code-execution-dated-27-02-2025-46462" class="noirorange"><b>Cisco Nexus</b>: code execution dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-code-execution-dated-27-02-2025-46462)|An attacker can use a vulnerability of Cisco Nexus, dated 27/02/2025, in order to run code...|Visit link for details|
  
  ---
 
