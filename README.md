@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/04/2025 21:22:05 UTC
+ > Last Updated 28/04/2025 10:53:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,12 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-Ksmbd-Session-Lookup-And-Expire-46483" class="noirorange"><b>Linux kernel</b>: use after free via Ksmbd Session Lookup And Expire</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-Ksmbd-Session-Lookup-And-Expire-46483)|An attacker can force the reuse of a freed memory area of the Linux kernel, via Ksmbd Session Lookup And Expire, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-02-2025-46482" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 28/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-02-2025-46482)|An attacker can use several vulnerabilities of the Linux kernel, dated 28/02/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-logged-sensitive-information-via-Console-Password-46479" class="noirorange"><b>IBM MQ  MQ Appliance</b>: logged sensitive information via Console Password</a>](https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-logged-sensitive-information-via-Console-Password-46479)|An attacker can read logs of IBM MQ  MQ Appliance, via Console Password, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-code-execution-via-Console-Command-Injection-46478" class="noirorange"><b>IBM MQ  MQ Appliance</b>: code execution via Console Command Injection</a>](https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-code-execution-via-Console-Command-Injection-46478)|An attacker can use a vulnerability of IBM MQ  MQ Appliance, via Console Command Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-library-JOSE-overload-via-strings-Split-46475" class="noirorange"><b>Go library JOSE</b>: overload via strings.Split()</a>](https://vigilance.fr/vulnerability/Go-library-JOSE-overload-via-strings-Split-46475)|An attacker can trigger an overload of the Go library JOSE, via strings.Split(), in order to trigger a denial of service...|Visit link for details|
@@ -66,8 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-two-vulnerabilities-dated-27-02-2025-46472" class="noirorange"><b>Centreon Web</b>: two vulnerabilities dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Centreon-Web-two-vulnerabilities-dated-27-02-2025-46472)|An attacker can use several vulnerabilities of Centreon Web, dated 27/02/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-OAuth2-Server-user-access-dated-27-02-2025-46465" class="noirorange"><b>Drupal OAuth2 Server</b>: user access dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-OAuth2-Server-user-access-dated-27-02-2025-46465)|An attacker can bypass restrictions of Drupal OAuth2 Server, even if disabled, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-General-Data-Protection-Regulation-Cross-Site-Request-Forgery-dated-27-02-2025-46464" class="noirorange"><b>Drupal General Data Protection Regulation</b>: Cross Site Request Forgery dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-General-Data-Protection-Regulation-Cross-Site-Request-Forgery-dated-27-02-2025-46464)|An attacker can trigger a Cross Site Request Forgery of Drupal General Data Protection Regulation, dated 27/02/2025, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Cache-Utility-Cross-Site-Request-Forgery-dated-27-02-2025-46463" class="noirorange"><b>Drupal Cache Utility</b>: Cross Site Request Forgery dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Drupal-Cache-Utility-Cross-Site-Request-Forgery-dated-27-02-2025-46463)|An attacker can trigger a Cross Site Request Forgery of Drupal Cache Utility, dated 27/02/2025, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-code-execution-dated-27-02-2025-46462" class="noirorange"><b>Cisco Nexus</b>: code execution dated 27/02/2025</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-code-execution-dated-27-02-2025-46462)|An attacker can use a vulnerability of Cisco Nexus, dated 27/02/2025, in order to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
