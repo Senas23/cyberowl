@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/04/2025 09:28:31 UTC
+ > Last Updated 30/04/2025 21:25:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,30 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0358/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 30 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0357/)|Une vulnérabilité a été découverte dans les produits Symantec. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 30 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0356/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk User Behavior Analytics (UBA). Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0355/)|De multiples vulnérabilités ont été découvertes Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un problème de sécurité non spécifié par l'éditeur.|Publié le 29 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0351/)|Une vulnérabilité a été découverte dans LibreOffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0350/)|Une vulnérabilité a été découverte dans SAP NetWeaver. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 25 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0349/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données|Publié le 25 avril 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,30 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Infinispan-information-disclosure-via-JGroups-Channel-Creation-46484" class="noirorange"><b>Infinispan</b>: information disclosure via JGroups Channel Creation</a>](https://vigilance.fr/vulnerability/Infinispan-information-disclosure-via-JGroups-Channel-Creation-46484)|An attacker can bypass access restrictions to data of Infinispan, via JGroups Channel Creation, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-Ksmbd-Session-Lookup-And-Expire-46483" class="noirorange"><b>Linux kernel</b>: use after free via Ksmbd Session Lookup And Expire</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-Ksmbd-Session-Lookup-And-Expire-46483)|An attacker can force the reuse of a freed memory area of the Linux kernel, via Ksmbd Session Lookup And Expire, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-02-2025-46482" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 28/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-02-2025-46482)|An attacker can use several vulnerabilities of the Linux kernel, dated 28/02/2025...|Visit link for details|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un problème de sécurité non spécifié par l'éditeur.|Publié le 29 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0351/)|Une vulnérabilité a été découverte dans LibreOffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0350/)|Une vulnérabilité a été découverte dans SAP NetWeaver. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0349/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0348/)|Une vulnérabilité a été découverte dans Spring Boot. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0347/)|Une vulnérabilité a été découverte dans Sophos Taegis Endpoint Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 24 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0345/)|Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 23 avril 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
