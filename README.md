@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/04/2025 21:23:45 UTC
+ > Last Updated 30/04/2025 09:28:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-concat-ws-46872" class="noirorange"><b>SQLite</b>: buffer overflow via concat_ws()</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-concat-ws-46872)|An attacker can trigger a buffer overflow of SQLite, via concat_ws(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CImg-denial-of-service-dated-15-04-2025-46871" class="noirorange"><b>CImg</b>: denial of service dated 15/04/2025</a>](https://vigilance.fr/vulnerability/CImg-denial-of-service-dated-15-04-2025-46871)|An attacker can cause a fatal error of CImg, dated 15/04/2025, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-30-07-2024-44824" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 30/07/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-30-07-2024-44824)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 30/07/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-spoofing-via-Email-Headers-Comma-46488" class="noirorange"><b>Python Core</b>: spoofing via Email Headers Comma</a>](https://vigilance.fr/vulnerability/Python-Core-spoofing-via-Email-Headers-Comma-46488)|An attacker can create spoofed data on Python Core, via Email Headers Comma, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-DOM-Traversal-46487" class="noirorange"><b>Ruby-saml</b>: write access via XML DOM Traversal</a>](https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-DOM-Traversal-46487)|An attacker can bypass access restrictions of Ruby-saml, via XML DOM Traversal, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-Signature-Wrapping-46486" class="noirorange"><b>Ruby-saml</b>: write access via XML Signature Wrapping</a>](https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-Signature-Wrapping-46486)|An attacker can bypass access restrictions of Ruby-saml, via XML Signature Wrapping, in order to alter data...|Visit link for details|
@@ -41,9 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Infinispan-information-disclosure-via-JGroups-Channel-Creation-46484" class="noirorange"><b>Infinispan</b>: information disclosure via JGroups Channel Creation</a>](https://vigilance.fr/vulnerability/Infinispan-information-disclosure-via-JGroups-Channel-Creation-46484)|An attacker can bypass access restrictions to data of Infinispan, via JGroups Channel Creation, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-Ksmbd-Session-Lookup-And-Expire-46483" class="noirorange"><b>Linux kernel</b>: use after free via Ksmbd Session Lookup And Expire</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-Ksmbd-Session-Lookup-And-Expire-46483)|An attacker can force the reuse of a freed memory area of the Linux kernel, via Ksmbd Session Lookup And Expire, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-02-2025-46482" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 28/02/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-02-2025-46482)|An attacker can use several vulnerabilities of the Linux kernel, dated 28/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-logged-sensitive-information-via-Console-Password-46479" class="noirorange"><b>IBM MQ  MQ Appliance</b>: logged sensitive information via Console Password</a>](https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-logged-sensitive-information-via-Console-Password-46479)|An attacker can read logs of IBM MQ  MQ Appliance, via Console Password, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-code-execution-via-Console-Command-Injection-46478" class="noirorange"><b>IBM MQ  MQ Appliance</b>: code execution via Console Command Injection</a>](https://vigilance.fr/vulnerability/IBM-MQ-MQ-Appliance-code-execution-via-Console-Command-Injection-46478)|An attacker can use a vulnerability of IBM MQ  MQ Appliance, via Console Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-library-JOSE-overload-via-strings-Split-46475" class="noirorange"><b>Go library JOSE</b>: overload via strings.Split()</a>](https://vigilance.fr/vulnerability/Go-library-JOSE-overload-via-strings-Split-46475)|An attacker can trigger an overload of the Go library JOSE, via strings.Split(), in order to trigger a denial of service...|Visit link for details|
  
  ---
 
