@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/05/2025 09:27:47 UTC
+ > Last Updated 01/05/2025 21:23:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un problème de sécurité non spécifié par l'éditeur.|Publié le 29 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0351/)|Une vulnérabilité a été découverte dans LibreOffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0350/)|Une vulnérabilité a été découverte dans SAP NetWeaver. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0349/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0348/)|Une vulnérabilité a été découverte dans Spring Boot. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0347/)|Une vulnérabilité a été découverte dans Sophos Taegis Endpoint Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 24 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0345/)|Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 23 avril 2025|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +51,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-spoofing-via-Email-Headers-Comma-46488" class="noirorange"><b>Python Core</b>: spoofing via Email Headers Comma</a>](https://vigilance.fr/vulnerability/Python-Core-spoofing-via-Email-Headers-Comma-46488)|An attacker can create spoofed data on Python Core, via Email Headers Comma, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-DOM-Traversal-46487" class="noirorange"><b>Ruby-saml</b>: write access via XML DOM Traversal</a>](https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-DOM-Traversal-46487)|An attacker can bypass access restrictions of Ruby-saml, via XML DOM Traversal, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-Signature-Wrapping-46486" class="noirorange"><b>Ruby-saml</b>: write access via XML Signature Wrapping</a>](https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-Signature-Wrapping-46486)|An attacker can bypass access restrictions of Ruby-saml, via XML Signature Wrapping, in order to alter data...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0358/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 30 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0357/)|Une vulnérabilité a été découverte dans les produits Symantec. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 30 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0356/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk User Behavior Analytics (UBA). Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0355/)|De multiples vulnérabilités ont été découvertes Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un problème de sécurité non spécifié par l'éditeur.|Publié le 29 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0351/)|Une vulnérabilité a été découverte dans LibreOffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0350/)|Une vulnérabilité a été découverte dans SAP NetWeaver. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 25 avril 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0349/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données|Publié le 25 avril 2025|
  
  ---
 
