@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/05/2025 21:23:49 UTC
+ > Last Updated 02/05/2025 09:27:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,13 +30,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,6 +44,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-spoofing-via-Email-Headers-Comma-46488" class="noirorange"><b>Python Core</b>: spoofing via Email Headers Comma</a>](https://vigilance.fr/vulnerability/Python-Core-spoofing-via-Email-Headers-Comma-46488)|An attacker can create spoofed data on Python Core, via Email Headers Comma, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-DOM-Traversal-46487" class="noirorange"><b>Ruby-saml</b>: write access via XML DOM Traversal</a>](https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-DOM-Traversal-46487)|An attacker can bypass access restrictions of Ruby-saml, via XML DOM Traversal, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-Signature-Wrapping-46486" class="noirorange"><b>Ruby-saml</b>: write access via XML Signature Wrapping</a>](https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-Signature-Wrapping-46486)|An attacker can bypass access restrictions of Ruby-saml, via XML Signature Wrapping, in order to alter data...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
