@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/05/2025 09:24:30 UTC
+ > Last Updated 03/05/2025 21:23:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Raptor-out-of-bounds-memory-reading-via-raptor-ntriples-parse-term-internal-46507" class="noirorange"><b>Raptor</b>: out-of-bounds memory reading via raptor_ntriples_<wbr>parse_term_internal(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Raptor-out-of-bounds-memory-reading-via-raptor-ntriples-parse-term-internal-46507)|An attacker can force a read at an invalid memory address of Raptor, via raptor_ntriples_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Erlang-memory-leak-via-SFTP-Packet-Sizes-46506" class="noirorange"><b>Erlang</b>: memory leak via SFTP Packet Sizes</a>](https://vigilance.fr/vulnerability/Erlang-memory-leak-via-SFTP-Packet-Sizes-46506)|An attacker can create a memory leak of Erlang, via SFTP Packet Sizes, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/String-Compare-ConstantTime-information-disclosure-via-equals-46911" class="noirorange"><b>String-Compare-<wbr>ConstantTime</wbr></b>: information disclosure via equals()</a>](https://vigilance.fr/vulnerability/String-Compare-ConstantTime-information-disclosure-via-equals-46911)|An attacker can bypass access restrictions to data of String-Compare-|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/openNDS-use-after-free-via-auth-c-46500" class="noirorange"><b>openNDS</b>: use after free via auth.c</a>](https://vigilance.fr/vulnerability/openNDS-use-after-free-via-auth-c-46500)|An attacker can force the reuse of a freed memory area of openNDS, via auth.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-two-vulnerabilities-dated-02-03-2025-46496" class="noirorange"><b>FFmpeg</b>: two vulnerabilities dated 02/03/2025</a>](https://vigilance.fr/vulnerability/FFmpeg-two-vulnerabilities-dated-02-03-2025-46496)|An attacker can use several vulnerabilities of FFmpeg, dated 02/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-request2size-46490" class="noirorange"><b>Das U-Boot</b>: integer overflow via request2size()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-request2size-46490)|An attacker can trigger an integer overflow of Das U-Boot, via request2size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-af-pan-c-46495" class="noirorange"><b>FFmpeg</b>: out-of-bounds memory reading via af_pan.c</a>](https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-af-pan-c-46495)|An attacker can force a read at an invalid memory address of FFmpeg, via af_pan.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-ext4fs-read-symlink-46489" class="noirorange"><b>Das U-Boot</b>: integer overflow via ext4fs_read_symlink(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-ext4fs-read-symlink-46489)|An attacker can trigger an integer overflow of Das U-Boot, via ext4fs_read_symlink(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rizin-code-execution-via-rz-core-cmdf-46494" class="noirorange"><b>Rizin</b>: code execution via rz_core_cmdf()</a>](https://vigilance.fr/vulnerability/Rizin-code-execution-via-rz-core-cmdf-46494)|An attacker can use a vulnerability of Rizin, via rz_core_cmdf(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Azure-CLI-privilege-escalation-via-Defender-46491" class="noirorange"><b>Azure CLI</b>: privilege escalation via Defender</a>](https://vigilance.fr/vulnerability/Azure-CLI-privilege-escalation-via-Defender-46491)|An attacker can bypass restrictions of Azure CLI, via Defender, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/String-Compare-ConstantTime-information-disclosure-via-equals-46911" class="noirorange"><b>String-Compare-<wbr>ConstantTime</wbr></b>: information disclosure via equals()</a>](https://vigilance.fr/vulnerability/String-Compare-ConstantTime-information-disclosure-via-equals-46911)|An attacker can bypass access restrictions to data of String-Compare-|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/openNDS-use-after-free-via-auth-c-46500" class="noirorange"><b>openNDS</b>: use after free via auth.c</a>](https://vigilance.fr/vulnerability/openNDS-use-after-free-via-auth-c-46500)|An attacker can force the reuse of a freed memory area of openNDS, via auth.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-two-vulnerabilities-dated-02-03-2025-46496" class="noirorange"><b>FFmpeg</b>: two vulnerabilities dated 02/03/2025</a>](https://vigilance.fr/vulnerability/FFmpeg-two-vulnerabilities-dated-02-03-2025-46496)|An attacker can use several vulnerabilities of FFmpeg, dated 02/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-request2size-46490" class="noirorange"><b>Das U-Boot</b>: integer overflow via request2size()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-request2size-46490)|An attacker can trigger an integer overflow of Das U-Boot, via request2size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-af-pan-c-46495" class="noirorange"><b>FFmpeg</b>: out-of-bounds memory reading via af_pan.c</a>](https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-af-pan-c-46495)|An attacker can force a read at an invalid memory address of FFmpeg, via af_pan.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-ext4fs-read-symlink-46489" class="noirorange"><b>Das U-Boot</b>: integer overflow via ext4fs_read_symlink(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-ext4fs-read-symlink-46489)|An attacker can trigger an integer overflow of Das U-Boot, via ext4fs_read_symlink(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rizin-code-execution-via-rz-core-cmdf-46494" class="noirorange"><b>Rizin</b>: code execution via rz_core_cmdf()</a>](https://vigilance.fr/vulnerability/Rizin-code-execution-via-rz-core-cmdf-46494)|An attacker can use a vulnerability of Rizin, via rz_core_cmdf(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Azure-CLI-privilege-escalation-via-Defender-46491" class="noirorange"><b>Azure CLI</b>: privilege escalation via Defender</a>](https://vigilance.fr/vulnerability/Azure-CLI-privilege-escalation-via-Defender-46491)|An attacker can bypass restrictions of Azure CLI, via Defender, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rizin-three-vulnerabilities-dated-02-03-2025-46493" class="noirorange"><b>Rizin</b>: three vulnerabilities dated 02/03/2025</a>](https://vigilance.fr/vulnerability/Rizin-three-vulnerabilities-dated-02-03-2025-46493)|An attacker can use several vulnerabilities of Rizin, dated 02/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aap-gateway-privilege-escalation-via-Concurrent-Requests-46499" class="noirorange"><b>aap-gateway</b>: privilege escalation via Concurrent Requests</a>](https://vigilance.fr/vulnerability/aap-gateway-privilege-escalation-via-Concurrent-Requests-46499)|An attacker can bypass restrictions of aap-gateway, via Concurrent Requests, in order to escalate his privileges...|Visit link for details|
  
  ---
 
