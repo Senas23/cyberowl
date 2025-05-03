@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/05/2025 21:23:25 UTC
+ > Last Updated 03/05/2025 09:24:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,33 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0350/)|Une vulnérabilité a été découverte dans SAP NetWeaver. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0349/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0348/)|Une vulnérabilité a été découverte dans Spring Boot. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0347/)|Une vulnérabilité a été découverte dans Sophos Taegis Endpoint Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 25 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 24 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0345/)|Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 24 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 23 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0343/)|Une vulnérabilité a été découverte dans Spring Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 23 avril 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0341/)|De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 22 avril 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Theora-integer-overflow-via-oc-huff-tree-unpack-46879" class="noirorange"><b>Theora</b>: integer overflow via oc_huff_tree_unpack(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Theora-integer-overflow-via-oc-huff-tree-unpack-46879)|An attacker can trigger an integer overflow of Theora, via oc_huff_tree_unpack(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-MPOA-cache-impos-rcvd-46878" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via MPOA_cache_impos_<wbr>rcvd()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-MPOA-cache-impos-rcvd-46878)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via MPOA_cache_impos_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DBIx-Class-EncodedColumn-use-of-poor-randomness-via-Crypt-Eksblowfish-Bcrypt-pm-46877" class="noirorange"><b>DBIx-Class-<wbr>EncodedColumn</wbr></b>: use of poor randomness via Crypt/Eksblowfish/<wbr>Bcrypt.pm</wbr></a>](https://vigilance.fr/vulnerability/DBIx-Class-EncodedColumn-use-of-poor-randomness-via-Crypt-Eksblowfish-Bcrypt-pm-46877)|A detailed analysis has not been performed for this bulletin...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DBIx-Class-EncodedColumn-use-of-poor-randomness-via-Digest-pm-46876" class="noirorange"><b>DBIx-Class-<wbr>EncodedColumn</wbr></b>: use of poor randomness via Digest.pm</a>](https://vigilance.fr/vulnerability/DBIx-Class-EncodedColumn-use-of-poor-randomness-via-Digest-pm-46876)|A detailed analysis has not been performed for this bulletin...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-concat-ws-46872" class="noirorange"><b>SQLite</b>: buffer overflow via concat_ws()</a>](https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-concat-ws-46872)|An attacker can trigger a buffer overflow of SQLite, via concat_ws(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CImg-denial-of-service-dated-15-04-2025-46871" class="noirorange"><b>CImg</b>: denial of service dated 15/04/2025</a>](https://vigilance.fr/vulnerability/CImg-denial-of-service-dated-15-04-2025-46871)|An attacker can cause a fatal error of CImg, dated 15/04/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-30-07-2024-44824" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 30/07/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-30-07-2024-44824)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 30/07/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-spoofing-via-Email-Headers-Comma-46488" class="noirorange"><b>Python Core</b>: spoofing via Email Headers Comma</a>](https://vigilance.fr/vulnerability/Python-Core-spoofing-via-Email-Headers-Comma-46488)|An attacker can create spoofed data on Python Core, via Email Headers Comma, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-DOM-Traversal-46487" class="noirorange"><b>Ruby-saml</b>: write access via XML DOM Traversal</a>](https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-DOM-Traversal-46487)|An attacker can bypass access restrictions of Ruby-saml, via XML DOM Traversal, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-Signature-Wrapping-46486" class="noirorange"><b>Ruby-saml</b>: write access via XML Signature Wrapping</a>](https://vigilance.fr/vulnerability/Ruby-saml-write-access-via-XML-Signature-Wrapping-46486)|An attacker can bypass access restrictions of Ruby-saml, via XML Signature Wrapping, in order to alter data...|Visit link for details|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0370/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 02 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0369/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 02 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0368/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 02 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0367/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 02 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0366/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 02 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0365/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 02 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0364/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 02 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0363/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 02 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0362/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF).|Publié le 02 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 02 mai 2025|
  
  ---
 
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/String-Compare-ConstantTime-information-disclosure-via-equals-46911" class="noirorange"><b>String-Compare-<wbr>ConstantTime</wbr></b>: information disclosure via equals()</a>](https://vigilance.fr/vulnerability/String-Compare-ConstantTime-information-disclosure-via-equals-46911)|An attacker can bypass access restrictions to data of String-Compare-|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/openNDS-use-after-free-via-auth-c-46500" class="noirorange"><b>openNDS</b>: use after free via auth.c</a>](https://vigilance.fr/vulnerability/openNDS-use-after-free-via-auth-c-46500)|An attacker can force the reuse of a freed memory area of openNDS, via auth.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-two-vulnerabilities-dated-02-03-2025-46496" class="noirorange"><b>FFmpeg</b>: two vulnerabilities dated 02/03/2025</a>](https://vigilance.fr/vulnerability/FFmpeg-two-vulnerabilities-dated-02-03-2025-46496)|An attacker can use several vulnerabilities of FFmpeg, dated 02/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-request2size-46490" class="noirorange"><b>Das U-Boot</b>: integer overflow via request2size()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-request2size-46490)|An attacker can trigger an integer overflow of Das U-Boot, via request2size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-af-pan-c-46495" class="noirorange"><b>FFmpeg</b>: out-of-bounds memory reading via af_pan.c</a>](https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-af-pan-c-46495)|An attacker can force a read at an invalid memory address of FFmpeg, via af_pan.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-ext4fs-read-symlink-46489" class="noirorange"><b>Das U-Boot</b>: integer overflow via ext4fs_read_symlink(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-ext4fs-read-symlink-46489)|An attacker can trigger an integer overflow of Das U-Boot, via ext4fs_read_symlink(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rizin-code-execution-via-rz-core-cmdf-46494" class="noirorange"><b>Rizin</b>: code execution via rz_core_cmdf()</a>](https://vigilance.fr/vulnerability/Rizin-code-execution-via-rz-core-cmdf-46494)|An attacker can use a vulnerability of Rizin, via rz_core_cmdf(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Azure-CLI-privilege-escalation-via-Defender-46491" class="noirorange"><b>Azure CLI</b>: privilege escalation via Defender</a>](https://vigilance.fr/vulnerability/Azure-CLI-privilege-escalation-via-Defender-46491)|An attacker can bypass restrictions of Azure CLI, via Defender, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rizin-three-vulnerabilities-dated-02-03-2025-46493" class="noirorange"><b>Rizin</b>: three vulnerabilities dated 02/03/2025</a>](https://vigilance.fr/vulnerability/Rizin-three-vulnerabilities-dated-02-03-2025-46493)|An attacker can use several vulnerabilities of Rizin, dated 02/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/aap-gateway-privilege-escalation-via-Concurrent-Requests-46499" class="noirorange"><b>aap-gateway</b>: privilege escalation via Concurrent Requests</a>](https://vigilance.fr/vulnerability/aap-gateway-privilege-escalation-via-Concurrent-Requests-46499)|An attacker can bypass restrictions of aap-gateway, via Concurrent Requests, in order to escalate his privileges...|Visit link for details|
  
  ---
 
