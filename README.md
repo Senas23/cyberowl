@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/05/2025 09:24:42 UTC
+ > Last Updated 04/05/2025 21:22:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/cmark-gfm-three-vulnerabilities-dated-04-03-2025-46513" class="noirorange"><b>cmark-gfm</b>: three vulnerabilities dated 04/03/2025</a>](https://vigilance.fr/vulnerability/cmark-gfm-three-vulnerabilities-dated-04-03-2025-46513)|An attacker can use several vulnerabilities of cmark-gfm, dated 04/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-SQL-injection-dated-29-09-2020-46512" class="noirorange"><b>SPIP</b>: SQL injection dated 29/09/2020</a>](https://vigilance.fr/vulnerability/SPIP-SQL-injection-dated-29-09-2020-46512)|An attacker can use a SQL injection of SPIP, dated 29/09/2020, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-dated-29-09-2020-46511" class="noirorange"><b>SPIP</b>: Cross Site Scripting dated 29/09/2020</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-dated-29-09-2020-46511)|An attacker can trigger a Cross Site Scripting of SPIP, dated 29/09/2020, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/svg-sanitizer-Cross-Site-Scripting-dated-04-03-2025-46510" class="noirorange"><b>svg-sanitizer</b>: Cross Site Scripting dated 04/03/2025</a>](https://vigilance.fr/vulnerability/svg-sanitizer-Cross-Site-Scripting-dated-04-03-2025-46510)|An attacker can trigger a Cross Site Scripting of svg-sanitizer, dated 04/03/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hostapd-read-write-access-via-Active-PKEX-Code-46509" class="noirorange"><b>hostapd</b>: read-write access via Active PKEX Code</a>](https://vigilance.fr/vulnerability/hostapd-read-write-access-via-Active-PKEX-Code-46509)|An attacker can bypass access restrictions of hostapd, via Active PKEX Code, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Raptor-out-of-bounds-memory-reading-via-raptor-ntriples-parse-term-internal-46507" class="noirorange"><b>Raptor</b>: out-of-bounds memory reading via raptor_ntriples_<wbr>parse_term_internal(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Raptor-out-of-bounds-memory-reading-via-raptor-ntriples-parse-term-internal-46507)|An attacker can force a read at an invalid memory address of Raptor, via raptor_ntriples_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Erlang-memory-leak-via-SFTP-Packet-Sizes-46506" class="noirorange"><b>Erlang</b>: memory leak via SFTP Packet Sizes</a>](https://vigilance.fr/vulnerability/Erlang-memory-leak-via-SFTP-Packet-Sizes-46506)|An attacker can create a memory leak of Erlang, via SFTP Packet Sizes, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/String-Compare-ConstantTime-information-disclosure-via-equals-46911" class="noirorange"><b>String-Compare-<wbr>ConstantTime</wbr></b>: information disclosure via equals()</a>](https://vigilance.fr/vulnerability/String-Compare-ConstantTime-information-disclosure-via-equals-46911)|An attacker can bypass access restrictions to data of String-Compare-|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/openNDS-use-after-free-via-auth-c-46500" class="noirorange"><b>openNDS</b>: use after free via auth.c</a>](https://vigilance.fr/vulnerability/openNDS-use-after-free-via-auth-c-46500)|An attacker can force the reuse of a freed memory area of openNDS, via auth.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-two-vulnerabilities-dated-02-03-2025-46496" class="noirorange"><b>FFmpeg</b>: two vulnerabilities dated 02/03/2025</a>](https://vigilance.fr/vulnerability/FFmpeg-two-vulnerabilities-dated-02-03-2025-46496)|An attacker can use several vulnerabilities of FFmpeg, dated 02/03/2025...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0363/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 02 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0362/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF).|Publié le 02 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0361/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 02 mai 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-two-vulnerabilities-dated-04-03-2025-46522" class="noirorange"><b>Ibexa DXP</b>: two vulnerabilities dated 04/03/2025</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-two-vulnerabilities-dated-04-03-2025-46522)|An attacker can use several vulnerabilities of Ibexa DXP, dated 04/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Meraki-MX67-MX68-information-disclosure-via-Local-Status-Page-46521" class="noirorange"><b>Cisco Meraki MX67  MX68</b>: information disclosure via Local Status Page</a>](https://vigilance.fr/vulnerability/Cisco-Meraki-MX67-MX68-information-disclosure-via-Local-Status-Page-46521)|An attacker can bypass access restrictions to data of Cisco Meraki MX67  MX68, via Local Status Page, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-AsyncOS-SMA-information-disclosure-dated-04-03-2025-46520" class="noirorange"><b>Cisco AsyncOS  SMA</b>: information disclosure dated 04/03/2025</a>](https://vigilance.fr/vulnerability/Cisco-AsyncOS-SMA-information-disclosure-dated-04-03-2025-46520)|An attacker can bypass access restrictions to data of Cisco AsyncOS  SMA, dated 04/03/2025, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-Firefox-user-access-via-Hybrid-Passkey-Transport-46518" class="noirorange"><b>Chrome  Edge  Opera  Firefox</b>: user access via Hybrid Passkey Transport</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-Firefox-user-access-via-Hybrid-Passkey-Transport-46518)|An attacker can bypass restrictions of Chrome  Edge  Opera  Firefox, via Hybrid Passkey Transport, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-ESXi-Workstation-three-vulnerabilities-dated-04-03-2025-46516" class="noirorange"><b>VMware ESXi  Workstation</b>: three vulnerabilities dated 04/03/2025</a>](https://vigilance.fr/vulnerability/VMware-ESXi-Workstation-three-vulnerabilities-dated-04-03-2025-46516)|An attacker can use several vulnerabilities of VMware ESXi  Workstation, dated 04/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cmark-gfm-three-vulnerabilities-dated-04-03-2025-46513" class="noirorange"><b>cmark-gfm</b>: three vulnerabilities dated 04/03/2025</a>](https://vigilance.fr/vulnerability/cmark-gfm-three-vulnerabilities-dated-04-03-2025-46513)|An attacker can use several vulnerabilities of cmark-gfm, dated 04/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-SQL-injection-dated-29-09-2020-46512" class="noirorange"><b>SPIP</b>: SQL injection dated 29/09/2020</a>](https://vigilance.fr/vulnerability/SPIP-SQL-injection-dated-29-09-2020-46512)|An attacker can use a SQL injection of SPIP, dated 29/09/2020, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-dated-29-09-2020-46511" class="noirorange"><b>SPIP</b>: Cross Site Scripting dated 29/09/2020</a>](https://vigilance.fr/vulnerability/SPIP-Cross-Site-Scripting-dated-29-09-2020-46511)|An attacker can trigger a Cross Site Scripting of SPIP, dated 29/09/2020, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/svg-sanitizer-Cross-Site-Scripting-dated-04-03-2025-46510" class="noirorange"><b>svg-sanitizer</b>: Cross Site Scripting dated 04/03/2025</a>](https://vigilance.fr/vulnerability/svg-sanitizer-Cross-Site-Scripting-dated-04-03-2025-46510)|An attacker can trigger a Cross Site Scripting of svg-sanitizer, dated 04/03/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hostapd-read-write-access-via-Active-PKEX-Code-46509" class="noirorange"><b>hostapd</b>: read-write access via Active PKEX Code</a>](https://vigilance.fr/vulnerability/hostapd-read-write-access-via-Active-PKEX-Code-46509)|An attacker can bypass access restrictions of hostapd, via Active PKEX Code, in order to read or alter data...|Visit link for details|
  
  ---
 
