@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/05/2025 21:24:40 UTC
+ > Last Updated 07/05/2025 09:28:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,10 +23,20 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2023-42791" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2023-42791)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-03-2025-46539" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 07/03/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-03-2025-46539)|An attacker can use several vulnerabilities of the Linux kernel, dated 07/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/python-setuptools-code-execution-via-package-index-44867" class="noirorange"><b>python-setuptools</b>: code execution via package_index</a>](https://vigilance.fr/vulnerability/python-setuptools-code-execution-via-package-index-44867)|An attacker can use a vulnerability of python-setuptools, via package_index, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Proxy-Patterns-46538" class="noirorange"><b>Go</b>: ingress filtrering bypass via Proxy Patterns</a>](https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Proxy-Patterns-46538)|An attacker can bypass filtering rules of Go, via Proxy Patterns, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-06-08-2024-44866" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 06/08/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-06-08-2024-44866)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 06/08/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2024-44865" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of August 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2024-44865)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-code-execution-via-Tar-Archive-Read-Ex-Command-Line-46537" class="noirorange"><b>Vim</b>: code execution via Tar Archive Read Ex Command Line</a>](https://vigilance.fr/vulnerability/Vim-code-execution-via-Tar-Archive-Read-Ex-Command-Line-46537)|An attacker can use a vulnerability of Vim, via Tar Archive Read Ex Command Line, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GPAC-denial-of-service-via-AC3-File-46536" class="noirorange"><b>GPAC</b>: denial of service via AC3 File</a>](https://vigilance.fr/vulnerability/GPAC-denial-of-service-via-AC3-File-46536)|An attacker can cause a fatal error of GPAC, via AC3 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GPAC-memory-corruption-via-RST-File-46535" class="noirorange"><b>GPAC</b>: memory corruption via RST File</a>](https://vigilance.fr/vulnerability/GPAC-memory-corruption-via-RST-File-46535)|An attacker can trigger a memory corruption of GPAC, via RST File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-tempfile-SpooledTemporaryFile-writelines-46534" class="noirorange"><b>Python Core</b>: overload via tempfile.<wbr>SpooledTemporaryFile<wbr>.writelines()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-tempfile-SpooledTemporaryFile-writelines-46534)|An attacker can trigger an overload of Python Core, via tempfile.|Visit link for details|
  
  ---
 
@@ -47,24 +57,14 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/python-setuptools-code-execution-via-package-index-44867" class="noirorange"><b>python-setuptools</b>: code execution via package_index</a>](https://vigilance.fr/vulnerability/python-setuptools-code-execution-via-package-index-44867)|An attacker can use a vulnerability of python-setuptools, via package_index, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Proxy-Patterns-46538" class="noirorange"><b>Go</b>: ingress filtrering bypass via Proxy Patterns</a>](https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Proxy-Patterns-46538)|An attacker can bypass filtering rules of Go, via Proxy Patterns, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-06-08-2024-44866" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 06/08/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-06-08-2024-44866)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 06/08/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2024-44865" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of August 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2024-44865)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-code-execution-via-Tar-Archive-Read-Ex-Command-Line-46537" class="noirorange"><b>Vim</b>: code execution via Tar Archive Read Ex Command Line</a>](https://vigilance.fr/vulnerability/Vim-code-execution-via-Tar-Archive-Read-Ex-Command-Line-46537)|An attacker can use a vulnerability of Vim, via Tar Archive Read Ex Command Line, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GPAC-denial-of-service-via-AC3-File-46536" class="noirorange"><b>GPAC</b>: denial of service via AC3 File</a>](https://vigilance.fr/vulnerability/GPAC-denial-of-service-via-AC3-File-46536)|An attacker can cause a fatal error of GPAC, via AC3 File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GPAC-memory-corruption-via-RST-File-46535" class="noirorange"><b>GPAC</b>: memory corruption via RST File</a>](https://vigilance.fr/vulnerability/GPAC-memory-corruption-via-RST-File-46535)|An attacker can trigger a memory corruption of GPAC, via RST File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-tempfile-SpooledTemporaryFile-writelines-46534" class="noirorange"><b>Python Core</b>: overload via tempfile.<wbr>SpooledTemporaryFile<wbr>.writelines()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-tempfile-SpooledTemporaryFile-writelines-46534)|An attacker can trigger an overload of Python Core, via tempfile.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rack-write-access-via-CommonLogger-46533" class="noirorange"><b>Rack</b>: write access via CommonLogger</a>](https://vigilance.fr/vulnerability/Rack-write-access-via-CommonLogger-46533)|An attacker can bypass access restrictions of Rack, via CommonLogger, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Artificial-Intelligence-file-deletion-via-Gadget-Chain-46531" class="noirorange"><b>Drupal Artificial Intelligence</b>: file deletion via Gadget Chain</a>](https://vigilance.fr/vulnerability/Drupal-Artificial-Intelligence-file-deletion-via-Gadget-Chain-46531)|An attacker can bypass access restrictions of Drupal Artificial Intelligence, via Gadget Chain, in order to delete a file...|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
