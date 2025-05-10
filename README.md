@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/05/2025 21:22:58 UTC
+ > Last Updated 10/05/2025 09:25:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-03-2025-46545" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 10/03/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-03-2025-46545)|An attacker can use several vulnerabilities of the Linux kernel, dated 10/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PgBouncer-user-access-via-Auth-query-Expired-Password-46967" class="noirorange"><b>PgBouncer</b>: user access via Auth_query Expired Password</a>](https://vigilance.fr/vulnerability/PgBouncer-user-access-via-Auth-query-Expired-Password-46967)|An attacker can bypass restrictions of PgBouncer, via Auth_query Expired Password, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spotipy-user-access-via-Cache-File-Auth-Token-46543" class="noirorange"><b>Spotipy</b>: user access via Cache File Auth Token</a>](https://vigilance.fr/vulnerability/Spotipy-user-access-via-Cache-File-Auth-Token-46543)|An attacker can bypass restrictions of Spotipy, via Cache File Auth Token, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Twig-information-disclosure-via-toString-46959" class="noirorange"><b>Twig</b>: information disclosure via __toString()</a>](https://vigilance.fr/vulnerability/Twig-information-disclosure-via-toString-46959)|An attacker can bypass access restrictions to data of Twig, via __toString(), in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-09-08-2024-44896" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities dated 09/08/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-09-08-2024-44896)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 09/08/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/virtuoso-opensource-denial-of-service-via-sqlc-add-distinct-node-46943" class="noirorange"><b>virtuoso-opensource</b>: denial of service via sqlc_add_distinct_<wbr>node</wbr></a>](https://vigilance.fr/vulnerability/virtuoso-opensource-denial-of-service-via-sqlc-add-distinct-node-46943)|An attacker can cause a fatal error of virtuoso-opensource, via sqlc_add_distinct_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-07-03-2025-46542" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing dated 07/03/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-07-03-2025-46542)|An attacker can create spoofed data on Microsoft Edge Chromium, dated 07/03/2025, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-dated-07-08-2024-44886" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities dated 07/08/2024</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-dated-07-08-2024-44886)|An attacker can use several vulnerabilities of ArubaOS, dated 07/08/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-privilege-escalation-via-OpenSSH-Pre-authentication-Async-Signal-44884" class="noirorange"><b>FreeBSD</b>: privilege escalation via OpenSSH Pre-authentication Async Signal</a>](https://vigilance.fr/vulnerability/FreeBSD-privilege-escalation-via-OpenSSH-Pre-authentication-Async-Signal-44884)|An attacker can bypass restrictions of FreeBSD, via OpenSSH Pre-authentication Async Signal, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-django-utils-text-wrap-46541" class="noirorange"><b>Django</b>: denial of service via django.utils.text.<wbr>wrap()</wbr></a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-django-utils-text-wrap-46541)|An attacker can cause a fatal error of Django, via django.utils.text.|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0380/)|Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0379/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 09 mai 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Twig-information-disclosure-via-toString-46959" class="noirorange"><b>Twig</b>: information disclosure via __toString()</a>](https://vigilance.fr/vulnerability/Twig-information-disclosure-via-toString-46959)|An attacker can bypass access restrictions to data of Twig, via __toString(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-09-08-2024-44896" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities dated 09/08/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-09-08-2024-44896)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 09/08/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/virtuoso-opensource-denial-of-service-via-sqlc-add-distinct-node-46943" class="noirorange"><b>virtuoso-opensource</b>: denial of service via sqlc_add_distinct_<wbr>node</wbr></a>](https://vigilance.fr/vulnerability/virtuoso-opensource-denial-of-service-via-sqlc-add-distinct-node-46943)|An attacker can cause a fatal error of virtuoso-opensource, via sqlc_add_distinct_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-07-03-2025-46542" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing dated 07/03/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-07-03-2025-46542)|An attacker can create spoofed data on Microsoft Edge Chromium, dated 07/03/2025, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-dated-07-08-2024-44886" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities dated 07/08/2024</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-dated-07-08-2024-44886)|An attacker can use several vulnerabilities of ArubaOS, dated 07/08/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-privilege-escalation-via-OpenSSH-Pre-authentication-Async-Signal-44884" class="noirorange"><b>FreeBSD</b>: privilege escalation via OpenSSH Pre-authentication Async Signal</a>](https://vigilance.fr/vulnerability/FreeBSD-privilege-escalation-via-OpenSSH-Pre-authentication-Async-Signal-44884)|An attacker can bypass restrictions of FreeBSD, via OpenSSH Pre-authentication Async Signal, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-django-utils-text-wrap-46541" class="noirorange"><b>Django</b>: denial of service via django.utils.text.<wbr>wrap()</wbr></a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-django-utils-text-wrap-46541)|An attacker can cause a fatal error of Django, via django.utils.text.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-two-vulnerabilities-dated-07-08-2024-44879" class="noirorange"><b>Jenkins Core LTS</b>: two vulnerabilities dated 07/08/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-two-vulnerabilities-dated-07-08-2024-44879)|An attacker can use several vulnerabilities of Jenkins Core LTS, dated 07/08/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2023-42791" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2023-42791)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-03-2025-46539" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 07/03/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-03-2025-46539)|An attacker can use several vulnerabilities of the Linux kernel, dated 07/03/2025...|Visit link for details|
  
  ---
 
