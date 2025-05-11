@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/05/2025 21:21:52 UTC
+ > Last Updated 11/05/2025 09:24:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/JBoss-RESTEasy-denial-of-service-via-Netty-HttpObjectDecoder-ASCII-Control-Character-46555" class="noirorange"><b>JBoss RESTEasy</b>: denial of service via Netty HttpObjectDecoder ASCII Control Character</a>](https://vigilance.fr/vulnerability/JBoss-RESTEasy-denial-of-service-via-Netty-HttpObjectDecoder-ASCII-Control-Character-46555)|An attacker can cause a fatal error of JBoss RESTEasy, via Netty HttpObjectDecoder ASCII Control Character, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jinja-code-execution-via-Attr-Filter-Template-Content-46553" class="noirorange"><b>Jinja</b>: code execution via Attr Filter Template Content</a>](https://vigilance.fr/vulnerability/Jinja-code-execution-via-Attr-Filter-Template-Content-46553)|An attacker can use a vulnerability of Jinja, via Attr Filter Template Content, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-via-Organization-Mapper-46551" class="noirorange"><b>Keycloak</b>: privilege escalation via Organization Mapper</a>](https://vigilance.fr/vulnerability/Keycloak-privilege-escalation-via-Organization-Mapper-46551)|An attacker can bypass restrictions of Keycloak, via Organization Mapper, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AdaCore-Ada-Web-Server-Man-in-the-Middle-dated-10-03-2025-46550" class="noirorange"><b>AdaCore Ada Web Server</b>: Man-in-the-Middle dated 10/03/2025</a>](https://vigilance.fr/vulnerability/AdaCore-Ada-Web-Server-Man-in-the-Middle-dated-10-03-2025-46550)|An attacker can act as a Man-in-the-Middle on AdaCore Ada Web Server, dated 10/03/2025, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DOMPurify-Cross-Site-Scripting-via-Template-Literal-Regular-Expression-46549" class="noirorange"><b>DOMPurify</b>: Cross Site Scripting via Template Literal Regular Expression</a>](https://vigilance.fr/vulnerability/DOMPurify-Cross-Site-Scripting-via-Template-Literal-Regular-Expression-46549)|An attacker can trigger a Cross Site Scripting of DOMPurify, via Template Literal Regular Expression, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -42,8 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/PgBouncer-user-access-via-Auth-query-Expired-Password-46967" class="noirorange"><b>PgBouncer</b>: user access via Auth_query Expired Password</a>](https://vigilance.fr/vulnerability/PgBouncer-user-access-via-Auth-query-Expired-Password-46967)|An attacker can bypass restrictions of PgBouncer, via Auth_query Expired Password, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Spotipy-user-access-via-Cache-File-Auth-Token-46543" class="noirorange"><b>Spotipy</b>: user access via Cache File Auth Token</a>](https://vigilance.fr/vulnerability/Spotipy-user-access-via-Cache-File-Auth-Token-46543)|An attacker can bypass restrictions of Spotipy, via Cache File Auth Token, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Twig-information-disclosure-via-toString-46959" class="noirorange"><b>Twig</b>: information disclosure via __toString()</a>](https://vigilance.fr/vulnerability/Twig-information-disclosure-via-toString-46959)|An attacker can bypass access restrictions to data of Twig, via __toString(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-09-08-2024-44896" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities dated 09/08/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-dated-09-08-2024-44896)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 09/08/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/virtuoso-opensource-denial-of-service-via-sqlc-add-distinct-node-46943" class="noirorange"><b>virtuoso-opensource</b>: denial of service via sqlc_add_distinct_<wbr>node</wbr></a>](https://vigilance.fr/vulnerability/virtuoso-opensource-denial-of-service-via-sqlc-add-distinct-node-46943)|An attacker can cause a fatal error of virtuoso-opensource, via sqlc_add_distinct_|Visit link for details|
  
  ---
 
