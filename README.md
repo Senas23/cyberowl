@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/05/2025 21:22:07 UTC
+ > Last Updated 12/05/2025 09:28:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-Chrome-Edge-Opera-WebKitGTK-read-write-access-via-Sandbox-Escape-46575" class="noirorange"><b>Apple iOS  macOS  Chrome  Edge  Opera  WebKitGTK</b>: read-write access via Sandbox Escape</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-Chrome-Edge-Opera-WebKitGTK-read-write-access-via-Sandbox-Escape-46575)|An attacker can bypass access restrictions of Apple iOS  macOS  Chrome  Edge  Opera  WebKitGTK, via Sandbox Escape, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Visual-Studio-Code-privilege-escalation-dated-11-03-2025-46571" class="noirorange"><b>Visual Studio Code</b>: privilege escalation dated 11/03/2025</a>](https://vigilance.fr/vulnerability/Visual-Studio-Code-privilege-escalation-dated-11-03-2025-46571)|An attacker can bypass restrictions of Visual Studio Code, dated 11/03/2025, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-ASP-NET-Visual-Studio-vulnerabilities-of-March-2025-46570" class="noirorange"><b>Microsoft ASP.NET  Visual Studio</b>: vulnerabilities of March 2025</a>](https://vigilance.fr/vulnerability/Microsoft-ASP-NET-Visual-Studio-vulnerabilities-of-March-2025-46570)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-SQL-injection-via-CLI-46567" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: SQL injection via CLI</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-SQL-injection-via-CLI-46567)|An attacker can use a SQL injection of FortiAnalyzer  FortiManager, via CLI, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libmodbus-multiple-vulnerabilities-dated-11-03-2025-46565" class="noirorange"><b>libmodbus</b>: multiple vulnerabilities dated 11/03/2025</a>](https://vigilance.fr/vulnerability/libmodbus-multiple-vulnerabilities-dated-11-03-2025-46565)|An attacker can use several vulnerabilities of libmodbus, dated 11/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-Response-46564" class="noirorange"><b>libmodbus</b>: buffer overflow via Response</a>](https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-Response-46564)|An attacker can trigger a buffer overflow of libmodbus, via Response, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-privilege-escalation-via-Extensible-Firmware-Interface-46562" class="noirorange"><b>SIMATIC</b>: privilege escalation via Extensible Firmware Interface</a>](https://vigilance.fr/vulnerability/SIMATIC-privilege-escalation-via-Extensible-Firmware-Interface-46562)|An attacker can bypass restrictions of SIMATIC, via Extensible Firmware Interface, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-OPC-UA-46561" class="noirorange"><b>SIMATIC</b>: two vulnerabilities via OPC UA</a>](https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-OPC-UA-46561)|An attacker can use several vulnerabilities of SIMATIC, via OPC UA...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-privilege-escalation-via-Windows-46560" class="noirorange"><b>Ivanti Secure Access Client</b>: privilege escalation via Windows</a>](https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-privilege-escalation-via-Windows-46560)|An attacker can bypass restrictions of Ivanti Secure Access Client, via Windows, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redmine-four-vulnerabilities-dated-11-03-2025-46559" class="noirorange"><b>Redmine</b>: four vulnerabilities dated 11/03/2025</a>](https://vigilance.fr/vulnerability/Redmine-four-vulnerabilities-dated-11-03-2025-46559)|An attacker can use several vulnerabilities of Redmine, dated 11/03/2025...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0380/)|Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0379/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 09 mai 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vyper-overload-via-Iterator-Target-46578" class="noirorange"><b>Vyper</b>: overload via Iterator Target</a>](https://vigilance.fr/vulnerability/Vyper-overload-via-Iterator-Target-46578)|An attacker can trigger an overload of Vyper, via Iterator Target, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-Chrome-Edge-Opera-WebKitGTK-read-write-access-via-Sandbox-Escape-46575" class="noirorange"><b>Apple iOS  macOS  Chrome  Edge  Opera  WebKitGTK</b>: read-write access via Sandbox Escape</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-Chrome-Edge-Opera-WebKitGTK-read-write-access-via-Sandbox-Escape-46575)|An attacker can bypass access restrictions of Apple iOS  macOS  Chrome  Edge  Opera  WebKitGTK, via Sandbox Escape, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Visual-Studio-Code-privilege-escalation-dated-11-03-2025-46571" class="noirorange"><b>Visual Studio Code</b>: privilege escalation dated 11/03/2025</a>](https://vigilance.fr/vulnerability/Visual-Studio-Code-privilege-escalation-dated-11-03-2025-46571)|An attacker can bypass restrictions of Visual Studio Code, dated 11/03/2025, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-ASP-NET-Visual-Studio-vulnerabilities-of-March-2025-46570" class="noirorange"><b>Microsoft ASP.NET  Visual Studio</b>: vulnerabilities of March 2025</a>](https://vigilance.fr/vulnerability/Microsoft-ASP-NET-Visual-Studio-vulnerabilities-of-March-2025-46570)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-SQL-injection-via-CLI-46567" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: SQL injection via CLI</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-SQL-injection-via-CLI-46567)|An attacker can use a SQL injection of FortiAnalyzer  FortiManager, via CLI, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libmodbus-multiple-vulnerabilities-dated-11-03-2025-46565" class="noirorange"><b>libmodbus</b>: multiple vulnerabilities dated 11/03/2025</a>](https://vigilance.fr/vulnerability/libmodbus-multiple-vulnerabilities-dated-11-03-2025-46565)|An attacker can use several vulnerabilities of libmodbus, dated 11/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-Response-46564" class="noirorange"><b>libmodbus</b>: buffer overflow via Response</a>](https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-Response-46564)|An attacker can trigger a buffer overflow of libmodbus, via Response, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-privilege-escalation-via-Extensible-Firmware-Interface-46562" class="noirorange"><b>SIMATIC</b>: privilege escalation via Extensible Firmware Interface</a>](https://vigilance.fr/vulnerability/SIMATIC-privilege-escalation-via-Extensible-Firmware-Interface-46562)|An attacker can bypass restrictions of SIMATIC, via Extensible Firmware Interface, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-OPC-UA-46561" class="noirorange"><b>SIMATIC</b>: two vulnerabilities via OPC UA</a>](https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-OPC-UA-46561)|An attacker can use several vulnerabilities of SIMATIC, via OPC UA...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-privilege-escalation-via-Windows-46560" class="noirorange"><b>Ivanti Secure Access Client</b>: privilege escalation via Windows</a>](https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-privilege-escalation-via-Windows-46560)|An attacker can bypass restrictions of Ivanti Secure Access Client, via Windows, in order to escalate his privileges...|Visit link for details|
  
  ---
 
