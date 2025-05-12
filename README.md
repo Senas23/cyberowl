@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/05/2025 09:28:54 UTC
+ > Last Updated 12/05/2025 21:23:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0389/)|Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0388/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0387/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à l'intégrité des données et un déni de service.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 09 mai 2025|
@@ -42,8 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0380/)|Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 09 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0379/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 09 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 09 mai 2025|
  
  ---
 
@@ -51,16 +51,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-LLDP-Frame-46586" class="noirorange"><b>PAN-OS</b>: denial of service via LLDP Frame</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-LLDP-Frame-46586)|An attacker can cause a fatal error of PAN-OS, via LLDP Frame, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-overload-via-GlobalProtect-Packets-46584" class="noirorange"><b>PAN-OS</b>: overload via GlobalProtect Packets</a>](https://vigilance.fr/vulnerability/PAN-OS-overload-via-GlobalProtect-Packets-46584)|An attacker can trigger an overload of PAN-OS, via GlobalProtect Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-privilege-escalation-via-Compartmentalization-Bypass-46582" class="noirorange"><b>Junos OS</b>: privilege escalation via Compartmentalization Bypass</a>](https://vigilance.fr/vulnerability/Junos-OS-privilege-escalation-via-Compartmentalization-Bypass-46582)|An attacker can bypass restrictions of Junos OS, via Compartmentalization Bypass, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/golang-org-x-oauth2-jws-memory-leak-via-Malformed-Token-46581" class="noirorange"><b>golang.org/x/oauth2/<wbr>jws</wbr></b>: memory leak via Malformed Token</a>](https://vigilance.fr/vulnerability/golang-org-x-oauth2-jws-memory-leak-via-Malformed-Token-46581)|An attacker can create a memory leak of golang.org/x/oauth2/|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/golang-org-x-crypto-ssh-denial-of-service-via-Slow-Key-Exchange-46580" class="noirorange"><b>golang.org/x/crypto/<wbr>ssh</wbr></b>: denial of service via Slow Key Exchange</a>](https://vigilance.fr/vulnerability/golang-org-x-crypto-ssh-denial-of-service-via-Slow-Key-Exchange-46580)|An attacker can cause a fatal error of golang.org/x/crypto/|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vyper-overload-via-Iterator-Target-46578" class="noirorange"><b>Vyper</b>: overload via Iterator Target</a>](https://vigilance.fr/vulnerability/Vyper-overload-via-Iterator-Target-46578)|An attacker can trigger an overload of Vyper, via Iterator Target, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-Chrome-Edge-Opera-WebKitGTK-read-write-access-via-Sandbox-Escape-46575" class="noirorange"><b>Apple iOS  macOS  Chrome  Edge  Opera  WebKitGTK</b>: read-write access via Sandbox Escape</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-Chrome-Edge-Opera-WebKitGTK-read-write-access-via-Sandbox-Escape-46575)|An attacker can bypass access restrictions of Apple iOS  macOS  Chrome  Edge  Opera  WebKitGTK, via Sandbox Escape, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Visual-Studio-Code-privilege-escalation-dated-11-03-2025-46571" class="noirorange"><b>Visual Studio Code</b>: privilege escalation dated 11/03/2025</a>](https://vigilance.fr/vulnerability/Visual-Studio-Code-privilege-escalation-dated-11-03-2025-46571)|An attacker can bypass restrictions of Visual Studio Code, dated 11/03/2025, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-ASP-NET-Visual-Studio-vulnerabilities-of-March-2025-46570" class="noirorange"><b>Microsoft ASP.NET  Visual Studio</b>: vulnerabilities of March 2025</a>](https://vigilance.fr/vulnerability/Microsoft-ASP-NET-Visual-Studio-vulnerabilities-of-March-2025-46570)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-SQL-injection-via-CLI-46567" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: SQL injection via CLI</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-SQL-injection-via-CLI-46567)|An attacker can use a SQL injection of FortiAnalyzer  FortiManager, via CLI, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libmodbus-multiple-vulnerabilities-dated-11-03-2025-46565" class="noirorange"><b>libmodbus</b>: multiple vulnerabilities dated 11/03/2025</a>](https://vigilance.fr/vulnerability/libmodbus-multiple-vulnerabilities-dated-11-03-2025-46565)|An attacker can use several vulnerabilities of libmodbus, dated 11/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-Response-46564" class="noirorange"><b>libmodbus</b>: buffer overflow via Response</a>](https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-Response-46564)|An attacker can trigger a buffer overflow of libmodbus, via Response, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-privilege-escalation-via-Extensible-Firmware-Interface-46562" class="noirorange"><b>SIMATIC</b>: privilege escalation via Extensible Firmware Interface</a>](https://vigilance.fr/vulnerability/SIMATIC-privilege-escalation-via-Extensible-Firmware-Interface-46562)|An attacker can bypass restrictions of SIMATIC, via Extensible Firmware Interface, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-OPC-UA-46561" class="noirorange"><b>SIMATIC</b>: two vulnerabilities via OPC UA</a>](https://vigilance.fr/vulnerability/SIMATIC-two-vulnerabilities-via-OPC-UA-46561)|An attacker can use several vulnerabilities of SIMATIC, via OPC UA...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-privilege-escalation-via-Windows-46560" class="noirorange"><b>Ivanti Secure Access Client</b>: privilege escalation via Windows</a>](https://vigilance.fr/vulnerability/Ivanti-Secure-Access-Client-privilege-escalation-via-Windows-46560)|An attacker can bypass restrictions of Ivanti Secure Access Client, via Windows, in order to escalate his privileges...|Visit link for details|
  
  ---
 
