@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/05/2025 09:28:51 UTC
+ > Last Updated 13/05/2025 21:25:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,19 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0389/)|Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0388/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0387/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à l'intégrité des données et un déni de service.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 09 mai 2025|
@@ -42,8 +51,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 09 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0380/)|Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 09 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0379/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 09 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0378/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 09 mai 2025|
  
  ---
 
@@ -51,23 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rack-directory-traversal-via-Static-46595" class="noirorange"><b>Rack</b>: directory traversal via Static</a>](https://vigilance.fr/vulnerability/Rack-directory-traversal-via-Static-46595)|An attacker can traverse directories of Rack, via Static, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSAML-C-Shibboleth-Service-Provider-weak-signature-via-Parameter-Manipulation-46594" class="noirorange"><b>OpenSAML-C++  Shibboleth Service Provider</b>: weak signature via Parameter Manipulation</a>](https://vigilance.fr/vulnerability/OpenSAML-C-Shibboleth-Service-Provider-weak-signature-via-Parameter-Manipulation-46594)|An attacker can use malicious data on OpenSAML-C++  Shibboleth Service Provider, via Parameter Manipulation, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2024-44923" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of August 2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2024-44923)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2024-44922" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of August 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-August-2024-44922)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-dated-13-08-2024-44918" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities dated 13/08/2024</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-dated-13-08-2024-44918)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source, dated 13/08/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-13-08-2024-44917" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities dated 13/08/2024</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-13-08-2024-44917)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader, dated 13/08/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-multiple-vulnerabilities-dated-13-08-2024-44916" class="noirorange"><b>Zabbix</b>: multiple vulnerabilities dated 13/08/2024</a>](https://vigilance.fr/vulnerability/Zabbix-multiple-vulnerabilities-dated-13-08-2024-44916)|An attacker can use several vulnerabilities of Zabbix, dated 13/08/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Virtual-Traffic-Manager-privilege-escalation-via-Admin-Panel-44914" class="noirorange"><b>Ivanti Virtual Traffic Manager</b>: privilege escalation via Admin Panel</a>](https://vigilance.fr/vulnerability/Ivanti-Virtual-Traffic-Manager-privilege-escalation-via-Admin-Panel-44914)|An attacker can bypass restrictions of Ivanti Virtual Traffic Manager, via Admin Panel, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-write-access-via-GitRepo-Volume-46593" class="noirorange"><b>Kubernetes</b>: write access via GitRepo Volume</a>](https://vigilance.fr/vulnerability/Kubernetes-write-access-via-GitRepo-Volume-46593)|An attacker can bypass access restrictions of Kubernetes, via GitRepo Volume, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2024-44913" class="noirorange"><b>SAP</b>: multiple vulnerabilities of August 2024</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2024-44913)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-thp-get-unmapped-area-44912" class="noirorange"><b>Linux kernel</b>: memory corruption via __thp_get_unmapped_<wbr>area()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-thp-get-unmapped-area-44912)|An attacker can trigger a memory corruption of the Linux kernel, via __thp_get_unmapped_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-03-2025-46587" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 13/03/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-03-2025-46587)|An attacker can use several vulnerabilities of the Linux kernel, dated 13/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-LLDP-Frame-46586" class="noirorange"><b>PAN-OS</b>: denial of service via LLDP Frame</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-LLDP-Frame-46586)|An attacker can cause a fatal error of PAN-OS, via LLDP Frame, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-overload-via-GlobalProtect-Packets-46584" class="noirorange"><b>PAN-OS</b>: overload via GlobalProtect Packets</a>](https://vigilance.fr/vulnerability/PAN-OS-overload-via-GlobalProtect-Packets-46584)|An attacker can trigger an overload of PAN-OS, via GlobalProtect Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-privilege-escalation-via-Compartmentalization-Bypass-46582" class="noirorange"><b>Junos OS</b>: privilege escalation via Compartmentalization Bypass</a>](https://vigilance.fr/vulnerability/Junos-OS-privilege-escalation-via-Compartmentalization-Bypass-46582)|An attacker can bypass restrictions of Junos OS, via Compartmentalization Bypass, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/golang-org-x-oauth2-jws-memory-leak-via-Malformed-Token-46581" class="noirorange"><b>golang.org/x/oauth2/<wbr>jws</wbr></b>: memory leak via Malformed Token</a>](https://vigilance.fr/vulnerability/golang-org-x-oauth2-jws-memory-leak-via-Malformed-Token-46581)|An attacker can create a memory leak of golang.org/x/oauth2/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/golang-org-x-crypto-ssh-denial-of-service-via-Slow-Key-Exchange-46580" class="noirorange"><b>golang.org/x/crypto/<wbr>ssh</wbr></b>: denial of service via Slow Key Exchange</a>](https://vigilance.fr/vulnerability/golang-org-x-crypto-ssh-denial-of-service-via-Slow-Key-Exchange-46580)|An attacker can cause a fatal error of golang.org/x/crypto/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vyper-overload-via-Iterator-Target-46578" class="noirorange"><b>Vyper</b>: overload via Iterator Target</a>](https://vigilance.fr/vulnerability/Vyper-overload-via-Iterator-Target-46578)|An attacker can trigger an overload of Vyper, via Iterator Target, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-Chrome-Edge-Opera-WebKitGTK-read-write-access-via-Sandbox-Escape-46575" class="noirorange"><b>Apple iOS  macOS  Chrome  Edge  Opera  WebKitGTK</b>: read-write access via Sandbox Escape</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-Chrome-Edge-Opera-WebKitGTK-read-write-access-via-Sandbox-Escape-46575)|An attacker can bypass access restrictions of Apple iOS  macOS  Chrome  Edge  Opera  WebKitGTK, via Sandbox Escape, in order to read or alter data...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
