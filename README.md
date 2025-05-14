@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/05/2025 21:25:57 UTC
+ > Last Updated 14/05/2025 09:28:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0389/)|Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0388/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0387/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à l'intégrité des données et un déni de service.|Publié le 09 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0386/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 09 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0385/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 09 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0384/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 09 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0383/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 09 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0382/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 09 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0381/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 09 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0380/)|Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 09 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0400/)|De multiples vulnérabilités ont été découvertes dans Ivanti Endpoint Manager Mobile (EPMM). Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. Ivanti indique que ces vulnérabilités sont activement exploitées.|Publié le 13 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0399/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Fortinet indique que la vulnérabilité...|Publié le 13 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0398/)|Une vulnérabilité a été découverte dans les produits Schneider Electric. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 13 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0397/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0396/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 13 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0395/)|Une vulnérabilité a été découverte dans les produits Citrix. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 13 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0394/)|De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 13 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0393/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Apple indique que la vulnérabilité CVE-2025-31200 est...|Publié le 13 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0392/)|De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0391/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 13 mai 2025|
  
  ---
 
@@ -58,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Mistral-information-disclosure-via-SH-Private-Key-Filename-46979" class="noirorange"><b>OpenStack Mistral</b>: information disclosure via SH Private Key Filename</a>](https://vigilance.fr/vulnerability/OpenStack-Mistral-information-disclosure-via-SH-Private-Key-Filename-46979)|An attacker can bypass access restrictions to data of OpenStack Mistral, via SH Private Key Filename, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-four-vulnerabilities-dated-05-03-2025-46599" class="noirorange"><b>Apache Traffic Server</b>: four vulnerabilities dated 05/03/2025</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-four-vulnerabilities-dated-05-03-2025-46599)|An attacker can use several vulnerabilities of Apache Traffic Server, dated 05/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rack-directory-traversal-via-Static-46595" class="noirorange"><b>Rack</b>: directory traversal via Static</a>](https://vigilance.fr/vulnerability/Rack-directory-traversal-via-Static-46595)|An attacker can traverse directories of Rack, via Static, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSAML-C-Shibboleth-Service-Provider-weak-signature-via-Parameter-Manipulation-46594" class="noirorange"><b>OpenSAML-C++  Shibboleth Service Provider</b>: weak signature via Parameter Manipulation</a>](https://vigilance.fr/vulnerability/OpenSAML-C-Shibboleth-Service-Provider-weak-signature-via-Parameter-Manipulation-46594)|An attacker can use malicious data on OpenSAML-C++  Shibboleth Service Provider, via Parameter Manipulation, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2024-44923" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of August 2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2024-44923)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
@@ -66,8 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-13-08-2024-44917" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities dated 13/08/2024</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-13-08-2024-44917)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader, dated 13/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-multiple-vulnerabilities-dated-13-08-2024-44916" class="noirorange"><b>Zabbix</b>: multiple vulnerabilities dated 13/08/2024</a>](https://vigilance.fr/vulnerability/Zabbix-multiple-vulnerabilities-dated-13-08-2024-44916)|An attacker can use several vulnerabilities of Zabbix, dated 13/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Virtual-Traffic-Manager-privilege-escalation-via-Admin-Panel-44914" class="noirorange"><b>Ivanti Virtual Traffic Manager</b>: privilege escalation via Admin Panel</a>](https://vigilance.fr/vulnerability/Ivanti-Virtual-Traffic-Manager-privilege-escalation-via-Admin-Panel-44914)|An attacker can bypass restrictions of Ivanti Virtual Traffic Manager, via Admin Panel, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-write-access-via-GitRepo-Volume-46593" class="noirorange"><b>Kubernetes</b>: write access via GitRepo Volume</a>](https://vigilance.fr/vulnerability/Kubernetes-write-access-via-GitRepo-Volume-46593)|An attacker can bypass access restrictions of Kubernetes, via GitRepo Volume, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2024-44913" class="noirorange"><b>SAP</b>: multiple vulnerabilities of August 2024</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-August-2024-44913)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
