@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/05/2025 21:24:49 UTC
+ > Last Updated 17/05/2025 09:24:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-denial-of-service-via-sqfs-size-47004" class="noirorange"><b>Das U-Boot</b>: denial of service via sqfs_size()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-denial-of-service-via-sqfs-size-47004)|An attacker can cause a fatal error of Das U-Boot, via sqfs_size(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Browser-Cache-46998" class="noirorange"><b>Request Tracker</b>: information disclosure via Browser Cache</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Browser-Cache-46998)|An attacker can bypass access restrictions to data of Request Tracker, via Browser Cache, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-Windows-Agent-file-deletion-via-ERASER-Engine-46991" class="noirorange"><b>Symantec Endpoint Protection Windows Agent</b>: file deletion via ERASER Engine</a>](https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-Windows-Agent-file-deletion-via-ERASER-Engine-46991)|An attacker can bypass access restrictions of Symantec Endpoint Protection Windows Agent, via ERASER Engine, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dovecot-overload-via-Address-Headers-44954" class="noirorange"><b>Dovecot</b>: overload via Address Headers</a>](https://vigilance.fr/vulnerability/Dovecot-overload-via-Address-Headers-44954)|An attacker can trigger an overload of Dovecot, via Address Headers, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2023-42873" class="noirorange"><b>Windows</b>: vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2023-42873)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Conditional-HTTP-Request-44948" class="noirorange"><b>Spring Framework</b>: denial of service via Conditional HTTP Request</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Conditional-HTTP-Request-44948)|An attacker can cause a fatal error of Spring Framework, via Conditional HTTP Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/nginx-denial-of-service-via-ngx-http-mp4-module-44947" class="noirorange"><b>nginx</b>: denial of service via ngx_http_mp4_module</a>](https://vigilance.fr/vulnerability/nginx-denial-of-service-via-ngx-http-mp4-module-44947)|An attacker can cause a fatal error of nginx, via ngx_http_mp4_module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-dated-14-08-2024-44944" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities dated 14/08/2024</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-dated-14-08-2024-44944)|An attacker can use several vulnerabilities of F5 BIG-IP, dated 14/08/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-MFP-M232-M237-denial-of-service-dated-14-03-2025-46603" class="noirorange"><b>HP LaserJet MFP M232-M237</b>: denial of service dated 14/03/2025</a>](https://vigilance.fr/vulnerability/HP-LaserJet-MFP-M232-M237-denial-of-service-dated-14-03-2025-46603)|An attacker can cause a fatal error of HP LaserJet MFP M232-M237, dated 14/03/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-DXA-Demuxer-46601" class="noirorange"><b>FFmpeg</b>: integer overflow via DXA Demuxer</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-DXA-Demuxer-46601)|An attacker can trigger an integer overflow of FFmpeg, via DXA Demuxer, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0415/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un déni de service.|Publié le 16 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0414/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 mai 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-privilege-escalation-via-Request-Payload-46609" class="noirorange"><b>Centreon Web</b>: privilege escalation via Request Payload</a>](https://vigilance.fr/vulnerability/Centreon-Web-privilege-escalation-via-Request-Payload-46609)|An attacker can bypass restrictions of Centreon Web, via Request Payload, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-47010" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-47010)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-ct-find-expectation-46608" class="noirorange"><b>Linux kernel</b>: use after free via nf_ct_find_<wbr>expectation()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-ct-find-expectation-46608)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nf_ct_find_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-Recursive-Entity-Expansion-46605" class="noirorange"><b>libexpat</b>: denial of service via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-Recursive-Entity-Expansion-46605)|An attacker can cause a fatal error of libexpat, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-denial-of-service-via-sqfs-size-47004" class="noirorange"><b>Das U-Boot</b>: denial of service via sqfs_size()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-denial-of-service-via-sqfs-size-47004)|An attacker can cause a fatal error of Das U-Boot, via sqfs_size(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Browser-Cache-46998" class="noirorange"><b>Request Tracker</b>: information disclosure via Browser Cache</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Browser-Cache-46998)|An attacker can bypass access restrictions to data of Request Tracker, via Browser Cache, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-Windows-Agent-file-deletion-via-ERASER-Engine-46991" class="noirorange"><b>Symantec Endpoint Protection Windows Agent</b>: file deletion via ERASER Engine</a>](https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-Windows-Agent-file-deletion-via-ERASER-Engine-46991)|An attacker can bypass access restrictions of Symantec Endpoint Protection Windows Agent, via ERASER Engine, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dovecot-overload-via-Address-Headers-44954" class="noirorange"><b>Dovecot</b>: overload via Address Headers</a>](https://vigilance.fr/vulnerability/Dovecot-overload-via-Address-Headers-44954)|An attacker can trigger an overload of Dovecot, via Address Headers, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2023-42873" class="noirorange"><b>Windows</b>: vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2023-42873)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Conditional-HTTP-Request-44948" class="noirorange"><b>Spring Framework</b>: denial of service via Conditional HTTP Request</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Conditional-HTTP-Request-44948)|An attacker can cause a fatal error of Spring Framework, via Conditional HTTP Request, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
