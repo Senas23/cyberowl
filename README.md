@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/05/2025 21:23:05 UTC
+ > Last Updated 18/05/2025 09:24:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,30 +23,6 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-privilege-escalation-via-Request-Payload-46609" class="noirorange"><b>Centreon Web</b>: privilege escalation via Request Payload</a>](https://vigilance.fr/vulnerability/Centreon-Web-privilege-escalation-via-Request-Payload-46609)|An attacker can bypass restrictions of Centreon Web, via Request Payload, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-47010" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-47010)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-ct-find-expectation-46608" class="noirorange"><b>Linux kernel</b>: use after free via nf_ct_find_<wbr>expectation()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-ct-find-expectation-46608)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nf_ct_find_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-Recursive-Entity-Expansion-46605" class="noirorange"><b>libexpat</b>: denial of service via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-Recursive-Entity-Expansion-46605)|An attacker can cause a fatal error of libexpat, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-denial-of-service-via-sqfs-size-47004" class="noirorange"><b>Das U-Boot</b>: denial of service via sqfs_size()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-denial-of-service-via-sqfs-size-47004)|An attacker can cause a fatal error of Das U-Boot, via sqfs_size(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Browser-Cache-46998" class="noirorange"><b>Request Tracker</b>: information disclosure via Browser Cache</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Browser-Cache-46998)|An attacker can bypass access restrictions to data of Request Tracker, via Browser Cache, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-Windows-Agent-file-deletion-via-ERASER-Engine-46991" class="noirorange"><b>Symantec Endpoint Protection Windows Agent</b>: file deletion via ERASER Engine</a>](https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-Windows-Agent-file-deletion-via-ERASER-Engine-46991)|An attacker can bypass access restrictions of Symantec Endpoint Protection Windows Agent, via ERASER Engine, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dovecot-overload-via-Address-Headers-44954" class="noirorange"><b>Dovecot</b>: overload via Address Headers</a>](https://vigilance.fr/vulnerability/Dovecot-overload-via-Address-Headers-44954)|An attacker can trigger an overload of Dovecot, via Address Headers, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2023-42873" class="noirorange"><b>Windows</b>: vulnerabilities of November 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2023-42873)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Conditional-HTTP-Request-44948" class="noirorange"><b>Spring Framework</b>: denial of service via Conditional HTTP Request</a>](https://vigilance.fr/vulnerability/Spring-Framework-denial-of-service-via-Conditional-HTTP-Request-44948)|An attacker can cause a fatal error of Spring Framework, via Conditional HTTP Request, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -64,6 +40,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-SVG-Uploads-46616" class="noirorange"><b>Contao</b>: Cross Site Scripting via SVG Uploads</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-SVG-Uploads-46616)|An attacker can trigger a Cross Site Scripting of Contao, via SVG Uploads, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Action-Text-overload-via-plain-text-for-blockquote-node-46615" class="noirorange"><b>Action Text</b>: overload via plain_text_for_<wbr>blockquote_node</wbr></a>](https://vigilance.fr/vulnerability/Action-Text-overload-via-plain-text-for-blockquote-node-46615)|An attacker can trigger an overload of Action Text, via plain_text_for_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Action-Pack-Cross-Site-Scripting-via-content-security-policy-46614" class="noirorange"><b>Action Pack</b>: Cross Site Scripting via content_security_<wbr>policy</wbr></a>](https://vigilance.fr/vulnerability/Action-Pack-Cross-Site-Scripting-via-content-security-policy-46614)|An attacker can trigger a Cross Site Scripting of Action Pack, via content_security_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Action-Pack-overload-via-Query-Parameter-Filtering-R-46613" class="noirorange"><b>Action Pack</b>: overload via Query Parameter Filtering R</a>](https://vigilance.fr/vulnerability/Action-Pack-overload-via-Query-Parameter-Filtering-R-46613)|An attacker can trigger an overload of Action Pack, via Query Parameter Filtering R, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-privilege-escalation-via-Request-Payload-46609" class="noirorange"><b>Centreon Web</b>: privilege escalation via Request Payload</a>](https://vigilance.fr/vulnerability/Centreon-Web-privilege-escalation-via-Request-Payload-46609)|An attacker can bypass restrictions of Centreon Web, via Request Payload, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-47010" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-47010)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-ct-find-expectation-46608" class="noirorange"><b>Linux kernel</b>: use after free via nf_ct_find_<wbr>expectation()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-ct-find-expectation-46608)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nf_ct_find_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-Recursive-Entity-Expansion-46605" class="noirorange"><b>libexpat</b>: denial of service via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-Recursive-Entity-Expansion-46605)|An attacker can cause a fatal error of libexpat, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-denial-of-service-via-sqfs-size-47004" class="noirorange"><b>Das U-Boot</b>: denial of service via sqfs_size()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-denial-of-service-via-sqfs-size-47004)|An attacker can cause a fatal error of Das U-Boot, via sqfs_size(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Browser-Cache-46998" class="noirorange"><b>Request Tracker</b>: information disclosure via Browser Cache</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Browser-Cache-46998)|An attacker can bypass access restrictions to data of Request Tracker, via Browser Cache, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -72,6 +65,13 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
