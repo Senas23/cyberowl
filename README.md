@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/05/2025 09:24:06 UTC
+ > Last Updated 18/05/2025 21:21:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -21,6 +21,13 @@
  |[VulDB](#vuldb-arrow_heading_up)|Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.|
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
+ ---
+
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
  ---
 
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
@@ -44,16 +51,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-header-injection-via-Client-side-Desync-46620" class="noirorange"><b>Varnish Cache</b>: header injection via Client-side Desync</a>](https://vigilance.fr/vulnerability/Varnish-Cache-header-injection-via-Client-side-Desync-46620)|An attacker can add new headers on Varnish Cache, via Client-side Desync, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-C-Driver-integer-overflow-via-bson-46619" class="noirorange"><b>MongoDB C Driver</b>: integer overflow via bson</a>](https://vigilance.fr/vulnerability/MongoDB-C-Driver-integer-overflow-via-bson-46619)|An attacker can trigger an integer overflow of MongoDB C Driver, via bson, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Clickstorm-SEO-multiple-vulnerabilities-dated-18-03-2025-46618" class="noirorange"><b>TYPO3 Clickstorm SEO</b>: multiple vulnerabilities dated 18/03/2025</a>](https://vigilance.fr/vulnerability/TYPO3-Clickstorm-SEO-multiple-vulnerabilities-dated-18-03-2025-46618)|An attacker can use several vulnerabilities of TYPO3 Clickstorm SEO, dated 18/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Additional-TCA-Cross-Site-Scripting-dated-18-03-2025-46617" class="noirorange"><b>TYPO3 Additional TCA</b>: Cross Site Scripting dated 18/03/2025</a>](https://vigilance.fr/vulnerability/TYPO3-Additional-TCA-Cross-Site-Scripting-dated-18-03-2025-46617)|An attacker can trigger a Cross Site Scripting of TYPO3 Additional TCA, dated 18/03/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-SVG-Uploads-46616" class="noirorange"><b>Contao</b>: Cross Site Scripting via SVG Uploads</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-SVG-Uploads-46616)|An attacker can trigger a Cross Site Scripting of Contao, via SVG Uploads, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Action-Text-overload-via-plain-text-for-blockquote-node-46615" class="noirorange"><b>Action Text</b>: overload via plain_text_for_<wbr>blockquote_node</wbr></a>](https://vigilance.fr/vulnerability/Action-Text-overload-via-plain-text-for-blockquote-node-46615)|An attacker can trigger an overload of Action Text, via plain_text_for_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Action-Pack-Cross-Site-Scripting-via-content-security-policy-46614" class="noirorange"><b>Action Pack</b>: Cross Site Scripting via content_security_<wbr>policy</wbr></a>](https://vigilance.fr/vulnerability/Action-Pack-Cross-Site-Scripting-via-content-security-policy-46614)|An attacker can trigger a Cross Site Scripting of Action Pack, via content_security_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Action-Pack-overload-via-Query-Parameter-Filtering-R-46613" class="noirorange"><b>Action Pack</b>: overload via Query Parameter Filtering R</a>](https://vigilance.fr/vulnerability/Action-Pack-overload-via-Query-Parameter-Filtering-R-46613)|An attacker can trigger an overload of Action Pack, via Query Parameter Filtering R, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-privilege-escalation-via-Request-Payload-46609" class="noirorange"><b>Centreon Web</b>: privilege escalation via Request Payload</a>](https://vigilance.fr/vulnerability/Centreon-Web-privilege-escalation-via-Request-Payload-46609)|An attacker can bypass restrictions of Centreon Web, via Request Payload, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-47010" class="noirorange"><b>IBM Db2</b>: denial of service via Crafted Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Crafted-Query-47010)|An attacker can cause a fatal error of IBM Db2, via Crafted Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-ct-find-expectation-46608" class="noirorange"><b>Linux kernel</b>: use after free via nf_ct_find_<wbr>expectation()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-nf-ct-find-expectation-46608)|An attacker can force the reuse of a freed memory area of the Linux kernel, via nf_ct_find_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-Recursive-Entity-Expansion-46605" class="noirorange"><b>libexpat</b>: denial of service via Recursive Entity Expansion</a>](https://vigilance.fr/vulnerability/libexpat-denial-of-service-via-Recursive-Entity-Expansion-46605)|An attacker can cause a fatal error of libexpat, via Recursive Entity Expansion, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-denial-of-service-via-sqfs-size-47004" class="noirorange"><b>Das U-Boot</b>: denial of service via sqfs_size()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-denial-of-service-via-sqfs-size-47004)|An attacker can cause a fatal error of Das U-Boot, via sqfs_size(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Browser-Cache-46998" class="noirorange"><b>Request Tracker</b>: information disclosure via Browser Cache</a>](https://vigilance.fr/vulnerability/Request-Tracker-information-disclosure-via-Browser-Cache-46998)|An attacker can bypass access restrictions to data of Request Tracker, via Browser Cache, in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -65,13 +72,6 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
