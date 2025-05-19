@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/05/2025 09:29:31 UTC
+ > Last Updated 19/05/2025 21:24:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0426/)|Une vulnérabilité a été découverte dans Juniper Networks Junos OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 19 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0425/)|Une vulnérabilité a été découverte dans Synology Active Backup. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 19 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0424/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0423/)|De multiples vulnérabilités ont été découvertes dans les produits Netgate. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0422/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar SIEM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0421/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 16 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0420/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 16 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0419/)|Une vulnérabilité a été découverte Microsoft Defender pour Endpoint. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 16 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0418/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité CVE-2025-4664 est activement exploitée.|Publié le 16 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0417/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0416/)|Une vulnérabilité a été découverte dans Synacor Zimbra Collaboration. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 16 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0415/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un déni de service.|Publié le 16 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0414/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 mai 2025|
  
  ---
 
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ws-denial-of-service-via-maxHeadersCount-44973" class="noirorange"><b>ws</b>: denial of service via maxHeadersCount</a>](https://vigilance.fr/vulnerability/ws-denial-of-service-via-maxHeadersCount-44973)|An attacker can cause a fatal error of ws, via maxHeadersCount, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-19-03-2025-46627" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities dated 19/03/2025</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-19-03-2025-46627)|An attacker can use several vulnerabilities of Jenkins Plugins, dated 19/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-header-injection-via-Email-Encoded-words-Folding-46626" class="noirorange"><b>Python Core</b>: header injection via Email Encoded-words Folding</a>](https://vigilance.fr/vulnerability/Python-Core-header-injection-via-Email-Encoded-words-Folding-46626)|An attacker can add new headers on Python Core, via Email Encoded-words Folding, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/RestrictedPython-code-execution-via-Try-except-Type-Confusion-46624" class="noirorange"><b>RestrictedPython</b>: code execution via Try/except Type Confusion</a>](https://vigilance.fr/vulnerability/RestrictedPython-code-execution-via-Try-except-Type-Confusion-46624)|An attacker can use a vulnerability of RestrictedPython, via Try/except Type Confusion, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/RestrictedPython-code-execution-via-Stack-Frames-Walking-46622" class="noirorange"><b>RestrictedPython</b>: code execution via Stack Frames Walking</a>](https://vigilance.fr/vulnerability/RestrictedPython-code-execution-via-Stack-Frames-Walking-46622)|An attacker can use a vulnerability of RestrictedPython, via Stack Frames Walking, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-Security-multiple-vulnerabilities-dated-19-08-2024-44966" class="noirorange"><b>WebKitGTK  WPE WebKit Security</b>: multiple vulnerabilities dated 19/08/2024</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-Security-multiple-vulnerabilities-dated-19-08-2024-44966)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit Security, dated 19/08/2024...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-C-Driver-integer-overflow-via-bson-46619" class="noirorange"><b>MongoDB C Driver</b>: integer overflow via bson</a>](https://vigilance.fr/vulnerability/MongoDB-C-Driver-integer-overflow-via-bson-46619)|An attacker can trigger an integer overflow of MongoDB C Driver, via bson, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Clickstorm-SEO-multiple-vulnerabilities-dated-18-03-2025-46618" class="noirorange"><b>TYPO3 Clickstorm SEO</b>: multiple vulnerabilities dated 18/03/2025</a>](https://vigilance.fr/vulnerability/TYPO3-Clickstorm-SEO-multiple-vulnerabilities-dated-18-03-2025-46618)|An attacker can use several vulnerabilities of TYPO3 Clickstorm SEO, dated 18/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Additional-TCA-Cross-Site-Scripting-dated-18-03-2025-46617" class="noirorange"><b>TYPO3 Additional TCA</b>: Cross Site Scripting dated 18/03/2025</a>](https://vigilance.fr/vulnerability/TYPO3-Additional-TCA-Cross-Site-Scripting-dated-18-03-2025-46617)|An attacker can trigger a Cross Site Scripting of TYPO3 Additional TCA, dated 18/03/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-SVG-Uploads-46616" class="noirorange"><b>Contao</b>: Cross Site Scripting via SVG Uploads</a>](https://vigilance.fr/vulnerability/Contao-Cross-Site-Scripting-via-SVG-Uploads-46616)|An attacker can trigger a Cross Site Scripting of Contao, via SVG Uploads, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Action-Text-overload-via-plain-text-for-blockquote-node-46615" class="noirorange"><b>Action Text</b>: overload via plain_text_for_<wbr>blockquote_node</wbr></a>](https://vigilance.fr/vulnerability/Action-Text-overload-via-plain-text-for-blockquote-node-46615)|An attacker can trigger an overload of Action Text, via plain_text_for_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Action-Pack-Cross-Site-Scripting-via-content-security-policy-46614" class="noirorange"><b>Action Pack</b>: Cross Site Scripting via content_security_<wbr>policy</wbr></a>](https://vigilance.fr/vulnerability/Action-Pack-Cross-Site-Scripting-via-content-security-policy-46614)|An attacker can trigger a Cross Site Scripting of Action Pack, via content_security_|Visit link for details|
  
  ---
 
