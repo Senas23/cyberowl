@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/05/2025 09:28:33 UTC
+ > Last Updated 20/05/2025 21:25:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-overload-via-USB-Packets-46641" class="noirorange"><b>Wind River VxWorks</b>: overload via USB Packets</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-overload-via-USB-Packets-46641)|An attacker can trigger an overload of Wind River VxWorks, via USB Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kubernetes-ingress-filtrering-bypass-via-Kube-apiserver-Namespace-Termination-46640" class="noirorange"><b>Kubernetes</b>: ingress filtrering bypass via Kube-apiserver Namespace Termination</a>](https://vigilance.fr/vulnerability/Kubernetes-ingress-filtrering-bypass-via-Kube-apiserver-Namespace-Termination-46640)|An attacker can bypass filtering rules of Kubernetes, via Kube-apiserver Namespace Termination, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Formatter-Suite-Cross-Site-Scripting-dated-20-03-2025-46636" class="noirorange"><b>Drupal Formatter Suite</b>: Cross Site Scripting dated 20/03/2025</a>](https://vigilance.fr/vulnerability/Drupal-Formatter-Suite-Cross-Site-Scripting-dated-20-03-2025-46636)|An attacker can trigger a Cross Site Scripting of Drupal Formatter Suite, dated 20/03/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-RapiDoc-OAS-Field-Formatter-Cross-Site-Scripting-dated-20-03-2025-46635" class="noirorange"><b>Drupal RapiDoc OAS Field Formatter</b>: Cross Site Scripting dated 20/03/2025</a>](https://vigilance.fr/vulnerability/Drupal-RapiDoc-OAS-Field-Formatter-Cross-Site-Scripting-dated-20-03-2025-46635)|An attacker can trigger a Cross Site Scripting of Drupal RapiDoc OAS Field Formatter, dated 20/03/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Link-Field-Display-Mode-Formatter-Cross-Site-Scripting-dated-20-03-2025-46634" class="noirorange"><b>Drupal Link Field Display Mode Formatter</b>: Cross Site Scripting dated 20/03/2025</a>](https://vigilance.fr/vulnerability/Drupal-Link-Field-Display-Mode-Formatter-Cross-Site-Scripting-dated-20-03-2025-46634)|An attacker can trigger a Cross Site Scripting of Drupal Link Field Display Mode Formatter, dated 20/03/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/radare2-buffer-overflow-dated-20-03-2025-46631" class="noirorange"><b>radare2</b>: buffer overflow dated 20/03/2025</a>](https://vigilance.fr/vulnerability/radare2-buffer-overflow-dated-20-03-2025-46631)|An attacker can trigger a buffer overflow of radare2, dated 20/03/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Alpine-denial-of-service-via-LIST-LSUB-Before-STARTTLS-46630" class="noirorange"><b>Alpine</b>: denial of service via LIST / LSUB Before STARTTLS</a>](https://vigilance.fr/vulnerability/Alpine-denial-of-service-via-LIST-LSUB-Before-STARTTLS-46630)|An attacker can cause a fatal error of Alpine, via LIST / LSUB Before STARTTLS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ws-denial-of-service-via-maxHeadersCount-44973" class="noirorange"><b>ws</b>: denial of service via maxHeadersCount</a>](https://vigilance.fr/vulnerability/ws-denial-of-service-via-maxHeadersCount-44973)|An attacker can cause a fatal error of ws, via maxHeadersCount, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-19-03-2025-46627" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities dated 19/03/2025</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-19-03-2025-46627)|An attacker can use several vulnerabilities of Jenkins Plugins, dated 19/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-header-injection-via-Email-Encoded-words-Folding-46626" class="noirorange"><b>Python Core</b>: header injection via Email Encoded-words Folding</a>](https://vigilance.fr/vulnerability/Python-Core-header-injection-via-Email-Encoded-words-Folding-46626)|An attacker can add new headers on Python Core, via Email Encoded-words Folding, in order to alter the service behavior...|Visit link for details|
  
  ---
 
