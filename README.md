@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/05/2025 09:28:25 UTC
+ > Last Updated 22/05/2025 21:24:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,34 +30,12 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0435/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0434/)|De multiples vulnérabilités ont été découvertes dans Node.js. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 21 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0433/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0432/)|Une vulnérabilité a été découverte dans Schneider Electric EcoStruxure Power Build Rapsody. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 21 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0431/)|Une vulnérabilité a été découverte dans Mitel OpenScapeXpressions. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 21 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0430/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 21 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0429/)|De multiples vulnérabilités ont été découvertes dans les produits Typo3. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 20 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0428/)|De multiples vulnérabilités ont été découvertes dans VMware Cloud Foundation. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 20 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0427/)|Une vulnérabilité a été découverte dans Spring Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0426/)|Une vulnérabilité a été découverte dans Juniper Networks Junos OS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 19 mai 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-Appliance-Mode-Command-Injection-47058" class="noirorange"><b>F5 BIG-IP</b>: privilege escalation via Appliance Mode Command Injection</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-Appliance-Mode-Command-Injection-47058)|An attacker can bypass restrictions of F5 BIG-IP, via Appliance Mode Command Injection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/syslog-ng-Man-in-the-Middle-via-Configuration-Tls-Certificate-Name-Wildcard-Syntax-47055" class="noirorange"><b>syslog-ng</b>: Man-in-the-Middle via Configuration Tls Certificate Name Wildcard Syntax</a>](https://vigilance.fr/vulnerability/syslog-ng-Man-in-the-Middle-via-Configuration-Tls-Certificate-Name-Wildcard-Syntax-47055)|An attacker can act as a Man-in-the-Middle on syslog-ng, via Configuration Tls Certificate Name Wildcard Syntax, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-22-08-2024-45000" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 22/08/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-22-08-2024-45000)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 22/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libzvbi-five-vulnerabilities-dated-21-03-2025-46650" class="noirorange"><b>libzvbi</b>: five vulnerabilities dated 21/03/2025</a>](https://vigilance.fr/vulnerability/libzvbi-five-vulnerabilities-dated-21-03-2025-46650)|An attacker can use several vulnerabilities of libzvbi, dated 21/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-SIP-Call-Processing-44993" class="noirorange"><b>Cisco Unified Communications Manager</b>: denial of service via SIP Call Processing</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-SIP-Call-Processing-44993)|An attacker can cause a fatal error of Cisco Unified Communications Manager, via SIP Call Processing, in order to trigger a denial of service...|Visit link for details|
@@ -66,8 +44,30 @@
  |[<a href="https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-via-Support-Info-Page-46647" class="noirorange"><b>NagVis</b>: Cross Site Scripting via Support Info Page</a>](https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-via-Support-Info-Page-46647)|An attacker can trigger a Cross Site Scripting of NagVis, via Support Info Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Resources-47039" class="noirorange"><b>IBM Db2</b>: memory leak via Allocated Resources</a>](https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Resources-47039)|An attacker can create a memory leak of IBM Db2, via Allocated Resources, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Memory-47036" class="noirorange"><b>IBM Db2</b>: memory leak via Allocated Memory</a>](https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Memory-47036)|An attacker can create a memory leak of IBM Db2, via Allocated Memory, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libarchive-out-of-bounds-memory-reading-via-header-gnu-longlink-46642" class="noirorange"><b>libarchive</b>: out-of-bounds memory reading via header_gnu_longlink</a>](https://vigilance.fr/vulnerability/libarchive-out-of-bounds-memory-reading-via-header-gnu-longlink-46642)|An attacker can force a read at an invalid memory address of libarchive, via header_gnu_longlink, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-overload-via-USB-Packets-46641" class="noirorange"><b>Wind River VxWorks</b>: overload via USB Packets</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-overload-via-USB-Packets-46641)|An attacker can trigger an overload of Wind River VxWorks, via USB Packets, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0442/)|Une vulnérabilité a été découverte dans Mozilla Firefox pour iOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0441/)|Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0440/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 22 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0439/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0438/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une élévation de privilèges et un déni de service à distance.|Publié le 22 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0437/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 22 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0436/)|Une vulnérabilité a été découverte dans ISC BIND. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 22 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0435/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0434/)|De multiples vulnérabilités ont été découvertes dans Node.js. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 21 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0433/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 21 mai 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
