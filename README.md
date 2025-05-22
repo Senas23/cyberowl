@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/05/2025 21:24:09 UTC
+ > Last Updated 22/05/2025 09:28:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libzvbi-five-vulnerabilities-dated-21-03-2025-46650" class="noirorange"><b>libzvbi</b>: five vulnerabilities dated 21/03/2025</a>](https://vigilance.fr/vulnerability/libzvbi-five-vulnerabilities-dated-21-03-2025-46650)|An attacker can use several vulnerabilities of libzvbi, dated 21/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-SIP-Call-Processing-44993" class="noirorange"><b>Cisco Unified Communications Manager</b>: denial of service via SIP Call Processing</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-SIP-Call-Processing-44993)|An attacker can cause a fatal error of Cisco Unified Communications Manager, via SIP Call Processing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hostapd-denial-of-service-via-RADIUS-Packets-Injection-46649" class="noirorange"><b>hostapd</b>: denial of service via RADIUS Packets Injection</a>](https://vigilance.fr/vulnerability/hostapd-denial-of-service-via-RADIUS-Packets-Injection-46649)|An attacker can cause a fatal error of hostapd, via RADIUS Packets Injection, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/go-gh-user-access-via-Authentication-Tokens-Leak-46648" class="noirorange"><b>go-gh</b>: user access via Authentication Tokens Leak</a>](https://vigilance.fr/vulnerability/go-gh-user-access-via-Authentication-Tokens-Leak-46648)|An attacker can bypass restrictions of go-gh, via Authentication Tokens Leak, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-via-Support-Info-Page-46647" class="noirorange"><b>NagVis</b>: Cross Site Scripting via Support Info Page</a>](https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-via-Support-Info-Page-46647)|An attacker can trigger a Cross Site Scripting of NagVis, via Support Info Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Resources-47039" class="noirorange"><b>IBM Db2</b>: memory leak via Allocated Resources</a>](https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Resources-47039)|An attacker can create a memory leak of IBM Db2, via Allocated Resources, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Memory-47036" class="noirorange"><b>IBM Db2</b>: memory leak via Allocated Memory</a>](https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Memory-47036)|An attacker can create a memory leak of IBM Db2, via Allocated Memory, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libarchive-out-of-bounds-memory-reading-via-header-gnu-longlink-46642" class="noirorange"><b>libarchive</b>: out-of-bounds memory reading via header_gnu_longlink</a>](https://vigilance.fr/vulnerability/libarchive-out-of-bounds-memory-reading-via-header-gnu-longlink-46642)|An attacker can force a read at an invalid memory address of libarchive, via header_gnu_longlink, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-overload-via-USB-Packets-46641" class="noirorange"><b>Wind River VxWorks</b>: overload via USB Packets</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-overload-via-USB-Packets-46641)|An attacker can trigger an overload of Wind River VxWorks, via USB Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-ingress-filtrering-bypass-via-Kube-apiserver-Namespace-Termination-46640" class="noirorange"><b>Kubernetes</b>: ingress filtrering bypass via Kube-apiserver Namespace Termination</a>](https://vigilance.fr/vulnerability/Kubernetes-ingress-filtrering-bypass-via-Kube-apiserver-Namespace-Termination-46640)|An attacker can bypass filtering rules of Kubernetes, via Kube-apiserver Namespace Termination, in order to send malicious data...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-22-08-2024-45000" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 22/08/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-22-08-2024-45000)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 22/08/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libzvbi-five-vulnerabilities-dated-21-03-2025-46650" class="noirorange"><b>libzvbi</b>: five vulnerabilities dated 21/03/2025</a>](https://vigilance.fr/vulnerability/libzvbi-five-vulnerabilities-dated-21-03-2025-46650)|An attacker can use several vulnerabilities of libzvbi, dated 21/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-SIP-Call-Processing-44993" class="noirorange"><b>Cisco Unified Communications Manager</b>: denial of service via SIP Call Processing</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-denial-of-service-via-SIP-Call-Processing-44993)|An attacker can cause a fatal error of Cisco Unified Communications Manager, via SIP Call Processing, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hostapd-denial-of-service-via-RADIUS-Packets-Injection-46649" class="noirorange"><b>hostapd</b>: denial of service via RADIUS Packets Injection</a>](https://vigilance.fr/vulnerability/hostapd-denial-of-service-via-RADIUS-Packets-Injection-46649)|An attacker can cause a fatal error of hostapd, via RADIUS Packets Injection, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/go-gh-user-access-via-Authentication-Tokens-Leak-46648" class="noirorange"><b>go-gh</b>: user access via Authentication Tokens Leak</a>](https://vigilance.fr/vulnerability/go-gh-user-access-via-Authentication-Tokens-Leak-46648)|An attacker can bypass restrictions of go-gh, via Authentication Tokens Leak, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-via-Support-Info-Page-46647" class="noirorange"><b>NagVis</b>: Cross Site Scripting via Support Info Page</a>](https://vigilance.fr/vulnerability/NagVis-Cross-Site-Scripting-via-Support-Info-Page-46647)|An attacker can trigger a Cross Site Scripting of NagVis, via Support Info Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Resources-47039" class="noirorange"><b>IBM Db2</b>: memory leak via Allocated Resources</a>](https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Resources-47039)|An attacker can create a memory leak of IBM Db2, via Allocated Resources, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Memory-47036" class="noirorange"><b>IBM Db2</b>: memory leak via Allocated Memory</a>](https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-Allocated-Memory-47036)|An attacker can create a memory leak of IBM Db2, via Allocated Memory, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libarchive-out-of-bounds-memory-reading-via-header-gnu-longlink-46642" class="noirorange"><b>libarchive</b>: out-of-bounds memory reading via header_gnu_longlink</a>](https://vigilance.fr/vulnerability/libarchive-out-of-bounds-memory-reading-via-header-gnu-longlink-46642)|An attacker can force a read at an invalid memory address of libarchive, via header_gnu_longlink, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-overload-via-USB-Packets-46641" class="noirorange"><b>Wind River VxWorks</b>: overload via USB Packets</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-overload-via-USB-Packets-46641)|An attacker can trigger an overload of Wind River VxWorks, via USB Packets, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
