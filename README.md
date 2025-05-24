@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/05/2025 09:25:50 UTC
+ > Last Updated 24/05/2025 21:22:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Forcepoint-Email-Security-Cross-Site-Scripting-via-Stored-Attributes-46659" class="noirorange"><b>Forcepoint Email Security</b>: Cross Site Scripting via Stored Attributes</a>](https://vigilance.fr/vulnerability/Forcepoint-Email-Security-Cross-Site-Scripting-via-Stored-Attributes-46659)|An attacker can trigger a Cross Site Scripting of Forcepoint Email Security, via Stored Attributes, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vega-Cross-Site-Scripting-via-vlSelectionTuples-46658" class="noirorange"><b>Vega</b>: Cross Site Scripting via vlSelectionTuples()</a>](https://vigilance.fr/vulnerability/Vega-Cross-Site-Scripting-via-vlSelectionTuples-46658)|An attacker can trigger a Cross Site Scripting of Vega, via vlSelectionTuples(), in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-Cross-Site-Scripting-via-Cookie-46657" class="noirorange"><b>WebKitGTK</b>: Cross Site Scripting via Cookie</a>](https://vigilance.fr/vulnerability/WebKitGTK-Cross-Site-Scripting-via-Cookie-46657)|An attacker can trigger a Cross Site Scripting of WebKitGTK, via Cookie, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mercurial-Cross-Site-Scripting-via-Hgweb-CRLF-Injection-46655" class="noirorange"><b>Mercurial</b>: Cross Site Scripting via Hgweb CRLF Injection</a>](https://vigilance.fr/vulnerability/Mercurial-Cross-Site-Scripting-via-Hgweb-CRLF-Injection-46655)|An attacker can trigger a Cross Site Scripting of Mercurial, via Hgweb CRLF Injection, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/NLTK-overload-via-PunktSentenceTokenizer-46652" class="noirorange"><b>NLTK</b>: overload via PunktSentenceTokeniz<wbr>er()</wbr></a>](https://vigilance.fr/vulnerability/NLTK-overload-via-PunktSentenceTokenizer-46652)|An attacker can trigger an overload of NLTK, via PunktSentenceTokeniz|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NLTK-overload-via-Regular-Expression-46651" class="noirorange"><b>NLTK</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/NLTK-overload-via-Regular-Expression-46651)|An attacker can trigger an overload of NLTK, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-five-vulnerabilities-dated-23-08-2024-45005" class="noirorange"><b>Microsoft Edge Chromium</b>: five vulnerabilities dated 23/08/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-five-vulnerabilities-dated-23-08-2024-45005)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 23/08/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-zipfile-45004" class="noirorange"><b>Python Core</b>: overload via zipfile</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-zipfile-45004)|An attacker can trigger an overload of Python Core, via zipfile, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
