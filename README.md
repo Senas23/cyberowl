@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/05/2025 21:22:32 UTC
+ > Last Updated 26/05/2025 09:53:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Bleve-read-write-access-via-CreateIndexHandler-46673" class="noirorange"><b>Bleve</b>: read-write access via CreateIndexHandler</a>](https://vigilance.fr/vulnerability/Bleve-read-write-access-via-CreateIndexHandler-46673)|An attacker can bypass access restrictions of Bleve, via CreateIndexHandler, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Expr-overload-via-Abstract-Syntax-Generation-46672" class="noirorange"><b>Expr</b>: overload via Abstract Syntax Generation</a>](https://vigilance.fr/vulnerability/Expr-overload-via-Abstract-Syntax-Generation-46672)|An attacker can trigger an overload of Expr, via Abstract Syntax Generation, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RabbitMQ-Server-Cross-Site-Scripting-via-Management-UI-Error-Message-46670" class="noirorange"><b>RabbitMQ Server</b>: Cross Site Scripting via Management UI Error Message</a>](https://vigilance.fr/vulnerability/RabbitMQ-Server-Cross-Site-Scripting-via-Management-UI-Error-Message-46670)|An attacker can trigger a Cross Site Scripting of RabbitMQ Server, via Management UI Error Message, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-SPSS-Statistics-weak-signature-via-SHA-1-46669" class="noirorange"><b>IBM SPSS Statistics</b>: weak signature via SHA-1</a>](https://vigilance.fr/vulnerability/IBM-SPSS-Statistics-weak-signature-via-SHA-1-46669)|An attacker can use malicious data on IBM SPSS Statistics, via SHA-1, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WALLIX-Bastion-user-access-via-Clear-Credentials-46668" class="noirorange"><b>WALLIX Bastion</b>: user access via Clear Credentials</a>](https://vigilance.fr/vulnerability/WALLIX-Bastion-user-access-via-Clear-Credentials-46668)|An attacker can bypass restrictions of WALLIX Bastion, via Clear Credentials, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gunicorn-write-access-via-Transfer-Encoding-46665" class="noirorange"><b>Gunicorn</b>: write access via Transfer-Encoding</a>](https://vigilance.fr/vulnerability/Gunicorn-write-access-via-Transfer-Encoding-46665)|An attacker can bypass access restrictions of Gunicorn, via Transfer-Encoding, in order to alter data...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/SmartDNS-integer-overflow-via-fast-ping-c-46663" class="noirorange"><b>SmartDNS</b>: integer overflow via fast_ping.c</a>](https://vigilance.fr/vulnerability/SmartDNS-integer-overflow-via-fast-ping-c-46663)|An attacker can trigger an integer overflow of SmartDNS, via fast_ping.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SmartDNS-memory-corruption-dated-25-03-2025-46662" class="noirorange"><b>SmartDNS</b>: memory corruption dated 25/03/2025</a>](https://vigilance.fr/vulnerability/SmartDNS-memory-corruption-dated-25-03-2025-46662)|An attacker can trigger a memory corruption of SmartDNS, dated 25/03/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/elfutils-four-vulnerabilities-dated-25-03-2025-46661" class="noirorange"><b>elfutils</b>: four vulnerabilities dated 25/03/2025</a>](https://vigilance.fr/vulnerability/elfutils-four-vulnerabilities-dated-25-03-2025-46661)|An attacker can use several vulnerabilities of elfutils, dated 25/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Forcepoint-Email-Security-Cross-Site-Scripting-via-Stored-Attributes-46659" class="noirorange"><b>Forcepoint Email Security</b>: Cross Site Scripting via Stored Attributes</a>](https://vigilance.fr/vulnerability/Forcepoint-Email-Security-Cross-Site-Scripting-via-Stored-Attributes-46659)|An attacker can trigger a Cross Site Scripting of Forcepoint Email Security, via Stored Attributes, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vega-Cross-Site-Scripting-via-vlSelectionTuples-46658" class="noirorange"><b>Vega</b>: Cross Site Scripting via vlSelectionTuples()</a>](https://vigilance.fr/vulnerability/Vega-Cross-Site-Scripting-via-vlSelectionTuples-46658)|An attacker can trigger a Cross Site Scripting of Vega, via vlSelectionTuples(), in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-Cross-Site-Scripting-via-Cookie-46657" class="noirorange"><b>WebKitGTK</b>: Cross Site Scripting via Cookie</a>](https://vigilance.fr/vulnerability/WebKitGTK-Cross-Site-Scripting-via-Cookie-46657)|An attacker can trigger a Cross Site Scripting of WebKitGTK, via Cookie, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
