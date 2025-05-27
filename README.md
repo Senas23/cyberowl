@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/05/2025 09:27:45 UTC
+ > Last Updated 27/05/2025 21:25:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0453/)|De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0452/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 23 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0451/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 23 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 23 mai 2025|
@@ -43,7 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans Asterisk. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 23 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0444/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0443/)|Une vulnérabilité a été découverte dans VMware Avi Load Balancer. Elle permet à un attaquant de provoquer une injection SQL (SQLi).|Publié le 23 mai 2025|
  
  ---
 
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/golang-jwt-overload-via-parse-ParseUnverified-46693" class="noirorange"><b>golang-jwt</b>: overload via parse.<wbr>ParseUnverified</wbr></a>](https://vigilance.fr/vulnerability/golang-jwt-overload-via-parse-ParseUnverified-46693)|An attacker can trigger an overload of golang-jwt, via parse.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Narayana-overload-via-LRA-Coordinator-46692" class="noirorange"><b>Narayana</b>: overload via LRA Coordinator</a>](https://vigilance.fr/vulnerability/Narayana-overload-via-LRA-Coordinator-46692)|An attacker can trigger an overload of Narayana, via LRA Coordinator, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSAML-Java-user-access-via-Non-XML-Signatures-Bindings-46690" class="noirorange"><b>OpenSAML Java</b>: user access via Non-XML Signatures Bindings</a>](https://vigilance.fr/vulnerability/OpenSAML-Java-user-access-via-Non-XML-Signatures-Bindings-46690)|An attacker can bypass restrictions of OpenSAML Java, via Non-XML Signatures Bindings, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-Multicast-Routing-46685" class="noirorange"><b>Stormshield Network Security</b>: denial of service via Multicast Routing</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-Multicast-Routing-46685)|An attacker can cause a fatal error of Stormshield Network Security, via Multicast Routing, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synology-Mail-Server-read-write-access-dated-27-03-2025-46684" class="noirorange"><b>Synology Mail Server</b>: read-write access dated 27/03/2025</a>](https://vigilance.fr/vulnerability/Synology-Mail-Server-read-write-access-dated-27-03-2025-46684)|An attacker can bypass access restrictions of Synology Mail Server, dated 27/03/2025, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ghostscript-seven-vulnerabilities-dated-27-03-2025-46683" class="noirorange"><b>Ghostscript</b>: seven vulnerabilities dated 27/03/2025</a>](https://vigilance.fr/vulnerability/Ghostscript-seven-vulnerabilities-dated-27-03-2025-46683)|An attacker can use several vulnerabilities of Ghostscript, dated 27/03/2025...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-OpenJ9-buffer-overflow-via-propsfile-read-text-47119" class="noirorange"><b>Eclipse OpenJ9</b>: buffer overflow via propsfile_read_text(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Eclipse-OpenJ9-buffer-overflow-via-propsfile-read-text-47119)|An attacker can trigger a buffer overflow of Eclipse OpenJ9, via propsfile_read_text(|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/EdDSA-Java-weak-signature-via-Chosen-Message-Attack-46681" class="noirorange"><b>EdDSA-Java</b>: weak signature via Chosen Message Attack</a>](https://vigilance.fr/vulnerability/EdDSA-Java-weak-signature-via-Chosen-Message-Attack-46681)|An attacker can use malicious data on EdDSA-Java, via Chosen Message Attack, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-denial-of-service-via-CachedOutputStream-46679" class="noirorange"><b>Apache CXF</b>: denial of service via CachedOutputStream</a>](https://vigilance.fr/vulnerability/Apache-CXF-denial-of-service-via-CachedOutputStream-46679)|An attacker can cause a fatal error of Apache CXF, via CachedOutputStream, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Azure-Command-Line-Integration-privilege-escalation-via-Command-Injection-46676" class="noirorange"><b>Azure Command Line Integration</b>: privilege escalation via Command Injection</a>](https://vigilance.fr/vulnerability/Azure-Command-Line-Integration-privilege-escalation-via-Command-Injection-46676)|An attacker can bypass restrictions of Azure Command Line Integration, via Command Injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-VFS-information-disclosure-via-FtpFileObject-46675" class="noirorange"><b>Apache Commons VFS</b>: information disclosure via FtpFileObject</a>](https://vigilance.fr/vulnerability/Apache-Commons-VFS-information-disclosure-via-FtpFileObject-46675)|An attacker can bypass access restrictions to data of Apache Commons VFS, via FtpFileObject, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bleve-read-write-access-via-CreateIndexHandler-46673" class="noirorange"><b>Bleve</b>: read-write access via CreateIndexHandler</a>](https://vigilance.fr/vulnerability/Bleve-read-write-access-via-CreateIndexHandler-46673)|An attacker can bypass access restrictions of Bleve, via CreateIndexHandler, in order to read or alter data...|Visit link for details|
  
  ---
 
