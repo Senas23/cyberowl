@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/05/2025 21:25:34 UTC
+ > Last Updated 28/05/2025 09:28:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0453/)|De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0452/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 23 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0451/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 23 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 23 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 23 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0448/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 23 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0447/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 23 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0446/)|De multiples vulnérabilités ont été découvertes dans Asterisk. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0445/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 23 mai 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0444/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0414/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0413/)|De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0412/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2025-4664 est activement exploitée.|Publié le 15 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0411/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 15 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0410/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 15 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0409/)|De multiples vulnérabilités ont été découvertes dans SonicWall Secure Mobile Access. Elle permet à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF).|Publié le 15 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0408/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 14 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0407/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 14 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0406/)|Une vulnérabilité a été découverte dans Microsoft .Net. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 mai 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0405/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que les vulnérabilités...|Publié le 14 mai 2025|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Power-System-denial-of-service-via-Linux-Partition-Gzip-Compression-46697" class="noirorange"><b>IBM Power System</b>: denial of service via Linux Partition Gzip Compression</a>](https://vigilance.fr/vulnerability/IBM-Power-System-denial-of-service-via-Linux-Partition-Gzip-Compression-46697)|An attacker can cause a fatal error of IBM Power System, via Linux Partition Gzip Compression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-03-2025-46694" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 28/03/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-03-2025-46694)|An attacker can use several vulnerabilities of the Linux kernel, dated 28/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/golang-jwt-overload-via-parse-ParseUnverified-46693" class="noirorange"><b>golang-jwt</b>: overload via parse.<wbr>ParseUnverified</wbr></a>](https://vigilance.fr/vulnerability/golang-jwt-overload-via-parse-ParseUnverified-46693)|An attacker can trigger an overload of golang-jwt, via parse.|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Narayana-overload-via-LRA-Coordinator-46692" class="noirorange"><b>Narayana</b>: overload via LRA Coordinator</a>](https://vigilance.fr/vulnerability/Narayana-overload-via-LRA-Coordinator-46692)|An attacker can trigger an overload of Narayana, via LRA Coordinator, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSAML-Java-user-access-via-Non-XML-Signatures-Bindings-46690" class="noirorange"><b>OpenSAML Java</b>: user access via Non-XML Signatures Bindings</a>](https://vigilance.fr/vulnerability/OpenSAML-Java-user-access-via-Non-XML-Signatures-Bindings-46690)|An attacker can bypass restrictions of OpenSAML Java, via Non-XML Signatures Bindings, in order to gain user privileges...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Ghostscript-seven-vulnerabilities-dated-27-03-2025-46683" class="noirorange"><b>Ghostscript</b>: seven vulnerabilities dated 27/03/2025</a>](https://vigilance.fr/vulnerability/Ghostscript-seven-vulnerabilities-dated-27-03-2025-46683)|An attacker can use several vulnerabilities of Ghostscript, dated 27/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/containerd-integer-overflow-via-UID-GID-46682" class="noirorange"><b>containerd</b>: integer overflow via UID GID</a>](https://vigilance.fr/vulnerability/containerd-integer-overflow-via-UID-GID-46682)|An attacker can trigger an integer overflow of containerd, via UID GID, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-OpenJ9-buffer-overflow-via-propsfile-read-text-47119" class="noirorange"><b>Eclipse OpenJ9</b>: buffer overflow via propsfile_read_text(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Eclipse-OpenJ9-buffer-overflow-via-propsfile-read-text-47119)|An attacker can trigger a buffer overflow of Eclipse OpenJ9, via propsfile_read_text(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/EdDSA-Java-weak-signature-via-Chosen-Message-Attack-46681" class="noirorange"><b>EdDSA-Java</b>: weak signature via Chosen Message Attack</a>](https://vigilance.fr/vulnerability/EdDSA-Java-weak-signature-via-Chosen-Message-Attack-46681)|An attacker can use malicious data on EdDSA-Java, via Chosen Message Attack, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-denial-of-service-via-CachedOutputStream-46679" class="noirorange"><b>Apache CXF</b>: denial of service via CachedOutputStream</a>](https://vigilance.fr/vulnerability/Apache-CXF-denial-of-service-via-CachedOutputStream-46679)|An attacker can cause a fatal error of Apache CXF, via CachedOutputStream, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
