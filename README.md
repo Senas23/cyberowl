@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/05/2025 21:24:16 UTC
+ > Last Updated 29/05/2025 09:28:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,19 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Indirect-Branch-Predictor-47151" class="noirorange"><b>Intel Processor</b>: information disclosure via Indirect Branch Predictor</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Indirect-Branch-Predictor-47151)|An attacker can bypass access restrictions to data of Intel Processor, via Indirect Branch Predictor, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-denial-of-service-via-Resource-Pool-Exception-47150" class="noirorange"><b>Intel Processor</b>: denial of service via Resource Pool / Exception</a>](https://vigilance.fr/vulnerability/Intel-Processor-denial-of-service-via-Resource-Pool-Exception-47150)|An attacker can cause a fatal error of Intel Processor, via Resource Pool / Exception, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-28-08-2024-45037" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 28/08/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-28-08-2024-45037)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 28/08/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiManager-write-access-via-Global-Threat-Feeds-47136" class="noirorange"><b>FortiManager</b>: write access via Global Threat Feeds</a>](https://vigilance.fr/vulnerability/FortiManager-write-access-via-Global-Threat-Feeds-47136)|An attacker can bypass access restrictions of FortiManager, via Global Threat Feeds, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-user-access-via-Session-Expiration-47129" class="noirorange"><b>SIMATIC PCS neo</b>: user access via Session Expiration</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-user-access-via-Session-Expiration-47129)|An attacker can bypass restrictions of SIMATIC PCS neo, via Session Expiration, in order to gain user privileges...|Visit link for details|
@@ -42,8 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/golang-jwt-overload-via-parse-ParseUnverified-46693" class="noirorange"><b>golang-jwt</b>: overload via parse.<wbr>ParseUnverified</wbr></a>](https://vigilance.fr/vulnerability/golang-jwt-overload-via-parse-ParseUnverified-46693)|An attacker can trigger an overload of golang-jwt, via parse.|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Narayana-overload-via-LRA-Coordinator-46692" class="noirorange"><b>Narayana</b>: overload via LRA Coordinator</a>](https://vigilance.fr/vulnerability/Narayana-overload-via-LRA-Coordinator-46692)|An attacker can trigger an overload of Narayana, via LRA Coordinator, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSAML-Java-user-access-via-Non-XML-Signatures-Bindings-46690" class="noirorange"><b>OpenSAML Java</b>: user access via Non-XML Signatures Bindings</a>](https://vigilance.fr/vulnerability/OpenSAML-Java-user-access-via-Non-XML-Signatures-Bindings-46690)|An attacker can bypass restrictions of OpenSAML Java, via Non-XML Signatures Bindings, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-Multicast-Routing-46685" class="noirorange"><b>Stormshield Network Security</b>: denial of service via Multicast Routing</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-Multicast-Routing-46685)|An attacker can cause a fatal error of Stormshield Network Security, via Multicast Routing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-Mail-Server-read-write-access-dated-27-03-2025-46684" class="noirorange"><b>Synology Mail Server</b>: read-write access dated 27/03/2025</a>](https://vigilance.fr/vulnerability/Synology-Mail-Server-read-write-access-dated-27-03-2025-46684)|An attacker can bypass access restrictions of Synology Mail Server, dated 27/03/2025, in order to read or alter data...|Visit link for details|
  
  ---
 
@@ -61,13 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0451/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 23 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0450/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 23 mai 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0449/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 23 mai 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
