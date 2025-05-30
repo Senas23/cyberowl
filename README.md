@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/05/2025 21:24:44 UTC
+ > Last Updated 30/05/2025 09:28:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dw2102-i2c-transfer-47163" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via dw2102_i2c_transfer(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-dw2102-i2c-transfer-47163)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via dw2102_i2c_transfer(|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Indirect-Branch-Predictor-47151" class="noirorange"><b>Intel Processor</b>: information disclosure via Indirect Branch Predictor</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Indirect-Branch-Predictor-47151)|An attacker can bypass access restrictions to data of Intel Processor, via Indirect Branch Predictor, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-denial-of-service-via-Resource-Pool-Exception-47150" class="noirorange"><b>Intel Processor</b>: denial of service via Resource Pool / Exception</a>](https://vigilance.fr/vulnerability/Intel-Processor-denial-of-service-via-Resource-Pool-Exception-47150)|An attacker can cause a fatal error of Intel Processor, via Resource Pool / Exception, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-28-08-2024-45037" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 28/08/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-28-08-2024-45037)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 28/08/2024...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-03-2025-46694" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 28/03/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-03-2025-46694)|An attacker can use several vulnerabilities of the Linux kernel, dated 28/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/golang-jwt-overload-via-parse-ParseUnverified-46693" class="noirorange"><b>golang-jwt</b>: overload via parse.<wbr>ParseUnverified</wbr></a>](https://vigilance.fr/vulnerability/golang-jwt-overload-via-parse-ParseUnverified-46693)|An attacker can trigger an overload of golang-jwt, via parse.|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Narayana-overload-via-LRA-Coordinator-46692" class="noirorange"><b>Narayana</b>: overload via LRA Coordinator</a>](https://vigilance.fr/vulnerability/Narayana-overload-via-LRA-Coordinator-46692)|An attacker can trigger an overload of Narayana, via LRA Coordinator, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSAML-Java-user-access-via-Non-XML-Signatures-Bindings-46690" class="noirorange"><b>OpenSAML Java</b>: user access via Non-XML Signatures Bindings</a>](https://vigilance.fr/vulnerability/OpenSAML-Java-user-access-via-Non-XML-Signatures-Bindings-46690)|An attacker can bypass restrictions of OpenSAML Java, via Non-XML Signatures Bindings, in order to gain user privileges...|Visit link for details|
  
  ---
 
