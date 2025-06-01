@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/06/2025 09:25:53 UTC
+ > Last Updated 01/06/2025 21:23:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,20 +23,17 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-key-put-46715" class="noirorange"><b>Linux kernel</b>: use after free via key_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-key-put-46715)|An attacker can force the reuse of a freed memory area of the Linux kernel, via key_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-ingress-filtrering-bypass-dated-01-04-2025-46714" class="noirorange"><b>Suricata</b>: ingress filtrering bypass dated 01/04/2025</a>](https://vigilance.fr/vulnerability/Suricata-ingress-filtrering-bypass-dated-01-04-2025-46714)|An attacker can bypass filtering rules of Suricata, dated 01/04/2025, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-ingress-filtrering-bypass-via-Fragmented-Packets-IP-ID-Value-46713" class="noirorange"><b>Suricata</b>: ingress filtrering bypass via Fragmented Packets IP ID Value</a>](https://vigilance.fr/vulnerability/Suricata-ingress-filtrering-bypass-via-Fragmented-Packets-IP-ID-Value-46713)|An attacker can bypass filtering rules of Suricata, via Fragmented Packets IP ID Value, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-ingress-filtrering-bypass-via-Dataset-Filename-46712" class="noirorange"><b>Suricata</b>: ingress filtrering bypass via Dataset Filename</a>](https://vigilance.fr/vulnerability/Suricata-ingress-filtrering-bypass-via-Dataset-Filename-46712)|An attacker can bypass filtering rules of Suricata, via Dataset Filename, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-ingress-filtrering-bypass-via-RST-TCP-Packet-options-46711" class="noirorange"><b>Suricata</b>: ingress filtrering bypass via RST TCP Packet options</a>](https://vigilance.fr/vulnerability/Suricata-ingress-filtrering-bypass-via-RST-TCP-Packet-options-46711)|An attacker can bypass filtering rules of Suricata, via RST TCP Packet options, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Data-Entropy-weak-encryption-via-rand-46704" class="noirorange"><b>Perl Data-Entropy</b>: weak encryption via rand()</a>](https://vigilance.fr/vulnerability/Perl-Data-Entropy-weak-encryption-via-rand-46704)|An attacker can access data on Perl Data::Entropy, via rand(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-HttpComponents-HttpClient-ingress-filtrering-bypass-via-Public-Suffix-List-Validation-46701" class="noirorange"><b>Apache HttpComponents HttpClient</b>: ingress filtrering bypass via Public Suffix List Validation</a>](https://vigilance.fr/vulnerability/Apache-HttpComponents-HttpClient-ingress-filtrering-bypass-via-Public-Suffix-List-Validation-46701)|An attacker can bypass filtering rules of Apache HttpComponents HttpClient, via Public Suffix List Validation, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Hercules-Augeas-NULL-pointer-dereference-via-re-case-expand-46700" class="noirorange"><b>Hercules Augeas</b>: NULL pointer dereference via re_case_expand()</a>](https://vigilance.fr/vulnerability/Hercules-Augeas-NULL-pointer-dereference-via-re-case-expand-46700)|An attacker can force a NULL pointer to be dereferenced on Hercules Augeas, via re_case_expand(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Doorkeeper-Cross-Site-Scripting-via-OAuth-App-Form-46699" class="noirorange"><b>Doorkeeper</b>: Cross Site Scripting via OAuth App Form</a>](https://vigilance.fr/vulnerability/Doorkeeper-Cross-Site-Scripting-via-OAuth-App-Form-46699)|An attacker can trigger a Cross Site Scripting of Doorkeeper, via OAuth App Form, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-information-disclosure-via-P-384-ECDSA-PPC-Timing-Side-Channel-47184" class="noirorange"><b>OpenSSL</b>: information disclosure via P-384 ECDSA PPC Timing Side Channel</a>](https://vigilance.fr/vulnerability/OpenSSL-information-disclosure-via-P-384-ECDSA-PPC-Timing-Side-Channel-47184)|An attacker can bypass access restrictions to data of OpenSSL, via P-384 ECDSA PPC Timing Side Channel, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -57,21 +54,24 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-Man-in-the-Middle-via-SSLManagerOpenSSL-46726" class="noirorange"><b>MongoDB Server</b>: Man-in-the-Middle via SSLManagerOpenSSL</a>](https://vigilance.fr/vulnerability/MongoDB-Server-Man-in-the-Middle-via-SSLManagerOpenSSL-46726)|An attacker can act as a Man-in-the-Middle on MongoDB Server, via SSLManagerOpenSSL, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Explain-Command-46725" class="noirorange"><b>MongoDB Server</b>: denial of service via Explain Command</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Explain-Command-46725)|An attacker can cause a fatal error of MongoDB Server, via Explain Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Wire-Protocol-Messages-46724" class="noirorange"><b>MongoDB Server</b>: denial of service via Wire Protocol Messages</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Wire-Protocol-Messages-46724)|An attacker can cause a fatal error of MongoDB Server, via Wire Protocol Messages, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Corosync-buffer-overflow-via-orf-token-endian-convert-46722" class="noirorange"><b>Corosync</b>: buffer overflow via orf_token_endian_<wbr>convert()</wbr></a>](https://vigilance.fr/vulnerability/Corosync-buffer-overflow-via-orf-token-endian-convert-46722)|An attacker can trigger a buffer overflow of Corosync, via orf_token_endian_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-information-disclosure-via-View-Collation-Override-46721" class="noirorange"><b>MongoDB Server</b>: information disclosure via View Collation Override</a>](https://vigilance.fr/vulnerability/MongoDB-Server-information-disclosure-via-View-Collation-Override-46721)|An attacker can bypass access restrictions to data of MongoDB Server, via View Collation Override, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-overload-via-Decompression-Operations-46720" class="noirorange"><b>Zabbix</b>: overload via Decompression Operations</a>](https://vigilance.fr/vulnerability/Zabbix-overload-via-Decompression-Operations-46720)|An attacker can trigger an overload of Zabbix, via Decompression Operations, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-export-valuemaps-46719" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via export.valuemaps</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-export-valuemaps-46719)|An attacker can trigger a Cross Site Scripting of Zabbix, via export.valuemaps, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-Login-Form-User-Enumeration-46718" class="noirorange"><b>Zabbix</b>: information disclosure via Login Form User Enumeration</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-Login-Form-User-Enumeration-46718)|An attacker can bypass access restrictions to data of Zabbix, via Login Form User Enumeration, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-SQL-injection-via-API-46717" class="noirorange"><b>Zabbix</b>: SQL injection via API</a>](https://vigilance.fr/vulnerability/Zabbix-SQL-injection-via-API-46717)|An attacker can use a SQL injection of Zabbix, via API, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-key-put-46715" class="noirorange"><b>Linux kernel</b>: use after free via key_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-key-put-46715)|An attacker can force the reuse of a freed memory area of the Linux kernel, via key_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
