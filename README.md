@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/06/2025 21:23:05 UTC
+ > Last Updated 02/06/2025 09:30:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Werkzeug-directory-traversal-via-safe-join-46730" class="noirorange"><b>Werkzeug</b>: directory traversal via safe_join()</a>](https://vigilance.fr/vulnerability/Werkzeug-directory-traversal-via-safe-join-46730)|An attacker can traverse directories of Werkzeug, via safe_join(), in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zincati-privilege-escalation-via-org-projectatomic-rpmostree1-deploy-46729" class="noirorange"><b>Zincati</b>: privilege escalation via org.projectatomic.<wbr>rpmostree1.deploy</wbr></a>](https://vigilance.fr/vulnerability/Zincati-privilege-escalation-via-org-projectatomic-rpmostree1-deploy-46729)|An attacker can bypass restrictions of Zincati, via org.projectatomic.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pymatgen-code-execution-via-from-transformation-str-45050" class="noirorange"><b>Pymatgen</b>: code execution via from_transformation_<wbr>str()</wbr></a>](https://vigilance.fr/vulnerability/Pymatgen-code-execution-via-from-transformation-str-45050)|An attacker can use a vulnerability of Pymatgen, via from_transformation_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-02-04-2025-46728" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 02/04/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-02-04-2025-46728)|An attacker can use several vulnerabilities of the Linux kernel, dated 02/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-Man-in-the-Middle-via-SSLManagerOpenSSL-46726" class="noirorange"><b>MongoDB Server</b>: Man-in-the-Middle via SSLManagerOpenSSL</a>](https://vigilance.fr/vulnerability/MongoDB-Server-Man-in-the-Middle-via-SSLManagerOpenSSL-46726)|An attacker can act as a Man-in-the-Middle on MongoDB Server, via SSLManagerOpenSSL, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Explain-Command-46725" class="noirorange"><b>MongoDB Server</b>: denial of service via Explain Command</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Explain-Command-46725)|An attacker can cause a fatal error of MongoDB Server, via Explain Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Wire-Protocol-Messages-46724" class="noirorange"><b>MongoDB Server</b>: denial of service via Wire Protocol Messages</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Wire-Protocol-Messages-46724)|An attacker can cause a fatal error of MongoDB Server, via Wire Protocol Messages, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Corosync-buffer-overflow-via-orf-token-endian-convert-46722" class="noirorange"><b>Corosync</b>: buffer overflow via orf_token_endian_<wbr>convert()</wbr></a>](https://vigilance.fr/vulnerability/Corosync-buffer-overflow-via-orf-token-endian-convert-46722)|An attacker can trigger a buffer overflow of Corosync, via orf_token_endian_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-information-disclosure-via-View-Collation-Override-46721" class="noirorange"><b>MongoDB Server</b>: information disclosure via View Collation Override</a>](https://vigilance.fr/vulnerability/MongoDB-Server-information-disclosure-via-View-Collation-Override-46721)|An attacker can bypass access restrictions to data of MongoDB Server, via View Collation Override, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-overload-via-Decompression-Operations-46720" class="noirorange"><b>Zabbix</b>: overload via Decompression Operations</a>](https://vigilance.fr/vulnerability/Zabbix-overload-via-Decompression-Operations-46720)|An attacker can trigger an overload of Zabbix, via Decompression Operations, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -54,20 +64,10 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-Man-in-the-Middle-via-SSLManagerOpenSSL-46726" class="noirorange"><b>MongoDB Server</b>: Man-in-the-Middle via SSLManagerOpenSSL</a>](https://vigilance.fr/vulnerability/MongoDB-Server-Man-in-the-Middle-via-SSLManagerOpenSSL-46726)|An attacker can act as a Man-in-the-Middle on MongoDB Server, via SSLManagerOpenSSL, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Explain-Command-46725" class="noirorange"><b>MongoDB Server</b>: denial of service via Explain Command</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Explain-Command-46725)|An attacker can cause a fatal error of MongoDB Server, via Explain Command, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Wire-Protocol-Messages-46724" class="noirorange"><b>MongoDB Server</b>: denial of service via Wire Protocol Messages</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Wire-Protocol-Messages-46724)|An attacker can cause a fatal error of MongoDB Server, via Wire Protocol Messages, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Corosync-buffer-overflow-via-orf-token-endian-convert-46722" class="noirorange"><b>Corosync</b>: buffer overflow via orf_token_endian_<wbr>convert()</wbr></a>](https://vigilance.fr/vulnerability/Corosync-buffer-overflow-via-orf-token-endian-convert-46722)|An attacker can trigger a buffer overflow of Corosync, via orf_token_endian_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-information-disclosure-via-View-Collation-Override-46721" class="noirorange"><b>MongoDB Server</b>: information disclosure via View Collation Override</a>](https://vigilance.fr/vulnerability/MongoDB-Server-information-disclosure-via-View-Collation-Override-46721)|An attacker can bypass access restrictions to data of MongoDB Server, via View Collation Override, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-overload-via-Decompression-Operations-46720" class="noirorange"><b>Zabbix</b>: overload via Decompression Operations</a>](https://vigilance.fr/vulnerability/Zabbix-overload-via-Decompression-Operations-46720)|An attacker can trigger an overload of Zabbix, via Decompression Operations, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-export-valuemaps-46719" class="noirorange"><b>Zabbix</b>: Cross Site Scripting via export.valuemaps</a>](https://vigilance.fr/vulnerability/Zabbix-Cross-Site-Scripting-via-export-valuemaps-46719)|An attacker can trigger a Cross Site Scripting of Zabbix, via export.valuemaps, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-Login-Form-User-Enumeration-46718" class="noirorange"><b>Zabbix</b>: information disclosure via Login Form User Enumeration</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-Login-Form-User-Enumeration-46718)|An attacker can bypass access restrictions to data of Zabbix, via Login Form User Enumeration, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-SQL-injection-via-API-46717" class="noirorange"><b>Zabbix</b>: SQL injection via API</a>](https://vigilance.fr/vulnerability/Zabbix-SQL-injection-via-API-46717)|An attacker can use a SQL injection of Zabbix, via API, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-key-put-46715" class="noirorange"><b>Linux kernel</b>: use after free via key_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-key-put-46715)|An attacker can force the reuse of a freed memory area of the Linux kernel, via key_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
