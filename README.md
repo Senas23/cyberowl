@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/06/2025 21:23:28 UTC
+ > Last Updated 04/06/2025 09:30:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-04-04-2025-46760" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 04/04/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-04-04-2025-46760)|An attacker can use several vulnerabilities of the Linux kernel, dated 04/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-overload-via-h2-send-45070" class="noirorange"><b>HAProxy</b>: overload via h2_send()</a>](https://vigilance.fr/vulnerability/HAProxy-overload-via-h2-send-45070)|An attacker can trigger an overload of HAProxy, via h2_send(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2024-45066" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of September 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2024-45066)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/XZ-Utils-use-after-free-via-Threaded-Decoder-46758" class="noirorange"><b>XZ Utils</b>: use after free via Threaded Decoder</a>](https://vigilance.fr/vulnerability/XZ-Utils-use-after-free-via-Threaded-Decoder-46758)|An attacker can force the reuse of a freed memory area of XZ Utils, via Threaded Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-03-09-2024-45062" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 03/09/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-03-09-2024-45062)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 03/09/2024...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Horde-IMP-Cross-Site-Scripting-via-Onerror-Attribute-46751" class="noirorange"><b>Horde IMP</b>: Cross Site Scripting via Onerror Attribute</a>](https://vigilance.fr/vulnerability/Horde-IMP-Cross-Site-Scripting-via-Onerror-Attribute-46751)|An attacker can trigger a Cross Site Scripting of Horde IMP, via Onerror Attribute, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-dated-03-04-2025-46750" class="noirorange"><b>Suricata</b>: three vulnerabilities dated 03/04/2025</a>](https://vigilance.fr/vulnerability/Suricata-three-vulnerabilities-dated-03-04-2025-46750)|An attacker can use several vulnerabilities of Suricata, dated 03/04/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-dated-03-04-2025-46749" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities dated 03/04/2025</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-dated-03-04-2025-46749)|An attacker can use several vulnerabilities of Brocade Fabric OS, dated 03/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-egress-filtrering-bypass-via-TCP-UDP-Data-Exfiltration-46748" class="noirorange"><b>PAN-OS</b>: egress filtrering bypass via TCP/UDP Data Exfiltration</a>](https://vigilance.fr/vulnerability/PAN-OS-egress-filtrering-bypass-via-TCP-UDP-Data-Exfiltration-46748)|An attacker can bypass filtering rules of PAN-OS, via TCP/UDP Data Exfiltration, in order to exfilter sensitive data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-03-04-2025-46747" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 03/04/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-03-04-2025-46747)|An attacker can use several vulnerabilities of the Linux kernel, dated 03/04/2025...|Visit link for details|
  
  ---
 
