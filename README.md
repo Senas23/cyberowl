@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/06/2025 21:20:54 UTC
+ > Last Updated 05/06/2025 09:28:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,18 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Expat-three-vulnerabilities-dated-05-09-2024-45083" class="noirorange"><b>Expat</b>: three vulnerabilities dated 05/09/2024</a>](https://vigilance.fr/vulnerability/Expat-three-vulnerabilities-dated-05-09-2024-45083)|An attacker can use several vulnerabilities of Expat, dated 05/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-header-injection-via-Net-http-Chunked-Data-46771" class="noirorange"><b>Go</b>: header injection via Net/http Chunked Data</a>](https://vigilance.fr/vulnerability/Go-header-injection-via-Net-http-Chunked-Data-46771)|An attacker can add new headers on Go, via Net/http Chunked Data, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-04-04-2025-46760" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 04/04/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-04-04-2025-46760)|An attacker can use several vulnerabilities of the Linux kernel, dated 04/04/2025...|Visit link for details|
@@ -43,7 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-03-09-2024-45062" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 03/09/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-03-09-2024-45062)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 03/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ruby-saml-overload-via-Compressed-SAML-Responses-46753" class="noirorange"><b>ruby-saml</b>: overload via Compressed SAML Responses</a>](https://vigilance.fr/vulnerability/ruby-saml-overload-via-Compressed-SAML-Responses-46753)|An attacker can trigger an overload of ruby-saml, via Compressed SAML Responses, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GraphicsMagick-overload-via-JXL-Image-Dimension-46752" class="noirorange"><b>GraphicsMagick</b>: overload via JXL Image Dimension</a>](https://vigilance.fr/vulnerability/GraphicsMagick-overload-via-JXL-Image-Dimension-46752)|An attacker can trigger an overload of GraphicsMagick, via JXL Image Dimension, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Horde-IMP-Cross-Site-Scripting-via-Onerror-Attribute-46751" class="noirorange"><b>Horde IMP</b>: Cross Site Scripting via Onerror Attribute</a>](https://vigilance.fr/vulnerability/Horde-IMP-Cross-Site-Scripting-via-Onerror-Attribute-46751)|An attacker can trigger a Cross Site Scripting of Horde IMP, via Onerror Attribute, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
@@ -61,13 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0469/)|Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 02 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0468/)|Une vulnérabilité a été découverte dans Roundcube Roundcube Webmail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 02 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0467/)|De multiples vulnérabilités ont été découvertes dans IBM Db2. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 mai 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
