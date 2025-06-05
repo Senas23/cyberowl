@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/06/2025 09:28:47 UTC
+ > Last Updated 05/06/2025 21:24:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,17 +30,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GRUB-information-disclosure-via-LUKS-encrypted-Disks-Decryption-Key-47231" class="noirorange"><b>GRUB</b>: information disclosure via LUKS-encrypted Disks Decryption Key</a>](https://vigilance.fr/vulnerability/GRUB-information-disclosure-via-LUKS-encrypted-Disks-Decryption-Key-47231)|An attacker can bypass access restrictions to data of GRUB, via LUKS-encrypted Disks Decryption Key, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Expat-three-vulnerabilities-dated-05-09-2024-45083" class="noirorange"><b>Expat</b>: three vulnerabilities dated 05/09/2024</a>](https://vigilance.fr/vulnerability/Expat-three-vulnerabilities-dated-05-09-2024-45083)|An attacker can use several vulnerabilities of Expat, dated 05/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2023-43016)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-header-injection-via-Net-http-Chunked-Data-46771" class="noirorange"><b>Go</b>: header injection via Net/http Chunked Data</a>](https://vigilance.fr/vulnerability/Go-header-injection-via-Net-http-Chunked-Data-46771)|An attacker can add new headers on Go, via Net/http Chunked Data, in order to alter the service behavior...|Visit link for details|
@@ -50,7 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/XZ-Utils-use-after-free-via-Threaded-Decoder-46758" class="noirorange"><b>XZ Utils</b>: use after free via Threaded Decoder</a>](https://vigilance.fr/vulnerability/XZ-Utils-use-after-free-via-Threaded-Decoder-46758)|An attacker can force the reuse of a freed memory area of XZ Utils, via Threaded Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-03-09-2024-45062" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 03/09/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-03-09-2024-45062)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 03/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ruby-saml-overload-via-Compressed-SAML-Responses-46753" class="noirorange"><b>ruby-saml</b>: overload via Compressed SAML Responses</a>](https://vigilance.fr/vulnerability/ruby-saml-overload-via-Compressed-SAML-Responses-46753)|An attacker can trigger an overload of ruby-saml, via Compressed SAML Responses, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GraphicsMagick-overload-via-JXL-Image-Dimension-46752" class="noirorange"><b>GraphicsMagick</b>: overload via JXL Image Dimension</a>](https://vigilance.fr/vulnerability/GraphicsMagick-overload-via-JXL-Image-Dimension-46752)|An attacker can trigger an overload of GraphicsMagick, via JXL Image Dimension, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -58,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0479/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 05 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0478/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 05 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0477/)|De multiples vulnérabilités ont été découvertes dans VMware NSX. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 05 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0476/)|Une vulnérabilité a été découverte dans cURL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 04 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans Python. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 04 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Microsoft rappelle que la vulnérabilité CVE-2025-5419 est activement exploitée.|Publié le 04 juin 2025|
@@ -65,9 +61,13 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans les produits Google. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 03 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0471/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2025-5419 est activement exploitée.|Publié le 03 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0470/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 02 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0469/)|Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 02 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0468/)|Une vulnérabilité a été découverte dans Roundcube Roundcube Webmail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 02 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0467/)|De multiples vulnérabilités ont été découvertes dans IBM Db2. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 30 mai 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
