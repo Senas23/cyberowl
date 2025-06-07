@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/06/2025 09:25:22 UTC
+ > Last Updated 07/06/2025 21:23:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FIS-GT-M-multiple-vulnerabilities-dated-07-04-2025-46783" class="noirorange"><b>FIS-GT.M</b>: multiple vulnerabilities dated 07/04/2025</a>](https://vigilance.fr/vulnerability/FIS-GT-M-multiple-vulnerabilities-dated-07-04-2025-46783)|An attacker can use several vulnerabilities of FIS-GT.M, dated 07/04/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035" class="noirorange"><b>Apache Struts</b>: directory traversal via File Upload Params</a>](https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035)|An attacker can traverse directories of Apache Struts, via File Upload Params, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-information-disclosure-via-OIDCProviderAuthRequestMethod-46780" class="noirorange"><b>mod_auth_openidc</b>: information disclosure via OIDCProviderAuthRequ<wbr>estMethod</wbr></a>](https://vigilance.fr/vulnerability/mod-auth-openidc-information-disclosure-via-OIDCProviderAuthRequestMethod-46780)|An attacker can bypass access restrictions to data of mod_auth_openidc, via OIDCProviderAuthRequ|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kamailio-read-write-access-via-remove-hf-46779" class="noirorange"><b>Kamailio</b>: read-write access via remove_hf()</a>](https://vigilance.fr/vulnerability/Kamailio-read-write-access-via-remove-hf-46779)|An attacker can bypass access restrictions of Kamailio, via remove_hf(), in order to read or alter data...|Visit link for details|
@@ -43,14 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/HTCondor-read-write-access-dated-06-04-2025-46775" class="noirorange"><b>HTCondor</b>: read-write access dated 06/04/2025</a>](https://vigilance.fr/vulnerability/HTCondor-read-write-access-dated-06-04-2025-46775)|An attacker can bypass access restrictions of HTCondor, dated 06/04/2025, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackLinuxElf64-un-DT-INIT-46777" class="noirorange"><b>UPX</b>: buffer overflow via PackLinuxElf64::un_<wbr>DT_INIT()</wbr></a>](https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackLinuxElf64-un-DT-INIT-46777)|An attacker can trigger a buffer overflow of UPX, via PackLinuxElf64::un_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-read-write-access-via-UTF-8-Characters-Truncated-Path-46773" class="noirorange"><b>Artifex Ghostscript</b>: read-write access via UTF-8 Characters Truncated Path</a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-read-write-access-via-UTF-8-Characters-Truncated-Path-46773)|An attacker can bypass access restrictions of Artifex Ghostscript, via UTF-8 Characters Truncated Path, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-output-userspace-47248" class="noirorange"><b>Linux kernel</b>: information disclosure via output_userspace()</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-output-userspace-47248)|An attacker can bypass access restrictions to data of the Linux kernel, via output_userspace(), in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -68,6 +61,13 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans Python. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 04 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Microsoft rappelle que la vulnérabilité CVE-2025-5419 est activement exploitée.|Publié le 04 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 03 juin 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
