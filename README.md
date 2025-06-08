@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/06/2025 09:25:37 UTC
+ > Last Updated 08/06/2025 21:23:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/giflib-buffer-overflow-via-DumpScreen2RGB-46796" class="noirorange"><b>giflib</b>: buffer overflow via DumpScreen2RGB()</a>](https://vigilance.fr/vulnerability/giflib-buffer-overflow-via-DumpScreen2RGB-46796)|An attacker can trigger a buffer overflow of giflib, via DumpScreen2RGB(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-buffer-overflow-via-Python-Binding-46795" class="noirorange"><b>libxml2</b>: buffer overflow via Python Binding</a>](https://vigilance.fr/vulnerability/libxml2-buffer-overflow-via-Python-Binding-46795)|An attacker can trigger a buffer overflow of libxml2, via Python Binding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-use-after-free-via-Web-Content-46793" class="noirorange"><b>WebKitGTK</b>: use after free via Web Content</a>](https://vigilance.fr/vulnerability/WebKitGTK-use-after-free-via-Web-Content-46793)|An attacker can force the reuse of a freed memory area of WebKitGTK, via Web Content, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-via-Web-Content-46792" class="noirorange"><b>WebKitGTK</b>: memory corruption via Web Content</a>](https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-via-Web-Content-46792)|An attacker can trigger a memory corruption of WebKitGTK, via Web Content, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-via-Web-Content-46791" class="noirorange"><b>WebKitGTK</b>: memory corruption via Web Content</a>](https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-via-Web-Content-46791)|An attacker can trigger a memory corruption of WebKitGTK, via Web Content, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-Cross-Site-Scripting-via-Iframe-46789" class="noirorange"><b>WebKitGTK</b>: Cross Site Scripting via Iframe</a>](https://vigilance.fr/vulnerability/WebKitGTK-Cross-Site-Scripting-via-Iframe-46789)|An attacker can trigger a Cross Site Scripting of WebKitGTK, via Iframe, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-five-vulnerabilities-dated-08-04-2025-46786" class="noirorange"><b>GNU Binutils</b>: five vulnerabilities dated 08/04/2025</a>](https://vigilance.fr/vulnerability/GNU-Binutils-five-vulnerabilities-dated-08-04-2025-46786)|An attacker can use several vulnerabilities of GNU Binutils, dated 08/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FIS-GT-M-multiple-vulnerabilities-dated-07-04-2025-46783" class="noirorange"><b>FIS-GT.M</b>: multiple vulnerabilities dated 07/04/2025</a>](https://vigilance.fr/vulnerability/FIS-GT-M-multiple-vulnerabilities-dated-07-04-2025-46783)|An attacker can use several vulnerabilities of FIS-GT.M, dated 07/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035" class="noirorange"><b>Apache Struts</b>: directory traversal via File Upload Params</a>](https://vigilance.fr/vulnerability/Apache-Struts-directory-traversal-via-File-Upload-Params-43035)|An attacker can traverse directories of Apache Struts, via File Upload Params, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-information-disclosure-via-OIDCProviderAuthRequestMethod-46780" class="noirorange"><b>mod_auth_openidc</b>: information disclosure via OIDCProviderAuthRequ<wbr>estMethod</wbr></a>](https://vigilance.fr/vulnerability/mod-auth-openidc-information-disclosure-via-OIDCProviderAuthRequestMethod-46780)|An attacker can bypass access restrictions to data of mod_auth_openidc, via OIDCProviderAuthRequ|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans Python. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 04 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Microsoft rappelle que la vulnérabilité CVE-2025-5419 est activement exploitée.|Publié le 04 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 03 juin 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-AOS-four-vulnerabilities-dated-08-04-2025-46825" class="noirorange"><b>HPE Aruba AOS</b>: four vulnerabilities dated 08/04/2025</a>](https://vigilance.fr/vulnerability/HPE-Aruba-AOS-four-vulnerabilities-dated-08-04-2025-46825)|An attacker can use several vulnerabilities of HPE Aruba AOS, dated 08/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-AOS-two-vulnerabilities-dated-08-04-2025-46824" class="noirorange"><b>HPE Aruba AOS</b>: two vulnerabilities dated 08/04/2025</a>](https://vigilance.fr/vulnerability/HPE-Aruba-AOS-two-vulnerabilities-dated-08-04-2025-46824)|An attacker can use several vulnerabilities of HPE Aruba AOS, dated 08/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-overload-via-Well-KnownText-46822" class="noirorange"><b>Elasticsearch</b>: overload via Well-KnownText</a>](https://vigilance.fr/vulnerability/Elasticsearch-overload-via-Well-KnownText-46822)|An attacker can trigger an overload of Elasticsearch, via Well-KnownText, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-overload-via-innerForbidCircularReferences-46821" class="noirorange"><b>Elasticsearch</b>: overload via innerForbidCircularR<wbr>eferences</wbr></a>](https://vigilance.fr/vulnerability/Elasticsearch-overload-via-innerForbidCircularReferences-46821)|An attacker can trigger an overload of Elasticsearch, via innerForbidCircularR|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-dated-08-04-2025-46817" class="noirorange"><b>Microsoft System Center Operations Manager</b>: privilege escalation dated 08/04/2025</a>](https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-dated-08-04-2025-46817)|An attacker can bypass restrictions of Microsoft System Center Operations Manager, dated 08/04/2025, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Visual-Studio-Code-privilege-escalation-dated-08-04-2025-46814" class="noirorange"><b>Visual Studio Code</b>: privilege escalation dated 08/04/2025</a>](https://vigilance.fr/vulnerability/Visual-Studio-Code-privilege-escalation-dated-08-04-2025-46814)|An attacker can bypass restrictions of Visual Studio Code, dated 08/04/2025, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-ASP-NET-Core-Visual-Studio-vulnerabilities-of-April-2025-46813" class="noirorange"><b>Microsoft ASP.NET Core  Visual Studio</b>: vulnerabilities of April 2025</a>](https://vigilance.fr/vulnerability/Microsoft-ASP-NET-Core-Visual-Studio-vulnerabilities-of-April-2025-46813)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-dated-08-04-2025-46812" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities dated 08/04/2025</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-dated-08-04-2025-46812)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source, dated 08/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Lemonldap-NG-Cross-Site-Scripting-via-Choice-Module-46811" class="noirorange"><b>Lemonldap-NG</b>: Cross Site Scripting via Choice Module</a>](https://vigilance.fr/vulnerability/Lemonldap-NG-Cross-Site-Scripting-via-Choice-Module-46811)|An attacker can trigger a Cross Site Scripting of Lemonldap::NG, via Choice Module, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-out-of-bounds-memory-reading-via-JBIG2Bitmap-combine-46810" class="noirorange"><b>Poppler</b>: out-of-bounds memory reading via JBIG2Bitmap::<wbr>combine()</wbr></a>](https://vigilance.fr/vulnerability/Poppler-out-of-bounds-memory-reading-via-JBIG2Bitmap-combine-46810)|An attacker can force a read at an invalid memory address of Poppler, via JBIG2Bitmap::|Visit link for details|
  
  ---
 
