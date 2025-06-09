@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/06/2025 09:28:59 UTC
+ > Last Updated 09/06/2025 21:25:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Command-Injection-46853" class="noirorange"><b>PAN-OS</b>: code execution via Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Command-Injection-46853)|An attacker can use a vulnerability of PAN-OS, via Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-user-access-via-GlobalProtect-SAML-Login-Session-Fixation-46852" class="noirorange"><b>PAN-OS</b>: user access via GlobalProtect SAML Login Session Fixation</a>](https://vigilance.fr/vulnerability/PAN-OS-user-access-via-GlobalProtect-SAML-Login-Session-Fixation-46852)|An attacker can bypass restrictions of PAN-OS, via GlobalProtect SAML Login Session Fixation, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Panels-read-write-access-via-Sensitive-Routes-46847" class="noirorange"><b>Drupal Panels</b>: read-write access via Sensitive Routes</a>](https://vigilance.fr/vulnerability/Drupal-Panels-read-write-access-via-Sensitive-Routes-46847)|An attacker can bypass access restrictions of Drupal Panels, via Sensitive Routes, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Gif-Player-Field-Cross-Site-Scripting-dated-09-04-2025-46846" class="noirorange"><b>Drupal Gif Player Field</b>: Cross Site Scripting dated 09/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Gif-Player-Field-Cross-Site-Scripting-dated-09-04-2025-46846)|An attacker can trigger a Cross Site Scripting of Drupal Gif Player Field, dated 09/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-WEB-T-denial-of-service-via-Incoming-API-Response-46844" class="noirorange"><b>Drupal WEB-T</b>: denial of service via Incoming API Response</a>](https://vigilance.fr/vulnerability/Drupal-WEB-T-denial-of-service-via-Incoming-API-Response-46844)|An attacker can cause a fatal error of Drupal WEB-T, via Incoming API Response, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-external-XML-entity-injection-via-RichText-Field-Type-46842" class="noirorange"><b>Ibexa DXP</b>: external XML entity injection via RichText Field Type</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-external-XML-entity-injection-via-RichText-Field-Type-46842)|An attacker can transmit malicious XML data to Ibexa DXP, via RichText Field Type, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-09-04-2025-46841" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 09/04/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-09-04-2025-46841)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 09/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-OMR-buffer-overflow-via-Atoe-Print-Functions-46840" class="noirorange"><b>Eclipse OMR</b>: buffer overflow via Atoe Print Functions</a>](https://vigilance.fr/vulnerability/Eclipse-OMR-buffer-overflow-via-Atoe-Print-Functions-46840)|An attacker can trigger a buffer overflow of Eclipse OMR, via Atoe Print Functions, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-OMR-NULL-pointer-dereference-via-Internal-Port-Library-46839" class="noirorange"><b>Eclipse OMR</b>: NULL pointer dereference via Internal Port Library</a>](https://vigilance.fr/vulnerability/Eclipse-OMR-NULL-pointer-dereference-via-Internal-Port-Library-46839)|An attacker can force a NULL pointer to be dereferenced on Eclipse OMR, via Internal Port Library, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-46837" class="noirorange"><b>Joomla Core</b>: user access via MFA</a>](https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-46837)|An attacker can bypass restrictions of Joomla Core, via MFA, in order to gain user privileges...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans Python. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 04 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0474/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Microsoft rappelle que la vulnérabilité CVE-2025-5419 est activement exploitée.|Publié le 04 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 03 juin 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-ingress-filtrering-bypass-via-Ignored-DisableForwarding-46834" class="noirorange"><b>OpenSSH</b>: ingress filtrering bypass via Ignored DisableForwarding</a>](https://vigilance.fr/vulnerability/OpenSSH-ingress-filtrering-bypass-via-Ignored-DisableForwarding-46834)|An attacker can bypass filtering rules of OpenSSH, via Ignored DisableForwarding, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-buffer-overflow-via-Multiple-Regex-Back-refs-46832" class="noirorange"><b>HAProxy</b>: buffer overflow via Multiple Regex Back-refs</a>](https://vigilance.fr/vulnerability/HAProxy-buffer-overflow-via-Multiple-Regex-Back-refs-46832)|An attacker can trigger a buffer overflow of HAProxy, via Multiple Regex Back-refs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-sys-current-frames-46828" class="noirorange"><b>Python Core</b>: denial of service via sys._current_frames</a>](https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-sys-current-frames-46828)|An attacker can cause a fatal error of Python Core, via sys._current_frames, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-04-2025-46827" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 09/04/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-04-2025-46827)|An attacker can use several vulnerabilities of the Linux kernel, dated 09/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-AOS-four-vulnerabilities-dated-08-04-2025-46825" class="noirorange"><b>HPE Aruba AOS</b>: four vulnerabilities dated 08/04/2025</a>](https://vigilance.fr/vulnerability/HPE-Aruba-AOS-four-vulnerabilities-dated-08-04-2025-46825)|An attacker can use several vulnerabilities of HPE Aruba AOS, dated 08/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-AOS-two-vulnerabilities-dated-08-04-2025-46824" class="noirorange"><b>HPE Aruba AOS</b>: two vulnerabilities dated 08/04/2025</a>](https://vigilance.fr/vulnerability/HPE-Aruba-AOS-two-vulnerabilities-dated-08-04-2025-46824)|An attacker can use several vulnerabilities of HPE Aruba AOS, dated 08/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-overload-via-Well-KnownText-46822" class="noirorange"><b>Elasticsearch</b>: overload via Well-KnownText</a>](https://vigilance.fr/vulnerability/Elasticsearch-overload-via-Well-KnownText-46822)|An attacker can trigger an overload of Elasticsearch, via Well-KnownText, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-overload-via-innerForbidCircularReferences-46821" class="noirorange"><b>Elasticsearch</b>: overload via innerForbidCircularR<wbr>eferences</wbr></a>](https://vigilance.fr/vulnerability/Elasticsearch-overload-via-innerForbidCircularReferences-46821)|An attacker can trigger an overload of Elasticsearch, via innerForbidCircularR|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-dated-08-04-2025-46817" class="noirorange"><b>Microsoft System Center Operations Manager</b>: privilege escalation dated 08/04/2025</a>](https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-dated-08-04-2025-46817)|An attacker can bypass restrictions of Microsoft System Center Operations Manager, dated 08/04/2025, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Visual-Studio-Code-privilege-escalation-dated-08-04-2025-46814" class="noirorange"><b>Visual Studio Code</b>: privilege escalation dated 08/04/2025</a>](https://vigilance.fr/vulnerability/Visual-Studio-Code-privilege-escalation-dated-08-04-2025-46814)|An attacker can bypass restrictions of Visual Studio Code, dated 08/04/2025, in order to escalate his privileges...|Visit link for details|
  
  ---
 
