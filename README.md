@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/06/2025 21:25:11 UTC
+ > Last Updated 10/06/2025 09:28:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Command-Injection-46853" class="noirorange"><b>PAN-OS</b>: code execution via Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Command-Injection-46853)|An attacker can use a vulnerability of PAN-OS, via Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-user-access-via-GlobalProtect-SAML-Login-Session-Fixation-46852" class="noirorange"><b>PAN-OS</b>: user access via GlobalProtect SAML Login Session Fixation</a>](https://vigilance.fr/vulnerability/PAN-OS-user-access-via-GlobalProtect-SAML-Login-Session-Fixation-46852)|An attacker can bypass restrictions of PAN-OS, via GlobalProtect SAML Login Session Fixation, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Panels-read-write-access-via-Sensitive-Routes-46847" class="noirorange"><b>Drupal Panels</b>: read-write access via Sensitive Routes</a>](https://vigilance.fr/vulnerability/Drupal-Panels-read-write-access-via-Sensitive-Routes-46847)|An attacker can bypass access restrictions of Drupal Panels, via Sensitive Routes, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Gif-Player-Field-Cross-Site-Scripting-dated-09-04-2025-46846" class="noirorange"><b>Drupal Gif Player Field</b>: Cross Site Scripting dated 09/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Gif-Player-Field-Cross-Site-Scripting-dated-09-04-2025-46846)|An attacker can trigger a Cross Site Scripting of Drupal Gif Player Field, dated 09/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-WEB-T-denial-of-service-via-Incoming-API-Response-46844" class="noirorange"><b>Drupal WEB-T</b>: denial of service via Incoming API Response</a>](https://vigilance.fr/vulnerability/Drupal-WEB-T-denial-of-service-via-Incoming-API-Response-46844)|An attacker can cause a fatal error of Drupal WEB-T, via Incoming API Response, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-external-XML-entity-injection-via-RichText-Field-Type-46842" class="noirorange"><b>Ibexa DXP</b>: external XML entity injection via RichText Field Type</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-external-XML-entity-injection-via-RichText-Field-Type-46842)|An attacker can transmit malicious XML data to Ibexa DXP, via RichText Field Type, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-09-04-2025-46841" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 09/04/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-09-04-2025-46841)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 09/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-OMR-buffer-overflow-via-Atoe-Print-Functions-46840" class="noirorange"><b>Eclipse OMR</b>: buffer overflow via Atoe Print Functions</a>](https://vigilance.fr/vulnerability/Eclipse-OMR-buffer-overflow-via-Atoe-Print-Functions-46840)|An attacker can trigger a buffer overflow of Eclipse OMR, via Atoe Print Functions, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-OMR-NULL-pointer-dereference-via-Internal-Port-Library-46839" class="noirorange"><b>Eclipse OMR</b>: NULL pointer dereference via Internal Port Library</a>](https://vigilance.fr/vulnerability/Eclipse-OMR-NULL-pointer-dereference-via-Internal-Port-Library-46839)|An attacker can force a NULL pointer to be dereferenced on Eclipse OMR, via Internal Port Library, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-46837" class="noirorange"><b>Joomla Core</b>: user access via MFA</a>](https://vigilance.fr/vulnerability/Joomla-Core-user-access-via-MFA-46837)|An attacker can bypass restrictions of Joomla Core, via MFA, in order to gain user privileges...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -64,14 +47,31 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HP-UX-denial-of-service-via-NFS-45109" class="noirorange"><b>HP-UX</b>: denial of service via NFS</a>](https://vigilance.fr/vulnerability/HP-UX-denial-of-service-via-NFS-45109)|An attacker can cause a fatal error of HP-UX, via NFS, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-September-2024-45108" class="noirorange"><b>SAP</b>: multiple vulnerabilities of September 2024</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-September-2024-45108)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Command-Injection-46853" class="noirorange"><b>PAN-OS</b>: code execution via Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Command-Injection-46853)|An attacker can use a vulnerability of PAN-OS, via Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-user-access-via-GlobalProtect-SAML-Login-Session-Fixation-46852" class="noirorange"><b>PAN-OS</b>: user access via GlobalProtect SAML Login Session Fixation</a>](https://vigilance.fr/vulnerability/PAN-OS-user-access-via-GlobalProtect-SAML-Login-Session-Fixation-46852)|An attacker can bypass restrictions of PAN-OS, via GlobalProtect SAML Login Session Fixation, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Panels-read-write-access-via-Sensitive-Routes-46847" class="noirorange"><b>Drupal Panels</b>: read-write access via Sensitive Routes</a>](https://vigilance.fr/vulnerability/Drupal-Panels-read-write-access-via-Sensitive-Routes-46847)|An attacker can bypass access restrictions of Drupal Panels, via Sensitive Routes, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Gif-Player-Field-Cross-Site-Scripting-dated-09-04-2025-46846" class="noirorange"><b>Drupal Gif Player Field</b>: Cross Site Scripting dated 09/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Gif-Player-Field-Cross-Site-Scripting-dated-09-04-2025-46846)|An attacker can trigger a Cross Site Scripting of Drupal Gif Player Field, dated 09/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-WEB-T-denial-of-service-via-Incoming-API-Response-46844" class="noirorange"><b>Drupal WEB-T</b>: denial of service via Incoming API Response</a>](https://vigilance.fr/vulnerability/Drupal-WEB-T-denial-of-service-via-Incoming-API-Response-46844)|An attacker can cause a fatal error of Drupal WEB-T, via Incoming API Response, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-external-XML-entity-injection-via-RichText-Field-Type-46842" class="noirorange"><b>Ibexa DXP</b>: external XML entity injection via RichText Field Type</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-external-XML-entity-injection-via-RichText-Field-Type-46842)|An attacker can transmit malicious XML data to Ibexa DXP, via RichText Field Type, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-09-04-2025-46841" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 09/04/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-09-04-2025-46841)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 09/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-OMR-buffer-overflow-via-Atoe-Print-Functions-46840" class="noirorange"><b>Eclipse OMR</b>: buffer overflow via Atoe Print Functions</a>](https://vigilance.fr/vulnerability/Eclipse-OMR-buffer-overflow-via-Atoe-Print-Functions-46840)|An attacker can trigger a buffer overflow of Eclipse OMR, via Atoe Print Functions, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
