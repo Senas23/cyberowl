@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/06/2025 21:24:26 UTC
+ > Last Updated 12/06/2025 09:28:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,6 +24,13 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,23 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-CLI-45139" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via CLI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-CLI-45139)|An attacker can bypass restrictions of Cisco IOS XR, via CLI, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-memory-leak-via-Multicast-Traceroute-45138" class="noirorange"><b>Cisco IOS XR</b>: memory leak via Multicast Traceroute</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-memory-leak-via-Multicast-Traceroute-45138)|An attacker can create a memory leak of Cisco IOS XR, via Multicast Traceroute, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Network-Convergence-System-45135" class="noirorange"><b>Cisco IOS XR</b>: denial of service via Network Convergence System</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Network-Convergence-System-45135)|An attacker can cause packet dropping in Cisco IOS XR, via Network Convergence System, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-routage-IS-IS-45134" class="noirorange"><b>Cisco IOS XR</b>: denial of service via routage IS-IS</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-routage-IS-IS-45134)|An attacker can send malicious IS-IS packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Quarkus-HTTP-read-write-access-via-HttpOnly-Cookie-Values-46862" class="noirorange"><b>Quarkus-HTTP</b>: read-write access via HttpOnly Cookie Values</a>](https://vigilance.fr/vulnerability/Quarkus-HTTP-read-write-access-via-HttpOnly-Cookie-Values-46862)|An attacker can bypass access restrictions of Quarkus-HTTP, via HttpOnly Cookie Values, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FontForge-code-execution-via-BROWSER-Environment-Variable-46861" class="noirorange"><b>FontForge</b>: code execution via BROWSER Environment Variable</a>](https://vigilance.fr/vulnerability/FontForge-code-execution-via-BROWSER-Environment-Variable-46861)|An attacker can use a vulnerability of FontForge, via BROWSER Environment Variable, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-five-vulnerabilities-dated-11-09-2024-45131" class="noirorange"><b>Google Chrome  Microsoft Edge  Opera</b>: five vulnerabilities dated 11/09/2024</a>](https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-five-vulnerabilities-dated-11-09-2024-45131)|An attacker can use several vulnerabilities of Google Chrome  Microsoft Edge  Opera, dated 11/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-WebAuthN-46860" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OAuth / OpenID / WebAuthN</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-WebAuthN-46860)|A vulnerability of Apereo CAS Server, via OAuth / OpenID / WebAuthN, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-two-vulnerabilities-dated-11-09-2024-45121" class="noirorange"><b>Adobe Acrobat/Reader</b>: two vulnerabilities dated 11/09/2024</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-two-vulnerabilities-dated-11-09-2024-45121)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader, dated 11/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libsoup-four-vulnerabilities-dated-11-04-2025-46859" class="noirorange"><b>libsoup</b>: four vulnerabilities dated 11/04/2025</a>](https://vigilance.fr/vulnerability/libsoup-four-vulnerabilities-dated-11-04-2025-46859)|An attacker can use several vulnerabilities of libsoup, dated 11/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsoup-out-of-bounds-memory-reading-via-skip-insight-whitespace-46858" class="noirorange"><b>libsoup</b>: out-of-bounds memory reading via skip_insight_<wbr>whitespace()</wbr></a>](https://vigilance.fr/vulnerability/libsoup-out-of-bounds-memory-reading-via-skip-insight-whitespace-46858)|An attacker can force a read at an invalid memory address of libsoup, via skip_insight_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-gso-skb-47270" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via gso_skb</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-gso-skb-47270)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via gso_skb, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2024-45119" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of September 2024</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-September-2024-45119)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-September-2024-45118" class="noirorange"><b>Microsoft SQL Server</b>: vulnerabilities of September 2024</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-September-2024-45118)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
