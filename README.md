@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/06/2025 09:28:46 UTC
+ > Last Updated 12/06/2025 21:27:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0505/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Palo Alto Networks a...|Publié le 12 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0504/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 12 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0503/)|Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0502/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0501/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 11 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0500/)|Une vulnérabilité a été découverte dans Microsoft .Net. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 11 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0499/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2025-33053...|Publié le 11 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire.|Publié le 11 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0497/)|Une vulnérabilité a été découverte dans les processeurs Intel. Elle permet à un attaquant de provoquer un déni de service.|Publié le 11 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0496/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 11 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0495/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 11 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0494/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 11 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0493/)|De multiples vulnérabilités ont été découvertes dans les produits Centreon. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 11 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0492/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 11 juin 2025|
  
  ---
 
@@ -58,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068" class="noirorange"><b>Windows</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-code-execution-dated-12-09-2024-45147" class="noirorange"><b>Palo Alto PAN-OS</b>: code execution dated 12/09/2024</a>](https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-code-execution-dated-12-09-2024-45147)|An attacker can use a vulnerability of Palo Alto PAN-OS, dated 12/09/2024, in order to run shell commands...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-CLI-45139" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via CLI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-CLI-45139)|An attacker can bypass restrictions of Cisco IOS XR, via CLI, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-memory-leak-via-Multicast-Traceroute-45138" class="noirorange"><b>Cisco IOS XR</b>: memory leak via Multicast Traceroute</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-memory-leak-via-Multicast-Traceroute-45138)|An attacker can create a memory leak of Cisco IOS XR, via Multicast Traceroute, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Network-Convergence-System-45135" class="noirorange"><b>Cisco IOS XR</b>: denial of service via Network Convergence System</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Network-Convergence-System-45135)|An attacker can cause packet dropping in Cisco IOS XR, via Network Convergence System, in order to trigger a denial of service...|Visit link for details|
@@ -66,8 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/FontForge-code-execution-via-BROWSER-Environment-Variable-46861" class="noirorange"><b>FontForge</b>: code execution via BROWSER Environment Variable</a>](https://vigilance.fr/vulnerability/FontForge-code-execution-via-BROWSER-Environment-Variable-46861)|An attacker can use a vulnerability of FontForge, via BROWSER Environment Variable, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-five-vulnerabilities-dated-11-09-2024-45131" class="noirorange"><b>Google Chrome  Microsoft Edge  Opera</b>: five vulnerabilities dated 11/09/2024</a>](https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-five-vulnerabilities-dated-11-09-2024-45131)|An attacker can use several vulnerabilities of Google Chrome  Microsoft Edge  Opera, dated 11/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-WebAuthN-46860" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OAuth / OpenID / WebAuthN</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-WebAuthN-46860)|A vulnerability of Apereo CAS Server, via OAuth / OpenID / WebAuthN, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-two-vulnerabilities-dated-11-09-2024-45121" class="noirorange"><b>Adobe Acrobat/Reader</b>: two vulnerabilities dated 11/09/2024</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-two-vulnerabilities-dated-11-09-2024-45121)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader, dated 11/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsoup-four-vulnerabilities-dated-11-04-2025-46859" class="noirorange"><b>libsoup</b>: four vulnerabilities dated 11/04/2025</a>](https://vigilance.fr/vulnerability/libsoup-four-vulnerabilities-dated-11-04-2025-46859)|An attacker can use several vulnerabilities of libsoup, dated 11/04/2025...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
