@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/06/2025 09:28:48 UTC
+ > Last Updated 13/06/2025 21:25:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,13 +24,6 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -58,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Simple-Klaro-Cross-Site-Scripting-via-Admin-47294" class="noirorange"><b>Drupal Simple Klaro</b>: Cross Site Scripting via Admin</a>](https://vigilance.fr/vulnerability/Drupal-Simple-Klaro-Cross-Site-Scripting-via-Admin-47294)|An attacker can trigger a Cross Site Scripting of Drupal Simple Klaro, via Admin, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-audio-element-obu-47290" class="noirorange"><b>FFmpeg</b>: memory leak via audio_element_obu()</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-audio-element-obu-47290)|An attacker can create a memory leak of FFmpeg, via audio_element_obu(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068" class="noirorange"><b>Windows</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-code-execution-dated-12-09-2024-45147" class="noirorange"><b>Palo Alto PAN-OS</b>: code execution dated 12/09/2024</a>](https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-code-execution-dated-12-09-2024-45147)|An attacker can use a vulnerability of Palo Alto PAN-OS, dated 12/09/2024, in order to run shell commands...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-CLI-45139" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via CLI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-CLI-45139)|An attacker can bypass restrictions of Cisco IOS XR, via CLI, in order to escalate his privileges...|Visit link for details|
@@ -66,8 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-routage-IS-IS-45134" class="noirorange"><b>Cisco IOS XR</b>: denial of service via routage IS-IS</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-routage-IS-IS-45134)|An attacker can send malicious IS-IS packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Quarkus-HTTP-read-write-access-via-HttpOnly-Cookie-Values-46862" class="noirorange"><b>Quarkus-HTTP</b>: read-write access via HttpOnly Cookie Values</a>](https://vigilance.fr/vulnerability/Quarkus-HTTP-read-write-access-via-HttpOnly-Cookie-Values-46862)|An attacker can bypass access restrictions of Quarkus-HTTP, via HttpOnly Cookie Values, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FontForge-code-execution-via-BROWSER-Environment-Variable-46861" class="noirorange"><b>FontForge</b>: code execution via BROWSER Environment Variable</a>](https://vigilance.fr/vulnerability/FontForge-code-execution-via-BROWSER-Environment-Variable-46861)|An attacker can use a vulnerability of FontForge, via BROWSER Environment Variable, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-five-vulnerabilities-dated-11-09-2024-45131" class="noirorange"><b>Google Chrome  Microsoft Edge  Opera</b>: five vulnerabilities dated 11/09/2024</a>](https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-five-vulnerabilities-dated-11-09-2024-45131)|An attacker can use several vulnerabilities of Google Chrome  Microsoft Edge  Opera, dated 11/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-WebAuthN-46860" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OAuth / OpenID / WebAuthN</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-WebAuthN-46860)|A vulnerability of Apereo CAS Server, via OAuth / OpenID / WebAuthN, was announced...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
