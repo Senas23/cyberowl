@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/06/2025 21:27:49 UTC
+ > Last Updated 13/06/2025 09:28:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,6 +24,13 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -61,13 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FontForge-code-execution-via-BROWSER-Environment-Variable-46861" class="noirorange"><b>FontForge</b>: code execution via BROWSER Environment Variable</a>](https://vigilance.fr/vulnerability/FontForge-code-execution-via-BROWSER-Environment-Variable-46861)|An attacker can use a vulnerability of FontForge, via BROWSER Environment Variable, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-five-vulnerabilities-dated-11-09-2024-45131" class="noirorange"><b>Google Chrome  Microsoft Edge  Opera</b>: five vulnerabilities dated 11/09/2024</a>](https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-five-vulnerabilities-dated-11-09-2024-45131)|An attacker can use several vulnerabilities of Google Chrome  Microsoft Edge  Opera, dated 11/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-WebAuthN-46860" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OAuth / OpenID / WebAuthN</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-WebAuthN-46860)|A vulnerability of Apereo CAS Server, via OAuth / OpenID / WebAuthN, was announced...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
