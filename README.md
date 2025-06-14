@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/06/2025 21:25:45 UTC
+ > Last Updated 14/06/2025 09:28:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,37 +30,20 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0505/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Palo Alto Networks a...|Publié le 12 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0504/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 12 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0503/)|Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0502/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0501/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 11 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0500/)|Une vulnérabilité a été découverte dans Microsoft .Net. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 11 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0499/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2025-33053...|Publié le 11 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0498/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire.|Publié le 11 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0497/)|Une vulnérabilité a été découverte dans les processeurs Intel. Elle permet à un attaquant de provoquer un déni de service.|Publié le 11 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0496/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 11 juin 2025|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PGAdmin-Server-Side-Request-Forgery-dated-14-04-2025-46868" class="noirorange"><b>PGAdmin</b>: Server-Side Request Forgery dated 14/04/2025</a>](https://vigilance.fr/vulnerability/PGAdmin-Server-Side-Request-Forgery-dated-14-04-2025-46868)|An attacker can trigger a Server-Side Request Forgery of PGAdmin, dated 14/04/2025, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-ReadWPGImage-46867" class="noirorange"><b>GraphicsMagick</b>: buffer overflow via ReadWPGImage()</a>](https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-ReadWPGImage-46867)|An attacker can trigger a buffer overflow of GraphicsMagick, via ReadWPGImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/systemd-coredump-information-disclosure-via-Kill-and-replace-Race-47313" class="noirorange"><b>systemd-coredump</b>: information disclosure via Kill-and-replace Race</a>](https://vigilance.fr/vulnerability/systemd-coredump-information-disclosure-via-Kill-and-replace-Race-47313)|An attacker can bypass access restrictions to data of systemd-coredump, via Kill-and-replace Race, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Coreutils-buffer-overflow-via-sort-47307" class="noirorange"><b>GNU Coreutils</b>: buffer overflow via sort</a>](https://vigilance.fr/vulnerability/GNU-Coreutils-buffer-overflow-via-sort-47307)|An attacker can trigger a buffer overflow of GNU Coreutils, via sort, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-five-vulnerabilities-dated-13-04-2025-46865" class="noirorange"><b>MediaWiki</b>: five vulnerabilities dated 13/04/2025</a>](https://vigilance.fr/vulnerability/MediaWiki-five-vulnerabilities-dated-13-04-2025-46865)|An attacker can use several vulnerabilities of MediaWiki, dated 13/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-HTMLMultiSelectField-Php-46864" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via HTMLMultiSelectField<wbr>.Php</wbr></a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-HTMLMultiSelectField-Php-46864)|An attacker can trigger a Cross Site Scripting of MediaWiki, via HTMLMultiSelectField|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Simple-Klaro-Cross-Site-Scripting-via-Admin-47294" class="noirorange"><b>Drupal Simple Klaro</b>: Cross Site Scripting via Admin</a>](https://vigilance.fr/vulnerability/Drupal-Simple-Klaro-Cross-Site-Scripting-via-Admin-47294)|An attacker can trigger a Cross Site Scripting of Drupal Simple Klaro, via Admin, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-audio-element-obu-47290" class="noirorange"><b>FFmpeg</b>: memory leak via audio_element_obu()</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-audio-element-obu-47290)|An attacker can create a memory leak of FFmpeg, via audio_element_obu(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068" class="noirorange"><b>Windows</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-code-execution-dated-12-09-2024-45147" class="noirorange"><b>Palo Alto PAN-OS</b>: code execution dated 12/09/2024</a>](https://vigilance.fr/vulnerability/Palo-Alto-PAN-OS-code-execution-dated-12-09-2024-45147)|An attacker can use a vulnerability of Palo Alto PAN-OS, dated 12/09/2024, in order to run shell commands...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-CLI-45139" class="noirorange"><b>Cisco IOS XR</b>: privilege escalation via CLI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-privilege-escalation-via-CLI-45139)|An attacker can bypass restrictions of Cisco IOS XR, via CLI, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-memory-leak-via-Multicast-Traceroute-45138" class="noirorange"><b>Cisco IOS XR</b>: memory leak via Multicast Traceroute</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-memory-leak-via-Multicast-Traceroute-45138)|An attacker can create a memory leak of Cisco IOS XR, via Multicast Traceroute, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Network-Convergence-System-45135" class="noirorange"><b>Cisco IOS XR</b>: denial of service via Network Convergence System</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-Network-Convergence-System-45135)|An attacker can cause packet dropping in Cisco IOS XR, via Network Convergence System, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-routage-IS-IS-45134" class="noirorange"><b>Cisco IOS XR</b>: denial of service via routage IS-IS</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-denial-of-service-via-routage-IS-IS-45134)|An attacker can send malicious IS-IS packets to Cisco IOS XR, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Quarkus-HTTP-read-write-access-via-HttpOnly-Cookie-Values-46862" class="noirorange"><b>Quarkus-HTTP</b>: read-write access via HttpOnly Cookie Values</a>](https://vigilance.fr/vulnerability/Quarkus-HTTP-read-write-access-via-HttpOnly-Cookie-Values-46862)|An attacker can bypass access restrictions of Quarkus-HTTP, via HttpOnly Cookie Values, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FontForge-code-execution-via-BROWSER-Environment-Variable-46861" class="noirorange"><b>FontForge</b>: code execution via BROWSER Environment Variable</a>](https://vigilance.fr/vulnerability/FontForge-code-execution-via-BROWSER-Environment-Variable-46861)|An attacker can use a vulnerability of FontForge, via BROWSER Environment Variable, in order to run code...|Visit link for details|
  
  ---
 
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0511/)|De multiples vulnérabilités ont été découvertes dans les produits Google. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 13 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0510/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.|Publié le 13 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0509/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 13 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0508/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0507/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Agent. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 13 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0506/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 13 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0505/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Palo Alto Networks a...|Publié le 12 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0504/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 12 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0503/)|Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 juin 2025|
  
  ---
 
