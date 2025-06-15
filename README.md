@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/06/2025 21:23:07 UTC
+ > Last Updated 15/06/2025 09:25:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/CImg-buffer-overflow-dated-15-04-2025-46870" class="noirorange"><b>CImg</b>: buffer overflow dated 15/04/2025</a>](https://vigilance.fr/vulnerability/CImg-buffer-overflow-dated-15-04-2025-46870)|An attacker can trigger a buffer overflow of CImg, dated 15/04/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GLib-integer-overflow-via-g-date-time-new-from-iso8601-46869" class="noirorange"><b>GLib</b>: integer overflow via g_date_time_new_<wbr>from_iso8601()</wbr></a>](https://vigilance.fr/vulnerability/GLib-integer-overflow-via-g-date-time-new-from-iso8601-46869)|An attacker can trigger an integer overflow of GLib, via g_date_time_new_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PGAdmin-Server-Side-Request-Forgery-dated-14-04-2025-46868" class="noirorange"><b>PGAdmin</b>: Server-Side Request Forgery dated 14/04/2025</a>](https://vigilance.fr/vulnerability/PGAdmin-Server-Side-Request-Forgery-dated-14-04-2025-46868)|An attacker can trigger a Server-Side Request Forgery of PGAdmin, dated 14/04/2025, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-ReadWPGImage-46867" class="noirorange"><b>GraphicsMagick</b>: buffer overflow via ReadWPGImage()</a>](https://vigilance.fr/vulnerability/GraphicsMagick-buffer-overflow-via-ReadWPGImage-46867)|An attacker can trigger a buffer overflow of GraphicsMagick, via ReadWPGImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-HTMLMultiSelectField-Php-46864" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via HTMLMultiSelectField<wbr>.Php</wbr></a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-HTMLMultiSelectField-Php-46864)|An attacker can trigger a Cross Site Scripting of MediaWiki, via HTMLMultiSelectField|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Simple-Klaro-Cross-Site-Scripting-via-Admin-47294" class="noirorange"><b>Drupal Simple Klaro</b>: Cross Site Scripting via Admin</a>](https://vigilance.fr/vulnerability/Drupal-Simple-Klaro-Cross-Site-Scripting-via-Admin-47294)|An attacker can trigger a Cross Site Scripting of Drupal Simple Klaro, via Admin, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-audio-element-obu-47290" class="noirorange"><b>FFmpeg</b>: memory leak via audio_element_obu()</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-audio-element-obu-47290)|An attacker can create a memory leak of FFmpeg, via audio_element_obu(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068" class="noirorange"><b>Windows</b>: vulnerabilities of December 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2023-43068)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
  ---
 
