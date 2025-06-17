@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/06/2025 09:29:10 UTC
+ > Last Updated 17/06/2025 21:25:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-buffer-overflow-via-xmlSchemaIDCFillNodeTables-46908" class="noirorange"><b>libxml2</b>: buffer overflow via xmlSchemaIDCFillNode<wbr>Tables()</wbr></a>](https://vigilance.fr/vulnerability/libxml2-buffer-overflow-via-xmlSchemaIDCFillNodeTables-46908)|An attacker can trigger a buffer overflow of libxml2, via xmlSchemaIDCFillNode|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Contao-file-upload-via-File-Manager-45171" class="noirorange"><b>Contao</b>: file upload via File Manager</a>](https://vigilance.fr/vulnerability/Contao-file-upload-via-File-Manager-45171)|An attacker can upload a malicious file on Contao, via File Manager, in order for example to upload a Trojan...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/wxWidgets-denial-of-service-via-wxWebRequestCURL-46905" class="noirorange"><b>wxWidgets</b>: denial of service via wxWebRequestCURL</a>](https://vigilance.fr/vulnerability/wxWidgets-denial-of-service-via-wxWebRequestCURL-46905)|An attacker can cause a fatal error of wxWidgets, via wxWebRequestCURL, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Google-Optimize-Hide-Page-vulnerability-dated-17-04-2025-46903" class="noirorange"><b>Drupal Google Optimize Hide Page</b>: vulnerability dated 17/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Google-Optimize-Hide-Page-vulnerability-dated-17-04-2025-46903)|A vulnerability of Drupal Google Optimize Hide Page, dated 17/04/2025, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Google-Optimize-vulnerability-dated-17-04-2025-46902" class="noirorange"><b>Drupal Google Optimize</b>: vulnerability dated 17/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Google-Optimize-vulnerability-dated-17-04-2025-46902)|A vulnerability of Drupal Google Optimize, dated 17/04/2025, was announced...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Panelizer-vulnerability-dated-17-04-2025-46899" class="noirorange"><b>Drupal Panelizer</b>: vulnerability dated 17/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Panelizer-vulnerability-dated-17-04-2025-46899)|A vulnerability of Drupal Panelizer, dated 17/04/2025, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-baguetteBox-js-Cross-Site-Scripting-dated-17-04-2025-46898" class="noirorange"><b>Drupal baguetteBox.js</b>: Cross Site Scripting dated 17/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-baguetteBox-js-Cross-Site-Scripting-dated-17-04-2025-46898)|An attacker can trigger a Cross Site Scripting of Drupal baguetteBox.js, dated 17/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Stage-File-Proxy-denial-of-service-dated-17-04-2025-46897" class="noirorange"><b>Drupal Stage File Proxy</b>: denial of service dated 17/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Stage-File-Proxy-denial-of-service-dated-17-04-2025-46897)|An attacker can cause a fatal error of Drupal Stage File Proxy, dated 17/04/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-dated-17-04-2025-46896" class="noirorange"><b>Apple iOS  macOS</b>: two vulnerabilities dated 17/04/2025</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-dated-17-04-2025-46896)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 17/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-17-09-2024-45161" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 17/09/2024</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-17-09-2024-45161)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 17/09/2024...|Visit link for details|
  
  ---
 
