@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/06/2025 21:25:40 UTC
+ > Last Updated 19/06/2025 09:29:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Smart-IP-Ban-privilege-escalation-dated-19-09-2024-45185" class="noirorange"><b>Drupal Smart IP Ban</b>: privilege escalation dated 19/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-Smart-IP-Ban-privilege-escalation-dated-19-09-2024-45185)|An attacker can bypass restrictions of Drupal Smart IP Ban, dated 19/09/2024, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DOMPurify-write-access-via-Scripts-server-js-Working-Directory-47342" class="noirorange"><b>DOMPurify</b>: write access via Scripts/server.js Working Directory</a>](https://vigilance.fr/vulnerability/DOMPurify-write-access-via-Scripts-server-js-Working-Directory-47342)|An attacker can bypass access restrictions of DOMPurify, via Scripts/server.js Working Directory, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-IPv6-Address-Parsing-47340" class="noirorange"><b>Python Core</b>: overload via IPv6 Address Parsing</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-IPv6-Address-Parsing-47340)|An attacker can trigger an overload of Python Core, via IPv6 Address Parsing, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-header-injection-via-IBM-Navigator-for-i-46921" class="noirorange"><b>IBM i</b>: header injection via IBM Navigator for i</a>](https://vigilance.fr/vulnerability/IBM-i-header-injection-via-IBM-Navigator-for-i-46921)|An attacker can add new headers on IBM i, via IBM Navigator for i, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-log-file-corruption-via-HTTP-requests-46919" class="noirorange"><b>Tenable Nessus</b>: log file corruption via HTTP requests</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-log-file-corruption-via-HTTP-requests-46919)|An attacker can manipulate HTTP requests for Tenable Nessus, in order to corrupt logs...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-for-Windows-unsafe-permissions-for-the-install-folder-46918" class="noirorange"><b>Tenable Nessus for Windows</b>: unsafe permissions for the install folder</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-for-Windows-unsafe-permissions-for-the-install-folder-46918)|An attacker can bypass restrictions of Tenable Nessus for Windows, via a custom install folder, in order to escalate his privileges...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-seven-vulnerabilities-dated-18-09-2024-45181" class="noirorange"><b>Google Chrome  Microsoft Edge  Opera</b>: seven vulnerabilities dated 18/09/2024</a>](https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-seven-vulnerabilities-dated-18-09-2024-45181)|An attacker can use several vulnerabilities of Google Chrome  Microsoft Edge  Opera, dated 18/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Docker-buildx-information-disclosure-via-telemetry-46914" class="noirorange"><b>Docker buildx</b>: information disclosure via telemetry</a>](https://vigilance.fr/vulnerability/Docker-buildx-information-disclosure-via-telemetry-46914)|An attacker can bypass access restrictions to data of Docker buildx, via telemetry, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-five-vulnerabilities-dated-18-04-2025-46913" class="noirorange"><b>Linux kernel</b>: five vulnerabilities dated 18/04/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-five-vulnerabilities-dated-18-04-2025-46913)|An attacker can use several vulnerabilities of the Linux kernel, dated 18/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-SAML-wrong-signature-check-45176" class="noirorange"><b>Ruby-SAML</b>: wrong signature check</a>](https://vigilance.fr/vulnerability/Ruby-SAML-wrong-signature-check-45176)|A detailed analysis has not been performed for this bulletin...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-user-access-via-Group-Membership-Changes-47333" class="noirorange"><b>Samba</b>: user access via Group Membership Changes</a>](https://vigilance.fr/vulnerability/Samba-user-access-via-Group-Membership-Changes-47333)|An attacker can bypass restrictions of Samba, via Group Membership Changes, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/quic-go-denial-of-service-via-ICMP-Packet-Too-Large-Packet-47331" class="noirorange"><b>quic-go</b>: denial of service via ICMP Packet Too Large Packet</a>](https://vigilance.fr/vulnerability/quic-go-denial-of-service-via-ICMP-Packet-Too-Large-Packet-47331)|An attacker can cause a fatal error of quic-go, via ICMP Packet Too Large Packet, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
