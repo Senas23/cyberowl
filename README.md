@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/06/2025 09:29:13 UTC
+ > Last Updated 19/06/2025 21:23:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0525/)|De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0524/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0523/)|Une vulnérabilité a été découverte dans Cisco Meraki MX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 19 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0522/)|De multiples vulnérabilités ont été découvertes dans ClamAV ClamAV. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0521/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 18 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0520/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection SQL (SQLi) et une falsification de requêtes côté serveur (SSRF).|Publié le 18 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0518/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0515/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0514/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0513/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 16 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0512/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 juin 2025|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Performance-Co-Pilot-two-vulnerabilities-dated-19-09-2024-45188" class="noirorange"><b>Performance Co-Pilot</b>: two vulnerabilities dated 19/09/2024</a>](https://vigilance.fr/vulnerability/Performance-Co-Pilot-two-vulnerabilities-dated-19-09-2024-45188)|An attacker can use several vulnerabilities of Performance Co-Pilot, dated 19/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Smart-IP-Ban-privilege-escalation-dated-19-09-2024-45185" class="noirorange"><b>Drupal Smart IP Ban</b>: privilege escalation dated 19/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-Smart-IP-Ban-privilege-escalation-dated-19-09-2024-45185)|An attacker can bypass restrictions of Drupal Smart IP Ban, dated 19/09/2024, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DOMPurify-write-access-via-Scripts-server-js-Working-Directory-47342" class="noirorange"><b>DOMPurify</b>: write access via Scripts/server.js Working Directory</a>](https://vigilance.fr/vulnerability/DOMPurify-write-access-via-Scripts-server-js-Working-Directory-47342)|An attacker can bypass access restrictions of DOMPurify, via Scripts/server.js Working Directory, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-IPv6-Address-Parsing-47340" class="noirorange"><b>Python Core</b>: overload via IPv6 Address Parsing</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-IPv6-Address-Parsing-47340)|An attacker can trigger an overload of Python Core, via IPv6 Address Parsing, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/HPE-ArcSight-Enterprise-Security-Manager-spoofing-via-expired-domains-46916" class="noirorange"><b>HPE ArcSight Enterprise Security Manager</b>: spoofing via expired domains</a>](https://vigilance.fr/vulnerability/HPE-ArcSight-Enterprise-Security-Manager-spoofing-via-expired-domains-46916)|An attacker can create spoofed data on HPE ArcSight Enterprise Security Manager, via expired domains, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-seven-vulnerabilities-dated-18-09-2024-45181" class="noirorange"><b>Google Chrome  Microsoft Edge  Opera</b>: seven vulnerabilities dated 18/09/2024</a>](https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-seven-vulnerabilities-dated-18-09-2024-45181)|An attacker can use several vulnerabilities of Google Chrome  Microsoft Edge  Opera, dated 18/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Docker-buildx-information-disclosure-via-telemetry-46914" class="noirorange"><b>Docker buildx</b>: information disclosure via telemetry</a>](https://vigilance.fr/vulnerability/Docker-buildx-information-disclosure-via-telemetry-46914)|An attacker can bypass access restrictions to data of Docker buildx, via telemetry, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-five-vulnerabilities-dated-18-04-2025-46913" class="noirorange"><b>Linux kernel</b>: five vulnerabilities dated 18/04/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-five-vulnerabilities-dated-18-04-2025-46913)|An attacker can use several vulnerabilities of the Linux kernel, dated 18/04/2025...|Visit link for details|
  
  ---
 
