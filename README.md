@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/06/2025 21:23:52 UTC
+ > Last Updated 20/06/2025 09:28:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-three-vulnerabilities-dated-20-09-2024-45190" class="noirorange"><b>Microsoft Edge</b>: three vulnerabilities dated 20/09/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-three-vulnerabilities-dated-20-09-2024-45190)|An attacker can use several vulnerabilities of Microsoft Edge, dated 20/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Performance-Co-Pilot-two-vulnerabilities-dated-19-09-2024-45188" class="noirorange"><b>Performance Co-Pilot</b>: two vulnerabilities dated 19/09/2024</a>](https://vigilance.fr/vulnerability/Performance-Co-Pilot-two-vulnerabilities-dated-19-09-2024-45188)|An attacker can use several vulnerabilities of Performance Co-Pilot, dated 19/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Smart-IP-Ban-privilege-escalation-dated-19-09-2024-45185" class="noirorange"><b>Drupal Smart IP Ban</b>: privilege escalation dated 19/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-Smart-IP-Ban-privilege-escalation-dated-19-09-2024-45185)|An attacker can bypass restrictions of Drupal Smart IP Ban, dated 19/09/2024, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DOMPurify-write-access-via-Scripts-server-js-Working-Directory-47342" class="noirorange"><b>DOMPurify</b>: write access via Scripts/server.js Working Directory</a>](https://vigilance.fr/vulnerability/DOMPurify-write-access-via-Scripts-server-js-Working-Directory-47342)|An attacker can bypass access restrictions of DOMPurify, via Scripts/server.js Working Directory, in order to alter data...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-for-Windows-unsafe-permissions-for-the-install-folder-46918" class="noirorange"><b>Tenable Nessus for Windows</b>: unsafe permissions for the install folder</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-for-Windows-unsafe-permissions-for-the-install-folder-46918)|An attacker can bypass restrictions of Tenable Nessus for Windows, via a custom install folder, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HPE-ArcSight-Enterprise-Security-Manager-spoofing-via-expired-domains-46916" class="noirorange"><b>HPE ArcSight Enterprise Security Manager</b>: spoofing via expired domains</a>](https://vigilance.fr/vulnerability/HPE-ArcSight-Enterprise-Security-Manager-spoofing-via-expired-domains-46916)|An attacker can create spoofed data on HPE ArcSight Enterprise Security Manager, via expired domains, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-seven-vulnerabilities-dated-18-09-2024-45181" class="noirorange"><b>Google Chrome  Microsoft Edge  Opera</b>: seven vulnerabilities dated 18/09/2024</a>](https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-seven-vulnerabilities-dated-18-09-2024-45181)|An attacker can use several vulnerabilities of Google Chrome  Microsoft Edge  Opera, dated 18/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-buildx-information-disclosure-via-telemetry-46914" class="noirorange"><b>Docker buildx</b>: information disclosure via telemetry</a>](https://vigilance.fr/vulnerability/Docker-buildx-information-disclosure-via-telemetry-46914)|An attacker can bypass access restrictions to data of Docker buildx, via telemetry, in order to read sensitive information...|Visit link for details|
  
  ---
 
