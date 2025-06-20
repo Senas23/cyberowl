@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/06/2025 09:28:19 UTC
+ > Last Updated 20/06/2025 21:26:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0530/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 20 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0529/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 20 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0528/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0527/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 20 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0526/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0525/)|De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0524/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0523/)|Une vulnérabilité a été découverte dans Cisco Meraki MX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 19 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0522/)|De multiples vulnérabilités ont été découvertes dans ClamAV ClamAV. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0521/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 18 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0520/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 18 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0519/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection SQL (SQLi) et une falsification de requêtes côté serveur (SSRF).|Publié le 18 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0518/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 18 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0517/)|De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0516/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 juin 2025|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-a-wrong-SAML-signature-check-45195" class="noirorange"><b>Keycloak</b>: user access via a wrong SAML signature check</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-a-wrong-SAML-signature-check-45195)|An attacker can bypass restrictions of Keycloak, via an error in SAML signature check, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-three-vulnerabilities-dated-20-09-2024-45190" class="noirorange"><b>Microsoft Edge</b>: three vulnerabilities dated 20/09/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-three-vulnerabilities-dated-20-09-2024-45190)|An attacker can use several vulnerabilities of Microsoft Edge, dated 20/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Performance-Co-Pilot-two-vulnerabilities-dated-19-09-2024-45188" class="noirorange"><b>Performance Co-Pilot</b>: two vulnerabilities dated 19/09/2024</a>](https://vigilance.fr/vulnerability/Performance-Co-Pilot-two-vulnerabilities-dated-19-09-2024-45188)|An attacker can use several vulnerabilities of Performance Co-Pilot, dated 19/09/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Smart-IP-Ban-privilege-escalation-dated-19-09-2024-45185" class="noirorange"><b>Drupal Smart IP Ban</b>: privilege escalation dated 19/09/2024</a>](https://vigilance.fr/vulnerability/Drupal-Smart-IP-Ban-privilege-escalation-dated-19-09-2024-45185)|An attacker can bypass restrictions of Drupal Smart IP Ban, dated 19/09/2024, in order to escalate his privileges...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-log-file-corruption-via-HTTP-requests-46919" class="noirorange"><b>Tenable Nessus</b>: log file corruption via HTTP requests</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-log-file-corruption-via-HTTP-requests-46919)|An attacker can manipulate HTTP requests for Tenable Nessus, in order to corrupt logs...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-for-Windows-unsafe-permissions-for-the-install-folder-46918" class="noirorange"><b>Tenable Nessus for Windows</b>: unsafe permissions for the install folder</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-for-Windows-unsafe-permissions-for-the-install-folder-46918)|An attacker can bypass restrictions of Tenable Nessus for Windows, via a custom install folder, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HPE-ArcSight-Enterprise-Security-Manager-spoofing-via-expired-domains-46916" class="noirorange"><b>HPE ArcSight Enterprise Security Manager</b>: spoofing via expired domains</a>](https://vigilance.fr/vulnerability/HPE-ArcSight-Enterprise-Security-Manager-spoofing-via-expired-domains-46916)|An attacker can create spoofed data on HPE ArcSight Enterprise Security Manager, via expired domains, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-seven-vulnerabilities-dated-18-09-2024-45181" class="noirorange"><b>Google Chrome  Microsoft Edge  Opera</b>: seven vulnerabilities dated 18/09/2024</a>](https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-seven-vulnerabilities-dated-18-09-2024-45181)|An attacker can use several vulnerabilities of Google Chrome  Microsoft Edge  Opera, dated 18/09/2024...|Visit link for details|
  
  ---
 
