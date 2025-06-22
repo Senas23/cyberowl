@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/06/2025 09:26:00 UTC
+ > Last Updated 22/06/2025 21:23:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Server-Side-Request-Forgery-dated-22-04-2025-46930" class="noirorange"><b>WebSphere AS</b>: Server-Side Request Forgery dated 22/04/2025</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Server-Side-Request-Forgery-dated-22-04-2025-46930)|An attacker can trigger a Server-Side Request Forgery of WebSphere AS, dated 22/04/2025, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/c-ares-use-after-free-via-read-answers-46928" class="noirorange"><b>c-ares</b>: use after free via read_answers()</a>](https://vigilance.fr/vulnerability/c-ares-use-after-free-via-read-answers-46928)|An attacker can force the reuse of a freed memory area of c-ares, via read_answers(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rust-zip-directory-traversal-via-Symbolic-Links-46927" class="noirorange"><b>Rust zip</b>: directory traversal via Symbolic Links</a>](https://vigilance.fr/vulnerability/Rust-zip-directory-traversal-via-Symbolic-Links-46927)|An attacker can traverse directories of Rust zip, via Symbolic Links, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/fig2dev-three-vulnerabilities-dated-22-04-2025-46926" class="noirorange"><b>fig2dev</b>: three vulnerabilities dated 22/04/2025</a>](https://vigilance.fr/vulnerability/fig2dev-three-vulnerabilities-dated-22-04-2025-46926)|An attacker can use several vulnerabilities of fig2dev, dated 22/04/2025...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-04-2025-46922" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 21/04/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-04-2025-46922)|An attacker can use several vulnerabilities of the Linux kernel, dated 21/04/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-a-wrong-SAML-signature-check-45195" class="noirorange"><b>Keycloak</b>: user access via a wrong SAML signature check</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-a-wrong-SAML-signature-check-45195)|An attacker can bypass restrictions of Keycloak, via an error in SAML signature check, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-three-vulnerabilities-dated-20-09-2024-45190" class="noirorange"><b>Microsoft Edge</b>: three vulnerabilities dated 20/09/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-three-vulnerabilities-dated-20-09-2024-45190)|An attacker can use several vulnerabilities of Microsoft Edge, dated 20/09/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Performance-Co-Pilot-two-vulnerabilities-dated-19-09-2024-45188" class="noirorange"><b>Performance Co-Pilot</b>: two vulnerabilities dated 19/09/2024</a>](https://vigilance.fr/vulnerability/Performance-Co-Pilot-two-vulnerabilities-dated-19-09-2024-45188)|An attacker can use several vulnerabilities of Performance Co-Pilot, dated 19/09/2024...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
