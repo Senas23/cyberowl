@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/06/2025 21:23:28 UTC
+ > Last Updated 23/06/2025 09:32:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-dated-23-04-2025-46937" class="noirorange"><b>Grafana</b>: three vulnerabilities dated 23/04/2025</a>](https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-dated-23-04-2025-46937)|An attacker can use several vulnerabilities of Grafana, dated 23/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibRaw-four-vulnerabilities-dated-23-04-2025-46934" class="noirorange"><b>LibRaw</b>: four vulnerabilities dated 23/04/2025</a>](https://vigilance.fr/vulnerability/LibRaw-four-vulnerabilities-dated-23-04-2025-46934)|An attacker can use several vulnerabilities of LibRaw, dated 23/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-dated-23-04-2025-46933" class="noirorange"><b>Moodle</b>: multiple vulnerabilities dated 23/04/2025</a>](https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-dated-23-04-2025-46933)|An attacker can use several vulnerabilities of Moodle, dated 23/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenIKED-double-free-via-ECDH-46932" class="noirorange"><b>OpenIKED</b>: double free via ECDH</a>](https://vigilance.fr/vulnerability/OpenIKED-double-free-via-ECDH-46932)|An attacker can force a double memory free of OpenIKED, via ECDH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-Chunked-Messages-Request-Smuggling-46931" class="noirorange"><b>Apache Traffic Server</b>: header injection via Chunked Messages Request Smuggling</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-Chunked-Messages-Request-Smuggling-46931)|An attacker can add new headers on Apache Traffic Server, via Chunked Messages Request Smuggling, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Server-Side-Request-Forgery-dated-22-04-2025-46930" class="noirorange"><b>WebSphere AS</b>: Server-Side Request Forgery dated 22/04/2025</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Server-Side-Request-Forgery-dated-22-04-2025-46930)|An attacker can trigger a Server-Side Request Forgery of WebSphere AS, dated 22/04/2025, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/c-ares-use-after-free-via-read-answers-46928" class="noirorange"><b>c-ares</b>: use after free via read_answers()</a>](https://vigilance.fr/vulnerability/c-ares-use-after-free-via-read-answers-46928)|An attacker can force the reuse of a freed memory area of c-ares, via read_answers(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-zip-directory-traversal-via-Symbolic-Links-46927" class="noirorange"><b>Rust zip</b>: directory traversal via Symbolic Links</a>](https://vigilance.fr/vulnerability/Rust-zip-directory-traversal-via-Symbolic-Links-46927)|An attacker can traverse directories of Rust zip, via Symbolic Links, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/fig2dev-three-vulnerabilities-dated-22-04-2025-46926" class="noirorange"><b>fig2dev</b>: three vulnerabilities dated 22/04/2025</a>](https://vigilance.fr/vulnerability/fig2dev-three-vulnerabilities-dated-22-04-2025-46926)|An attacker can use several vulnerabilities of fig2dev, dated 22/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/llama-cpp-buffer-overflow-via-rpc-server-copy-tensor-46925" class="noirorange"><b>llama.cpp</b>: buffer overflow via rpc_server::copy_<wbr>tensor()</wbr></a>](https://vigilance.fr/vulnerability/llama-cpp-buffer-overflow-via-rpc-server-copy-tensor-46925)|An attacker can trigger a buffer overflow of llama.cpp, via rpc_server::copy_|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0523/)|Une vulnérabilité a été découverte dans Cisco Meraki MX. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 19 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0522/)|De multiples vulnérabilités ont été découvertes dans ClamAV ClamAV. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0521/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 18 juin 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Server-Side-Request-Forgery-dated-22-04-2025-46930" class="noirorange"><b>WebSphere AS</b>: Server-Side Request Forgery dated 22/04/2025</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Server-Side-Request-Forgery-dated-22-04-2025-46930)|An attacker can trigger a Server-Side Request Forgery of WebSphere AS, dated 22/04/2025, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/c-ares-use-after-free-via-read-answers-46928" class="noirorange"><b>c-ares</b>: use after free via read_answers()</a>](https://vigilance.fr/vulnerability/c-ares-use-after-free-via-read-answers-46928)|An attacker can force the reuse of a freed memory area of c-ares, via read_answers(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-zip-directory-traversal-via-Symbolic-Links-46927" class="noirorange"><b>Rust zip</b>: directory traversal via Symbolic Links</a>](https://vigilance.fr/vulnerability/Rust-zip-directory-traversal-via-Symbolic-Links-46927)|An attacker can traverse directories of Rust zip, via Symbolic Links, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/fig2dev-three-vulnerabilities-dated-22-04-2025-46926" class="noirorange"><b>fig2dev</b>: three vulnerabilities dated 22/04/2025</a>](https://vigilance.fr/vulnerability/fig2dev-three-vulnerabilities-dated-22-04-2025-46926)|An attacker can use several vulnerabilities of fig2dev, dated 22/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/llama-cpp-buffer-overflow-via-rpc-server-copy-tensor-46925" class="noirorange"><b>llama.cpp</b>: buffer overflow via rpc_server::copy_<wbr>tensor()</wbr></a>](https://vigilance.fr/vulnerability/llama-cpp-buffer-overflow-via-rpc-server-copy-tensor-46925)|An attacker can trigger a buffer overflow of llama.cpp, via rpc_server::copy_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vega-code-execution-via-JSON-Definitions-Drawing-Graphs-46924" class="noirorange"><b>Vega</b>: code execution via JSON Definitions Drawing Graphs</a>](https://vigilance.fr/vulnerability/Vega-code-execution-via-JSON-Definitions-Drawing-Graphs-46924)|An attacker can use a vulnerability of Vega, via JSON Definitions Drawing Graphs, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-idna-ingress-filtrering-bypass-via-Punycode-Labels-46923" class="noirorange"><b>Rust idna</b>: ingress filtrering bypass via Punycode Labels</a>](https://vigilance.fr/vulnerability/Rust-idna-ingress-filtrering-bypass-via-Punycode-Labels-46923)|An attacker can bypass filtering rules of Rust idna, via Punycode Labels, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-04-2025-46922" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 21/04/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-04-2025-46922)|An attacker can use several vulnerabilities of the Linux kernel, dated 21/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-a-wrong-SAML-signature-check-45195" class="noirorange"><b>Keycloak</b>: user access via a wrong SAML signature check</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-a-wrong-SAML-signature-check-45195)|An attacker can bypass restrictions of Keycloak, via an error in SAML signature check, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-three-vulnerabilities-dated-20-09-2024-45190" class="noirorange"><b>Microsoft Edge</b>: three vulnerabilities dated 20/09/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-three-vulnerabilities-dated-20-09-2024-45190)|An attacker can use several vulnerabilities of Microsoft Edge, dated 20/09/2024...|Visit link for details|
  
  ---
 
