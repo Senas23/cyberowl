@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/06/2025 21:25:07 UTC
+ > Last Updated 24/06/2025 09:30:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetQuantumFormat-46944" class="noirorange"><b>ImageMagick</b>: memory corruption via SetQuantumFormat()</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetQuantumFormat-46944)|An attacker can trigger a memory corruption of ImageMagick, via SetQuantumFormat(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-23-04-2025-46942" class="noirorange"><b>GitLab CE/EE</b>: five vulnerabilities dated 23/04/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-23-04-2025-46942)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 23/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Yelp-file-reading-via-Input-Help-Documents-46941" class="noirorange"><b>Yelp</b>: file reading via Input Help Documents</a>](https://vigilance.fr/vulnerability/Yelp-file-reading-via-Input-Help-Documents-46941)|An attacker can read a file of Yelp, via Input Help Documents, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-TLS-Handshake-Process-45201" class="noirorange"><b>Apache Tomcat</b>: overload via TLS Handshake Process</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-TLS-Handshake-Process-45201)|An attacker can trigger an overload of Apache Tomcat, via TLS Handshake Process, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-overload-via-Output-Buffers-Unlimited-Growth-46940" class="noirorange"><b>Redis</b>: overload via Output Buffers Unlimited Growth</a>](https://vigilance.fr/vulnerability/Redis-overload-via-Output-Buffers-Unlimited-Growth-46940)|An attacker can trigger an overload of Redis, via Output Buffers Unlimited Growth, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-dated-23-04-2025-46937" class="noirorange"><b>Grafana</b>: three vulnerabilities dated 23/04/2025</a>](https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-dated-23-04-2025-46937)|An attacker can use several vulnerabilities of Grafana, dated 23/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibRaw-four-vulnerabilities-dated-23-04-2025-46934" class="noirorange"><b>LibRaw</b>: four vulnerabilities dated 23/04/2025</a>](https://vigilance.fr/vulnerability/LibRaw-four-vulnerabilities-dated-23-04-2025-46934)|An attacker can use several vulnerabilities of LibRaw, dated 23/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-dated-23-04-2025-46933" class="noirorange"><b>Moodle</b>: multiple vulnerabilities dated 23/04/2025</a>](https://vigilance.fr/vulnerability/Moodle-multiple-vulnerabilities-dated-23-04-2025-46933)|An attacker can use several vulnerabilities of Moodle, dated 23/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenIKED-double-free-via-ECDH-46932" class="noirorange"><b>OpenIKED</b>: double free via ECDH</a>](https://vigilance.fr/vulnerability/OpenIKED-double-free-via-ECDH-46932)|An attacker can force a double memory free of OpenIKED, via ECDH, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-Chunked-Messages-Request-Smuggling-46931" class="noirorange"><b>Apache Traffic Server</b>: header injection via Chunked Messages Request Smuggling</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-Chunked-Messages-Request-Smuggling-46931)|An attacker can add new headers on Apache Traffic Server, via Chunked Messages Request Smuggling, in order to alter the service behavior...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Search-API-Solr-Cross-Site-Request-Forgery-dated-24-04-2025-46952" class="noirorange"><b>Drupal Search API Solr</b>: Cross Site Request Forgery dated 24/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Search-API-Solr-Cross-Site-Request-Forgery-dated-24-04-2025-46952)|An attacker can trigger a Cross Site Request Forgery of Drupal Search API Solr, dated 24/04/2025, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Sportsleague-vulnerability-dated-24-04-2025-46951" class="noirorange"><b>Drupal Sportsleague</b>: vulnerability dated 24/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Sportsleague-vulnerability-dated-24-04-2025-46951)|A vulnerability of Drupal Sportsleague, dated 24/04/2025, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-UEditor-vulnerability-dated-24-04-2025-46950" class="noirorange"><b>Drupal UEditor</b>: vulnerability dated 24/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-UEditor-vulnerability-dated-24-04-2025-46950)|A vulnerability of Drupal UEditor, dated 24/04/2025, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Block-Class-Cross-Site-Scripting-dated-24-04-2025-46949" class="noirorange"><b>Drupal Block Class</b>: Cross Site Scripting dated 24/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Block-Class-Cross-Site-Scripting-dated-24-04-2025-46949)|An attacker can trigger a Cross Site Scripting of Drupal Block Class, dated 24/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Bootstrap-Site-Alert-Cross-Site-Scripting-via-2-1-3-46948" class="noirorange"><b>Drupal Bootstrap Site Alert</b>: Cross Site Scripting via 2.1.3</a>](https://vigilance.fr/vulnerability/Drupal-Bootstrap-Site-Alert-Cross-Site-Scripting-via-2-1-3-46948)|An attacker can trigger a Cross Site Scripting of Drupal Bootstrap Site Alert, via 2.1.3, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Colorbox-Cross-Site-Scripting-dated-24-04-2025-46947" class="noirorange"><b>Drupal Colorbox</b>: Cross Site Scripting dated 24/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Colorbox-Cross-Site-Scripting-dated-24-04-2025-46947)|An attacker can trigger a Cross Site Scripting of Drupal Colorbox, dated 24/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-information-disclosure-via-gs-lib-ctx-stash-sanitized-arg-47362" class="noirorange"><b>Artifex Ghostscript</b>: information disclosure via gs_lib_ctx_stash_<wbr>sanitized_arg()</wbr></a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-information-disclosure-via-gs-lib-ctx-stash-sanitized-arg-47362)|An attacker can bypass access restrictions to data of Artifex Ghostscript, via gs_lib_ctx_stash_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsoup-write-access-via-Expiration-Date-47361" class="noirorange"><b>libsoup</b>: write access via Expiration Date</a>](https://vigilance.fr/vulnerability/libsoup-write-access-via-Expiration-Date-47361)|An attacker can bypass access restrictions of libsoup, via Expiration Date, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetQuantumFormat-46944" class="noirorange"><b>ImageMagick</b>: memory corruption via SetQuantumFormat()</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetQuantumFormat-46944)|An attacker can trigger a memory corruption of ImageMagick, via SetQuantumFormat(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-23-04-2025-46942" class="noirorange"><b>GitLab CE/EE</b>: five vulnerabilities dated 23/04/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-23-04-2025-46942)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 23/04/2025...|Visit link for details|
  
  ---
 
