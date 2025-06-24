@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/06/2025 09:30:59 UTC
+ > Last Updated 24/06/2025 21:25:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-24-09-2024-45210" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 24/09/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-24-09-2024-45210)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 24/09/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vaultwarden-Cross-Site-Request-Forgery-via-Admin-Panel-46958" class="noirorange"><b>Vaultwarden</b>: Cross Site Request Forgery via Admin Panel</a>](https://vigilance.fr/vulnerability/Vaultwarden-Cross-Site-Request-Forgery-via-Admin-Panel-46958)|An attacker can trigger a Cross Site Request Forgery of Vaultwarden, via Admin Panel, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FiloSottile-Age-code-execution-via-Names-Recipients-Identities-46957" class="noirorange"><b>FiloSottile Age</b>: code execution via Names / Recipients / Identities</a>](https://vigilance.fr/vulnerability/FiloSottile-Age-code-execution-via-Names-Recipients-Identities-46957)|An attacker can use a vulnerability of FiloSottile Age, via Names / Recipients / Identities, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenRazer-multiple-vulnerabilities-dated-24-04-2025-46956" class="noirorange"><b>OpenRazer</b>: multiple vulnerabilities dated 24/04/2025</a>](https://vigilance.fr/vulnerability/OpenRazer-multiple-vulnerabilities-dated-24-04-2025-46956)|An attacker can use several vulnerabilities of OpenRazer, dated 24/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-tasks-js-46955" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via tasks.js</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-tasks-js-46955)|An attacker can trigger a Cross Site Scripting of TeamPass, via tasks.js, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/go-redis-write-access-via-CLIENT-SETINFO-46954" class="noirorange"><b>go-redis</b>: write access via CLIENT SETINFO</a>](https://vigilance.fr/vulnerability/go-redis-write-access-via-CLIENT-SETINFO-46954)|An attacker can bypass access restrictions of go-redis, via CLIENT SETINFO, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Search-API-Solr-Cross-Site-Request-Forgery-dated-24-04-2025-46952" class="noirorange"><b>Drupal Search API Solr</b>: Cross Site Request Forgery dated 24/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Search-API-Solr-Cross-Site-Request-Forgery-dated-24-04-2025-46952)|An attacker can trigger a Cross Site Request Forgery of Drupal Search API Solr, dated 24/04/2025, in order to force the victim to perform operations...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Sportsleague-vulnerability-dated-24-04-2025-46951" class="noirorange"><b>Drupal Sportsleague</b>: vulnerability dated 24/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Sportsleague-vulnerability-dated-24-04-2025-46951)|A vulnerability of Drupal Sportsleague, dated 24/04/2025, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-UEditor-vulnerability-dated-24-04-2025-46950" class="noirorange"><b>Drupal UEditor</b>: vulnerability dated 24/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-UEditor-vulnerability-dated-24-04-2025-46950)|A vulnerability of Drupal UEditor, dated 24/04/2025, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Block-Class-Cross-Site-Scripting-dated-24-04-2025-46949" class="noirorange"><b>Drupal Block Class</b>: Cross Site Scripting dated 24/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Block-Class-Cross-Site-Scripting-dated-24-04-2025-46949)|An attacker can trigger a Cross Site Scripting of Drupal Block Class, dated 24/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Bootstrap-Site-Alert-Cross-Site-Scripting-via-2-1-3-46948" class="noirorange"><b>Drupal Bootstrap Site Alert</b>: Cross Site Scripting via 2.1.3</a>](https://vigilance.fr/vulnerability/Drupal-Bootstrap-Site-Alert-Cross-Site-Scripting-via-2-1-3-46948)|An attacker can trigger a Cross Site Scripting of Drupal Bootstrap Site Alert, via 2.1.3, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Colorbox-Cross-Site-Scripting-dated-24-04-2025-46947" class="noirorange"><b>Drupal Colorbox</b>: Cross Site Scripting dated 24/04/2025</a>](https://vigilance.fr/vulnerability/Drupal-Colorbox-Cross-Site-Scripting-dated-24-04-2025-46947)|An attacker can trigger a Cross Site Scripting of Drupal Colorbox, dated 24/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-information-disclosure-via-gs-lib-ctx-stash-sanitized-arg-47362" class="noirorange"><b>Artifex Ghostscript</b>: information disclosure via gs_lib_ctx_stash_<wbr>sanitized_arg()</wbr></a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-information-disclosure-via-gs-lib-ctx-stash-sanitized-arg-47362)|An attacker can bypass access restrictions to data of Artifex Ghostscript, via gs_lib_ctx_stash_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsoup-write-access-via-Expiration-Date-47361" class="noirorange"><b>libsoup</b>: write access via Expiration Date</a>](https://vigilance.fr/vulnerability/libsoup-write-access-via-Expiration-Date-47361)|An attacker can bypass access restrictions of libsoup, via Expiration Date, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetQuantumFormat-46944" class="noirorange"><b>ImageMagick</b>: memory corruption via SetQuantumFormat()</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-SetQuantumFormat-46944)|An attacker can trigger a memory corruption of ImageMagick, via SetQuantumFormat(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-23-04-2025-46942" class="noirorange"><b>GitLab CE/EE</b>: five vulnerabilities dated 23/04/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-23-04-2025-46942)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 23/04/2025...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
