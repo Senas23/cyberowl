@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/06/2025 21:23:43 UTC
+ > Last Updated 29/06/2025 09:25:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,30 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-dated-03-06-2025-46983" class="noirorange"><b>Splunk Enterprise</b>: four vulnerabilities dated 03/06/2025</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-four-vulnerabilities-dated-03-06-2025-46983)|An attacker can use several vulnerabilities of Splunk Enterprise, dated 03/06/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-Rewrite-Rule-46982" class="noirorange"><b>Apache Tomcat</b>: ingress filtrering bypass via Rewrite Rule</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-Rewrite-Rule-46982)|An attacker can bypass filtering rules of Apache Tomcat, via Rewrite Rule, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Mistral-logged-sensitive-information-via-Undercloud-Log-File-46980" class="noirorange"><b>OpenStack Mistral</b>: logged sensitive information via Undercloud Log File</a>](https://vigilance.fr/vulnerability/OpenStack-Mistral-logged-sensitive-information-via-Undercloud-Log-File-46980)|An attacker can read logs of OpenStack Mistral, via Undercloud Log File, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Mistral-overload-via-Workflow-Definition-YAML-File-46978" class="noirorange"><b>OpenStack Mistral</b>: overload via Workflow Definition YAML File</a>](https://vigilance.fr/vulnerability/OpenStack-Mistral-overload-via-Workflow-Definition-YAML-File-46978)|An attacker can trigger an overload of OpenStack Mistral, via Workflow Definition YAML File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/golang-org-x-net-html-ingress-filtrering-bypass-via-Self-closing-Solidus-Character-46974" class="noirorange"><b>golang.org/x/net/<wbr>html</wbr></b>: ingress filtrering bypass via Self-closing Solidus Character</a>](https://vigilance.fr/vulnerability/golang-org-x-net-html-ingress-filtrering-bypass-via-Self-closing-Solidus-Character-46974)|An attacker can bypass filtering rules of golang.org/x/net/|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Convert-Forms-Cross-Site-Scripting-dated-28-04-2025-46973" class="noirorange"><b>Joomla Convert Forms</b>: Cross Site Scripting dated 28/04/2025</a>](https://vigilance.fr/vulnerability/Joomla-Convert-Forms-Cross-Site-Scripting-dated-28-04-2025-46973)|An attacker can trigger a Cross Site Scripting of Joomla Convert Forms, dated 28/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Check-Point-Mobile-Access-Cross-Site-Scripting-dated-28-04-2025-46972" class="noirorange"><b>Check Point Mobile Access</b>: Cross Site Scripting dated 28/04/2025</a>](https://vigilance.fr/vulnerability/Check-Point-Mobile-Access-Cross-Site-Scripting-dated-28-04-2025-46972)|An attacker can trigger a Cross Site Scripting of Check Point Mobile Access, dated 28/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-weak-signature-via-PDF-Adbe-pkcs7-sha1-SubFilter-Forgery-46971" class="noirorange"><b>LibreOffice</b>: weak signature via PDF Adbe.pkcs7.sha1 SubFilter Forgery</a>](https://vigilance.fr/vulnerability/LibreOffice-weak-signature-via-PDF-Adbe-pkcs7-sha1-SubFilter-Forgery-46971)|An attacker can use malicious data on LibreOffice, via PDF Adbe.pkcs7.sha1 SubFilter Forgery, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pgAdmin-two-vulnerabilities-dated-28-04-2025-46970" class="noirorange"><b>pgAdmin</b>: two vulnerabilities dated 28/04/2025</a>](https://vigilance.fr/vulnerability/pgAdmin-two-vulnerabilities-dated-28-04-2025-46970)|An attacker can use several vulnerabilities of pgAdmin, dated 28/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sanitize-html-overload-via-Regular-Expression-46969" class="noirorange"><b>sanitize-html</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/sanitize-html-overload-via-Regular-Expression-46969)|An attacker can trigger an overload of sanitize-html, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,30 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0540/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. Citrix indique que la vulnérabilité...|Publié le 26 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0539/)|De multiples vulnérabilités ont été découvertes dans Cisco Identity Services Engine. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0538/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 juin 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/golang-org-x-net-html-ingress-filtrering-bypass-via-Self-closing-Solidus-Character-46974" class="noirorange"><b>golang.org/x/net/<wbr>html</wbr></b>: ingress filtrering bypass via Self-closing Solidus Character</a>](https://vigilance.fr/vulnerability/golang-org-x-net-html-ingress-filtrering-bypass-via-Self-closing-Solidus-Character-46974)|An attacker can bypass filtering rules of golang.org/x/net/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Convert-Forms-Cross-Site-Scripting-dated-28-04-2025-46973" class="noirorange"><b>Joomla Convert Forms</b>: Cross Site Scripting dated 28/04/2025</a>](https://vigilance.fr/vulnerability/Joomla-Convert-Forms-Cross-Site-Scripting-dated-28-04-2025-46973)|An attacker can trigger a Cross Site Scripting of Joomla Convert Forms, dated 28/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Check-Point-Mobile-Access-Cross-Site-Scripting-dated-28-04-2025-46972" class="noirorange"><b>Check Point Mobile Access</b>: Cross Site Scripting dated 28/04/2025</a>](https://vigilance.fr/vulnerability/Check-Point-Mobile-Access-Cross-Site-Scripting-dated-28-04-2025-46972)|An attacker can trigger a Cross Site Scripting of Check Point Mobile Access, dated 28/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibreOffice-weak-signature-via-PDF-Adbe-pkcs7-sha1-SubFilter-Forgery-46971" class="noirorange"><b>LibreOffice</b>: weak signature via PDF Adbe.pkcs7.sha1 SubFilter Forgery</a>](https://vigilance.fr/vulnerability/LibreOffice-weak-signature-via-PDF-Adbe-pkcs7-sha1-SubFilter-Forgery-46971)|An attacker can use malicious data on LibreOffice, via PDF Adbe.pkcs7.sha1 SubFilter Forgery, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pgAdmin-two-vulnerabilities-dated-28-04-2025-46970" class="noirorange"><b>pgAdmin</b>: two vulnerabilities dated 28/04/2025</a>](https://vigilance.fr/vulnerability/pgAdmin-two-vulnerabilities-dated-28-04-2025-46970)|An attacker can use several vulnerabilities of pgAdmin, dated 28/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sanitize-html-overload-via-Regular-Expression-46969" class="noirorange"><b>sanitize-html</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/sanitize-html-overload-via-Regular-Expression-46969)|An attacker can trigger an overload of sanitize-html, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GeoTools-vulnerability-via-32-0-45249" class="noirorange"><b>GeoTools</b>: vulnerability via 32.0</a>](https://vigilance.fr/vulnerability/GeoTools-vulnerability-via-32-0-45249)|A vulnerability of GeoTools, via 32.0, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cups-filters-code-execution-via-FoomaticRIPCommandLine-45243" class="noirorange"><b>cups-filters</b>: code execution via FoomaticRIPCommandLi<wbr>ne()</wbr></a>](https://vigilance.fr/vulnerability/cups-filters-code-execution-via-FoomaticRIPCommandLine-45243)|An attacker can use a vulnerability of cups-filters, via FoomaticRIPCommandLi|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libppd-buffer-overflow-via-ppdCreatePPDFromIPP2-45242" class="noirorange"><b>libppd</b>: buffer overflow via ppdCreatePPDFromIPP2<wbr>()</wbr></a>](https://vigilance.fr/vulnerability/libppd-buffer-overflow-via-ppdCreatePPDFromIPP2-45242)|An attacker can trigger a buffer overflow of libppd, via ppdCreatePPDFromIPP2|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Management-Web-Interface-Command-Injection-47414" class="noirorange"><b>PAN-OS</b>: code execution via Management Web Interface Command Injection</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-Management-Web-Interface-Command-Injection-47414)|An attacker can use a vulnerability of PAN-OS, via Management Web Interface Command Injection, in order to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
