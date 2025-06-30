@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/06/2025 09:31:47 UTC
+ > Last Updated 30/06/2025 21:24:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0548/)|De multiples vulnérabilités ont été découvertes dans MongoDB Server. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0547/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 27 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0546/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 27 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0545/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et un déni de service.|Publié le 27 juin 2025|
@@ -43,7 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0541/)|Une vulnérabilité a été découverte dans Centreon Map. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 26 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0540/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. Citrix indique que la vulnérabilité...|Publié le 26 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0539/)|De multiples vulnérabilités ont été découvertes dans Cisco Identity Services Engine. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0538/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 juin 2025|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-weak-signature-via-NSSCryptoSignBackend-cc-46997" class="noirorange"><b>Poppler</b>: weak signature via NSSCryptoSignBackend<wbr>.cc</wbr></a>](https://vigilance.fr/vulnerability/Poppler-weak-signature-via-NSSCryptoSignBackend-cc-46997)|An attacker can use malicious data on Poppler, via NSSCryptoSignBackend|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-Man-in-the-Middle-via-Hostname-Verification-ALL-46994" class="noirorange"><b>Keycloak</b>: Man-in-the-Middle via Hostname Verification ALL</a>](https://vigilance.fr/vulnerability/Keycloak-Man-in-the-Middle-via-Hostname-Verification-ALL-46994)|An attacker can act as a Man-in-the-Middle on Keycloak, via Hostname Verification ALL, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Two-Factor-Authentication-Bypass-46993" class="noirorange"><b>Keycloak</b>: user access via Two Factor Authentication Bypass</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Two-Factor-Authentication-Bypass-46993)|An attacker can bypass restrictions of Keycloak, via Two Factor Authentication Bypass, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-vmxnet3-xdp-xmit-frame-46990" class="noirorange"><b>Linux kernel</b>: memory corruption via vmxnet3_xdp_xmit_<wbr>frame()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-vmxnet3-xdp-xmit-frame-46990)|An attacker can trigger a memory corruption of the Linux kernel, via vmxnet3_xdp_xmit_|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/OpenStack-Mistral-overload-via-Workflow-Definition-YAML-File-46978" class="noirorange"><b>OpenStack Mistral</b>: overload via Workflow Definition YAML File</a>](https://vigilance.fr/vulnerability/OpenStack-Mistral-overload-via-Workflow-Definition-YAML-File-46978)|An attacker can trigger an overload of OpenStack Mistral, via Workflow Definition YAML File, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/golang-org-x-net-html-ingress-filtrering-bypass-via-Self-closing-Solidus-Character-46974" class="noirorange"><b>golang.org/x/net/<wbr>html</wbr></b>: ingress filtrering bypass via Self-closing Solidus Character</a>](https://vigilance.fr/vulnerability/golang-org-x-net-html-ingress-filtrering-bypass-via-Self-closing-Solidus-Character-46974)|An attacker can bypass filtering rules of golang.org/x/net/|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Convert-Forms-Cross-Site-Scripting-dated-28-04-2025-46973" class="noirorange"><b>Joomla Convert Forms</b>: Cross Site Scripting dated 28/04/2025</a>](https://vigilance.fr/vulnerability/Joomla-Convert-Forms-Cross-Site-Scripting-dated-28-04-2025-46973)|An attacker can trigger a Cross Site Scripting of Joomla Convert Forms, dated 28/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Check-Point-Mobile-Access-Cross-Site-Scripting-dated-28-04-2025-46972" class="noirorange"><b>Check Point Mobile Access</b>: Cross Site Scripting dated 28/04/2025</a>](https://vigilance.fr/vulnerability/Check-Point-Mobile-Access-Cross-Site-Scripting-dated-28-04-2025-46972)|An attacker can trigger a Cross Site Scripting of Check Point Mobile Access, dated 28/04/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
