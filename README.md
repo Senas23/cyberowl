@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/07/2025 09:30:45 UTC
+ > Last Updated 01/07/2025 21:28:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,11 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0548/)|De multiples vulnérabilités ont été découvertes dans MongoDB Server. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0547/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 27 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0546/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 27 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0545/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et un déni de service.|Publié le 27 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0544/)|De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection SQL (SQLi).|Publié le 27 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0543/)|Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0542/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 27 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0541/)|Une vulnérabilité a été découverte dans Centreon Map. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 26 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0540/)|De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. Citrix indique que la vulnérabilité...|Publié le 26 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0539/)|De multiples vulnérabilités ont été découvertes dans Cisco Identity Services Engine. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 juin 2025|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-01-10-2024-45265" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 01/10/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-01-10-2024-45265)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 01/10/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/389-ds-base-denial-of-service-via-userPassword-45260" class="noirorange"><b>389-ds-base</b>: denial of service via userPassword</a>](https://vigilance.fr/vulnerability/389-ds-base-denial-of-service-via-userPassword-45260)|An attacker can cause a fatal error of 389-ds-base, via userPassword, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-memory-corruption-via-sqfs-search-dir-47005" class="noirorange"><b>Das U-Boot</b>: memory corruption via sqfs_search_dir()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-memory-corruption-via-sqfs-search-dir-47005)|An attacker can trigger a memory corruption of Das U-Boot, via sqfs_search_dir(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-sqfs-resolve-symlink-47003" class="noirorange"><b>Das U-Boot</b>: integer overflow via sqfs_resolve_<wbr>symlink()</wbr></a>](https://vigilance.fr/vulnerability/Das-U-Boot-integer-overflow-via-sqfs-resolve-symlink-47003)|An attacker can trigger an integer overflow of Das U-Boot, via sqfs_resolve_|Visit link for details|
@@ -60,7 +44,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-four-vulnerabilities-dated-01-05-2025-46999" class="noirorange"><b>Request Tracker</b>: four vulnerabilities dated 01/05/2025</a>](https://vigilance.fr/vulnerability/Request-Tracker-four-vulnerabilities-dated-01-05-2025-46999)|An attacker can use several vulnerabilities of Request Tracker, dated 01/05/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Poppler-weak-signature-via-NSSCryptoSignBackend-cc-46997" class="noirorange"><b>Poppler</b>: weak signature via NSSCryptoSignBackend<wbr>.cc</wbr></a>](https://vigilance.fr/vulnerability/Poppler-weak-signature-via-NSSCryptoSignBackend-cc-46997)|An attacker can use malicious data on Poppler, via NSSCryptoSignBackend|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-Man-in-the-Middle-via-Hostname-Verification-ALL-46994" class="noirorange"><b>Keycloak</b>: Man-in-the-Middle via Hostname Verification ALL</a>](https://vigilance.fr/vulnerability/Keycloak-Man-in-the-Middle-via-Hostname-Verification-ALL-46994)|An attacker can act as a Man-in-the-Middle on Keycloak, via Hostname Verification ALL, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Two-Factor-Authentication-Bypass-46993" class="noirorange"><b>Keycloak</b>: user access via Two Factor Authentication Bypass</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Two-Factor-Authentication-Bypass-46993)|An attacker can bypass restrictions of Keycloak, via Two Factor Authentication Bypass, in order to gain user privileges...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0550/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 01 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0549/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2025-6554 est activement exploitée.|Publié le 01 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0548/)|De multiples vulnérabilités ont été découvertes dans MongoDB Server. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0547/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 27 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0546/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 27 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0545/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et un déni de service.|Publié le 27 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0544/)|De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection SQL (SQLi).|Publié le 27 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0543/)|Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0542/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 27 juin 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0541/)|Une vulnérabilité a été découverte dans Centreon Map. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 26 juin 2025|
  
  ---
 
