@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/07/2025 21:27:05 UTC
+ > Last Updated 03/07/2025 09:29:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0552/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité CVE-2025-6554 est activement exploitée.|Publié le 02 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0551/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 02 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0550/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 01 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0549/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2025-6554 est activement exploitée.|Publié le 01 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0548/)|De multiples vulnérabilités ont été découvertes dans MongoDB Server. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 juin 2025|
@@ -42,8 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0545/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et un déni de service.|Publié le 27 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0544/)|De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection SQL (SQLi).|Publié le 27 juin 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0543/)|Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0542/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 27 juin 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0541/)|Une vulnérabilité a été découverte dans Centreon Map. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 26 juin 2025|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Lua-bit-tohex-45284" class="noirorange"><b>Redis</b>: buffer overflow via Lua bit_tohex(()</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Lua-bit-tohex-45284)|An attacker can trigger a buffer overflow of Redis, via Lua bit_tohex((), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Meraki-MX-denial-of-service-via-AnyConnect-VPN-45276" class="noirorange"><b>Cisco Meraki MX</b>: denial of service via AnyConnect VPN</a>](https://vigilance.fr/vulnerability/Cisco-Meraki-MX-denial-of-service-via-AnyConnect-VPN-45276)|An attacker can cause a fatal error of Cisco Meraki MX, via AnyConnect VPN, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-use-after-free-via-AMQRMPPA-Channel-47021" class="noirorange"><b>IBM MQ</b>: use after free via AMQRMPPA Channel</a>](https://vigilance.fr/vulnerability/IBM-MQ-use-after-free-via-AMQRMPPA-Channel-47021)|An attacker can force the reuse of a freed memory area of IBM MQ, via AMQRMPPA Channel, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/h11-header-injection-via-Chunked-coding-Line-Terminators-47020" class="noirorange"><b>h11</b>: header injection via Chunked-coding Line Terminators</a>](https://vigilance.fr/vulnerability/h11-header-injection-via-Chunked-coding-Line-Terminators-47020)|An attacker can add new headers on h11, via Chunked-coding Line Terminators, in order to alter the service behavior...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-overload-via-Mustache-Search-Templates-47017" class="noirorange"><b>Elasticsearch</b>: overload via Mustache Search Templates</a>](https://vigilance.fr/vulnerability/Elasticsearch-overload-via-Mustache-Search-Templates-47017)|An attacker can trigger an overload of Elasticsearch, via Mustache Search Templates, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-02-05-2025-47014" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing dated 02/05/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-dated-02-05-2025-47014)|An attacker can create spoofed data on Microsoft Edge Chromium, dated 02/05/2025, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-dated-02-10-2024-45269" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities dated 02/10/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-dated-02-10-2024-45269)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 02/10/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Debian-libuv-Node-js-memory-corruption-via-FILE-OFFSET-BITS-47013" class="noirorange"><b>Debian libuv/Node.js</b>: memory corruption via _FILE_OFFSET_BITS</a>](https://vigilance.fr/vulnerability/Debian-libuv-Node-js-memory-corruption-via-FILE-OFFSET-BITS-47013)|An attacker can trigger a memory corruption of Debian libuv/Node.js, via _FILE_OFFSET_BITS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
