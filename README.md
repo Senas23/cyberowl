@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/07/2025 21:24:01 UTC
+ > Last Updated 06/07/2025 09:25:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Z-OS-Database-Connection-47038" class="noirorange"><b>IBM Db2</b>: denial of service via Z/OS Database Connection</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Z-OS-Database-Connection-47038)|An attacker can cause a fatal error of IBM Db2, via Z/OS Database Connection, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Concurrent-Execution-47037" class="noirorange"><b>IBM Db2</b>: denial of service via Concurrent Execution</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Concurrent-Execution-47037)|An attacker can cause a fatal error of IBM Db2, via Concurrent Execution, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-06-05-2025-47035" class="noirorange"><b>Linux kernel</b>: three vulnerabilities dated 06/05/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-06-05-2025-47035)|An attacker can use several vulnerabilities of the Linux kernel, dated 06/05/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-double-free-via-new-stream-audio-47034" class="noirorange"><b>FFmpeg</b>: double free via new_stream_audio()</a>](https://vigilance.fr/vulnerability/FFmpeg-double-free-via-new-stream-audio-47034)|An attacker can force a double memory free of FFmpeg, via new_stream_audio(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Libva-code-execution-via-Uncontrolled-Search-Path-47033" class="noirorange"><b>Libva</b>: code execution via Uncontrolled Search Path</a>](https://vigilance.fr/vulnerability/Libva-code-execution-via-Uncontrolled-Search-Path-47033)|An attacker can use a vulnerability of Libva, via Uncontrolled Search Path, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libsoup-memory-leak-via-soup-header-parse-quality-list-47030" class="noirorange"><b>libsoup</b>: memory leak via soup_header_parse_<wbr>quality_list()</wbr></a>](https://vigilance.fr/vulnerability/libsoup-memory-leak-via-soup-header-parse-quality-list-47030)|An attacker can create a memory leak of libsoup, via soup_header_parse_|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/PowerCenter-Server-Side-Request-Forgery-via-Admin-Console-47027" class="noirorange"><b>PowerCenter</b>: Server-Side Request Forgery via Admin Console</a>](https://vigilance.fr/vulnerability/PowerCenter-Server-Side-Request-Forgery-via-Admin-Console-47027)|An attacker can trigger a Server-Side Request Forgery of PowerCenter, via Admin Console, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rust-hickory-proto-weak-signature-via-Self-signed-RRSIG-47026" class="noirorange"><b>Rust hickory-proto</b>: weak signature via Self-signed RRSIG</a>](https://vigilance.fr/vulnerability/Rust-hickory-proto-weak-signature-via-Self-signed-RRSIG-47026)|An attacker can use malicious data on Rust hickory-proto, via Self-signed RRSIG, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rust-ntpd-denial-of-service-via-Wrongly-Sized-Cookies-47025" class="noirorange"><b>Rust ntpd</b>: denial of service via Wrongly Sized Cookies</a>](https://vigilance.fr/vulnerability/Rust-ntpd-denial-of-service-via-Wrongly-Sized-Cookies-47025)|An attacker can cause a fatal error of Rust ntpd, via Wrongly Sized Cookies, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pnpm-code-execution-via-Name-Collision-47024" class="noirorange"><b>pnpm</b>: code execution via Name Collision</a>](https://vigilance.fr/vulnerability/pnpm-code-execution-via-Name-Collision-47024)|An attacker can use a vulnerability of pnpm, via Name Collision, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-05-2025-47023" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 05/05/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-05-2025-47023)|An attacker can use several vulnerabilities of the Linux kernel, dated 05/05/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-NFS-Server-47022" class="noirorange"><b>OpenBSD</b>: denial of service via NFS Server</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-NFS-Server-47022)|An attacker can cause a fatal error of OpenBSD, via NFS Server, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
