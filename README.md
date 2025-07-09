@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/07/2025 21:25:13 UTC
+ > Last Updated 09/07/2025 09:32:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-09-10-2024-45343" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities dated 09/10/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-09-10-2024-45343)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 09/10/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-05-2025-47107" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 09/05/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-05-2025-47107)|An attacker can use several vulnerabilities of the Linux kernel, dated 09/05/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Configuration-Manager-code-execution-dated-08-10-2024-45339" class="noirorange"><b>Microsoft Configuration Manager</b>: code execution dated 08/10/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Configuration-Manager-code-execution-dated-08-10-2024-45339)|An attacker can use a vulnerability of Microsoft Configuration Manager, dated 08/10/2024, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-October-2024-45338" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of October 2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-October-2024-45338)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-October-2024-45337" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of October 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-October-2024-45337)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-overload-via-HTTP-2-Client-Memory-Allocation-47106" class="noirorange"><b>Eclipse Jetty</b>: overload via HTTP/2 Client Memory Allocation</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-overload-via-HTTP-2-Client-Memory-Allocation-47106)|An attacker can trigger an overload of Eclipse Jetty, via HTTP/2 Client Memory Allocation, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-use-after-free-via-GzipHandler-47105" class="noirorange"><b>Eclipse Jetty</b>: use after free via GzipHandler</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-use-after-free-via-GzipHandler-47105)|An attacker can force the reuse of a freed memory area of Eclipse Jetty, via GzipHandler, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-out-of-bounds-memory-reading-via-GB18030-Encoding-Validation-47104" class="noirorange"><b>PostgreSQL</b>: out-of-bounds memory reading via GB18030 Encoding Validation</a>](https://vigilance.fr/vulnerability/PostgreSQL-out-of-bounds-memory-reading-via-GB18030-Encoding-Validation-47104)|An attacker can force a read at an invalid memory address of PostgreSQL, via GB18030 Encoding Validation, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-October-2024-45319" class="noirorange"><b>SAP</b>: multiple vulnerabilities of October 2024</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-October-2024-45319)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-October-2024-45318" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of October 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-October-2024-45318)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  
  ---
 
