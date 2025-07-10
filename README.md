@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/07/2025 09:30:21 UTC
+ > Last Updated 10/07/2025 21:26:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,10 +30,28 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0583/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 10 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0582/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une élévation de privilèges, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Palo Alto Networks indique que la...|Publié le 10 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0581/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 10 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0580/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 10 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0579/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 09 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0576/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0574/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-four-vulnerabilities-43273" class="noirorange"><b>Ivanti Connect Secure</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-four-vulnerabilities-43273)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libssh-read-write-access-via-ssh-kdf-47515" class="noirorange"><b>libssh</b>: read-write access via ssh_kdf()</a>](https://vigilance.fr/vulnerability/libssh-read-write-access-via-ssh-kdf-47515)|An attacker can bypass access restrictions of libssh, via ssh_kdf(), in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Crafted-Packet-45359" class="noirorange"><b>PAN-OS</b>: denial of service via Crafted Packet</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Crafted-Packet-45359)|An attacker can cause a fatal error of PAN-OS, via Crafted Packet, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Juniper-Junos-Space-code-execution-via-Web-Application-45352" class="noirorange"><b>Juniper Junos Space</b>: code execution via Web Application</a>](https://vigilance.fr/vulnerability/Juniper-Junos-Space-code-execution-via-Web-Application-45352)|An attacker can use a vulnerability of Juniper Junos Space, via Web Application, in order to run code...|Visit link for details|
@@ -43,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-C-Driver-integer-overflow-via-bson-strfreev-47111" class="noirorange"><b>MongoDB C Driver</b>: integer overflow via bson_strfreev()</a>](https://vigilance.fr/vulnerability/MongoDB-C-Driver-integer-overflow-via-bson-strfreev-47111)|An attacker can trigger an integer overflow of MongoDB C Driver, via bson_strfreev(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-C-Driver-overload-via-bson-utf8-validate-47110" class="noirorange"><b>MongoDB C Driver</b>: overload via bson_utf8_validate()</a>](https://vigilance.fr/vulnerability/MongoDB-C-Driver-overload-via-bson-utf8-validate-47110)|An attacker can trigger an overload of MongoDB C Driver, via bson_utf8_validate()|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259" class="noirorange"><b>Windows</b>: vulnerabilities of January 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2024-43259)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gnuplot-denial-of-service-via-boundary3d-47509" class="noirorange"><b>Gnuplot</b>: denial of service via boundary3d()</a>](https://vigilance.fr/vulnerability/Gnuplot-denial-of-service-via-boundary3d-47509)|An attacker can cause a fatal error of Gnuplot, via boundary3d(), in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -51,23 +68,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0579/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0578/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0577/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 09 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0576/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0575/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0574/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0573/)|De multiples vulnérabilités ont été découvertes dans Node.js. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 09 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0572/)|De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 09 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0571/)|De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0570/)|De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 09 juillet 2025|
  
  ---
 
