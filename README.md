@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/07/2025 09:28:56 UTC
+ > Last Updated 13/07/2025 21:24:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-two-vulnerabilities-dated-13-05-2025-47145" class="noirorange"><b>Microsoft Defender</b>: two vulnerabilities dated 13/05/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-two-vulnerabilities-dated-13-05-2025-47145)|An attacker can use several vulnerabilities of Microsoft Defender, dated 13/05/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Visual-Studio-Code-ingress-filtrering-bypass-via-URL-Glob-Patterns-47142" class="noirorange"><b>Visual Studio Code</b>: ingress filtrering bypass via URL Glob Patterns</a>](https://vigilance.fr/vulnerability/Visual-Studio-Code-ingress-filtrering-bypass-via-URL-Glob-Patterns-47142)|An attacker can bypass filtering rules of Visual Studio Code, via URL Glob Patterns, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Aardvark-dns-overload-via-TCP-Connection-Open-47140" class="noirorange"><b>Aardvark-dns</b>: overload via TCP Connection Open</a>](https://vigilance.fr/vulnerability/Aardvark-dns-overload-via-TCP-Connection-Open-47140)|An attacker can trigger an overload of Aardvark-dns, via TCP Connection Open, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClientMac-privilege-escalation-via-XPC-Messages-47139" class="noirorange"><b>FortiClientMac</b>: privilege escalation via XPC Messages</a>](https://vigilance.fr/vulnerability/FortiClientMac-privilege-escalation-via-XPC-Messages-47139)|An attacker can bypass restrictions of FortiClientMac, via XPC Messages, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-information-disclosure-via-FCT-Installation-Directory-47138" class="noirorange"><b>FortiClientWindows</b>: information disclosure via FCT Installation Directory</a>](https://vigilance.fr/vulnerability/FortiClientWindows-information-disclosure-via-FCT-Installation-Directory-47138)|An attacker can bypass access restrictions to data of FortiClientWindows, via FCT Installation Directory, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClientMac-code-execution-via-Node-JS-Environment-Variable-47137" class="noirorange"><b>FortiClientMac</b>: code execution via Node.JS Environment Variable</a>](https://vigilance.fr/vulnerability/FortiClientMac-code-execution-via-Node-JS-Environment-Variable-47137)|An attacker can use a vulnerability of FortiClientMac, via Node.JS Environment Variable, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-integer-overflow-via-Security-Fabric-Root-47134" class="noirorange"><b>FortiOS</b>: integer overflow via Security Fabric Root</a>](https://vigilance.fr/vulnerability/FortiOS-integer-overflow-via-Security-Fabric-Root-47134)|An attacker can trigger an integer overflow of FortiOS, via Security Fabric Root, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-out-of-bounds-memory-reading-via-FGFM-47133" class="noirorange"><b>FortiOS</b>: out-of-bounds memory reading via FGFM</a>](https://vigilance.fr/vulnerability/FortiOS-out-of-bounds-memory-reading-via-FGFM-47133)|An attacker can force a read at an invalid memory address of FortiOS, via FGFM, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RUGGEDCOM-ROX-privilege-escalation-via-Web-Interface-Tools-47130" class="noirorange"><b>RUGGEDCOM ROX</b>: privilege escalation via Web Interface Tools</a>](https://vigilance.fr/vulnerability/RUGGEDCOM-ROX-privilege-escalation-via-Web-Interface-Tools-47130)|An attacker can bypass restrictions of RUGGEDCOM ROX, via Web Interface Tools, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-three-vulnerabilities-dated-13-05-2025-47127" class="noirorange"><b>SIMATIC PCS neo</b>: three vulnerabilities dated 13/05/2025</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-neo-three-vulnerabilities-dated-13-05-2025-47127)|An attacker can use several vulnerabilities of SIMATIC PCS neo, dated 13/05/2025...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0583/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 10 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0582/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une élévation de privilèges, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Palo Alto Networks indique que la...|Publié le 10 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0581/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 10 juillet 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/iptraf-ng-buffer-overflow-via-src-ifaces-c-47126" class="noirorange"><b>iptraf-ng</b>: buffer overflow via src/ifaces.c</a>](https://vigilance.fr/vulnerability/iptraf-ng-buffer-overflow-via-src-ifaces-c-47126)|An attacker can trigger a buffer overflow of iptraf-ng, via src/ifaces.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-information-disclosure-via-HTTP-1-Chunked-Requests-Smuggling-47123" class="noirorange"><b>Varnish Cache</b>: information disclosure via HTTP/1 Chunked Requests Smuggling</a>](https://vigilance.fr/vulnerability/Varnish-Cache-information-disclosure-via-HTTP-1-Chunked-Requests-Smuggling-47123)|An attacker can bypass access restrictions to data of Varnish Cache, via HTTP/1 Chunked Requests Smuggling, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-X86-Indirect-Target-Selection-47122" class="noirorange"><b>Intel Processor</b>: information disclosure via X86 Indirect Target Selection</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-X86-Indirect-Target-Selection-47122)|An attacker, in a guest system, can bypass access restrictions to data of Intel Processor, via X86 Indirect Target Selection, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-file-read-write-via-File-Operations-47121" class="noirorange"><b>VMware Tools</b>: file read/write via File Operations</a>](https://vigilance.fr/vulnerability/VMware-Tools-file-read-write-via-File-Operations-47121)|An attacker can bypass access restrictions of VMware Tools, via File Operations, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-vApp-code-execution-via-Statically-Saved-Code-47556" class="noirorange"><b>Dell Unisphere for PowerMax vApp</b>: code execution via Statically Saved Code</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-vApp-code-execution-via-Statically-Saved-Code-47556)|An attacker can use a vulnerability of Dell Unisphere for PowerMax vApp, via Statically Saved Code, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-12-05-2025-47120" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 12/05/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-12-05-2025-47120)|An attacker can use several vulnerabilities of the Linux kernel, dated 12/05/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ADOdb-SQL-injection-via-pg-insert-id-47117" class="noirorange"><b>ADOdb</b>: SQL injection via pg_insert_id()</a>](https://vigilance.fr/vulnerability/ADOdb-SQL-injection-via-pg-insert-id-47117)|An attacker can use a SQL injection of ADOdb, via pg_insert_id(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeType-integer-overflow-via-cf2-doFlex-47118" class="noirorange"><b>FreeType</b>: integer overflow via cf2_doFlex()</a>](https://vigilance.fr/vulnerability/FreeType-integer-overflow-via-cf2-doFlex-47118)|An attacker can trigger an integer overflow of FreeType, via cf2_doFlex(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Deluge-BitTorrent-Client-four-vulnerabilities-dated-11-05-2025-47116" class="noirorange"><b>Deluge BitTorrent Client</b>: four vulnerabilities dated 11/05/2025</a>](https://vigilance.fr/vulnerability/Deluge-BitTorrent-Client-four-vulnerabilities-dated-11-05-2025-47116)|An attacker can use several vulnerabilities of Deluge BitTorrent Client, dated 11/05/2025...|Visit link for details|
  
  ---
 
