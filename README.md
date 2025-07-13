@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/07/2025 21:23:45 UTC
+ > Last Updated 13/07/2025 09:28:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/iptraf-ng-buffer-overflow-via-src-ifaces-c-47126" class="noirorange"><b>iptraf-ng</b>: buffer overflow via src/ifaces.c</a>](https://vigilance.fr/vulnerability/iptraf-ng-buffer-overflow-via-src-ifaces-c-47126)|An attacker can trigger a buffer overflow of iptraf-ng, via src/ifaces.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Varnish-Cache-information-disclosure-via-HTTP-1-Chunked-Requests-Smuggling-47123" class="noirorange"><b>Varnish Cache</b>: information disclosure via HTTP/1 Chunked Requests Smuggling</a>](https://vigilance.fr/vulnerability/Varnish-Cache-information-disclosure-via-HTTP-1-Chunked-Requests-Smuggling-47123)|An attacker can bypass access restrictions to data of Varnish Cache, via HTTP/1 Chunked Requests Smuggling, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-X86-Indirect-Target-Selection-47122" class="noirorange"><b>Intel Processor</b>: information disclosure via X86 Indirect Target Selection</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-X86-Indirect-Target-Selection-47122)|An attacker, in a guest system, can bypass access restrictions to data of Intel Processor, via X86 Indirect Target Selection, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-file-read-write-via-File-Operations-47121" class="noirorange"><b>VMware Tools</b>: file read/write via File Operations</a>](https://vigilance.fr/vulnerability/VMware-Tools-file-read-write-via-File-Operations-47121)|An attacker can bypass access restrictions of VMware Tools, via File Operations, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279" class="noirorange"><b>GitLab</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-multiple-vulnerabilities-43279)|An attacker can use several vulnerabilities of GitLab...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-vApp-code-execution-via-Statically-Saved-Code-47556" class="noirorange"><b>Dell Unisphere for PowerMax vApp</b>: code execution via Statically Saved Code</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-vApp-code-execution-via-Statically-Saved-Code-47556)|An attacker can use a vulnerability of Dell Unisphere for PowerMax vApp, via Statically Saved Code, in order to run code...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/ADOdb-SQL-injection-via-pg-insert-id-47117" class="noirorange"><b>ADOdb</b>: SQL injection via pg_insert_id()</a>](https://vigilance.fr/vulnerability/ADOdb-SQL-injection-via-pg-insert-id-47117)|An attacker can use a SQL injection of ADOdb, via pg_insert_id(), in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeType-integer-overflow-via-cf2-doFlex-47118" class="noirorange"><b>FreeType</b>: integer overflow via cf2_doFlex()</a>](https://vigilance.fr/vulnerability/FreeType-integer-overflow-via-cf2-doFlex-47118)|An attacker can trigger an integer overflow of FreeType, via cf2_doFlex(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Deluge-BitTorrent-Client-four-vulnerabilities-dated-11-05-2025-47116" class="noirorange"><b>Deluge BitTorrent Client</b>: four vulnerabilities dated 11/05/2025</a>](https://vigilance.fr/vulnerability/Deluge-BitTorrent-Client-four-vulnerabilities-dated-11-05-2025-47116)|An attacker can use several vulnerabilities of Deluge BitTorrent Client, dated 11/05/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libxmp-buffer-overflow-via-depack-pha-47115" class="noirorange"><b>Libxmp</b>: buffer overflow via depack_pha()</a>](https://vigilance.fr/vulnerability/Libxmp-buffer-overflow-via-depack-pha-47115)|An attacker can trigger a buffer overflow of Libxmp, via depack_pha(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-four-vulnerabilities-43273" class="noirorange"><b>Ivanti Connect Secure</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-four-vulnerabilities-43273)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libssh-read-write-access-via-ssh-kdf-47515" class="noirorange"><b>libssh</b>: read-write access via ssh_kdf()</a>](https://vigilance.fr/vulnerability/libssh-read-write-access-via-ssh-kdf-47515)|An attacker can bypass access restrictions of libssh, via ssh_kdf(), in order to read or alter data...|Visit link for details|
  
  ---
 
