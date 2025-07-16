@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/07/2025 21:26:30 UTC
+ > Last Updated 16/07/2025 09:33:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Linux-privilege-escalation-dated-16-05-2025-47185" class="noirorange"><b>Microsoft Defender for Endpoint for Linux</b>: privilege escalation dated 16/05/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Linux-privilege-escalation-dated-16-05-2025-47185)|An attacker can bypass restrictions of Microsoft Defender for Endpoint for Linux, dated 16/05/2025, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-delta-45406" class="noirorange"><b>libarchive</b>: buffer overflow via execute_filter_<wbr>delta()</wbr></a>](https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-delta-45406)|An attacker can trigger a buffer overflow of libarchive, via execute_filter_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-audio-45405" class="noirorange"><b>libarchive</b>: buffer overflow via execute_filter_<wbr>audio()</wbr></a>](https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-audio-45405)|An attacker can trigger a buffer overflow of libarchive, via execute_filter_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-16-10-2024-45404" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 16/10/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-16-10-2024-45404)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 16/10/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2024-45398" class="noirorange"><b>MySQL</b>: vulnerabilities of October 2024</a>](https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2024-45398)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-BSAFE-SSL-J-Crypto-J-code-execution-via-Third-party-Component-45397" class="noirorange"><b>Dell BSAFE SSL-J  Crypto-J</b>: code execution via Third-party Component</a>](https://vigilance.fr/vulnerability/Dell-BSAFE-SSL-J-Crypto-J-code-execution-via-Third-party-Component-45397)|An attacker can use a vulnerability of Dell BSAFE SSL-J  Crypto-J, via Third-party Component, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-October-2024-45394" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of October 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-October-2024-45394)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2024-45393" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of October 2024</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2024-45393)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-Popover-Tooltip-47182" class="noirorange"><b>Bootstrap</b>: Cross Site Scripting via Popover / Tooltip</a>](https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-Popover-Tooltip-47182)|An attacker can trigger a Cross Site Scripting of Bootstrap, via Popover / Tooltip, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-buffer-overflow-via-DiscardUnknownFieldsParser-45390" class="noirorange"><b>Protocol Buffers</b>: buffer overflow via DiscardUnknownFields<wbr>Parser()</wbr></a>](https://vigilance.fr/vulnerability/Protocol-Buffers-buffer-overflow-via-DiscardUnknownFieldsParser-45390)|An attacker can trigger a buffer overflow of Protocol Buffers, via DiscardUnknownFields|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0583/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 10 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0582/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une élévation de privilèges, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Palo Alto Networks indique que la...|Publié le 10 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0581/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 10 juillet 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-Popover-Tooltip-47182" class="noirorange"><b>Bootstrap</b>: Cross Site Scripting via Popover / Tooltip</a>](https://vigilance.fr/vulnerability/Bootstrap-Cross-Site-Scripting-via-Popover-Tooltip-47182)|An attacker can trigger a Cross Site Scripting of Bootstrap, via Popover / Tooltip, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-buffer-overflow-via-DiscardUnknownFieldsParser-45390" class="noirorange"><b>Protocol Buffers</b>: buffer overflow via DiscardUnknownFields<wbr>Parser()</wbr></a>](https://vigilance.fr/vulnerability/Protocol-Buffers-buffer-overflow-via-DiscardUnknownFieldsParser-45390)|An attacker can trigger a buffer overflow of Protocol Buffers, via DiscardUnknownFields|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-DataBinder-Case-Sensitive-Match-47181" class="noirorange"><b>Spring Framework</b>: ingress filtrering bypass via DataBinder Case Sensitive Match</a>](https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-DataBinder-Case-Sensitive-Match-47181)|An attacker can bypass filtering rules of Spring Framework, via DataBinder Case Sensitive Match, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-TIOCUCNTL-47567" class="noirorange"><b>OpenBSD</b>: denial of service via TIOCUCNTL</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-TIOCUCNTL-47567)|An attacker can cause a fatal error of OpenBSD, via TIOCUCNTL, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-Unicode-escape-Decoder-47180" class="noirorange"><b>Python Core</b>: use after free via Unicode-escape Decoder</a>](https://vigilance.fr/vulnerability/Python-Core-use-after-free-via-Unicode-escape-Decoder-47180)|An attacker can force the reuse of a freed memory area of Python Core, via Unicode-escape Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xdg-mail-ingress-filtrering-bypass-via-Additional-Headers-47179" class="noirorange"><b>xdg-mail</b>: ingress filtrering bypass via Additional Headers</a>](https://vigilance.fr/vulnerability/xdg-mail-ingress-filtrering-bypass-via-Additional-Headers-47179)|An attacker can bypass filtering rules of xdg-mail, via Additional Headers, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-GlobalProtect-Gateway-Portal-47175" class="noirorange"><b>PAN-OS</b>: Cross Site Scripting via GlobalProtect Gateway / Portal</a>](https://vigilance.fr/vulnerability/PAN-OS-Cross-Site-Scripting-via-GlobalProtect-Gateway-Portal-47175)|An attacker can trigger a Cross Site Scripting of PAN-OS, via GlobalProtect Gateway / Portal, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-overload-via-Web-Proxy-Feature-47172" class="noirorange"><b>PAN-OS</b>: overload via Web-Proxy Feature</a>](https://vigilance.fr/vulnerability/PAN-OS-overload-via-Web-Proxy-Feature-47172)|An attacker can trigger an overload of PAN-OS, via Web-Proxy Feature, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Single-Content-Sync-egress-filtrering-bypass-via-Export-47169" class="noirorange"><b>Drupal Single Content Sync</b>: egress filtrering bypass via Export</a>](https://vigilance.fr/vulnerability/Drupal-Single-Content-Sync-egress-filtrering-bypass-via-Export-47169)|An attacker can bypass filtering rules of Drupal Single Content Sync, via Export, in order to exfilter sensitive data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Events-Log-Track-denial-of-service-via-Specific-Events-47168" class="noirorange"><b>Drupal Events Log Track</b>: denial of service via Specific Events</a>](https://vigilance.fr/vulnerability/Drupal-Events-Log-Track-denial-of-service-via-Specific-Events-47168)|An attacker can cause a fatal error of Drupal Events Log Track, via Specific Events, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
