@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/07/2025 09:31:41 UTC
+ > Last Updated 17/07/2025 21:26:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0596/)|De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 17 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0595/)|Une vulnérabilité a été découverte dans Cisco Unified Intelligence Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 17 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0594/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité CVE-2025-6558 est activement exploitée.|Publié le 17 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0593/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0592/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 16 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0591/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2025-6558 est activement exploitée.|Publié le 16 juillet 2025|
@@ -41,9 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0589/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 11 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0588/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 11 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0587/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 11 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0586/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 11 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0585/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0584/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 11 juillet 2025|
  
  ---
 
