@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/07/2025 21:27:15 UTC
+ > Last Updated 17/07/2025 09:31:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Netgate-pfSense-CE-three-vulnerabilities-dated-16-05-2025-47194" class="noirorange"><b>Netgate pfSense CE</b>: three vulnerabilities dated 16/05/2025</a>](https://vigilance.fr/vulnerability/Netgate-pfSense-CE-three-vulnerabilities-dated-16-05-2025-47194)|An attacker can use several vulnerabilities of Netgate pfSense CE, dated 16/05/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ATA-190-Series-multiple-vulnerabilities-dated-16-10-2024-45414" class="noirorange"><b>Cisco ATA 190 Series</b>: multiple vulnerabilities dated 16/10/2024</a>](https://vigilance.fr/vulnerability/Cisco-ATA-190-Series-multiple-vulnerabilities-dated-16-10-2024-45414)|An attacker can use several vulnerabilities of Cisco ATA 190 Series, dated 16/10/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-security-improvement-of-ImageMagick-47577" class="noirorange"><b>SUSE</b>: security improvement of ImageMagick</a>](https://vigilance.fr/vulnerability/SUSE-security-improvement-of-ImageMagick-47577)|The security of SUSE was improved via ImageMagick...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Linux-privilege-escalation-dated-16-05-2025-47185" class="noirorange"><b>Microsoft Defender for Endpoint for Linux</b>: privilege escalation dated 16/05/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Linux-privilege-escalation-dated-16-05-2025-47185)|An attacker can bypass restrictions of Microsoft Defender for Endpoint for Linux, dated 16/05/2025, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-delta-45406" class="noirorange"><b>libarchive</b>: buffer overflow via execute_filter_<wbr>delta()</wbr></a>](https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-delta-45406)|An attacker can trigger a buffer overflow of libarchive, via execute_filter_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-audio-45405" class="noirorange"><b>libarchive</b>: buffer overflow via execute_filter_<wbr>audio()</wbr></a>](https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-audio-45405)|An attacker can trigger a buffer overflow of libarchive, via execute_filter_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-16-10-2024-45404" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 16/10/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-16-10-2024-45404)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 16/10/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2024-45398" class="noirorange"><b>MySQL</b>: vulnerabilities of October 2024</a>](https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2024-45398)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-BSAFE-SSL-J-Crypto-J-code-execution-via-Third-party-Component-45397" class="noirorange"><b>Dell BSAFE SSL-J  Crypto-J</b>: code execution via Third-party Component</a>](https://vigilance.fr/vulnerability/Dell-BSAFE-SSL-J-Crypto-J-code-execution-via-Third-party-Component-45397)|An attacker can use a vulnerability of Dell BSAFE SSL-J  Crypto-J, via Third-party Component, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-October-2024-45394" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of October 2024</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-October-2024-45394)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0586/)|De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 11 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0585/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0584/)|De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 11 juillet 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-three-vulnerabilities-dated-13-05-2024-45423" class="noirorange"><b>WebKitGTK</b>: three vulnerabilities dated 13/05/2024</a>](https://vigilance.fr/vulnerability/WebKitGTK-three-vulnerabilities-dated-13-05-2024-45423)|An attacker can use several vulnerabilities of WebKitGTK, dated 13/05/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netgate-pfSense-CE-three-vulnerabilities-dated-16-05-2025-47194" class="noirorange"><b>Netgate pfSense CE</b>: three vulnerabilities dated 16/05/2025</a>](https://vigilance.fr/vulnerability/Netgate-pfSense-CE-three-vulnerabilities-dated-16-05-2025-47194)|An attacker can use several vulnerabilities of Netgate pfSense CE, dated 16/05/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ATA-190-Series-multiple-vulnerabilities-dated-16-10-2024-45414" class="noirorange"><b>Cisco ATA 190 Series</b>: multiple vulnerabilities dated 16/10/2024</a>](https://vigilance.fr/vulnerability/Cisco-ATA-190-Series-multiple-vulnerabilities-dated-16-10-2024-45414)|An attacker can use several vulnerabilities of Cisco ATA 190 Series, dated 16/10/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-security-improvement-of-ImageMagick-47577" class="noirorange"><b>SUSE</b>: security improvement of ImageMagick</a>](https://vigilance.fr/vulnerability/SUSE-security-improvement-of-ImageMagick-47577)|The security of SUSE was improved via ImageMagick...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Linux-privilege-escalation-dated-16-05-2025-47185" class="noirorange"><b>Microsoft Defender for Endpoint for Linux</b>: privilege escalation dated 16/05/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-for-Endpoint-for-Linux-privilege-escalation-dated-16-05-2025-47185)|An attacker can bypass restrictions of Microsoft Defender for Endpoint for Linux, dated 16/05/2025, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-delta-45406" class="noirorange"><b>libarchive</b>: buffer overflow via execute_filter_<wbr>delta()</wbr></a>](https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-delta-45406)|An attacker can trigger a buffer overflow of libarchive, via execute_filter_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-audio-45405" class="noirorange"><b>libarchive</b>: buffer overflow via execute_filter_<wbr>audio()</wbr></a>](https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-audio-45405)|An attacker can trigger a buffer overflow of libarchive, via execute_filter_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-16-10-2024-45404" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 16/10/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-16-10-2024-45404)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 16/10/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2024-45398" class="noirorange"><b>MySQL</b>: vulnerabilities of October 2024</a>](https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2024-45398)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-BSAFE-SSL-J-Crypto-J-code-execution-via-Third-party-Component-45397" class="noirorange"><b>Dell BSAFE SSL-J  Crypto-J</b>: code execution via Third-party Component</a>](https://vigilance.fr/vulnerability/Dell-BSAFE-SSL-J-Crypto-J-code-execution-via-Third-party-Component-45397)|An attacker can use a vulnerability of Dell BSAFE SSL-J  Crypto-J, via Third-party Component, in order to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
