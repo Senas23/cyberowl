@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/07/2025 21:26:06 UTC
+ > Last Updated 18/07/2025 09:31:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Starlette-overload-via-multipart-form-data-45436" class="noirorange"><b>Starlette</b>: overload via multipart/form-data</a>](https://vigilance.fr/vulnerability/Starlette-overload-via-multipart-form-data-45436)|An attacker can trigger an overload of Starlette, via multipart/form-data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-multiple-vulnerabilities-dated-18-10-2024-45430" class="noirorange"><b>Microsoft Edge Chromium</b>: multiple vulnerabilities dated 18/10/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-multiple-vulnerabilities-dated-18-10-2024-45430)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 18/10/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-three-vulnerabilities-dated-13-05-2024-45423" class="noirorange"><b>WebKitGTK</b>: three vulnerabilities dated 13/05/2024</a>](https://vigilance.fr/vulnerability/WebKitGTK-three-vulnerabilities-dated-13-05-2024-45423)|An attacker can use several vulnerabilities of WebKitGTK, dated 13/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Netgate-pfSense-CE-three-vulnerabilities-dated-16-05-2025-47194" class="noirorange"><b>Netgate pfSense CE</b>: three vulnerabilities dated 16/05/2025</a>](https://vigilance.fr/vulnerability/Netgate-pfSense-CE-three-vulnerabilities-dated-16-05-2025-47194)|An attacker can use several vulnerabilities of Netgate pfSense CE, dated 16/05/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-ATA-190-Series-multiple-vulnerabilities-dated-16-10-2024-45414" class="noirorange"><b>Cisco ATA 190 Series</b>: multiple vulnerabilities dated 16/10/2024</a>](https://vigilance.fr/vulnerability/Cisco-ATA-190-Series-multiple-vulnerabilities-dated-16-10-2024-45414)|An attacker can use several vulnerabilities of Cisco ATA 190 Series, dated 16/10/2024...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-delta-45406" class="noirorange"><b>libarchive</b>: buffer overflow via execute_filter_<wbr>delta()</wbr></a>](https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-delta-45406)|An attacker can trigger a buffer overflow of libarchive, via execute_filter_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-audio-45405" class="noirorange"><b>libarchive</b>: buffer overflow via execute_filter_<wbr>audio()</wbr></a>](https://vigilance.fr/vulnerability/libarchive-buffer-overflow-via-execute-filter-audio-45405)|An attacker can trigger a buffer overflow of libarchive, via execute_filter_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-16-10-2024-45404" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 16/10/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-16-10-2024-45404)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 16/10/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2024-45398" class="noirorange"><b>MySQL</b>: vulnerabilities of October 2024</a>](https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2024-45398)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-BSAFE-SSL-J-Crypto-J-code-execution-via-Third-party-Component-45397" class="noirorange"><b>Dell BSAFE SSL-J  Crypto-J</b>: code execution via Third-party Component</a>](https://vigilance.fr/vulnerability/Dell-BSAFE-SSL-J-Crypto-J-code-execution-via-Third-party-Component-45397)|An attacker can use a vulnerability of Dell BSAFE SSL-J  Crypto-J, via Third-party Component, in order to run code...|Visit link for details|
  
  ---
 
