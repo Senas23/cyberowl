@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/07/2025 09:27:23 UTC
+ > Last Updated 19/07/2025 21:24:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-double-free-via-dialog-changed-47604" class="noirorange"><b>Vim</b>: double free via dialog_changed()</a>](https://vigilance.fr/vulnerability/Vim-double-free-via-dialog-changed-47604)|An attacker can force a double memory free of Vim, via dialog_changed(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/brlapi-information-disclosure-via-Brlapi-key-File-47205" class="noirorange"><b>brlapi</b>: information disclosure via Brlapi.key File</a>](https://vigilance.fr/vulnerability/brlapi-information-disclosure-via-Brlapi-key-File-47205)|An attacker can bypass access restrictions to data of brlapi, via Brlapi.key File, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-via-Custom-Frontend-Plugin-47204" class="noirorange"><b>Grafana</b>: Cross Site Scripting via Custom Frontend Plugin</a>](https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-via-Custom-Frontend-Plugin-47204)|An attacker can trigger a Cross Site Scripting of Grafana, via Custom Frontend Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-Universal-Print-Driver-denial-of-service-dated-04-07-2025-47601" class="noirorange"><b>HP Universal Print Driver</b>: denial of service dated 04/07/2025</a>](https://vigilance.fr/vulnerability/HP-Universal-Print-Driver-denial-of-service-dated-04-07-2025-47601)|An attacker can cause a fatal error of HP Universal Print Driver, dated 04/07/2025, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-hfsc-enqueue-47203" class="noirorange"><b>Linux kernel</b>: use after free via hfsc_enqueue()</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-hfsc-enqueue-47203)|An attacker can force the reuse of a freed memory area of the Linux kernel, via hfsc_enqueue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/net-tools-buffer-overflow-via-proc-Files-47198" class="noirorange"><b>net-tools</b>: buffer overflow via /proc Files</a>](https://vigilance.fr/vulnerability/net-tools-buffer-overflow-via-proc-Files-47198)|An attacker can trigger a buffer overflow of net-tools, via /proc Files, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-Persistent-Handshake-47201" class="noirorange"><b>Mbed TLS</b>: denial of service via Persistent Handshake</a>](https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-Persistent-Handshake-47201)|An attacker can cause a fatal error of Mbed TLS, via Persistent Handshake, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-TCP-IP-Connectivity-Utilities-47196" class="noirorange"><b>IBM i</b>: privilege escalation via TCP/IP Connectivity Utilities</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-TCP-IP-Connectivity-Utilities-47196)|An attacker can bypass restrictions of IBM i, via TCP/IP Connectivity Utilities, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-mbedtls-ssl-session-reset-47200" class="noirorange"><b>Mbed TLS</b>: denial of service via mbedtls_ssl_session_<wbr>reset()</wbr></a>](https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-mbedtls-ssl-session-reset-47200)|An attacker can cause a fatal error of Mbed TLS, via mbedtls_ssl_session_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Starlette-overload-via-multipart-form-data-45436" class="noirorange"><b>Starlette</b>: overload via multipart/form-data</a>](https://vigilance.fr/vulnerability/Starlette-overload-via-multipart-form-data-45436)|An attacker can trigger an overload of Starlette, via multipart/form-data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-multiple-vulnerabilities-dated-18-10-2024-45430" class="noirorange"><b>Microsoft Edge Chromium</b>: multiple vulnerabilities dated 18/10/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-multiple-vulnerabilities-dated-18-10-2024-45430)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 18/10/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-three-vulnerabilities-dated-13-05-2024-45423" class="noirorange"><b>WebKitGTK</b>: three vulnerabilities dated 13/05/2024</a>](https://vigilance.fr/vulnerability/WebKitGTK-three-vulnerabilities-dated-13-05-2024-45423)|An attacker can use several vulnerabilities of WebKitGTK, dated 13/05/2024...|Visit link for details|
  
  ---
 
