@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/07/2025 21:24:50 UTC
+ > Last Updated 20/07/2025 09:27:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/iputils-integer-overflow-via-Ping-Timestamp-Multiplication-47207" class="noirorange"><b>iputils</b>: integer overflow via Ping Timestamp Multiplication</a>](https://vigilance.fr/vulnerability/iputils-integer-overflow-via-Ping-Timestamp-Multiplication-47207)|An attacker can trigger an integer overflow of iputils, via Ping Timestamp Multiplication, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-UMP-SysEx-Message-Conversion-47206" class="noirorange"><b>Linux kernel</b>: buffer overflow via UMP SysEx Message Conversion</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-UMP-SysEx-Message-Conversion-47206)|An attacker can trigger a buffer overflow of the Linux kernel, via UMP SysEx Message Conversion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-double-free-via-dialog-changed-47604" class="noirorange"><b>Vim</b>: double free via dialog_changed()</a>](https://vigilance.fr/vulnerability/Vim-double-free-via-dialog-changed-47604)|An attacker can force a double memory free of Vim, via dialog_changed(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/brlapi-information-disclosure-via-Brlapi-key-File-47205" class="noirorange"><b>brlapi</b>: information disclosure via Brlapi.key File</a>](https://vigilance.fr/vulnerability/brlapi-information-disclosure-via-Brlapi-key-File-47205)|An attacker can bypass access restrictions to data of brlapi, via Brlapi.key File, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-via-Custom-Frontend-Plugin-47204" class="noirorange"><b>Grafana</b>: Cross Site Scripting via Custom Frontend Plugin</a>](https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-via-Custom-Frontend-Plugin-47204)|An attacker can trigger a Cross Site Scripting of Grafana, via Custom Frontend Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/net-tools-buffer-overflow-via-proc-Files-47198" class="noirorange"><b>net-tools</b>: buffer overflow via /proc Files</a>](https://vigilance.fr/vulnerability/net-tools-buffer-overflow-via-proc-Files-47198)|An attacker can trigger a buffer overflow of net-tools, via /proc Files, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dropbear-SSH-code-execution-via-Dbclient-Hostname-Argument-47197" class="noirorange"><b>Dropbear SSH</b>: code execution via Dbclient Hostname Argument</a>](https://vigilance.fr/vulnerability/Dropbear-SSH-code-execution-via-Dbclient-Hostname-Argument-47197)|An attacker can use a vulnerability of Dropbear SSH, via Dbclient Hostname Argument, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-Persistent-Handshake-47201" class="noirorange"><b>Mbed TLS</b>: denial of service via Persistent Handshake</a>](https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-Persistent-Handshake-47201)|An attacker can cause a fatal error of Mbed TLS, via Persistent Handshake, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-TCP-IP-Connectivity-Utilities-47196" class="noirorange"><b>IBM i</b>: privilege escalation via TCP/IP Connectivity Utilities</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-TCP-IP-Connectivity-Utilities-47196)|An attacker can bypass restrictions of IBM i, via TCP/IP Connectivity Utilities, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-mbedtls-ssl-session-reset-47200" class="noirorange"><b>Mbed TLS</b>: denial of service via mbedtls_ssl_session_<wbr>reset()</wbr></a>](https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-mbedtls-ssl-session-reset-47200)|An attacker can cause a fatal error of Mbed TLS, via mbedtls_ssl_session_|Visit link for details|
  
  ---
 
