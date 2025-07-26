@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/07/2025 21:26:38 UTC
+ > Last Updated 26/07/2025 09:27:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vyper-write-access-via-slice-47262" class="noirorange"><b>Vyper</b>: write access via slice()</a>](https://vigilance.fr/vulnerability/Vyper-write-access-via-slice-47262)|An attacker can bypass access restrictions of Vyper, via slice(), in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vyper-write-access-via-concat-47263" class="noirorange"><b>Vyper</b>: write access via concat()</a>](https://vigilance.fr/vulnerability/Vyper-write-access-via-concat-47263)|An attacker can bypass access restrictions of Vyper, via concat(), in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-write-access-via-Mod-ssl-Log-Variable-Escaping-47683" class="noirorange"><b>Apache httpd</b>: write access via Mod_ssl Log Variable Escaping</a>](https://vigilance.fr/vulnerability/Apache-httpd-write-access-via-Mod-ssl-Log-Variable-Escaping-47683)|An attacker can bypass access restrictions of Apache httpd, via Mod_ssl Log Variable Escaping, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/sslh-file-corruption-dated-10-07-2025-47678" class="noirorange"><b>sslh</b>: file corruption dated 10/07/2025</a>](https://vigilance.fr/vulnerability/sslh-file-corruption-dated-10-07-2025-47678)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of sslh, dated 10/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-Unified-Contact-Center-code-execution-via-Listening-Port-Message-43366" class="noirorange"><b>Cisco Unified Communications Manager  Unified Contact Center</b>: code execution via Listening Port Message</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-Unified-Contact-Center-code-execution-via-Listening-Port-Message-43366)|An attacker can use a vulnerability of Cisco Unified Communications Manager  Unified Contact Center, via Listening Port Message, in order to run code...|Visit link for details|
@@ -42,8 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Suricata-multiple-vulnerabilities-dated-01-10-2024-45468" class="noirorange"><b>Suricata</b>: multiple vulnerabilities dated 01/10/2024</a>](https://vigilance.fr/vulnerability/Suricata-multiple-vulnerabilities-dated-01-10-2024-45468)|An attacker can use several vulnerabilities of Suricata, dated 01/10/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Monster-Menus-code-execution-via-unserialize-45465" class="noirorange"><b>Drupal Monster Menus</b>: code execution via unserialize()</a>](https://vigilance.fr/vulnerability/Drupal-Monster-Menus-code-execution-via-unserialize-45465)|An attacker can use a vulnerability of Drupal Monster Menus, via unserialize(), in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/setuptools-directory-traversal-via-PackageIndex-47261" class="noirorange"><b>setuptools</b>: directory traversal via PackageIndex</a>](https://vigilance.fr/vulnerability/setuptools-directory-traversal-via-PackageIndex-47261)|An attacker can traverse directories of setuptools, via PackageIndex, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-multiple-vulnerabilities-dated-23-10-2024-45458" class="noirorange"><b>Cisco ASA</b>: multiple vulnerabilities dated 23/10/2024</a>](https://vigilance.fr/vulnerability/Cisco-ASA-multiple-vulnerabilities-dated-23-10-2024-45458)|An attacker can use several vulnerabilities of Cisco ASA, dated 23/10/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NagVis-three-vulnerabilities-dated-23-05-2025-47260" class="noirorange"><b>NagVis</b>: three vulnerabilities dated 23/05/2025</a>](https://vigilance.fr/vulnerability/NagVis-three-vulnerabilities-dated-23-05-2025-47260)|An attacker can use several vulnerabilities of NagVis, dated 23/05/2025...|Visit link for details|
  
  ---
 
