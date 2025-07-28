@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/07/2025 21:25:44 UTC
+ > Last Updated 28/07/2025 09:35:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-three-vulnerabilities-dated-27-05-2025-47277" class="noirorange"><b>GIMP</b>: three vulnerabilities dated 27/05/2025</a>](https://vigilance.fr/vulnerability/GIMP-three-vulnerabilities-dated-27-05-2025-47277)|An attacker can use several vulnerabilities of GIMP, dated 27/05/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-WinPVDrivers-47274" class="noirorange"><b>Xen</b>: privilege escalation via WinPVDrivers</a>](https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-WinPVDrivers-47274)|An attacker can bypass restrictions of Xen, via WinPVDrivers, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GStreamer-H265-Codec-buffer-overflow-via-Slice-Headers-47273" class="noirorange"><b>GStreamer H265 Codec</b>: buffer overflow via Slice Headers</a>](https://vigilance.fr/vulnerability/GStreamer-H265-Codec-buffer-overflow-via-Slice-Headers-47273)|An attacker can trigger a buffer overflow of GStreamer H265 Codec, via Slice Headers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libavif-integer-overflow-via-avifImageRGBToYUV-47272" class="noirorange"><b>libavif</b>: integer overflow via avifImageRGBToYUV()</a>](https://vigilance.fr/vulnerability/libavif-integer-overflow-via-avifImageRGBToYUV-47272)|An attacker can trigger an integer overflow of libavif, via avifImageRGBToYUV(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libavif-integer-overflow-via-makeRoom-47271" class="noirorange"><b>libavif</b>: integer overflow via makeRoom()</a>](https://vigilance.fr/vulnerability/libavif-integer-overflow-via-makeRoom-47271)|An attacker can trigger an integer overflow of libavif, via makeRoom(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flask-denial-of-service-via-Fallback-Key-Configuration-47269" class="noirorange"><b>Flask</b>: denial of service via Fallback Key Configuration</a>](https://vigilance.fr/vulnerability/Flask-denial-of-service-via-Fallback-Key-Configuration-47269)|An attacker can cause a fatal error of Flask, via Fallback Key Configuration, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsoup-write-access-via-Uppercase-Character-Cookies-47268" class="noirorange"><b>libsoup</b>: write access via Uppercase Character Cookies</a>](https://vigilance.fr/vulnerability/libsoup-write-access-via-Uppercase-Character-Cookies-47268)|An attacker can bypass access restrictions of libsoup, via Uppercase Character Cookies, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLib-integer-overflow-via-g-string-insert-unichar-47266" class="noirorange"><b>GLib</b>: integer overflow via g_string_insert_<wbr>unichar()</wbr></a>](https://vigilance.fr/vulnerability/GLib-integer-overflow-via-g-string-insert-unichar-47266)|An attacker can trigger an integer overflow of GLib, via g_string_insert_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsoup-denial-of-service-via-soup-multipart-new-from-message-47265" class="noirorange"><b>libsoup</b>: denial of service via soup_multipart_new_<wbr>from_message()</wbr></a>](https://vigilance.fr/vulnerability/libsoup-denial-of-service-via-soup-multipart-new-from-message-47265)|An attacker can cause a fatal error of libsoup, via soup_multipart_new_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsoup-denial-of-service-via-SoupWebsocketConnection-47264" class="noirorange"><b>libsoup</b>: denial of service via SoupWebsocketConnect<wbr>ion</wbr></a>](https://vigilance.fr/vulnerability/libsoup-denial-of-service-via-SoupWebsocketConnection-47264)|An attacker can cause a fatal error of libsoup, via SoupWebsocketConnect|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0620/)|Une vulnérabilité a été découverte dans Apache HTTP Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0619/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 24 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0618/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une injection SQL (SQLi) et un contournement de la politique de sécurité.|Publié le 24 juillet 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-Man-in-the-Middle-via-WolfSSL-QUIC-Certificate-Pinning-47279" class="noirorange"><b>cURL</b>: Man-in-the-Middle via WolfSSL QUIC Certificate Pinning</a>](https://vigilance.fr/vulnerability/cURL-Man-in-the-Middle-via-WolfSSL-QUIC-Certificate-Pinning-47279)|An attacker can act as a Man-in-the-Middle on cURL, via WolfSSL QUIC Certificate Pinning, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-Man-in-the-Middle-via-WolfSSL-QUIC-Certificate-Check-47278" class="noirorange"><b>cURL</b>: Man-in-the-Middle via WolfSSL QUIC Certificate Check</a>](https://vigilance.fr/vulnerability/cURL-Man-in-the-Middle-via-WolfSSL-QUIC-Certificate-Check-47278)|An attacker can act as a Man-in-the-Middle on cURL, via WolfSSL QUIC Certificate Check, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIMP-three-vulnerabilities-dated-27-05-2025-47277" class="noirorange"><b>GIMP</b>: three vulnerabilities dated 27/05/2025</a>](https://vigilance.fr/vulnerability/GIMP-three-vulnerabilities-dated-27-05-2025-47277)|An attacker can use several vulnerabilities of GIMP, dated 27/05/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-WinPVDrivers-47274" class="noirorange"><b>Xen</b>: privilege escalation via WinPVDrivers</a>](https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-WinPVDrivers-47274)|An attacker can bypass restrictions of Xen, via WinPVDrivers, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GStreamer-H265-Codec-buffer-overflow-via-Slice-Headers-47273" class="noirorange"><b>GStreamer H265 Codec</b>: buffer overflow via Slice Headers</a>](https://vigilance.fr/vulnerability/GStreamer-H265-Codec-buffer-overflow-via-Slice-Headers-47273)|An attacker can trigger a buffer overflow of GStreamer H265 Codec, via Slice Headers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libavif-integer-overflow-via-avifImageRGBToYUV-47272" class="noirorange"><b>libavif</b>: integer overflow via avifImageRGBToYUV()</a>](https://vigilance.fr/vulnerability/libavif-integer-overflow-via-avifImageRGBToYUV-47272)|An attacker can trigger an integer overflow of libavif, via avifImageRGBToYUV(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libavif-integer-overflow-via-makeRoom-47271" class="noirorange"><b>libavif</b>: integer overflow via makeRoom()</a>](https://vigilance.fr/vulnerability/libavif-integer-overflow-via-makeRoom-47271)|An attacker can trigger an integer overflow of libavif, via makeRoom(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Flask-denial-of-service-via-Fallback-Key-Configuration-47269" class="noirorange"><b>Flask</b>: denial of service via Fallback Key Configuration</a>](https://vigilance.fr/vulnerability/Flask-denial-of-service-via-Fallback-Key-Configuration-47269)|An attacker can cause a fatal error of Flask, via Fallback Key Configuration, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsoup-write-access-via-Uppercase-Character-Cookies-47268" class="noirorange"><b>libsoup</b>: write access via Uppercase Character Cookies</a>](https://vigilance.fr/vulnerability/libsoup-write-access-via-Uppercase-Character-Cookies-47268)|An attacker can bypass access restrictions of libsoup, via Uppercase Character Cookies, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLib-integer-overflow-via-g-string-insert-unichar-47266" class="noirorange"><b>GLib</b>: integer overflow via g_string_insert_<wbr>unichar()</wbr></a>](https://vigilance.fr/vulnerability/GLib-integer-overflow-via-g-string-insert-unichar-47266)|An attacker can trigger an integer overflow of GLib, via g_string_insert_|Visit link for details|
  
  ---
 
