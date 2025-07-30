@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/07/2025 09:35:37 UTC
+ > Last Updated 30/07/2025 21:27:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,23 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0640/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0639/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0638/)|Une vulnérabilité a été découverte dans les produits Sonicwall. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0637/)|Une vulnérabilité a été découverte dans SolarWinds Web Help Desk. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0636/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0635/)|Une vulnérabilité a été découverte dans VMware vCenter. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0634/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0633/)|Une vulnérabilité a été découverte dans Tenable Patch Management. Elle permet à un attaquant de provoquer une injection SQL (SQLi).|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0632/)|De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et une falsification de requêtes côté serveur (SSRF).|Publié le 30 juillet 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0631/)|Une vulnérabilité a été découverte dans SolarWinds SWOSH. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 29 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0630/)|Une vulnérabilité a été découverte dans Palo Alto Networks GlobalProtect App. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0629/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0628/)|De multiples vulnérabilités ont été découvertes dans Synology BeeDrive. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à l'intégrité des données.|Publié le 28 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0627/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 25 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0626/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 25 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0625/)|De multiples vulnérabilités ont été découvertes dans Ubuntu Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0624/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 25 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0623/)|De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 25 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0622/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 25 juillet 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -58,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apport-information-disclosure-via-Core-Dump-47317" class="noirorange"><b>Apport</b>: information disclosure via Core Dump</a>](https://vigilance.fr/vulnerability/Apport-information-disclosure-via-Core-Dump-47317)|An attacker can bypass access restrictions to data of Apport, via Core Dump, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-05-2025-47314" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/05/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-05-2025-47314)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/05/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-overload-via-sanitiseMatchedBytes-47312" class="noirorange"><b>ModSecurity</b>: overload via sanitiseMatchedBytes</a>](https://vigilance.fr/vulnerability/ModSecurity-overload-via-sanitiseMatchedBytes-47312)|An attacker can trigger an overload of ModSecurity, via sanitiseMatchedBytes|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MyDumper-information-disclosure-via-LOAD-LOCAL-INFILE-47311" class="noirorange"><b>MyDumper</b>: information disclosure via LOAD LOCAL INFILE</a>](https://vigilance.fr/vulnerability/MyDumper-information-disclosure-via-LOAD-LOCAL-INFILE-47311)|An attacker can bypass access restrictions to data of MyDumper, via LOAD LOCAL INFILE, in order to read sensitive information...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-Server-Side-Request-Forgery-dated-30-05-2025-47306" class="noirorange"><b>Portal for ArcGIS</b>: Server-Side Request Forgery dated 30/05/2025</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-Server-Side-Request-Forgery-dated-30-05-2025-47306)|An attacker can trigger a Server-Side Request Forgery of Portal for ArcGIS, dated 30/05/2025, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-CGI-Servlet-Security-Constraint-47305" class="noirorange"><b>Apache Tomcat</b>: ingress filtrering bypass via CGI Servlet Security Constraint</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-CGI-Servlet-Security-Constraint-47305)|An attacker can bypass filtering rules of Apache Tomcat, via CGI Servlet Security Constraint, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DNSdist-overload-via-Unlimited-Queries-47304" class="noirorange"><b>DNSdist</b>: overload via Unlimited Queries</a>](https://vigilance.fr/vulnerability/DNSdist-overload-via-Unlimited-Queries-47304)|An attacker can trigger an overload of DNSdist, via Unlimited Queries, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-file-reading-via-Brltty-Post-47302" class="noirorange"><b>SUSE LE</b>: file reading via Brltty Post</a>](https://vigilance.fr/vulnerability/SUSE-LE-file-reading-via-Brltty-Post-47302)|An attacker can read a file of SUSE LE, via Brltty Post, in order to obtain sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
