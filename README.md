@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/07/2025 21:28:38 UTC
+ > Last Updated 30/07/2025 09:35:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,13 +30,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -54,20 +47,27 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-COOKiES-Consent-Management-Cross-Site-Scripting-dated-29-05-2025-47298" class="noirorange"><b>Drupal COOKiES Consent Management</b>: Cross Site Scripting dated 29/05/2025</a>](https://vigilance.fr/vulnerability/Drupal-COOKiES-Consent-Management-Cross-Site-Scripting-dated-29-05-2025-47298)|An attacker can trigger a Cross Site Scripting of Drupal COOKiES Consent Management, dated 29/05/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-etracker-Cross-Site-Scripting-dated-29-05-2025-47297" class="noirorange"><b>Drupal etracker</b>: Cross Site Scripting dated 29/05/2025</a>](https://vigilance.fr/vulnerability/Drupal-etracker-Cross-Site-Scripting-dated-29-05-2025-47297)|An attacker can trigger a Cross Site Scripting of Drupal etracker, dated 29/05/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-EU-Cookie-Compliance-Cross-Site-Scripting-dated-29-05-2025-47296" class="noirorange"><b>Drupal EU Cookie Compliance</b>: Cross Site Scripting dated 29/05/2025</a>](https://vigilance.fr/vulnerability/Drupal-EU-Cookie-Compliance-Cross-Site-Scripting-dated-29-05-2025-47296)|An attacker can trigger a Cross Site Scripting of Drupal EU Cookie Compliance, dated 29/05/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Simple-Klaro-Cross-Site-Scripting-via-Data-Attributes-47295" class="noirorange"><b>Drupal Simple Klaro</b>: Cross Site Scripting via Data Attributes</a>](https://vigilance.fr/vulnerability/Drupal-Simple-Klaro-Cross-Site-Scripting-via-Data-Attributes-47295)|An attacker can trigger a Cross Site Scripting of Drupal Simple Klaro, via Data Attributes, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-29-10-2024-45484" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 29/10/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-29-10-2024-45484)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 29/10/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Bookable-Calendar-information-disclosure-via-View-Booking-47293" class="noirorange"><b>Drupal Bookable Calendar</b>: information disclosure via View Booking</a>](https://vigilance.fr/vulnerability/Drupal-Bookable-Calendar-information-disclosure-via-View-Booking-47293)|An attacker can bypass access restrictions to data of Drupal Bookable Calendar, via View Booking, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/webpy-SQL-injection-via-process-insert-query-47292" class="noirorange"><b>webpy</b>: SQL injection via _process_insert_<wbr>query()</wbr></a>](https://vigilance.fr/vulnerability/webpy-SQL-injection-via-process-insert-query-47292)|An attacker can use a SQL injection of webpy, via _process_insert_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsoup-denial-of-service-via-401-HTTP-response-47289" class="noirorange"><b>libsoup</b>: denial of service via 401 HTTP response</a>](https://vigilance.fr/vulnerability/libsoup-denial-of-service-via-401-HTTP-response-47289)|An attacker can cause a fatal error of libsoup, via 401 HTTP response, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-HTTP-Response-Code-User-Enumeration-47708" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via HTTP Response Code User Enumeration</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-HTTP-Response-Code-User-Enumeration-47708)|An attacker can bypass access restrictions to data of OTRS Help Desk, via HTTP Response Code User Enumeration, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Magick-Stream-Command-47706" class="noirorange"><b>ImageMagick</b>: memory leak via Magick Stream Command</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-Magick-Stream-Command-47706)|An attacker can create a memory leak of ImageMagick, via Magick Stream Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-05-2025-47314" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/05/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-05-2025-47314)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/05/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-overload-via-sanitiseMatchedBytes-47312" class="noirorange"><b>ModSecurity</b>: overload via sanitiseMatchedBytes</a>](https://vigilance.fr/vulnerability/ModSecurity-overload-via-sanitiseMatchedBytes-47312)|An attacker can trigger an overload of ModSecurity, via sanitiseMatchedBytes|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MyDumper-information-disclosure-via-LOAD-LOCAL-INFILE-47311" class="noirorange"><b>MyDumper</b>: information disclosure via LOAD LOCAL INFILE</a>](https://vigilance.fr/vulnerability/MyDumper-information-disclosure-via-LOAD-LOCAL-INFILE-47311)|An attacker can bypass access restrictions to data of MyDumper, via LOAD LOCAL INFILE, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-overload-via-Q-Replication-47310" class="noirorange"><b>IBM Db2</b>: overload via Q Replication</a>](https://vigilance.fr/vulnerability/IBM-Db2-overload-via-Q-Replication-47310)|An attacker can trigger an overload of IBM Db2, via Q Replication, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47309" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47309)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47308" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47308)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-Server-Side-Request-Forgery-dated-30-05-2025-47306" class="noirorange"><b>Portal for ArcGIS</b>: Server-Side Request Forgery dated 30/05/2025</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-Server-Side-Request-Forgery-dated-30-05-2025-47306)|An attacker can trigger a Server-Side Request Forgery of Portal for ArcGIS, dated 30/05/2025, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-CGI-Servlet-Security-Constraint-47305" class="noirorange"><b>Apache Tomcat</b>: ingress filtrering bypass via CGI Servlet Security Constraint</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-CGI-Servlet-Security-Constraint-47305)|An attacker can bypass filtering rules of Apache Tomcat, via CGI Servlet Security Constraint, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DNSdist-overload-via-Unlimited-Queries-47304" class="noirorange"><b>DNSdist</b>: overload via Unlimited Queries</a>](https://vigilance.fr/vulnerability/DNSdist-overload-via-Unlimited-Queries-47304)|An attacker can trigger an overload of DNSdist, via Unlimited Queries, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-file-reading-via-Brltty-Post-47302" class="noirorange"><b>SUSE LE</b>: file reading via Brltty Post</a>](https://vigilance.fr/vulnerability/SUSE-LE-file-reading-via-Brltty-Post-47302)|An attacker can read a file of SUSE LE, via Brltty Post, in order to obtain sensitive information...|Visit link for details|
  
  ---
 
