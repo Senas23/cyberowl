@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/07/2025 09:33:52 UTC
+ > Last Updated 31/07/2025 21:28:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0640/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0639/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0638/)|Une vulnérabilité a été découverte dans les produits Sonicwall. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0637/)|Une vulnérabilité a été découverte dans SolarWinds Web Help Desk. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0636/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0635/)|Une vulnérabilité a été découverte dans VMware vCenter. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0634/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0633/)|Une vulnérabilité a été découverte dans Tenable Patch Management. Elle permet à un attaquant de provoquer une injection SQL (SQLi).|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0632/)|De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et une falsification de requêtes côté serveur (SSRF).|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0631/)|Une vulnérabilité a été découverte dans SolarWinds SWOSH. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 29 juillet 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-overload-via-Q-Replication-47310" class="noirorange"><b>IBM Db2</b>: overload via Q Replication</a>](https://vigilance.fr/vulnerability/IBM-Db2-overload-via-Q-Replication-47310)|An attacker can trigger an overload of IBM Db2, via Q Replication, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47309" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47309)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47308" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47308)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0643/)|Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 31 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0642/)|De multiples vulnérabilités ont été découvertes dans Apple Safari. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS). Google indique que la vulnérabilité...|Publié le 31 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0641/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 31 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0640/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance. Google indique que la vulnérabilité CVE-2025-6558 est activement...|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0639/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0638/)|Une vulnérabilité a été découverte dans les produits Sonicwall. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0637/)|Une vulnérabilité a été découverte dans SolarWinds Web Help Desk. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0636/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0635/)|Une vulnérabilité a été découverte dans VMware vCenter. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0634/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
  
  ---
 
