@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/07/2025 21:27:05 UTC
+ > Last Updated 31/07/2025 09:33:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,20 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MicroPython-three-vulnerabilities-dated-19-07-2024-45502" class="noirorange"><b>MicroPython</b>: three vulnerabilities dated 19/07/2024</a>](https://vigilance.fr/vulnerability/MicroPython-three-vulnerabilities-dated-19-07-2024-45502)|An attacker can use several vulnerabilities of MicroPython, dated 19/07/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Web-Content-45498" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: memory corruption via Web Content</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Web-Content-45498)|An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, via Web Content, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-45494" class="noirorange"><b>Werkzeug</b>: overload via multipart/form-data</a>](https://vigilance.fr/vulnerability/Werkzeug-overload-via-multipart-form-data-45494)|An attacker can trigger an overload of Werkzeug, via multipart/form-data, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apport-information-disclosure-via-Core-Dump-47317" class="noirorange"><b>Apport</b>: information disclosure via Core Dump</a>](https://vigilance.fr/vulnerability/Apport-information-disclosure-via-Core-Dump-47317)|An attacker can bypass access restrictions to data of Apport, via Core Dump, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-05-2025-47314" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/05/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-05-2025-47314)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/05/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-overload-via-sanitiseMatchedBytes-47312" class="noirorange"><b>ModSecurity</b>: overload via sanitiseMatchedBytes</a>](https://vigilance.fr/vulnerability/ModSecurity-overload-via-sanitiseMatchedBytes-47312)|An attacker can trigger an overload of ModSecurity, via sanitiseMatchedBytes|Visit link for details|
@@ -58,16 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-overload-via-Q-Replication-47310" class="noirorange"><b>IBM Db2</b>: overload via Q Replication</a>](https://vigilance.fr/vulnerability/IBM-Db2-overload-via-Q-Replication-47310)|An attacker can trigger an overload of IBM Db2, via Q Replication, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47309" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47309)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47308" class="noirorange"><b>IBM Db2</b>: denial of service via Query</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Query-47308)|An attacker can cause a fatal error of IBM Db2, via Query, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-Server-Side-Request-Forgery-dated-30-05-2025-47306" class="noirorange"><b>Portal for ArcGIS</b>: Server-Side Request Forgery dated 30/05/2025</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-Server-Side-Request-Forgery-dated-30-05-2025-47306)|An attacker can trigger a Server-Side Request Forgery of Portal for ArcGIS, dated 30/05/2025, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-CGI-Servlet-Security-Constraint-47305" class="noirorange"><b>Apache Tomcat</b>: ingress filtrering bypass via CGI Servlet Security Constraint</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-CGI-Servlet-Security-Constraint-47305)|An attacker can bypass filtering rules of Apache Tomcat, via CGI Servlet Security Constraint, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DNSdist-overload-via-Unlimited-Queries-47304" class="noirorange"><b>DNSdist</b>: overload via Unlimited Queries</a>](https://vigilance.fr/vulnerability/DNSdist-overload-via-Unlimited-Queries-47304)|An attacker can trigger an overload of DNSdist, via Unlimited Queries, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
