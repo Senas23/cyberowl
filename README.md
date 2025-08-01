@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/08/2025 09:33:51 UTC
+ > Last Updated 01/08/2025 21:27:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0640/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0639/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0638/)|Une vulnérabilité a été découverte dans les produits Sonicwall. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0637/)|Une vulnérabilité a été découverte dans SolarWinds Web Help Desk. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0636/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0635/)|Une vulnérabilité a été découverte dans VMware vCenter. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0634/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0633/)|Une vulnérabilité a été découverte dans Tenable Patch Management. Elle permet à un attaquant de provoquer une injection SQL (SQLi).|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0632/)|De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et une falsification de requêtes côté serveur (SSRF).|Publié le 30 juillet 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0631/)|Une vulnérabilité a été découverte dans SolarWinds SWOSH. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 29 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 01 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 01 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0649/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 01 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 01 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0647/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 01 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0646/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 01 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0645/)|De multiples vulnérabilités ont été découvertes dans Asterisk. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 01 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0644/)|Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 01 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0643/)|Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 31 juillet 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0642/)|De multiples vulnérabilités ont été découvertes dans Apple Safari. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS). Google indique que la vulnérabilité...|Publié le 31 juillet 2025|
  
  ---
 
