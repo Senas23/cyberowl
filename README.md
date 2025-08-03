@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/08/2025 09:27:47 UTC
+ > Last Updated 03/08/2025 21:26:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-Code-vulnerability-dated-03-06-2025-47338" class="noirorange"><b>Microsoft Visual Studio Code</b>: vulnerability dated 03/06/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-Code-vulnerability-dated-03-06-2025-47338)|A vulnerability of Microsoft Visual Studio Code, dated 03/06/2025, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cmark-gfm-overload-via-Superior-Minus-Characters-47335" class="noirorange"><b>cmark-gfm</b>: overload via Superior Minus Characters</a>](https://vigilance.fr/vulnerability/cmark-gfm-overload-via-Superior-Minus-Characters-47335)|An attacker can trigger an overload of cmark-gfm, via Superior Minus Characters, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libsoup-out-of-bounds-memory-reading-via-Multipart-HTTP-Messages-47329" class="noirorange"><b>libsoup</b>: out-of-bounds memory reading via Multipart HTTP Messages</a>](https://vigilance.fr/vulnerability/libsoup-out-of-bounds-memory-reading-via-Multipart-HTTP-Messages-47329)|An attacker can force a read at an invalid memory address of libsoup, via Multipart HTTP Messages, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-open-redirect-dated-18-07-2025-47751" class="noirorange"><b>Grafana</b>: open redirect dated 18/07/2025</a>](https://vigilance.fr/vulnerability/Grafana-open-redirect-dated-18-07-2025-47751)|An attacker can deceive the user of Grafana, dated 18/07/2025, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/7-Zip-buffer-overflow-via-RAR5-47748" class="noirorange"><b>7-Zip</b>: buffer overflow via RAR5</a>](https://vigilance.fr/vulnerability/7-Zip-buffer-overflow-via-RAR5-47748)|An attacker can trigger a buffer overflow of 7-Zip, via RAR5, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-libavformat-westwood-vqa-c-47743" class="noirorange"><b>FFmpeg</b>: integer overflow via libavformat/<wbr>westwood_vqa.c</wbr></a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-libavformat-westwood-vqa-c-47743)|An attacker can trigger an integer overflow of FFmpeg, via libavformat/|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/sequoia-pgp-overload-via-archive-zip-47741" class="noirorange"><b>sequoia-pgp</b>: overload via archive zip</a>](https://vigilance.fr/vulnerability/sequoia-pgp-overload-via-archive-zip-47741)|An attacker can trigger an overload of sequoia-pgp, via a zip archive, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DameWare-Remote-Support-vulnerability-dated-02-06-2025-47327" class="noirorange"><b>DameWare Remote Support</b>: vulnerability dated 02/06/2025</a>](https://vigilance.fr/vulnerability/DameWare-Remote-Support-vulnerability-dated-02-06-2025-47327)|A vulnerability of DameWare Remote Support, dated 02/06/2025, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flask-CORS-ingress-filtrering-bypass-via-Case-Insensitive-47322" class="noirorange"><b>Flask-CORS</b>: ingress filtrering bypass via Case Insensitive</a>](https://vigilance.fr/vulnerability/Flask-CORS-ingress-filtrering-bypass-via-Case-Insensitive-47322)|An attacker can bypass filtering rules of Flask-CORS, via Case Insensitive, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TCPDF-read-write-access-via-HTML-Syntax-47323" class="noirorange"><b>TCPDF</b>: read-write access via HTML Syntax</a>](https://vigilance.fr/vulnerability/TCPDF-read-write-access-via-HTML-Syntax-47323)|An attacker can bypass access restrictions of TCPDF, via HTML Syntax, in order to read or alter data...|Visit link for details|
  
  ---
 
