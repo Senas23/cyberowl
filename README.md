@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/08/2025 09:34:58 UTC
+ > Last Updated 05/08/2025 21:27:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-05-11-2024-45534" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities dated 05/11/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-05-11-2024-45534)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 05/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-Parse-pre-45533" class="noirorange"><b>HTMLDOC</b>: buffer overflow via Parse_pre</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-Parse-pre-45533)|An attacker can trigger a buffer overflow of HTMLDOC, via Parse_pre, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-File-Find-Rule-code-execution-via-Grep-47356" class="noirorange"><b>Perl File-Find-Rule</b>: code execution via Grep</a>](https://vigilance.fr/vulnerability/Perl-File-Find-Rule-code-execution-via-Grep-47356)|An attacker can use a vulnerability of Perl File::Find::Rule, via Grep, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mpg123-buffer-overflow-via-PCM-Decoding-45532" class="noirorange"><b>mpg123</b>: buffer overflow via PCM Decoding</a>](https://vigilance.fr/vulnerability/mpg123-buffer-overflow-via-PCM-Decoding-45532)|An attacker can trigger a buffer overflow of mpg123, via PCM Decoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-BeanUtils-code-execution-via-Property-Paths-DeclaredClass-47355" class="noirorange"><b>Apache Commons BeanUtils</b>: code execution via Property Paths DeclaredClass</a>](https://vigilance.fr/vulnerability/Apache-Commons-BeanUtils-code-execution-via-Property-Paths-DeclaredClass-47355)|An attacker can use a vulnerability of Apache Commons BeanUtils, via Property Paths DeclaredClass, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cryptopp-code-execution-via-SymmetricDecrypt-47354" class="noirorange"><b>Cryptopp</b>: code execution via SymmetricDecrypt()</a>](https://vigilance.fr/vulnerability/Cryptopp-code-execution-via-SymmetricDecrypt-47354)|An attacker can use a vulnerability of Cryptopp, via SymmetricDecrypt(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-ping-back-47758" class="noirorange"><b>WordPress Core</b>: information disclosure via ping back</a>](https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-ping-back-47758)|An attacker can bypass access restrictions to data of WordPress Core, via ping back, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Django-ingress-filtrering-bypass-via-Internal-HTTP-Response-Logging-47353" class="noirorange"><b>Django</b>: ingress filtrering bypass via Internal HTTP Response Logging</a>](https://vigilance.fr/vulnerability/Django-ingress-filtrering-bypass-via-Internal-HTTP-Response-Logging-47353)|An attacker can bypass filtering rules of Django, via Internal HTTP Response Logging, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Column-Utility-Module-47352" class="noirorange"><b>Wireshark</b>: denial of service via Column Utility Module</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Column-Utility-Module-47352)|An attacker can cause a fatal error of Wireshark, via Column Utility Module, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Replication-Service-45527" class="noirorange"><b>Synology DSM</b>: code execution via Replication Service</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Replication-Service-45527)|An attacker can use a vulnerability of Synology DSM, via Replication Service, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Synology-Drive-Server-45526" class="noirorange"><b>Synology DSM</b>: multiple vulnerabilities via Synology Drive Server</a>](https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Synology-Drive-Server-45526)|An attacker can use several vulnerabilities of Synology DSM, via Synology Drive Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-four-vulnerabilities-dated-05-11-2024-45525" class="noirorange"><b>Synology DSM</b>: four vulnerabilities dated 05/11/2024</a>](https://vigilance.fr/vulnerability/Synology-DSM-four-vulnerabilities-dated-05-11-2024-45525)|An attacker can use several vulnerabilities of Synology DSM, dated 05/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2024-45522" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of November 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2024-45522)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-CCX-code-execution-via-Java-Objects-Deserialization-47351" class="noirorange"><b>Cisco Unified CCX</b>: code execution via Java Objects Deserialization</a>](https://vigilance.fr/vulnerability/Cisco-Unified-CCX-code-execution-via-Java-Objects-Deserialization-47351)|An attacker can use a vulnerability of Cisco Unified CCX, via Java Objects Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-CCX-three-vulnerabilities-dated-04-06-2025-47350" class="noirorange"><b>Cisco Unified CCX</b>: three vulnerabilities dated 04/06/2025</a>](https://vigilance.fr/vulnerability/Cisco-Unified-CCX-three-vulnerabilities-dated-04-06-2025-47350)|An attacker can use several vulnerabilities of Cisco Unified CCX, dated 04/06/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-CM-Unified-CCX-privilege-escalation-via-Command-Injection-47349" class="noirorange"><b>Cisco Unified CM  Unified CCX</b>: privilege escalation via Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-Unified-CM-Unified-CCX-privilege-escalation-via-Command-Injection-47349)|An attacker can bypass restrictions of Cisco Unified CM  Unified CCX, via Command Injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gnuplot-six-vulnerabilities-dated-04-06-2025-47348" class="noirorange"><b>Gnuplot</b>: six vulnerabilities dated 04/06/2025</a>](https://vigilance.fr/vulnerability/Gnuplot-six-vulnerabilities-dated-04-06-2025-47348)|An attacker can use several vulnerabilities of Gnuplot, dated 04/06/2025...|Visit link for details|
  
  ---
 
@@ -54,17 +54,13 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0655/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 05 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0654/)|De multiples vulnérabilités ont été découvertes dans les produits Netgate. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 05 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.|Publié le 05 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0652/)|Une vulnérabilité a été découverte dans dans le greffon "WASM Client" pour Traefik. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 04 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 01 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 01 août 2025|
@@ -72,7 +68,11 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 01 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0647/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 01 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0646/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 01 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0645/)|De multiples vulnérabilités ont été découvertes dans Asterisk. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 01 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0644/)|Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 01 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0643/)|Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 31 juillet 2025|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
