@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/08/2025 21:28:04 UTC
+ > Last Updated 05/08/2025 09:34:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Django-ingress-filtrering-bypass-via-Internal-HTTP-Response-Logging-47353" class="noirorange"><b>Django</b>: ingress filtrering bypass via Internal HTTP Response Logging</a>](https://vigilance.fr/vulnerability/Django-ingress-filtrering-bypass-via-Internal-HTTP-Response-Logging-47353)|An attacker can bypass filtering rules of Django, via Internal HTTP Response Logging, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Column-Utility-Module-47352" class="noirorange"><b>Wireshark</b>: denial of service via Column Utility Module</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Column-Utility-Module-47352)|An attacker can cause a fatal error of Wireshark, via Column Utility Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Replication-Service-45527" class="noirorange"><b>Synology DSM</b>: code execution via Replication Service</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Replication-Service-45527)|An attacker can use a vulnerability of Synology DSM, via Replication Service, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Synology-Drive-Server-45526" class="noirorange"><b>Synology DSM</b>: multiple vulnerabilities via Synology Drive Server</a>](https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-via-Synology-Drive-Server-45526)|An attacker can use several vulnerabilities of Synology DSM, via Synology Drive Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-four-vulnerabilities-dated-05-11-2024-45525" class="noirorange"><b>Synology DSM</b>: four vulnerabilities dated 05/11/2024</a>](https://vigilance.fr/vulnerability/Synology-DSM-four-vulnerabilities-dated-05-11-2024-45525)|An attacker can use several vulnerabilities of Synology DSM, dated 05/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2024-45522" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of November 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2024-45522)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-CCX-code-execution-via-Java-Objects-Deserialization-47351" class="noirorange"><b>Cisco Unified CCX</b>: code execution via Java Objects Deserialization</a>](https://vigilance.fr/vulnerability/Cisco-Unified-CCX-code-execution-via-Java-Objects-Deserialization-47351)|An attacker can use a vulnerability of Cisco Unified CCX, via Java Objects Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-CCX-three-vulnerabilities-dated-04-06-2025-47350" class="noirorange"><b>Cisco Unified CCX</b>: three vulnerabilities dated 04/06/2025</a>](https://vigilance.fr/vulnerability/Cisco-Unified-CCX-three-vulnerabilities-dated-04-06-2025-47350)|An attacker can use several vulnerabilities of Cisco Unified CCX, dated 04/06/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-CM-Unified-CCX-privilege-escalation-via-Command-Injection-47349" class="noirorange"><b>Cisco Unified CM  Unified CCX</b>: privilege escalation via Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-Unified-CM-Unified-CCX-privilege-escalation-via-Command-Injection-47349)|An attacker can bypass restrictions of Cisco Unified CM  Unified CCX, via Command Injection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gnuplot-six-vulnerabilities-dated-04-06-2025-47348" class="noirorange"><b>Gnuplot</b>: six vulnerabilities dated 04/06/2025</a>](https://vigilance.fr/vulnerability/Gnuplot-six-vulnerabilities-dated-04-06-2025-47348)|An attacker can use several vulnerabilities of Gnuplot, dated 04/06/2025...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -37,20 +54,10 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2024-45522" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of November 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2024-45522)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-CCX-code-execution-via-Java-Objects-Deserialization-47351" class="noirorange"><b>Cisco Unified CCX</b>: code execution via Java Objects Deserialization</a>](https://vigilance.fr/vulnerability/Cisco-Unified-CCX-code-execution-via-Java-Objects-Deserialization-47351)|An attacker can use a vulnerability of Cisco Unified CCX, via Java Objects Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-CCX-three-vulnerabilities-dated-04-06-2025-47350" class="noirorange"><b>Cisco Unified CCX</b>: three vulnerabilities dated 04/06/2025</a>](https://vigilance.fr/vulnerability/Cisco-Unified-CCX-three-vulnerabilities-dated-04-06-2025-47350)|An attacker can use several vulnerabilities of Cisco Unified CCX, dated 04/06/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-CM-Unified-CCX-privilege-escalation-via-Command-Injection-47349" class="noirorange"><b>Cisco Unified CM  Unified CCX</b>: privilege escalation via Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-Unified-CM-Unified-CCX-privilege-escalation-via-Command-Injection-47349)|An attacker can bypass restrictions of Cisco Unified CM  Unified CCX, via Command Injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gnuplot-six-vulnerabilities-dated-04-06-2025-47348" class="noirorange"><b>Gnuplot</b>: six vulnerabilities dated 04/06/2025</a>](https://vigilance.fr/vulnerability/Gnuplot-six-vulnerabilities-dated-04-06-2025-47348)|An attacker can use several vulnerabilities of Gnuplot, dated 04/06/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gnuplot-memory-corruption-via-IO-str-init-static-internal-47347" class="noirorange"><b>Gnuplot</b>: memory corruption via IO_str_init_static_<wbr>internal()</wbr></a>](https://vigilance.fr/vulnerability/Gnuplot-memory-corruption-via-IO-str-init-static-internal-47347)|An attacker can trigger a memory corruption of Gnuplot, via IO_str_init_static_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Host-Listing-47346" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting via Host Listing</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Host-Listing-47346)|An attacker can trigger a Cross Site Scripting of Centreon Web, via Host Listing, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-ICO-File-Parsing-47345" class="noirorange"><b>GIMP</b>: integer overflow via ICO File Parsing</a>](https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-ICO-File-Parsing-47345)|An attacker can trigger an integer overflow of GIMP, via ICO File Parsing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libmodsecurity-ingress-filtrering-bypass-via-Leading-Zeroes-HTML-Entities-47344" class="noirorange"><b>Libmodsecurity</b>: ingress filtrering bypass via Leading Zeroes HTML Entities</a>](https://vigilance.fr/vulnerability/Libmodsecurity-ingress-filtrering-bypass-via-Leading-Zeroes-HTML-Entities-47344)|An attacker can bypass filtering rules of Libmodsecurity, via Leading Zeroes HTML Entities, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/lua-http-overload-dated-04-06-2025-47343" class="noirorange"><b>lua-http</b>: overload dated 04/06/2025</a>](https://vigilance.fr/vulnerability/lua-http-overload-dated-04-06-2025-47343)|An attacker can trigger an overload of lua-http, dated 04/06/2025, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -68,11 +75,4 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0645/)|De multiples vulnérabilités ont été découvertes dans Asterisk. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 01 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0644/)|Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 01 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0643/)|Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 31 juillet 2025|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
