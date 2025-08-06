@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/08/2025 21:27:44 UTC
+ > Last Updated 06/08/2025 09:35:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,30 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-05-11-2024-45534" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities dated 05/11/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-05-11-2024-45534)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 05/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-Parse-pre-45533" class="noirorange"><b>HTMLDOC</b>: buffer overflow via Parse_pre</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-Parse-pre-45533)|An attacker can trigger a buffer overflow of HTMLDOC, via Parse_pre, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-File-Find-Rule-code-execution-via-Grep-47356" class="noirorange"><b>Perl File-Find-Rule</b>: code execution via Grep</a>](https://vigilance.fr/vulnerability/Perl-File-Find-Rule-code-execution-via-Grep-47356)|An attacker can use a vulnerability of Perl File::Find::Rule, via Grep, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mpg123-buffer-overflow-via-PCM-Decoding-45532" class="noirorange"><b>mpg123</b>: buffer overflow via PCM Decoding</a>](https://vigilance.fr/vulnerability/mpg123-buffer-overflow-via-PCM-Decoding-45532)|An attacker can trigger a buffer overflow of mpg123, via PCM Decoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-BeanUtils-code-execution-via-Property-Paths-DeclaredClass-47355" class="noirorange"><b>Apache Commons BeanUtils</b>: code execution via Property Paths DeclaredClass</a>](https://vigilance.fr/vulnerability/Apache-Commons-BeanUtils-code-execution-via-Property-Paths-DeclaredClass-47355)|An attacker can use a vulnerability of Apache Commons BeanUtils, via Property Paths DeclaredClass, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cryptopp-code-execution-via-SymmetricDecrypt-47354" class="noirorange"><b>Cryptopp</b>: code execution via SymmetricDecrypt()</a>](https://vigilance.fr/vulnerability/Cryptopp-code-execution-via-SymmetricDecrypt-47354)|An attacker can use a vulnerability of Cryptopp, via SymmetricDecrypt(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-ping-back-47758" class="noirorange"><b>WordPress Core</b>: information disclosure via ping back</a>](https://vigilance.fr/vulnerability/WordPress-Core-information-disclosure-via-ping-back-47758)|An attacker can bypass access restrictions to data of WordPress Core, via ping back, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-ingress-filtrering-bypass-via-Internal-HTTP-Response-Logging-47353" class="noirorange"><b>Django</b>: ingress filtrering bypass via Internal HTTP Response Logging</a>](https://vigilance.fr/vulnerability/Django-ingress-filtrering-bypass-via-Internal-HTTP-Response-Logging-47353)|An attacker can bypass filtering rules of Django, via Internal HTTP Response Logging, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Column-Utility-Module-47352" class="noirorange"><b>Wireshark</b>: denial of service via Column Utility Module</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Column-Utility-Module-47352)|An attacker can cause a fatal error of Wireshark, via Column Utility Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Replication-Service-45527" class="noirorange"><b>Synology DSM</b>: code execution via Replication Service</a>](https://vigilance.fr/vulnerability/Synology-DSM-code-execution-via-Replication-Service-45527)|An attacker can use a vulnerability of Synology DSM, via Replication Service, in order to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +44,30 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0648/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 01 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0647/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 01 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0646/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 01 août 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Erlang-OTP-SSH-message-insertion-47768" class="noirorange"><b>Erlang/OTP SSH</b>: message insertion</a>](https://vigilance.fr/vulnerability/Erlang-OTP-SSH-message-insertion-47768)|An attacker can insert messages during the key exchange protocol in Erlang/OTP SSH...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fedora-dpkg-disk-space-leak-dated-22-07-2025-47765" class="noirorange"><b>Fedora dpkg</b>: disk space leak dated 22/07/2025</a>](https://vigilance.fr/vulnerability/Fedora-dpkg-disk-space-leak-dated-22-07-2025-47765)|An attacker can cause Fedora dpkg to leak disk space, in order to carry out a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-AOS-six-vulnerabilities-dated-06-11-2024-45539" class="noirorange"><b>HPE Aruba AOS</b>: six vulnerabilities dated 06/11/2024</a>](https://vigilance.fr/vulnerability/HPE-Aruba-AOS-six-vulnerabilities-dated-06-11-2024-45539)|An attacker can use several vulnerabilities of HPE Aruba AOS, dated 06/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TianoCore-EDK-II-denial-of-service-via-Empty-Platform-Authorization-Value-47357" class="noirorange"><b>TianoCore EDK II</b>: denial of service via Empty Platform Authorization Value</a>](https://vigilance.fr/vulnerability/TianoCore-EDK-II-denial-of-service-via-Empty-Platform-Authorization-Value-47357)|An attacker can cause a fatal error of TianoCore EDK II, via Empty Platform Authorization Value, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-05-11-2024-45534" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities dated 05/11/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-05-11-2024-45534)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 05/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-Parse-pre-45533" class="noirorange"><b>HTMLDOC</b>: buffer overflow via Parse_pre</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-Parse-pre-45533)|An attacker can trigger a buffer overflow of HTMLDOC, via Parse_pre, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-File-Find-Rule-code-execution-via-Grep-47356" class="noirorange"><b>Perl File-Find-Rule</b>: code execution via Grep</a>](https://vigilance.fr/vulnerability/Perl-File-Find-Rule-code-execution-via-Grep-47356)|An attacker can use a vulnerability of Perl File::Find::Rule, via Grep, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mpg123-buffer-overflow-via-PCM-Decoding-45532" class="noirorange"><b>mpg123</b>: buffer overflow via PCM Decoding</a>](https://vigilance.fr/vulnerability/mpg123-buffer-overflow-via-PCM-Decoding-45532)|An attacker can trigger a buffer overflow of mpg123, via PCM Decoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-BeanUtils-code-execution-via-Property-Paths-DeclaredClass-47355" class="noirorange"><b>Apache Commons BeanUtils</b>: code execution via Property Paths DeclaredClass</a>](https://vigilance.fr/vulnerability/Apache-Commons-BeanUtils-code-execution-via-Property-Paths-DeclaredClass-47355)|An attacker can use a vulnerability of Apache Commons BeanUtils, via Property Paths DeclaredClass, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cryptopp-code-execution-via-SymmetricDecrypt-47354" class="noirorange"><b>Cryptopp</b>: code execution via SymmetricDecrypt()</a>](https://vigilance.fr/vulnerability/Cryptopp-code-execution-via-SymmetricDecrypt-47354)|An attacker can use a vulnerability of Cryptopp, via SymmetricDecrypt(), in order to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
