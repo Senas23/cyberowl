@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/08/2025 21:25:26 UTC
+ > Last Updated 07/08/2025 09:34:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libinput-information-disclosure-via-system-log-47783" class="noirorange"><b>libinput</b>: information disclosure via system log</a>](https://vigilance.fr/vulnerability/libinput-information-disclosure-via-system-log-47783)|An attacker can bypass access restrictions to data of libinput, via system log, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-posix-cpu-timers-47782" class="noirorange"><b>Linux kernel</b>: memory corruption via posix-cpu-timers</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-posix-cpu-timers-47782)|An attacker can trigger a memory corruption of the Linux kernel, via posix-cpu-timers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Yasm-NULL-pointer-dereference-dated-23-07-2025-47781" class="noirorange"><b>Yasm</b>: NULL pointer dereference dated 23/07/2025</a>](https://vigilance.fr/vulnerability/Yasm-NULL-pointer-dereference-dated-23-07-2025-47781)|An attacker can force a NULL pointer to be dereferenced on Yasm, dated 23/07/2025, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Gatling-Plugin-Cross-Site-Scripting-via-Report-Content-47358" class="noirorange"><b>Jenkins Gatling Plugin</b>: Cross Site Scripting via Report Content</a>](https://vigilance.fr/vulnerability/Jenkins-Gatling-Plugin-Cross-Site-Scripting-via-Report-Content-47358)|An attacker can trigger a Cross Site Scripting of Jenkins Gatling Plugin, via Report Content, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Erlang-OTP-SSH-message-insertion-47768" class="noirorange"><b>Erlang/OTP SSH</b>: message insertion</a>](https://vigilance.fr/vulnerability/Erlang-OTP-SSH-message-insertion-47768)|An attacker can insert messages during the key exchange protocol in Erlang/OTP SSH...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fedora-dpkg-disk-space-leak-dated-22-07-2025-47765" class="noirorange"><b>Fedora dpkg</b>: disk space leak dated 22/07/2025</a>](https://vigilance.fr/vulnerability/Fedora-dpkg-disk-space-leak-dated-22-07-2025-47765)|An attacker can cause Fedora dpkg to leak disk space, in order to carry out a denial of service...|Visit link for details|
@@ -41,9 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/TianoCore-EDK-II-denial-of-service-via-Empty-Platform-Authorization-Value-47357" class="noirorange"><b>TianoCore EDK II</b>: denial of service via Empty Platform Authorization Value</a>](https://vigilance.fr/vulnerability/TianoCore-EDK-II-denial-of-service-via-Empty-Platform-Authorization-Value-47357)|An attacker can cause a fatal error of TianoCore EDK II, via Empty Platform Authorization Value, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-05-11-2024-45534" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities dated 05/11/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-05-11-2024-45534)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 05/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-Parse-pre-45533" class="noirorange"><b>HTMLDOC</b>: buffer overflow via Parse_pre</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-Parse-pre-45533)|An attacker can trigger a buffer overflow of HTMLDOC, via Parse_pre, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-File-Find-Rule-code-execution-via-Grep-47356" class="noirorange"><b>Perl File-Find-Rule</b>: code execution via Grep</a>](https://vigilance.fr/vulnerability/Perl-File-Find-Rule-code-execution-via-Grep-47356)|An attacker can use a vulnerability of Perl File::Find::Rule, via Grep, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mpg123-buffer-overflow-via-PCM-Decoding-45532" class="noirorange"><b>mpg123</b>: buffer overflow via PCM Decoding</a>](https://vigilance.fr/vulnerability/mpg123-buffer-overflow-via-PCM-Decoding-45532)|An attacker can trigger a buffer overflow of mpg123, via PCM Decoding, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-BeanUtils-code-execution-via-Property-Paths-DeclaredClass-47355" class="noirorange"><b>Apache Commons BeanUtils</b>: code execution via Property Paths DeclaredClass</a>](https://vigilance.fr/vulnerability/Apache-Commons-BeanUtils-code-execution-via-Property-Paths-DeclaredClass-47355)|An attacker can use a vulnerability of Apache Commons BeanUtils, via Property Paths DeclaredClass, in order to run code...|Visit link for details|
  
  ---
 
