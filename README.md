@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/08/2025 09:34:20 UTC
+ > Last Updated 07/08/2025 21:26:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ghostscript-four-vulnerabilities-dated-07-11-2024-45560" class="noirorange"><b>Ghostscript</b>: four vulnerabilities dated 07/11/2024</a>](https://vigilance.fr/vulnerability/Ghostscript-four-vulnerabilities-dated-07-11-2024-45560)|An attacker can use several vulnerabilities of Ghostscript, dated 07/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libinput-information-disclosure-via-system-log-47783" class="noirorange"><b>libinput</b>: information disclosure via system log</a>](https://vigilance.fr/vulnerability/libinput-information-disclosure-via-system-log-47783)|An attacker can bypass access restrictions to data of libinput, via system log, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-posix-cpu-timers-47782" class="noirorange"><b>Linux kernel</b>: memory corruption via posix-cpu-timers</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-posix-cpu-timers-47782)|An attacker can trigger a memory corruption of the Linux kernel, via posix-cpu-timers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Yasm-NULL-pointer-dereference-dated-23-07-2025-47781" class="noirorange"><b>Yasm</b>: NULL pointer dereference dated 23/07/2025</a>](https://vigilance.fr/vulnerability/Yasm-NULL-pointer-dereference-dated-23-07-2025-47781)|An attacker can force a NULL pointer to be dereferenced on Yasm, dated 23/07/2025, in order to trigger a denial of service...|Visit link for details|
@@ -43,7 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/HPE-Aruba-AOS-six-vulnerabilities-dated-06-11-2024-45539" class="noirorange"><b>HPE Aruba AOS</b>: six vulnerabilities dated 06/11/2024</a>](https://vigilance.fr/vulnerability/HPE-Aruba-AOS-six-vulnerabilities-dated-06-11-2024-45539)|An attacker can use several vulnerabilities of HPE Aruba AOS, dated 06/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TianoCore-EDK-II-denial-of-service-via-Empty-Platform-Authorization-Value-47357" class="noirorange"><b>TianoCore EDK II</b>: denial of service via Empty Platform Authorization Value</a>](https://vigilance.fr/vulnerability/TianoCore-EDK-II-denial-of-service-via-Empty-Platform-Authorization-Value-47357)|An attacker can cause a fatal error of TianoCore EDK II, via Empty Platform Authorization Value, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-05-11-2024-45534" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities dated 05/11/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-05-11-2024-45534)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 05/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-Parse-pre-45533" class="noirorange"><b>HTMLDOC</b>: buffer overflow via Parse_pre</a>](https://vigilance.fr/vulnerability/HTMLDOC-buffer-overflow-via-Parse-pre-45533)|An attacker can trigger a buffer overflow of HTMLDOC, via Parse_pre, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -51,16 +51,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0662/)|De multiples vulnérabilités ont été découvertes dans les produits Centreon. Certaines d'entre elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 07 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0661/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 07 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0660/)|Une vulnérabilité a été découverte dans Tenable Identity Exposure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 07 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0659/)|Une vulnérabilité a été découverte dans Microsoft Exchange Server. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 07 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0658/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 06 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0657/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 06 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0656/)|Une vulnérabilité a été découverte dans Google Pixel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 06 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0655/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 05 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0654/)|De multiples vulnérabilités ont été découvertes dans les produits Netgate. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 05 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.|Publié le 05 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0652/)|Une vulnérabilité a été découverte dans dans le greffon "WASM Client" pour Traefik. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 04 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0651/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 01 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0650/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 01 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0649/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 01 août 2025|
  
  ---
 
