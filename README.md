@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/08/2025 09:34:19 UTC
+ > Last Updated 08/08/2025 21:25:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0671/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 08 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0670/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 08 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0669/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 08 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0668/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 08 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0667/)|De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 08 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0666/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 08 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0665/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 08 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0664/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 08 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0663/)|De multiples vulnérabilités ont été découvertes dans GnuTLS. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 08 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0662/)|De multiples vulnérabilités ont été découvertes dans les produits Centreon. Certaines d'entre elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 07 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0661/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 07 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0660/)|Une vulnérabilité a été découverte dans Tenable Identity Exposure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 07 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0659/)|Une vulnérabilité a été découverte dans Microsoft Exchange Server. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 07 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0658/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 06 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0657/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 06 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0656/)|Une vulnérabilité a été découverte dans Google Pixel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 06 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0655/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 05 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0654/)|De multiples vulnérabilités ont été découvertes dans les produits Netgate. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 05 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.|Publié le 05 août 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
