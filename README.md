@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/08/2025 21:26:36 UTC
+ > Last Updated 08/08/2025 09:34:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,13 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0655/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 05 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0654/)|De multiples vulnérabilités ont été découvertes dans les produits Netgate. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 05 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0653/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.|Publié le 05 août 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
