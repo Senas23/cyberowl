@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/08/2025 09:27:14 UTC
+ > Last Updated 09/08/2025 21:24:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-SASL-JAAS-JndiLogin-Module-47368" class="noirorange"><b>Apache Kafka</b>: code execution via SASL JAAS JndiLogin Module</a>](https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-SASL-JAAS-JndiLogin-Module-47368)|An attacker can use a vulnerability of Apache Kafka, via SASL JAAS JndiLogin Module, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-SASL-JAAS-LdapLoginModule-Configuration-47367" class="noirorange"><b>Apache Kafka</b>: code execution via SASL JAAS LdapLoginModule Configuration</a>](https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-SASL-JAAS-LdapLoginModule-Configuration-47367)|An attacker can use a vulnerability of Apache Kafka, via SASL JAAS LdapLoginModule Configuration, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-Client-file-reading-via-Oauthbearer-Allowed-Urls-47366" class="noirorange"><b>Apache Kafka Client</b>: file reading via Oauthbearer Allowed Urls</a>](https://vigilance.fr/vulnerability/Apache-Kafka-Client-file-reading-via-Oauthbearer-Allowed-Urls-47366)|An attacker can read a file of Apache Kafka Client, via Oauthbearer Allowed Urls, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-two-vulnerabilities-via-PCIe-SR-IOV-47793" class="noirorange"><b>QEMU</b>: two vulnerabilities via PCIe SR-IOV</a>](https://vigilance.fr/vulnerability/QEMU-two-vulnerabilities-via-PCIe-SR-IOV-47793)|An attacker can use several vulnerabilities of QEMU, via PCIe SR-IOV...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-sslvpnd-43468" class="noirorange"><b>FortiOS</b>: buffer overflow via sslvpnd</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-sslvpnd-43468)|An attacker can trigger a buffer overflow of FortiOS, via sslvpnd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-06-2025-47360" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 09/06/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-06-2025-47360)|An attacker can use several vulnerabilities of the Linux kernel, dated 09/06/2025...|Visit link for details|
@@ -41,9 +44,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Ghostscript-four-vulnerabilities-dated-07-11-2024-45560" class="noirorange"><b>Ghostscript</b>: four vulnerabilities dated 07/11/2024</a>](https://vigilance.fr/vulnerability/Ghostscript-four-vulnerabilities-dated-07-11-2024-45560)|An attacker can use several vulnerabilities of Ghostscript, dated 07/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libinput-information-disclosure-via-system-log-47783" class="noirorange"><b>libinput</b>: information disclosure via system log</a>](https://vigilance.fr/vulnerability/libinput-information-disclosure-via-system-log-47783)|An attacker can bypass access restrictions to data of libinput, via system log, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-posix-cpu-timers-47782" class="noirorange"><b>Linux kernel</b>: memory corruption via posix-cpu-timers</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-posix-cpu-timers-47782)|An attacker can trigger a memory corruption of the Linux kernel, via posix-cpu-timers, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Yasm-NULL-pointer-dereference-dated-23-07-2025-47781" class="noirorange"><b>Yasm</b>: NULL pointer dereference dated 23/07/2025</a>](https://vigilance.fr/vulnerability/Yasm-NULL-pointer-dereference-dated-23-07-2025-47781)|An attacker can force a NULL pointer to be dereferenced on Yasm, dated 23/07/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Gatling-Plugin-Cross-Site-Scripting-via-Report-Content-47358" class="noirorange"><b>Jenkins Gatling Plugin</b>: Cross Site Scripting via Report Content</a>](https://vigilance.fr/vulnerability/Jenkins-Gatling-Plugin-Cross-Site-Scripting-via-Report-Content-47358)|An attacker can trigger a Cross Site Scripting of Jenkins Gatling Plugin, via Report Content, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Erlang-OTP-SSH-message-insertion-47768" class="noirorange"><b>Erlang/OTP SSH</b>: message insertion</a>](https://vigilance.fr/vulnerability/Erlang-OTP-SSH-message-insertion-47768)|An attacker can insert messages during the key exchange protocol in Erlang/OTP SSH...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -61,13 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0664/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 08 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0663/)|De multiples vulnérabilités ont été découvertes dans GnuTLS. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 08 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0662/)|De multiples vulnérabilités ont été découvertes dans les produits Centreon. Certaines d'entre elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 07 août 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
