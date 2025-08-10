@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/08/2025 09:27:29 UTC
+ > Last Updated 10/08/2025 21:24:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,13 +30,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -54,14 +47,31 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-FGSP-Session-Synchronization-Packets-47393" class="noirorange"><b>FortiOS</b>: user access via FGSP Session Synchronization Packets</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-FGSP-Session-Synchronization-Packets-47393)|An attacker can bypass restrictions of FortiOS, via FGSP Session Synchronization Packets, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-GUI-Websocket-Module-47390" class="noirorange"><b>FortiOS</b>: privilege escalation via GUI Websocket Module</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-GUI-Websocket-Module-47390)|An attacker can bypass restrictions of FortiOS, via GUI Websocket Module, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-automation-stitch-47389" class="noirorange"><b>FortiOS</b>: privilege escalation via automation-stitch</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-automation-stitch-47389)|An attacker can bypass restrictions of FortiOS, via automation-stitch, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-spoofing-via-Security-Fabric-Daemon-47387" class="noirorange"><b>FortiOS</b>: spoofing via Security Fabric Daemon</a>](https://vigilance.fr/vulnerability/FortiOS-spoofing-via-Security-Fabric-Daemon-47387)|An attacker can create spoofed data on FortiOS, via Security Fabric Daemon, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-Revoked-Certificate-47386" class="noirorange"><b>FortiOS</b>: user access via Revoked Certificate</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-Revoked-Certificate-47386)|An attacker can bypass restrictions of FortiOS, via Revoked Certificate, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-Man-in-the-Middle-via-Certificate-With-Host-Mismatch-47385" class="noirorange"><b>FortiClientWindows</b>: Man-in-the-Middle via Certificate With Host Mismatch</a>](https://vigilance.fr/vulnerability/FortiClientWindows-Man-in-the-Middle-via-Certificate-With-Host-Mismatch-47385)|An attacker can act as a Man-in-the-Middle on FortiClientWindows, via Certificate With Host Mismatch, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-code-execution-via-Perl-Pathname-Input-47375" class="noirorange"><b>AIX</b>: code execution via Perl Pathname Input</a>](https://vigilance.fr/vulnerability/AIX-code-execution-via-Perl-Pathname-Input-47375)|An attacker can use a vulnerability of AIX, via Perl Pathname Input, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-overload-via-Disabled-Stealth-Mode-47374" class="noirorange"><b>Stormshield Network Security</b>: overload via Disabled Stealth Mode</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-overload-via-Disabled-Stealth-Mode-47374)|An attacker can trigger an overload of Stormshield Network Security, via Disabled Stealth Mode, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-information-disclosure-via-Net-http-Sensitive-Headers-47370" class="noirorange"><b>Go</b>: information disclosure via Net/http Sensitive Headers</a>](https://vigilance.fr/vulnerability/Go-information-disclosure-via-Net-http-Sensitive-Headers-47370)|An attacker can bypass access restrictions to data of Go, via Net/http Sensitive Headers, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-SASL-JAAS-JndiLogin-Module-47368" class="noirorange"><b>Apache Kafka</b>: code execution via SASL JAAS JndiLogin Module</a>](https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-SASL-JAAS-JndiLogin-Module-47368)|An attacker can use a vulnerability of Apache Kafka, via SASL JAAS JndiLogin Module, in order to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
