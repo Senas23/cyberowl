@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/08/2025 21:24:33 UTC
+ > Last Updated 11/08/2025 09:33:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/YAML-LibYAML-file-write-via-2-args-Open-47408" class="noirorange"><b>YAML-LibYAML</b>: file write via 2-args Open</a>](https://vigilance.fr/vulnerability/YAML-LibYAML-file-write-via-2-args-Open-47408)|An attacker can bypass access restrictions of YAML-LibYAML, via 2-args Open, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-denial-of-service-via-Remote-Supportsave-Control-C-47406" class="noirorange"><b>Brocade Fabric OS</b>: denial of service via Remote Supportsave Control C</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-denial-of-service-via-Remote-Supportsave-Control-C-47406)|An attacker can cause a fatal error of Brocade Fabric OS, via Remote Supportsave Control C, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Trend-Micro-Apex-One-four-vulnerabilities-dated-11-06-2025-47403" class="noirorange"><b>Trend Micro Apex One</b>: four vulnerabilities dated 11/06/2025</a>](https://vigilance.fr/vulnerability/Trend-Micro-Apex-One-four-vulnerabilities-dated-11-06-2025-47403)|An attacker can use several vulnerabilities of Trend Micro Apex One, dated 11/06/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QImage-denial-of-service-via-ICNS-Format-Image-47401" class="noirorange"><b>QImage</b>: denial of service via ICNS Format Image</a>](https://vigilance.fr/vulnerability/QImage-denial-of-service-via-ICNS-Format-Image-47401)|An attacker can cause a fatal error of QImage, via ICNS Format Image, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QtCore-write-access-via-qDecodeDataUrl-47400" class="noirorange"><b>QtCore</b>: write access via qDecodeDataUrl()</a>](https://vigilance.fr/vulnerability/QtCore-write-access-via-qDecodeDataUrl-47400)|An attacker can bypass access restrictions of QtCore, via qDecodeDataUrl(), in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NATS-nats-server-denial-of-service-via-JetStream-API-Requests-47398" class="noirorange"><b>NATS nats-server</b>: denial of service via JetStream API Requests</a>](https://vigilance.fr/vulnerability/NATS-nats-server-denial-of-service-via-JetStream-API-Requests-47398)|An attacker can cause a fatal error of NATS nats-server, via JetStream API Requests, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenDMARC-NULL-pointer-dereference-via-opendmarc-policy-c-45571" class="noirorange"><b>OpenDMARC</b>: NULL pointer dereference via opendmarc_policy.c</a>](https://vigilance.fr/vulnerability/OpenDMARC-NULL-pointer-dereference-via-opendmarc-policy-c-45571)|An attacker can force a NULL pointer to be dereferenced on OpenDMARC, via opendmarc_policy.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NATS-nats-server-user-access-via-G-User-Authorization-Block-47397" class="noirorange"><b>NATS nats-server</b>: user access via G User Authorization Block</a>](https://vigilance.fr/vulnerability/NATS-nats-server-user-access-via-G-User-Authorization-Block-47397)|An attacker can bypass restrictions of NATS nats-server, via G User Authorization Block, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-FGSP-Session-Synchronization-Packets-47393" class="noirorange"><b>FortiOS</b>: user access via FGSP Session Synchronization Packets</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-FGSP-Session-Synchronization-Packets-47393)|An attacker can bypass restrictions of FortiOS, via FGSP Session Synchronization Packets, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-GUI-Websocket-Module-47390" class="noirorange"><b>FortiOS</b>: privilege escalation via GUI Websocket Module</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-GUI-Websocket-Module-47390)|An attacker can bypass restrictions of FortiOS, via GUI Websocket Module, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,23 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0664/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 08 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0663/)|De multiples vulnérabilités ont été découvertes dans GnuTLS. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 08 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0662/)|De multiples vulnérabilités ont été découvertes dans les produits Centreon. Certaines d'entre elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 07 août 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-FGSP-Session-Synchronization-Packets-47393" class="noirorange"><b>FortiOS</b>: user access via FGSP Session Synchronization Packets</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-FGSP-Session-Synchronization-Packets-47393)|An attacker can bypass restrictions of FortiOS, via FGSP Session Synchronization Packets, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-GUI-Websocket-Module-47390" class="noirorange"><b>FortiOS</b>: privilege escalation via GUI Websocket Module</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-GUI-Websocket-Module-47390)|An attacker can bypass restrictions of FortiOS, via GUI Websocket Module, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-automation-stitch-47389" class="noirorange"><b>FortiOS</b>: privilege escalation via automation-stitch</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-automation-stitch-47389)|An attacker can bypass restrictions of FortiOS, via automation-stitch, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-spoofing-via-Security-Fabric-Daemon-47387" class="noirorange"><b>FortiOS</b>: spoofing via Security Fabric Daemon</a>](https://vigilance.fr/vulnerability/FortiOS-spoofing-via-Security-Fabric-Daemon-47387)|An attacker can create spoofed data on FortiOS, via Security Fabric Daemon, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-Revoked-Certificate-47386" class="noirorange"><b>FortiOS</b>: user access via Revoked Certificate</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-Revoked-Certificate-47386)|An attacker can bypass restrictions of FortiOS, via Revoked Certificate, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-Man-in-the-Middle-via-Certificate-With-Host-Mismatch-47385" class="noirorange"><b>FortiClientWindows</b>: Man-in-the-Middle via Certificate With Host Mismatch</a>](https://vigilance.fr/vulnerability/FortiClientWindows-Man-in-the-Middle-via-Certificate-With-Host-Mismatch-47385)|An attacker can act as a Man-in-the-Middle on FortiClientWindows, via Certificate With Host Mismatch, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-code-execution-via-Perl-Pathname-Input-47375" class="noirorange"><b>AIX</b>: code execution via Perl Pathname Input</a>](https://vigilance.fr/vulnerability/AIX-code-execution-via-Perl-Pathname-Input-47375)|An attacker can use a vulnerability of AIX, via Perl Pathname Input, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-overload-via-Disabled-Stealth-Mode-47374" class="noirorange"><b>Stormshield Network Security</b>: overload via Disabled Stealth Mode</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-overload-via-Disabled-Stealth-Mode-47374)|An attacker can trigger an overload of Stormshield Network Security, via Disabled Stealth Mode, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-information-disclosure-via-Net-http-Sensitive-Headers-47370" class="noirorange"><b>Go</b>: information disclosure via Net/http Sensitive Headers</a>](https://vigilance.fr/vulnerability/Go-information-disclosure-via-Net-http-Sensitive-Headers-47370)|An attacker can bypass access restrictions to data of Go, via Net/http Sensitive Headers, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-SASL-JAAS-JndiLogin-Module-47368" class="noirorange"><b>Apache Kafka</b>: code execution via SASL JAAS JndiLogin Module</a>](https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-SASL-JAAS-JndiLogin-Module-47368)|An attacker can use a vulnerability of Apache Kafka, via SASL JAAS JndiLogin Module, in order to run code...|Visit link for details|
  
  ---
 
