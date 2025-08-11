@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/08/2025 09:33:32 UTC
+ > Last Updated 11/08/2025 21:23:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-Back-Office-47415" class="noirorange"><b>Ibexa DXP</b>: Cross Site Scripting via Back Office</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-Back-Office-47415)|An attacker can trigger a Cross Site Scripting of Ibexa DXP, via Back Office, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-SD-WAN-Interface-47412" class="noirorange"><b>PAN-OS</b>: information disclosure via SD-WAN Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-SD-WAN-Interface-47412)|An attacker can bypass access restrictions to data of PAN-OS, via SD-WAN Interface, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processor-read-write-access-via-Crypto-Co-Processor-47410" class="noirorange"><b>AMD Processor</b>: read-write access via Crypto Co-Processor</a>](https://vigilance.fr/vulnerability/AMD-Processor-read-write-access-via-Crypto-Co-Processor-47410)|An attacker can bypass access restrictions of AMD Processor, via Crypto Co-Processor, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-PTT-SPS-Nuvoton-NPCT7xx-out-of-bounds-memory-reading-via-Trusted-Platform-Module-47409" class="noirorange"><b>Intel PTT  SPS  Nuvoton NPCT7xx</b>: out-of-bounds memory reading via Trusted Platform Module</a>](https://vigilance.fr/vulnerability/Intel-PTT-SPS-Nuvoton-NPCT7xx-out-of-bounds-memory-reading-via-Trusted-Platform-Module-47409)|An attacker can force a read at an invalid memory address of Intel PTT  SPS  Nuvoton NPCT7xx, via Trusted Platform Module, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/YAML-LibYAML-file-write-via-2-args-Open-47408" class="noirorange"><b>YAML-LibYAML</b>: file write via 2-args Open</a>](https://vigilance.fr/vulnerability/YAML-LibYAML-file-write-via-2-args-Open-47408)|An attacker can bypass access restrictions of YAML-LibYAML, via 2-args Open, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-denial-of-service-via-Remote-Supportsave-Control-C-47406" class="noirorange"><b>Brocade Fabric OS</b>: denial of service via Remote Supportsave Control C</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-denial-of-service-via-Remote-Supportsave-Control-C-47406)|An attacker can cause a fatal error of Brocade Fabric OS, via Remote Supportsave Control C, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Trend-Micro-Apex-One-four-vulnerabilities-dated-11-06-2025-47403" class="noirorange"><b>Trend Micro Apex One</b>: four vulnerabilities dated 11/06/2025</a>](https://vigilance.fr/vulnerability/Trend-Micro-Apex-One-four-vulnerabilities-dated-11-06-2025-47403)|An attacker can use several vulnerabilities of Trend Micro Apex One, dated 11/06/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QImage-denial-of-service-via-ICNS-Format-Image-47401" class="noirorange"><b>QImage</b>: denial of service via ICNS Format Image</a>](https://vigilance.fr/vulnerability/QImage-denial-of-service-via-ICNS-Format-Image-47401)|An attacker can cause a fatal error of QImage, via ICNS Format Image, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QtCore-write-access-via-qDecodeDataUrl-47400" class="noirorange"><b>QtCore</b>: write access via qDecodeDataUrl()</a>](https://vigilance.fr/vulnerability/QtCore-write-access-via-qDecodeDataUrl-47400)|An attacker can bypass access restrictions of QtCore, via qDecodeDataUrl(), in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NATS-nats-server-denial-of-service-via-JetStream-API-Requests-47398" class="noirorange"><b>NATS nats-server</b>: denial of service via JetStream API Requests</a>](https://vigilance.fr/vulnerability/NATS-nats-server-denial-of-service-via-JetStream-API-Requests-47398)|An attacker can cause a fatal error of NATS nats-server, via JetStream API Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenDMARC-NULL-pointer-dereference-via-opendmarc-policy-c-45571" class="noirorange"><b>OpenDMARC</b>: NULL pointer dereference via opendmarc_policy.c</a>](https://vigilance.fr/vulnerability/OpenDMARC-NULL-pointer-dereference-via-opendmarc-policy-c-45571)|An attacker can force a NULL pointer to be dereferenced on OpenDMARC, via opendmarc_policy.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NATS-nats-server-user-access-via-G-User-Authorization-Block-47397" class="noirorange"><b>NATS nats-server</b>: user access via G User Authorization Block</a>](https://vigilance.fr/vulnerability/NATS-nats-server-user-access-via-G-User-Authorization-Block-47397)|An attacker can bypass restrictions of NATS nats-server, via G User Authorization Block, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-FGSP-Session-Synchronization-Packets-47393" class="noirorange"><b>FortiOS</b>: user access via FGSP Session Synchronization Packets</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-FGSP-Session-Synchronization-Packets-47393)|An attacker can bypass restrictions of FortiOS, via FGSP Session Synchronization Packets, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-GUI-Websocket-Module-47390" class="noirorange"><b>FortiOS</b>: privilege escalation via GUI Websocket Module</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-GUI-Websocket-Module-47390)|An attacker can bypass restrictions of FortiOS, via GUI Websocket Module, in order to escalate his privileges...|Visit link for details|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0672/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).|Publié le 11 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0671/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 08 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0670/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 08 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0669/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 08 août 2025|
@@ -60,7 +61,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0665/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 08 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0664/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 08 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0663/)|De multiples vulnérabilités ont été découvertes dans GnuTLS. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 08 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0662/)|De multiples vulnérabilités ont été découvertes dans les produits Centreon. Certaines d'entre elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 07 août 2025|
  
  ---
 
