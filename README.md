@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/08/2025 09:30:00 UTC
+ > Last Updated 13/08/2025 21:24:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,20 +30,37 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0690/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 13 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 13 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0688/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 13 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 13 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 13 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0685/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0684/)|De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0683/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 13 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 août 2025|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-HTMLParser-47431" class="noirorange"><b>Python Core</b>: overload via HTMLParser</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-HTMLParser-47431)|An attacker can trigger an overload of Python Core, via HTMLParser, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-Despeckle-47430" class="noirorange"><b>GIMP</b>: integer overflow via Despeckle</a>](https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-Despeckle-47430)|An attacker can trigger an integer overflow of GIMP, via Despeckle, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-February-2024-43519" class="noirorange"><b>Windows</b>: vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-February-2024-43519)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2024-43514" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2024-43514)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-xmlBuildQName-47429" class="noirorange"><b>libxml2</b>: integer overflow via xmlBuildQName()</a>](https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-xmlBuildQName-47429)|An attacker can trigger an integer overflow of libxml2, via xmlBuildQName(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-account-merging-47812" class="noirorange"><b>Keycloak</b>: user access via account merging</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-account-merging-47812)|An attacker can bypass restrictions of Keycloak, via the account merge function, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-denial-of-service-via-firewalld-47811" class="noirorange"><b>Docker Moby</b>: denial of service via firewalld</a>](https://vigilance.fr/vulnerability/Docker-Moby-denial-of-service-via-firewalld-47811)|An attacker can cause a fatal error of Docker Moby, via firewalld, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-11-2024-45633" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 13/11/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-11-2024-45633)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 13/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/openSUSE-Leap-nginx-privilege-escalation-via-logrotate-47810" class="noirorange"><b>openSUSE Leap nginx</b>: privilege escalation via logrotate</a>](https://vigilance.fr/vulnerability/openSUSE-Leap-nginx-privilege-escalation-via-logrotate-47810)|An attacker can bypass restrictions of openSUSE Leap nginx, via logrotate, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Valkey-integer-overflow-via-setDeferredReply-47424" class="noirorange"><b>Valkey</b>: integer overflow via setDeferredReply()</a>](https://vigilance.fr/vulnerability/Valkey-integer-overflow-via-setDeferredReply-47424)|An attacker can trigger an integer overflow of Valkey, via setDeferredReply(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/go-gh-code-execution-via-Local-File-Paths-Browsing-47423" class="noirorange"><b>go-gh</b>: code execution via Local File Paths Browsing</a>](https://vigilance.fr/vulnerability/go-gh-code-execution-via-Local-File-Paths-Browsing-47423)|An attacker can use a vulnerability of go-gh, via Local File Paths Browsing, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ICU-buffer-overflow-via-SRBRoot-addTag-47422" class="noirorange"><b>ICU</b>: buffer overflow via SRBRoot::addTag()</a>](https://vigilance.fr/vulnerability/ICU-buffer-overflow-via-SRBRoot-addTag-47422)|An attacker can trigger a buffer overflow of ICU, via SRBRoot::addTag(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-code-execution-dated-12-11-2024-45621" class="noirorange"><b>Microsoft Defender</b>: code execution dated 12/11/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-code-execution-dated-12-11-2024-45621)|An attacker can use a vulnerability of Microsoft Defender, dated 12/11/2024, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2024-45620" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of November 2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2024-45620)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-November-2024-45619" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of November 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-November-2024-45619)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-12-11-2024-45618" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 12/11/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-12-11-2024-45618)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 12/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-buffer-overflow-via-httpd-45612" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: buffer overflow via httpd</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-buffer-overflow-via-httpd-45612)|An attacker can trigger a buffer overflow of FortiAnalyzer  FortiManager, via httpd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-SSLVPN-Session-Hijacking-SAML-45603" class="noirorange"><b>FortiOS</b>: user access via SSLVPN Session Hijacking SAML</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-SSLVPN-Session-Hijacking-SAML-45603)|An attacker can bypass restrictions of FortiOS, via SSLVPN Session Hijacking SAML, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-DingDing-Contact-Points-47420" class="noirorange"><b>Grafana</b>: information disclosure via DingDing Contact Points</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-DingDing-Contact-Points-47420)|An attacker can bypass access restrictions to data of Grafana, via DingDing Contact Points, in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -51,23 +68,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0677/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 12 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0676/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 12 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0675/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 12 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0674/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 12 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0673/)|Une vulnérabilité a été découverte dans Centreon Gorgone. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0672/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).|Publié le 11 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0671/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 08 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0670/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 08 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0669/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 08 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0668/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 08 août 2025|
  
  ---
 
