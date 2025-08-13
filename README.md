@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/08/2025 21:25:30 UTC
+ > Last Updated 13/08/2025 09:30:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Valkey-integer-overflow-via-setDeferredReply-47424" class="noirorange"><b>Valkey</b>: integer overflow via setDeferredReply()</a>](https://vigilance.fr/vulnerability/Valkey-integer-overflow-via-setDeferredReply-47424)|An attacker can trigger an integer overflow of Valkey, via setDeferredReply(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/go-gh-code-execution-via-Local-File-Paths-Browsing-47423" class="noirorange"><b>go-gh</b>: code execution via Local File Paths Browsing</a>](https://vigilance.fr/vulnerability/go-gh-code-execution-via-Local-File-Paths-Browsing-47423)|An attacker can use a vulnerability of go-gh, via Local File Paths Browsing, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ICU-buffer-overflow-via-SRBRoot-addTag-47422" class="noirorange"><b>ICU</b>: buffer overflow via SRBRoot::addTag()</a>](https://vigilance.fr/vulnerability/ICU-buffer-overflow-via-SRBRoot-addTag-47422)|An attacker can trigger a buffer overflow of ICU, via SRBRoot::addTag(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-code-execution-dated-12-11-2024-45621" class="noirorange"><b>Microsoft Defender</b>: code execution dated 12/11/2024</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-code-execution-dated-12-11-2024-45621)|An attacker can use a vulnerability of Microsoft Defender, dated 12/11/2024, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2024-45620" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of November 2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2024-45620)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-November-2024-45619" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: vulnerabilities of November 2024</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-vulnerabilities-of-November-2024-45619)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
@@ -41,20 +44,10 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-buffer-overflow-via-httpd-45612" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: buffer overflow via httpd</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-buffer-overflow-via-httpd-45612)|An attacker can trigger a buffer overflow of FortiAnalyzer  FortiManager, via httpd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-SSLVPN-Session-Hijacking-SAML-45603" class="noirorange"><b>FortiOS</b>: user access via SSLVPN Session Hijacking SAML</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-SSLVPN-Session-Hijacking-SAML-45603)|An attacker can bypass restrictions of FortiOS, via SSLVPN Session Hijacking SAML, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-DingDing-Contact-Points-47420" class="noirorange"><b>Grafana</b>: information disclosure via DingDing Contact Points</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-DingDing-Contact-Points-47420)|An attacker can bypass access restrictions to data of Grafana, via DingDing Contact Points, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Helm-overload-via-Compressed-File-Size-47419" class="noirorange"><b>Helm</b>: overload via Compressed File Size</a>](https://vigilance.fr/vulnerability/Helm-overload-via-Compressed-File-Size-47419)|An attacker can trigger an overload of Helm, via Compressed File Size, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-multiple-vulnerabilities-dated-12-11-2024-45599" class="noirorange"><b>Ivanti Endpoint Manager</b>: multiple vulnerabilities dated 12/11/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-multiple-vulnerabilities-dated-12-11-2024-45599)|An attacker can use several vulnerabilities of Ivanti Endpoint Manager, dated 12/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-Secure-Access-Client-multiple-vulnerabilities-dated-12-11-2024-45598" class="noirorange"><b>Ivanti Connect Secure  Secure Access Client</b>: multiple vulnerabilities dated 12/11/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-Secure-Access-Client-multiple-vulnerabilities-dated-12-11-2024-45598)|An attacker can use several vulnerabilities of Ivanti Connect Secure  Secure Access Client, dated 12/11/2024...|Visit link for details|
  
  ---
 
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -75,4 +68,11 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0670/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 08 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0669/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 08 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0668/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 08 août 2025|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
