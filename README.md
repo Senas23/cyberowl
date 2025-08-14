@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/08/2025 21:24:46 UTC
+ > Last Updated 14/08/2025 09:30:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,30 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Starlette-denial-of-service-via-multi-part-47823" class="noirorange"><b>Python Starlette</b>: denial of service via multi-part</a>](https://vigilance.fr/vulnerability/Python-Starlette-denial-of-service-via-multi-part-47823)|An attacker can cause a fatal error of Python Starlette, via multi-part, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sonatype-Nexus-Repository-Manager-code-execution-via-Maven-Artifact-45651" class="noirorange"><b>Sonatype Nexus Repository Manager</b>: code execution via Maven Artifact</a>](https://vigilance.fr/vulnerability/Sonatype-Nexus-Repository-Manager-code-execution-via-Maven-Artifact-45651)|An attacker can use a vulnerability of Sonatype Nexus Repository Manager, via Maven Artifact, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-HTMLParser-47431" class="noirorange"><b>Python Core</b>: overload via HTMLParser</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-HTMLParser-47431)|An attacker can trigger an overload of Python Core, via HTMLParser, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-Despeckle-47430" class="noirorange"><b>GIMP</b>: integer overflow via Despeckle</a>](https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-Despeckle-47430)|An attacker can trigger an integer overflow of GIMP, via Despeckle, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-February-2024-43519" class="noirorange"><b>Windows</b>: vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-February-2024-43519)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2024-43514" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2024-43514)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-xmlBuildQName-47429" class="noirorange"><b>libxml2</b>: integer overflow via xmlBuildQName()</a>](https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-xmlBuildQName-47429)|An attacker can trigger an integer overflow of libxml2, via xmlBuildQName(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-account-merging-47812" class="noirorange"><b>Keycloak</b>: user access via account merging</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-account-merging-47812)|An attacker can bypass restrictions of Keycloak, via the account merge function, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-denial-of-service-via-firewalld-47811" class="noirorange"><b>Docker Moby</b>: denial of service via firewalld</a>](https://vigilance.fr/vulnerability/Docker-Moby-denial-of-service-via-firewalld-47811)|An attacker can cause a fatal error of Docker Moby, via firewalld, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-11-2024-45633" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 13/11/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-11-2024-45633)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 13/11/2024...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,30 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0683/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 13 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 août 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-HTMLParser-47431" class="noirorange"><b>Python Core</b>: overload via HTMLParser</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-HTMLParser-47431)|An attacker can trigger an overload of Python Core, via HTMLParser, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-Despeckle-47430" class="noirorange"><b>GIMP</b>: integer overflow via Despeckle</a>](https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-Despeckle-47430)|An attacker can trigger an integer overflow of GIMP, via Despeckle, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-February-2024-43519" class="noirorange"><b>Windows</b>: vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-February-2024-43519)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2024-43514" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2024-43514)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-xmlBuildQName-47429" class="noirorange"><b>libxml2</b>: integer overflow via xmlBuildQName()</a>](https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-xmlBuildQName-47429)|An attacker can trigger an integer overflow of libxml2, via xmlBuildQName(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-account-merging-47812" class="noirorange"><b>Keycloak</b>: user access via account merging</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-account-merging-47812)|An attacker can bypass restrictions of Keycloak, via the account merge function, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-denial-of-service-via-firewalld-47811" class="noirorange"><b>Docker Moby</b>: denial of service via firewalld</a>](https://vigilance.fr/vulnerability/Docker-Moby-denial-of-service-via-firewalld-47811)|An attacker can cause a fatal error of Docker Moby, via firewalld, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-11-2024-45633" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 13/11/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-11-2024-45633)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 13/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/openSUSE-Leap-nginx-privilege-escalation-via-logrotate-47810" class="noirorange"><b>openSUSE Leap nginx</b>: privilege escalation via logrotate</a>](https://vigilance.fr/vulnerability/openSUSE-Leap-nginx-privilege-escalation-via-logrotate-47810)|An attacker can bypass restrictions of openSUSE Leap nginx, via logrotate, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Valkey-integer-overflow-via-setDeferredReply-47424" class="noirorange"><b>Valkey</b>: integer overflow via setDeferredReply()</a>](https://vigilance.fr/vulnerability/Valkey-integer-overflow-via-setDeferredReply-47424)|An attacker can trigger an integer overflow of Valkey, via setDeferredReply(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
