@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/08/2025 09:30:37 UTC
+ > Last Updated 14/08/2025 21:25:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Decryption-Policy-45661" class="noirorange"><b>PAN-OS</b>: denial of service via Decryption Policy</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Decryption-Policy-45661)|An attacker can cause a fatal error of PAN-OS, via Decryption Policy, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Data-Plane-Packet-45655" class="noirorange"><b>PAN-OS</b>: denial of service via Data Plane Packet</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Data-Plane-Packet-45655)|An attacker can cause a fatal error of PAN-OS, via Data Plane Packet, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Starlette-denial-of-service-via-multi-part-47823" class="noirorange"><b>Python Starlette</b>: denial of service via multi-part</a>](https://vigilance.fr/vulnerability/Python-Starlette-denial-of-service-via-multi-part-47823)|An attacker can cause a fatal error of Python Starlette, via multi-part, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sonatype-Nexus-Repository-Manager-code-execution-via-Maven-Artifact-45651" class="noirorange"><b>Sonatype Nexus Repository Manager</b>: code execution via Maven Artifact</a>](https://vigilance.fr/vulnerability/Sonatype-Nexus-Repository-Manager-code-execution-via-Maven-Artifact-45651)|An attacker can use a vulnerability of Sonatype Nexus Repository Manager, via Maven Artifact, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-HTMLParser-47431" class="noirorange"><b>Python Core</b>: overload via HTMLParser</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-HTMLParser-47431)|An attacker can trigger an overload of Python Core, via HTMLParser, in order to trigger a denial of service...|Visit link for details|
@@ -49,8 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2024-43514" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2024-43514)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-xmlBuildQName-47429" class="noirorange"><b>libxml2</b>: integer overflow via xmlBuildQName()</a>](https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-xmlBuildQName-47429)|An attacker can trigger an integer overflow of libxml2, via xmlBuildQName(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-account-merging-47812" class="noirorange"><b>Keycloak</b>: user access via account merging</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-account-merging-47812)|An attacker can bypass restrictions of Keycloak, via the account merge function, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Moby-denial-of-service-via-firewalld-47811" class="noirorange"><b>Docker Moby</b>: denial of service via firewalld</a>](https://vigilance.fr/vulnerability/Docker-Moby-denial-of-service-via-firewalld-47811)|An attacker can cause a fatal error of Docker Moby, via firewalld, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-11-2024-45633" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 13/11/2024</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-11-2024-45633)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 13/11/2024...|Visit link for details|
  
  ---
 
@@ -58,16 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0690/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 13 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0689/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 13 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0688/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 13 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0687/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 13 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0686/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 13 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0685/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0684/)|De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0683/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0682/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 13 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0681/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 13 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0701/)|Une vulnérabilité a été découverte dans IBM WebSphere. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 14 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0700/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 14 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0699/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 14 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0698/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 14 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0697/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 14 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0696/)|Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0695/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 14 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0694/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 14 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0693/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0692/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 14 août 2025|
  
  ---
 
