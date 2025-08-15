@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/08/2025 21:25:46 UTC
+ > Last Updated 15/08/2025 09:28:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,17 +30,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-do-change-type-47830" class="noirorange"><b>Linux kernel</b>: privilege escalation via do_change_type()</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-do-change-type-47830)|An attacker, in a guest system, can bypass restrictions of the Linux kernel, via do_change_type(), in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Decryption-Policy-45661" class="noirorange"><b>PAN-OS</b>: denial of service via Decryption Policy</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Decryption-Policy-45661)|An attacker can cause a fatal error of PAN-OS, via Decryption Policy, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Data-Plane-Packet-45655" class="noirorange"><b>PAN-OS</b>: denial of service via Data Plane Packet</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Data-Plane-Packet-45655)|An attacker can cause a fatal error of PAN-OS, via Data Plane Packet, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Starlette-denial-of-service-via-multi-part-47823" class="noirorange"><b>Python Starlette</b>: denial of service via multi-part</a>](https://vigilance.fr/vulnerability/Python-Starlette-denial-of-service-via-multi-part-47823)|An attacker can cause a fatal error of Python Starlette, via multi-part, in order to trigger a denial of service...|Visit link for details|
@@ -50,7 +44,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-February-2024-43519" class="noirorange"><b>Windows</b>: vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-February-2024-43519)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2024-43514" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of February 2024</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2024-43514)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-xmlBuildQName-47429" class="noirorange"><b>libxml2</b>: integer overflow via xmlBuildQName()</a>](https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-xmlBuildQName-47429)|An attacker can trigger an integer overflow of libxml2, via xmlBuildQName(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-account-merging-47812" class="noirorange"><b>Keycloak</b>: user access via account merging</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-account-merging-47812)|An attacker can bypass restrictions of Keycloak, via the account merge function, in order to gain user privileges...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
