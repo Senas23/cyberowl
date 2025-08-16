@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/08/2025 09:26:18 UTC
+ > Last Updated 16/08/2025 21:23:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,30 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-pre-post-resources-47441" class="noirorange"><b>Apache Tomcat</b>: ingress filtrering bypass via pre/post-resources</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-pre-post-resources-47441)|An attacker can bypass filtering rules of Apache Tomcat, via pre/post-resources, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Windows-Icacls-exe-47440" class="noirorange"><b>Apache Tomcat</b>: code execution via Windows Icacls.exe</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Windows-Icacls-exe-47440)|An attacker can use a vulnerability of Apache Tomcat, via Windows Icacls.exe, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Multipart-Upload-47439" class="noirorange"><b>Apache Tomcat</b>: overload via Multipart Upload</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Multipart-Upload-47439)|An attacker can trigger an overload of Apache Tomcat, via Multipart Upload, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Part-Headers-47438" class="noirorange"><b>Apache Commons FileUpload</b>: overload via Part Headers</a>](https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Part-Headers-47438)|An attacker can trigger an overload of Apache Commons FileUpload, via Part Headers, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-AJAX-Calls-Parameter-Injection-47436" class="noirorange"><b>OTRS Help Desk</b>: code execution via AJAX Calls Parameter Injection</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-AJAX-Calls-Parameter-Injection-47436)|An attacker can use a vulnerability of OTRS Help Desk, via AJAX Calls Parameter Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-privilege-escalation-via-safe-asterisk-47840" class="noirorange"><b>Asterisk</b>: privilege escalation via safe_asterisk</a>](https://vigilance.fr/vulnerability/Asterisk-privilege-escalation-via-safe-asterisk-47840)|An attacker can bypass restrictions of Asterisk, via safe_asterisk, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sope-NULL-pointer-dereference-via-NGHashMap-m-47837" class="noirorange"><b>sope</b>: NULL pointer dereference via NGHashMap.m</a>](https://vigilance.fr/vulnerability/sope-NULL-pointer-dereference-via-NGHashMap-m-47837)|An attacker can force a NULL pointer to be dereferenced on sope, via NGHashMap.m, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-node-form-data-weak-randomness-dated-01-08-2025-47836" class="noirorange"><b>Node.js node-form-data</b>: weak randomness dated 01/08/2025</a>](https://vigilance.fr/vulnerability/Node-js-node-form-data-weak-randomness-dated-01-08-2025-47836)|The Node.js node-form-data product uses a low-quality hazard to guarantee the integrity of data exchanged over HTTP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cJSON-out-of-bounds-memory-reading-via-No-Trailing-Newline-47434" class="noirorange"><b>cJSON</b>: out-of-bounds memory reading via No Trailing Newline</a>](https://vigilance.fr/vulnerability/cJSON-out-of-bounds-memory-reading-via-No-Trailing-Newline-47434)|An attacker can force a read at an invalid memory address of cJSON, via No Trailing Newline, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cJSON-denial-of-service-via-Large-Number-47433" class="noirorange"><b>cJSON</b>: denial of service via Large Number</a>](https://vigilance.fr/vulnerability/cJSON-denial-of-service-via-Large-Number-47433)|An attacker can cause a fatal error of cJSON, via Large Number, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -44,30 +68,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0694/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 14 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0693/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0692/)|De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 14 août 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/sope-NULL-pointer-dereference-via-NGHashMap-m-47837" class="noirorange"><b>sope</b>: NULL pointer dereference via NGHashMap.m</a>](https://vigilance.fr/vulnerability/sope-NULL-pointer-dereference-via-NGHashMap-m-47837)|An attacker can force a NULL pointer to be dereferenced on sope, via NGHashMap.m, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-node-form-data-weak-randomness-dated-01-08-2025-47836" class="noirorange"><b>Node.js node-form-data</b>: weak randomness dated 01/08/2025</a>](https://vigilance.fr/vulnerability/Node-js-node-form-data-weak-randomness-dated-01-08-2025-47836)|The Node.js node-form-data product uses a low-quality hazard to guarantee the integrity of data exchanged over HTTP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cJSON-out-of-bounds-memory-reading-via-No-Trailing-Newline-47434" class="noirorange"><b>cJSON</b>: out-of-bounds memory reading via No Trailing Newline</a>](https://vigilance.fr/vulnerability/cJSON-out-of-bounds-memory-reading-via-No-Trailing-Newline-47434)|An attacker can force a read at an invalid memory address of cJSON, via No Trailing Newline, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cJSON-denial-of-service-via-Large-Number-47433" class="noirorange"><b>cJSON</b>: denial of service via Large Number</a>](https://vigilance.fr/vulnerability/cJSON-denial-of-service-via-Large-Number-47433)|An attacker can cause a fatal error of cJSON, via Large Number, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/aerc-directory-traversal-via-commands-msgview-open-go-47432" class="noirorange"><b>aerc</b>: directory traversal via commands/msgview/<wbr>open.go</wbr></a>](https://vigilance.fr/vulnerability/aerc-directory-traversal-via-commands-msgview-open-go-47432)|An attacker can traverse directories of aerc, via commands/msgview/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-Enterprise-Vault-code-execution-via-Deserialization-45681" class="noirorange"><b>Veritas Enterprise Vault</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/Veritas-Enterprise-Vault-code-execution-via-Deserialization-45681)|An attacker can use a vulnerability of Veritas Enterprise Vault, via Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libarchive-memory-corruption-via-bsdtar-47834" class="noirorange"><b>libarchive</b>: memory corruption via bsdtar</a>](https://vigilance.fr/vulnerability/libarchive-memory-corruption-via-bsdtar-47834)|An attacker can trigger a memory corruption of libarchive, via bsdtar, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-do-change-type-47830" class="noirorange"><b>Linux kernel</b>: privilege escalation via do_change_type()</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-do-change-type-47830)|An attacker, in a guest system, can bypass restrictions of the Linux kernel, via do_change_type(), in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Decryption-Policy-45661" class="noirorange"><b>PAN-OS</b>: denial of service via Decryption Policy</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Decryption-Policy-45661)|An attacker can cause a fatal error of PAN-OS, via Decryption Policy, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Data-Plane-Packet-45655" class="noirorange"><b>PAN-OS</b>: denial of service via Data Plane Packet</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Data-Plane-Packet-45655)|An attacker can cause a fatal error of PAN-OS, via Data Plane Packet, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
