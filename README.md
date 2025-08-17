@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/08/2025 21:23:50 UTC
+ > Last Updated 17/08/2025 09:25:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,17 +30,13 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-memory-corruption-via-xmlSchematronFormatReport-47446" class="noirorange"><b>libxml2</b>: memory corruption via xmlSchematronFormatR<wbr>eport()</wbr></a>](https://vigilance.fr/vulnerability/libxml2-memory-corruption-via-xmlSchematronFormatReport-47446)|An attacker can trigger a memory corruption of libxml2, via xmlSchematronFormatR|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlSchematronGetNode-47444" class="noirorange"><b>libxml2</b>: use after free via xmlSchematronGetNode<wbr>()</wbr></a>](https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlSchematronGetNode-47444)|An attacker can force the reuse of a freed memory area of libxml2, via xmlSchematronGetNode|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Requests-information-disclosure-via-Netrc-Credentials-47443" class="noirorange"><b>Requests</b>: information disclosure via Netrc Credentials</a>](https://vigilance.fr/vulnerability/Requests-information-disclosure-via-Netrc-Credentials-47443)|An attacker can bypass access restrictions to data of Requests, via Netrc Credentials, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-pre-post-resources-47441" class="noirorange"><b>Apache Tomcat</b>: ingress filtrering bypass via pre/post-resources</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-pre-post-resources-47441)|An attacker can bypass filtering rules of Apache Tomcat, via pre/post-resources, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Windows-Icacls-exe-47440" class="noirorange"><b>Apache Tomcat</b>: code execution via Windows Icacls.exe</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Windows-Icacls-exe-47440)|An attacker can use a vulnerability of Apache Tomcat, via Windows Icacls.exe, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Multipart-Upload-47439" class="noirorange"><b>Apache Tomcat</b>: overload via Multipart Upload</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Multipart-Upload-47439)|An attacker can trigger an overload of Apache Tomcat, via Multipart Upload, in order to trigger a denial of service...|Visit link for details|
@@ -48,9 +44,13 @@
  |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-AJAX-Calls-Parameter-Injection-47436" class="noirorange"><b>OTRS Help Desk</b>: code execution via AJAX Calls Parameter Injection</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-AJAX-Calls-Parameter-Injection-47436)|An attacker can use a vulnerability of OTRS Help Desk, via AJAX Calls Parameter Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Asterisk-privilege-escalation-via-safe-asterisk-47840" class="noirorange"><b>Asterisk</b>: privilege escalation via safe_asterisk</a>](https://vigilance.fr/vulnerability/Asterisk-privilege-escalation-via-safe-asterisk-47840)|An attacker can bypass restrictions of Asterisk, via safe_asterisk, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/sope-NULL-pointer-dereference-via-NGHashMap-m-47837" class="noirorange"><b>sope</b>: NULL pointer dereference via NGHashMap.m</a>](https://vigilance.fr/vulnerability/sope-NULL-pointer-dereference-via-NGHashMap-m-47837)|An attacker can force a NULL pointer to be dereferenced on sope, via NGHashMap.m, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-node-form-data-weak-randomness-dated-01-08-2025-47836" class="noirorange"><b>Node.js node-form-data</b>: weak randomness dated 01/08/2025</a>](https://vigilance.fr/vulnerability/Node-js-node-form-data-weak-randomness-dated-01-08-2025-47836)|The Node.js node-form-data product uses a low-quality hazard to guarantee the integrity of data exchanged over HTTP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cJSON-out-of-bounds-memory-reading-via-No-Trailing-Newline-47434" class="noirorange"><b>cJSON</b>: out-of-bounds memory reading via No Trailing Newline</a>](https://vigilance.fr/vulnerability/cJSON-out-of-bounds-memory-reading-via-No-Trailing-Newline-47434)|An attacker can force a read at an invalid memory address of cJSON, via No Trailing Newline, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cJSON-denial-of-service-via-Large-Number-47433" class="noirorange"><b>cJSON</b>: denial of service via Large Number</a>](https://vigilance.fr/vulnerability/cJSON-denial-of-service-via-Large-Number-47433)|An attacker can cause a fatal error of cJSON, via Large Number, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
