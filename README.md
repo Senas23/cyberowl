@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/08/2025 21:24:02 UTC
+ > Last Updated 18/08/2025 09:33:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,27 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Advanced-Job-Scheduler-47454" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Advanced Job Scheduler</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Advanced-Job-Scheduler-47454)|An attacker can bypass restrictions of IBM i, via IBM Advanced Job Scheduler, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-six-vulnerabilities-dated-17-06-2025-47453" class="noirorange"><b>X.Org Server</b>: six vulnerabilities dated 17/06/2025</a>](https://vigilance.fr/vulnerability/X-Org-Server-six-vulnerabilities-dated-17-06-2025-47453)|An attacker can use several vulnerabilities of X.Org Server, dated 17/06/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-file-deletion-via-Go-os-RemoveAll-Volume-Deletion-47452" class="noirorange"><b>Kubernetes</b>: file deletion via Go os.RemoveAll Volume Deletion</a>](https://vigilance.fr/vulnerability/Kubernetes-file-deletion-via-Go-os-RemoveAll-Volume-Deletion-47452)|An attacker can bypass access restrictions of Kubernetes, via Go os.RemoveAll Volume Deletion, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kea-three-vulnerabilities-dated-17-06-2025-47450" class="noirorange"><b>Kea</b>: three vulnerabilities dated 17/06/2025</a>](https://vigilance.fr/vulnerability/Kea-three-vulnerabilities-dated-17-06-2025-47450)|An attacker can use several vulnerabilities of Kea, dated 17/06/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-memory-corruption-via-xmlSchematronFormatReport-47446" class="noirorange"><b>libxml2</b>: memory corruption via xmlSchematronFormatR<wbr>eport()</wbr></a>](https://vigilance.fr/vulnerability/libxml2-memory-corruption-via-xmlSchematronFormatReport-47446)|An attacker can trigger a memory corruption of libxml2, via xmlSchematronFormatR|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlSchematronGetNode-47444" class="noirorange"><b>libxml2</b>: use after free via xmlSchematronGetNode<wbr>()</wbr></a>](https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlSchematronGetNode-47444)|An attacker can force the reuse of a freed memory area of libxml2, via xmlSchematronGetNode|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Requests-information-disclosure-via-Netrc-Credentials-47443" class="noirorange"><b>Requests</b>: information disclosure via Netrc Credentials</a>](https://vigilance.fr/vulnerability/Requests-information-disclosure-via-Netrc-Credentials-47443)|An attacker can bypass access restrictions to data of Requests, via Netrc Credentials, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-pre-post-resources-47441" class="noirorange"><b>Apache Tomcat</b>: ingress filtrering bypass via pre/post-resources</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-pre-post-resources-47441)|An attacker can bypass filtering rules of Apache Tomcat, via pre/post-resources, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Windows-Icacls-exe-47440" class="noirorange"><b>Apache Tomcat</b>: code execution via Windows Icacls.exe</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Windows-Icacls-exe-47440)|An attacker can use a vulnerability of Apache Tomcat, via Windows Icacls.exe, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Multipart-Upload-47439" class="noirorange"><b>Apache Tomcat</b>: overload via Multipart Upload</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-overload-via-Multipart-Upload-47439)|An attacker can trigger an overload of Apache Tomcat, via Multipart Upload, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Smarty-code-execution-via-extends-tag-45683" class="noirorange"><b>Smarty</b>: code execution via extends-tag</a>](https://vigilance.fr/vulnerability/Smarty-code-execution-via-extends-tag-45683)|An attacker can use a vulnerability of Smarty, via extends-tag, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Trend-Micro-Internet-Security-privilege-escalation-via-Link-Following-47464" class="noirorange"><b>Trend Micro Internet Security</b>: privilege escalation via Link Following</a>](https://vigilance.fr/vulnerability/Trend-Micro-Internet-Security-privilege-escalation-via-Link-Following-47464)|An attacker can bypass restrictions of Trend Micro Internet Security, via Link Following, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RabbitMQ-Server-logged-sensitive-information-via-Basic-Auth-Header-47463" class="noirorange"><b>RabbitMQ Server</b>: logged sensitive information via Basic Auth Header</a>](https://vigilance.fr/vulnerability/RabbitMQ-Server-logged-sensitive-information-via-Basic-Auth-Header-47463)|An attacker can read logs of RabbitMQ Server, via Basic Auth Header, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenFGA-user-access-via-Check-ListObject-calls-47461" class="noirorange"><b>OpenFGA</b>: user access via Check / ListObject calls</a>](https://vigilance.fr/vulnerability/OpenFGA-user-access-via-Check-ListObject-calls-47461)|An attacker can bypass restrictions of OpenFGA, via Check / ListObject calls, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/KDE-Konsole-code-execution-via-Scheme-Handlers-URLs-Loading-47460" class="noirorange"><b>KDE Konsole</b>: code execution via Scheme Handlers URLs Loading</a>](https://vigilance.fr/vulnerability/KDE-Konsole-code-execution-via-Scheme-Handlers-URLs-Loading-47460)|An attacker can use a vulnerability of KDE Konsole, via Scheme Handlers URLs Loading, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libblockdev-privilege-escalation-via-udisks-47459" class="noirorange"><b>libblockdev</b>: privilege escalation via udisks</a>](https://vigilance.fr/vulnerability/libblockdev-privilege-escalation-via-udisks-47459)|An attacker can bypass restrictions of libblockdev, via udisks, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/KaTeX-four-vulnerabilities-dated-18-06-2025-47458" class="noirorange"><b>KaTeX</b>: four vulnerabilities dated 18/06/2025</a>](https://vigilance.fr/vulnerability/KaTeX-four-vulnerabilities-dated-18-06-2025-47458)|An attacker can use several vulnerabilities of KaTeX, dated 18/06/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libdwarf-out-of-bounds-memory-reading-via-dwarf-check-string-valid-47457" class="noirorange"><b>libdwarf</b>: out-of-bounds memory reading via _dwarf_check_string_<wbr>valid()</wbr></a>](https://vigilance.fr/vulnerability/libdwarf-out-of-bounds-memory-reading-via-dwarf-check-string-valid-47457)|An attacker can force a read at an invalid memory address of libdwarf, via _dwarf_check_string_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Artifex-MuJS-buffer-overflow-via-JumpList-Nested-Try-finally-Statements-47456" class="noirorange"><b>Artifex MuJS</b>: buffer overflow via JumpList Nested Try/finally Statements</a>](https://vigilance.fr/vulnerability/Artifex-MuJS-buffer-overflow-via-JumpList-Nested-Try-finally-Statements-47456)|An attacker can trigger a buffer overflow of Artifex MuJS, via JumpList Nested Try/finally Statements, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Advanced-Job-Scheduler-47454" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Advanced Job Scheduler</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Advanced-Job-Scheduler-47454)|An attacker can bypass restrictions of IBM i, via IBM Advanced Job Scheduler, in order to escalate his privileges...|Visit link for details|
  
  ---
 
