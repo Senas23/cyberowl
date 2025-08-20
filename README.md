@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/08/2025 21:26:55 UTC
+ > Last Updated 20/08/2025 09:29:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,17 +30,13 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-memory-corruption-via-Type-Confusion-45704" class="noirorange"><b>Google Chrome  Microsoft Edge  Opera</b>: memory corruption via Type Confusion</a>](https://vigilance.fr/vulnerability/Google-Chrome-Microsoft-Edge-Opera-memory-corruption-via-Type-Confusion-45704)|An attacker can trigger a memory corruption of Google Chrome  Microsoft Edge  Opera, via Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/needrestart-four-vulnerabilities-dated-20-11-2024-45700" class="noirorange"><b>needrestart</b>: four vulnerabilities dated 20/11/2024</a>](https://vigilance.fr/vulnerability/needrestart-four-vulnerabilities-dated-20-11-2024-45700)|An attacker can use several vulnerabilities of needrestart, dated 20/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-via-JavaScriptCore-45698" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: code execution via JavaScriptCore</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-via-JavaScriptCore-45698)|An attacker can use a vulnerability of WebKitGTK  WPE WebKit, via JavaScriptCore, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cairo-assertion-error-via-Drawing-Arcs-NaN-Angles-47848" class="noirorange"><b>Cairo</b>: assertion error via Drawing Arcs NaN Angles</a>](https://vigilance.fr/vulnerability/Cairo-assertion-error-via-Drawing-Arcs-NaN-Angles-47848)|An attacker can force an assertion error of Cairo, via Drawing Arcs NaN Angles, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-three-vulnerabilities-dated-19-06-2025-47486" class="noirorange"><b>IBM QRadar SIEM</b>: three vulnerabilities dated 19/06/2025</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-three-vulnerabilities-dated-19-06-2025-47486)|An attacker can use several vulnerabilities of IBM QRadar SIEM, dated 19/06/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-ActiveMQ-overload-via-OpenWire-Commands-Excessive-Allocation-47485" class="noirorange"><b>Apache ActiveMQ</b>: overload via OpenWire Commands Excessive Allocation</a>](https://vigilance.fr/vulnerability/Apache-ActiveMQ-overload-via-OpenWire-Commands-Excessive-Allocation-47485)|An attacker can trigger an overload of Apache ActiveMQ, via OpenWire Commands Excessive Allocation, in order to trigger a denial of service...|Visit link for details|
@@ -48,9 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Meraki-MX-denial-of-service-via-Cisco-AnyConnect-VPN-Server-47480" class="noirorange"><b>Cisco Meraki MX</b>: denial of service via Cisco AnyConnect VPN Server</a>](https://vigilance.fr/vulnerability/Cisco-Meraki-MX-denial-of-service-via-Cisco-AnyConnect-VPN-Server-47480)|An attacker can cause a fatal error of Cisco Meraki MX, via Cisco AnyConnect VPN Server, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-NFKC-Normalization-47478" class="noirorange"><b>Django</b>: overload via NFKC Normalization</a>](https://vigilance.fr/vulnerability/Django-overload-via-NFKC-Normalization-47478)|An attacker can trigger an overload of Django, via NFKC Normalization, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/xorg-server-xwayland-integer-overflow-via-BigRequest-Length-47477" class="noirorange"><b>xorg-server  xwayland</b>: integer overflow via BigRequest Length</a>](https://vigilance.fr/vulnerability/xorg-server-xwayland-integer-overflow-via-BigRequest-Length-47477)|An attacker can trigger an integer overflow of xorg-server  xwayland, via BigRequest Length, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-process-debug-info-47844" class="noirorange"><b>GNU Binutils</b>: memory leak via process_debug_info()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-process-debug-info-47844)|An attacker can create a memory leak of GNU Binutils, via process_debug_info()|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-NULL-pointer-dereference-via-bfd-elf-get-str-section-47843" class="noirorange"><b>GNU Binutils</b>: NULL pointer dereference via bfd_elf_get_str_<wbr>section()</wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-NULL-pointer-dereference-via-bfd-elf-get-str-section-47843)|An attacker can force a NULL pointer to be dereferenced on GNU Binutils, via bfd_elf_get_str_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Godot-Engine-buffer-overflow-via-TGA-Image-File-47476" class="noirorange"><b>Godot Engine</b>: buffer overflow via TGA Image File</a>](https://vigilance.fr/vulnerability/Godot-Engine-buffer-overflow-via-TGA-Image-File-47476)|An attacker can trigger a buffer overflow of Godot Engine, via TGA Image File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -68,6 +61,13 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0703/)|Une vulnérabilité a été découverte dans Synology BeeDrive. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 18 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0702/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 18 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0701/)|Une vulnérabilité a été découverte dans IBM WebSphere. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 14 août 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
