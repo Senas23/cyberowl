@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/08/2025 09:24:02 UTC
+ > Last Updated 23/08/2025 21:22:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-MPFR-buffer-overflow-via-mpfr-strtofr-47500" class="noirorange"><b>GNU MPFR</b>: buffer overflow via mpfr_strtofr()</a>](https://vigilance.fr/vulnerability/GNU-MPFR-buffer-overflow-via-mpfr-strtofr-47500)|An attacker can trigger a buffer overflow of GNU MPFR, via mpfr_strtofr(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-NULL-pointer-dereference-dated-23-06-2025-47499" class="noirorange"><b>FreeRDP</b>: NULL pointer dereference dated 23/06/2025</a>](https://vigilance.fr/vulnerability/FreeRDP-NULL-pointer-dereference-dated-23-06-2025-47499)|An attacker can force a NULL pointer to be dereferenced on FreeRDP, dated 23/06/2025, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-11-04-2025-47497" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities dated 11/04/2025</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-11-04-2025-47497)|An attacker can use several vulnerabilities of MediaWiki, dated 11/04/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/spdlog-denial-of-service-via-scoped-padder-47496" class="noirorange"><b>spdlog</b>: denial of service via scoped_padder()</a>](https://vigilance.fr/vulnerability/spdlog-denial-of-service-via-scoped-padder-47496)|An attacker can cause a fatal error of spdlog, via scoped_padder(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pycares-use-after-free-via-Channel-Object-Pending-DNS-Queries-47495" class="noirorange"><b>pycares</b>: use after free via Channel Object Pending DNS Queries</a>](https://vigilance.fr/vulnerability/pycares-use-after-free-via-Channel-Object-Pending-DNS-Queries-47495)|An attacker can force the reuse of a freed memory area of pycares, via Channel Object Pending DNS Queries, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -42,19 +44,10 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-unserialize-45709" class="noirorange"><b>Drupal Core</b>: code execution via unserialize()</a>](https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-unserialize-45709)|An attacker can use a vulnerability of Drupal Core, via unserialize(), in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Server-user-access-via-Session-Authentication-47491" class="noirorange"><b>IBM Storage Protect Server</b>: user access via Session Authentication</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Server-user-access-via-Session-Authentication-47491)|An attacker can bypass restrictions of IBM Storage Protect Server, via Session Authentication, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gstreamer-out-of-bounds-memory-reading-via-MOV-MP4-Demuxer-47490" class="noirorange"><b>Gstreamer</b>: out-of-bounds memory reading via MOV/MP4 Demuxer</a>](https://vigilance.fr/vulnerability/Gstreamer-out-of-bounds-memory-reading-via-MOV-MP4-Demuxer-47490)|An attacker can force a read at an invalid memory address of Gstreamer, via MOV/MP4 Demuxer, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gstreamer-out-of-bounds-memory-reading-via-MOV-MP4-Demuxer-47489" class="noirorange"><b>Gstreamer</b>: out-of-bounds memory reading via MOV/MP4 Demuxer</a>](https://vigilance.fr/vulnerability/Gstreamer-out-of-bounds-memory-reading-via-MOV-MP4-Demuxer-47489)|An attacker can force a read at an invalid memory address of Gstreamer, via MOV/MP4 Demuxer, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kubernetes-privilege-escalation-via-gitRepo-45706" class="noirorange"><b>Kubernetes</b>: privilege escalation via gitRepo</a>](https://vigilance.fr/vulnerability/Kubernetes-privilege-escalation-via-gitRepo-45706)|An attacker can bypass restrictions of Kubernetes, via gitRepo, in order to escalate his privileges...|Visit link for details|
  
  ---
 
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -75,4 +68,11 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0717/)|Une vulnérabilité a été découverte dans Elastic Beats. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 21 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0716/)|Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Apple indique que la vulnérabilité CVE-2025-43300 est activement exploitée.|Publié le 21 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0715/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 21 août 2025|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
