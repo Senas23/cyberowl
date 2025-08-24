@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/08/2025 09:23:45 UTC
+ > Last Updated 24/08/2025 21:21:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,13 +24,6 @@
  ---
 
 ## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -68,6 +61,13 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0717/)|Une vulnérabilité a été découverte dans Elastic Beats. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 21 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0716/)|Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Apple indique que la vulnérabilité CVE-2025-43300 est activement exploitée.|Publié le 21 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0715/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 21 août 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
