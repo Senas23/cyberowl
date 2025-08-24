@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/08/2025 21:22:01 UTC
+ > Last Updated 24/08/2025 09:23:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,27 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/mod-proxy-cluster-read-write-access-via-MCMP-Requests-47507" class="noirorange"><b>mod_proxy_cluster</b>: read-write access via MCMP Requests</a>](https://vigilance.fr/vulnerability/mod-proxy-cluster-read-write-access-via-MCMP-Requests-47507)|An attacker can bypass access restrictions of mod_proxy_cluster, via MCMP Requests, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Vert-x-Duplicated-Context-47504" class="noirorange"><b>Quarkus</b>: read-write access via Vert.x Duplicated Context</a>](https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Vert-x-Duplicated-Context-47504)|An attacker can bypass access restrictions of Quarkus, via Vert.x Duplicated Context, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-read-write-access-via-Power10-strcmp-47503" class="noirorange"><b>GNU C Library</b>: read-write access via Power10 strcmp()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-read-write-access-via-Power10-strcmp-47503)|An attacker can bypass access restrictions of GNU C Library, via Power10 strcmp(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-read-write-access-via-Power10-strcmp-47502" class="noirorange"><b>GNU C Library</b>: read-write access via Power10 strcmp()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-read-write-access-via-Power10-strcmp-47502)|An attacker can bypass access restrictions of GNU C Library, via Power10 strcmp(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLib-buffer-overflow-via-GString-47501" class="noirorange"><b>GLib</b>: buffer overflow via GString</a>](https://vigilance.fr/vulnerability/GLib-buffer-overflow-via-GString-47501)|An attacker can trigger a buffer overflow of GLib, via GString, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-MPFR-buffer-overflow-via-mpfr-strtofr-47500" class="noirorange"><b>GNU MPFR</b>: buffer overflow via mpfr_strtofr()</a>](https://vigilance.fr/vulnerability/GNU-MPFR-buffer-overflow-via-mpfr-strtofr-47500)|An attacker can trigger a buffer overflow of GNU MPFR, via mpfr_strtofr(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-NULL-pointer-dereference-dated-23-06-2025-47499" class="noirorange"><b>FreeRDP</b>: NULL pointer dereference dated 23/06/2025</a>](https://vigilance.fr/vulnerability/FreeRDP-NULL-pointer-dereference-dated-23-06-2025-47499)|An attacker can force a NULL pointer to be dereferenced on FreeRDP, dated 23/06/2025, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-11-04-2025-47497" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities dated 11/04/2025</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-11-04-2025-47497)|An attacker can use several vulnerabilities of MediaWiki, dated 11/04/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/spdlog-denial-of-service-via-scoped-padder-47496" class="noirorange"><b>spdlog</b>: denial of service via scoped_padder()</a>](https://vigilance.fr/vulnerability/spdlog-denial-of-service-via-scoped-padder-47496)|An attacker can cause a fatal error of spdlog, via scoped_padder(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pycares-use-after-free-via-Channel-Object-Pending-DNS-Queries-47495" class="noirorange"><b>pycares</b>: use after free via Channel Object Pending DNS Queries</a>](https://vigilance.fr/vulnerability/pycares-use-after-free-via-Channel-Object-Pending-DNS-Queries-47495)|An attacker can force the reuse of a freed memory area of pycares, via Channel Object Pending DNS Queries, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-five-vulnerabilities-dated-22-11-2024-45729" class="noirorange"><b>Keycloak</b>: five vulnerabilities dated 22/11/2024</a>](https://vigilance.fr/vulnerability/Keycloak-five-vulnerabilities-dated-22-11-2024-45729)|An attacker can use several vulnerabilities of Keycloak, dated 22/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cobbler-privilege-escalation-via-API-45726" class="noirorange"><b>Cobbler</b>: privilege escalation via API</a>](https://vigilance.fr/vulnerability/Cobbler-privilege-escalation-via-API-45726)|An attacker can bypass restrictions of Cobbler, via API, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-unserialize-45709" class="noirorange"><b>Drupal Core</b>: code execution via unserialize()</a>](https://vigilance.fr/vulnerability/Drupal-Core-code-execution-via-unserialize-45709)|An attacker can use a vulnerability of Drupal Core, via unserialize(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Storage-Protect-Server-user-access-via-Session-Authentication-47491" class="noirorange"><b>IBM Storage Protect Server</b>: user access via Session Authentication</a>](https://vigilance.fr/vulnerability/IBM-Storage-Protect-Server-user-access-via-Session-Authentication-47491)|An attacker can bypass restrictions of IBM Storage Protect Server, via Session Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gstreamer-out-of-bounds-memory-reading-via-MOV-MP4-Demuxer-47490" class="noirorange"><b>Gstreamer</b>: out-of-bounds memory reading via MOV/MP4 Demuxer</a>](https://vigilance.fr/vulnerability/Gstreamer-out-of-bounds-memory-reading-via-MOV-MP4-Demuxer-47490)|An attacker can force a read at an invalid memory address of Gstreamer, via MOV/MP4 Demuxer, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
