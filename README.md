@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/08/2025 21:21:50 UTC
+ > Last Updated 25/08/2025 09:29:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/mod-proxy-cluster-read-write-access-via-MCMP-Requests-47507" class="noirorange"><b>mod_proxy_cluster</b>: read-write access via MCMP Requests</a>](https://vigilance.fr/vulnerability/mod-proxy-cluster-read-write-access-via-MCMP-Requests-47507)|An attacker can bypass access restrictions of mod_proxy_cluster, via MCMP Requests, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Vert-x-Duplicated-Context-47504" class="noirorange"><b>Quarkus</b>: read-write access via Vert.x Duplicated Context</a>](https://vigilance.fr/vulnerability/Quarkus-read-write-access-via-Vert-x-Duplicated-Context-47504)|An attacker can bypass access restrictions of Quarkus, via Vert.x Duplicated Context, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-read-write-access-via-Power10-strcmp-47503" class="noirorange"><b>GNU C Library</b>: read-write access via Power10 strcmp()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-read-write-access-via-Power10-strcmp-47503)|An attacker can bypass access restrictions of GNU C Library, via Power10 strcmp(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-read-write-access-via-Power10-strcmp-47502" class="noirorange"><b>GNU C Library</b>: read-write access via Power10 strcmp()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-read-write-access-via-Power10-strcmp-47502)|An attacker can bypass access restrictions of GNU C Library, via Power10 strcmp(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLib-buffer-overflow-via-GString-47501" class="noirorange"><b>GLib</b>: buffer overflow via GString</a>](https://vigilance.fr/vulnerability/GLib-buffer-overflow-via-GString-47501)|An attacker can trigger a buffer overflow of GLib, via GString, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-MPFR-buffer-overflow-via-mpfr-strtofr-47500" class="noirorange"><b>GNU MPFR</b>: buffer overflow via mpfr_strtofr()</a>](https://vigilance.fr/vulnerability/GNU-MPFR-buffer-overflow-via-mpfr-strtofr-47500)|An attacker can trigger a buffer overflow of GNU MPFR, via mpfr_strtofr(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-NULL-pointer-dereference-dated-23-06-2025-47499" class="noirorange"><b>FreeRDP</b>: NULL pointer dereference dated 23/06/2025</a>](https://vigilance.fr/vulnerability/FreeRDP-NULL-pointer-dereference-dated-23-06-2025-47499)|An attacker can force a NULL pointer to be dereferenced on FreeRDP, dated 23/06/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-11-04-2025-47497" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities dated 11/04/2025</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-11-04-2025-47497)|An attacker can use several vulnerabilities of MediaWiki, dated 11/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/spdlog-denial-of-service-via-scoped-padder-47496" class="noirorange"><b>spdlog</b>: denial of service via scoped_padder()</a>](https://vigilance.fr/vulnerability/spdlog-denial-of-service-via-scoped-padder-47496)|An attacker can cause a fatal error of spdlog, via scoped_padder(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pycares-use-after-free-via-Channel-Object-Pending-DNS-Queries-47495" class="noirorange"><b>pycares</b>: use after free via Channel Object Pending DNS Queries</a>](https://vigilance.fr/vulnerability/pycares-use-after-free-via-Channel-Object-Pending-DNS-Queries-47495)|An attacker can force the reuse of a freed memory area of pycares, via Channel Object Pending DNS Queries, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/TeamViewer-Remote-Full-Client-file-deletion-dated-25-06-2025-47529" class="noirorange"><b>TeamViewer Remote Full Client</b>: file deletion dated 25/06/2025</a>](https://vigilance.fr/vulnerability/TeamViewer-Remote-Full-Client-file-deletion-dated-25-06-2025-47529)|An attacker can bypass access restrictions of TeamViewer Remote Full Client, dated 25/06/2025, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-overload-via-ESI-Plugin-Maximum-Inclusion-Depth-47524" class="noirorange"><b>Apache Traffic Server</b>: overload via ESI Plugin Maximum Inclusion Depth</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-overload-via-ESI-Plugin-Maximum-Inclusion-Depth-47524)|An attacker can trigger an overload of Apache Traffic Server, via ESI Plugin Maximum Inclusion Depth, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-PROXY-Protocol-47523" class="noirorange"><b>Apache Traffic Server</b>: information disclosure via PROXY Protocol</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-PROXY-Protocol-47523)|An attacker can bypass access restrictions to data of Apache Traffic Server, via PROXY Protocol, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenResty-lua-nginx-module-header-injection-via-HEAD-Request-47522" class="noirorange"><b>OpenResty lua-nginx-module</b>: header injection via HEAD Request</a>](https://vigilance.fr/vulnerability/OpenResty-lua-nginx-module-header-injection-via-HEAD-Request-47522)|An attacker can add new headers on OpenResty lua-nginx-module, via HEAD Request, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-JPEG-LS-Decoder-47521" class="noirorange"><b>DCMTK</b>: memory corruption via JPEG-LS Decoder</a>](https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-JPEG-LS-Decoder-47521)|An attacker can trigger a memory corruption of DCMTK, via JPEG-LS Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libtpms-out-of-bounds-memory-reading-via-CryptHmacSign-47519" class="noirorange"><b>Libtpms</b>: out-of-bounds memory reading via CryptHmacSign()</a>](https://vigilance.fr/vulnerability/Libtpms-out-of-bounds-memory-reading-via-CryptHmacSign-47519)|An attacker can force a read at an invalid memory address of Libtpms, via CryptHmacSign(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-47518" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-47518)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libssh-denial-of-service-via-chacha20-poly1305-set-key-47517" class="noirorange"><b>libssh</b>: denial of service via chacha20_poly1305_<wbr>set_key()</wbr></a>](https://vigilance.fr/vulnerability/libssh-denial-of-service-via-chacha20-poly1305-set-key-47517)|An attacker can cause a fatal error of libssh, via chacha20_poly1305_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libssh-out-of-bounds-memory-reading-via-sftp-decode-channel-data-to-packet-47516" class="noirorange"><b>libssh</b>: out-of-bounds memory reading via sftp_decode_channel_<wbr>data_to_packet()</wbr></a>](https://vigilance.fr/vulnerability/libssh-out-of-bounds-memory-reading-via-sftp-decode-channel-data-to-packet-47516)|An attacker can force a read at an invalid memory address of libssh, via sftp_decode_channel_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libssh-double-free-via-Exporting-Keys-47514" class="noirorange"><b>libssh</b>: double free via Exporting Keys</a>](https://vigilance.fr/vulnerability/libssh-double-free-via-Exporting-Keys-47514)|An attacker can force a double memory free of libssh, via Exporting Keys, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
