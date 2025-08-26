@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/08/2025 21:23:28 UTC
+ > Last Updated 26/08/2025 09:28:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,23 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-PAM-pam-access-user-access-via-Hostname-45735" class="noirorange"><b>Linux PAM pam_access</b>: user access via Hostname</a>](https://vigilance.fr/vulnerability/Linux-PAM-pam-access-user-access-via-Hostname-45735)|An attacker can bypass restrictions of Linux PAM pam_access, via Hostname, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-25-06-2025-47530" class="noirorange"><b>GitLab CE/EE</b>: five vulnerabilities dated 25/06/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-five-vulnerabilities-dated-25-06-2025-47530)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 25/06/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamViewer-Remote-Full-Client-file-deletion-dated-25-06-2025-47529" class="noirorange"><b>TeamViewer Remote Full Client</b>: file deletion dated 25/06/2025</a>](https://vigilance.fr/vulnerability/TeamViewer-Remote-Full-Client-file-deletion-dated-25-06-2025-47529)|An attacker can bypass access restrictions of TeamViewer Remote Full Client, dated 25/06/2025, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-overload-via-ESI-Plugin-Maximum-Inclusion-Depth-47524" class="noirorange"><b>Apache Traffic Server</b>: overload via ESI Plugin Maximum Inclusion Depth</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-overload-via-ESI-Plugin-Maximum-Inclusion-Depth-47524)|An attacker can trigger an overload of Apache Traffic Server, via ESI Plugin Maximum Inclusion Depth, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-PROXY-Protocol-47523" class="noirorange"><b>Apache Traffic Server</b>: information disclosure via PROXY Protocol</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-information-disclosure-via-PROXY-Protocol-47523)|An attacker can bypass access restrictions to data of Apache Traffic Server, via PROXY Protocol, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenResty-lua-nginx-module-header-injection-via-HEAD-Request-47522" class="noirorange"><b>OpenResty lua-nginx-module</b>: header injection via HEAD Request</a>](https://vigilance.fr/vulnerability/OpenResty-lua-nginx-module-header-injection-via-HEAD-Request-47522)|An attacker can add new headers on OpenResty lua-nginx-module, via HEAD Request, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-JPEG-LS-Decoder-47521" class="noirorange"><b>DCMTK</b>: memory corruption via JPEG-LS Decoder</a>](https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-JPEG-LS-Decoder-47521)|An attacker can trigger a memory corruption of DCMTK, via JPEG-LS Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libtpms-out-of-bounds-memory-reading-via-CryptHmacSign-47519" class="noirorange"><b>Libtpms</b>: out-of-bounds memory reading via CryptHmacSign()</a>](https://vigilance.fr/vulnerability/Libtpms-out-of-bounds-memory-reading-via-CryptHmacSign-47519)|An attacker can force a read at an invalid memory address of Libtpms, via CryptHmacSign(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-47518" class="noirorange"><b>IBM i</b>: privilege escalation via Facsimile Support</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-Facsimile-Support-47518)|An attacker can bypass restrictions of IBM i, via Facsimile Support, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libssh-denial-of-service-via-chacha20-poly1305-set-key-47517" class="noirorange"><b>libssh</b>: denial of service via chacha20_poly1305_<wbr>set_key()</wbr></a>](https://vigilance.fr/vulnerability/libssh-denial-of-service-via-chacha20-poly1305-set-key-47517)|An attacker can cause a fatal error of libssh, via chacha20_poly1305_|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Paragraphs-table-Cross-Site-Scripting-dated-26-06-2025-47542" class="noirorange"><b>Drupal Paragraphs table</b>: Cross Site Scripting dated 26/06/2025</a>](https://vigilance.fr/vulnerability/Drupal-Paragraphs-table-Cross-Site-Scripting-dated-26-06-2025-47542)|An attacker can trigger a Cross Site Scripting of Drupal Paragraphs table, dated 26/06/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Simple-XML-sitemap-Cross-Site-Scripting-dated-26-06-2025-47541" class="noirorange"><b>Drupal Simple XML sitemap</b>: Cross Site Scripting dated 26/06/2025</a>](https://vigilance.fr/vulnerability/Drupal-Simple-XML-sitemap-Cross-Site-Scripting-dated-26-06-2025-47541)|An attacker can trigger a Cross Site Scripting of Drupal Simple XML sitemap, dated 26/06/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Enterprise-MFA-TFA-for-Drupal-user-access-via-1-0-3-47540" class="noirorange"><b>Drupal Enterprise MFA - TFA for Drupal</b>: user access via 1.0.3</a>](https://vigilance.fr/vulnerability/Drupal-Enterprise-MFA-TFA-for-Drupal-user-access-via-1-0-3-47540)|An attacker can bypass restrictions of Drupal Enterprise MFA - TFA for Drupal, via 1.0.3, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-CKEditor5-Youtube-Cross-Site-Scripting-dated-26-06-2025-47539" class="noirorange"><b>Drupal CKEditor5 Youtube</b>: Cross Site Scripting dated 26/06/2025</a>](https://vigilance.fr/vulnerability/Drupal-CKEditor5-Youtube-Cross-Site-Scripting-dated-26-06-2025-47539)|An attacker can trigger a Cross Site Scripting of Drupal CKEditor5 Youtube, dated 26/06/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Klaro-Cookie-Consent-Management-Cross-Site-Scripting-dated-26-06-2025-47538" class="noirorange"><b>Drupal Klaro Cookie &amp; Consent Management</b>: Cross Site Scripting dated 26/06/2025</a>](https://vigilance.fr/vulnerability/Drupal-Klaro-Cookie-Consent-Management-Cross-Site-Scripting-dated-26-06-2025-47538)|An attacker can trigger a Cross Site Scripting of Drupal Klaro Cookie & Consent Management, dated 26/06/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-Cross-Site-Request-Forgery-dated-26-06-2025-47537" class="noirorange"><b>Drupal Open Social</b>: Cross Site Request Forgery dated 26/06/2025</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-Cross-Site-Request-Forgery-dated-26-06-2025-47537)|An attacker can trigger a Cross Site Request Forgery of Drupal Open Social, dated 26/06/2025, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iperf-assertion-error-via-Base64Decode-47900" class="noirorange"><b>iperf</b>: assertion error via Base64Decode</a>](https://vigilance.fr/vulnerability/iperf-assertion-error-via-Base64Decode-47900)|An attacker can force an assertion error of iperf, via Base64Decode, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-GLightbox-Cross-Site-Scripting-dated-26-06-2025-47536" class="noirorange"><b>Drupal GLightbox</b>: Cross Site Scripting dated 26/06/2025</a>](https://vigilance.fr/vulnerability/Drupal-GLightbox-Cross-Site-Scripting-dated-26-06-2025-47536)|An attacker can trigger a Cross Site Scripting of Drupal GLightbox, dated 26/06/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Toc-js-Cross-Site-Scripting-via-firefox-esr-47535" class="noirorange"><b>Drupal Toc.js</b>: Cross Site Scripting via firefox-esr</a>](https://vigilance.fr/vulnerability/Drupal-Toc-js-Cross-Site-Scripting-via-firefox-esr-47535)|An attacker can trigger a Cross Site Scripting of Drupal Toc.js, via firefox-esr, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/urllib3-information-disclosure-via-PoolManager-Pyodide-Retries-Redirect-47534" class="noirorange"><b>urllib3</b>: information disclosure via PoolManager Pyodide Retries Redirect</a>](https://vigilance.fr/vulnerability/urllib3-information-disclosure-via-PoolManager-Pyodide-Retries-Redirect-47534)|An attacker can bypass access restrictions to data of urllib3, via PoolManager Pyodide Retries Redirect, in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -68,6 +61,13 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0721/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 22 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0720/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 22 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0719/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 août 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
