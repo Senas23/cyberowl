@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/08/2025 09:27:00 UTC
+ > Last Updated 27/08/2025 21:22:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0732/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0731/)|Une vulnérabilité a été découverte dans Shibboleth Identity Provider. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 27 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0730/)|De multiples vulnérabilités ont été découvertes dans Citrix NetScaler ADC et NetScaler Gateway. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. Citrix indique que la...|Publié le 26 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0729/)|De multiples vulnérabilités ont été découvertes dans Qnap File Station. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 26 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0728/)|Une vulnérabilité a été découverte dans Centreon Web. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 août 2025|
@@ -42,15 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0725/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 25 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0724/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 22 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0723/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 22 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0722/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 22 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0721/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 22 août 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -58,16 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-user-access-via-IPT-47559" class="noirorange"><b>IBM MQ</b>: user access via IPT</a>](https://vigilance.fr/vulnerability/IBM-MQ-user-access-via-IPT-47559)|An attacker can bypass restrictions of IBM MQ, via IPT, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Semeru-Runtime-buffer-overflow-via-Native-AES-CBC-Encryption-47558" class="noirorange"><b>IBM Semeru Runtime</b>: buffer overflow via Native AES/CBC Encryption</a>](https://vigilance.fr/vulnerability/IBM-Semeru-Runtime-buffer-overflow-via-Native-AES-CBC-Encryption-47558)|An attacker can trigger a buffer overflow of IBM Semeru Runtime, via Native AES/CBC Encryption, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-AMQRMPPA-Channel-47557" class="noirorange"><b>IBM MQ</b>: denial of service via AMQRMPPA Channel</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-AMQRMPPA-Channel-47557)|An attacker can cause a fatal error of IBM MQ, via AMQRMPPA Channel, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-HttpRequest-45760" class="noirorange"><b>Zabbix</b>: information disclosure via HttpRequest</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-HttpRequest-45760)|An attacker can bypass access restrictions to data of Zabbix, via HttpRequest, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-user-update-API-45754" class="noirorange"><b>Zabbix</b>: privilege escalation via user.update API</a>](https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-user-update-API-45754)|An attacker can bypass restrictions of Zabbix, via user.update API, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-information-disclosure-dated-27-11-2024-45749" class="noirorange"><b>Synology DiskStation Manager</b>: information disclosure dated 27/11/2024</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-information-disclosure-dated-27-11-2024-45749)|An attacker can bypass access restrictions to data of Synology DiskStation Manager, dated 27/11/2024, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-denial-of-service-dated-27-11-2024-45748" class="noirorange"><b>Synology DiskStation Manager</b>: denial of service dated 27/11/2024</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-denial-of-service-dated-27-11-2024-45748)|An attacker can cause a fatal error of Synology DiskStation Manager, dated 27/11/2024, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tuned-code-execution-via-instance-create-45747" class="noirorange"><b>Tuned</b>: code execution via instance_create()</a>](https://vigilance.fr/vulnerability/Tuned-code-execution-via-instance-create-45747)|An attacker can use a vulnerability of Tuned, via instance_create(), in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mapstructure-information-disclosure-via-Error-Message-47910" class="noirorange"><b>Mapstructure</b>: information disclosure via Error Message</a>](https://vigilance.fr/vulnerability/Mapstructure-information-disclosure-via-Error-Message-47910)|An attacker can bypass access restrictions to data of Mapstructure, via Error Message, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Podman-Man-in-the-Middle-via-OCI-Registry-VM-Images-Download-47555" class="noirorange"><b>Podman</b>: Man-in-the-Middle via OCI Registry VM Images Download</a>](https://vigilance.fr/vulnerability/Podman-Man-in-the-Middle-via-OCI-Registry-VM-Images-Download-47555)|An attacker can act as a Man-in-the-Middle on Podman, via OCI Registry VM Images Download, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/CryptX-integer-overflow-via-libtommath-47554" class="noirorange"><b>CryptX</b>: integer overflow via libtommath</a>](https://vigilance.fr/vulnerability/CryptX-integer-overflow-via-libtommath-47554)|An attacker can trigger an integer overflow of CryptX, via libtommath, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ceph-file-read-write-via-Fuse-Mounted-FS-47553" class="noirorange"><b>Ceph</b>: file read/write via Fuse Mounted FS</a>](https://vigilance.fr/vulnerability/Ceph-file-read-write-via-Fuse-Mounted-FS-47553)|An attacker can bypass access restrictions of Ceph, via Fuse Mounted FS, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-27-06-2025-47552" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities dated 27/06/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-27-06-2025-47552)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 27/06/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-OIDC-Authentication-47551" class="noirorange"><b>MongoDB Server</b>: denial of service via OIDC Authentication</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-OIDC-Authentication-47551)|An attacker can cause a fatal error of MongoDB Server, via OIDC Authentication, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-Flow-Designer-information-disclosure-via-API-Requests-47550" class="noirorange"><b>IBM InfoSphere DataStage Flow Designer</b>: information disclosure via API Requests</a>](https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-Flow-Designer-information-disclosure-via-API-Requests-47550)|An attacker can bypass access restrictions to data of IBM InfoSphere DataStage Flow Designer, via API Requests, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
