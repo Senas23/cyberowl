@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/08/2025 21:21:56 UTC
+ > Last Updated 27/08/2025 09:27:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-OIDC-Authentication-47551" class="noirorange"><b>MongoDB Server</b>: denial of service via OIDC Authentication</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-OIDC-Authentication-47551)|An attacker can cause a fatal error of MongoDB Server, via OIDC Authentication, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-Flow-Designer-information-disclosure-via-API-Requests-47550" class="noirorange"><b>IBM InfoSphere DataStage Flow Designer</b>: information disclosure via API Requests</a>](https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-Flow-Designer-information-disclosure-via-API-Requests-47550)|An attacker can bypass access restrictions to data of IBM InfoSphere DataStage Flow Designer, via API Requests, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-JSON-Parsing-47549" class="noirorange"><b>MongoDB Server</b>: denial of service via JSON Parsing</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-JSON-Parsing-47549)|An attacker can cause a fatal error of MongoDB Server, via JSON Parsing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-privilege-escalation-via-Cache-Invalidation-Cycle-47548" class="noirorange"><b>MongoDB Server</b>: privilege escalation via Cache Invalidation Cycle</a>](https://vigilance.fr/vulnerability/MongoDB-Server-privilege-escalation-via-Cache-Invalidation-Cycle-47548)|An attacker can bypass restrictions of MongoDB Server, via Cache Invalidation Cycle, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-SBE-Engine-Aggregation-Operations-47547" class="noirorange"><b>MongoDB Server</b>: denial of service via SBE Engine Aggregation Operations</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-SBE-Engine-Aggregation-Operations-47547)|An attacker can cause a fatal error of MongoDB Server, via SBE Engine Aggregation Operations, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libarchive-four-vulnerabilities-dated-26-06-2025-47546" class="noirorange"><b>libarchive</b>: four vulnerabilities dated 26/06/2025</a>](https://vigilance.fr/vulnerability/libarchive-four-vulnerabilities-dated-26-06-2025-47546)|An attacker can use several vulnerabilities of libarchive, dated 26/06/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-26-11-2024-45743" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 26/11/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-26-11-2024-45743)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 26/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Node-Group-Editing-Permissions-47545" class="noirorange"><b>Puppet Enterprise</b>: code execution via Node Group Editing Permissions</a>](https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-Node-Group-Editing-Permissions-47545)|An attacker can use a vulnerability of Puppet Enterprise, via Node Group Editing Permissions, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FasterXML-Jackson-Core-denial-of-service-via-Deeply-Nested-Data-47543" class="noirorange"><b>FasterXML Jackson Core</b>: denial of service via Deeply Nested Data</a>](https://vigilance.fr/vulnerability/FasterXML-Jackson-Core-denial-of-service-via-Deeply-Nested-Data-47543)|An attacker can cause a fatal error of FasterXML Jackson Core, via Deeply Nested Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Paragraphs-table-Cross-Site-Scripting-dated-26-06-2025-47542" class="noirorange"><b>Drupal Paragraphs table</b>: Cross Site Scripting dated 26/06/2025</a>](https://vigilance.fr/vulnerability/Drupal-Paragraphs-table-Cross-Site-Scripting-dated-26-06-2025-47542)|An attacker can trigger a Cross Site Scripting of Drupal Paragraphs table, dated 26/06/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-information-disclosure-dated-27-11-2024-45749" class="noirorange"><b>Synology DiskStation Manager</b>: information disclosure dated 27/11/2024</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-information-disclosure-dated-27-11-2024-45749)|An attacker can bypass access restrictions to data of Synology DiskStation Manager, dated 27/11/2024, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-denial-of-service-dated-27-11-2024-45748" class="noirorange"><b>Synology DiskStation Manager</b>: denial of service dated 27/11/2024</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-denial-of-service-dated-27-11-2024-45748)|An attacker can cause a fatal error of Synology DiskStation Manager, dated 27/11/2024, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tuned-code-execution-via-instance-create-45747" class="noirorange"><b>Tuned</b>: code execution via instance_create()</a>](https://vigilance.fr/vulnerability/Tuned-code-execution-via-instance-create-45747)|An attacker can use a vulnerability of Tuned, via instance_create(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mapstructure-information-disclosure-via-Error-Message-47910" class="noirorange"><b>Mapstructure</b>: information disclosure via Error Message</a>](https://vigilance.fr/vulnerability/Mapstructure-information-disclosure-via-Error-Message-47910)|An attacker can bypass access restrictions to data of Mapstructure, via Error Message, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Podman-Man-in-the-Middle-via-OCI-Registry-VM-Images-Download-47555" class="noirorange"><b>Podman</b>: Man-in-the-Middle via OCI Registry VM Images Download</a>](https://vigilance.fr/vulnerability/Podman-Man-in-the-Middle-via-OCI-Registry-VM-Images-Download-47555)|An attacker can act as a Man-in-the-Middle on Podman, via OCI Registry VM Images Download, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CryptX-integer-overflow-via-libtommath-47554" class="noirorange"><b>CryptX</b>: integer overflow via libtommath</a>](https://vigilance.fr/vulnerability/CryptX-integer-overflow-via-libtommath-47554)|An attacker can trigger an integer overflow of CryptX, via libtommath, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ceph-file-read-write-via-Fuse-Mounted-FS-47553" class="noirorange"><b>Ceph</b>: file read/write via Fuse Mounted FS</a>](https://vigilance.fr/vulnerability/Ceph-file-read-write-via-Fuse-Mounted-FS-47553)|An attacker can bypass access restrictions of Ceph, via Fuse Mounted FS, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-27-06-2025-47552" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities dated 27/06/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-dated-27-06-2025-47552)|An attacker can use several vulnerabilities of Microsoft Edge Chromium, dated 27/06/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-OIDC-Authentication-47551" class="noirorange"><b>MongoDB Server</b>: denial of service via OIDC Authentication</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-OIDC-Authentication-47551)|An attacker can cause a fatal error of MongoDB Server, via OIDC Authentication, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-Flow-Designer-information-disclosure-via-API-Requests-47550" class="noirorange"><b>IBM InfoSphere DataStage Flow Designer</b>: information disclosure via API Requests</a>](https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-Flow-Designer-information-disclosure-via-API-Requests-47550)|An attacker can bypass access restrictions to data of IBM InfoSphere DataStage Flow Designer, via API Requests, in order to read sensitive information...|Visit link for details|
  
  ---
 
