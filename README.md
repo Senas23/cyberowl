@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/08/2025 09:27:16 UTC
+ > Last Updated 28/08/2025 21:22:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976" class="noirorange"><b>Drupal Layout Builder Advanced Permissions</b>: read-write access via Adding Sections</a>](https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976)|An attacker can bypass access restrictions of Drupal Layout Builder Advanced Permissions, via Adding Sections, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-TDX-Module-out-of-bounds-memory-reading-dated-13-08-2025-47968" class="noirorange"><b>Intel TDX Module</b>: out-of-bounds memory reading dated 13/08/2025</a>](https://vigilance.fr/vulnerability/Intel-TDX-Module-out-of-bounds-memory-reading-dated-13-08-2025-47968)|An attacker can force a read at an invalid memory address of Intel TDX Module, dated 13/08/2025, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Virtualenv-code-execution-via-activation-scripts-45774" class="noirorange"><b>Python Virtualenv</b>: code execution via activation scripts</a>](https://vigilance.fr/vulnerability/Python-Virtualenv-code-execution-via-activation-scripts-45774)|An attacker can use a vulnerability of Python Virtualenv, via activation scripts, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Filesystem-List-Parameter-Simple-Queue-two-vulnerabilities-dated-28-11-2024-45766" class="noirorange"><b>Jenkins Filesystem List Parameter  Simple Queue</b>: two vulnerabilities dated 28/11/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Filesystem-List-Parameter-Simple-Queue-two-vulnerabilities-dated-28-11-2024-45766)|An attacker can use several vulnerabilities of Jenkins Filesystem List Parameter Plugin  Simple Queue, dated 28/11/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Incorrect-Privilege-Assignment-47952" class="noirorange"><b>FortiOS</b>: privilege escalation via Incorrect Privilege Assignment</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Incorrect-Privilege-Assignment-47952)|An attacker can bypass restrictions of FortiOS, via Incorrect Privilege Assignment, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-user-access-via-IPT-47559" class="noirorange"><b>IBM MQ</b>: user access via IPT</a>](https://vigilance.fr/vulnerability/IBM-MQ-user-access-via-IPT-47559)|An attacker can bypass restrictions of IBM MQ, via IPT, in order to gain user privileges...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-AMQRMPPA-Channel-47557" class="noirorange"><b>IBM MQ</b>: denial of service via AMQRMPPA Channel</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-AMQRMPPA-Channel-47557)|An attacker can cause a fatal error of IBM MQ, via AMQRMPPA Channel, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-HttpRequest-45760" class="noirorange"><b>Zabbix</b>: information disclosure via HttpRequest</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-HttpRequest-45760)|An attacker can bypass access restrictions to data of Zabbix, via HttpRequest, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-user-update-API-45754" class="noirorange"><b>Zabbix</b>: privilege escalation via user.update API</a>](https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-user-update-API-45754)|An attacker can bypass restrictions of Zabbix, via user.update API, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-information-disclosure-dated-27-11-2024-45749" class="noirorange"><b>Synology DiskStation Manager</b>: information disclosure dated 27/11/2024</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-information-disclosure-dated-27-11-2024-45749)|An attacker can bypass access restrictions to data of Synology DiskStation Manager, dated 27/11/2024, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-denial-of-service-dated-27-11-2024-45748" class="noirorange"><b>Synology DiskStation Manager</b>: denial of service dated 27/11/2024</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-denial-of-service-dated-27-11-2024-45748)|An attacker can cause a fatal error of Synology DiskStation Manager, dated 27/11/2024, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tuned-code-execution-via-instance-create-45747" class="noirorange"><b>Tuned</b>: code execution via instance_create()</a>](https://vigilance.fr/vulnerability/Tuned-code-execution-via-instance-create-45747)|An attacker can use a vulnerability of Tuned, via instance_create(), in order to run code...|Visit link for details|
  
  ---
 
