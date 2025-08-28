@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/08/2025 21:22:21 UTC
+ > Last Updated 28/08/2025 09:27:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Filesystem-List-Parameter-Simple-Queue-two-vulnerabilities-dated-28-11-2024-45766" class="noirorange"><b>Jenkins Filesystem List Parameter  Simple Queue</b>: two vulnerabilities dated 28/11/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Filesystem-List-Parameter-Simple-Queue-two-vulnerabilities-dated-28-11-2024-45766)|An attacker can use several vulnerabilities of Jenkins Filesystem List Parameter Plugin  Simple Queue, dated 28/11/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Incorrect-Privilege-Assignment-47952" class="noirorange"><b>FortiOS</b>: privilege escalation via Incorrect Privilege Assignment</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Incorrect-Privilege-Assignment-47952)|An attacker can bypass restrictions of FortiOS, via Incorrect Privilege Assignment, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-user-access-via-IPT-47559" class="noirorange"><b>IBM MQ</b>: user access via IPT</a>](https://vigilance.fr/vulnerability/IBM-MQ-user-access-via-IPT-47559)|An attacker can bypass restrictions of IBM MQ, via IPT, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Semeru-Runtime-buffer-overflow-via-Native-AES-CBC-Encryption-47558" class="noirorange"><b>IBM Semeru Runtime</b>: buffer overflow via Native AES/CBC Encryption</a>](https://vigilance.fr/vulnerability/IBM-Semeru-Runtime-buffer-overflow-via-Native-AES-CBC-Encryption-47558)|An attacker can trigger a buffer overflow of IBM Semeru Runtime, via Native AES/CBC Encryption, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-AMQRMPPA-Channel-47557" class="noirorange"><b>IBM MQ</b>: denial of service via AMQRMPPA Channel</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-AMQRMPPA-Channel-47557)|An attacker can cause a fatal error of IBM MQ, via AMQRMPPA Channel, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-information-disclosure-dated-27-11-2024-45749" class="noirorange"><b>Synology DiskStation Manager</b>: information disclosure dated 27/11/2024</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-information-disclosure-dated-27-11-2024-45749)|An attacker can bypass access restrictions to data of Synology DiskStation Manager, dated 27/11/2024, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-denial-of-service-dated-27-11-2024-45748" class="noirorange"><b>Synology DiskStation Manager</b>: denial of service dated 27/11/2024</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-denial-of-service-dated-27-11-2024-45748)|An attacker can cause a fatal error of Synology DiskStation Manager, dated 27/11/2024, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tuned-code-execution-via-instance-create-45747" class="noirorange"><b>Tuned</b>: code execution via instance_create()</a>](https://vigilance.fr/vulnerability/Tuned-code-execution-via-instance-create-45747)|An attacker can use a vulnerability of Tuned, via instance_create(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mapstructure-information-disclosure-via-Error-Message-47910" class="noirorange"><b>Mapstructure</b>: information disclosure via Error Message</a>](https://vigilance.fr/vulnerability/Mapstructure-information-disclosure-via-Error-Message-47910)|An attacker can bypass access restrictions to data of Mapstructure, via Error Message, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Podman-Man-in-the-Middle-via-OCI-Registry-VM-Images-Download-47555" class="noirorange"><b>Podman</b>: Man-in-the-Middle via OCI Registry VM Images Download</a>](https://vigilance.fr/vulnerability/Podman-Man-in-the-Middle-via-OCI-Registry-VM-Images-Download-47555)|An attacker can act as a Man-in-the-Middle on Podman, via OCI Registry VM Images Download, in order to read or write data in the session...|Visit link for details|
  
  ---
 
