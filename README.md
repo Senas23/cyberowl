@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/08/2025 21:22:07 UTC
+ > Last Updated 29/08/2025 09:27:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-a-cookie-zbx-session-45779" class="noirorange"><b>Zabbix</b>: privilege escalation via a cookie zbx_session</a>](https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-a-cookie-zbx-session-45779)|An attacker can bypass restrictions of Zabbix, via a spoofed cookie zbx_session, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976" class="noirorange"><b>Drupal Layout Builder Advanced Permissions</b>: read-write access via Adding Sections</a>](https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976)|An attacker can bypass access restrictions of Drupal Layout Builder Advanced Permissions, via Adding Sections, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-TDX-Module-out-of-bounds-memory-reading-dated-13-08-2025-47968" class="noirorange"><b>Intel TDX Module</b>: out-of-bounds memory reading dated 13/08/2025</a>](https://vigilance.fr/vulnerability/Intel-TDX-Module-out-of-bounds-memory-reading-dated-13-08-2025-47968)|An attacker can force a read at an invalid memory address of Intel TDX Module, dated 13/08/2025, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Virtualenv-code-execution-via-activation-scripts-45774" class="noirorange"><b>Python Virtualenv</b>: code execution via activation scripts</a>](https://vigilance.fr/vulnerability/Python-Virtualenv-code-execution-via-activation-scripts-45774)|An attacker can use a vulnerability of Python Virtualenv, via activation scripts, in order to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Semeru-Runtime-buffer-overflow-via-Native-AES-CBC-Encryption-47558" class="noirorange"><b>IBM Semeru Runtime</b>: buffer overflow via Native AES/CBC Encryption</a>](https://vigilance.fr/vulnerability/IBM-Semeru-Runtime-buffer-overflow-via-Native-AES-CBC-Encryption-47558)|An attacker can trigger a buffer overflow of IBM Semeru Runtime, via Native AES/CBC Encryption, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-AMQRMPPA-Channel-47557" class="noirorange"><b>IBM MQ</b>: denial of service via AMQRMPPA Channel</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-AMQRMPPA-Channel-47557)|An attacker can cause a fatal error of IBM MQ, via AMQRMPPA Channel, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-HttpRequest-45760" class="noirorange"><b>Zabbix</b>: information disclosure via HttpRequest</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-HttpRequest-45760)|An attacker can bypass access restrictions to data of Zabbix, via HttpRequest, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-user-update-API-45754" class="noirorange"><b>Zabbix</b>: privilege escalation via user.update API</a>](https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-user-update-API-45754)|An attacker can bypass restrictions of Zabbix, via user.update API, in order to escalate his privileges...|Visit link for details|
  
  ---
 
