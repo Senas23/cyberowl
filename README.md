@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/08/2025 09:27:08 UTC
+ > Last Updated 29/08/2025 21:21:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,12 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0732/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0731/)|Une vulnérabilité a été découverte dans Shibboleth Identity Provider. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 27 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0730/)|De multiples vulnérabilités ont été découvertes dans Citrix NetScaler ADC et NetScaler Gateway. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. Citrix indique que la...|Publié le 26 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0729/)|De multiples vulnérabilités ont été découvertes dans Qnap File Station. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 26 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0728/)|Une vulnérabilité a été découverte dans Centreon Web. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 25 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0727/)|De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 25 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0726/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 25 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0725/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 25 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0724/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 22 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0723/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 22 août 2025|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-information-disclosure-via-Optimizer-Statistics-47996" class="noirorange"><b>PostgreSQL</b>: information disclosure via Optimizer Statistics</a>](https://vigilance.fr/vulnerability/PostgreSQL-information-disclosure-via-Optimizer-Statistics-47996)|An attacker can bypass access restrictions to data of PostgreSQL, via Optimizer Statistics, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-open-redirect-via-Ticket-Search-47993" class="noirorange"><b>Request Tracker</b>: open redirect via Ticket Search</a>](https://vigilance.fr/vulnerability/Request-Tracker-open-redirect-via-Ticket-Search-47993)|An attacker can deceive the user of Request Tracker, via Ticket Search, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-a-cookie-zbx-session-45779" class="noirorange"><b>Zabbix</b>: privilege escalation via a cookie zbx_session</a>](https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-a-cookie-zbx-session-45779)|An attacker can bypass restrictions of Zabbix, via a spoofed cookie zbx_session, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976" class="noirorange"><b>Drupal Layout Builder Advanced Permissions</b>: read-write access via Adding Sections</a>](https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976)|An attacker can bypass access restrictions of Drupal Layout Builder Advanced Permissions, via Adding Sections, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-TDX-Module-out-of-bounds-memory-reading-dated-13-08-2025-47968" class="noirorange"><b>Intel TDX Module</b>: out-of-bounds memory reading dated 13/08/2025</a>](https://vigilance.fr/vulnerability/Intel-TDX-Module-out-of-bounds-memory-reading-dated-13-08-2025-47968)|An attacker can force a read at an invalid memory address of Intel TDX Module, dated 13/08/2025, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
@@ -59,8 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Incorrect-Privilege-Assignment-47952" class="noirorange"><b>FortiOS</b>: privilege escalation via Incorrect Privilege Assignment</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Incorrect-Privilege-Assignment-47952)|An attacker can bypass restrictions of FortiOS, via Incorrect Privilege Assignment, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-user-access-via-IPT-47559" class="noirorange"><b>IBM MQ</b>: user access via IPT</a>](https://vigilance.fr/vulnerability/IBM-MQ-user-access-via-IPT-47559)|An attacker can bypass restrictions of IBM MQ, via IPT, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Semeru-Runtime-buffer-overflow-via-Native-AES-CBC-Encryption-47558" class="noirorange"><b>IBM Semeru Runtime</b>: buffer overflow via Native AES/CBC Encryption</a>](https://vigilance.fr/vulnerability/IBM-Semeru-Runtime-buffer-overflow-via-Native-AES-CBC-Encryption-47558)|An attacker can trigger a buffer overflow of IBM Semeru Runtime, via Native AES/CBC Encryption, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-AMQRMPPA-Channel-47557" class="noirorange"><b>IBM MQ</b>: denial of service via AMQRMPPA Channel</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-AMQRMPPA-Channel-47557)|An attacker can cause a fatal error of IBM MQ, via AMQRMPPA Channel, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-HttpRequest-45760" class="noirorange"><b>Zabbix</b>: information disclosure via HttpRequest</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-HttpRequest-45760)|An attacker can bypass access restrictions to data of Zabbix, via HttpRequest, in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -75,4 +58,21 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0745/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0744/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0743/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0742/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0741/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0740/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0739/)|De multiples vulnérabilités ont été découvertes dans Asterisk. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0738/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0737/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 août 2025|
  
