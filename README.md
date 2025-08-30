@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/08/2025 09:22:24 UTC
+ > Last Updated 30/08/2025 21:20:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-Host-Option-47569" class="noirorange"><b>Sudo</b>: privilege escalation via Host Option</a>](https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-Host-Option-47569)|An attacker can bypass restrictions of Sudo, via Host Option, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-chroot-47568" class="noirorange"><b>Sudo</b>: privilege escalation via chroot</a>](https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-chroot-47568)|An attacker can bypass restrictions of Sudo, via chroot, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-user-privilege-escalation-via-Group-Listing-47566" class="noirorange"><b>Rust user</b>: privilege escalation via Group Listing</a>](https://vigilance.fr/vulnerability/Rust-user-privilege-escalation-via-Group-Listing-47566)|An attacker can bypass restrictions of Rust user, via Group Listing, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-30-06-2025-47564" class="noirorange"><b>Linux kernel</b>: three vulnerabilities dated 30/06/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-30-06-2025-47564)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/06/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/catdoc-integer-overflow-via-OLE-Document-DIFAT-Parser-47563" class="noirorange"><b>catdoc</b>: integer overflow via OLE Document DIFAT Parser</a>](https://vigilance.fr/vulnerability/catdoc-integer-overflow-via-OLE-Document-DIFAT-Parser-47563)|An attacker can trigger an integer overflow of catdoc, via OLE Document DIFAT Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/catdoc-integer-overflow-via-OLE-Document-File-Allocation-Table-Parser-47562" class="noirorange"><b>catdoc</b>: integer overflow via OLE Document File Allocation Table Parser</a>](https://vigilance.fr/vulnerability/catdoc-integer-overflow-via-OLE-Document-File-Allocation-Table-Parser-47562)|An attacker can trigger an integer overflow of catdoc, via OLE Document File Allocation Table Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-integer-overflow-via-Packet-Processing-47560" class="noirorange"><b>IBM Informix Dynamic Server</b>: integer overflow via Packet Processing</a>](https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-integer-overflow-via-Packet-Processing-47560)|An attacker can trigger an integer overflow of IBM Informix Dynamic Server, via Packet Processing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-PS-Lvl2page-48004" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via PS_Lvl2page()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-PS-Lvl2page-48004)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via PS_Lvl2page(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-information-disclosure-via-Optimizer-Statistics-47996" class="noirorange"><b>PostgreSQL</b>: information disclosure via Optimizer Statistics</a>](https://vigilance.fr/vulnerability/PostgreSQL-information-disclosure-via-Optimizer-Statistics-47996)|An attacker can bypass access restrictions to data of PostgreSQL, via Optimizer Statistics, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-open-redirect-via-Ticket-Search-47993" class="noirorange"><b>Request Tracker</b>: open redirect via Ticket Search</a>](https://vigilance.fr/vulnerability/Request-Tracker-open-redirect-via-Ticket-Search-47993)|An attacker can deceive the user of Request Tracker, via Ticket Search, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-a-cookie-zbx-session-45779" class="noirorange"><b>Zabbix</b>: privilege escalation via a cookie zbx_session</a>](https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-a-cookie-zbx-session-45779)|An attacker can bypass restrictions of Zabbix, via a spoofed cookie zbx_session, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976" class="noirorange"><b>Drupal Layout Builder Advanced Permissions</b>: read-write access via Adding Sections</a>](https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976)|An attacker can bypass access restrictions of Drupal Layout Builder Advanced Permissions, via Adding Sections, in order to read or alter data...|Visit link for details|
  
  ---
 
