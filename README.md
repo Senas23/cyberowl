@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/08/2025 21:21:35 UTC
+ > Last Updated 30/08/2025 09:22:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,37 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-information-disclosure-via-Optimizer-Statistics-47996" class="noirorange"><b>PostgreSQL</b>: information disclosure via Optimizer Statistics</a>](https://vigilance.fr/vulnerability/PostgreSQL-information-disclosure-via-Optimizer-Statistics-47996)|An attacker can bypass access restrictions to data of PostgreSQL, via Optimizer Statistics, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-open-redirect-via-Ticket-Search-47993" class="noirorange"><b>Request Tracker</b>: open redirect via Ticket Search</a>](https://vigilance.fr/vulnerability/Request-Tracker-open-redirect-via-Ticket-Search-47993)|An attacker can deceive the user of Request Tracker, via Ticket Search, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-a-cookie-zbx-session-45779" class="noirorange"><b>Zabbix</b>: privilege escalation via a cookie zbx_session</a>](https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-a-cookie-zbx-session-45779)|An attacker can bypass restrictions of Zabbix, via a spoofed cookie zbx_session, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976" class="noirorange"><b>Drupal Layout Builder Advanced Permissions</b>: read-write access via Adding Sections</a>](https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976)|An attacker can bypass access restrictions of Drupal Layout Builder Advanced Permissions, via Adding Sections, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-TDX-Module-out-of-bounds-memory-reading-dated-13-08-2025-47968" class="noirorange"><b>Intel TDX Module</b>: out-of-bounds memory reading dated 13/08/2025</a>](https://vigilance.fr/vulnerability/Intel-TDX-Module-out-of-bounds-memory-reading-dated-13-08-2025-47968)|An attacker can force a read at an invalid memory address of Intel TDX Module, dated 13/08/2025, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Virtualenv-code-execution-via-activation-scripts-45774" class="noirorange"><b>Python Virtualenv</b>: code execution via activation scripts</a>](https://vigilance.fr/vulnerability/Python-Virtualenv-code-execution-via-activation-scripts-45774)|An attacker can use a vulnerability of Python Virtualenv, via activation scripts, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Filesystem-List-Parameter-Simple-Queue-two-vulnerabilities-dated-28-11-2024-45766" class="noirorange"><b>Jenkins Filesystem List Parameter  Simple Queue</b>: two vulnerabilities dated 28/11/2024</a>](https://vigilance.fr/vulnerability/Jenkins-Filesystem-List-Parameter-Simple-Queue-two-vulnerabilities-dated-28-11-2024-45766)|An attacker can use several vulnerabilities of Jenkins Filesystem List Parameter Plugin  Simple Queue, dated 28/11/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Incorrect-Privilege-Assignment-47952" class="noirorange"><b>FortiOS</b>: privilege escalation via Incorrect Privilege Assignment</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Incorrect-Privilege-Assignment-47952)|An attacker can bypass restrictions of FortiOS, via Incorrect Privilege Assignment, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-user-access-via-IPT-47559" class="noirorange"><b>IBM MQ</b>: user access via IPT</a>](https://vigilance.fr/vulnerability/IBM-MQ-user-access-via-IPT-47559)|An attacker can bypass restrictions of IBM MQ, via IPT, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Semeru-Runtime-buffer-overflow-via-Native-AES-CBC-Encryption-47558" class="noirorange"><b>IBM Semeru Runtime</b>: buffer overflow via Native AES/CBC Encryption</a>](https://vigilance.fr/vulnerability/IBM-Semeru-Runtime-buffer-overflow-via-Native-AES-CBC-Encryption-47558)|An attacker can trigger a buffer overflow of IBM Semeru Runtime, via Native AES/CBC Encryption, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -75,4 +44,35 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0739/)|De multiples vulnérabilités ont été découvertes dans Asterisk. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0738/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 29 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0737/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 août 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-30-06-2025-47564" class="noirorange"><b>Linux kernel</b>: three vulnerabilities dated 30/06/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-30-06-2025-47564)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/06/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/catdoc-integer-overflow-via-OLE-Document-DIFAT-Parser-47563" class="noirorange"><b>catdoc</b>: integer overflow via OLE Document DIFAT Parser</a>](https://vigilance.fr/vulnerability/catdoc-integer-overflow-via-OLE-Document-DIFAT-Parser-47563)|An attacker can trigger an integer overflow of catdoc, via OLE Document DIFAT Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/catdoc-integer-overflow-via-OLE-Document-File-Allocation-Table-Parser-47562" class="noirorange"><b>catdoc</b>: integer overflow via OLE Document File Allocation Table Parser</a>](https://vigilance.fr/vulnerability/catdoc-integer-overflow-via-OLE-Document-File-Allocation-Table-Parser-47562)|An attacker can trigger an integer overflow of catdoc, via OLE Document File Allocation Table Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xls2csv-memory-corruption-via-Shared-String-Table-Record-Parser-47561" class="noirorange"><b>xls2csv</b>: memory corruption via Shared String Table Record Parser</a>](https://vigilance.fr/vulnerability/xls2csv-memory-corruption-via-Shared-String-Table-Record-Parser-47561)|An attacker can trigger a memory corruption of xls2csv, via Shared String Table Record Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-integer-overflow-via-Packet-Processing-47560" class="noirorange"><b>IBM Informix Dynamic Server</b>: integer overflow via Packet Processing</a>](https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-integer-overflow-via-Packet-Processing-47560)|An attacker can trigger an integer overflow of IBM Informix Dynamic Server, via Packet Processing, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-PS-Lvl2page-48004" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via PS_Lvl2page()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-PS-Lvl2page-48004)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via PS_Lvl2page(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-information-disclosure-via-Optimizer-Statistics-47996" class="noirorange"><b>PostgreSQL</b>: information disclosure via Optimizer Statistics</a>](https://vigilance.fr/vulnerability/PostgreSQL-information-disclosure-via-Optimizer-Statistics-47996)|An attacker can bypass access restrictions to data of PostgreSQL, via Optimizer Statistics, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-open-redirect-via-Ticket-Search-47993" class="noirorange"><b>Request Tracker</b>: open redirect via Ticket Search</a>](https://vigilance.fr/vulnerability/Request-Tracker-open-redirect-via-Ticket-Search-47993)|An attacker can deceive the user of Request Tracker, via Ticket Search, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-a-cookie-zbx-session-45779" class="noirorange"><b>Zabbix</b>: privilege escalation via a cookie zbx_session</a>](https://vigilance.fr/vulnerability/Zabbix-privilege-escalation-via-a-cookie-zbx-session-45779)|An attacker can bypass restrictions of Zabbix, via a spoofed cookie zbx_session, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976" class="noirorange"><b>Drupal Layout Builder Advanced Permissions</b>: read-write access via Adding Sections</a>](https://vigilance.fr/vulnerability/Drupal-Layout-Builder-Advanced-Permissions-read-write-access-via-Adding-Sections-47976)|An attacker can bypass access restrictions of Drupal Layout Builder Advanced Permissions, via Adding Sections, in order to read or alter data...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
