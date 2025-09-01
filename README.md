@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/09/2025 09:29:55 UTC
+ > Last Updated 01/09/2025 21:21:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0747/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection SQL (SQLi).|Publié le 01 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 29 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0745/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 29 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0744/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 29 août 2025|
@@ -43,7 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0740/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 29 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0739/)|De multiples vulnérabilités ont été découvertes dans Asterisk. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 août 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0738/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 29 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0737/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 août 2025|
  
  ---
 
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Windows-Log-Content-47580" class="noirorange"><b>Tenable Nessus</b>: file write via Windows Log Content</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Windows-Log-Content-47580)|An attacker can bypass access restrictions of Tenable Nessus, via Windows Log Content, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-out-of-bounds-memory-reading-dated-01-07-2025-47578" class="noirorange"><b>SQLite</b>: out-of-bounds memory reading dated 01/07/2025</a>](https://vigilance.fr/vulnerability/SQLite-out-of-bounds-memory-reading-dated-01-07-2025-47578)|An attacker can force a read at an invalid memory address of SQLite, dated 01/07/2025, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Flags-Recovery-Stubs-Exception-Handling-47576" class="noirorange"><b>Xen</b>: denial of service via Flags Recovery Stubs Exception Handling</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Flags-Recovery-Stubs-Exception-Handling-47576)|An attacker, in a guest system, can cause a fatal error of Xen, via Flags Recovery Stubs Exception Handling, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-Networker-weak-encryption-via-Algorithm-Downgrade-47575" class="noirorange"><b>Dell Networker</b>: weak encryption via Algorithm Downgrade</a>](https://vigilance.fr/vulnerability/Dell-Networker-weak-encryption-via-Algorithm-Downgrade-47575)|An attacker can access data on Dell Networker, via Algorithm Downgrade, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Network-Integration-user-access-via-RADIUS-Protocol-Capture-replay-47574" class="noirorange"><b>Dell OpenManage Network Integration</b>: user access via RADIUS Protocol Capture-replay</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Network-Integration-user-access-via-RADIUS-Protocol-Capture-replay-47574)|An attacker can bypass restrictions of Dell OpenManage Network Integration, via RADIUS Protocol Capture-replay, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-2-5-code-execution-via-Template-Injection-47573" class="noirorange"><b>Red Hat Ansible Automation Platform 2.5</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-2-5-code-execution-via-Template-Injection-47573)|An attacker can use a vulnerability of Red Hat Ansible Automation Platform 2.5, via Template Injection, in order to run code...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-four-vulnerabilities-dated-01-07-2025-47570" class="noirorange"><b>Linux kernel</b>: four vulnerabilities dated 01/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-four-vulnerabilities-dated-01-07-2025-47570)|An attacker can use several vulnerabilities of the Linux kernel, dated 01/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-Host-Option-47569" class="noirorange"><b>Sudo</b>: privilege escalation via Host Option</a>](https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-Host-Option-47569)|An attacker can bypass restrictions of Sudo, via Host Option, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-chroot-47568" class="noirorange"><b>Sudo</b>: privilege escalation via chroot</a>](https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-chroot-47568)|An attacker can bypass restrictions of Sudo, via chroot, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rust-user-privilege-escalation-via-Group-Listing-47566" class="noirorange"><b>Rust user</b>: privilege escalation via Group Listing</a>](https://vigilance.fr/vulnerability/Rust-user-privilege-escalation-via-Group-Listing-47566)|An attacker can bypass restrictions of Rust user, via Group Listing, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-30-06-2025-47564" class="noirorange"><b>Linux kernel</b>: three vulnerabilities dated 30/06/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-30-06-2025-47564)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/06/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/catdoc-integer-overflow-via-OLE-Document-DIFAT-Parser-47563" class="noirorange"><b>catdoc</b>: integer overflow via OLE Document DIFAT Parser</a>](https://vigilance.fr/vulnerability/catdoc-integer-overflow-via-OLE-Document-DIFAT-Parser-47563)|An attacker can trigger an integer overflow of catdoc, via OLE Document DIFAT Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
