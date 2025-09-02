@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/09/2025 21:21:27 UTC
+ > Last Updated 02/09/2025 09:27:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-dated-02-07-2025-47582" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure dated 02/07/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-dated-02-07-2025-47582)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, dated 02/07/2025, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Windows-Log-Content-47580" class="noirorange"><b>Tenable Nessus</b>: file write via Windows Log Content</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Windows-Log-Content-47580)|An attacker can bypass access restrictions of Tenable Nessus, via Windows Log Content, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SQLite-out-of-bounds-memory-reading-dated-01-07-2025-47578" class="noirorange"><b>SQLite</b>: out-of-bounds memory reading dated 01/07/2025</a>](https://vigilance.fr/vulnerability/SQLite-out-of-bounds-memory-reading-dated-01-07-2025-47578)|An attacker can force a read at an invalid memory address of SQLite, dated 01/07/2025, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Flags-Recovery-Stubs-Exception-Handling-47576" class="noirorange"><b>Xen</b>: denial of service via Flags Recovery Stubs Exception Handling</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Flags-Recovery-Stubs-Exception-Handling-47576)|An attacker, in a guest system, can cause a fatal error of Xen, via Flags Recovery Stubs Exception Handling, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-2-5-code-execution-via-Git-URL-Ls-remote-Command-47572" class="noirorange"><b>Red Hat Ansible Automation Platform 2.5</b>: code execution via Git URL Ls-remote Command</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-2-5-code-execution-via-Git-URL-Ls-remote-Command-47572)|An attacker can use a vulnerability of Red Hat Ansible Automation Platform 2.5, via Git URL Ls-remote Command, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-four-vulnerabilities-dated-01-07-2025-47570" class="noirorange"><b>Linux kernel</b>: four vulnerabilities dated 01/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-four-vulnerabilities-dated-01-07-2025-47570)|An attacker can use several vulnerabilities of the Linux kernel, dated 01/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-Host-Option-47569" class="noirorange"><b>Sudo</b>: privilege escalation via Host Option</a>](https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-Host-Option-47569)|An attacker can bypass restrictions of Sudo, via Host Option, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-chroot-47568" class="noirorange"><b>Sudo</b>: privilege escalation via chroot</a>](https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-chroot-47568)|An attacker can bypass restrictions of Sudo, via chroot, in order to escalate his privileges...|Visit link for details|
  
  ---
 
