@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/09/2025 09:27:05 UTC
+ > Last Updated 02/09/2025 21:20:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,27 +30,11 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0747/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection SQL (SQLi).|Publié le 01 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 29 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0745/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 29 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0744/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 29 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0743/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 29 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0742/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0741/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 29 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0740/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 29 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0739/)|De multiples vulnérabilités ont été découvertes dans Asterisk. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 août 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0738/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 29 août 2025|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2024-45796" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of December 2024</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2024-45796)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-dated-02-07-2025-47582" class="noirorange"><b>Microsoft Edge Chromium</b>: information disclosure dated 02/07/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-information-disclosure-dated-02-07-2025-47582)|An attacker can bypass access restrictions to data of Microsoft Edge Chromium, dated 02/07/2025, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Windows-Log-Content-47580" class="noirorange"><b>Tenable Nessus</b>: file write via Windows Log Content</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-file-write-via-Windows-Log-Content-47580)|An attacker can bypass access restrictions of Tenable Nessus, via Windows Log Content, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SQLite-out-of-bounds-memory-reading-dated-01-07-2025-47578" class="noirorange"><b>SQLite</b>: out-of-bounds memory reading dated 01/07/2025</a>](https://vigilance.fr/vulnerability/SQLite-out-of-bounds-memory-reading-dated-01-07-2025-47578)|An attacker can force a read at an invalid memory address of SQLite, dated 01/07/2025, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
@@ -60,7 +44,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-2-5-code-execution-via-Template-Injection-47573" class="noirorange"><b>Red Hat Ansible Automation Platform 2.5</b>: code execution via Template Injection</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-2-5-code-execution-via-Template-Injection-47573)|An attacker can use a vulnerability of Red Hat Ansible Automation Platform 2.5, via Template Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-2-5-code-execution-via-Git-URL-Ls-remote-Command-47572" class="noirorange"><b>Red Hat Ansible Automation Platform 2.5</b>: code execution via Git URL Ls-remote Command</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-2-5-code-execution-via-Git-URL-Ls-remote-Command-47572)|An attacker can use a vulnerability of Red Hat Ansible Automation Platform 2.5, via Git URL Ls-remote Command, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-four-vulnerabilities-dated-01-07-2025-47570" class="noirorange"><b>Linux kernel</b>: four vulnerabilities dated 01/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-four-vulnerabilities-dated-01-07-2025-47570)|An attacker can use several vulnerabilities of the Linux kernel, dated 01/07/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-Host-Option-47569" class="noirorange"><b>Sudo</b>: privilege escalation via Host Option</a>](https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-Host-Option-47569)|An attacker can bypass restrictions of Sudo, via Host Option, in order to escalate his privileges...|Visit link for details|
  
  ---
 
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0748/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 02 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0747/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection SQL (SQLi).|Publié le 01 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0746/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0745/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0744/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0743/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0742/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0741/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0740/)|De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 29 août 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0739/)|De multiples vulnérabilités ont été découvertes dans Asterisk. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 29 août 2025|
  
  ---
 
