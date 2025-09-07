@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/09/2025 21:20:32 UTC
+ > Last Updated 07/09/2025 09:22:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-security-improvement-via-Old-Password-Change-48049" class="noirorange"><b>Centreon Web</b>: security improvement via Old Password Change</a>](https://vigilance.fr/vulnerability/Centreon-Web-security-improvement-via-Old-Password-Change-48049)|The security of Centreon Web was improved via Old Password Change...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-ESXi-Workstation-multiple-vulnerabilities-dated-06-03-2024-43710" class="noirorange"><b>VMware ESXi  Workstation</b>: multiple vulnerabilities dated 06/03/2024</a>](https://vigilance.fr/vulnerability/VMware-ESXi-Workstation-multiple-vulnerabilities-dated-06-03-2024-43710)|An attacker can use several vulnerabilities of VMware ESXi  Workstation, dated 06/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Download-All-Files-information-disclosure-via-Table-Of-Files-45810" class="noirorange"><b>Drupal Download All Files</b>: information disclosure via Table Of Files</a>](https://vigilance.fr/vulnerability/Drupal-Download-All-Files-information-disclosure-via-Table-Of-Files-45810)|An attacker can bypass access restrictions to data of Drupal Download All Files, via Table Of Files, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libjxl-out-of-bounds-memory-reading-via-Exif-Handler-47603" class="noirorange"><b>libjxl</b>: out-of-bounds memory reading via Exif Handler</a>](https://vigilance.fr/vulnerability/libjxl-out-of-bounds-memory-reading-via-Exif-Handler-47603)|An attacker can force a read at an invalid memory address of libjxl, via Exif Handler, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Guacamole-code-execution-via-Console-Codes-Sequence-47600" class="noirorange"><b>Apache Guacamole</b>: code execution via Console Codes Sequence</a>](https://vigilance.fr/vulnerability/Apache-Guacamole-code-execution-via-Console-Codes-Sequence-47600)|An attacker can use a vulnerability of Apache Guacamole, via Console Codes Sequence, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pbkdf2-weak-signature-via-Signature-Spoofing-47599" class="noirorange"><b>pbkdf2</b>: weak signature via Signature Spoofing</a>](https://vigilance.fr/vulnerability/pbkdf2-weak-signature-via-Signature-Spoofing-47599)|An attacker can use malicious data on pbkdf2, via Signature Spoofing, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pbkdf2-weak-signature-via-Signature-Spoofing-47598" class="noirorange"><b>pbkdf2</b>: weak signature via Signature Spoofing</a>](https://vigilance.fr/vulnerability/pbkdf2-weak-signature-via-Signature-Spoofing-47598)|An attacker can use malicious data on pbkdf2, via Signature Spoofing, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-leak-via-tiffcmp-tools-tiffcmp-c-48031" class="noirorange"><b>LibTIFF</b>: memory leak via tiffcmp/tools/<wbr>tiffcmp.c</wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-memory-leak-via-tiffcmp-tools-tiffcmp-c-48031)|An attacker can create a memory leak of LibTIFF, via tiffcmp/tools/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-04-07-2025-47597" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 04/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-04-07-2025-47597)|An attacker can use several vulnerabilities of the Linux kernel, dated 04/07/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-04-07-2025-47596" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities dated 04/07/2025</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-04-07-2025-47596)|An attacker can use several vulnerabilities of MediaWiki, dated 04/07/2025...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0753/)|Une vulnérabilité a été découverte dans Shibboleth Service Provider, plus particulièrement dans le greffon ODBC. Elle permet à un attaquant de provoquer une injection SQL (SQLi).|Publié le 04 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0752/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 04 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0751/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 03 septembre 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/XMedCon-integer-overflow-dated-07-07-2025-47611" class="noirorange"><b>XMedCon</b>: integer overflow dated 07/07/2025</a>](https://vigilance.fr/vulnerability/XMedCon-integer-overflow-dated-07-07-2025-47611)|An attacker can trigger an integer overflow of XMedCon, dated 07/07/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-07-2025-47610" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 07/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-07-2025-47610)|An attacker can use several vulnerabilities of the Linux kernel, dated 07/07/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Hyperloglog-Commands-47608" class="noirorange"><b>Redis</b>: buffer overflow via Hyperloglog Commands</a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-Hyperloglog-Commands-47608)|An attacker can trigger a buffer overflow of Redis, via Hyperloglog Commands, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-seven-vulnerabilities-dated-06-07-2025-47605" class="noirorange"><b>Mbed TLS</b>: seven vulnerabilities dated 06/07/2025</a>](https://vigilance.fr/vulnerability/Mbed-TLS-seven-vulnerabilities-dated-06-07-2025-47605)|An attacker can use several vulnerabilities of Mbed TLS, dated 06/07/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-denial-of-service-via-Connection-Error-Handling-47607" class="noirorange"><b>Redis</b>: denial of service via Connection Error Handling</a>](https://vigilance.fr/vulnerability/Redis-denial-of-service-via-Connection-Error-Handling-47607)|An attacker can cause a fatal error of Redis, via Connection Error Handling, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/7-Zip-vulnerability-dated-06-07-2025-47609" class="noirorange"><b>7-Zip</b>: vulnerability dated 06/07/2025</a>](https://vigilance.fr/vulnerability/7-Zip-vulnerability-dated-06-07-2025-47609)|A vulnerability of 7-Zip, dated 06/07/2025, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-security-improvement-via-Old-Password-Change-48049" class="noirorange"><b>Centreon Web</b>: security improvement via Old Password Change</a>](https://vigilance.fr/vulnerability/Centreon-Web-security-improvement-via-Old-Password-Change-48049)|The security of Centreon Web was improved via Old Password Change...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-ESXi-Workstation-multiple-vulnerabilities-dated-06-03-2024-43710" class="noirorange"><b>VMware ESXi  Workstation</b>: multiple vulnerabilities dated 06/03/2024</a>](https://vigilance.fr/vulnerability/VMware-ESXi-Workstation-multiple-vulnerabilities-dated-06-03-2024-43710)|An attacker can use several vulnerabilities of VMware ESXi  Workstation, dated 06/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Download-All-Files-information-disclosure-via-Table-Of-Files-45810" class="noirorange"><b>Drupal Download All Files</b>: information disclosure via Table Of Files</a>](https://vigilance.fr/vulnerability/Drupal-Download-All-Files-information-disclosure-via-Table-Of-Files-45810)|An attacker can bypass access restrictions to data of Drupal Download All Files, via Table Of Files, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libjxl-out-of-bounds-memory-reading-via-Exif-Handler-47603" class="noirorange"><b>libjxl</b>: out-of-bounds memory reading via Exif Handler</a>](https://vigilance.fr/vulnerability/libjxl-out-of-bounds-memory-reading-via-Exif-Handler-47603)|An attacker can force a read at an invalid memory address of libjxl, via Exif Handler, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
  ---
 
