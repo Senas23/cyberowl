@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/09/2025 21:20:17 UTC
+ > Last Updated 08/09/2025 09:28:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-resolv-overload-via-Decompressed-Domain-Name-Length-47630" class="noirorange"><b>Ruby resolv</b>: overload via Decompressed Domain Name Length</a>](https://vigilance.fr/vulnerability/Ruby-resolv-overload-via-Decompressed-Domain-Name-Length-47630)|An attacker can trigger an overload of Ruby resolv, via Decompressed Domain Name Length, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DjVuLibre-buffer-overflow-via-MMRDecoder-scanruns-47625" class="noirorange"><b>DjVuLibre</b>: buffer overflow via MMRDecoder::<wbr>scanruns()</wbr></a>](https://vigilance.fr/vulnerability/DjVuLibre-buffer-overflow-via-MMRDecoder-scanruns-47625)|An attacker can trigger a buffer overflow of DjVuLibre, via MMRDecoder::|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Beaker-Library-code-execution-via-Deserialization-47623" class="noirorange"><b>Beaker Library</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/Beaker-Library-code-execution-via-Deserialization-47623)|An attacker can use a vulnerability of Beaker Library, via Deserialization, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Multiple-id-Query-Filter-47622" class="noirorange"><b>MongoDB Server</b>: denial of service via Multiple _id Query Filter</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Multiple-id-Query-Filter-47622)|An attacker can cause a fatal error of MongoDB Server, via Multiple _id Query Filter, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Incomplete-Data-47621" class="noirorange"><b>MongoDB Server</b>: denial of service via Incomplete Data</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Incomplete-Data-47621)|An attacker can cause a fatal error of MongoDB Server, via Incomplete Data, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-logged-sensitive-information-via-Plan-Executor-Error-47618" class="noirorange"><b>MongoDB Server</b>: logged sensitive information via Plan Executor Error</a>](https://vigilance.fr/vulnerability/MongoDB-Server-logged-sensitive-information-via-Plan-Executor-Error-47618)|An attacker can read logs of MongoDB Server, via Plan Executor Error, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OIDC-Client-user-access-via-RH-SSO-Adapter-47617" class="noirorange"><b>OIDC-Client</b>: user access via RH SSO Adapter</a>](https://vigilance.fr/vulnerability/OIDC-Client-user-access-via-RH-SSO-Adapter-47617)|An attacker can bypass restrictions of OIDC-Client, via RH SSO Adapter, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/base-x-spoofing-via-Homograph-47615" class="noirorange"><b>base-x</b>: spoofing via Homograph</a>](https://vigilance.fr/vulnerability/base-x-spoofing-via-Homograph-47615)|An attacker can create spoofed data on base-x, via Homograph, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Desktop-logged-sensitive-information-via-Diagnostic-Environment-Variables-47614" class="noirorange"><b>Docker Desktop</b>: logged sensitive information via Diagnostic Environment Variables</a>](https://vigilance.fr/vulnerability/Docker-Desktop-logged-sensitive-information-via-Diagnostic-Environment-Variables-47614)|An attacker can read logs of Docker Desktop, via Diagnostic Environment Variables, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-read-write-access-via-html-parser-HTMLParser-47613" class="noirorange"><b>Python Core</b>: read-write access via html.parser.<wbr>HTMLParser</wbr></a>](https://vigilance.fr/vulnerability/Python-Core-read-write-access-via-html-parser-HTMLParser-47613)|An attacker can bypass access restrictions of Python Core, via html.parser.|Visit link for details|
  
  ---
 
