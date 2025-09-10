@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/09/2025 21:20:43 UTC
+ > Last Updated 10/09/2025 09:26:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-December-2024-45841" class="noirorange"><b>SAP</b>: multiple vulnerabilities of December 2024</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-December-2024-45841)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-07-2025-47679" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 10/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-07-2025-47679)|An attacker can use several vulnerabilities of the Linux kernel, dated 10/07/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rustls-assertion-error-via-Fragmented-TLS-ClientHello-45839" class="noirorange"><b>rustls</b>: assertion error via Fragmented TLS ClientHello</a>](https://vigilance.fr/vulnerability/rustls-assertion-error-via-Fragmented-TLS-ClientHello-45839)|An attacker can force an assertion error of rustls, via Fragmented TLS ClientHello, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Mail-Login-user-access-via-Brute-Force-47676" class="noirorange"><b>Drupal Mail Login</b>: user access via Brute Force</a>](https://vigilance.fr/vulnerability/Drupal-Mail-Login-user-access-via-Brute-Force-47676)|An attacker can bypass restrictions of Drupal Mail Login, via Brute Force, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Cookies-Addons-Cross-Site-Scripting-dated-09-07-2025-47675" class="noirorange"><b>Drupal Cookies Addons</b>: Cross Site Scripting dated 09/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-Cookies-Addons-Cross-Site-Scripting-dated-09-07-2025-47675)|An attacker can trigger a Cross Site Scripting of Drupal Cookies Addons, dated 09/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Protobuf-Pure-Python-denial-of-service-via-Recursion-Limit-47673" class="noirorange"><b>Protobuf Pure-Python</b>: denial of service via Recursion Limit</a>](https://vigilance.fr/vulnerability/Protobuf-Pure-Python-denial-of-service-via-Recursion-Limit-47673)|An attacker can cause a fatal error of Protobuf Pure-Python, via Recursion Limit, in order to trigger a denial of service...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-09-07-2025-47671" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities dated 09/07/2025</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-09-07-2025-47671)|An attacker can use several vulnerabilities of Jenkins Plugins, dated 09/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-fimc-is-hw-change-mode-47667" class="noirorange"><b>Linux kernel</b>: memory corruption via fimc_is_hw_change_<wbr>mode()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-fimc-is-hw-change-mode-47667)|An attacker can trigger a memory corruption of the Linux kernel, via fimc_is_hw_change_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-unix-stream-read-generic-47666" class="noirorange"><b>Linux kernel</b>: use after free via unix_stream_read_<wbr>generic()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-unix-stream-read-generic-47666)|An attacker can force the reuse of a freed memory area of the Linux kernel, via unix_stream_read_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-GUI-file-creation-via-Directory-Name-47665" class="noirorange"><b>Git GUI</b>: file creation via Directory Name</a>](https://vigilance.fr/vulnerability/Git-GUI-file-creation-via-Directory-Name-47665)|An attacker can bypass access restrictions of Git GUI, via Directory Name, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-GUI-code-execution-via-sh-exe-astextplain-47664" class="noirorange"><b>Git GUI</b>: code execution via sh.exe / astextplain</a>](https://vigilance.fr/vulnerability/Git-GUI-code-execution-via-sh-exe-astextplain-47664)|An attacker can use a vulnerability of Git GUI, via sh.exe / astextplain, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gitk-code-execution-via-Filename-Particular-Structure-47663" class="noirorange"><b>Gitk</b>: code execution via Filename Particular Structure</a>](https://vigilance.fr/vulnerability/Gitk-code-execution-via-Filename-Particular-Structure-47663)|An attacker can use a vulnerability of Gitk, via Filename Particular Structure, in order to run code...|Visit link for details|
  
  ---
 
