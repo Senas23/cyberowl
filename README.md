@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/09/2025 21:20:11 UTC
+ > Last Updated 12/09/2025 09:25:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/oFono-buffer-overflow-via-decode-deliver-report-45886" class="noirorange"><b>oFono</b>: buffer overflow via decode_deliver_<wbr>report()</wbr></a>](https://vigilance.fr/vulnerability/oFono-buffer-overflow-via-decode-deliver-report-45886)|An attacker can trigger a buffer overflow of oFono, via decode_deliver_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/oFono-buffer-overflow-via-decode-status-report-45885" class="noirorange"><b>oFono</b>: buffer overflow via decode_status_<wbr>report()</wbr></a>](https://vigilance.fr/vulnerability/oFono-buffer-overflow-via-decode-status-report-45885)|An attacker can trigger a buffer overflow of oFono, via decode_status_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-code-execution-via-VCS-Repositories-47696" class="noirorange"><b>Go</b>: code execution via VCS Repositories</a>](https://vigilance.fr/vulnerability/Go-code-execution-via-VCS-Repositories-47696)|An attacker can use a vulnerability of Go, via VCS Repositories, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rundeck-code-execution-via-Job-Options-47695" class="noirorange"><b>Rundeck</b>: code execution via Job Options</a>](https://vigilance.fr/vulnerability/Rundeck-code-execution-via-Job-Options-47695)|An attacker can use a vulnerability of Rundeck, via Job Options, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-11-12-2024-45869" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities dated 11/12/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-11-12-2024-45869)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 11/12/2024...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-07-2025-47688" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 11/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-07-2025-47688)|An attacker can use several vulnerabilities of the Linux kernel, dated 11/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-multiple-vulnerabilities-dated-10-12-2024-45861" class="noirorange"><b>Ivanti Connect Secure</b>: multiple vulnerabilities dated 10/12/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-multiple-vulnerabilities-dated-10-12-2024-45861)|An attacker can use several vulnerabilities of Ivanti Connect Secure, dated 10/12/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-10-12-2024-45860" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities dated 10/12/2024</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-10-12-2024-45860)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader, dated 10/12/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aircompressor-memory-corruption-via-sun-misc-Unsafe-45856" class="noirorange"><b>Aircompressor</b>: memory corruption via sun.misc.Unsafe</a>](https://vigilance.fr/vulnerability/Aircompressor-memory-corruption-via-sun-misc-Unsafe-45856)|An attacker can trigger a memory corruption of Aircompressor, via sun.misc.Unsafe, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Gateway-App-Deserialization-45855" class="noirorange"><b>Splunk Enterprise</b>: code execution via Gateway App Deserialization</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Gateway-App-Deserialization-45855)|An attacker can use a vulnerability of Splunk Enterprise, via Gateway App Deserialization, in order to run code...|Visit link for details|
  
  ---
 
