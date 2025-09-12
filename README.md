@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/09/2025 09:25:17 UTC
+ > Last Updated 12/09/2025 21:20:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 12 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 12 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0787/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0786/)|De multiples vulnérabilités ont été découvertes dans Zabbix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection SQL (SQLi).|Publié le 12 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0785/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 12 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0784/)|Une vulnérabilité a été découverte dans Microsoft Visual Studio Code. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0783/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 12 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0782/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 11 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0781/)|De multiples vulnérabilités ont été découvertes dans Cisco IOS XR. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0780/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 10 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0779/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 10 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0778/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 10 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0777/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 10 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0776/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF).|Publié le 10 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0775/)|De multiples vulnérabilités ont été découvertes dans Curl. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 10 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0774/)|Une vulnérabilité a été découverte dans les produits Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 10 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0773/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.|Publié le 10 septembre 2025|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-March-2024-43752" class="noirorange"><b>Windows</b>: vulnerabilities of March 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-March-2024-43752)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/oFono-buffer-overflow-via-decode-deliver-report-45886" class="noirorange"><b>oFono</b>: buffer overflow via decode_deliver_<wbr>report()</wbr></a>](https://vigilance.fr/vulnerability/oFono-buffer-overflow-via-decode-deliver-report-45886)|An attacker can trigger a buffer overflow of oFono, via decode_deliver_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/oFono-buffer-overflow-via-decode-status-report-45885" class="noirorange"><b>oFono</b>: buffer overflow via decode_status_<wbr>report()</wbr></a>](https://vigilance.fr/vulnerability/oFono-buffer-overflow-via-decode-status-report-45885)|An attacker can trigger a buffer overflow of oFono, via decode_status_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-code-execution-via-VCS-Repositories-47696" class="noirorange"><b>Go</b>: code execution via VCS Repositories</a>](https://vigilance.fr/vulnerability/Go-code-execution-via-VCS-Repositories-47696)|An attacker can use a vulnerability of Go, via VCS Repositories, in order to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-file-upload-via-Action-File-Upload-Interceptor-45865" class="noirorange"><b>Apache Struts</b>: file upload via Action File Upload Interceptor</a>](https://vigilance.fr/vulnerability/Apache-Struts-file-upload-via-Action-File-Upload-Interceptor-45865)|An attacker can upload a malicious file on Apache Struts, via Action File Upload Interceptor, in order for example to upload a Trojan...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-07-2025-47688" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 11/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-07-2025-47688)|An attacker can use several vulnerabilities of the Linux kernel, dated 11/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-multiple-vulnerabilities-dated-10-12-2024-45861" class="noirorange"><b>Ivanti Connect Secure</b>: multiple vulnerabilities dated 10/12/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-multiple-vulnerabilities-dated-10-12-2024-45861)|An attacker can use several vulnerabilities of Ivanti Connect Secure, dated 10/12/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-10-12-2024-45860" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities dated 10/12/2024</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-10-12-2024-45860)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader, dated 10/12/2024...|Visit link for details|
  
  ---
 
