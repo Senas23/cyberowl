@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/09/2025 09:21:47 UTC
+ > Last Updated 13/09/2025 21:19:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,13 +47,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-Struts-file-upload-via-Action-File-Upload-Interceptor-45865" class="noirorange"><b>Apache Struts</b>: file upload via Action File Upload Interceptor</a>](https://vigilance.fr/vulnerability/Apache-Struts-file-upload-via-Action-File-Upload-Interceptor-45865)|An attacker can upload a malicious file on Apache Struts, via Action File Upload Interceptor, in order for example to upload a Trojan...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-07-2025-47688" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 11/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-07-2025-47688)|An attacker can use several vulnerabilities of the Linux kernel, dated 11/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-multiple-vulnerabilities-dated-10-12-2024-45861" class="noirorange"><b>Ivanti Connect Secure</b>: multiple vulnerabilities dated 10/12/2024</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-multiple-vulnerabilities-dated-10-12-2024-45861)|An attacker can use several vulnerabilities of Ivanti Connect Secure, dated 10/12/2024...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
