@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/09/2025 09:21:55 UTC
+ > Last Updated 14/09/2025 21:20:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-four-vulnerabilities-dated-14-07-2025-47709" class="noirorange"><b>FFmpeg</b>: four vulnerabilities dated 14/07/2025</a>](https://vigilance.fr/vulnerability/FFmpeg-four-vulnerabilities-dated-14-07-2025-47709)|An attacker can use several vulnerabilities of FFmpeg, dated 14/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cloud-init-privilege-escalation-via-Hardcoded-Url-47707" class="noirorange"><b>cloud-init</b>: privilege escalation via Hardcoded Url</a>](https://vigilance.fr/vulnerability/cloud-init-privilege-escalation-via-Hardcoded-Url-47707)|An attacker can bypass restrictions of cloud-init, via Hardcoded Url, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-Magick-Mogrify-Command-47705" class="noirorange"><b>ImageMagick</b>: buffer overflow via Magick Mogrify Command</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-Magick-Mogrify-Command-47705)|An attacker can trigger a buffer overflow of ImageMagick, via Magick Mogrify Command, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ImageMagick-overload-via-XMP-Profile-47703" class="noirorange"><b>ImageMagick</b>: overload via XMP Profile</a>](https://vigilance.fr/vulnerability/ImageMagick-overload-via-XMP-Profile-47703)|An attacker can trigger an overload of ImageMagick, via XMP Profile, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/JRuby-OpenSSL-Man-in-the-Middle-dated-14-07-2025-47699" class="noirorange"><b>JRuby-OpenSSL</b>: Man-in-the-Middle dated 14/07/2025</a>](https://vigilance.fr/vulnerability/JRuby-OpenSSL-Man-in-the-Middle-dated-14-07-2025-47699)|An attacker can act as a Man-in-the-Middle on JRuby-OpenSSL, dated 14/07/2025, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LuaJIT-buffer-overflow-via-lj-state-c-47698" class="noirorange"><b>LuaJIT</b>: buffer overflow via lj_state.c</a>](https://vigilance.fr/vulnerability/LuaJIT-buffer-overflow-via-lj-state-c-47698)|An attacker can trigger a buffer overflow of LuaJIT, via lj_state.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LuaJIT-buffer-overflow-via-lj-strfmt-num-c-47697" class="noirorange"><b>LuaJIT</b>: buffer overflow via lj_strfmt_num.c</a>](https://vigilance.fr/vulnerability/LuaJIT-buffer-overflow-via-lj-strfmt-num-c-47697)|An attacker can trigger a buffer overflow of LuaJIT, via lj_strfmt_num.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-March-2024-43752" class="noirorange"><b>Windows</b>: vulnerabilities of March 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-March-2024-43752)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
  ---
 
