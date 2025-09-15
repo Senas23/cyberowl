@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/09/2025 09:28:42 UTC
+ > Last Updated 15/09/2025 21:22:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 15 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 12 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 12 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0787/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 septembre 2025|
@@ -43,7 +44,13 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0783/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 12 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0782/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 11 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0781/)|De multiples vulnérabilités ont été découvertes dans Cisco IOS XR. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0780/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 10 septembre 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -51,6 +58,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-dated-15-07-2025-47715" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting dated 15/07/2025</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-dated-15-07-2025-47715)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, dated 15/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-dated-15-07-2025-47714" class="noirorange"><b>libxml2</b>: three vulnerabilities dated 15/07/2025</a>](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-dated-15-07-2025-47714)|An attacker can use several vulnerabilities of libxml2, dated 15/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Hibernate-Validator-code-execution-via-Expression-Language-47712" class="noirorange"><b>Hibernate Validator</b>: code execution via Expression Language</a>](https://vigilance.fr/vulnerability/Hibernate-Validator-code-execution-via-Expression-Language-47712)|An attacker can use a vulnerability of Hibernate Validator, via Expression Language, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-four-vulnerabilities-dated-14-07-2025-47709" class="noirorange"><b>FFmpeg</b>: four vulnerabilities dated 14/07/2025</a>](https://vigilance.fr/vulnerability/FFmpeg-four-vulnerabilities-dated-14-07-2025-47709)|An attacker can use several vulnerabilities of FFmpeg, dated 14/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cloud-init-privilege-escalation-via-Hardcoded-Url-47707" class="noirorange"><b>cloud-init</b>: privilege escalation via Hardcoded Url</a>](https://vigilance.fr/vulnerability/cloud-init-privilege-escalation-via-Hardcoded-Url-47707)|An attacker can bypass restrictions of cloud-init, via Hardcoded Url, in order to escalate his privileges...|Visit link for details|
@@ -59,15 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Nix-directory-traversal-via-NAR-47702" class="noirorange"><b>Nix</b>: directory traversal via NAR</a>](https://vigilance.fr/vulnerability/Nix-directory-traversal-via-NAR-47702)|An attacker can traverse directories of Nix, via NAR, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Nix-Man-in-the-Middle-via-fetchurl-47701" class="noirorange"><b>Nix</b>: Man-in-the-Middle via fetchurl</a>](https://vigilance.fr/vulnerability/Nix-Man-in-the-Middle-via-fetchurl-47701)|An attacker can act as a Man-in-the-Middle on Nix, via fetchurl, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Nix-privilege-escalation-via-Setuid-Binary-47700" class="noirorange"><b>Nix</b>: privilege escalation via Setuid Binary</a>](https://vigilance.fr/vulnerability/Nix-privilege-escalation-via-Setuid-Binary-47700)|An attacker can bypass restrictions of Nix, via Setuid Binary, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JRuby-OpenSSL-Man-in-the-Middle-dated-14-07-2025-47699" class="noirorange"><b>JRuby-OpenSSL</b>: Man-in-the-Middle dated 14/07/2025</a>](https://vigilance.fr/vulnerability/JRuby-OpenSSL-Man-in-the-Middle-dated-14-07-2025-47699)|An attacker can act as a Man-in-the-Middle on JRuby-OpenSSL, dated 14/07/2025, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LuaJIT-buffer-overflow-via-lj-state-c-47698" class="noirorange"><b>LuaJIT</b>: buffer overflow via lj_state.c</a>](https://vigilance.fr/vulnerability/LuaJIT-buffer-overflow-via-lj-state-c-47698)|An attacker can trigger a buffer overflow of LuaJIT, via lj_state.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
