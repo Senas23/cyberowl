@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/09/2025 21:20:19 UTC
+ > Last Updated 15/09/2025 09:28:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Hibernate-Validator-code-execution-via-Expression-Language-47712" class="noirorange"><b>Hibernate Validator</b>: code execution via Expression Language</a>](https://vigilance.fr/vulnerability/Hibernate-Validator-code-execution-via-Expression-Language-47712)|An attacker can use a vulnerability of Hibernate Validator, via Expression Language, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-four-vulnerabilities-dated-14-07-2025-47709" class="noirorange"><b>FFmpeg</b>: four vulnerabilities dated 14/07/2025</a>](https://vigilance.fr/vulnerability/FFmpeg-four-vulnerabilities-dated-14-07-2025-47709)|An attacker can use several vulnerabilities of FFmpeg, dated 14/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cloud-init-privilege-escalation-via-Hardcoded-Url-47707" class="noirorange"><b>cloud-init</b>: privilege escalation via Hardcoded Url</a>](https://vigilance.fr/vulnerability/cloud-init-privilege-escalation-via-Hardcoded-Url-47707)|An attacker can bypass restrictions of cloud-init, via Hardcoded Url, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-Magick-Mogrify-Command-47705" class="noirorange"><b>ImageMagick</b>: buffer overflow via Magick Mogrify Command</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-Magick-Mogrify-Command-47705)|An attacker can trigger a buffer overflow of ImageMagick, via Magick Mogrify Command, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Nix-privilege-escalation-via-Setuid-Binary-47700" class="noirorange"><b>Nix</b>: privilege escalation via Setuid Binary</a>](https://vigilance.fr/vulnerability/Nix-privilege-escalation-via-Setuid-Binary-47700)|An attacker can bypass restrictions of Nix, via Setuid Binary, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/JRuby-OpenSSL-Man-in-the-Middle-dated-14-07-2025-47699" class="noirorange"><b>JRuby-OpenSSL</b>: Man-in-the-Middle dated 14/07/2025</a>](https://vigilance.fr/vulnerability/JRuby-OpenSSL-Man-in-the-Middle-dated-14-07-2025-47699)|An attacker can act as a Man-in-the-Middle on JRuby-OpenSSL, dated 14/07/2025, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LuaJIT-buffer-overflow-via-lj-state-c-47698" class="noirorange"><b>LuaJIT</b>: buffer overflow via lj_state.c</a>](https://vigilance.fr/vulnerability/LuaJIT-buffer-overflow-via-lj-state-c-47698)|An attacker can trigger a buffer overflow of LuaJIT, via lj_state.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LuaJIT-buffer-overflow-via-lj-strfmt-num-c-47697" class="noirorange"><b>LuaJIT</b>: buffer overflow via lj_strfmt_num.c</a>](https://vigilance.fr/vulnerability/LuaJIT-buffer-overflow-via-lj-strfmt-num-c-47697)|An attacker can trigger a buffer overflow of LuaJIT, via lj_strfmt_num.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
