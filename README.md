@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/09/2025 21:21:26 UTC
+ > Last Updated 17/09/2025 09:26:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,27 +51,27 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Erlang-OTP-directory-escape-via-lib-stdlib-src-zip-erl-47737" class="noirorange"><b>Erlang OTP</b>: directory escape via lib/stdlib/src/zip.<wbr>erl</wbr></a>](https://vigilance.fr/vulnerability/Erlang-OTP-directory-escape-via-lib-stdlib-src-zip-erl-47737)|An attacker can escape from the working directory of Erlang OTP, via lib/stdlib/src/zip.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-stale-answer-client-timeout-47734" class="noirorange"><b>ISC BIND</b>: assertion error via stale-answer-client-<wbr>timeout</wbr></a>](https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-stale-answer-client-timeout-47734)|An attacker can force an assertion error of ISC BIND, via stale-answer-client-|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Real-time-SEO-for-Drupal-Cross-Site-Scripting-dated-17-07-2025-47732" class="noirorange"><b>Drupal Real-time SEO for Drupal</b>: Cross Site Scripting dated 17/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-Real-time-SEO-for-Drupal-Cross-Site-Scripting-dated-17-07-2025-47732)|An attacker can trigger a Cross Site Scripting of Drupal Real-time SEO for Drupal, dated 17/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Block-Attributes-Cross-Site-Scripting-dated-17-07-2025-47731" class="noirorange"><b>Drupal Block Attributes</b>: Cross Site Scripting dated 17/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-Block-Attributes-Cross-Site-Scripting-dated-17-07-2025-47731)|An attacker can trigger a Cross Site Scripting of Drupal Block Attributes, dated 17/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Download-file-reading-dated-17-07-2025-47730" class="noirorange"><b>Drupal File Download</b>: file reading dated 17/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-File-Download-file-reading-dated-17-07-2025-47730)|An attacker can read a file of Drupal File Download, dated 17/07/2025, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-file-write-via-tar-and-zip-extension-47729" class="noirorange"><b>Vim</b>: file write via tar and zip extension</a>](https://vigilance.fr/vulnerability/Vim-file-write-via-tar-and-zip-extension-47729)|An attacker can bypass access restrictions of Vim, via the zip and tar extensions, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-SQL-injection-via-API-REST-47728" class="noirorange"><b>Cisco Prime Infrastructure</b>: SQL injection via API REST</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-SQL-injection-via-API-REST-47728)|An attacker can use a SQL injection of Cisco Prime Infrastructure, via a REST API, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-Neo-buffer-overflow-via-Integrated-UMC-Component-45909" class="noirorange"><b>SIMATIC PCS Neo</b>: buffer overflow via Integrated UMC Component</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-Neo-buffer-overflow-via-Integrated-UMC-Component-45909)|An attacker can trigger a buffer overflow of SIMATIC PCS Neo, via Integrated UMC Component, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-header-pax-extension-47723" class="noirorange"><b>libarchive</b>: NULL pointer dereference via header_pax_<wbr>extension()</wbr></a>](https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-header-pax-extension-47723)|An attacker can force a NULL pointer to be dereferenced on libarchive, via header_pax_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-July-2025-47722" class="noirorange"><b>Oracle VM VirtualBox</b>: vulnerabilities of July 2025</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-July-2025-47722)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-RADIUS-Server-read-write-access-dated-01-09-2025-48103" class="noirorange"><b>Synology RADIUS Server</b>: read-write access dated 01/09/2025</a>](https://vigilance.fr/vulnerability/Synology-RADIUS-Server-read-write-access-dated-01-09-2025-48103)|An attacker can bypass access restrictions of Synology RADIUS Server, dated 01/09/2025, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/poppler-use-after-free-dated-16-07-2025-47717" class="noirorange"><b>poppler</b>: use after free dated 16/07/2025</a>](https://vigilance.fr/vulnerability/poppler-use-after-free-dated-16-07-2025-47717)|An attacker can force the reuse of a freed memory area of poppler, dated 16/07/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-ROCm-Performance-Primitives-Library-vulnerability-via-libffts-a-48098" class="noirorange"><b>AMD ROCm Performance Primitives Library</b>: vulnerability via libffts.a</a>](https://vigilance.fr/vulnerability/AMD-ROCm-Performance-Primitives-Library-vulnerability-via-libffts-a-48098)|A vulnerability of AMD ROCm Performance Primitives Library, via libffts.a, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-F2fs-Dnode-Page-48097" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via F2fs Dnode Page</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-F2fs-Dnode-Page-48097)|An attacker can force a read at an invalid memory address of the Linux kernel, via F2fs Dnode Page, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/golang-org-x-crypto-user-access-via-ServerConfig-PublicKeyCallback-45907" class="noirorange"><b>golang.org/x/crypto</b>: user access via ServerConfig.<wbr>PublicKeyCallback</wbr></a>](https://vigilance.fr/vulnerability/golang-org-x-crypto-user-access-via-ServerConfig-PublicKeyCallback-45907)|An attacker can bypass restrictions of golang.org/x/crypto, via ServerConfig.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-dated-15-07-2025-47715" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting dated 15/07/2025</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-dated-15-07-2025-47715)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, dated 15/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-dated-15-07-2025-47714" class="noirorange"><b>libxml2</b>: three vulnerabilities dated 15/07/2025</a>](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-dated-15-07-2025-47714)|An attacker can use several vulnerabilities of libxml2, dated 15/07/2025...|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
