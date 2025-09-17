@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/09/2025 09:26:18 UTC
+ > Last Updated 17/09/2025 21:20:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0801/)|De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0800/)|De multiples vulnérabilités ont été découvertes dans Liferay. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 17 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0799/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0798/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0797/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 17 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0796/)|De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0795/)|De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking EdgeConnect SD-WAN Gateways. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 17 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0794/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 17 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0793/)|De multiples vulnérabilités ont été découvertes dans Liferay. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 16 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0792/)|De multiples vulnérabilités ont été découvertes dans les produits Spring. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0791/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Apple indique que la vulnérabilité...|Publié le 16 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0790/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 15 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0789/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 12 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0788/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 12 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0787/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0786/)|De multiples vulnérabilités ont été découvertes dans Zabbix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection SQL (SQLi).|Publié le 12 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0785/)|De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 12 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0784/)|Une vulnérabilité a été découverte dans Microsoft Visual Studio Code. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 12 septembre 2025|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-45917" class="noirorange"><b>Apache Tomcat</b>: code execution via Write-enabled Default Servlet</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-45917)|An attacker can use a vulnerability of Apache Tomcat, via Write-enabled Default Servlet, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Authen-SASL-Perl-DIGEST-MD5-spoofing-via-utilisation-d-un-mauvais-aleea-47738" class="noirorange"><b>Perl Authen-SASL-Perl-<wbr>DIGEST_MD5</wbr></b>: spoofing via utilisation d'un mauvais aléea</a>](https://vigilance.fr/vulnerability/Perl-Authen-SASL-Perl-DIGEST-MD5-spoofing-via-utilisation-d-un-mauvais-aleea-47738)|An attacker can create spoofed data on Perl Authen-SASL-Perl-|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Erlang-OTP-directory-escape-via-lib-stdlib-src-zip-erl-47737" class="noirorange"><b>Erlang OTP</b>: directory escape via lib/stdlib/src/zip.<wbr>erl</wbr></a>](https://vigilance.fr/vulnerability/Erlang-OTP-directory-escape-via-lib-stdlib-src-zip-erl-47737)|An attacker can escape from the working directory of Erlang OTP, via lib/stdlib/src/zip.|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-stale-answer-client-timeout-47734" class="noirorange"><b>ISC BIND</b>: assertion error via stale-answer-client-<wbr>timeout</wbr></a>](https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-stale-answer-client-timeout-47734)|An attacker can force an assertion error of ISC BIND, via stale-answer-client-|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Real-time-SEO-for-Drupal-Cross-Site-Scripting-dated-17-07-2025-47732" class="noirorange"><b>Drupal Real-time SEO for Drupal</b>: Cross Site Scripting dated 17/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-Real-time-SEO-for-Drupal-Cross-Site-Scripting-dated-17-07-2025-47732)|An attacker can trigger a Cross Site Scripting of Drupal Real-time SEO for Drupal, dated 17/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -59,19 +61,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Vim-file-write-via-tar-and-zip-extension-47729" class="noirorange"><b>Vim</b>: file write via tar and zip extension</a>](https://vigilance.fr/vulnerability/Vim-file-write-via-tar-and-zip-extension-47729)|An attacker can bypass access restrictions of Vim, via the zip and tar extensions, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-SQL-injection-via-API-REST-47728" class="noirorange"><b>Cisco Prime Infrastructure</b>: SQL injection via API REST</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-SQL-injection-via-API-REST-47728)|An attacker can use a SQL injection of Cisco Prime Infrastructure, via a REST API, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-Neo-buffer-overflow-via-Integrated-UMC-Component-45909" class="noirorange"><b>SIMATIC PCS Neo</b>: buffer overflow via Integrated UMC Component</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-Neo-buffer-overflow-via-Integrated-UMC-Component-45909)|An attacker can trigger a buffer overflow of SIMATIC PCS Neo, via Integrated UMC Component, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-header-pax-extension-47723" class="noirorange"><b>libarchive</b>: NULL pointer dereference via header_pax_<wbr>extension()</wbr></a>](https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-header-pax-extension-47723)|An attacker can force a NULL pointer to be dereferenced on libarchive, via header_pax_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-July-2025-47722" class="noirorange"><b>Oracle VM VirtualBox</b>: vulnerabilities of July 2025</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-July-2025-47722)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
