@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/09/2025 21:20:33 UTC
+ > Last Updated 18/09/2025 09:26:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,19 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Application-Server-Liberty-privilege-escalation-dated-18-07-2025-47742" class="noirorange"><b>IBM WebSphere Application Server  Application Server Liberty</b>: privilege escalation dated 18/07/2025</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Application-Server-Liberty-privilege-escalation-dated-18-07-2025-47742)|An attacker can bypass restrictions of IBM WebSphere Application Server  Application Server Liberty, dated 18/07/2025, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MiniDLNA-buffer-overflow-via-ReadyMedia-47740" class="noirorange"><b>MiniDLNA</b>: buffer overflow via ReadyMedia</a>](https://vigilance.fr/vulnerability/MiniDLNA-buffer-overflow-via-ReadyMedia-47740)|An attacker can trigger a buffer overflow of MiniDLNA, via ReadyMedia, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-45917" class="noirorange"><b>Apache Tomcat</b>: code execution via Write-enabled Default Servlet</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-45917)|An attacker can use a vulnerability of Apache Tomcat, via Write-enabled Default Servlet, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Perl-Authen-SASL-Perl-DIGEST-MD5-spoofing-via-utilisation-d-un-mauvais-aleea-47738" class="noirorange"><b>Perl Authen-SASL-Perl-<wbr>DIGEST_MD5</wbr></b>: spoofing via utilisation d'un mauvais aléea</a>](https://vigilance.fr/vulnerability/Perl-Authen-SASL-Perl-DIGEST-MD5-spoofing-via-utilisation-d-un-mauvais-aleea-47738)|An attacker can create spoofed data on Perl Authen-SASL-Perl-|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Erlang-OTP-directory-escape-via-lib-stdlib-src-zip-erl-47737" class="noirorange"><b>Erlang OTP</b>: directory escape via lib/stdlib/src/zip.<wbr>erl</wbr></a>](https://vigilance.fr/vulnerability/Erlang-OTP-directory-escape-via-lib-stdlib-src-zip-erl-47737)|An attacker can escape from the working directory of Erlang OTP, via lib/stdlib/src/zip.|Visit link for details|
@@ -59,15 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Block-Attributes-Cross-Site-Scripting-dated-17-07-2025-47731" class="noirorange"><b>Drupal Block Attributes</b>: Cross Site Scripting dated 17/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-Block-Attributes-Cross-Site-Scripting-dated-17-07-2025-47731)|An attacker can trigger a Cross Site Scripting of Drupal Block Attributes, dated 17/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Download-file-reading-dated-17-07-2025-47730" class="noirorange"><b>Drupal File Download</b>: file reading dated 17/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-File-Download-file-reading-dated-17-07-2025-47730)|An attacker can read a file of Drupal File Download, dated 17/07/2025, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-file-write-via-tar-and-zip-extension-47729" class="noirorange"><b>Vim</b>: file write via tar and zip extension</a>](https://vigilance.fr/vulnerability/Vim-file-write-via-tar-and-zip-extension-47729)|An attacker can bypass access restrictions of Vim, via the zip and tar extensions, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-SQL-injection-via-API-REST-47728" class="noirorange"><b>Cisco Prime Infrastructure</b>: SQL injection via API REST</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-SQL-injection-via-API-REST-47728)|An attacker can use a SQL injection of Cisco Prime Infrastructure, via a REST API, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-PCS-Neo-buffer-overflow-via-Integrated-UMC-Component-45909" class="noirorange"><b>SIMATIC PCS Neo</b>: buffer overflow via Integrated UMC Component</a>](https://vigilance.fr/vulnerability/SIMATIC-PCS-Neo-buffer-overflow-via-Integrated-UMC-Component-45909)|An attacker can trigger a buffer overflow of SIMATIC PCS Neo, via Integrated UMC Component, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
