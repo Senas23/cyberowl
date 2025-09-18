@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/09/2025 09:26:28 UTC
+ > Last Updated 18/09/2025 21:22:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,13 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PHPUnit-code-execution-via-HTTP-POST-Data-45931" class="noirorange"><b>PHPUnit</b>: code execution via HTTP POST Data</a>](https://vigilance.fr/vulnerability/PHPUnit-code-execution-via-HTTP-POST-Data-45931)|An attacker can use a vulnerability of PHPUnit, via HTTP POST Data, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-dated-18-07-2025-47750" class="noirorange"><b>Grafana</b>: Cross Site Scripting dated 18/07/2025</a>](https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-dated-18-07-2025-47750)|An attacker can trigger a Cross Site Scripting of Grafana, dated 18/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libmobi-buffer-overflow-dated-18-07-2025-47745" class="noirorange"><b>libmobi</b>: buffer overflow dated 18/07/2025</a>](https://vigilance.fr/vulnerability/libmobi-buffer-overflow-dated-18-07-2025-47745)|An attacker can trigger a buffer overflow of libmobi, dated 18/07/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Application-Server-Liberty-privilege-escalation-dated-18-07-2025-47742" class="noirorange"><b>IBM WebSphere Application Server  Application Server Liberty</b>: privilege escalation dated 18/07/2025</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Application-Server-Liberty-privilege-escalation-dated-18-07-2025-47742)|An attacker can bypass restrictions of IBM WebSphere Application Server  Application Server Liberty, dated 18/07/2025, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MiniDLNA-buffer-overflow-via-ReadyMedia-47740" class="noirorange"><b>MiniDLNA</b>: buffer overflow via ReadyMedia</a>](https://vigilance.fr/vulnerability/MiniDLNA-buffer-overflow-via-ReadyMedia-47740)|An attacker can trigger a buffer overflow of MiniDLNA, via ReadyMedia, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-45917" class="noirorange"><b>Apache Tomcat</b>: code execution via Write-enabled Default Servlet</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-45917)|An attacker can use a vulnerability of Apache Tomcat, via Write-enabled Default Servlet, in order to run code...|Visit link for details|
@@ -65,9 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Erlang-OTP-directory-escape-via-lib-stdlib-src-zip-erl-47737" class="noirorange"><b>Erlang OTP</b>: directory escape via lib/stdlib/src/zip.<wbr>erl</wbr></a>](https://vigilance.fr/vulnerability/Erlang-OTP-directory-escape-via-lib-stdlib-src-zip-erl-47737)|An attacker can escape from the working directory of Erlang OTP, via lib/stdlib/src/zip.|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-stale-answer-client-timeout-47734" class="noirorange"><b>ISC BIND</b>: assertion error via stale-answer-client-<wbr>timeout</wbr></a>](https://vigilance.fr/vulnerability/ISC-BIND-assertion-error-via-stale-answer-client-timeout-47734)|An attacker can force an assertion error of ISC BIND, via stale-answer-client-|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Real-time-SEO-for-Drupal-Cross-Site-Scripting-dated-17-07-2025-47732" class="noirorange"><b>Drupal Real-time SEO for Drupal</b>: Cross Site Scripting dated 17/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-Real-time-SEO-for-Drupal-Cross-Site-Scripting-dated-17-07-2025-47732)|An attacker can trigger a Cross Site Scripting of Drupal Real-time SEO for Drupal, dated 17/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Block-Attributes-Cross-Site-Scripting-dated-17-07-2025-47731" class="noirorange"><b>Drupal Block Attributes</b>: Cross Site Scripting dated 17/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-Block-Attributes-Cross-Site-Scripting-dated-17-07-2025-47731)|An attacker can trigger a Cross Site Scripting of Drupal Block Attributes, dated 17/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-File-Download-file-reading-dated-17-07-2025-47730" class="noirorange"><b>Drupal File Download</b>: file reading dated 17/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-File-Download-file-reading-dated-17-07-2025-47730)|An attacker can read a file of Drupal File Download, dated 17/07/2025, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-file-write-via-tar-and-zip-extension-47729" class="noirorange"><b>Vim</b>: file write via tar and zip extension</a>](https://vigilance.fr/vulnerability/Vim-file-write-via-tar-and-zip-extension-47729)|An attacker can bypass access restrictions of Vim, via the zip and tar extensions, in order to alter files...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
