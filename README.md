@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/09/2025 21:21:19 UTC
+ > Last Updated 20/09/2025 09:23:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-information-disclosure-via-uefi-vars-48139" class="noirorange"><b>QEMU</b>: information disclosure via uefi-vars</a>](https://vigilance.fr/vulnerability/QEMU-information-disclosure-via-uefi-vars-48139)|An attacker, in a guest system, can bypass access restrictions to data of QEMU, via uefi-vars, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/jsonpath-plus-code-execution-via-Default-Vm-Usage-45947" class="noirorange"><b>jsonpath-plus</b>: code execution via Default Vm Usage</a>](https://vigilance.fr/vulnerability/jsonpath-plus-code-execution-via-Default-Vm-Usage-45947)|An attacker can use a vulnerability of jsonpath-plus, via Default Vm Usage, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-19-12-2024-45938" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities dated 19/12/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-19-12-2024-45938)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 19/12/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-information-disclosure-via-Management-Interface-48124" class="noirorange"><b>Cisco Prime Infrastructure</b>: information disclosure via Management Interface</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-information-disclosure-via-Management-Interface-48124)|An attacker can bypass access restrictions to data of Cisco Prime Infrastructure, via Management Interface, in order to read sensitive information...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Application-Server-Liberty-privilege-escalation-dated-18-07-2025-47742" class="noirorange"><b>IBM WebSphere Application Server  Application Server Liberty</b>: privilege escalation dated 18/07/2025</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Application-Server-Liberty-privilege-escalation-dated-18-07-2025-47742)|An attacker can bypass restrictions of IBM WebSphere Application Server  Application Server Liberty, dated 18/07/2025, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MiniDLNA-buffer-overflow-via-ReadyMedia-47740" class="noirorange"><b>MiniDLNA</b>: buffer overflow via ReadyMedia</a>](https://vigilance.fr/vulnerability/MiniDLNA-buffer-overflow-via-ReadyMedia-47740)|An attacker can trigger a buffer overflow of MiniDLNA, via ReadyMedia, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-45917" class="noirorange"><b>Apache Tomcat</b>: code execution via Write-enabled Default Servlet</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-45917)|An attacker can use a vulnerability of Apache Tomcat, via Write-enabled Default Servlet, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Authen-SASL-Perl-DIGEST-MD5-spoofing-via-utilisation-d-un-mauvais-aleea-47738" class="noirorange"><b>Perl Authen-SASL-Perl-<wbr>DIGEST_MD5</wbr></b>: spoofing via utilisation d'un mauvais aléea</a>](https://vigilance.fr/vulnerability/Perl-Authen-SASL-Perl-DIGEST-MD5-spoofing-via-utilisation-d-un-mauvais-aleea-47738)|An attacker can create spoofed data on Perl Authen-SASL-Perl-|Visit link for details|
  
  ---
 
