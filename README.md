@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/09/2025 21:19:06 UTC
+ > Last Updated 21/09/2025 09:22:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-19-07-2025-47754" class="noirorange"><b>Linux kernel</b>: three vulnerabilities dated 19/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-19-07-2025-47754)|An attacker can use several vulnerabilities of the Linux kernel, dated 19/07/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Angular-five-vulnerabilities-dated-21-07-2025-47753" class="noirorange"><b>Angular</b>: five vulnerabilities dated 21/07/2025</a>](https://vigilance.fr/vulnerability/Angular-five-vulnerabilities-dated-21-07-2025-47753)|An attacker can use several vulnerabilities of Angular, dated 21/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-information-disclosure-via-uefi-vars-48139" class="noirorange"><b>QEMU</b>: information disclosure via uefi-vars</a>](https://vigilance.fr/vulnerability/QEMU-information-disclosure-via-uefi-vars-48139)|An attacker, in a guest system, can bypass access restrictions to data of QEMU, via uefi-vars, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/jsonpath-plus-code-execution-via-Default-Vm-Usage-45947" class="noirorange"><b>jsonpath-plus</b>: code execution via Default Vm Usage</a>](https://vigilance.fr/vulnerability/jsonpath-plus-code-execution-via-Default-Vm-Usage-45947)|An attacker can use a vulnerability of jsonpath-plus, via Default Vm Usage, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-19-12-2024-45938" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities dated 19/12/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-19-12-2024-45938)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 19/12/2024...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-dated-18-07-2025-47750" class="noirorange"><b>Grafana</b>: Cross Site Scripting dated 18/07/2025</a>](https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-dated-18-07-2025-47750)|An attacker can trigger a Cross Site Scripting of Grafana, dated 18/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libmobi-buffer-overflow-dated-18-07-2025-47745" class="noirorange"><b>libmobi</b>: buffer overflow dated 18/07/2025</a>](https://vigilance.fr/vulnerability/libmobi-buffer-overflow-dated-18-07-2025-47745)|An attacker can trigger a buffer overflow of libmobi, dated 18/07/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Application-Server-Liberty-privilege-escalation-dated-18-07-2025-47742" class="noirorange"><b>IBM WebSphere Application Server  Application Server Liberty</b>: privilege escalation dated 18/07/2025</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Application-Server-Liberty-privilege-escalation-dated-18-07-2025-47742)|An attacker can bypass restrictions of IBM WebSphere Application Server  Application Server Liberty, dated 18/07/2025, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MiniDLNA-buffer-overflow-via-ReadyMedia-47740" class="noirorange"><b>MiniDLNA</b>: buffer overflow via ReadyMedia</a>](https://vigilance.fr/vulnerability/MiniDLNA-buffer-overflow-via-ReadyMedia-47740)|An attacker can trigger a buffer overflow of MiniDLNA, via ReadyMedia, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-45917" class="noirorange"><b>Apache Tomcat</b>: code execution via Write-enabled Default Servlet</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-45917)|An attacker can use a vulnerability of Apache Tomcat, via Write-enabled Default Servlet, in order to run code...|Visit link for details|
  
  ---
 
