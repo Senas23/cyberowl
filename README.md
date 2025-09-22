@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/09/2025 09:29:40 UTC
+ > Last Updated 22/09/2025 21:21:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0810/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 22 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0809/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité CVE-2025-10585 est activement exploitée.|Publié le 22 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0808/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0807/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 19 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0806/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.|Publié le 19 septembre 2025|
@@ -42,25 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0803/)|Une vulnérabilité a été découverte dans HPE Aruba Networking ClearPass Policy Manager. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 18 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0802/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2025-10585 est activement exploitée.|Publié le 18 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0801/)|De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0800/)|De multiples vulnérabilités ont été découvertes dans Liferay. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 17 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0799/)|Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 septembre 2025|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-via-fsm-go-47773" class="noirorange"><b>GoBGP</b>: buffer overflow via fsm.go</a>](https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-via-fsm-go-47773)|An attacker can trigger a buffer overflow of GoBGP, via fsm.go, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-dated-22-07-2025-47772" class="noirorange"><b>GoBGP</b>: buffer overflow dated 22/07/2025</a>](https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-dated-22-07-2025-47772)|An attacker can trigger a buffer overflow of GoBGP, dated 22/07/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/fdkaac-denial-of-service-dated-22-07-2025-47771" class="noirorange"><b>fdkaac</b>: denial of service dated 22/07/2025</a>](https://vigilance.fr/vulnerability/fdkaac-denial-of-service-dated-22-07-2025-47771)|An attacker can cause a fatal error of fdkaac, dated 22/07/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/fdkaac-memory-corruption-dated-22-07-2025-47770" class="noirorange"><b>fdkaac</b>: memory corruption dated 22/07/2025</a>](https://vigilance.fr/vulnerability/fdkaac-memory-corruption-dated-22-07-2025-47770)|An attacker can trigger a memory corruption of fdkaac, dated 22/07/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ubuntu-jq-denial-of-service-via-NaN-47769" class="noirorange"><b>Ubuntu jq</b>: denial of service via NaN</a>](https://vigilance.fr/vulnerability/Ubuntu-jq-denial-of-service-via-NaN-47769)|An attacker can cause a fatal error of Ubuntu jq, via NaN, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iputils-integer-overflow-via-ping-47767" class="noirorange"><b>iputils</b>: integer overflow via ping</a>](https://vigilance.fr/vulnerability/iputils-integer-overflow-via-ping-47767)|An attacker can trigger an integer overflow of iputils, via ping, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gdk-pixbuf-buffer-overflow-via-gdk-pixbuf-jpeg-image-load-increment-47766" class="noirorange"><b>gdk-pixbuf</b>: buffer overflow via gdk_pixbuf__jpeg_<wbr>image_load_<wbr>increment()</wbr></wbr></a>](https://vigilance.fr/vulnerability/gdk-pixbuf-buffer-overflow-via-gdk-pixbuf-jpeg-image-load-increment-47766)|An attacker can trigger a buffer overflow of gdk-pixbuf, via gdk_pixbuf__jpeg_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OWASP-ESAPI-Cross-Site-Scripting-via-antisamy-esapi-xml-47764" class="noirorange"><b>OWASP ESAPI</b>: Cross Site Scripting via antisamy-esapi.xml</a>](https://vigilance.fr/vulnerability/OWASP-ESAPI-Cross-Site-Scripting-via-antisamy-esapi-xml-47764)|An attacker can trigger a Cross Site Scripting of OWASP ESAPI, via antisamy-esapi.xml, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OWASP-ESAPI-vulnerability-via-Encoder-encodeForSQL-47763" class="noirorange"><b>OWASP ESAPI</b>: vulnerability via Encoder.encodeForSQL</a>](https://vigilance.fr/vulnerability/OWASP-ESAPI-vulnerability-via-Encoder-encodeForSQL-47763)|A vulnerability of OWASP ESAPI, via Encoder.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-Avamar-information-disclosure-via-interface-Web-47760" class="noirorange"><b>Dell Avamar</b>: information disclosure via interface Web</a>](https://vigilance.fr/vulnerability/Dell-Avamar-information-disclosure-via-interface-Web-47760)|An attacker can bypass access restrictions to data of Dell Avamar, via a Web interface, in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -68,6 +51,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-identity-47778" class="noirorange"><b>TYPO3 femanager</b>: user access via __identity</a>](https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-identity-47778)|An attacker can bypass restrictions of TYPO3 femanager, via the parameter __identity, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-powermail-file-reading-via-downloadFile-47777" class="noirorange"><b>TYPO3 powermail</b>: file reading via downloadFile()</a>](https://vigilance.fr/vulnerability/TYPO3-powermail-file-reading-via-downloadFile-47777)|An attacker can read a file of TYPO3 powermail, via downloadFile(), in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-two-vulnerabilities-dated-22-03-2024-43849" class="noirorange"><b>Mozilla Firefox</b>: two vulnerabilities dated 22/03/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-two-vulnerabilities-dated-22-03-2024-43849)|An attacker can use several vulnerabilities of Mozilla Firefox, dated 22/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/hMailServer-three-vulnerabilities-dated-22-07-2025-47774" class="noirorange"><b>hMailServer</b>: three vulnerabilities dated 22/07/2025</a>](https://vigilance.fr/vulnerability/hMailServer-three-vulnerabilities-dated-22-07-2025-47774)|An attacker can use several vulnerabilities of hMailServer, dated 22/07/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-via-fsm-go-47773" class="noirorange"><b>GoBGP</b>: buffer overflow via fsm.go</a>](https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-via-fsm-go-47773)|An attacker can trigger a buffer overflow of GoBGP, via fsm.go, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-dated-22-07-2025-47772" class="noirorange"><b>GoBGP</b>: buffer overflow dated 22/07/2025</a>](https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-dated-22-07-2025-47772)|An attacker can trigger a buffer overflow of GoBGP, dated 22/07/2025, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/fdkaac-denial-of-service-dated-22-07-2025-47771" class="noirorange"><b>fdkaac</b>: denial of service dated 22/07/2025</a>](https://vigilance.fr/vulnerability/fdkaac-denial-of-service-dated-22-07-2025-47771)|An attacker can cause a fatal error of fdkaac, dated 22/07/2025, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/fdkaac-memory-corruption-dated-22-07-2025-47770" class="noirorange"><b>fdkaac</b>: memory corruption dated 22/07/2025</a>](https://vigilance.fr/vulnerability/fdkaac-memory-corruption-dated-22-07-2025-47770)|An attacker can trigger a memory corruption of fdkaac, dated 22/07/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ubuntu-jq-denial-of-service-via-NaN-47769" class="noirorange"><b>Ubuntu jq</b>: denial of service via NaN</a>](https://vigilance.fr/vulnerability/Ubuntu-jq-denial-of-service-via-NaN-47769)|An attacker can cause a fatal error of Ubuntu jq, via NaN, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iputils-integer-overflow-via-ping-47767" class="noirorange"><b>iputils</b>: integer overflow via ping</a>](https://vigilance.fr/vulnerability/iputils-integer-overflow-via-ping-47767)|An attacker can trigger an integer overflow of iputils, via ping, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
