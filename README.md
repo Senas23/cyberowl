@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/09/2025 21:20:32 UTC
+ > Last Updated 22/09/2025 09:29:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-via-fsm-go-47773" class="noirorange"><b>GoBGP</b>: buffer overflow via fsm.go</a>](https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-via-fsm-go-47773)|An attacker can trigger a buffer overflow of GoBGP, via fsm.go, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-dated-22-07-2025-47772" class="noirorange"><b>GoBGP</b>: buffer overflow dated 22/07/2025</a>](https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-dated-22-07-2025-47772)|An attacker can trigger a buffer overflow of GoBGP, dated 22/07/2025, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/fdkaac-denial-of-service-dated-22-07-2025-47771" class="noirorange"><b>fdkaac</b>: denial of service dated 22/07/2025</a>](https://vigilance.fr/vulnerability/fdkaac-denial-of-service-dated-22-07-2025-47771)|An attacker can cause a fatal error of fdkaac, dated 22/07/2025, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/fdkaac-memory-corruption-dated-22-07-2025-47770" class="noirorange"><b>fdkaac</b>: memory corruption dated 22/07/2025</a>](https://vigilance.fr/vulnerability/fdkaac-memory-corruption-dated-22-07-2025-47770)|An attacker can trigger a memory corruption of fdkaac, dated 22/07/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ubuntu-jq-denial-of-service-via-NaN-47769" class="noirorange"><b>Ubuntu jq</b>: denial of service via NaN</a>](https://vigilance.fr/vulnerability/Ubuntu-jq-denial-of-service-via-NaN-47769)|An attacker can cause a fatal error of Ubuntu jq, via NaN, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iputils-integer-overflow-via-ping-47767" class="noirorange"><b>iputils</b>: integer overflow via ping</a>](https://vigilance.fr/vulnerability/iputils-integer-overflow-via-ping-47767)|An attacker can trigger an integer overflow of iputils, via ping, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gdk-pixbuf-buffer-overflow-via-gdk-pixbuf-jpeg-image-load-increment-47766" class="noirorange"><b>gdk-pixbuf</b>: buffer overflow via gdk_pixbuf__jpeg_<wbr>image_load_<wbr>increment()</wbr></wbr></a>](https://vigilance.fr/vulnerability/gdk-pixbuf-buffer-overflow-via-gdk-pixbuf-jpeg-image-load-increment-47766)|An attacker can trigger a buffer overflow of gdk-pixbuf, via gdk_pixbuf__jpeg_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OWASP-ESAPI-Cross-Site-Scripting-via-antisamy-esapi-xml-47764" class="noirorange"><b>OWASP ESAPI</b>: Cross Site Scripting via antisamy-esapi.xml</a>](https://vigilance.fr/vulnerability/OWASP-ESAPI-Cross-Site-Scripting-via-antisamy-esapi-xml-47764)|An attacker can trigger a Cross Site Scripting of OWASP ESAPI, via antisamy-esapi.xml, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OWASP-ESAPI-vulnerability-via-Encoder-encodeForSQL-47763" class="noirorange"><b>OWASP ESAPI</b>: vulnerability via Encoder.encodeForSQL</a>](https://vigilance.fr/vulnerability/OWASP-ESAPI-vulnerability-via-Encoder-encodeForSQL-47763)|A vulnerability of OWASP ESAPI, via Encoder.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-Avamar-information-disclosure-via-interface-Web-47760" class="noirorange"><b>Dell Avamar</b>: information disclosure via interface Web</a>](https://vigilance.fr/vulnerability/Dell-Avamar-information-disclosure-via-interface-Web-47760)|An attacker can bypass access restrictions to data of Dell Avamar, via a Web interface, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -55,13 +72,6 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
