@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/09/2025 21:21:36 UTC
+ > Last Updated 23/09/2025 09:27:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-2-45958" class="noirorange"><b>Apache Tomcat</b>: code execution via Write-enabled Default Servlet 2</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-2-45958)|An attacker can use a vulnerability of Apache Tomcat, via Write-enabled Default Servlet 2, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-identity-47778" class="noirorange"><b>TYPO3 femanager</b>: user access via __identity</a>](https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-identity-47778)|An attacker can bypass restrictions of TYPO3 femanager, via the parameter __identity, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-powermail-file-reading-via-downloadFile-47777" class="noirorange"><b>TYPO3 powermail</b>: file reading via downloadFile()</a>](https://vigilance.fr/vulnerability/TYPO3-powermail-file-reading-via-downloadFile-47777)|An attacker can read a file of TYPO3 powermail, via downloadFile(), in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-two-vulnerabilities-dated-22-03-2024-43849" class="noirorange"><b>Mozilla Firefox</b>: two vulnerabilities dated 22/03/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-two-vulnerabilities-dated-22-03-2024-43849)|An attacker can use several vulnerabilities of Mozilla Firefox, dated 22/03/2024...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/fdkaac-denial-of-service-dated-22-07-2025-47771" class="noirorange"><b>fdkaac</b>: denial of service dated 22/07/2025</a>](https://vigilance.fr/vulnerability/fdkaac-denial-of-service-dated-22-07-2025-47771)|An attacker can cause a fatal error of fdkaac, dated 22/07/2025, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/fdkaac-memory-corruption-dated-22-07-2025-47770" class="noirorange"><b>fdkaac</b>: memory corruption dated 22/07/2025</a>](https://vigilance.fr/vulnerability/fdkaac-memory-corruption-dated-22-07-2025-47770)|An attacker can trigger a memory corruption of fdkaac, dated 22/07/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ubuntu-jq-denial-of-service-via-NaN-47769" class="noirorange"><b>Ubuntu jq</b>: denial of service via NaN</a>](https://vigilance.fr/vulnerability/Ubuntu-jq-denial-of-service-via-NaN-47769)|An attacker can cause a fatal error of Ubuntu jq, via NaN, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iputils-integer-overflow-via-ping-47767" class="noirorange"><b>iputils</b>: integer overflow via ping</a>](https://vigilance.fr/vulnerability/iputils-integer-overflow-via-ping-47767)|An attacker can trigger an integer overflow of iputils, via ping, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
