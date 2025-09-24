@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/09/2025 09:27:14 UTC
+ > Last Updated 24/09/2025 21:22:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0815/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 24 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0813/)|Une vulnérabilité a été découverte dans SolarWinds Web Help Desk. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0812/)|Une vulnérabilité a été découverte dans Synology Safe Access pour SRM. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 23 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0811/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 23 septembre 2025|
@@ -42,8 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0808/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0807/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 19 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0806/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.|Publié le 19 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0805/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 19 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0804/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 19 septembre 2025|
  
  ---
 
@@ -51,16 +51,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Tanuki-Java-Service-Wrapper-information-disclosure-via-Unix-Pipe-permissions-48170" class="noirorange"><b>Tanuki Java Service Wrapper</b>: information disclosure via Unix Pipe permissions</a>](https://vigilance.fr/vulnerability/Tanuki-Java-Service-Wrapper-information-disclosure-via-Unix-Pipe-permissions-48170)|An attacker can bypass access restrictions to data of Tanuki Java Service Wrapper, via Unix Pipe permissions, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-JDBC-Man-in-the-Middle-dated-24-07-2025-47790" class="noirorange"><b>PostgreSQL JDBC</b>: Man-in-the-Middle dated 24/07/2025</a>](https://vigilance.fr/vulnerability/PostgreSQL-JDBC-Man-in-the-Middle-dated-24-07-2025-47790)|An attacker can act as a Man-in-the-Middle on PostgreSQL JDBC, dated 24/07/2025, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-dated-24-07-2025-47789" class="noirorange"><b>Centreon Web</b>: SQL injection dated 24/07/2025</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-dated-24-07-2025-47789)|An attacker can use a SQL injection of Centreon Web, dated 24/07/2025, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Password-Generation-Insufficient-Entropy-48163" class="noirorange"><b>TYPO3 Core</b>: user access via Password Generation Insufficient Entropy</a>](https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Password-Generation-Insufficient-Entropy-48163)|An attacker can bypass restrictions of TYPO3 Core, via Password Generation Insufficient Entropy, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-open-redirect-via-sanitizeLocalUrl-48161" class="noirorange"><b>TYPO3 Core</b>: open redirect via sanitizeLocalUrl()</a>](https://vigilance.fr/vulnerability/TYPO3-Core-open-redirect-via-sanitizeLocalUrl-48161)|An attacker can deceive the user of TYPO3 Core, via sanitizeLocalUrl(), in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-COOKiES-Consent-Management-Cross-Site-Scripting-dated-24-07-2025-47788" class="noirorange"><b>Drupal COOKiES Consent Management</b>: Cross Site Scripting dated 24/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-COOKiES-Consent-Management-Cross-Site-Scripting-dated-24-07-2025-47788)|An attacker can trigger a Cross Site Scripting of Drupal COOKiES Consent Management, dated 24/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-HTTP-Server-ingress-filtrering-bypass-via-RewriteCond-47787" class="noirorange"><b>Apache HTTP Server</b>: ingress filtrering bypass via RewriteCond</a>](https://vigilance.fr/vulnerability/Apache-HTTP-Server-ingress-filtrering-bypass-via-RewriteCond-47787)|An attacker can bypass filtering rules of Apache HTTP Server, via RewriteCond, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SPIP-open-redirect-via-Ajax-Login-Form-48152" class="noirorange"><b>SPIP</b>: open redirect via Ajax Login Form</a>](https://vigilance.fr/vulnerability/SPIP-open-redirect-via-Ajax-Login-Form-48152)|An attacker can deceive the user of SPIP, via Ajax Login Form, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-2-45958" class="noirorange"><b>Apache Tomcat</b>: code execution via Write-enabled Default Servlet 2</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-2-45958)|An attacker can use a vulnerability of Apache Tomcat, via Write-enabled Default Servlet 2, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-identity-47778" class="noirorange"><b>TYPO3 femanager</b>: user access via __identity</a>](https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-identity-47778)|An attacker can bypass restrictions of TYPO3 femanager, via the parameter __identity, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-powermail-file-reading-via-downloadFile-47777" class="noirorange"><b>TYPO3 powermail</b>: file reading via downloadFile()</a>](https://vigilance.fr/vulnerability/TYPO3-powermail-file-reading-via-downloadFile-47777)|An attacker can read a file of TYPO3 powermail, via downloadFile(), in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-two-vulnerabilities-dated-22-03-2024-43849" class="noirorange"><b>Mozilla Firefox</b>: two vulnerabilities dated 22/03/2024</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-two-vulnerabilities-dated-22-03-2024-43849)|An attacker can use several vulnerabilities of Mozilla Firefox, dated 22/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/hMailServer-three-vulnerabilities-dated-22-07-2025-47774" class="noirorange"><b>hMailServer</b>: three vulnerabilities dated 22/07/2025</a>](https://vigilance.fr/vulnerability/hMailServer-three-vulnerabilities-dated-22-07-2025-47774)|An attacker can use several vulnerabilities of hMailServer, dated 22/07/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-via-fsm-go-47773" class="noirorange"><b>GoBGP</b>: buffer overflow via fsm.go</a>](https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-via-fsm-go-47773)|An attacker can trigger a buffer overflow of GoBGP, via fsm.go, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-dated-22-07-2025-47772" class="noirorange"><b>GoBGP</b>: buffer overflow dated 22/07/2025</a>](https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-dated-22-07-2025-47772)|An attacker can trigger a buffer overflow of GoBGP, dated 22/07/2025, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
