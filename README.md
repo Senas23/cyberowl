@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/09/2025 21:21:27 UTC
+ > Last Updated 24/09/2025 09:27:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-COOKiES-Consent-Management-Cross-Site-Scripting-dated-24-07-2025-47788" class="noirorange"><b>Drupal COOKiES Consent Management</b>: Cross Site Scripting dated 24/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-COOKiES-Consent-Management-Cross-Site-Scripting-dated-24-07-2025-47788)|An attacker can trigger a Cross Site Scripting of Drupal COOKiES Consent Management, dated 24/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-HTTP-Server-ingress-filtrering-bypass-via-RewriteCond-47787" class="noirorange"><b>Apache HTTP Server</b>: ingress filtrering bypass via RewriteCond</a>](https://vigilance.fr/vulnerability/Apache-HTTP-Server-ingress-filtrering-bypass-via-RewriteCond-47787)|An attacker can bypass filtering rules of Apache HTTP Server, via RewriteCond, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SPIP-open-redirect-via-Ajax-Login-Form-48152" class="noirorange"><b>SPIP</b>: open redirect via Ajax Login Form</a>](https://vigilance.fr/vulnerability/SPIP-open-redirect-via-Ajax-Login-Form-48152)|An attacker can deceive the user of SPIP, via Ajax Login Form, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-2-45958" class="noirorange"><b>Apache Tomcat</b>: code execution via Write-enabled Default Servlet 2</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-2-45958)|An attacker can use a vulnerability of Apache Tomcat, via Write-enabled Default Servlet 2, in order to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/hMailServer-three-vulnerabilities-dated-22-07-2025-47774" class="noirorange"><b>hMailServer</b>: three vulnerabilities dated 22/07/2025</a>](https://vigilance.fr/vulnerability/hMailServer-three-vulnerabilities-dated-22-07-2025-47774)|An attacker can use several vulnerabilities of hMailServer, dated 22/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-via-fsm-go-47773" class="noirorange"><b>GoBGP</b>: buffer overflow via fsm.go</a>](https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-via-fsm-go-47773)|An attacker can trigger a buffer overflow of GoBGP, via fsm.go, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-dated-22-07-2025-47772" class="noirorange"><b>GoBGP</b>: buffer overflow dated 22/07/2025</a>](https://vigilance.fr/vulnerability/GoBGP-buffer-overflow-dated-22-07-2025-47772)|An attacker can trigger a buffer overflow of GoBGP, dated 22/07/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/fdkaac-denial-of-service-dated-22-07-2025-47771" class="noirorange"><b>fdkaac</b>: denial of service dated 22/07/2025</a>](https://vigilance.fr/vulnerability/fdkaac-denial-of-service-dated-22-07-2025-47771)|An attacker can cause a fatal error of fdkaac, dated 22/07/2025, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
