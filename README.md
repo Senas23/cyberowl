@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/09/2025 21:22:40 UTC
+ > Last Updated 25/09/2025 09:26:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-a-stored-procedure-47791" class="noirorange"><b>IBM i</b>: privilege escalation via a stored procedure</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-a-stored-procedure-47791)|An attacker can bypass restrictions of IBM i, via a stored procedure, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/curl-information-disclosure-via-Predictable-WebSocket-Mask-48186" class="noirorange"><b>curl</b>: information disclosure via Predictable WebSocket Mask</a>](https://vigilance.fr/vulnerability/curl-information-disclosure-via-Predictable-WebSocket-Mask-48186)|An attacker can bypass access restrictions to data of curl, via Predictable WebSocket Mask, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tanuki-Java-Service-Wrapper-information-disclosure-via-Unix-Pipe-permissions-48170" class="noirorange"><b>Tanuki Java Service Wrapper</b>: information disclosure via Unix Pipe permissions</a>](https://vigilance.fr/vulnerability/Tanuki-Java-Service-Wrapper-information-disclosure-via-Unix-Pipe-permissions-48170)|An attacker can bypass access restrictions to data of Tanuki Java Service Wrapper, via Unix Pipe permissions, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-JDBC-Man-in-the-Middle-dated-24-07-2025-47790" class="noirorange"><b>PostgreSQL JDBC</b>: Man-in-the-Middle dated 24/07/2025</a>](https://vigilance.fr/vulnerability/PostgreSQL-JDBC-Man-in-the-Middle-dated-24-07-2025-47790)|An attacker can act as a Man-in-the-Middle on PostgreSQL JDBC, dated 24/07/2025, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-dated-24-07-2025-47789" class="noirorange"><b>Centreon Web</b>: SQL injection dated 24/07/2025</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-dated-24-07-2025-47789)|An attacker can use a SQL injection of Centreon Web, dated 24/07/2025, in order to read or alter data...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-COOKiES-Consent-Management-Cross-Site-Scripting-dated-24-07-2025-47788" class="noirorange"><b>Drupal COOKiES Consent Management</b>: Cross Site Scripting dated 24/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-COOKiES-Consent-Management-Cross-Site-Scripting-dated-24-07-2025-47788)|An attacker can trigger a Cross Site Scripting of Drupal COOKiES Consent Management, dated 24/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-HTTP-Server-ingress-filtrering-bypass-via-RewriteCond-47787" class="noirorange"><b>Apache HTTP Server</b>: ingress filtrering bypass via RewriteCond</a>](https://vigilance.fr/vulnerability/Apache-HTTP-Server-ingress-filtrering-bypass-via-RewriteCond-47787)|An attacker can bypass filtering rules of Apache HTTP Server, via RewriteCond, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SPIP-open-redirect-via-Ajax-Login-Form-48152" class="noirorange"><b>SPIP</b>: open redirect via Ajax Login Form</a>](https://vigilance.fr/vulnerability/SPIP-open-redirect-via-Ajax-Login-Form-48152)|An attacker can deceive the user of SPIP, via Ajax Login Form, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-2-45958" class="noirorange"><b>Apache Tomcat</b>: code execution via Write-enabled Default Servlet 2</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Write-enabled-Default-Servlet-2-45958)|An attacker can use a vulnerability of Apache Tomcat, via Write-enabled Default Servlet 2, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-identity-47778" class="noirorange"><b>TYPO3 femanager</b>: user access via __identity</a>](https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-identity-47778)|An attacker can bypass restrictions of TYPO3 femanager, via the parameter __identity, in order to gain user privileges...|Visit link for details|
  
  ---
 
