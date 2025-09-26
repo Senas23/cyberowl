@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/09/2025 09:26:59 UTC
+ > Last Updated 26/09/2025 21:20:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0828/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 26 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0827/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 26 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0826/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 26 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0825/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 26 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0824/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0823/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0822/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 26 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0821/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 26 septembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0820/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 26 septembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0819/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. Cisco indique que les vulnérabilités CVE-2025-20333 et CVE-2025-20362 sont activement...|Publié le 25 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0818/)|De multiples vulnérabilités ont été découvertes dans Cisco IOS et IOS XE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2025-20352 est...|Publié le 25 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0817/)|Une vulnérabilité a été découverte dans Microsoft OmniParser. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 25 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0816/)|Une vulnérabilité a été découverte dans StormShield Network Security. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0815/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0814/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.|Publié le 24 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0813/)|Une vulnérabilité a été découverte dans SolarWinds Web Help Desk. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0812/)|Une vulnérabilité a été découverte dans Synology Safe Access pour SRM. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 23 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0811/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 23 septembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0810/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 22 septembre 2025|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-26-03-2024-43871" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 26/03/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-26-03-2024-43871)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 26/03/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Zen-Processors-information-disclosure-via-VMScape-48209" class="noirorange"><b>AMD Zen Processors</b>: information disclosure via VMScape</a>](https://vigilance.fr/vulnerability/AMD-Zen-Processors-information-disclosure-via-VMScape-48209)|An attacker, in a guest system, can bypass access restrictions to data of AMD Zen Processors, via VMScape, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-instaler-47795" class="noirorange"><b>ESET NOD32 Antivirus</b>: file deletion via instaler</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-instaler-47795)|An attacker can bypass access restrictions of ESET NOD32 Antivirus, via installer, in order to delete a file...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-a-stored-procedure-47791" class="noirorange"><b>IBM i</b>: privilege escalation via a stored procedure</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-a-stored-procedure-47791)|An attacker can bypass restrictions of IBM i, via a stored procedure, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/curl-information-disclosure-via-Predictable-WebSocket-Mask-48186" class="noirorange"><b>curl</b>: information disclosure via Predictable WebSocket Mask</a>](https://vigilance.fr/vulnerability/curl-information-disclosure-via-Predictable-WebSocket-Mask-48186)|An attacker can bypass access restrictions to data of curl, via Predictable WebSocket Mask, in order to read sensitive information...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-dated-24-07-2025-47789" class="noirorange"><b>Centreon Web</b>: SQL injection dated 24/07/2025</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-dated-24-07-2025-47789)|An attacker can use a SQL injection of Centreon Web, dated 24/07/2025, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Password-Generation-Insufficient-Entropy-48163" class="noirorange"><b>TYPO3 Core</b>: user access via Password Generation Insufficient Entropy</a>](https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Password-Generation-Insufficient-Entropy-48163)|An attacker can bypass restrictions of TYPO3 Core, via Password Generation Insufficient Entropy, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-open-redirect-via-sanitizeLocalUrl-48161" class="noirorange"><b>TYPO3 Core</b>: open redirect via sanitizeLocalUrl()</a>](https://vigilance.fr/vulnerability/TYPO3-Core-open-redirect-via-sanitizeLocalUrl-48161)|An attacker can deceive the user of TYPO3 Core, via sanitizeLocalUrl(), in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-COOKiES-Consent-Management-Cross-Site-Scripting-dated-24-07-2025-47788" class="noirorange"><b>Drupal COOKiES Consent Management</b>: Cross Site Scripting dated 24/07/2025</a>](https://vigilance.fr/vulnerability/Drupal-COOKiES-Consent-Management-Cross-Site-Scripting-dated-24-07-2025-47788)|An attacker can trigger a Cross Site Scripting of Drupal COOKiES Consent Management, dated 24/07/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-HTTP-Server-ingress-filtrering-bypass-via-RewriteCond-47787" class="noirorange"><b>Apache HTTP Server</b>: ingress filtrering bypass via RewriteCond</a>](https://vigilance.fr/vulnerability/Apache-HTTP-Server-ingress-filtrering-bypass-via-RewriteCond-47787)|An attacker can bypass filtering rules of Apache HTTP Server, via RewriteCond, in order to send malicious data...|Visit link for details|
  
  ---
 
