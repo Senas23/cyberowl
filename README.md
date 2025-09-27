@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/09/2025 21:20:34 UTC
+ > Last Updated 27/09/2025 09:21:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Web-Content-5-45980" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: memory corruption via Web Content 5</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Web-Content-5-45980)|An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, via Web Content 5, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Web-Content-3-45978" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: memory corruption via Web Content 3</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Web-Content-3-45978)|An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, via Web Content 3, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sympa-user-access-via-Generic-SSO-Login-45973" class="noirorange"><b>Sympa</b>: user access via Generic SSO Login</a>](https://vigilance.fr/vulnerability/Sympa-user-access-via-Generic-SSO-Login-45973)|An attacker can bypass restrictions of Sympa, via Generic SSO Login, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-26-03-2024-43871" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 26/03/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-26-03-2024-43871)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 26/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AMD-Zen-Processors-information-disclosure-via-VMScape-48209" class="noirorange"><b>AMD Zen Processors</b>: information disclosure via VMScape</a>](https://vigilance.fr/vulnerability/AMD-Zen-Processors-information-disclosure-via-VMScape-48209)|An attacker, in a guest system, can bypass access restrictions to data of AMD Zen Processors, via VMScape, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-instaler-47795" class="noirorange"><b>ESET NOD32 Antivirus</b>: file deletion via instaler</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-instaler-47795)|An attacker can bypass access restrictions of ESET NOD32 Antivirus, via installer, in order to delete a file...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/curl-information-disclosure-via-Predictable-WebSocket-Mask-48186" class="noirorange"><b>curl</b>: information disclosure via Predictable WebSocket Mask</a>](https://vigilance.fr/vulnerability/curl-information-disclosure-via-Predictable-WebSocket-Mask-48186)|An attacker can bypass access restrictions to data of curl, via Predictable WebSocket Mask, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tanuki-Java-Service-Wrapper-information-disclosure-via-Unix-Pipe-permissions-48170" class="noirorange"><b>Tanuki Java Service Wrapper</b>: information disclosure via Unix Pipe permissions</a>](https://vigilance.fr/vulnerability/Tanuki-Java-Service-Wrapper-information-disclosure-via-Unix-Pipe-permissions-48170)|An attacker can bypass access restrictions to data of Tanuki Java Service Wrapper, via Unix Pipe permissions, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-JDBC-Man-in-the-Middle-dated-24-07-2025-47790" class="noirorange"><b>PostgreSQL JDBC</b>: Man-in-the-Middle dated 24/07/2025</a>](https://vigilance.fr/vulnerability/PostgreSQL-JDBC-Man-in-the-Middle-dated-24-07-2025-47790)|An attacker can act as a Man-in-the-Middle on PostgreSQL JDBC, dated 24/07/2025, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-dated-24-07-2025-47789" class="noirorange"><b>Centreon Web</b>: SQL injection dated 24/07/2025</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-dated-24-07-2025-47789)|An attacker can use a SQL injection of Centreon Web, dated 24/07/2025, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Password-Generation-Insufficient-Entropy-48163" class="noirorange"><b>TYPO3 Core</b>: user access via Password Generation Insufficient Entropy</a>](https://vigilance.fr/vulnerability/TYPO3-Core-user-access-via-Password-Generation-Insufficient-Entropy-48163)|An attacker can bypass restrictions of TYPO3 Core, via Password Generation Insufficient Entropy, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-open-redirect-via-sanitizeLocalUrl-48161" class="noirorange"><b>TYPO3 Core</b>: open redirect via sanitizeLocalUrl()</a>](https://vigilance.fr/vulnerability/TYPO3-Core-open-redirect-via-sanitizeLocalUrl-48161)|An attacker can deceive the user of TYPO3 Core, via sanitizeLocalUrl(), in order to redirect him to a malicious site...|Visit link for details|
  
  ---
 
