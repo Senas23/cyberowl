@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/09/2025 21:19:27 UTC
+ > Last Updated 28/09/2025 09:21:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-07-2025-47798" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 28/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-07-2025-47798)|An attacker can use several vulnerabilities of the Linux kernel, dated 28/07/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mingw-binutils-buffer-overflow-dated-28-07-2025-47796" class="noirorange"><b>mingw-binutils</b>: buffer overflow dated 28/07/2025</a>](https://vigilance.fr/vulnerability/mingw-binutils-buffer-overflow-dated-28-07-2025-47796)|An attacker can trigger a buffer overflow of mingw-binutils, dated 28/07/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-API-Hostprototype-get-48219" class="noirorange"><b>Zabbix</b>: information disclosure via API Hostprototype.get</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-API-Hostprototype-get-48219)|An attacker can bypass access restrictions to data of Zabbix, via API Hostprototype.get, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-SQL-injection-via-Autoregistered-Host-Deletion-48217" class="noirorange"><b>Zabbix</b>: SQL injection via Autoregistered Host Deletion</a>](https://vigilance.fr/vulnerability/Zabbix-SQL-injection-via-Autoregistered-Host-Deletion-48217)|An attacker can use a SQL injection of Zabbix, via Autoregistered Host Deletion, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-DNS-Security-45985" class="noirorange"><b>PAN-OS</b>: denial of service via DNS Security</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-DNS-Security-45985)|An attacker can cause a fatal error of PAN-OS, via DNS Security, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Sympa-user-access-via-Generic-SSO-Login-45973" class="noirorange"><b>Sympa</b>: user access via Generic SSO Login</a>](https://vigilance.fr/vulnerability/Sympa-user-access-via-Generic-SSO-Login-45973)|An attacker can bypass restrictions of Sympa, via Generic SSO Login, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-26-03-2024-43871" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 26/03/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-26-03-2024-43871)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 26/03/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AMD-Zen-Processors-information-disclosure-via-VMScape-48209" class="noirorange"><b>AMD Zen Processors</b>: information disclosure via VMScape</a>](https://vigilance.fr/vulnerability/AMD-Zen-Processors-information-disclosure-via-VMScape-48209)|An attacker, in a guest system, can bypass access restrictions to data of AMD Zen Processors, via VMScape, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-instaler-47795" class="noirorange"><b>ESET NOD32 Antivirus</b>: file deletion via instaler</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-file-deletion-via-instaler-47795)|An attacker can bypass access restrictions of ESET NOD32 Antivirus, via installer, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-a-stored-procedure-47791" class="noirorange"><b>IBM i</b>: privilege escalation via a stored procedure</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-a-stored-procedure-47791)|An attacker can bypass restrictions of IBM i, via a stored procedure, in order to escalate his privileges...|Visit link for details|
  
  ---
 
