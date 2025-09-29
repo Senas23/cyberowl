@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/09/2025 21:19:27 UTC
+ > Last Updated 29/09/2025 09:29:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-tarfile-47806" class="noirorange"><b>Python Core</b>: overload via tarfile</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-tarfile-47806)|An attacker can trigger an overload of Python Core, via tarfile, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-29-07-2025-47805" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 29/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-29-07-2025-47805)|An attacker can use several vulnerabilities of the Linux kernel, dated 29/07/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-two-vulnerabilities-dated-29-07-2025-47804" class="noirorange"><b>IBM Informix Dynamic Server</b>: two vulnerabilities dated 29/07/2025</a>](https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-two-vulnerabilities-dated-29-07-2025-47804)|An attacker can use several vulnerabilities of IBM Informix Dynamic Server, dated 29/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-07-2025-47798" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 28/07/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-07-2025-47798)|An attacker can use several vulnerabilities of the Linux kernel, dated 28/07/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/mingw-binutils-buffer-overflow-dated-28-07-2025-47796" class="noirorange"><b>mingw-binutils</b>: buffer overflow dated 28/07/2025</a>](https://vigilance.fr/vulnerability/mingw-binutils-buffer-overflow-dated-28-07-2025-47796)|An attacker can trigger a buffer overflow of mingw-binutils, dated 28/07/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-API-Hostprototype-get-48219" class="noirorange"><b>Zabbix</b>: information disclosure via API Hostprototype.get</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-API-Hostprototype-get-48219)|An attacker can bypass access restrictions to data of Zabbix, via API Hostprototype.get, in order to read sensitive information...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-DNS-Security-45985" class="noirorange"><b>PAN-OS</b>: denial of service via DNS Security</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-DNS-Security-45985)|An attacker can cause a fatal error of PAN-OS, via DNS Security, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Web-Content-5-45980" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: memory corruption via Web Content 5</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Web-Content-5-45980)|An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, via Web Content 5, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Web-Content-3-45978" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: memory corruption via Web Content 3</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-via-Web-Content-3-45978)|An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, via Web Content 3, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sympa-user-access-via-Generic-SSO-Login-45973" class="noirorange"><b>Sympa</b>: user access via Generic SSO Login</a>](https://vigilance.fr/vulnerability/Sympa-user-access-via-Generic-SSO-Login-45973)|An attacker can bypass restrictions of Sympa, via Generic SSO Login, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-26-03-2024-43871" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 26/03/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-26-03-2024-43871)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 26/03/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Zen-Processors-information-disclosure-via-VMScape-48209" class="noirorange"><b>AMD Zen Processors</b>: information disclosure via VMScape</a>](https://vigilance.fr/vulnerability/AMD-Zen-Processors-information-disclosure-via-VMScape-48209)|An attacker, in a guest system, can bypass access restrictions to data of AMD Zen Processors, via VMScape, in order to read sensitive information...|Visit link for details|
  
  ---
 
