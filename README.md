@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/09/2025 21:22:24 UTC
+ > Last Updated 01/10/2025 09:27:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-Universal-Resource-Name-47838" class="noirorange"><b>Squid</b>: buffer overflow via Universal Resource Name</a>](https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-Universal-Resource-Name-47838)|An attacker can trigger a buffer overflow of Squid, via Universal Resource Name, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libxslt-use-after-free-via-xmlAttrPtr-47827" class="noirorange"><b>libxslt</b>: use after free via xmlAttrPtr()</a>](https://vigilance.fr/vulnerability/libxslt-use-after-free-via-xmlAttrPtr-47827)|An attacker can force the reuse of a freed memory area of libxslt, via xmlAttrPtr(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SQLite-integer-overflow-via-sqlite3KeyInfoFromExprList-47825" class="noirorange"><b>SQLite</b>: integer overflow via sqlite3KeyInfoFromEx<wbr>prList()</wbr></a>](https://vigilance.fr/vulnerability/SQLite-integer-overflow-via-sqlite3KeyInfoFromExprList-47825)|An attacker can trigger an integer overflow of SQLite, via sqlite3KeyInfoFromEx|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-dated-30-07-2025-47821" class="noirorange"><b>IBM Db2</b>: denial of service dated 30/07/2025</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-dated-30-07-2025-47821)|An attacker can cause a fatal error of IBM Db2, dated 30/07/2025, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-information-disclosure-via-address-book-47831" class="noirorange"><b>HP LaserJet</b>: information disclosure via address book</a>](https://vigilance.fr/vulnerability/HP-LaserJet-information-disclosure-via-address-book-47831)|An attacker can bypass access restrictions to data of HP LaserJet, via address book, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-queries-47817" class="noirorange"><b>IBM Db2</b>: denial of service via queries</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-queries-47817)|An attacker can cause a fatal error of IBM Db2, via queries, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-queries-47816" class="noirorange"><b>IBM Db2</b>: denial of service via queries</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-queries-47816)|An attacker can cause a fatal error of IBM Db2, via queries, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2fm-47815" class="noirorange"><b>IBM Db2</b>: buffer overflow via db2fm</a>](https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-via-db2fm-47815)|An attacker can trigger a buffer overflow of IBM Db2, via db2fm, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
