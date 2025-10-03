@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/10/2025 21:22:39 UTC
+ > Last Updated 03/10/2025 09:26:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-security-guide-dated-18-09-2025-48253" class="noirorange"><b>Drupal</b>: security guide dated 18/09/2025</a>](https://vigilance.fr/vulnerability/Drupal-security-guide-dated-18-09-2025-48253)|A security guide of Drupal is available dated 18/09/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nextcloud-Desktop-weak-encryption-via-Initialization-Vector-Reuse-48252" class="noirorange"><b>Nextcloud Desktop</b>: weak encryption via Initialization Vector Reuse</a>](https://vigilance.fr/vulnerability/Nextcloud-Desktop-weak-encryption-via-Initialization-Vector-Reuse-48252)|An attacker can access data on Nextcloud Desktop, via Initialization Vector Reuse, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-arm64-syscall-48243" class="noirorange"><b>FreeBSD</b>: denial of service via arm64 syscall()</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-arm64-syscall-48243)|An attacker can cause a fatal error of FreeBSD, via arm64 syscall(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-dated-01-08-2025-47841" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting dated 01/08/2025</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-dated-01-08-2025-47841)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, dated 01/08/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Asterisk-integer-overflow-via-res-stir-shaken-verification-c-47839" class="noirorange"><b>Asterisk</b>: integer overflow via res_stir_shaken/<wbr>verification.c</wbr></a>](https://vigilance.fr/vulnerability/Asterisk-integer-overflow-via-res-stir-shaken-verification-c-47839)|An attacker can trigger an integer overflow of Asterisk, via res_stir_shaken/|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/SQLite-integer-overflow-via-sqlite3KeyInfoFromExprList-47825" class="noirorange"><b>SQLite</b>: integer overflow via sqlite3KeyInfoFromEx<wbr>prList()</wbr></a>](https://vigilance.fr/vulnerability/SQLite-integer-overflow-via-sqlite3KeyInfoFromExprList-47825)|An attacker can trigger an integer overflow of SQLite, via sqlite3KeyInfoFromEx|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-dated-30-07-2025-47821" class="noirorange"><b>IBM Db2</b>: denial of service dated 30/07/2025</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-dated-30-07-2025-47821)|An attacker can cause a fatal error of IBM Db2, dated 30/07/2025, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-dated-30-07-2025-47820" class="noirorange"><b>IBM Db2</b>: denial of service dated 30/07/2025</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-dated-30-07-2025-47820)|An attacker can cause a fatal error of IBM Db2, dated 30/07/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-deadlock-47819" class="noirorange"><b>IBM Db2</b>: denial of service via deadlock</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-deadlock-47819)|An attacker can cause a fatal error of IBM Db2, via deadlock, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-federated-server-denial-of-service-dated-30-07-2025-47818" class="noirorange"><b>IBM Db2 federated server</b>: denial of service dated 30/07/2025</a>](https://vigilance.fr/vulnerability/IBM-Db2-federated-server-denial-of-service-dated-30-07-2025-47818)|An attacker can cause a fatal error of IBM Db2 federated server, dated 30/07/2025, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
