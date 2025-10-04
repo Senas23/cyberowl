@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/10/2025 09:23:01 UTC
+ > Last Updated 04/10/2025 21:19:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-OpenVPN-Dashboard-Widget-47850" class="noirorange"><b>pfSense</b>: Cross Site Scripting via OpenVPN Dashboard Widget</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-OpenVPN-Dashboard-Widget-47850)|An attacker can trigger a Cross Site Scripting of pfSense, via OpenVPN Dashboard Widget, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-Infinity-Datasource-Plugin-Server-Side-Request-Forgery-dated-04-08-2025-47847" class="noirorange"><b>Grafana Infinity Datasource Plugin</b>: Server-Side Request Forgery dated 04/08/2025</a>](https://vigilance.fr/vulnerability/Grafana-Infinity-Datasource-Plugin-Server-Side-Request-Forgery-dated-04-08-2025-47847)|An attacker can trigger a Server-Side Request Forgery of Grafana Infinity Datasource Plugin, dated 04/08/2025, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Nullsoft-Scriptable-Install-System-privilege-escalation-via-Temporary-Plugins-Directory-47846" class="noirorange"><b>Nullsoft Scriptable Install System</b>: privilege escalation via Temporary Plugins Directory</a>](https://vigilance.fr/vulnerability/Nullsoft-Scriptable-Install-System-privilege-escalation-via-Temporary-Plugins-Directory-47846)|An attacker can bypass restrictions of Nullsoft Scriptable Install System, via Temporary Plugins Directory, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-t2p-read-tiff-init-47845" class="noirorange"><b>LibTIFF</b>: NULL pointer dereference via t2p_read_tiff_init()</a>](https://vigilance.fr/vulnerability/LibTIFF-NULL-pointer-dereference-via-t2p-read-tiff-init-47845)|An attacker can force a NULL pointer to be dereferenced on LibTIFF, via t2p_read_tiff_init()|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Open-Policy-Agent-information-disclosure-via-HTTP-Data-API-Rego-Code-47842" class="noirorange"><b>Open Policy Agent</b>: information disclosure via HTTP Data API Rego Code</a>](https://vigilance.fr/vulnerability/Open-Policy-Agent-information-disclosure-via-HTTP-Data-API-Rego-Code-47842)|An attacker can bypass access restrictions to data of Open Policy Agent, via HTTP Data API Rego Code, in order to read sensitive information...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Nextcloud-Desktop-weak-encryption-via-Initialization-Vector-Reuse-48252" class="noirorange"><b>Nextcloud Desktop</b>: weak encryption via Initialization Vector Reuse</a>](https://vigilance.fr/vulnerability/Nextcloud-Desktop-weak-encryption-via-Initialization-Vector-Reuse-48252)|An attacker can access data on Nextcloud Desktop, via Initialization Vector Reuse, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-arm64-syscall-48243" class="noirorange"><b>FreeBSD</b>: denial of service via arm64 syscall()</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-arm64-syscall-48243)|An attacker can cause a fatal error of FreeBSD, via arm64 syscall(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-dated-01-08-2025-47841" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting dated 01/08/2025</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-dated-01-08-2025-47841)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, dated 01/08/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-integer-overflow-via-res-stir-shaken-verification-c-47839" class="noirorange"><b>Asterisk</b>: integer overflow via res_stir_shaken/<wbr>verification.c</wbr></a>](https://vigilance.fr/vulnerability/Asterisk-integer-overflow-via-res-stir-shaken-verification-c-47839)|An attacker can trigger an integer overflow of Asterisk, via res_stir_shaken/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-Universal-Resource-Name-47838" class="noirorange"><b>Squid</b>: buffer overflow via Universal Resource Name</a>](https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-Universal-Resource-Name-47838)|An attacker can trigger a buffer overflow of Squid, via Universal Resource Name, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
