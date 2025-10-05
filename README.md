@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/10/2025 09:21:43 UTC
+ > Last Updated 05/10/2025 21:20:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Data-Center-Cross-Site-Scripting-via-Resolved-Comments-47860" class="noirorange"><b>Atlassian Confluence Data Center</b>: Cross Site Scripting via Resolved Comments</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Data-Center-Cross-Site-Scripting-via-Resolved-Comments-47860)|An attacker can trigger a Cross Site Scripting of Atlassian Confluence Data Center, via Resolved Comments, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wildfly-Cross-Site-Scripting-via-HAL-Console-47859" class="noirorange"><b>Wildfly</b>: Cross Site Scripting via HAL Console</a>](https://vigilance.fr/vulnerability/Wildfly-Cross-Site-Scripting-via-HAL-Console-47859)|An attacker can trigger a Cross Site Scripting of Wildfly, via HAL Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-JGit-external-XML-entity-injection-via-ManifestParser-47858" class="noirorange"><b>Eclipse JGit</b>: external XML entity injection via ManifestParser</a>](https://vigilance.fr/vulnerability/Eclipse-JGit-external-XML-entity-injection-via-ManifestParser-47858)|An attacker can transmit malicious XML data to Eclipse JGit, via ManifestParser, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Connect2id-Nimbus-overload-via-Deeply-Nested-JSON-Object-47857" class="noirorange"><b>Connect2id Nimbus</b>: overload via Deeply Nested JSON Object</a>](https://vigilance.fr/vulnerability/Connect2id-Nimbus-overload-via-Deeply-Nested-JSON-Object-47857)|An attacker can trigger an overload of Connect2id Nimbus, via Deeply Nested JSON Object, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Ansible-aap-gateway-Cross-Site-Request-Forgery-dated-05-08-2025-47853" class="noirorange"><b>Ansible aap-gateway</b>: Cross Site Request Forgery dated 05/08/2025</a>](https://vigilance.fr/vulnerability/Ansible-aap-gateway-Cross-Site-Request-Forgery-dated-05-08-2025-47853)|An attacker can trigger a Cross Site Request Forgery of Ansible aap-gateway, dated 05/08/2025, in order to force the victim to perform operations...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Transformers-overload-via-preprocess-string-47852" class="noirorange"><b>Transformers</b>: overload via preprocess_string()</a>](https://vigilance.fr/vulnerability/Transformers-overload-via-preprocess-string-47852)|An attacker can trigger an overload of Transformers, via preprocess_string(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-OpenVPN-Dashboard-Widget-47850" class="noirorange"><b>pfSense</b>: Cross Site Scripting via OpenVPN Dashboard Widget</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-OpenVPN-Dashboard-Widget-47850)|An attacker can trigger a Cross Site Scripting of pfSense, via OpenVPN Dashboard Widget, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-Infinity-Datasource-Plugin-Server-Side-Request-Forgery-dated-04-08-2025-47847" class="noirorange"><b>Grafana Infinity Datasource Plugin</b>: Server-Side Request Forgery dated 04/08/2025</a>](https://vigilance.fr/vulnerability/Grafana-Infinity-Datasource-Plugin-Server-Side-Request-Forgery-dated-04-08-2025-47847)|An attacker can trigger a Server-Side Request Forgery of Grafana Infinity Datasource Plugin, dated 04/08/2025, in order to force the server to send queries...|Visit link for details|
  
  ---
 
