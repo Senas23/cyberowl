@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/10/2025 21:21:29 UTC
+ > Last Updated 07/10/2025 09:26:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,27 +51,27 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/babel-runtime-overload-via-Regular-Expression-47876" class="noirorange"><b>babel/runtime</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/babel-runtime-overload-via-Regular-Expression-47876)|An attacker can trigger an overload of babel/runtime, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-HTMLParser-Raw-Text-Mode-47875" class="noirorange"><b>Python Core</b>: ingress filtrering bypass via HTMLParser Raw Text Mode</a>](https://vigilance.fr/vulnerability/Python-Core-ingress-filtrering-bypass-via-HTMLParser-Raw-Text-Mode-47875)|An attacker can bypass filtering rules of Python Core, via HTMLParser Raw Text Mode, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Meta-Service-Indicator-Page-47874" class="noirorange"><b>Centreon Web</b>: SQL injection via Meta Service Indicator Page</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Meta-Service-Indicator-Page-47874)|An attacker can use a SQL injection of Centreon Web, via Meta Service Indicator Page, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Event-Logs-47873" class="noirorange"><b>Centreon Web</b>: SQL injection via Event Logs</a>](https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-via-Event-Logs-47873)|An attacker can use a SQL injection of Centreon Web, via Event Logs, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2025-46004" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2025</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2025-46004)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-06-08-2025-47872" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities dated 06/08/2025</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-dated-06-08-2025-47872)|An attacker can use several vulnerabilities of Centreon Web, dated 06/08/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-AI-SEO-Link-Advisor-Server-Side-Request-Forgery-dated-06-08-2025-47870" class="noirorange"><b>Drupal AI SEO Link Advisor</b>: Server-Side Request Forgery dated 06/08/2025</a>](https://vigilance.fr/vulnerability/Drupal-AI-SEO-Link-Advisor-Server-Side-Request-Forgery-dated-06-08-2025-47870)|An attacker can trigger a Server-Side Request Forgery of Drupal AI SEO Link Advisor, dated 06/08/2025, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Perl-Crypt-CBC-weak-encryption-via-rand-47867" class="noirorange"><b>Perl Crypt-CBC</b>: weak encryption via rand()</a>](https://vigilance.fr/vulnerability/Perl-Crypt-CBC-weak-encryption-via-rand-47867)|An attacker can access data on Perl Crypt::CBC, via rand(), in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Data-Center-Cross-Site-Scripting-via-Resolved-Comments-47860" class="noirorange"><b>Atlassian Confluence Data Center</b>: Cross Site Scripting via Resolved Comments</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Data-Center-Cross-Site-Scripting-via-Resolved-Comments-47860)|An attacker can trigger a Cross Site Scripting of Atlassian Confluence Data Center, via Resolved Comments, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wildfly-Cross-Site-Scripting-via-HAL-Console-47859" class="noirorange"><b>Wildfly</b>: Cross Site Scripting via HAL Console</a>](https://vigilance.fr/vulnerability/Wildfly-Cross-Site-Scripting-via-HAL-Console-47859)|An attacker can trigger a Cross Site Scripting of Wildfly, via HAL Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-JGit-external-XML-entity-injection-via-ManifestParser-47858" class="noirorange"><b>Eclipse JGit</b>: external XML entity injection via ManifestParser</a>](https://vigilance.fr/vulnerability/Eclipse-JGit-external-XML-entity-injection-via-ManifestParser-47858)|An attacker can transmit malicious XML data to Eclipse JGit, via ManifestParser, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Connect2id-Nimbus-overload-via-Deeply-Nested-JSON-Object-47857" class="noirorange"><b>Connect2id Nimbus</b>: overload via Deeply Nested JSON Object</a>](https://vigilance.fr/vulnerability/Connect2id-Nimbus-overload-via-Deeply-Nested-JSON-Object-47857)|An attacker can trigger an overload of Connect2id Nimbus, via Deeply Nested JSON Object, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Open-Asset-Import-Library-Assimp-buffer-overflow-via-ParseLV4MeshBonesVertices-47856" class="noirorange"><b>Open Asset Import Library Assimp</b>: buffer overflow via ParseLV4MeshBonesVer<wbr>tices()</wbr></a>](https://vigilance.fr/vulnerability/Open-Asset-Import-Library-Assimp-buffer-overflow-via-ParseLV4MeshBonesVertices-47856)|An attacker can trigger a buffer overflow of Open Asset Import Library Assimp, via ParseLV4MeshBonesVer|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Open-Asset-Import-Library-Assimp-buffer-overflow-via-UpdateAnimRangeSetup-47855" class="noirorange"><b>Open Asset Import Library Assimp</b>: buffer overflow via UpdateAnimRangeSetup<wbr>()</wbr></a>](https://vigilance.fr/vulnerability/Open-Asset-Import-Library-Assimp-buffer-overflow-via-UpdateAnimRangeSetup-47855)|An attacker can trigger a buffer overflow of Open Asset Import Library Assimp, via UpdateAnimRangeSetup|Visit link for details|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
