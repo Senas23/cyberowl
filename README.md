@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/10/2025 09:27:15 UTC
+ > Last Updated 08/10/2025 21:21:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0851/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 08 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0850/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 08 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0849/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 07 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0848/)|Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 06 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0847/)|Une vulnérabilité a été découverte dans les produits Liferay. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 06 octobre 2025|
@@ -42,8 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0844/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling Connect. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 03 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0843/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 03 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0842/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 03 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0841/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 03 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0840/)|De multiples vulnérabilités ont été découvertes dans Zabbix. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 03 octobre 2025|
  
  ---
 
@@ -51,16 +51,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-buffer-overflow-dated-08-01-2025-46030" class="noirorange"><b>Ivanti Connect Secure</b>: buffer overflow dated 08/01/2025</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-buffer-overflow-dated-08-01-2025-46030)|An attacker can trigger a buffer overflow of Ivanti Connect Secure, dated 08/01/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-Evolved-memory-leak-via-IPv6-Packets-46023" class="noirorange"><b>Junos OS Evolved</b>: memory leak via IPv6 Packets</a>](https://vigilance.fr/vulnerability/Junos-OS-Evolved-memory-leak-via-IPv6-Packets-46023)|An attacker can create a memory leak of Junos OS Evolved, via IPv6 Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/openSUSE-privilege-escalation-via-nginx-logrotate-47894" class="noirorange"><b>openSUSE</b>: privilege escalation via nginx logrotate</a>](https://vigilance.fr/vulnerability/openSUSE-privilege-escalation-via-nginx-logrotate-47894)|An attacker can bypass restrictions of openSUSE, via nginx logrotate, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-WEBrick-header-injection-via-read-headers-47893" class="noirorange"><b>Ruby WEBrick</b>: header injection via read_headers()</a>](https://vigilance.fr/vulnerability/Ruby-WEBrick-header-injection-via-read-headers-47893)|An attacker can add new headers on Ruby WEBrick, via read_headers(), in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-via-ANGLE-GPU-47892" class="noirorange"><b>WebKitGTK</b>: denial of service via ANGLE GPU</a>](https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-via-ANGLE-GPU-47892)|An attacker can cause a fatal error of WebKitGTK, via ANGLE GPU, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-out-of-bounds-memory-reading-dated-08-08-2025-47891" class="noirorange"><b>WebKitGTK</b>: out-of-bounds memory reading dated 08/08/2025</a>](https://vigilance.fr/vulnerability/WebKitGTK-out-of-bounds-memory-reading-dated-08-08-2025-47891)|An attacker can force a read at an invalid memory address of WebKitGTK, dated 08/08/2025, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-spoofing-via-Address-Bar-47889" class="noirorange"><b>WebKitGTK</b>: spoofing via Address Bar</a>](https://vigilance.fr/vulnerability/WebKitGTK-spoofing-via-Address-Bar-47889)|An attacker can create spoofed data on WebKitGTK, via Address Bar, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-information-disclosure-dated-08-08-2025-47888" class="noirorange"><b>WebKitGTK</b>: information disclosure dated 08/08/2025</a>](https://vigilance.fr/vulnerability/WebKitGTK-information-disclosure-dated-08-08-2025-47888)|An attacker can bypass access restrictions to data of WebKitGTK, dated 08/08/2025, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-dated-08-08-2025-47887" class="noirorange"><b>WebKitGTK</b>: denial of service dated 08/08/2025</a>](https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-dated-08-08-2025-47887)|An attacker can cause a fatal error of WebKitGTK, dated 08/08/2025, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-dated-08-08-2025-47886" class="noirorange"><b>WebKitGTK</b>: denial of service dated 08/08/2025</a>](https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-dated-08-08-2025-47886)|An attacker can cause a fatal error of WebKitGTK, dated 08/08/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-dated-08-08-2025-47885" class="noirorange"><b>WebKitGTK</b>: denial of service dated 08/08/2025</a>](https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-dated-08-08-2025-47885)|An attacker can cause a fatal error of WebKitGTK, dated 08/08/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/yarnpkg-overload-via-explodeHostedGitFragment-47881" class="noirorange"><b>yarnpkg</b>: overload via explodeHostedGitFrag<wbr>ment()</wbr></a>](https://vigilance.fr/vulnerability/yarnpkg-overload-via-explodeHostedGitFragment-47881)|An attacker can trigger an overload of yarnpkg, via explodeHostedGitFrag|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenCV-buffer-overflow-via-JPEG-Images-47880" class="noirorange"><b>OpenCV</b>: buffer overflow via JPEG Images</a>](https://vigilance.fr/vulnerability/OpenCV-buffer-overflow-via-JPEG-Images-47880)|An attacker can trigger a buffer overflow of OpenCV, via JPEG Images, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Digital-Certificate-Manager-47879" class="noirorange"><b>IBM i</b>: privilege escalation via IBM Digital Certificate Manager</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-IBM-Digital-Certificate-Manager-47879)|An attacker can bypass restrictions of IBM i, via IBM Digital Certificate Manager, in order to escalate his privileges...|Visit link for details|
  
  ---
 
