@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/10/2025 21:22:16 UTC
+ > Last Updated 10/10/2025 09:26:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,23 +47,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-denial-of-service-via-CLI-48288" class="noirorange"><b>Cisco IOS  IOS XE</b>: denial of service via CLI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-denial-of-service-via-CLI-48288)|An attacker can cause a fatal error of Cisco IOS  IOS XE, via CLI, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-denial-of-service-via-Web-UI-Url-48284" class="noirorange"><b>Cisco IOS</b>: denial of service via Web UI Url</a>](https://vigilance.fr/vulnerability/Cisco-IOS-denial-of-service-via-Web-UI-Url-48284)|An attacker can cause a fatal error of Cisco IOS, via Web UI Url, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-HTTP-API-Command-Injection-48282" class="noirorange"><b>Cisco IOS XE</b>: code execution via HTTP API Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-HTTP-API-Command-Injection-48282)|An attacker can use a vulnerability of Cisco IOS XE, via HTTP API Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-April-2024-44016" class="noirorange"><b>Windows</b>: vulnerabilities of April 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-April-2024-44016)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-TPM-48277" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via TPM</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-TPM-48277)|An attacker can bypass access restrictions to data of Stormshield Network Security, via TPM, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-buffer-overflow-dated-08-01-2025-46030" class="noirorange"><b>Ivanti Connect Secure</b>: buffer overflow dated 08/01/2025</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-buffer-overflow-dated-08-01-2025-46030)|An attacker can trigger a buffer overflow of Ivanti Connect Secure, dated 08/01/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-Evolved-memory-leak-via-IPv6-Packets-46023" class="noirorange"><b>Junos OS Evolved</b>: memory leak via IPv6 Packets</a>](https://vigilance.fr/vulnerability/Junos-OS-Evolved-memory-leak-via-IPv6-Packets-46023)|An attacker can create a memory leak of Junos OS Evolved, via IPv6 Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/openSUSE-privilege-escalation-via-nginx-logrotate-47894" class="noirorange"><b>openSUSE</b>: privilege escalation via nginx logrotate</a>](https://vigilance.fr/vulnerability/openSUSE-privilege-escalation-via-nginx-logrotate-47894)|An attacker can bypass restrictions of openSUSE, via nginx logrotate, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-WEBrick-header-injection-via-read-headers-47893" class="noirorange"><b>Ruby WEBrick</b>: header injection via read_headers()</a>](https://vigilance.fr/vulnerability/Ruby-WEBrick-header-injection-via-read-headers-47893)|An attacker can add new headers on Ruby WEBrick, via read_headers(), in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-via-ANGLE-GPU-47892" class="noirorange"><b>WebKitGTK</b>: denial of service via ANGLE GPU</a>](https://vigilance.fr/vulnerability/WebKitGTK-denial-of-service-via-ANGLE-GPU-47892)|An attacker can cause a fatal error of WebKitGTK, via ANGLE GPU, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -75,4 +58,21 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-MINA-code-execution-via-ObjectSerializationDecoder-46042" class="noirorange"><b>Apache MINA</b>: code execution via ObjectSerializationD<wbr>ecoder</wbr></a>](https://vigilance.fr/vulnerability/Apache-MINA-code-execution-via-ObjectSerializationDecoder-46042)|An attacker can use a vulnerability of Apache MINA, via ObjectSerializationD|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-denial-of-service-via-CLI-48288" class="noirorange"><b>Cisco IOS  IOS XE</b>: denial of service via CLI</a>](https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-denial-of-service-via-CLI-48288)|An attacker can cause a fatal error of Cisco IOS  IOS XE, via CLI, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-denial-of-service-via-Web-UI-Url-48284" class="noirorange"><b>Cisco IOS</b>: denial of service via Web UI Url</a>](https://vigilance.fr/vulnerability/Cisco-IOS-denial-of-service-via-Web-UI-Url-48284)|An attacker can cause a fatal error of Cisco IOS, via Web UI Url, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-HTTP-API-Command-Injection-48282" class="noirorange"><b>Cisco IOS XE</b>: code execution via HTTP API Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-code-execution-via-HTTP-API-Command-Injection-48282)|An attacker can use a vulnerability of Cisco IOS XE, via HTTP API Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-April-2024-44016" class="noirorange"><b>Windows</b>: vulnerabilities of April 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-April-2024-44016)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-TPM-48277" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via TPM</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-TPM-48277)|An attacker can bypass access restrictions to data of Stormshield Network Security, via TPM, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-buffer-overflow-dated-08-01-2025-46030" class="noirorange"><b>Ivanti Connect Secure</b>: buffer overflow dated 08/01/2025</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-buffer-overflow-dated-08-01-2025-46030)|An attacker can trigger a buffer overflow of Ivanti Connect Secure, dated 08/01/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-Evolved-memory-leak-via-IPv6-Packets-46023" class="noirorange"><b>Junos OS Evolved</b>: memory leak via IPv6 Packets</a>](https://vigilance.fr/vulnerability/Junos-OS-Evolved-memory-leak-via-IPv6-Packets-46023)|An attacker can create a memory leak of Junos OS Evolved, via IPv6 Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/openSUSE-privilege-escalation-via-nginx-logrotate-47894" class="noirorange"><b>openSUSE</b>: privilege escalation via nginx logrotate</a>](https://vigilance.fr/vulnerability/openSUSE-privilege-escalation-via-nginx-logrotate-47894)|An attacker can bypass restrictions of openSUSE, via nginx logrotate, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-WEBrick-header-injection-via-read-headers-47893" class="noirorange"><b>Ruby WEBrick</b>: header injection via read_headers()</a>](https://vigilance.fr/vulnerability/Ruby-WEBrick-header-injection-via-read-headers-47893)|An attacker can add new headers on Ruby WEBrick, via read_headers(), in order to alter the service behavior...|Visit link for details|
  
