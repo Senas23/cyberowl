@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/10/2025 21:22:35 UTC
+ > Last Updated 16/10/2025 09:28:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,6 +30,23 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0882/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 15 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0881/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 15 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0880/)|De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 15 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0879/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que les vulnérabilités...|Publié le 15 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0878/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un déni de service.|Publié le 15 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0877/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 15 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0876/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 15 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0875/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0874/)|Une vulnérabilité a été découverte dans Schneider Electric EcoStruxure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 15 octobre 2025|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0882/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0881/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0880/)|De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0879/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que les vulnérabilités...|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0878/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un déni de service.|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0877/)|De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0876/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0875/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0874/)|Une vulnérabilité a été découverte dans Schneider Electric EcoStruxure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0873/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 15 octobre 2025|
  
  ---
 
