@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/10/2025 09:27:38 UTC
+ > Last Updated 17/10/2025 21:22:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0896/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 17 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0895/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 17 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0894/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 17 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0893/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.|Publié le 17 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 17 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0891/)|Une vulnérabilité a été découverte dans MongoDB Connector for BI pour Windows. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 17 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 17 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0889/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 17 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0888/)|De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 16 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0887/)|Une vulnérabilité a été découverte dans Synacor Zimbra Collaboration. Elle permet à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF).|Publié le 16 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0886/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 16 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0885/)|De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 16 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0884/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).|Publié le 16 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0883/)|De multiples vulnérabilités ont été découvertes dans les produits Spring. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 16 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0882/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0881/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0880/)|De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 15 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0879/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que les vulnérabilités...|Publié le 15 octobre 2025|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -51,6 +58,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-17-04-2024-44087" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 17/04/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-17-04-2024-44087)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 17/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rubygems-denial-of-service-via-Manifest-SafeYAML-load-48020" class="noirorange"><b>Rubygems</b>: denial of service via Manifest SafeYAML.load</a>](https://vigilance.fr/vulnerability/Rubygems-denial-of-service-via-Manifest-SafeYAML-load-48020)|An attacker can cause a fatal error of Rubygems, via Manifest SafeYAML.load, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-TDX-Module-three-vulnerabilities-dated-15-08-2025-48019" class="noirorange"><b>Intel TDX Module</b>: three vulnerabilities dated 15/08/2025</a>](https://vigilance.fr/vulnerability/Intel-TDX-Module-three-vulnerabilities-dated-15-08-2025-48019)|An attacker can use several vulnerabilities of Intel TDX Module, dated 15/08/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-15-01-2025-46107" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 15/01/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-15-01-2025-46107)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 15/01/2025...|Visit link for details|
@@ -60,14 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-code-execution-via-Command-Injection-48015" class="noirorange"><b>Cisco ASA</b>: code execution via Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-ASA-code-execution-via-Command-Injection-48015)|An attacker can use a vulnerability of Cisco ASA, via Command Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Artifex-mupdf-overload-via-Mutool-Clean-Utility-48005" class="noirorange"><b>Artifex mupdf</b>: overload via Mutool Clean Utility</a>](https://vigilance.fr/vulnerability/Artifex-mupdf-overload-via-Mutool-Clean-Utility-48005)|An attacker can trigger an overload of Artifex mupdf, via Mutool Clean Utility, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/JGM-Pandoc-Server-Side-Request-Forgery-via-Iframe-48003" class="noirorange"><b>JGM Pandoc</b>: Server-Side Request Forgery via Iframe</a>](https://vigilance.fr/vulnerability/JGM-Pandoc-Server-Side-Request-Forgery-via-Iframe-48003)|An attacker can trigger a Server-Side Request Forgery of JGM Pandoc, via Iframe, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Man-in-the-Middle-dated-15-08-2025-48002" class="noirorange"><b>IBM WebSphere Application Server</b>: Man-in-the-Middle dated 15/08/2025</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Man-in-the-Middle-dated-15-08-2025-48002)|An attacker can act as a Man-in-the-Middle on IBM WebSphere Application Server, dated 15/08/2025, in order to read or write data in the session...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
