@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/10/2025 09:23:27 UTC
+ > Last Updated 18/10/2025 21:20:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-LDAP-Host-Bind-Password-48386" class="noirorange"><b>Zabbix</b>: information disclosure via LDAP Host Bind Password</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-LDAP-Host-Bind-Password-48386)|An attacker can bypass access restrictions to data of Zabbix, via LDAP Host Bind Password, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-api-jsonrpc-php-48383" class="noirorange"><b>Zabbix</b>: information disclosure via api_jsonrpc.php</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-api-jsonrpc-php-48383)|An attacker can bypass access restrictions to data of Zabbix, via api_jsonrpc.php, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/lighttpd-header-injection-via-Trailers-48023" class="noirorange"><b>lighttpd</b>: header injection via Trailers</a>](https://vigilance.fr/vulnerability/lighttpd-header-injection-via-Trailers-48023)|An attacker can add new headers on lighttpd, via Trailers, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-18-08-2025-48022" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 18/08/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-18-08-2025-48022)|An attacker can use several vulnerabilities of the Linux kernel, dated 18/08/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-iamf-c-48378" class="noirorange"><b>FFmpeg</b>: memory leak via libavutil/iamf.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-iamf-c-48378)|An attacker can create a memory leak of FFmpeg, via libavutil/iamf.c, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Rubygems-denial-of-service-via-Manifest-SafeYAML-load-48020" class="noirorange"><b>Rubygems</b>: denial of service via Manifest SafeYAML.load</a>](https://vigilance.fr/vulnerability/Rubygems-denial-of-service-via-Manifest-SafeYAML-load-48020)|An attacker can cause a fatal error of Rubygems, via Manifest SafeYAML.load, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-TDX-Module-three-vulnerabilities-dated-15-08-2025-48019" class="noirorange"><b>Intel TDX Module</b>: three vulnerabilities dated 15/08/2025</a>](https://vigilance.fr/vulnerability/Intel-TDX-Module-three-vulnerabilities-dated-15-08-2025-48019)|An attacker can use several vulnerabilities of Intel TDX Module, dated 15/08/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-15-01-2025-46107" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 15/01/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-15-01-2025-46107)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 15/01/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-three-vulnerabilities-via-Firmware-48018" class="noirorange"><b>Intel Xeon Processor</b>: three vulnerabilities via Firmware</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-three-vulnerabilities-via-Firmware-48018)|An attacker can use several vulnerabilities of Intel Xeon Processor, via Firmware...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-denial-of-service-via-DHCP-48017" class="noirorange"><b>Cisco ASA</b>: denial of service via DHCP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-denial-of-service-via-DHCP-48017)|An attacker can cause a fatal error of Cisco ASA, via DHCP, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
