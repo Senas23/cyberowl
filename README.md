@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/10/2025 21:22:19 UTC
+ > Last Updated 18/10/2025 09:23:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/lighttpd-header-injection-via-Trailers-48023" class="noirorange"><b>lighttpd</b>: header injection via Trailers</a>](https://vigilance.fr/vulnerability/lighttpd-header-injection-via-Trailers-48023)|An attacker can add new headers on lighttpd, via Trailers, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-18-08-2025-48022" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 18/08/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-18-08-2025-48022)|An attacker can use several vulnerabilities of the Linux kernel, dated 18/08/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-iamf-c-48378" class="noirorange"><b>FFmpeg</b>: memory leak via libavutil/iamf.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-iamf-c-48378)|An attacker can create a memory leak of FFmpeg, via libavutil/iamf.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-mov-read-trak-48377" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via mov_read_trak()</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-mov-read-trak-48377)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via mov_read_trak(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-17-04-2024-44087" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 17/04/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-17-04-2024-44087)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 17/04/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rubygems-denial-of-service-via-Manifest-SafeYAML-load-48020" class="noirorange"><b>Rubygems</b>: denial of service via Manifest SafeYAML.load</a>](https://vigilance.fr/vulnerability/Rubygems-denial-of-service-via-Manifest-SafeYAML-load-48020)|An attacker can cause a fatal error of Rubygems, via Manifest SafeYAML.load, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-TDX-Module-three-vulnerabilities-dated-15-08-2025-48019" class="noirorange"><b>Intel TDX Module</b>: three vulnerabilities dated 15/08/2025</a>](https://vigilance.fr/vulnerability/Intel-TDX-Module-three-vulnerabilities-dated-15-08-2025-48019)|An attacker can use several vulnerabilities of Intel TDX Module, dated 15/08/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-15-01-2025-46107" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 15/01/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-15-01-2025-46107)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 15/01/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-Processor-three-vulnerabilities-via-Firmware-48018" class="noirorange"><b>Intel Xeon Processor</b>: three vulnerabilities via Firmware</a>](https://vigilance.fr/vulnerability/Intel-Xeon-Processor-three-vulnerabilities-via-Firmware-48018)|An attacker can use several vulnerabilities of Intel Xeon Processor, via Firmware...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-denial-of-service-via-DHCP-48017" class="noirorange"><b>Cisco ASA</b>: denial of service via DHCP</a>](https://vigilance.fr/vulnerability/Cisco-ASA-denial-of-service-via-DHCP-48017)|An attacker can cause a fatal error of Cisco ASA, via DHCP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Loopback-Interface-48016" class="noirorange"><b>Cisco ASA</b>: ingress filtrering bypass via Loopback Interface</a>](https://vigilance.fr/vulnerability/Cisco-ASA-ingress-filtrering-bypass-via-Loopback-Interface-48016)|An attacker can bypass filtering rules of Cisco ASA, via Loopback Interface, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-code-execution-via-Command-Injection-48015" class="noirorange"><b>Cisco ASA</b>: code execution via Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-ASA-code-execution-via-Command-Injection-48015)|An attacker can use a vulnerability of Cisco ASA, via Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Artifex-mupdf-overload-via-Mutool-Clean-Utility-48005" class="noirorange"><b>Artifex mupdf</b>: overload via Mutool Clean Utility</a>](https://vigilance.fr/vulnerability/Artifex-mupdf-overload-via-Mutool-Clean-Utility-48005)|An attacker can trigger an overload of Artifex mupdf, via Mutool Clean Utility, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JGM-Pandoc-Server-Side-Request-Forgery-via-Iframe-48003" class="noirorange"><b>JGM Pandoc</b>: Server-Side Request Forgery via Iframe</a>](https://vigilance.fr/vulnerability/JGM-Pandoc-Server-Side-Request-Forgery-via-Iframe-48003)|An attacker can trigger a Server-Side Request Forgery of JGM Pandoc, via Iframe, in order to force the server to send queries...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
