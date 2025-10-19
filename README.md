@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/10/2025 09:22:22 UTC
+ > Last Updated 19/10/2025 21:20:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-Simple-Multifactor-Authentication-48029" class="noirorange"><b>Apereo CAS Server</b>: user access via Simple Multifactor Authentication</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-Simple-Multifactor-Authentication-48029)|An attacker can bypass restrictions of Apereo CAS Server, via Simple Multifactor Authentication, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LuaJIT-denial-of-service-via-IR-FSTORE-48026" class="noirorange"><b>LuaJIT</b>: denial of service via IR_FSTORE</a>](https://vigilance.fr/vulnerability/LuaJIT-denial-of-service-via-IR-FSTORE-48026)|An attacker can cause a fatal error of LuaJIT, via IR_FSTORE, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/uv-directory-traversal-via-ZIP-Archives-48025" class="noirorange"><b>uv</b>: directory traversal via ZIP Archives</a>](https://vigilance.fr/vulnerability/uv-directory-traversal-via-ZIP-Archives-48025)|An attacker can traverse directories of uv, via ZIP Archives, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Helm-code-execution-via-Chart-yaml-Chart-lock-File-48024" class="noirorange"><b>Helm</b>: code execution via Chart.yaml Chart.lock File</a>](https://vigilance.fr/vulnerability/Helm-code-execution-via-Chart-yaml-Chart-lock-File-48024)|An attacker can use a vulnerability of Helm, via Chart.yaml Chart.lock File, in order to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-18-08-2025-48022" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 18/08/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-18-08-2025-48022)|An attacker can use several vulnerabilities of the Linux kernel, dated 18/08/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-iamf-c-48378" class="noirorange"><b>FFmpeg</b>: memory leak via libavutil/iamf.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-iamf-c-48378)|An attacker can create a memory leak of FFmpeg, via libavutil/iamf.c, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-mov-read-trak-48377" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via mov_read_trak()</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-mov-read-trak-48377)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via mov_read_trak(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-17-04-2024-44087" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 17/04/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-17-04-2024-44087)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 17/04/2024...|Visit link for details|
  
  ---
 
