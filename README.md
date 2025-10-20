@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/10/2025 09:29:18 UTC
+ > Last Updated 20/10/2025 21:23:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0899/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 20 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0898/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0897/)|De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0896/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 17 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0895/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 17 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0894/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.|Publié le 17 octobre 2025|
@@ -41,9 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0892/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 17 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0891/)|Une vulnérabilité a été découverte dans MongoDB Connector for BI pour Windows. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 17 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0890/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 17 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0889/)|Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 17 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0888/)|De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 16 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0887/)|Une vulnérabilité a été découverte dans Synacor Zimbra Collaboration. Elle permet à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF).|Publié le 16 octobre 2025|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Desktop-read-write-access-via-Container-48035" class="noirorange"><b>Docker Desktop</b>: read-write access via Container</a>](https://vigilance.fr/vulnerability/Docker-Desktop-read-write-access-via-Container-48035)|An attacker can bypass access restrictions of Docker Desktop, via Container, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jakarta-Mail-ingress-filtrering-bypass-via-SMTP-Injection-48034" class="noirorange"><b>Jakarta Mail</b>: ingress filtrering bypass via SMTP Injection</a>](https://vigilance.fr/vulnerability/Jakarta-Mail-ingress-filtrering-bypass-via-SMTP-Injection-48034)|An attacker can bypass filtering rules of Jakarta Mail, via SMTP Injection, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-08-2025-48030" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 20/08/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-08-2025-48030)|An attacker can use several vulnerabilities of the Linux kernel, dated 20/08/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-Simple-Multifactor-Authentication-48029" class="noirorange"><b>Apereo CAS Server</b>: user access via Simple Multifactor Authentication</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-Simple-Multifactor-Authentication-48029)|An attacker can bypass restrictions of Apereo CAS Server, via Simple Multifactor Authentication, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LuaJIT-denial-of-service-via-IR-FSTORE-48026" class="noirorange"><b>LuaJIT</b>: denial of service via IR_FSTORE</a>](https://vigilance.fr/vulnerability/LuaJIT-denial-of-service-via-IR-FSTORE-48026)|An attacker can cause a fatal error of LuaJIT, via IR_FSTORE, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-LDAP-Host-Bind-Password-48386" class="noirorange"><b>Zabbix</b>: information disclosure via LDAP Host Bind Password</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-LDAP-Host-Bind-Password-48386)|An attacker can bypass access restrictions to data of Zabbix, via LDAP Host Bind Password, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-api-jsonrpc-php-48383" class="noirorange"><b>Zabbix</b>: information disclosure via api_jsonrpc.php</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-api-jsonrpc-php-48383)|An attacker can bypass access restrictions to data of Zabbix, via api_jsonrpc.php, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/lighttpd-header-injection-via-Trailers-48023" class="noirorange"><b>lighttpd</b>: header injection via Trailers</a>](https://vigilance.fr/vulnerability/lighttpd-header-injection-via-Trailers-48023)|An attacker can add new headers on lighttpd, via Trailers, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-18-08-2025-48022" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 18/08/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-18-08-2025-48022)|An attacker can use several vulnerabilities of the Linux kernel, dated 18/08/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-iamf-c-48378" class="noirorange"><b>FFmpeg</b>: memory leak via libavutil/iamf.c</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-leak-via-libavutil-iamf-c-48378)|An attacker can create a memory leak of FFmpeg, via libavutil/iamf.c, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
