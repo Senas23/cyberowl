@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/10/2025 09:28:23 UTC
+ > Last Updated 21/10/2025 21:23:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-three-vulnerabilities-dated-21-01-2025-46144" class="noirorange"><b>Node.js Core</b>: three vulnerabilities dated 21/01/2025</a>](https://vigilance.fr/vulnerability/Node-js-Core-three-vulnerabilities-dated-21-01-2025-46144)|An attacker can use several vulnerabilities of Node.js Core, dated 21/01/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-Deeply-Nested-Structures-48399" class="noirorange"><b>Poppler</b>: denial of service via Deeply Nested Structures</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-Deeply-Nested-Structures-48399)|An attacker can cause a fatal error of Poppler, via Deeply Nested Structures, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MuPDF-NULL-pointer-dereference-via-break-word-for-overflow-wrap-48393" class="noirorange"><b>MuPDF</b>: NULL pointer dereference via break_word_for_<wbr>overflow_wrap()</wbr></a>](https://vigilance.fr/vulnerability/MuPDF-NULL-pointer-dereference-via-break-word-for-overflow-wrap-48393)|An attacker can force a NULL pointer to be dereferenced on MuPDF, via break_word_for_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Suricata-memory-leak-via-HTTP2-Stream-0-48044" class="noirorange"><b>Suricata</b>: memory leak via HTTP2 Stream 0</a>](https://vigilance.fr/vulnerability/Suricata-memory-leak-via-HTTP2-Stream-0-48044)|An attacker can create a memory leak of Suricata, via HTTP2 Stream 0, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibHTP-memory-leak-via-LZMA-48043" class="noirorange"><b>LibHTP</b>: memory leak via LZMA</a>](https://vigilance.fr/vulnerability/LibHTP-memory-leak-via-LZMA-48043)|An attacker can create a memory leak of LibHTP, via LZMA, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Docker-Desktop-read-write-access-via-Container-48035" class="noirorange"><b>Docker Desktop</b>: read-write access via Container</a>](https://vigilance.fr/vulnerability/Docker-Desktop-read-write-access-via-Container-48035)|An attacker can bypass access restrictions of Docker Desktop, via Container, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jakarta-Mail-ingress-filtrering-bypass-via-SMTP-Injection-48034" class="noirorange"><b>Jakarta Mail</b>: ingress filtrering bypass via SMTP Injection</a>](https://vigilance.fr/vulnerability/Jakarta-Mail-ingress-filtrering-bypass-via-SMTP-Injection-48034)|An attacker can bypass filtering rules of Jakarta Mail, via SMTP Injection, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-08-2025-48030" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 20/08/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-20-08-2025-48030)|An attacker can use several vulnerabilities of the Linux kernel, dated 20/08/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-Simple-Multifactor-Authentication-48029" class="noirorange"><b>Apereo CAS Server</b>: user access via Simple Multifactor Authentication</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-Simple-Multifactor-Authentication-48029)|An attacker can bypass restrictions of Apereo CAS Server, via Simple Multifactor Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LuaJIT-denial-of-service-via-IR-FSTORE-48026" class="noirorange"><b>LuaJIT</b>: denial of service via IR_FSTORE</a>](https://vigilance.fr/vulnerability/LuaJIT-denial-of-service-via-IR-FSTORE-48026)|An attacker can cause a fatal error of LuaJIT, via IR_FSTORE, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
