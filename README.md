@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/10/2025 21:21:20 UTC
+ > Last Updated 24/10/2025 09:27:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,13 +47,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2025-46155" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of January 2025</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2025-46155)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-two-vulnerabilities-dated-22-08-2025-48047" class="noirorange"><b>IBM QRadar SIEM</b>: two vulnerabilities dated 22/08/2025</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-two-vulnerabilities-dated-22-08-2025-48047)|An attacker can use several vulnerabilities of IBM QRadar SIEM, dated 22/08/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/slab-out-of-bounds-memory-reading-via-get-disjoint-mut-48046" class="noirorange"><b>slab</b>: out-of-bounds memory reading via get_disjoint_mut()</a>](https://vigilance.fr/vulnerability/slab-out-of-bounds-memory-reading-via-get-disjoint-mut-48046)|An attacker can force a read at an invalid memory address of slab, via get_disjoint_mut(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
