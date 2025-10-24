@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/10/2025 09:27:14 UTC
+ > Last Updated 24/10/2025 21:21:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0924/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0923/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 24 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0922/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 24 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0921/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0920/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0919/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0918/)|De multiples vulnérabilités ont été découvertes dans Liferay. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 24 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0917/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 24 octobre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0916/)|Une vulnérabilité a été découverte dans le pilote MongoDB Pilote Atlas SQL ODBC . Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 24 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0915/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 23 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0914/)|De multiples vulnérabilités ont été découvertes dans les produits Centreon. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 23 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0913/)|De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0912/)|Une vulnérabilité a été découverte dans SolarWinds Observability. Elle permet à un attaquant de provoquer une injection SQL (SQLi).|Publié le 22 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0911/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0910/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0909/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0908/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0907/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0906/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 octobre 2025|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-24-04-2024-44138" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities dated 24/04/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-24-04-2024-44138)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 24/04/2024...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-MONGO-Dissector-48426" class="noirorange"><b>Wireshark</b>: overload via MONGO Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-MONGO-Dissector-48426)|An attacker can trigger an overload of Wireshark, via MONGO Dissector, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-Session-Token-48422" class="noirorange"><b>PAN-OS</b>: information disclosure via Session Token</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-Session-Token-48422)|An attacker can bypass access restrictions to data of PAN-OS, via Session Token, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-information-disclosure-via-Imports-Variable-Resolution-48420" class="noirorange"><b>Keycloak</b>: information disclosure via Imports Variable Resolution</a>](https://vigilance.fr/vulnerability/Keycloak-information-disclosure-via-Imports-Variable-Resolution-48420)|An attacker can bypass access restrictions to data of Keycloak, via Imports Variable Resolution, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-22-01-2025-46178" class="noirorange"><b>Chrome  Edge  Opera</b>: two vulnerabilities dated 22/01/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-22-01-2025-46178)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 22/01/2025...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2025-46162" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2025</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2025-46162)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2025-46159" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2025</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2025-46159)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2025-46155" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of January 2025</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2025-46155)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-two-vulnerabilities-dated-22-08-2025-48047" class="noirorange"><b>IBM QRadar SIEM</b>: two vulnerabilities dated 22/08/2025</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-two-vulnerabilities-dated-22-08-2025-48047)|An attacker can use several vulnerabilities of IBM QRadar SIEM, dated 22/08/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/slab-out-of-bounds-memory-reading-via-get-disjoint-mut-48046" class="noirorange"><b>slab</b>: out-of-bounds memory reading via get_disjoint_mut()</a>](https://vigilance.fr/vulnerability/slab-out-of-bounds-memory-reading-via-get-disjoint-mut-48046)|An attacker can force a read at an invalid memory address of slab, via get_disjoint_mut(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
  ---
 
