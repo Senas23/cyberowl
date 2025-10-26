@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/10/2025 09:22:20 UTC
+ > Last Updated 26/10/2025 21:21:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,20 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-code-execution-via-LNK-File-UI-48063" class="noirorange"><b>Windows</b>: code execution via LNK File UI</a>](https://vigilance.fr/vulnerability/Windows-code-execution-via-LNK-File-UI-48063)|An attacker can use a vulnerability of Windows, via LNK File UI, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/quic-go-NULL-pointer-dereference-via-Path-Probe-Packets-48061" class="noirorange"><b>quic-go</b>: NULL pointer dereference via Path Probe Packets</a>](https://vigilance.fr/vulnerability/quic-go-NULL-pointer-dereference-via-Path-Probe-Packets-48061)|An attacker can force a NULL pointer to be dereferenced on quic-go, via Path Probe Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamViewer-Remote-Clients-for-Windows-file-creation-via-Directory-Validation-Logic-48060" class="noirorange"><b>TeamViewer Remote Clients for Windows</b>: file creation via Directory Validation Logic</a>](https://vigilance.fr/vulnerability/TeamViewer-Remote-Clients-for-Windows-file-creation-via-Directory-Validation-Logic-48060)|An attacker can bypass access restrictions of TeamViewer Remote Clients for Windows, via Directory Validation Logic, in order to create a file...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LuaJIT-out-of-bounds-memory-reading-via-lj-err-run-48059" class="noirorange"><b>LuaJIT</b>: out-of-bounds memory reading via lj_err_run()</a>](https://vigilance.fr/vulnerability/LuaJIT-out-of-bounds-memory-reading-via-lj-err-run-48059)|An attacker can force a read at an invalid memory address of LuaJIT, via lj_err_run(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LuaJIT-memory-corruption-via-debug-getinfo-48058" class="noirorange"><b>LuaJIT</b>: memory corruption via debug.getinfo</a>](https://vigilance.fr/vulnerability/LuaJIT-memory-corruption-via-debug-getinfo-48058)|An attacker can trigger a memory corruption of LuaJIT, via debug.getinfo, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adminer-denial-of-service-via-Monolog-48057" class="noirorange"><b>Adminer</b>: denial of service via Monolog</a>](https://vigilance.fr/vulnerability/Adminer-denial-of-service-via-Monolog-48057)|An attacker can cause a fatal error of Adminer, via Monolog, in order to trigger a denial of service...|Visit link for details|
@@ -58,16 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-dated-25-08-2025-48055" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference dated 25/08/2025</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-dated-25-08-2025-48055)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, dated 25/08/2025, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cmake-assertion-error-via-cmForEachFunctionBlocker-ReplayItems-48054" class="noirorange"><b>cmake</b>: assertion error via cmForEachFunctionBlo<wbr>cker::ReplayItems()</wbr></a>](https://vigilance.fr/vulnerability/cmake-assertion-error-via-cmForEachFunctionBlocker-ReplayItems-48054)|An attacker can force an assertion error of cmake, via cmForEachFunctionBlo|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ImageMagick-three-vulnerabilities-dated-25-08-2025-48053" class="noirorange"><b>ImageMagick</b>: three vulnerabilities dated 25/08/2025</a>](https://vigilance.fr/vulnerability/ImageMagick-three-vulnerabilities-dated-25-08-2025-48053)|An attacker can use several vulnerabilities of ImageMagick, dated 25/08/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-08-2025-48052" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 25/08/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-08-2025-48052)|An attacker can use several vulnerabilities of the Linux kernel, dated 25/08/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-denial-of-service-via-NtRestoreKey-48051" class="noirorange"><b>ESET NOD32 Antivirus</b>: denial of service via NtRestoreKey</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-denial-of-service-via-NtRestoreKey-48051)|An attacker can cause a fatal error of ESET NOD32 Antivirus, via NtRestoreKey, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-24-04-2024-44138" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities dated 24/04/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-24-04-2024-44138)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 24/04/2024...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
