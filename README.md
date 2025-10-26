@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/10/2025 21:20:46 UTC
+ > Last Updated 26/10/2025 09:22:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,12 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LuaJIT-out-of-bounds-memory-reading-via-lj-err-run-48059" class="noirorange"><b>LuaJIT</b>: out-of-bounds memory reading via lj_err_run()</a>](https://vigilance.fr/vulnerability/LuaJIT-out-of-bounds-memory-reading-via-lj-err-run-48059)|An attacker can force a read at an invalid memory address of LuaJIT, via lj_err_run(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LuaJIT-memory-corruption-via-debug-getinfo-48058" class="noirorange"><b>LuaJIT</b>: memory corruption via debug.getinfo</a>](https://vigilance.fr/vulnerability/LuaJIT-memory-corruption-via-debug-getinfo-48058)|An attacker can trigger a memory corruption of LuaJIT, via debug.getinfo, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adminer-denial-of-service-via-Monolog-48057" class="noirorange"><b>Adminer</b>: denial of service via Monolog</a>](https://vigilance.fr/vulnerability/Adminer-denial-of-service-via-Monolog-48057)|An attacker can cause a fatal error of Adminer, via Monolog, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Firebird-NULL-pointer-dereference-via-XDR-Message-48056" class="noirorange"><b>Firebird</b>: NULL pointer dereference via XDR Message</a>](https://vigilance.fr/vulnerability/Firebird-NULL-pointer-dereference-via-XDR-Message-48056)|An attacker can force a NULL pointer to be dereferenced on Firebird, via XDR Message, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-dated-25-08-2025-48055" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference dated 25/08/2025</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-dated-25-08-2025-48055)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, dated 25/08/2025, in order to trigger a denial of service...|Visit link for details|
@@ -66,8 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-08-2025-48052" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 25/08/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-25-08-2025-48052)|An attacker can use several vulnerabilities of the Linux kernel, dated 25/08/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-denial-of-service-via-NtRestoreKey-48051" class="noirorange"><b>ESET NOD32 Antivirus</b>: denial of service via NtRestoreKey</a>](https://vigilance.fr/vulnerability/ESET-NOD32-Antivirus-denial-of-service-via-NtRestoreKey-48051)|An attacker can cause a fatal error of ESET NOD32 Antivirus, via NtRestoreKey, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-24-04-2024-44138" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities dated 24/04/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-24-04-2024-44138)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 24/04/2024...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-MONGO-Dissector-48426" class="noirorange"><b>Wireshark</b>: overload via MONGO Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-MONGO-Dissector-48426)|An attacker can trigger an overload of Wireshark, via MONGO Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-Session-Token-48422" class="noirorange"><b>PAN-OS</b>: information disclosure via Session Token</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-Session-Token-48422)|An attacker can bypass access restrictions to data of PAN-OS, via Session Token, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
