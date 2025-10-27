@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/10/2025 21:21:22 UTC
+ > Last Updated 27/10/2025 09:30:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,13 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/cipher-base-write-access-dated-27-08-2025-48065" class="noirorange"><b>cipher-base</b>: write access dated 27/08/2025</a>](https://vigilance.fr/vulnerability/cipher-base-write-access-dated-27-08-2025-48065)|An attacker can bypass access restrictions of cipher-base, dated 27/08/2025, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Cmdline-48064" class="noirorange"><b>Linux kernel</b>: buffer overflow via Cmdline</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Cmdline-48064)|An attacker can trigger a buffer overflow of the Linux kernel, via Cmdline, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlXIncludeAddNode-46198" class="noirorange"><b>libxml2</b>: use after free via xmlXIncludeAddNode()</a>](https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlXIncludeAddNode-46198)|An attacker can force the reuse of a freed memory area of libxml2, via xmlXIncludeAddNode()|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-code-execution-via-LNK-File-UI-48063" class="noirorange"><b>Windows</b>: code execution via LNK File UI</a>](https://vigilance.fr/vulnerability/Windows-code-execution-via-LNK-File-UI-48063)|An attacker can use a vulnerability of Windows, via LNK File UI, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/quic-go-NULL-pointer-dereference-via-Path-Probe-Packets-48061" class="noirorange"><b>quic-go</b>: NULL pointer dereference via Path Probe Packets</a>](https://vigilance.fr/vulnerability/quic-go-NULL-pointer-dereference-via-Path-Probe-Packets-48061)|An attacker can force a NULL pointer to be dereferenced on quic-go, via Path Probe Packets, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TeamViewer-Remote-Clients-for-Windows-file-creation-via-Directory-Validation-Logic-48060" class="noirorange"><b>TeamViewer Remote Clients for Windows</b>: file creation via Directory Validation Logic</a>](https://vigilance.fr/vulnerability/TeamViewer-Remote-Clients-for-Windows-file-creation-via-Directory-Validation-Logic-48060)|An attacker can bypass access restrictions of TeamViewer Remote Clients for Windows, via Directory Validation Logic, in order to create a file...|Visit link for details|
@@ -65,9 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/LuaJIT-memory-corruption-via-debug-getinfo-48058" class="noirorange"><b>LuaJIT</b>: memory corruption via debug.getinfo</a>](https://vigilance.fr/vulnerability/LuaJIT-memory-corruption-via-debug-getinfo-48058)|An attacker can trigger a memory corruption of LuaJIT, via debug.getinfo, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adminer-denial-of-service-via-Monolog-48057" class="noirorange"><b>Adminer</b>: denial of service via Monolog</a>](https://vigilance.fr/vulnerability/Adminer-denial-of-service-via-Monolog-48057)|An attacker can cause a fatal error of Adminer, via Monolog, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Firebird-NULL-pointer-dereference-via-XDR-Message-48056" class="noirorange"><b>Firebird</b>: NULL pointer dereference via XDR Message</a>](https://vigilance.fr/vulnerability/Firebird-NULL-pointer-dereference-via-XDR-Message-48056)|An attacker can force a NULL pointer to be dereferenced on Firebird, via XDR Message, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-dated-25-08-2025-48055" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference dated 25/08/2025</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-dated-25-08-2025-48055)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, dated 25/08/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cmake-assertion-error-via-cmForEachFunctionBlocker-ReplayItems-48054" class="noirorange"><b>cmake</b>: assertion error via cmForEachFunctionBlo<wbr>cker::ReplayItems()</wbr></a>](https://vigilance.fr/vulnerability/cmake-assertion-error-via-cmForEachFunctionBlocker-ReplayItems-48054)|An attacker can force an assertion error of cmake, via cmForEachFunctionBlo|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-three-vulnerabilities-dated-25-08-2025-48053" class="noirorange"><b>ImageMagick</b>: three vulnerabilities dated 25/08/2025</a>](https://vigilance.fr/vulnerability/ImageMagick-three-vulnerabilities-dated-25-08-2025-48053)|An attacker can use several vulnerabilities of ImageMagick, dated 25/08/2025...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
