@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/10/2025 21:23:44 UTC
+ > Last Updated 30/10/2025 09:28:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Admin-LTE-Theme-vulnerability-dated-30-01-2025-46239" class="noirorange"><b>Drupal Admin LTE Theme</b>: vulnerability dated 30/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Admin-LTE-Theme-vulnerability-dated-30-01-2025-46239)|A vulnerability of Drupal Admin LTE Theme, dated 30/01/2025, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Authenticator-Login-user-access-dated-30-01-2025-46238" class="noirorange"><b>Drupal Authenticator Login</b>: user access dated 30/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Authenticator-Login-user-access-dated-30-01-2025-46238)|An attacker can bypass restrictions of Drupal Authenticator Login, dated 30/01/2025, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HPE-ProLiant-RL300-Gen11-Server-out-of-bounds-memory-reading-dated-14-10-2025-48463" class="noirorange"><b>HPE ProLiant RL300 Gen11 Server</b>: out-of-bounds memory reading dated 14/10/2025</a>](https://vigilance.fr/vulnerability/HPE-ProLiant-RL300-Gen11-Server-out-of-bounds-memory-reading-dated-14-10-2025-48463)|An attacker can force a read at an invalid memory address of HPE ProLiant RL300 Gen11 Server, dated 14/10/2025, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-Unchecked-Return-Value-48458" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via Unchecked Return Value</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-Unchecked-Return-Value-48458)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via Unchecked Return Value, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-SSLVPN-Insufficient-Session-Expiration-48452" class="noirorange"><b>FortiOS</b>: user access via SSLVPN Insufficient Session Expiration</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-SSLVPN-Insufficient-Session-Expiration-48452)|An attacker can bypass restrictions of FortiOS, via SSLVPN Insufficient Session Expiration, in order to gain user privileges...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-DNS-over-HTTPS-46230" class="noirorange"><b>ISC BIND</b>: overload via DNS-over-HTTPS</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-DNS-over-HTTPS-46230)|An attacker can trigger an overload of ISC BIND, via DNS-over-HTTPS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-overload-via-Additional-Section-Many-Records-46229" class="noirorange"><b>ISC BIND</b>: overload via Additional Section Many Records</a>](https://vigilance.fr/vulnerability/ISC-BIND-overload-via-Additional-Section-Many-Records-46229)|An attacker can trigger an overload of ISC BIND, via Additional Section Many Records, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-DevTools-46227" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via DevTools</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-DevTools-46227)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via DevTools, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-SSH-Dissector-48094" class="noirorange"><b>Wireshark</b>: denial of service via SSH Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-SSH-Dissector-48094)|An attacker can cause a fatal error of Wireshark, via SSH Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-No-async-Decryption-Request-48093" class="noirorange"><b>Linux kernel</b>: use after free via No-async Decryption Request</a>](https://vigilance.fr/vulnerability/Linux-kernel-use-after-free-via-No-async-Decryption-Request-48093)|An attacker can force the reuse of a freed memory area of the Linux kernel, via No-async Decryption Request, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
