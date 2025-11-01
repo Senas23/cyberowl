@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/11/2025 09:23:35 UTC
+ > Last Updated 01/11/2025 21:20:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-SAML-denial-of-service-via-message-max-bytesize-48104" class="noirorange"><b>Ruby SAML</b>: denial of service via message_max_bytesize</a>](https://vigilance.fr/vulnerability/Ruby-SAML-denial-of-service-via-message-max-bytesize-48104)|An attacker can cause a fatal error of Ruby SAML, via message_max_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-WriteBlobStream-48102" class="noirorange"><b>ImageMagick</b>: memory corruption via WriteBlobStream()</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-WriteBlobStream-48102)|An attacker can trigger a memory corruption of ImageMagick, via WriteBlobStream(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Exiv2-overload-via-jpegBase-readMetadata-48101" class="noirorange"><b>Exiv2</b>: overload via jpegBase::<wbr>readMetadata()</wbr></a>](https://vigilance.fr/vulnerability/Exiv2-overload-via-jpegBase-readMetadata-48101)|An attacker can trigger an overload of Exiv2, via jpegBase::|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Metadata-Into-48100" class="noirorange"><b>Exiv2</b>: out-of-bounds memory reading via Metadata Into</a>](https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Metadata-Into-48100)|An attacker can force a read at an invalid memory address of Exiv2, via Metadata Into, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/go-viper-logged-sensitive-information-via-Mapstructure-48099" class="noirorange"><b>go-viper</b>: logged sensitive information via Mapstructure</a>](https://vigilance.fr/vulnerability/go-viper-logged-sensitive-information-via-Mapstructure-48099)|An attacker can read logs of go-viper, via Mapstructure, in order to obtain sensitive information...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-Future-code-execution-via-test-py-48095" class="noirorange"><b>Python-Future</b>: code execution via test.py</a>](https://vigilance.fr/vulnerability/Python-Future-code-execution-via-test-py-48095)|An attacker can use a vulnerability of Python-Future, via test.py, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Qt-overload-via-QDom-encodeText-48502" class="noirorange"><b>Qt</b>: overload via QDom encodeText()</a>](https://vigilance.fr/vulnerability/Qt-overload-via-QDom-encodeText-48502)|An attacker can trigger an overload of Qt, via QDom encodeText(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Admin-LTE-Theme-vulnerability-dated-30-01-2025-46239" class="noirorange"><b>Drupal Admin LTE Theme</b>: vulnerability dated 30/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Admin-LTE-Theme-vulnerability-dated-30-01-2025-46239)|A vulnerability of Drupal Admin LTE Theme, dated 30/01/2025, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Authenticator-Login-user-access-dated-30-01-2025-46238" class="noirorange"><b>Drupal Authenticator Login</b>: user access dated 30/01/2025</a>](https://vigilance.fr/vulnerability/Drupal-Authenticator-Login-user-access-dated-30-01-2025-46238)|An attacker can bypass restrictions of Drupal Authenticator Login, dated 30/01/2025, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HPE-ProLiant-RL300-Gen11-Server-out-of-bounds-memory-reading-dated-14-10-2025-48463" class="noirorange"><b>HPE ProLiant RL300 Gen11 Server</b>: out-of-bounds memory reading dated 14/10/2025</a>](https://vigilance.fr/vulnerability/HPE-ProLiant-RL300-Gen11-Server-out-of-bounds-memory-reading-dated-14-10-2025-48463)|An attacker can force a read at an invalid memory address of HPE ProLiant RL300 Gen11 Server, dated 14/10/2025, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
  ---
 
