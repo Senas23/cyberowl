@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/11/2025 09:23:23 UTC
+ > Last Updated 02/11/2025 21:20:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Eventlet-ingress-filtrering-bypass-via-WSGI-Parser-Request-Smuggling-48107" class="noirorange"><b>Eventlet</b>: ingress filtrering bypass via WSGI Parser Request Smuggling</a>](https://vigilance.fr/vulnerability/Eventlet-ingress-filtrering-bypass-via-WSGI-Parser-Request-Smuggling-48107)|An attacker can bypass filtering rules of Eventlet, via WSGI Parser Request Smuggling, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Backup-Plus-code-execution-via-Command-Injection-48106" class="noirorange"><b>TYPO3 Backup Plus</b>: code execution via Command Injection</a>](https://vigilance.fr/vulnerability/TYPO3-Backup-Plus-code-execution-via-Command-Injection-48106)|An attacker can use a vulnerability of TYPO3 Backup Plus, via Command Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-openSUSE-privilege-escalation-via-Nginx-Logrotate-48105" class="noirorange"><b>SUSE LE  openSUSE</b>: privilege escalation via Nginx Logrotate</a>](https://vigilance.fr/vulnerability/SUSE-LE-openSUSE-privilege-escalation-via-Nginx-Logrotate-48105)|An attacker can bypass restrictions of SUSE LE  openSUSE, via Nginx Logrotate, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-SAML-denial-of-service-via-message-max-bytesize-48104" class="noirorange"><b>Ruby SAML</b>: denial of service via message_max_bytesize</a>](https://vigilance.fr/vulnerability/Ruby-SAML-denial-of-service-via-message-max-bytesize-48104)|An attacker can cause a fatal error of Ruby SAML, via message_max_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-WriteBlobStream-48102" class="noirorange"><b>ImageMagick</b>: memory corruption via WriteBlobStream()</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-WriteBlobStream-48102)|An attacker can trigger a memory corruption of ImageMagick, via WriteBlobStream(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exiv2-overload-via-jpegBase-readMetadata-48101" class="noirorange"><b>Exiv2</b>: overload via jpegBase::<wbr>readMetadata()</wbr></a>](https://vigilance.fr/vulnerability/Exiv2-overload-via-jpegBase-readMetadata-48101)|An attacker can trigger an overload of Exiv2, via jpegBase::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Metadata-Into-48100" class="noirorange"><b>Exiv2</b>: out-of-bounds memory reading via Metadata Into</a>](https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Metadata-Into-48100)|An attacker can force a read at an invalid memory address of Exiv2, via Metadata Into, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/go-viper-logged-sensitive-information-via-Mapstructure-48099" class="noirorange"><b>go-viper</b>: logged sensitive information via Mapstructure</a>](https://vigilance.fr/vulnerability/go-viper-logged-sensitive-information-via-Mapstructure-48099)|An attacker can read logs of go-viper, via Mapstructure, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Artifex-Software-MuPDF-memory-leak-via-pdf-font-add-c-48514" class="noirorange"><b>Artifex Software MuPDF</b>: memory leak via pdf-font-add.c</a>](https://vigilance.fr/vulnerability/Artifex-Software-MuPDF-memory-leak-via-pdf-font-add-c-48514)|An attacker can create a memory leak of Artifex Software MuPDF, via pdf-font-add.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Firebird-denial-of-service-via-ExtConnPoolSize-48096" class="noirorange"><b>Firebird</b>: denial of service via ExtConnPoolSize</a>](https://vigilance.fr/vulnerability/Firebird-denial-of-service-via-ExtConnPoolSize-48096)|An attacker can cause a fatal error of Firebird, via ExtConnPoolSize, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -55,13 +72,6 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
