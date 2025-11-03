@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/11/2025 09:31:44 UTC
+ > Last Updated 03/11/2025 21:24:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,23 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0957/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 03 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0956/)|De multiples vulnérabilités ont été découvertes dans MariaDB. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 03 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0955/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 03 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0954/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 03 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0953/)|Une vulnérabilité a été découverte dans Elastic Cloud Enterprise. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 03 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0952/)|Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 03 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0951/)|De multiples vulnérabilités ont été découvertes dans Axis OS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 03 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0950/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 31 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0949/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 31 octobre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0948/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 31 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0947/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 31 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0946/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 31 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0945/)|Une vulnérabilité a été découverte dans Qnap NetBak PC Agent. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0944/)|Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0943/)|De multiples vulnérabilités ont été découvertes dans les produits Centreon. Elles permettent à un attaquant de provoquer une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 31 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0942/)|Une vulnérabilité a été découverte dans Dovecot. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 31 octobre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0941/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 octobre 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -58,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/KDE-KMail-file-reading-via-Attach-Parameter-48116" class="noirorange"><b>KDE KMail</b>: file reading via Attach Parameter</a>](https://vigilance.fr/vulnerability/KDE-KMail-file-reading-via-Attach-Parameter-48116)|An attacker can read a file of KDE KMail, via Attach Parameter, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-privilege-escalation-via-Munge-Logrotate-48115" class="noirorange"><b>SUSE LE</b>: privilege escalation via Munge Logrotate</a>](https://vigilance.fr/vulnerability/SUSE-LE-privilege-escalation-via-Munge-Logrotate-48115)|An attacker can bypass restrictions of SUSE LE, via Munge Logrotate, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-03-09-2025-48114" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities dated 03/09/2025</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-dated-03-09-2025-48114)|An attacker can use several vulnerabilities of Jenkins Plugins, dated 03/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/linux-pam-privilege-escalation-via-pam-namespace-48110" class="noirorange"><b>linux-pam</b>: privilege escalation via pam_namespace</a>](https://vigilance.fr/vulnerability/linux-pam-privilege-escalation-via-pam-namespace-48110)|An attacker can bypass restrictions of linux-pam, via pam_namespace, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/h2-header-injection-via-CRLF-Characters-48108" class="noirorange"><b>h2</b>: header injection via CRLF Characters</a>](https://vigilance.fr/vulnerability/h2-header-injection-via-CRLF-Characters-48108)|An attacker can add new headers on h2, via CRLF Characters, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eventlet-ingress-filtrering-bypass-via-WSGI-Parser-Request-Smuggling-48107" class="noirorange"><b>Eventlet</b>: ingress filtrering bypass via WSGI Parser Request Smuggling</a>](https://vigilance.fr/vulnerability/Eventlet-ingress-filtrering-bypass-via-WSGI-Parser-Request-Smuggling-48107)|An attacker can bypass filtering rules of Eventlet, via WSGI Parser Request Smuggling, in order to send malicious data...|Visit link for details|
@@ -65,9 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-openSUSE-privilege-escalation-via-Nginx-Logrotate-48105" class="noirorange"><b>SUSE LE  openSUSE</b>: privilege escalation via Nginx Logrotate</a>](https://vigilance.fr/vulnerability/SUSE-LE-openSUSE-privilege-escalation-via-Nginx-Logrotate-48105)|An attacker can bypass restrictions of SUSE LE  openSUSE, via Nginx Logrotate, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-SAML-denial-of-service-via-message-max-bytesize-48104" class="noirorange"><b>Ruby SAML</b>: denial of service via message_max_bytesize</a>](https://vigilance.fr/vulnerability/Ruby-SAML-denial-of-service-via-message-max-bytesize-48104)|An attacker can cause a fatal error of Ruby SAML, via message_max_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-WriteBlobStream-48102" class="noirorange"><b>ImageMagick</b>: memory corruption via WriteBlobStream()</a>](https://vigilance.fr/vulnerability/ImageMagick-memory-corruption-via-WriteBlobStream-48102)|An attacker can trigger a memory corruption of ImageMagick, via WriteBlobStream(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exiv2-overload-via-jpegBase-readMetadata-48101" class="noirorange"><b>Exiv2</b>: overload via jpegBase::<wbr>readMetadata()</wbr></a>](https://vigilance.fr/vulnerability/Exiv2-overload-via-jpegBase-readMetadata-48101)|An attacker can trigger an overload of Exiv2, via jpegBase::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Metadata-Into-48100" class="noirorange"><b>Exiv2</b>: out-of-bounds memory reading via Metadata Into</a>](https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-Metadata-Into-48100)|An attacker can force a read at an invalid memory address of Exiv2, via Metadata Into, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/go-viper-logged-sensitive-information-via-Mapstructure-48099" class="noirorange"><b>go-viper</b>: logged sensitive information via Mapstructure</a>](https://vigilance.fr/vulnerability/go-viper-logged-sensitive-information-via-Mapstructure-48099)|An attacker can read logs of go-viper, via Mapstructure, in order to obtain sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
