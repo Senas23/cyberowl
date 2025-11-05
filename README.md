@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/11/2025 09:29:19 UTC
+ > Last Updated 05/11/2025 21:24:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,33 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0967/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 05 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0966/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 05 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0965/)|De multiples vulnérabilités ont été découvertes dans MISP. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 05 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0964/)|Une vulnérabilité a été découverte dans Curl. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 05 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0963/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 04 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0962/)|Une vulnérabilité a été découverte dans Dovecot. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 04 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0961/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 04 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0960/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 04 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0959/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un déni de service.|Publié le 04 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0958/)|De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 04 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0957/)|De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de requêtes illégitimes par rebond (CSRF) et un contournement de la politique de sécurité.|Publié le 03 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0956/)|De multiples vulnérabilités ont été découvertes dans MariaDB. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 03 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0955/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 03 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0954/)|De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 03 novembre 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-dated-05-02-2025-46296" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities dated 05/02/2025</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-dated-05-02-2025-46296)|An attacker can use several vulnerabilities of F5 BIG-IP, dated 05/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-tracing-subscriber-write-access-via-ANSI-Escape-Sequence-Injection-48140" class="noirorange"><b>Rust tracing-subscriber</b>: write access via ANSI Escape Sequence Injection</a>](https://vigilance.fr/vulnerability/Rust-tracing-subscriber-write-access-via-ANSI-Escape-Sequence-Injection-48140)|An attacker can bypass access restrictions of Rust tracing-subscriber, via ANSI Escape Sequence Injection, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-CGI-Simple-header-injection-via-CRLF-48138" class="noirorange"><b>Perl CGI-Simple</b>: header injection via CRLF</a>](https://vigilance.fr/vulnerability/Perl-CGI-Simple-header-injection-via-CRLF-48138)|An attacker can add new headers on Perl CGI::Simple, via CRLF, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RealVNC-VNC-Server-privilege-escalation-via-Windows-Service-Directory-48137" class="noirorange"><b>RealVNC VNC Server</b>: privilege escalation via Windows Service Directory</a>](https://vigilance.fr/vulnerability/RealVNC-VNC-Server-privilege-escalation-via-Windows-Service-Directory-48137)|An attacker can bypass restrictions of RealVNC VNC Server, via Windows Service Directory, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-09-2025-48136" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 05/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-09-2025-48136)|An attacker can use several vulnerabilities of the Linux kernel, dated 05/09/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-dcm2img-48135" class="noirorange"><b>DCMTK</b>: memory corruption via dcm2img</a>](https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-dcm2img-48135)|An attacker can trigger a memory corruption of DCMTK, via dcm2img, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netty-overload-via-HTTP-2-Made-You-Reset-Attack-48134" class="noirorange"><b>Netty</b>: overload via HTTP/2 Made You Reset Attack</a>](https://vigilance.fr/vulnerability/Netty-overload-via-HTTP-2-Made-You-Reset-Attack-48134)|An attacker can trigger an overload of Netty, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-04-02-2025-46279" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 04/02/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-04-02-2025-46279)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 04/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-04-02-2025-46278" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 04/02/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-04-02-2025-46278)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 04/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-ff-aac-search-for-tns-48133" class="noirorange"><b>FFmpeg</b>: buffer overflow via ff_aac_search_for_<wbr>tns()</wbr></a>](https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-ff-aac-search-for-tns-48133)|An attacker can trigger a buffer overflow of FFmpeg, via ff_aac_search_for_|Visit link for details|
  
  ---
 
@@ -55,13 +72,6 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
