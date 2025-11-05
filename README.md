@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/11/2025 21:23:50 UTC
+ > Last Updated 05/11/2025 09:29:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,23 +47,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Netty-overload-via-HTTP-2-Made-You-Reset-Attack-48134" class="noirorange"><b>Netty</b>: overload via HTTP/2 Made You Reset Attack</a>](https://vigilance.fr/vulnerability/Netty-overload-via-HTTP-2-Made-You-Reset-Attack-48134)|An attacker can trigger an overload of Netty, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-04-02-2025-46279" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 04/02/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-04-02-2025-46279)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 04/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-04-02-2025-46278" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 04/02/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-04-02-2025-46278)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 04/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-ff-aac-search-for-tns-48133" class="noirorange"><b>FFmpeg</b>: buffer overflow via ff_aac_search_for_<wbr>tns()</wbr></a>](https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-ff-aac-search-for-tns-48133)|An attacker can trigger a buffer overflow of FFmpeg, via ff_aac_search_for_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-information-disclosure-via-Client-Configuration-Files-Password-48132" class="noirorange"><b>IBM MQ</b>: information disclosure via Client Configuration Files Password</a>](https://vigilance.fr/vulnerability/IBM-MQ-information-disclosure-via-Client-Configuration-Files-Password-48132)|An attacker can bypass access restrictions to data of IBM MQ, via Client Configuration Files Password, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/shlex-code-execution-via-Command-Injection-48131" class="noirorange"><b>shlex</b>: code execution via Command Injection</a>](https://vigilance.fr/vulnerability/shlex-code-execution-via-Command-Injection-48131)|An attacker can use a vulnerability of shlex, via Command Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-SQL-injection-via-FilteredRelation-Column-Aliases-48130" class="noirorange"><b>Django</b>: SQL injection via FilteredRelation Column Aliases</a>](https://vigilance.fr/vulnerability/Django-SQL-injection-via-FilteredRelation-Column-Aliases-48130)|An attacker can use a SQL injection of Django, via FilteredRelation Column Aliases, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2025-46271" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of February 2025</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2025-46271)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-read-write-access-via-SIP-Software-48127" class="noirorange"><b>Cisco IP Phone 7800/8800</b>: read-write access via SIP Software</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-read-write-access-via-SIP-Software-48127)|An attacker can bypass access restrictions of Cisco IP Phone 7800/8800, via SIP Software, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-Cross-Site-Scripting-via-Management-Interface-48126" class="noirorange"><b>Cisco Unified Communications Manager</b>: Cross Site Scripting via Management Interface</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-Cross-Site-Scripting-via-Management-Interface-48126)|An attacker can trigger a Cross Site Scripting of Cisco Unified Communications Manager, via Management Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -72,6 +55,13 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
