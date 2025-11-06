@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/11/2025 21:24:49 UTC
+ > Last Updated 06/11/2025 09:28:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-Firequalizer-Filter-48538" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via Firequalizer Filter</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-Firequalizer-Filter-48538)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via Firequalizer Filter, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-HLS-Playlist-Parsing-48536" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via HLS Playlist Parsing</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-HLS-Playlist-Parsing-48536)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via HLS Playlist Parsing, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-dated-05-02-2025-46296" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities dated 05/02/2025</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-dated-05-02-2025-46296)|An attacker can use several vulnerabilities of F5 BIG-IP, dated 05/02/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rust-tracing-subscriber-write-access-via-ANSI-Escape-Sequence-Injection-48140" class="noirorange"><b>Rust tracing-subscriber</b>: write access via ANSI Escape Sequence Injection</a>](https://vigilance.fr/vulnerability/Rust-tracing-subscriber-write-access-via-ANSI-Escape-Sequence-Injection-48140)|An attacker can bypass access restrictions of Rust tracing-subscriber, via ANSI Escape Sequence Injection, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Perl-CGI-Simple-header-injection-via-CRLF-48138" class="noirorange"><b>Perl CGI-Simple</b>: header injection via CRLF</a>](https://vigilance.fr/vulnerability/Perl-CGI-Simple-header-injection-via-CRLF-48138)|An attacker can add new headers on Perl CGI::Simple, via CRLF, in order to alter the service behavior...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-dcm2img-48135" class="noirorange"><b>DCMTK</b>: memory corruption via dcm2img</a>](https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-dcm2img-48135)|An attacker can trigger a memory corruption of DCMTK, via dcm2img, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Netty-overload-via-HTTP-2-Made-You-Reset-Attack-48134" class="noirorange"><b>Netty</b>: overload via HTTP/2 Made You Reset Attack</a>](https://vigilance.fr/vulnerability/Netty-overload-via-HTTP-2-Made-You-Reset-Attack-48134)|An attacker can trigger an overload of Netty, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-04-02-2025-46279" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 04/02/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-04-02-2025-46279)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 04/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-04-02-2025-46278" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 04/02/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-04-02-2025-46278)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 04/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-ff-aac-search-for-tns-48133" class="noirorange"><b>FFmpeg</b>: buffer overflow via ff_aac_search_for_<wbr>tns()</wbr></a>](https://vigilance.fr/vulnerability/FFmpeg-buffer-overflow-via-ff-aac-search-for-tns-48133)|An attacker can trigger a buffer overflow of FFmpeg, via ff_aac_search_for_|Visit link for details|
  
  ---
 
