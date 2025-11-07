@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/11/2025 09:27:03 UTC
+ > Last Updated 07/11/2025 21:19:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0980/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 07 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0979/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 07 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0978/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 07 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0977/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 07 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0976/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 07 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0975/)|Une vulnérabilité a été découverte dans Elastic Defend. Elle permet à un attaquant de provoquer une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 07 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0974/)|De multiples vulnérabilités ont été découvertes dans Apple iOS et iPadOS. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 06 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0973/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 06 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0972/)|De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 06 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0971/)|Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 06 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0970/)|De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond...|Publié le 06 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0969/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 06 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0968/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 06 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0967/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 05 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0966/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 05 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0965/)|De multiples vulnérabilités ont été découvertes dans MISP. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 05 novembre 2025|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-user-access-via-Brute-Force-Detection-Bypass-48571" class="noirorange"><b>Keycloak</b>: user access via Brute Force Detection Bypass</a>](https://vigilance.fr/vulnerability/Keycloak-user-access-via-Brute-Force-Detection-Bypass-48571)|An attacker can bypass restrictions of Keycloak, via Brute Force Detection Bypass, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-SO-REUSEPORT-LB-Connected-Sockets-48559" class="noirorange"><b>FreeBSD</b>: information disclosure via SO_REUSEPORT_LB Connected Sockets</a>](https://vigilance.fr/vulnerability/FreeBSD-information-disclosure-via-SO-REUSEPORT-LB-Connected-Sockets-48559)|An attacker can bypass access restrictions to data of FreeBSD, via SO_REUSEPORT_LB Connected Sockets, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-Firequalizer-Filter-48538" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via Firequalizer Filter</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-Firequalizer-Filter-48538)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via Firequalizer Filter, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-HLS-Playlist-Parsing-48536" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via HLS Playlist Parsing</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-HLS-Playlist-Parsing-48536)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via HLS Playlist Parsing, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/RealVNC-VNC-Server-privilege-escalation-via-Windows-Service-Directory-48137" class="noirorange"><b>RealVNC VNC Server</b>: privilege escalation via Windows Service Directory</a>](https://vigilance.fr/vulnerability/RealVNC-VNC-Server-privilege-escalation-via-Windows-Service-Directory-48137)|An attacker can bypass restrictions of RealVNC VNC Server, via Windows Service Directory, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-09-2025-48136" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 05/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-09-2025-48136)|An attacker can use several vulnerabilities of the Linux kernel, dated 05/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-dcm2img-48135" class="noirorange"><b>DCMTK</b>: memory corruption via dcm2img</a>](https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-dcm2img-48135)|An attacker can trigger a memory corruption of DCMTK, via dcm2img, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netty-overload-via-HTTP-2-Made-You-Reset-Attack-48134" class="noirorange"><b>Netty</b>: overload via HTTP/2 Made You Reset Attack</a>](https://vigilance.fr/vulnerability/Netty-overload-via-HTTP-2-Made-You-Reset-Attack-48134)|An attacker can trigger an overload of Netty, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
