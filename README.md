@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/11/2025 21:23:23 UTC
+ > Last Updated 07/11/2025 09:27:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,13 +47,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-09-2025-48136" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 05/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-05-09-2025-48136)|An attacker can use several vulnerabilities of the Linux kernel, dated 05/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-dcm2img-48135" class="noirorange"><b>DCMTK</b>: memory corruption via dcm2img</a>](https://vigilance.fr/vulnerability/DCMTK-memory-corruption-via-dcm2img-48135)|An attacker can trigger a memory corruption of DCMTK, via dcm2img, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Netty-overload-via-HTTP-2-Made-You-Reset-Attack-48134" class="noirorange"><b>Netty</b>: overload via HTTP/2 Made You Reset Attack</a>](https://vigilance.fr/vulnerability/Netty-overload-via-HTTP-2-Made-You-Reset-Attack-48134)|An attacker can trigger an overload of Netty, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
