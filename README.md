@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/11/2025 09:24:08 UTC
+ > Last Updated 08/11/2025 21:21:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-memory-corruption-via-Tree-Atype-48156" class="noirorange"><b>libxml2</b>: memory corruption via Tree Atype</a>](https://vigilance.fr/vulnerability/libxml2-memory-corruption-via-Tree-Atype-48156)|An attacker can trigger a memory corruption of libxml2, via Tree Atype, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-Regexp-48155" class="noirorange"><b>libxml2</b>: integer overflow via Regexp</a>](https://vigilance.fr/vulnerability/libxml2-integer-overflow-via-Regexp-48155)|An attacker can trigger an integer overflow of libxml2, via Regexp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/tcpreplay-three-vulnerabilities-dated-08-09-2025-48151" class="noirorange"><b>tcpreplay</b>: three vulnerabilities dated 08/09/2025</a>](https://vigilance.fr/vulnerability/tcpreplay-three-vulnerabilities-dated-08-09-2025-48151)|An attacker can use several vulnerabilities of tcpreplay, dated 08/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/tcpreplay-use-after-free-via-untrunc-packet-48150" class="noirorange"><b>tcpreplay</b>: use after free via untrunc_packet()</a>](https://vigilance.fr/vulnerability/tcpreplay-use-after-free-via-untrunc-packet-48150)|An attacker can force the reuse of a freed memory area of tcpreplay, via untrunc_packet(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/tcpreplay-buffer-overflow-via-mask-cidr6-48149" class="noirorange"><b>tcpreplay</b>: buffer overflow via mask_cidr6()</a>](https://vigilance.fr/vulnerability/tcpreplay-buffer-overflow-via-mask-cidr6-48149)|An attacker can trigger a buffer overflow of tcpreplay, via mask_cidr6(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Sharded-Query-Lsid-Field-48144" class="noirorange"><b>MongoDB Server</b>: denial of service via Sharded Query Lsid Field</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Sharded-Query-Lsid-Field-48144)|An attacker can cause a fatal error of MongoDB Server, via Sharded Query Lsid Field, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Upsert-Operations-Retried-48145" class="noirorange"><b>MongoDB Server</b>: denial of service via Upsert Operations Retried</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Upsert-Operations-Retried-48145)|An attacker can cause a fatal error of MongoDB Server, via Upsert Operations Retried, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-write-access-via-HTTP-Response-Content-Type-48143" class="noirorange"><b>ModSecurity</b>: write access via HTTP Response Content-Type</a>](https://vigilance.fr/vulnerability/ModSecurity-write-access-via-HTTP-Response-Content-Type-48143)|An attacker can bypass access restrictions of ModSecurity, via HTTP Response Content-Type, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kea-assertion-error-via-DHCPv4-Options-48142" class="noirorange"><b>Kea</b>: assertion error via DHCPv4 Options</a>](https://vigilance.fr/vulnerability/Kea-assertion-error-via-DHCPv4-Options-48142)|An attacker can force an assertion error of Kea, via DHCPv4 Options, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Group-Query-48146" class="noirorange"><b>MongoDB Server</b>: denial of service via Group Query</a>](https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-Group-Query-48146)|An attacker can cause a fatal error of MongoDB Server, via Group Query, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
