@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/11/2025 21:23:52 UTC
+ > Last Updated 11/11/2025 09:29:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-crypto-js-weak-encryption-via-Insecure-Randomness-48200" class="noirorange"><b>Node.js crypto-js</b>: weak encryption via Insecure Randomness</a>](https://vigilance.fr/vulnerability/Node-js-crypto-js-weak-encryption-via-Insecure-Randomness-48200)|An attacker can access data on Node.js crypto-js, via Insecure Randomness, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-overload-via-XPath-Depth-Check-48199" class="noirorange"><b>libxml2</b>: overload via XPath Depth Check</a>](https://vigilance.fr/vulnerability/libxml2-overload-via-XPath-Depth-Check-48199)|An attacker can trigger an overload of libxml2, via XPath Depth Check, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-February-2025-46329" class="noirorange"><b>SAP</b>: multiple vulnerabilities of February 2025</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-February-2025-46329)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DeepDiff-code-execution-via-Pickle-Deserialization-48197" class="noirorange"><b>DeepDiff</b>: code execution via Pickle Deserialization</a>](https://vigilance.fr/vulnerability/DeepDiff-code-execution-via-Pickle-Deserialization-48197)|An attacker can use a vulnerability of DeepDiff, via Pickle Deserialization, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Visuals-44242" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via Visuals</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Visuals-44242)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via Visuals, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tanuki-Java-Service-Wrapper-executing-DLL-code-dated-10-09-2025-48196" class="noirorange"><b>Tanuki Java Service Wrapper</b>: executing DLL code dated 10/09/2025</a>](https://vigilance.fr/vulnerability/Tanuki-Java-Service-Wrapper-executing-DLL-code-dated-10-09-2025-48196)|An attacker can create a malicious DLL for Tanuki Java Service Wrapper, dated 10/09/2025, and then put it in the current directory, in order to execute code...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-dated-10-09-2025-48193" class="noirorange"><b>pfSense CE</b>: four vulnerabilities dated 10/09/2025</a>](https://vigilance.fr/vulnerability/pfSense-CE-four-vulnerabilities-dated-10-09-2025-48193)|An attacker can use several vulnerabilities of pfSense CE, dated 10/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-status-traffic-totals-php-48192" class="noirorange"><b>pfSense CE</b>: Cross Site Scripting via status_traffic_<wbr>totals.php</wbr></a>](https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-status-traffic-totals-php-48192)|An attacker can trigger a Cross Site Scripting of pfSense CE, via status_traffic_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-directory-traversal-via-snort-ip-reputation-php-48191" class="noirorange"><b>pfSense CE</b>: directory traversal via snort_ip_reputation.<wbr>php</wbr></a>](https://vigilance.fr/vulnerability/pfSense-CE-directory-traversal-via-snort-ip-reputation-php-48191)|An attacker can traverse directories of pfSense CE, via snort_ip_reputation.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-haproxy-stats-php-48190" class="noirorange"><b>pfSense CE</b>: Cross Site Scripting via haproxy_stats.php</a>](https://vigilance.fr/vulnerability/pfSense-CE-Cross-Site-Scripting-via-haproxy-stats-php-48190)|An attacker can trigger a Cross Site Scripting of pfSense CE, via haproxy_stats.php, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-two-vulnerabilities-dated-10-09-2025-48189" class="noirorange"><b>Adobe Acrobat/Reader</b>: two vulnerabilities dated 10/09/2025</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-two-vulnerabilities-dated-10-09-2025-48189)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader, dated 10/09/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libssh-memory-leak-via-Incorrect-KEX-Guesses-48188" class="noirorange"><b>libssh</b>: memory leak via Incorrect KEX Guesses</a>](https://vigilance.fr/vulnerability/libssh-memory-leak-via-Incorrect-KEX-Guesses-48188)|An attacker can create a memory leak of libssh, via Incorrect KEX Guesses, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
