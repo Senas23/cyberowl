@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/11/2025 21:23:36 UTC
+ > Last Updated 12/11/2025 09:29:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/CivetWeb-buffer-overflow-via-URI-Parser-48213" class="noirorange"><b>CivetWeb</b>: buffer overflow via URI Parser</a>](https://vigilance.fr/vulnerability/CivetWeb-buffer-overflow-via-URI-Parser-48213)|An attacker can trigger a buffer overflow of CivetWeb, via URI Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xz-overload-via-LZMA-encoded-Byte-Stream-48212" class="noirorange"><b>xz</b>: overload via LZMA-encoded Byte Stream</a>](https://vigilance.fr/vulnerability/xz-overload-via-LZMA-encoded-Byte-Stream-48212)|An attacker can trigger an overload of xz, via LZMA-encoded Byte Stream, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-integer-overflow-via-virtio-net-48211" class="noirorange"><b>QEMU</b>: integer overflow via virtio-net</a>](https://vigilance.fr/vulnerability/QEMU-integer-overflow-via-virtio-net-48211)|An attacker, in a guest system, can trigger an integer overflow of QEMU, via virtio-net, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-09-2025-48210" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 11/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-11-09-2025-48210)|An attacker can use several vulnerabilities of the Linux kernel, dated 11/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-7-8-denial-of-service-via-Syspatch-Aliased-Nodes-48591" class="noirorange"><b>OpenBSD 7.8</b>: denial of service via Syspatch Aliased Nodes</a>](https://vigilance.fr/vulnerability/OpenBSD-7-8-denial-of-service-via-Syspatch-Aliased-Nodes-48591)|An attacker can cause a fatal error of OpenBSD 7.8, via Syspatch Aliased Nodes, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-dated-11-02-2025-46352" class="noirorange"><b>Microsoft SharePoint</b>: code execution dated 11/02/2025</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-code-execution-dated-11-02-2025-46352)|An attacker can use a vulnerability of Microsoft SharePoint, dated 11/02/2025, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2025-46351" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of February 2025</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2025-46351)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-dated-11-02-2025-46350" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: multiple vulnerabilities dated 11/02/2025</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-multiple-vulnerabilities-dated-11-02-2025-46350)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source, dated 11/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Fabric-Service-46339" class="noirorange"><b>FortiOS</b>: buffer overflow via Fabric Service</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-Fabric-Service-46339)|An attacker can trigger a buffer overflow of FortiOS, via Fabric Service, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-PowerShell-privilege-escalation-via-Hyper-V-48208" class="noirorange"><b>Microsoft Windows PowerShell</b>: privilege escalation via Hyper-V</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-PowerShell-privilege-escalation-via-Hyper-V-48208)|An attacker can bypass restrictions of Microsoft Windows PowerShell, via Hyper-V, in order to escalate his privileges...|Visit link for details|
  
  ---
 
