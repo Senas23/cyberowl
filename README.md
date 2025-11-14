@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/11/2025 09:28:08 UTC
+ > Last Updated 14/11/2025 21:24:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1014/)|Une vulnérabilité a été découverte dans Fortinet FortiWeb. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Fortinet indique que la vulnérabilité CVE-2025-64446 est activement exploitée.|Publié le 14 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1013/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 14 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1012/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1011/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 14 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1010/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1009/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 14 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1008/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 14 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1007/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1006/)|Une vulnérabilité a été découverte dans Cisco Catalyst Center. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 14 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1005/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF) et un contournement de la politique de sécurité.|Publié le 13 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1004/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 13 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1003/)|De multiples vulnérabilités ont été découvertes dans Drupal. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 13 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1002/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 13 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1001/)|De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Elles permettent à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).|Publié le 13 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1000/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 13 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0999/)|Une vulnérabilité a été découverte dans les produits Symfony. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0998/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.|Publié le 12 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0997/)|De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 12 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0996/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2025-62215...|Publié le 12 novembre 2025|
  
  ---
 
@@ -54,25 +54,25 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-three-vulnerabilities-dated-14-02-2025-46396" class="noirorange"><b>HP LaserJet</b>: three vulnerabilities dated 14/02/2025</a>](https://vigilance.fr/vulnerability/HP-LaserJet-three-vulnerabilities-dated-14-02-2025-46396)|An attacker can use several vulnerabilities of HP LaserJet, dated 14/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-smtpd-imsg-48624" class="noirorange"><b>OpenBSD</b>: denial of service via smtpd imsg</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-smtpd-imsg-48624)|An attacker can cause a fatal error of OpenBSD, via smtpd imsg, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-display-info-48619" class="noirorange"><b>GNU Binutils</b>: memory leak via display_info()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-display-info-48619)|An attacker can create a memory leak of GNU Binutils, via display_info(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-link-order-scan-48618" class="noirorange"><b>GNU Binutils</b>: memory leak via link_order_scan()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-link-order-scan-48618)|An attacker can create a memory leak of GNU Binutils, via link_order_scan(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-44270" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-44270)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-SQL-injection-via-PQescape-Miss-Neutralization-46390" class="noirorange"><b>PostgreSQL</b>: SQL injection via PQescape Miss Neutralization</a>](https://vigilance.fr/vulnerability/PostgreSQL-SQL-injection-via-PQescape-Miss-Neutralization-46390)|An attacker can use a SQL injection of PostgreSQL, via PQescape Miss Neutralization, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-net-http-CrossOriginProtection-48220" class="noirorange"><b>Go</b>: ingress filtrering bypass via net/http CrossOriginProtectio<wbr>n</wbr></a>](https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-net-http-CrossOriginProtection-48220)|An attacker can bypass filtering rules of Go, via net/http CrossOriginProtectio|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-12-02-2025-46385" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities dated 12/02/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-12-02-2025-46385)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 12/02/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-via-Web-Content-46384" class="noirorange"><b>WebKitGTK</b>: memory corruption via Web Content</a>](https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-via-Web-Content-46384)|An attacker can trigger a memory corruption of WebKitGTK, via Web Content, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-code-execution-via-Web-Inspector-46382" class="noirorange"><b>WebKitGTK</b>: code execution via Web Inspector</a>](https://vigilance.fr/vulnerability/WebKitGTK-code-execution-via-Web-Inspector-46382)|An attacker can use a vulnerability of WebKitGTK, via Web Inspector, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pam-pkcs11-user-access-via-Error-Situations-46377" class="noirorange"><b>pam_pkcs11</b>: user access via Error Situations</a>](https://vigilance.fr/vulnerability/pam-pkcs11-user-access-via-Error-Situations-46377)|An attacker can bypass restrictions of pam_pkcs11, via Error Situations, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pam-pkcs11-user-access-via-Cert-policy-None-46376" class="noirorange"><b>pam_pkcs11</b>: user access via Cert_policy None</a>](https://vigilance.fr/vulnerability/pam-pkcs11-user-access-via-Cert-policy-None-46376)|An attacker can bypass restrictions of pam_pkcs11, via Cert_policy None, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-read-write-access-via-PHP-Scripts-46371" class="noirorange"><b>PAN-OS</b>: read-write access via PHP Scripts</a>](https://vigilance.fr/vulnerability/PAN-OS-read-write-access-via-PHP-Scripts-46371)|An attacker can bypass access restrictions of PAN-OS, via PHP Scripts, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Agent-2-Smartctl-Plugin-48218" class="noirorange"><b>Zabbix</b>: code execution via Agent 2 Smartctl Plugin</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Agent-2-Smartctl-Plugin-48218)|An attacker can use a vulnerability of Zabbix, via Agent 2 Smartctl Plugin, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Configuration-Files-48215" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation via Configuration Files</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Configuration-Files-48215)|An attacker can bypass restrictions of IBM QRadar SIEM, via Configuration Files, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
