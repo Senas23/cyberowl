@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/11/2025 21:23:52 UTC
+ > Last Updated 14/11/2025 09:28:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,13 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,13 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-read-write-access-via-PHP-Scripts-46371" class="noirorange"><b>PAN-OS</b>: read-write access via PHP Scripts</a>](https://vigilance.fr/vulnerability/PAN-OS-read-write-access-via-PHP-Scripts-46371)|An attacker can bypass access restrictions of PAN-OS, via PHP Scripts, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Agent-2-Smartctl-Plugin-48218" class="noirorange"><b>Zabbix</b>: code execution via Agent 2 Smartctl Plugin</a>](https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Agent-2-Smartctl-Plugin-48218)|An attacker can use a vulnerability of Zabbix, via Agent 2 Smartctl Plugin, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Configuration-Files-48215" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation via Configuration Files</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Configuration-Files-48215)|An attacker can bypass restrictions of IBM QRadar SIEM, via Configuration Files, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
