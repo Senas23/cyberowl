@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/11/2025 09:24:14 UTC
+ > Last Updated 15/11/2025 21:21:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-executing-DLL-code-via-Windows-Unset-ACLs-48229" class="noirorange"><b>MongoDB Server</b>: executing DLL code via Windows Unset ACLs</a>](https://vigilance.fr/vulnerability/MongoDB-Server-executing-DLL-code-via-Windows-Unset-ACLs-48229)|An attacker can create a malicious DLL for MongoDB Server :, via Windows Unset ACLs, and then put it in the current directory, in order to execute code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ignite-Openfire-user-access-via-Unsafe-CN-Parsing-48228" class="noirorange"><b>Ignite Openfire</b>: user access via Unsafe CN Parsing</a>](https://vigilance.fr/vulnerability/Ignite-Openfire-user-access-via-Unsafe-CN-Parsing-48228)|An attacker can bypass restrictions of Ignite Openfire, via Unsafe CN Parsing, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JasPer-three-vulnerabilities-dated-15-09-2025-48227" class="noirorange"><b>JasPer</b>: three vulnerabilities dated 15/09/2025</a>](https://vigilance.fr/vulnerability/JasPer-three-vulnerabilities-dated-15-09-2025-48227)|An attacker can use several vulnerabilities of JasPer, dated 15/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cJSON-out-of-bounds-memory-reading-via-decode-array-index-from-pointer-48226" class="noirorange"><b>cJSON</b>: out-of-bounds memory reading via decode_array_index_<wbr>from_pointer()</wbr></a>](https://vigilance.fr/vulnerability/cJSON-out-of-bounds-memory-reading-via-decode-array-index-from-pointer-48226)|An attacker can force a read at an invalid memory address of cJSON, via decode_array_index_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/linenoise-file-creation-via-linenoiseHistorySave-48225" class="noirorange"><b>linenoise</b>: file creation via linenoiseHistorySave<wbr>()</wbr></a>](https://vigilance.fr/vulnerability/linenoise-file-creation-via-linenoiseHistorySave-48225)|An attacker can bypass access restrictions of linenoise, via linenoiseHistorySave|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mermaid-Cross-Site-Scripting-via-Sequence-Diagram-Labels-48224" class="noirorange"><b>Mermaid</b>: Cross Site Scripting via Sequence Diagram Labels</a>](https://vigilance.fr/vulnerability/Mermaid-Cross-Site-Scripting-via-Sequence-Diagram-Labels-48224)|An attacker can trigger a Cross Site Scripting of Mermaid, via Sequence Diagram Labels, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-15-09-2025-48222" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 15/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-15-09-2025-48222)|An attacker can use several vulnerabilities of the Linux kernel, dated 15/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Power-System-denial-of-service-via-PowerVM-Hypervisor-Call-48221" class="noirorange"><b>IBM Power System</b>: denial of service via PowerVM Hypervisor Call</a>](https://vigilance.fr/vulnerability/IBM-Power-System-denial-of-service-via-PowerVM-Hypervisor-Call-48221)|An attacker can cause a fatal error of IBM Power System, via PowerVM Hypervisor Call, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBao-logged-sensitive-information-via-Keys-48626" class="noirorange"><b>OpenBao</b>: logged sensitive information via Keys</a>](https://vigilance.fr/vulnerability/OpenBao-logged-sensitive-information-via-Keys-48626)|An attacker can read logs of OpenBao, via Keys, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBao-logged-sensitive-information-via-Short-lived-ACME-Verification-Challenge-Codes-48625" class="noirorange"><b>OpenBao</b>: logged sensitive information via Short-lived ACME Verification Challenge Codes</a>](https://vigilance.fr/vulnerability/OpenBao-logged-sensitive-information-via-Short-lived-ACME-Verification-Challenge-Codes-48625)|An attacker can read logs of OpenBao, via Short-lived ACME Verification Challenge Codes, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-three-vulnerabilities-dated-14-02-2025-46396" class="noirorange"><b>HP LaserJet</b>: three vulnerabilities dated 14/02/2025</a>](https://vigilance.fr/vulnerability/HP-LaserJet-three-vulnerabilities-dated-14-02-2025-46396)|An attacker can use several vulnerabilities of HP LaserJet, dated 14/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-smtpd-imsg-48624" class="noirorange"><b>OpenBSD</b>: denial of service via smtpd imsg</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-smtpd-imsg-48624)|An attacker can cause a fatal error of OpenBSD, via smtpd imsg, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
