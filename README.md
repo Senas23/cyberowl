@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/11/2025 21:24:11 UTC
+ > Last Updated 15/11/2025 09:24:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/cJSON-out-of-bounds-memory-reading-via-decode-array-index-from-pointer-48226" class="noirorange"><b>cJSON</b>: out-of-bounds memory reading via decode_array_index_<wbr>from_pointer()</wbr></a>](https://vigilance.fr/vulnerability/cJSON-out-of-bounds-memory-reading-via-decode-array-index-from-pointer-48226)|An attacker can force a read at an invalid memory address of cJSON, via decode_array_index_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/linenoise-file-creation-via-linenoiseHistorySave-48225" class="noirorange"><b>linenoise</b>: file creation via linenoiseHistorySave<wbr>()</wbr></a>](https://vigilance.fr/vulnerability/linenoise-file-creation-via-linenoiseHistorySave-48225)|An attacker can bypass access restrictions of linenoise, via linenoiseHistorySave|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mermaid-Cross-Site-Scripting-via-Sequence-Diagram-Labels-48224" class="noirorange"><b>Mermaid</b>: Cross Site Scripting via Sequence Diagram Labels</a>](https://vigilance.fr/vulnerability/Mermaid-Cross-Site-Scripting-via-Sequence-Diagram-Labels-48224)|An attacker can trigger a Cross Site Scripting of Mermaid, via Sequence Diagram Labels, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mermaid-Cross-Site-Scripting-via-Architecture-Diagram-Icons-48223" class="noirorange"><b>Mermaid</b>: Cross Site Scripting via Architecture Diagram Icons</a>](https://vigilance.fr/vulnerability/Mermaid-Cross-Site-Scripting-via-Architecture-Diagram-Icons-48223)|An attacker can trigger a Cross Site Scripting of Mermaid, via Architecture Diagram Icons, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-15-09-2025-48222" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 15/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-15-09-2025-48222)|An attacker can use several vulnerabilities of the Linux kernel, dated 15/09/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Power-System-denial-of-service-via-PowerVM-Hypervisor-Call-48221" class="noirorange"><b>IBM Power System</b>: denial of service via PowerVM Hypervisor Call</a>](https://vigilance.fr/vulnerability/IBM-Power-System-denial-of-service-via-PowerVM-Hypervisor-Call-48221)|An attacker can cause a fatal error of IBM Power System, via PowerVM Hypervisor Call, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBao-logged-sensitive-information-via-Keys-48626" class="noirorange"><b>OpenBao</b>: logged sensitive information via Keys</a>](https://vigilance.fr/vulnerability/OpenBao-logged-sensitive-information-via-Keys-48626)|An attacker can read logs of OpenBao, via Keys, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBao-logged-sensitive-information-via-Short-lived-ACME-Verification-Challenge-Codes-48625" class="noirorange"><b>OpenBao</b>: logged sensitive information via Short-lived ACME Verification Challenge Codes</a>](https://vigilance.fr/vulnerability/OpenBao-logged-sensitive-information-via-Short-lived-ACME-Verification-Challenge-Codes-48625)|An attacker can read logs of OpenBao, via Short-lived ACME Verification Challenge Codes, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-three-vulnerabilities-dated-14-02-2025-46396" class="noirorange"><b>HP LaserJet</b>: three vulnerabilities dated 14/02/2025</a>](https://vigilance.fr/vulnerability/HP-LaserJet-three-vulnerabilities-dated-14-02-2025-46396)|An attacker can use several vulnerabilities of HP LaserJet, dated 14/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-smtpd-imsg-48624" class="noirorange"><b>OpenBSD</b>: denial of service via smtpd imsg</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-smtpd-imsg-48624)|An attacker can cause a fatal error of OpenBSD, via smtpd imsg, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -58,21 +75,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-three-vulnerabilities-dated-14-02-2025-46396" class="noirorange"><b>HP LaserJet</b>: three vulnerabilities dated 14/02/2025</a>](https://vigilance.fr/vulnerability/HP-LaserJet-three-vulnerabilities-dated-14-02-2025-46396)|An attacker can use several vulnerabilities of HP LaserJet, dated 14/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-smtpd-imsg-48624" class="noirorange"><b>OpenBSD</b>: denial of service via smtpd imsg</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-smtpd-imsg-48624)|An attacker can cause a fatal error of OpenBSD, via smtpd imsg, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-display-info-48619" class="noirorange"><b>GNU Binutils</b>: memory leak via display_info()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-display-info-48619)|An attacker can create a memory leak of GNU Binutils, via display_info(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-link-order-scan-48618" class="noirorange"><b>GNU Binutils</b>: memory leak via link_order_scan()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-leak-via-link-order-scan-48618)|An attacker can create a memory leak of GNU Binutils, via link_order_scan(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-44270" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-44270)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-SQL-injection-via-PQescape-Miss-Neutralization-46390" class="noirorange"><b>PostgreSQL</b>: SQL injection via PQescape Miss Neutralization</a>](https://vigilance.fr/vulnerability/PostgreSQL-SQL-injection-via-PQescape-Miss-Neutralization-46390)|An attacker can use a SQL injection of PostgreSQL, via PQescape Miss Neutralization, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-net-http-CrossOriginProtection-48220" class="noirorange"><b>Go</b>: ingress filtrering bypass via net/http CrossOriginProtectio<wbr>n</wbr></a>](https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-net-http-CrossOriginProtection-48220)|An attacker can bypass filtering rules of Go, via net/http CrossOriginProtectio|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-12-02-2025-46385" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities dated 12/02/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-12-02-2025-46385)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 12/02/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-via-Web-Content-46384" class="noirorange"><b>WebKitGTK</b>: memory corruption via Web Content</a>](https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-via-Web-Content-46384)|An attacker can trigger a memory corruption of WebKitGTK, via Web Content, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-code-execution-via-Web-Inspector-46382" class="noirorange"><b>WebKitGTK</b>: code execution via Web Inspector</a>](https://vigilance.fr/vulnerability/WebKitGTK-code-execution-via-Web-Inspector-46382)|An attacker can use a vulnerability of WebKitGTK, via Web Inspector, in order to run code...|Visit link for details|
  
