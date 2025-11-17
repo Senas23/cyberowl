@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/11/2025 21:22:47 UTC
+ > Last Updated 17/11/2025 09:31:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-09-2025-48246" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 17/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-09-2025-48246)|An attacker can use several vulnerabilities of the Linux kernel, dated 17/09/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xmltodict-write-access-dated-17-09-2025-48245" class="noirorange"><b>xmltodict</b>: write access dated 17/09/2025</a>](https://vigilance.fr/vulnerability/xmltodict-write-access-dated-17-09-2025-48245)|An attacker can bypass access restrictions of xmltodict, dated 17/09/2025, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lysp-stmt-validate-value-48242" class="noirorange"><b>libyang</b>: NULL pointer dereference via lysp_stmt_validate_<wbr>value()</wbr></a>](https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lysp-stmt-validate-value-48242)|An attacker can force a NULL pointer to be dereferenced on libyang, via lysp_stmt_validate_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AIX-file-write-via-Kerberos-48240" class="noirorange"><b>AIX</b>: file write via Kerberos</a>](https://vigilance.fr/vulnerability/AIX-file-write-via-Kerberos-48240)|An attacker can bypass access restrictions of AIX, via Kerberos, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Base-Excel-Server-Side-Request-Forgery-dated-16-09-2025-48239" class="noirorange"><b>TYPO3 Base Excel</b>: Server-Side Request Forgery dated 16/09/2025</a>](https://vigilance.fr/vulnerability/TYPO3-Base-Excel-Server-Side-Request-Forgery-dated-16-09-2025-48239)|An attacker can trigger a Server-Side Request Forgery of TYPO3 Base Excel, dated 16/09/2025, in order to force the server to send queries...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-16-09-2025-48236" class="noirorange"><b>Portal for ArcGIS</b>: multiple vulnerabilities dated 16/09/2025</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-multiple-vulnerabilities-dated-16-09-2025-48236)|An attacker can use several vulnerabilities of Portal for ArcGIS, dated 16/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-16-05-2024-44327" class="noirorange"><b>Chrome  Edge  Opera</b>: four vulnerabilities dated 16/05/2024</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-four-vulnerabilities-dated-16-05-2024-44327)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 16/05/2024...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/node-sha-js-read-write-access-dated-16-09-2025-48235" class="noirorange"><b>node-sha.js</b>: read-write access dated 16/09/2025</a>](https://vigilance.fr/vulnerability/node-sha-js-read-write-access-dated-16-09-2025-48235)|An attacker can bypass access restrictions of node-sha.js, dated 16/09/2025, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Catalyst-Plugin-Session-weak-encryption-via-Session-Id-Generation-48234" class="noirorange"><b>Perl Catalyst-Plugin-<wbr>Session</wbr></b>: weak encryption via Session Id Generation</a>](https://vigilance.fr/vulnerability/Perl-Catalyst-Plugin-Session-weak-encryption-via-Session-Id-Generation-48234)|An attacker can access data on Perl Catalyst::Plugin::|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Plack-Middleware-Session-weak-encryption-via-Session-Id-Generation-48233" class="noirorange"><b>Perl Plack-Middleware-<wbr>Session</wbr></b>: weak encryption via Session Id Generation</a>](https://vigilance.fr/vulnerability/Perl-Plack-Middleware-Session-weak-encryption-via-Session-Id-Generation-48233)|An attacker can access data on Perl Plack::Middleware::|Visit link for details|
  
  ---
 
