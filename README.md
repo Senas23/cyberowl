@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/11/2025 21:20:58 UTC
+ > Last Updated 20/11/2025 09:27:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/openapi-python-client-security-improvement-dated-05-11-2025-48659" class="noirorange"><b>openapi-python-<wbr>client</wbr></b>: security improvement dated 05/11/2025</a>](https://vigilance.fr/vulnerability/openapi-python-client-security-improvement-dated-05-11-2025-48659)|The security of openapi-python-|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-three-vulnerabilities-dated-19-09-2025-48262" class="noirorange"><b>Windows</b>: three vulnerabilities dated 19/09/2025</a>](https://vigilance.fr/vulnerability/Windows-three-vulnerabilities-dated-19-09-2025-48262)|An attacker can use several vulnerabilities of Windows, dated 19/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-dated-19-02-2025-46420" class="noirorange"><b>Chrome  Edge  Opera</b>: three vulnerabilities dated 19/02/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-three-vulnerabilities-dated-19-02-2025-46420)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 19/02/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-Zabbix-overload-via-Regex-Query-48261" class="noirorange"><b>Grafana-Zabbix</b>: overload via Regex Query</a>](https://vigilance.fr/vulnerability/Grafana-Zabbix-overload-via-Regex-Query-48261)|An attacker can trigger an overload of Grafana-Zabbix, via Regex Query, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-09-2025-48259" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 19/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-19-09-2025-48259)|An attacker can use several vulnerabilities of the Linux kernel, dated 19/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VxWorks-7-memory-corruption-via-System-Call-Argument-48258" class="noirorange"><b>VxWorks 7</b>: memory corruption via System Call Argument</a>](https://vigilance.fr/vulnerability/VxWorks-7-memory-corruption-via-System-Call-Argument-48258)|An attacker can trigger a memory corruption of VxWorks 7, via System Call Argument, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-memory-corruption-dated-18-02-2025-46409" class="noirorange"><b>Mozilla Firefox</b>: memory corruption dated 18/02/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-memory-corruption-dated-18-02-2025-46409)|An attacker can trigger a memory corruption of Mozilla Firefox, dated 18/02/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlSchemaItemListAdd-46408" class="noirorange"><b>libxml2</b>: use after free via xmlSchemaItemListAdd<wbr>()</wbr></a>](https://vigilance.fr/vulnerability/libxml2-use-after-free-via-xmlSchemaItemListAdd-46408)|An attacker can force the reuse of a freed memory area of libxml2, via xmlSchemaItemListAdd|Visit link for details|
  
  ---
 
