@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/11/2025 09:25:03 UTC
+ > Last Updated 22/11/2025 21:21:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Lightspeed-privilege-escalation-via-History-Management-48268" class="noirorange"><b>Lightspeed</b>: privilege escalation via History Management</a>](https://vigilance.fr/vulnerability/Lightspeed-privilege-escalation-via-History-Management-48268)|An attacker can bypass restrictions of Lightspeed, via History Management, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redmine-three-vulnerabilities-dated-22-09-2025-48266" class="noirorange"><b>Redmine</b>: three vulnerabilities dated 22/09/2025</a>](https://vigilance.fr/vulnerability/Redmine-three-vulnerabilities-dated-22-09-2025-48266)|An attacker can use several vulnerabilities of Redmine, dated 22/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Single-Sign-On-open-redirect-via-Logout-Process-48685" class="noirorange"><b>Red Hat Single Sign-On</b>: open redirect via Logout Process</a>](https://vigilance.fr/vulnerability/Red-Hat-Single-Sign-On-open-redirect-via-Logout-Process-48685)|An attacker can deceive the user of Red Hat Single Sign-On, via Logout Process, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/fcitx5-security-improvement-dated-07-11-2025-48683" class="noirorange"><b>fcitx5</b>: security improvement dated 07/11/2025</a>](https://vigilance.fr/vulnerability/fcitx5-security-improvement-dated-07-11-2025-48683)|The security of fcitx5 was improved dated 07/11/2025...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Qt5-WebEngine-security-improvement-dated-06-11-2025-48674" class="noirorange"><b>Qt5 WebEngine</b>: security improvement dated 06/11/2025</a>](https://vigilance.fr/vulnerability/Qt5-WebEngine-security-improvement-dated-06-11-2025-48674)|The security of Qt5 WebEngine was improved dated 06/11/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FontForge-memory-leak-via-DlgCreate8-48673" class="noirorange"><b>FontForge</b>: memory leak via DlgCreate8</a>](https://vigilance.fr/vulnerability/FontForge-memory-leak-via-DlgCreate8-48673)|An attacker can create a memory leak of FontForge, via DlgCreate8, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-QuickAssist-Technology-three-vulnerabilities-dated-05-11-2025-48668" class="noirorange"><b>Intel QuickAssist Technology</b>: three vulnerabilities dated 05/11/2025</a>](https://vigilance.fr/vulnerability/Intel-QuickAssist-Technology-three-vulnerabilities-dated-05-11-2025-48668)|An attacker can use several vulnerabilities of Intel QuickAssist Technology, dated 05/11/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/openapi-python-client-security-improvement-dated-05-11-2025-48659" class="noirorange"><b>openapi-python-<wbr>client</wbr></b>: security improvement dated 05/11/2025</a>](https://vigilance.fr/vulnerability/openapi-python-client-security-improvement-dated-05-11-2025-48659)|The security of openapi-python-|Visit link for details|
  
  ---
 
