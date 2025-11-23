@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/11/2025 09:24:51 UTC
+ > Last Updated 23/11/2025 21:22:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-TIFFReadRGBAImageOriented-48271" class="noirorange"><b>LibTIFF</b>: memory corruption via TIFFReadRGBAImageOri<wbr>ented()</wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-TIFFReadRGBAImageOriented-48271)|An attacker can trigger a memory corruption of LibTIFF, via TIFFReadRGBAImageOri|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-clear-tv-48270" class="noirorange"><b>Vim</b>: use after free via clear_tv()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-clear-tv-48270)|An attacker can force the reuse of a freed memory area of Vim, via clear_tv(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-tuple-unref-48269" class="noirorange"><b>Vim</b>: use after free via tuple_unref()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-tuple-unref-48269)|An attacker can force the reuse of a freed memory area of Vim, via tuple_unref(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Lightspeed-privilege-escalation-via-History-Management-48268" class="noirorange"><b>Lightspeed</b>: privilege escalation via History Management</a>](https://vigilance.fr/vulnerability/Lightspeed-privilege-escalation-via-History-Management-48268)|An attacker can bypass restrictions of Lightspeed, via History Management, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redmine-three-vulnerabilities-dated-22-09-2025-48266" class="noirorange"><b>Redmine</b>: three vulnerabilities dated 22/09/2025</a>](https://vigilance.fr/vulnerability/Redmine-three-vulnerabilities-dated-22-09-2025-48266)|An attacker can use several vulnerabilities of Redmine, dated 22/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Single-Sign-On-open-redirect-via-Logout-Process-48685" class="noirorange"><b>Red Hat Single Sign-On</b>: open redirect via Logout Process</a>](https://vigilance.fr/vulnerability/Red-Hat-Single-Sign-On-open-redirect-via-Logout-Process-48685)|An attacker can deceive the user of Red Hat Single Sign-On, via Logout Process, in order to redirect him to a malicious site...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-09-2025-48265" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 22/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-09-2025-48265)|An attacker can use several vulnerabilities of the Linux kernel, dated 22/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/TeamPass-file-reading-via-IDOR-48264" class="noirorange"><b>TeamPass</b>: file reading via IDOR</a>](https://vigilance.fr/vulnerability/TeamPass-file-reading-via-IDOR-48264)|An attacker can read a file of TeamPass, via IDOR, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cairo-assertion-error-via-cairo-ft-unscaled-font-fini-48263" class="noirorange"><b>Cairo</b>: assertion error via _cairo_ft_unscaled_<wbr>font_fini()</wbr></a>](https://vigilance.fr/vulnerability/Cairo-assertion-error-via-cairo-ft-unscaled-font-fini-48263)|An attacker can force an assertion error of Cairo, via _cairo_ft_unscaled_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt5-WebEngine-security-improvement-dated-06-11-2025-48674" class="noirorange"><b>Qt5 WebEngine</b>: security improvement dated 06/11/2025</a>](https://vigilance.fr/vulnerability/Qt5-WebEngine-security-improvement-dated-06-11-2025-48674)|The security of Qt5 WebEngine was improved dated 06/11/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FontForge-memory-leak-via-DlgCreate8-48673" class="noirorange"><b>FontForge</b>: memory leak via DlgCreate8</a>](https://vigilance.fr/vulnerability/FontForge-memory-leak-via-DlgCreate8-48673)|An attacker can create a memory leak of FontForge, via DlgCreate8, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-QuickAssist-Technology-three-vulnerabilities-dated-05-11-2025-48668" class="noirorange"><b>Intel QuickAssist Technology</b>: three vulnerabilities dated 05/11/2025</a>](https://vigilance.fr/vulnerability/Intel-QuickAssist-Technology-three-vulnerabilities-dated-05-11-2025-48668)|An attacker can use several vulnerabilities of Intel QuickAssist Technology, dated 05/11/2025...|Visit link for details|
  
  ---
 
