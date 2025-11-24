@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/11/2025 21:22:56 UTC
+ > Last Updated 24/11/2025 09:32:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-dated-24-02-2025-46437" class="noirorange"><b>IBM i</b>: privilege escalation dated 24/02/2025</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-dated-24-02-2025-46437)|An attacker can bypass restrictions of IBM i, dated 24/02/2025, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-44387" class="noirorange"><b>Chrome  Edge  Opera</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-memory-corruption-via-V8-Type-Confusion-44387)|An attacker can trigger a memory corruption of Chrome  Edge  Opera, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-24-09-2025-48272" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 24/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-24-09-2025-48272)|An attacker can use several vulnerabilities of the Linux kernel, dated 24/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-TIFFReadRGBAImageOriented-48271" class="noirorange"><b>LibTIFF</b>: memory corruption via TIFFReadRGBAImageOri<wbr>ented()</wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-TIFFReadRGBAImageOriented-48271)|An attacker can trigger a memory corruption of LibTIFF, via TIFFReadRGBAImageOri|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-clear-tv-48270" class="noirorange"><b>Vim</b>: use after free via clear_tv()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-clear-tv-48270)|An attacker can force the reuse of a freed memory area of Vim, via clear_tv(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-use-after-free-via-tuple-unref-48269" class="noirorange"><b>Vim</b>: use after free via tuple_unref()</a>](https://vigilance.fr/vulnerability/Vim-use-after-free-via-tuple-unref-48269)|An attacker can force the reuse of a freed memory area of Vim, via tuple_unref(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Redmine-three-vulnerabilities-dated-22-09-2025-48266" class="noirorange"><b>Redmine</b>: three vulnerabilities dated 22/09/2025</a>](https://vigilance.fr/vulnerability/Redmine-three-vulnerabilities-dated-22-09-2025-48266)|An attacker can use several vulnerabilities of Redmine, dated 22/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Single-Sign-On-open-redirect-via-Logout-Process-48685" class="noirorange"><b>Red Hat Single Sign-On</b>: open redirect via Logout Process</a>](https://vigilance.fr/vulnerability/Red-Hat-Single-Sign-On-open-redirect-via-Logout-Process-48685)|An attacker can deceive the user of Red Hat Single Sign-On, via Logout Process, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/fcitx5-security-improvement-dated-07-11-2025-48683" class="noirorange"><b>fcitx5</b>: security improvement dated 07/11/2025</a>](https://vigilance.fr/vulnerability/fcitx5-security-improvement-dated-07-11-2025-48683)|The security of fcitx5 was improved dated 07/11/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-09-2025-48265" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 22/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-22-09-2025-48265)|An attacker can use several vulnerabilities of the Linux kernel, dated 22/09/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-file-reading-via-IDOR-48264" class="noirorange"><b>TeamPass</b>: file reading via IDOR</a>](https://vigilance.fr/vulnerability/TeamPass-file-reading-via-IDOR-48264)|An attacker can read a file of TeamPass, via IDOR, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cairo-assertion-error-via-cairo-ft-unscaled-font-fini-48263" class="noirorange"><b>Cairo</b>: assertion error via _cairo_ft_unscaled_<wbr>font_fini()</wbr></a>](https://vigilance.fr/vulnerability/Cairo-assertion-error-via-cairo-ft-unscaled-font-fini-48263)|An attacker can force an assertion error of Cairo, via _cairo_ft_unscaled_|Visit link for details|
  
  ---
 
