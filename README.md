@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/11/2025 21:25:06 UTC
+ > Last Updated 26/11/2025 09:30:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-memory-leak-via-OpenSSL-Trust-Store-48693" class="noirorange"><b>Apache Tomcat</b>: memory leak via OpenSSL Trust Store</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-memory-leak-via-OpenSSL-Trust-Store-48693)|An attacker can create a memory leak of Apache Tomcat, via OpenSSL Trust Store, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ILBM-File-48313" class="noirorange"><b>GIMP</b>: buffer overflow via ILBM File</a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ILBM-File-48313)|An attacker can trigger a buffer overflow of GIMP, via ILBM File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-FF-File-48312" class="noirorange"><b>GIMP</b>: integer overflow via FF File</a>](https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-FF-File-48312)|An attacker can trigger an integer overflow of GIMP, via FF File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-WBMP-File-48311" class="noirorange"><b>GIMP</b>: integer overflow via WBMP File</a>](https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-WBMP-File-48311)|An attacker can trigger an integer overflow of GIMP, via WBMP File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-DCM-File-48310" class="noirorange"><b>GIMP</b>: buffer overflow via DCM File</a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-DCM-File-48310)|An attacker can trigger a buffer overflow of GIMP, via DCM File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-HDR-File-48309" class="noirorange"><b>GIMP</b>: buffer overflow via HDR File</a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-HDR-File-48309)|An attacker can trigger a buffer overflow of GIMP, via HDR File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ICNS-File-48308" class="noirorange"><b>GIMP</b>: buffer overflow via ICNS File</a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ICNS-File-48308)|An attacker can trigger a buffer overflow of GIMP, via ICNS File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-25-09-2025-48307" class="noirorange"><b>Linux kernel</b>: three vulnerabilities dated 25/09/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-25-09-2025-48307)|An attacker can use several vulnerabilities of the Linux kernel, dated 25/09/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pip-file-creation-via-Fallback-Tar-Extraction-48306" class="noirorange"><b>pip</b>: file creation via Fallback Tar Extraction</a>](https://vigilance.fr/vulnerability/pip-file-creation-via-Fallback-Tar-Extraction-48306)|An attacker can bypass access restrictions of pip, via Fallback Tar Extraction, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Sensor-48305" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: information disclosure via Sensor</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-information-disclosure-via-Sensor-48305)|An attacker can bypass access restrictions to data of WebKitGTK  WPE WebKit, via Sensor, in order to read sensitive information...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-privilege-escalation-via-VPN-Web-Server-48321" class="noirorange"><b>Cisco ASA</b>: privilege escalation via VPN Web Server</a>](https://vigilance.fr/vulnerability/Cisco-ASA-privilege-escalation-via-VPN-Web-Server-48321)|An attacker can bypass restrictions of Cisco ASA, via VPN Web Server, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-buffered-reader-denial-of-service-via-Out-of-bound-Array-Index-48320" class="noirorange"><b>Rust buffered-reader</b>: denial of service via Out-of-bound Array Index</a>](https://vigilance.fr/vulnerability/Rust-buffered-reader-denial-of-service-via-Out-of-bound-Array-Index-48320)|An attacker can cause a fatal error of Rust buffered-reader, via Out-of-bound Array Index, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-sequoia-openpgp-assertion-error-via-Out-of-bound-Array-Index-48319" class="noirorange"><b>Rust sequoia-openpgp</b>: assertion error via Out-of-bound Array Index</a>](https://vigilance.fr/vulnerability/Rust-sequoia-openpgp-assertion-error-via-Out-of-bound-Array-Index-48319)|An attacker can force an assertion error of Rust sequoia-openpgp, via Out-of-bound Array Index, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-protobuf-denial-of-service-via-Uncontrolled-Recursion-48318" class="noirorange"><b>Rust protobuf</b>: denial of service via Uncontrolled Recursion</a>](https://vigilance.fr/vulnerability/Rust-protobuf-denial-of-service-via-Uncontrolled-Recursion-48318)|An attacker can cause a fatal error of Rust protobuf, via Uncontrolled Recursion, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-09-2025-48317" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 26/09/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-09-2025-48317)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 26/09/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Odyssey-Man-in-the-Middle-via-Trust-Clientcert-48316" class="noirorange"><b>Odyssey</b>: Man-in-the-Middle via Trust Clientcert</a>](https://vigilance.fr/vulnerability/Odyssey-Man-in-the-Middle-via-Trust-Clientcert-48316)|An attacker can act as a Man-in-the-Middle on Odyssey, via Trust Clientcert, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PCRE2-out-of-bounds-memory-reading-via-Scan-SubString-48315" class="noirorange"><b>PCRE2</b>: out-of-bounds memory reading via Scan SubString</a>](https://vigilance.fr/vulnerability/PCRE2-out-of-bounds-memory-reading-via-Scan-SubString-48315)|An attacker can force a read at an invalid memory address of PCRE2, via Scan SubString, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-memory-leak-via-OpenSSL-Trust-Store-48693" class="noirorange"><b>Apache Tomcat</b>: memory leak via OpenSSL Trust Store</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-memory-leak-via-OpenSSL-Trust-Store-48693)|An attacker can create a memory leak of Apache Tomcat, via OpenSSL Trust Store, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ILBM-File-48313" class="noirorange"><b>GIMP</b>: buffer overflow via ILBM File</a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ILBM-File-48313)|An attacker can trigger a buffer overflow of GIMP, via ILBM File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-FF-File-48312" class="noirorange"><b>GIMP</b>: integer overflow via FF File</a>](https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-FF-File-48312)|An attacker can trigger an integer overflow of GIMP, via FF File, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
