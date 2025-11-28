@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/11/2025 09:28:14 UTC
+ > Last Updated 28/11/2025 21:22:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1051/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 28 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1050/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 28 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1049/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 28 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1047/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 28 novembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1046/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 28 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1045/)|Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 27 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1044/)|Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1043/)|De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 27 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1042/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 27 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1041/)|Une vulnérabilité a été découverte dans Synology ActiveProtect Agent. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 26 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1040/)|Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 26 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1039/)|Une vulnérabilité a été découverte dans Kaspersky Security Center. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 25 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1038/)|Une vulnérabilité a été découverte dans les produits PrimX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1037/)|De multiples vulnérabilités ont été découvertes dans Progress MOVEit Transfer. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une falsification de requêtes côté serveur (SSRF) et un problème de sécurité non spécifié par l'éditeur.|Publié le 25 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1036/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 novembre 2025|
  
  ---
 
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-write-access-via-CREATE-STATISTICS-48768" class="noirorange"><b>PostgreSQL</b>: write access via CREATE STATISTICS</a>](https://vigilance.fr/vulnerability/PostgreSQL-write-access-via-CREATE-STATISTICS-48768)|An attacker can bypass access restrictions of PostgreSQL, via CREATE STATISTICS, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-open-redirect-via-Web-Login-Endpoint-48757" class="noirorange"><b>Splunk Enterprise</b>: open redirect via Web Login Endpoint</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-open-redirect-via-Web-Login-Endpoint-48757)|An attacker can deceive the user of Splunk Enterprise, via Web Login Endpoint, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Databricks-Datasource-48742" class="noirorange"><b>Grafana</b>: information disclosure via Databricks Datasource</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Databricks-Datasource-48742)|An attacker can bypass access restrictions to data of Grafana, via Databricks Datasource, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Snowflake-Datasource-48741" class="noirorange"><b>Grafana</b>: information disclosure via Snowflake Datasource</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Snowflake-Datasource-48741)|An attacker can bypass access restrictions to data of Grafana, via Snowflake Datasource, in order to read sensitive information...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-ingress-filtrering-bypass-via-MiniFilter-Driver-48733" class="noirorange"><b>Avast Antivirus</b>: ingress filtrering bypass via MiniFilter Driver</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-ingress-filtrering-bypass-via-MiniFilter-Driver-48733)|An attacker can bypass filtering rules of Avast Antivirus, via MiniFilter Driver, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-denial-of-service-via-Ethernet-46461" class="noirorange"><b>Cisco Nexus</b>: denial of service via Ethernet</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-denial-of-service-via-Ethernet-46461)|An attacker can send malicious Ethernet packets to Cisco Nexus, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SCRAM-information-disclosure-via-Execution-Time-48709" class="noirorange"><b>SCRAM</b>: information disclosure via Execution Time</a>](https://vigilance.fr/vulnerability/SCRAM-information-disclosure-via-Execution-Time-48709)|An attacker can bypass access restrictions to data of SCRAM, via Execution Time, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/shadow-utils-user-access-via-etc-subuid-48705" class="noirorange"><b>shadow-utils</b>: user access via /etc/subuid</a>](https://vigilance.fr/vulnerability/shadow-utils-user-access-via-etc-subuid-48705)|An attacker can bypass restrictions of shadow-utils, via /etc/subuid, in order to gain user privileges...|Visit link for details|
  
  ---
 
