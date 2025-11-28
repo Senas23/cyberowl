@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/11/2025 21:23:13 UTC
+ > Last Updated 28/11/2025 09:28:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-open-redirect-via-Web-Login-Endpoint-48757" class="noirorange"><b>Splunk Enterprise</b>: open redirect via Web Login Endpoint</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-open-redirect-via-Web-Login-Endpoint-48757)|An attacker can deceive the user of Splunk Enterprise, via Web Login Endpoint, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Databricks-Datasource-48742" class="noirorange"><b>Grafana</b>: information disclosure via Databricks Datasource</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Databricks-Datasource-48742)|An attacker can bypass access restrictions to data of Grafana, via Databricks Datasource, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Snowflake-Datasource-48741" class="noirorange"><b>Grafana</b>: information disclosure via Snowflake Datasource</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Snowflake-Datasource-48741)|An attacker can bypass access restrictions to data of Grafana, via Snowflake Datasource, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/containerd-memory-leak-via-CRI-Attach-48739" class="noirorange"><b>containerd</b>: memory leak via CRI Attach</a>](https://vigilance.fr/vulnerability/containerd-memory-leak-via-CRI-Attach-48739)|An attacker can create a memory leak of containerd, via CRI Attach, in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-denial-of-service-via-Ethernet-46461" class="noirorange"><b>Cisco Nexus</b>: denial of service via Ethernet</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-denial-of-service-via-Ethernet-46461)|An attacker can send malicious Ethernet packets to Cisco Nexus, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SCRAM-information-disclosure-via-Execution-Time-48709" class="noirorange"><b>SCRAM</b>: information disclosure via Execution Time</a>](https://vigilance.fr/vulnerability/SCRAM-information-disclosure-via-Execution-Time-48709)|An attacker can bypass access restrictions to data of SCRAM, via Execution Time, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/shadow-utils-user-access-via-etc-subuid-48705" class="noirorange"><b>shadow-utils</b>: user access via /etc/subuid</a>](https://vigilance.fr/vulnerability/shadow-utils-user-access-via-etc-subuid-48705)|An attacker can bypass restrictions of shadow-utils, via /etc/subuid, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ASA-privilege-escalation-via-VPN-Web-Server-48321" class="noirorange"><b>Cisco ASA</b>: privilege escalation via VPN Web Server</a>](https://vigilance.fr/vulnerability/Cisco-ASA-privilege-escalation-via-VPN-Web-Server-48321)|An attacker can bypass restrictions of Cisco ASA, via VPN Web Server, in order to escalate his privileges...|Visit link for details|
  
  ---
 
