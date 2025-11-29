@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/11/2025 09:26:05 UTC
+ > Last Updated 29/11/2025 21:22:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-48329" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OAuth/OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-48329)|A vulnerability of Apereo CAS Server, via OAuth/OpenID Connect, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-tar-fs-file-creation-via-Symlink-48327" class="noirorange"><b>Node.js tar-fs</b>: file creation via Symlink</a>](https://vigilance.fr/vulnerability/Node-js-tar-fs-file-creation-via-Symlink-48327)|An attacker can bypass access restrictions of Node.js tar-fs, via Symlink, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/nncp-directory-traversal-via-Freq-File-Commands-48328" class="noirorange"><b>nncp</b>: directory traversal via Freq / File Commands</a>](https://vigilance.fr/vulnerability/nncp-directory-traversal-via-Freq-File-Commands-48328)|An attacker can traverse directories of nncp, via Freq / File Commands, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Desktop-code-execution-via-Enhanced-Container-Isolation-48330" class="noirorange"><b>Docker Desktop</b>: code execution via Enhanced Container Isolation</a>](https://vigilance.fr/vulnerability/Docker-Desktop-code-execution-via-Enhanced-Container-Isolation-48330)|An attacker, in a guest system, can use a vulnerability of Docker Desktop, via Enhanced Container Isolation, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tor-overload-via-Onion-Service-Descriptor-Handler-48326" class="noirorange"><b>Tor</b>: overload via Onion Service Descriptor Handler</a>](https://vigilance.fr/vulnerability/Tor-overload-via-Onion-Service-Descriptor-Handler-48326)|An attacker can trigger an overload of Tor, via Onion Service Descriptor Handler, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-write-access-via-CREATE-STATISTICS-48768" class="noirorange"><b>PostgreSQL</b>: write access via CREATE STATISTICS</a>](https://vigilance.fr/vulnerability/PostgreSQL-write-access-via-CREATE-STATISTICS-48768)|An attacker can bypass access restrictions of PostgreSQL, via CREATE STATISTICS, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-open-redirect-via-Web-Login-Endpoint-48757" class="noirorange"><b>Splunk Enterprise</b>: open redirect via Web Login Endpoint</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-open-redirect-via-Web-Login-Endpoint-48757)|An attacker can deceive the user of Splunk Enterprise, via Web Login Endpoint, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Databricks-Datasource-48742" class="noirorange"><b>Grafana</b>: information disclosure via Databricks Datasource</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Databricks-Datasource-48742)|An attacker can bypass access restrictions to data of Grafana, via Databricks Datasource, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Snowflake-Datasource-48741" class="noirorange"><b>Grafana</b>: information disclosure via Snowflake Datasource</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Snowflake-Datasource-48741)|An attacker can bypass access restrictions to data of Grafana, via Snowflake Datasource, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/containerd-memory-leak-via-CRI-Attach-48739" class="noirorange"><b>containerd</b>: memory leak via CRI Attach</a>](https://vigilance.fr/vulnerability/containerd-memory-leak-via-CRI-Attach-48739)|An attacker can create a memory leak of containerd, via CRI Attach, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-dated-29-09-2025-48337" class="noirorange"><b>VMware Tools</b>: two vulnerabilities dated 29/09/2025</a>](https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-dated-29-09-2025-48337)|An attacker can use several vulnerabilities of VMware Tools, dated 29/09/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-AS-overload-via-Request-48336" class="noirorange"><b>IBM WebSphere AS</b>: overload via Request</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-AS-overload-via-Request-48336)|An attacker can trigger an overload of IBM WebSphere AS, via Request, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-integer-overflow-via-ocr-begin-page-48335" class="noirorange"><b>Artifex Ghostscript</b>: integer overflow via ocr_begin_page()</a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-integer-overflow-via-ocr-begin-page-48335)|An attacker can trigger an integer overflow of Artifex Ghostscript, via ocr_begin_page(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-buffer-overflow-via-pdfmark-coerce-dest-48334" class="noirorange"><b>Artifex Ghostscript</b>: buffer overflow via pdfmark_coerce_dest(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-buffer-overflow-via-pdfmark-coerce-dest-48334)|An attacker can trigger a buffer overflow of Artifex Ghostscript, via pdfmark_coerce_dest(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-buffer-overflow-via-pdf-write-cmap-48333" class="noirorange"><b>Artifex Ghostscript</b>: buffer overflow via pdf_write_cmap()</a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-buffer-overflow-via-pdf-write-cmap-48333)|An attacker can trigger a buffer overflow of Artifex Ghostscript, via pdf_write_cmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-code-execution-via-porte-plume-44413" class="noirorange"><b>SPIP</b>: code execution via porte_plume</a>](https://vigilance.fr/vulnerability/SPIP-code-execution-via-porte-plume-44413)|An attacker can use a vulnerability of SPIP, via porte_plume, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Ethernet-Adapter-Complete-Driver-Pack-denial-of-service-dated-14-11-2025-48774" class="noirorange"><b>Intel Ethernet Adapter Complete Driver Pack</b>: denial of service dated 14/11/2025</a>](https://vigilance.fr/vulnerability/Intel-Ethernet-Adapter-Complete-Driver-Pack-denial-of-service-dated-14-11-2025-48774)|An attacker can cause a fatal error of Intel Ethernet Adapter Complete Driver Pack, dated 14/11/2025, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-48329" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OAuth/OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-48329)|A vulnerability of Apereo CAS Server, via OAuth/OpenID Connect, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-tar-fs-file-creation-via-Symlink-48327" class="noirorange"><b>Node.js tar-fs</b>: file creation via Symlink</a>](https://vigilance.fr/vulnerability/Node-js-tar-fs-file-creation-via-Symlink-48327)|An attacker can bypass access restrictions of Node.js tar-fs, via Symlink, in order to create a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/nncp-directory-traversal-via-Freq-File-Commands-48328" class="noirorange"><b>nncp</b>: directory traversal via Freq / File Commands</a>](https://vigilance.fr/vulnerability/nncp-directory-traversal-via-Freq-File-Commands-48328)|An attacker can traverse directories of nncp, via Freq / File Commands, in order to write a file outside the service root path...|Visit link for details|
  
  ---
 
