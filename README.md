@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/11/2025 21:22:27 UTC
+ > Last Updated 30/11/2025 09:24:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,13 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-spoofing-via-SMTP-Header-Injection-48341" class="noirorange"><b>VMware vCenter Server</b>: spoofing via SMTP Header Injection</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-spoofing-via-SMTP-Header-Injection-48341)|An attacker can create spoofed data on VMware vCenter Server, via SMTP Header Injection, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/internetarchive-directory-traversal-via-File-download-48340" class="noirorange"><b>internetarchive</b>: directory traversal via File.download()</a>](https://vigilance.fr/vulnerability/internetarchive-directory-traversal-via-File-download-48340)|An attacker can traverse directories of internetarchive, via File.download(), in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rack-overload-via-QueryParser-48339" class="noirorange"><b>Rack</b>: overload via QueryParser()</a>](https://vigilance.fr/vulnerability/Rack-overload-via-QueryParser-48339)|An attacker can trigger an overload of Rack, via QueryParser(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-dated-29-09-2025-48337" class="noirorange"><b>VMware Tools</b>: two vulnerabilities dated 29/09/2025</a>](https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-dated-29-09-2025-48337)|An attacker can use several vulnerabilities of VMware Tools, dated 29/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-AS-overload-via-Request-48336" class="noirorange"><b>IBM WebSphere AS</b>: overload via Request</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-AS-overload-via-Request-48336)|An attacker can trigger an overload of IBM WebSphere AS, via Request, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-integer-overflow-via-ocr-begin-page-48335" class="noirorange"><b>Artifex Ghostscript</b>: integer overflow via ocr_begin_page()</a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-integer-overflow-via-ocr-begin-page-48335)|An attacker can trigger an integer overflow of Artifex Ghostscript, via ocr_begin_page(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -65,9 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-buffer-overflow-via-pdf-write-cmap-48333" class="noirorange"><b>Artifex Ghostscript</b>: buffer overflow via pdf_write_cmap()</a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-buffer-overflow-via-pdf-write-cmap-48333)|An attacker can trigger a buffer overflow of Artifex Ghostscript, via pdf_write_cmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SPIP-code-execution-via-porte-plume-44413" class="noirorange"><b>SPIP</b>: code execution via porte_plume</a>](https://vigilance.fr/vulnerability/SPIP-code-execution-via-porte-plume-44413)|An attacker can use a vulnerability of SPIP, via porte_plume, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Ethernet-Adapter-Complete-Driver-Pack-denial-of-service-dated-14-11-2025-48774" class="noirorange"><b>Intel Ethernet Adapter Complete Driver Pack</b>: denial of service dated 14/11/2025</a>](https://vigilance.fr/vulnerability/Intel-Ethernet-Adapter-Complete-Driver-Pack-denial-of-service-dated-14-11-2025-48774)|An attacker can cause a fatal error of Intel Ethernet Adapter Complete Driver Pack, dated 14/11/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-48329" class="noirorange"><b>Apereo CAS Server</b>: vulnerability via OAuth/OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-vulnerability-via-OAuth-OpenID-Connect-48329)|A vulnerability of Apereo CAS Server, via OAuth/OpenID Connect, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-tar-fs-file-creation-via-Symlink-48327" class="noirorange"><b>Node.js tar-fs</b>: file creation via Symlink</a>](https://vigilance.fr/vulnerability/Node-js-tar-fs-file-creation-via-Symlink-48327)|An attacker can bypass access restrictions of Node.js tar-fs, via Symlink, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/nncp-directory-traversal-via-Freq-File-Commands-48328" class="noirorange"><b>nncp</b>: directory traversal via Freq / File Commands</a>](https://vigilance.fr/vulnerability/nncp-directory-traversal-via-Freq-File-Commands-48328)|An attacker can traverse directories of nncp, via Freq / File Commands, in order to write a file outside the service root path...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
