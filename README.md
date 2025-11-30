@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/11/2025 09:24:56 UTC
+ > Last Updated 30/11/2025 21:24:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,27 +47,27 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-spoofing-via-SMTP-Header-Injection-48341" class="noirorange"><b>VMware vCenter Server</b>: spoofing via SMTP Header Injection</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-spoofing-via-SMTP-Header-Injection-48341)|An attacker can create spoofed data on VMware vCenter Server, via SMTP Header Injection, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/internetarchive-directory-traversal-via-File-download-48340" class="noirorange"><b>internetarchive</b>: directory traversal via File.download()</a>](https://vigilance.fr/vulnerability/internetarchive-directory-traversal-via-File-download-48340)|An attacker can traverse directories of internetarchive, via File.download(), in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rack-overload-via-QueryParser-48339" class="noirorange"><b>Rack</b>: overload via QueryParser()</a>](https://vigilance.fr/vulnerability/Rack-overload-via-QueryParser-48339)|An attacker can trigger an overload of Rack, via QueryParser(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-dated-29-09-2025-48337" class="noirorange"><b>VMware Tools</b>: two vulnerabilities dated 29/09/2025</a>](https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-dated-29-09-2025-48337)|An attacker can use several vulnerabilities of VMware Tools, dated 29/09/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-AS-overload-via-Request-48336" class="noirorange"><b>IBM WebSphere AS</b>: overload via Request</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-AS-overload-via-Request-48336)|An attacker can trigger an overload of IBM WebSphere AS, via Request, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-integer-overflow-via-ocr-begin-page-48335" class="noirorange"><b>Artifex Ghostscript</b>: integer overflow via ocr_begin_page()</a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-integer-overflow-via-ocr-begin-page-48335)|An attacker can trigger an integer overflow of Artifex Ghostscript, via ocr_begin_page(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-buffer-overflow-via-pdfmark-coerce-dest-48334" class="noirorange"><b>Artifex Ghostscript</b>: buffer overflow via pdfmark_coerce_dest(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-buffer-overflow-via-pdfmark-coerce-dest-48334)|An attacker can trigger a buffer overflow of Artifex Ghostscript, via pdfmark_coerce_dest(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Artifex-Ghostscript-buffer-overflow-via-pdf-write-cmap-48333" class="noirorange"><b>Artifex Ghostscript</b>: buffer overflow via pdf_write_cmap()</a>](https://vigilance.fr/vulnerability/Artifex-Ghostscript-buffer-overflow-via-pdf-write-cmap-48333)|An attacker can trigger a buffer overflow of Artifex Ghostscript, via pdf_write_cmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-code-execution-via-porte-plume-44413" class="noirorange"><b>SPIP</b>: code execution via porte_plume</a>](https://vigilance.fr/vulnerability/SPIP-code-execution-via-porte-plume-44413)|An attacker can use a vulnerability of SPIP, via porte_plume, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Ethernet-Adapter-Complete-Driver-Pack-denial-of-service-dated-14-11-2025-48774" class="noirorange"><b>Intel Ethernet Adapter Complete Driver Pack</b>: denial of service dated 14/11/2025</a>](https://vigilance.fr/vulnerability/Intel-Ethernet-Adapter-Complete-Driver-Pack-denial-of-service-dated-14-11-2025-48774)|An attacker can cause a fatal error of Intel Ethernet Adapter Complete Driver Pack, dated 14/11/2025, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-dated-30-09-2025-48350" class="noirorange"><b>WordPress Core</b>: two vulnerabilities dated 30/09/2025</a>](https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-dated-30-09-2025-48350)|An attacker can use several vulnerabilities of WordPress Core, dated 30/09/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Passkey-User-Enumeration-48349" class="noirorange"><b>Joomla Core</b>: information disclosure via Passkey User Enumeration</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Passkey-User-Enumeration-48349)|An attacker can bypass access restrictions to data of Joomla Core, via Passkey User Enumeration, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-CheckAttribute-Filter-Code-48348" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via CheckAttribute Filter Code</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-CheckAttribute-Filter-Code-48348)|An attacker can trigger a Cross Site Scripting of Joomla Core, via CheckAttribute Filter Code, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-HTTP-Client-No-proxy-48346" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via HTTP Client No_proxy</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-HTTP-Client-No-proxy-48346)|An attacker can force a read at an invalid memory address of OpenSSL, via HTTP Client No_proxy, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-information-disclosure-via-SM2-Algorithm-64-Bit-ARM-48345" class="noirorange"><b>OpenSSL</b>: information disclosure via SM2 Algorithm 64 Bit ARM</a>](https://vigilance.fr/vulnerability/OpenSSL-information-disclosure-via-SM2-Algorithm-64-Bit-ARM-48345)|An attacker can bypass access restrictions to data of OpenSSL, via SM2 Algorithm 64 Bit ARM, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeIPA-privilege-escalation-via-Kerberos-Attributes-Duplicates-48343" class="noirorange"><b>FreeIPA</b>: privilege escalation via Kerberos Attributes Duplicates</a>](https://vigilance.fr/vulnerability/FreeIPA-privilege-escalation-via-Kerberos-Attributes-Duplicates-48343)|An attacker can bypass restrictions of FreeIPA, via Kerberos Attributes Duplicates, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-spoofing-via-SMTP-Header-Injection-48341" class="noirorange"><b>VMware vCenter Server</b>: spoofing via SMTP Header Injection</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-spoofing-via-SMTP-Header-Injection-48341)|An attacker can create spoofed data on VMware vCenter Server, via SMTP Header Injection, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/internetarchive-directory-traversal-via-File-download-48340" class="noirorange"><b>internetarchive</b>: directory traversal via File.download()</a>](https://vigilance.fr/vulnerability/internetarchive-directory-traversal-via-File-download-48340)|An attacker can traverse directories of internetarchive, via File.download(), in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rack-overload-via-QueryParser-48339" class="noirorange"><b>Rack</b>: overload via QueryParser()</a>](https://vigilance.fr/vulnerability/Rack-overload-via-QueryParser-48339)|An attacker can trigger an overload of Rack, via QueryParser(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-dated-29-09-2025-48337" class="noirorange"><b>VMware Tools</b>: two vulnerabilities dated 29/09/2025</a>](https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-dated-29-09-2025-48337)|An attacker can use several vulnerabilities of VMware Tools, dated 29/09/2025...|Visit link for details|
  
  ---
 
