@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/11/2025 21:24:03 UTC
+ > Last Updated 01/12/2025 09:36:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-01-10-2025-48353" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 01/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-01-10-2025-48353)|An attacker can use several vulnerabilities of the Linux kernel, dated 01/10/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-dated-30-09-2025-48350" class="noirorange"><b>WordPress Core</b>: two vulnerabilities dated 30/09/2025</a>](https://vigilance.fr/vulnerability/WordPress-Core-two-vulnerabilities-dated-30-09-2025-48350)|An attacker can use several vulnerabilities of WordPress Core, dated 30/09/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Passkey-User-Enumeration-48349" class="noirorange"><b>Joomla Core</b>: information disclosure via Passkey User Enumeration</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-Passkey-User-Enumeration-48349)|An attacker can bypass access restrictions to data of Joomla Core, via Passkey User Enumeration, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-CheckAttribute-Filter-Code-48348" class="noirorange"><b>Joomla Core</b>: Cross Site Scripting via CheckAttribute Filter Code</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Scripting-via-CheckAttribute-Filter-Code-48348)|An attacker can trigger a Cross Site Scripting of Joomla Core, via CheckAttribute Filter Code, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-spoofing-via-SMTP-Header-Injection-48341" class="noirorange"><b>VMware vCenter Server</b>: spoofing via SMTP Header Injection</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-spoofing-via-SMTP-Header-Injection-48341)|An attacker can create spoofed data on VMware vCenter Server, via SMTP Header Injection, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/internetarchive-directory-traversal-via-File-download-48340" class="noirorange"><b>internetarchive</b>: directory traversal via File.download()</a>](https://vigilance.fr/vulnerability/internetarchive-directory-traversal-via-File-download-48340)|An attacker can traverse directories of internetarchive, via File.download(), in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rack-overload-via-QueryParser-48339" class="noirorange"><b>Rack</b>: overload via QueryParser()</a>](https://vigilance.fr/vulnerability/Rack-overload-via-QueryParser-48339)|An attacker can trigger an overload of Rack, via QueryParser(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-dated-29-09-2025-48337" class="noirorange"><b>VMware Tools</b>: two vulnerabilities dated 29/09/2025</a>](https://vigilance.fr/vulnerability/VMware-Tools-two-vulnerabilities-dated-29-09-2025-48337)|An attacker can use several vulnerabilities of VMware Tools, dated 29/09/2025...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
