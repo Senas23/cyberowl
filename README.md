@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/12/2025 21:22:33 UTC
+ > Last Updated 02/12/2025 09:33:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,23 +30,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Server-Side-Request-Forgery-via-enableSplunkWebClientNetloc-48368" class="noirorange"><b>Splunk Enterprise</b>: Server-Side Request Forgery via enableSplunkWebClien<wbr>tNetloc</wbr></a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Server-Side-Request-Forgery-via-enableSplunkWebClientNetloc-48368)|An attacker can trigger a Server-Side Request Forgery of Splunk Enterprise, via enableSplunkWebClien|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-overload-via-Multiple-LDAP-Bind-Requests-48367" class="noirorange"><b>Splunk Enterprise</b>: overload via Multiple LDAP Bind Requests</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-overload-via-Multiple-LDAP-Bind-Requests-48367)|An attacker can trigger an overload of Splunk Enterprise, via Multiple LDAP Bind Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-external-XML-entity-injection-via-Dashboard-Label-Field-48366" class="noirorange"><b>Splunk Enterprise</b>: external XML entity injection via Dashboard Label Field</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-external-XML-entity-injection-via-Dashboard-Label-Field-48366)|An attacker can transmit malicious XML data to Splunk Enterprise, via Dashboard Label Field, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Saved-Search-Job-Inspector-48365" class="noirorange"><b>Splunk Enterprise</b>: Cross Site Scripting via Saved Search / Job Inspector</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-Saved-Search-Job-Inspector-48365)|An attacker can trigger a Cross Site Scripting of Splunk Enterprise, via Saved Search / Job Inspector, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-app-search-table-48364" class="noirorange"><b>Splunk Enterprise</b>: Cross Site Scripting via /app/search/table</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Scripting-via-app-search-table-48364)|An attacker can trigger a Cross Site Scripting of Splunk Enterprise, via /app/search/table, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Background-Job-Submission-48363" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Background Job Submission</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Background-Job-Submission-48363)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Background Job Submission, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-Cross-Site-Scripting-via-Web-based-Management-Interface-48362" class="noirorange"><b>Cisco Unified Communications Manager</b>: Cross Site Scripting via Web-based Management Interface</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-Cross-Site-Scripting-via-Web-based-Management-Interface-48362)|An attacker can trigger a Cross Site Scripting of Cisco Unified Communications Manager, via Web-based Management Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BIRD-denial-of-service-via-BGP-48360" class="noirorange"><b>BIRD</b>: denial of service via BGP</a>](https://vigilance.fr/vulnerability/BIRD-denial-of-service-via-BGP-48360)|An attacker can send malicious BGP packets to BIRD, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ntpd-rs-overload-via-Message-Storm-48359" class="noirorange"><b>ntpd-rs</b>: overload via Message Storm</a>](https://vigilance.fr/vulnerability/ntpd-rs-overload-via-Message-Storm-48359)|An attacker can trigger an overload of ntpd-rs, via Message Storm, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DNSdist-overload-via-DoH-Exchange-48358" class="noirorange"><b>DNSdist</b>: overload via DoH Exchange</a>](https://vigilance.fr/vulnerability/DNSdist-overload-via-DoH-Exchange-48358)|An attacker can trigger an overload of DNSdist, via DoH Exchange, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -61,6 +44,23 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 28 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1047/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 28 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1046/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 28 novembre 2025|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-02-10-2025-48373" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 02/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-02-10-2025-48373)|An attacker can use several vulnerabilities of the Linux kernel, dated 02/10/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libmspack-four-vulnerabilities-dated-02-10-2025-48372" class="noirorange"><b>libmspack</b>: four vulnerabilities dated 02/10/2025</a>](https://vigilance.fr/vulnerability/libmspack-four-vulnerabilities-dated-02-10-2025-48372)|An attacker can use several vulnerabilities of libmspack, dated 02/10/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-directory-traversal-via-archive-extract-48371" class="noirorange"><b>Django</b>: directory traversal via archive.extract()</a>](https://vigilance.fr/vulnerability/Django-directory-traversal-via-archive-extract-48371)|An attacker can traverse directories of Django, via archive.extract(), in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-SQL-injection-via-Four-Functions-48370" class="noirorange"><b>Django</b>: SQL injection via Four Functions</a>](https://vigilance.fr/vulnerability/Django-SQL-injection-via-Four-Functions-48370)|An attacker can use a SQL injection of Django, via Four Functions, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Attachments-PDF-Object-Loop-48782" class="noirorange"><b>Xpdf</b>: denial of service via Attachments PDF Object Loop</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Attachments-PDF-Object-Loop-48782)|An attacker can cause a fatal error of Xpdf, via Attachments PDF Object Loop, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CIRCL-information-disclosure-via-FourQ-Elliptic-Curve-48793" class="noirorange"><b>CIRCL</b>: information disclosure via FourQ Elliptic Curve</a>](https://vigilance.fr/vulnerability/CIRCL-information-disclosure-via-FourQ-Elliptic-Curve-48793)|An attacker can bypass access restrictions to data of CIRCL, via FourQ Elliptic Curve, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-UseCMap-48790" class="noirorange"><b>Xpdf</b>: denial of service via UseCMap</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-UseCMap-48790)|An attacker can cause a fatal error of Xpdf, via UseCMap, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Large-Coordinates-48787" class="noirorange"><b>Xpdf</b>: denial of service via Large Coordinates</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Large-Coordinates-48787)|An attacker can cause a fatal error of Xpdf, via Large Coordinates, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Resources-Object-Loop-48784" class="noirorange"><b>Xpdf</b>: denial of service via Resources Object Loop</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Resources-Object-Loop-48784)|An attacker can cause a fatal error of Xpdf, via Resources Object Loop, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Pattern-Resource-48786" class="noirorange"><b>Xpdf</b>: denial of service via Pattern Resource</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Pattern-Resource-48786)|An attacker can cause a fatal error of Xpdf, via Pattern Resource, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
