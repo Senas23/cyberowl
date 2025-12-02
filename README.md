@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/12/2025 09:33:36 UTC
+ > Last Updated 02/12/2025 21:25:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1057/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 02 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1056/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service. Google indique que les vulnérabilités CVE-2025-48633 et...|Publié le 02 décembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1055/)|De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 01 décembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1054/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 01 décembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1053/)|Une vulnérabilité a été découverte dans Stormshield Network VPN Client. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 01 décembre 2025|
@@ -42,8 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1050/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 28 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1049/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 novembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 28 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1047/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 28 novembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1046/)|De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 28 novembre 2025|
  
  ---
 
@@ -55,12 +55,12 @@
  |[<a href="https://vigilance.fr/vulnerability/libmspack-four-vulnerabilities-dated-02-10-2025-48372" class="noirorange"><b>libmspack</b>: four vulnerabilities dated 02/10/2025</a>](https://vigilance.fr/vulnerability/libmspack-four-vulnerabilities-dated-02-10-2025-48372)|An attacker can use several vulnerabilities of libmspack, dated 02/10/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Django-directory-traversal-via-archive-extract-48371" class="noirorange"><b>Django</b>: directory traversal via archive.extract()</a>](https://vigilance.fr/vulnerability/Django-directory-traversal-via-archive-extract-48371)|An attacker can traverse directories of Django, via archive.extract(), in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Django-SQL-injection-via-Four-Functions-48370" class="noirorange"><b>Django</b>: SQL injection via Four Functions</a>](https://vigilance.fr/vulnerability/Django-SQL-injection-via-Four-Functions-48370)|An attacker can use a SQL injection of Django, via Four Functions, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Attachments-PDF-Object-Loop-48782" class="noirorange"><b>Xpdf</b>: denial of service via Attachments PDF Object Loop</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Attachments-PDF-Object-Loop-48782)|An attacker can cause a fatal error of Xpdf, via Attachments PDF Object Loop, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/CIRCL-information-disclosure-via-FourQ-Elliptic-Curve-48793" class="noirorange"><b>CIRCL</b>: information disclosure via FourQ Elliptic Curve</a>](https://vigilance.fr/vulnerability/CIRCL-information-disclosure-via-FourQ-Elliptic-Curve-48793)|An attacker can bypass access restrictions to data of CIRCL, via FourQ Elliptic Curve, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-PDF-Object-Loop-48781" class="noirorange"><b>Xpdf</b>: denial of service via PDF Object Loop</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-PDF-Object-Loop-48781)|An attacker can cause a fatal error of Xpdf, via PDF Object Loop, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-UseCMap-48790" class="noirorange"><b>Xpdf</b>: denial of service via UseCMap</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-UseCMap-48790)|An attacker can cause a fatal error of Xpdf, via UseCMap, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Large-Coordinates-48787" class="noirorange"><b>Xpdf</b>: denial of service via Large Coordinates</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Large-Coordinates-48787)|An attacker can cause a fatal error of Xpdf, via Large Coordinates, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Attachments-PDF-Object-Loop-48782" class="noirorange"><b>Xpdf</b>: denial of service via Attachments PDF Object Loop</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Attachments-PDF-Object-Loop-48782)|An attacker can cause a fatal error of Xpdf, via Attachments PDF Object Loop, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Resources-Object-Loop-48784" class="noirorange"><b>Xpdf</b>: denial of service via Resources Object Loop</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Resources-Object-Loop-48784)|An attacker can cause a fatal error of Xpdf, via Resources Object Loop, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Pattern-Resource-48786" class="noirorange"><b>Xpdf</b>: denial of service via Pattern Resource</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Pattern-Resource-48786)|An attacker can cause a fatal error of Xpdf, via Pattern Resource, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Large-Coordinates-48787" class="noirorange"><b>Xpdf</b>: denial of service via Large Coordinates</a>](https://vigilance.fr/vulnerability/Xpdf-denial-of-service-via-Large-Coordinates-48787)|An attacker can cause a fatal error of Xpdf, via Large Coordinates, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
