@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/12/2025 21:26:22 UTC
+ > Last Updated 05/12/2025 09:29:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,15 +54,25 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-05-03-2025-46524" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 05/03/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-05-03-2025-46524)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 05/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Macro-URL-46523" class="noirorange"><b>LibreOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Macro-URL-46523)|An attacker can use a vulnerability of LibreOffice, via Macro URL, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/aap-gateway-information-disclosure-via-Path-Validation-48815" class="noirorange"><b>aap-gateway</b>: information disclosure via Path Validation</a>](https://vigilance.fr/vulnerability/aap-gateway-information-disclosure-via-Path-Validation-48815)|An attacker can bypass access restrictions to data of aap-gateway, via Path Validation, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-04-03-2025-46517" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 04/03/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-04-03-2025-46517)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 04/03/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Server-multiple-vulnerabilities-dated-18-02-2025-46515" class="noirorange"><b>ArcGIS Server</b>: multiple vulnerabilities dated 18/02/2025</a>](https://vigilance.fr/vulnerability/ArcGIS-Server-multiple-vulnerabilities-dated-18-02-2025-46515)|An attacker can use several vulnerabilities of ArcGIS Server, dated 18/02/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-SSH-Trusted-Hosts-Bypass-48810" class="noirorange"><b>FortiOS</b>: ingress filtrering bypass via SSH Trusted Hosts Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-SSH-Trusted-Hosts-Bypass-48810)|An attacker can bypass filtering rules of FortiOS, via SSH Trusted Hosts Bypass, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-March-2025-46508" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of March 2025</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-March-2025-46508)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-problem-view-refresh-48385" class="noirorange"><b>Zabbix</b>: information disclosure via problem.view.refresh</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-problem-view-refresh-48385)|An attacker can bypass access restrictions to data of Zabbix, via problem.view.|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zabbix-executing-DLL-code-via-OpenSSL-Configuration-File-48384" class="noirorange"><b>Zabbix</b>: executing DLL code via OpenSSL Configuration File</a>](https://vigilance.fr/vulnerability/Zabbix-executing-DLL-code-via-OpenSSL-Configuration-File-48384)|An attacker can create a malicious DLL for Zabbix, via OpenSSL Configuration File, and then put it in the current directory, in order to execute code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-use-after-free-via-QIOChannelWebsock-48382" class="noirorange"><b>QEMU</b>: use after free via QIOChannelWebsock</a>](https://vigilance.fr/vulnerability/QEMU-use-after-free-via-QIOChannelWebsock-48382)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via QIOChannelWebsock, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
