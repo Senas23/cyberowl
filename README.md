@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/12/2025 21:25:25 UTC
+ > Last Updated 06/12/2025 09:25:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Log4cxx-ingress-filtrering-bypass-via-JSONLayout-48390" class="noirorange"><b>Apache Log4cxx</b>: ingress filtrering bypass via JSONLayout</a>](https://vigilance.fr/vulnerability/Apache-Log4cxx-ingress-filtrering-bypass-via-JSONLayout-48390)|An attacker can bypass filtering rules of Apache Log4cxx, via JSONLayout, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Log4cxx-Cross-Site-Scripting-via-HTMLLayout-48389" class="noirorange"><b>Apache Log4cxx</b>: Cross Site Scripting via HTMLLayout</a>](https://vigilance.fr/vulnerability/Apache-Log4cxx-Cross-Site-Scripting-via-HTMLLayout-48389)|An attacker can trigger a Cross Site Scripting of Apache Log4cxx, via HTMLLayout, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dovecot-user-access-via-AUTH-CACHE-KEY-USER-48388" class="noirorange"><b>Dovecot</b>: user access via AUTH_CACHE_KEY_USER</a>](https://vigilance.fr/vulnerability/Dovecot-user-access-via-AUTH-CACHE-KEY-USER-48388)|An attacker can bypass restrictions of Dovecot, via AUTH_CACHE_KEY_USER, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-05-03-2025-46524" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 05/03/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-05-03-2025-46524)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 05/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Macro-URL-46523" class="noirorange"><b>LibreOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Macro-URL-46523)|An attacker can use a vulnerability of LibreOffice, via Macro URL, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/aap-gateway-information-disclosure-via-Path-Validation-48815" class="noirorange"><b>aap-gateway</b>: information disclosure via Path Validation</a>](https://vigilance.fr/vulnerability/aap-gateway-information-disclosure-via-Path-Validation-48815)|An attacker can bypass access restrictions to data of aap-gateway, via Path Validation, in order to read sensitive information...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Server-multiple-vulnerabilities-dated-18-02-2025-46515" class="noirorange"><b>ArcGIS Server</b>: multiple vulnerabilities dated 18/02/2025</a>](https://vigilance.fr/vulnerability/ArcGIS-Server-multiple-vulnerabilities-dated-18-02-2025-46515)|An attacker can use several vulnerabilities of ArcGIS Server, dated 18/02/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-SSH-Trusted-Hosts-Bypass-48810" class="noirorange"><b>FortiOS</b>: ingress filtrering bypass via SSH Trusted Hosts Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-ingress-filtrering-bypass-via-SSH-Trusted-Hosts-Bypass-48810)|An attacker can bypass filtering rules of FortiOS, via SSH Trusted Hosts Bypass, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-March-2025-46508" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of March 2025</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-March-2025-46508)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-problem-view-refresh-48385" class="noirorange"><b>Zabbix</b>: information disclosure via problem.view.refresh</a>](https://vigilance.fr/vulnerability/Zabbix-information-disclosure-via-problem-view-refresh-48385)|An attacker can bypass access restrictions to data of Zabbix, via problem.view.|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zabbix-executing-DLL-code-via-OpenSSL-Configuration-File-48384" class="noirorange"><b>Zabbix</b>: executing DLL code via OpenSSL Configuration File</a>](https://vigilance.fr/vulnerability/Zabbix-executing-DLL-code-via-OpenSSL-Configuration-File-48384)|An attacker can create a malicious DLL for Zabbix, via OpenSSL Configuration File, and then put it in the current directory, in order to execute code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-use-after-free-via-QIOChannelWebsock-48382" class="noirorange"><b>QEMU</b>: use after free via QIOChannelWebsock</a>](https://vigilance.fr/vulnerability/QEMU-use-after-free-via-QIOChannelWebsock-48382)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via QIOChannelWebsock, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
