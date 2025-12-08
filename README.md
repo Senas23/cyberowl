@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/12/2025 21:21:42 UTC
+ > Last Updated 08/12/2025 09:35:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Server-SQL-injection-dated-08-10-2025-48410" class="noirorange"><b>ArcGIS Server</b>: SQL injection dated 08/10/2025</a>](https://vigilance.fr/vulnerability/ArcGIS-Server-SQL-injection-dated-08-10-2025-48410)|An attacker can use a SQL injection of ArcGIS Server, dated 08/10/2025, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-zipfile-directory-traversal-via-ZIP64-End-of-Central-Directory-48409" class="noirorange"><b>Python Core zipfile</b>: directory traversal via ZIP64 End of Central Directory</a>](https://vigilance.fr/vulnerability/Python-Core-zipfile-directory-traversal-via-ZIP64-End-of-Central-Directory-48409)|An attacker can traverse directories of Python Core zipfile, via ZIP64 End of Central Directory, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CivetWeb-overload-via-mg-handle-form-request-48408" class="noirorange"><b>CivetWeb</b>: overload via mg_handle_form_<wbr>request()</wbr></a>](https://vigilance.fr/vulnerability/CivetWeb-overload-via-mg-handle-form-request-48408)|An attacker can trigger an overload of CivetWeb, via mg_handle_form_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-10-2025-48407" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 07/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-10-2025-48407)|An attacker can use several vulnerabilities of the Linux kernel, dated 07/10/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rust-shlex-multiple-vulnerabilities-via-Quote-API-48405" class="noirorange"><b>Rust shlex</b>: multiple vulnerabilities via Quote API</a>](https://vigilance.fr/vulnerability/Rust-shlex-multiple-vulnerabilities-via-Quote-API-48405)|An attacker can use several vulnerabilities of Rust shlex, via Quote API...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-Reindex-API-48404" class="noirorange"><b>Elasticsearch</b>: logged sensitive information via Reindex API</a>](https://vigilance.fr/vulnerability/Elasticsearch-logged-sensitive-information-via-Reindex-API-48404)|An attacker can read logs of Elasticsearch, via Reindex API, in order to obtain sensitive information...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-spoofing-via-Mail-URL-Well-known-Host-Name-48397" class="noirorange"><b>Webmin  Usermin</b>: spoofing via Mail URL Well-known Host Name</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-spoofing-via-Mail-URL-Well-known-Host-Name-48397)|An attacker can create spoofed data on Webmin  Usermin, via Mail URL Well-known Host Name, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Usernames-Control-Characters-48396" class="noirorange"><b>OpenSSH</b>: code execution via Usernames Control Characters</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-Usernames-Control-Characters-48396)|An attacker can use a vulnerability of OpenSSH, via Usernames Control Characters, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-10-2025-48395" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 06/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-10-2025-48395)|An attacker can use several vulnerabilities of the Linux kernel, dated 06/10/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/jupyterlab-information-disclosure-via-LaTeX-Typesetters-Noopener-Attribute-48394" class="noirorange"><b>jupyterlab</b>: information disclosure via LaTeX Typesetters Noopener Attribute</a>](https://vigilance.fr/vulnerability/jupyterlab-information-disclosure-via-LaTeX-Typesetters-Noopener-Attribute-48394)|An attacker can bypass access restrictions to data of jupyterlab, via LaTeX Typesetters Noopener Attribute, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/fetchmail-denial-of-service-via-SMTP-AUTH-48392" class="noirorange"><b>fetchmail</b>: denial of service via SMTP AUTH</a>](https://vigilance.fr/vulnerability/fetchmail-denial-of-service-via-SMTP-AUTH-48392)|An attacker can cause a fatal error of fetchmail, via SMTP AUTH, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Log4cxx-ingress-filtrering-bypass-via-JSONLayout-48390" class="noirorange"><b>Apache Log4cxx</b>: ingress filtrering bypass via JSONLayout</a>](https://vigilance.fr/vulnerability/Apache-Log4cxx-ingress-filtrering-bypass-via-JSONLayout-48390)|An attacker can bypass filtering rules of Apache Log4cxx, via JSONLayout, in order to send malicious data...|Visit link for details|
  
  ---
 
