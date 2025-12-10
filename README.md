@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/12/2025 21:24:30 UTC
+ > Last Updated 10/12/2025 09:32:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/pgAdmin-user-access-via-OAuth-Flow-48432" class="noirorange"><b>pgAdmin</b>: user access via OAuth Flow</a>](https://vigilance.fr/vulnerability/pgAdmin-user-access-via-OAuth-Flow-48432)|An attacker can bypass restrictions of pgAdmin, via OAuth Flow, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibHTP-overload-via-Malformed-Request-Traffic-48431" class="noirorange"><b>LibHTP</b>: overload via Malformed Request Traffic</a>](https://vigilance.fr/vulnerability/LibHTP-overload-via-Malformed-Request-Traffic-48431)|An attacker can trigger an overload of LibHTP, via Malformed Request Traffic, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NVIDIA-Mellanox-DPDK-information-disclosure-via-Poll-Mode-Driver-48430" class="noirorange"><b>NVIDIA Mellanox DPDK</b>: information disclosure via Poll Mode Driver</a>](https://vigilance.fr/vulnerability/NVIDIA-Mellanox-DPDK-information-disclosure-via-Poll-Mode-Driver-48430)|An attacker can bypass access restrictions to data of NVIDIA Mellanox DPDK, via Poll Mode Driver, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tcpreplay-denial-of-service-via-calc-sleep-time-48852" class="noirorange"><b>tcpreplay</b>: denial of service via calc_sleep_time()</a>](https://vigilance.fr/vulnerability/tcpreplay-denial-of-service-via-calc-sleep-time-48852)|An attacker can cause a fatal error of tcpreplay, via calc_sleep_time(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-10-2025-48429" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 09/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-10-2025-48429)|An attacker can use several vulnerabilities of the Linux kernel, dated 09/10/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-elfutils-denial-of-service-via-elf-strptr-48841" class="noirorange"><b>GNU elfutils</b>: denial of service via elf_strptr()</a>](https://vigilance.fr/vulnerability/GNU-elfutils-denial-of-service-via-elf-strptr-48841)|An attacker can cause a fatal error of GNU elfutils, via elf_strptr(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-Image-Renderer-Plugin-code-execution-via-render-csv-48427" class="noirorange"><b>Grafana Image Renderer Plugin</b>: code execution via /render/csv</a>](https://vigilance.fr/vulnerability/Grafana-Image-Renderer-Plugin-code-execution-via-render-csv-48427)|An attacker can use a vulnerability of Grafana Image Renderer Plugin, via /render/csv, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-elf-swap-shdr-48425" class="noirorange"><b>GNU Binutils</b>: buffer overflow via elf_swap_shdr()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-elf-swap-shdr-48425)|An attacker can trigger a buffer overflow of GNU Binutils, via elf_swap_shdr(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-bfd-elf-parse-eh-frame-48424" class="noirorange"><b>GNU Binutils</b>: buffer overflow via _bfd_elf_parse_eh_<wbr>frame()</wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-bfd-elf-parse-eh-frame-48424)|An attacker can trigger a buffer overflow of GNU Binutils, via _bfd_elf_parse_eh_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-CLI-Access-48423" class="noirorange"><b>PAN-OS</b>: code execution via CLI Access</a>](https://vigilance.fr/vulnerability/PAN-OS-code-execution-via-CLI-Access-48423)|An attacker can use a vulnerability of PAN-OS, via CLI Access, in order to run code...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -55,13 +72,6 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
