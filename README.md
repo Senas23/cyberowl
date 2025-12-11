@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/12/2025 21:29:30 UTC
+ > Last Updated 11/12/2025 09:33:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Artifex-MuPDF-four-vulnerabilities-dated-26-11-2025-48864" class="noirorange"><b>Artifex MuPDF</b>: four vulnerabilities dated 26/11/2025</a>](https://vigilance.fr/vulnerability/Artifex-MuPDF-four-vulnerabilities-dated-26-11-2025-48864)|An attacker can use several vulnerabilities of Artifex MuPDF, dated 26/11/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-10-03-2025-46552" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 10/03/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-10-03-2025-46552)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 10/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Partial-PUT-46548" class="noirorange"><b>Apache Tomcat</b>: code execution via Partial PUT</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Partial-PUT-46548)|An attacker can use a vulnerability of Apache Tomcat, via Partial PUT, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pgAdmin-user-access-via-OAuth-Flow-48432" class="noirorange"><b>pgAdmin</b>: user access via OAuth Flow</a>](https://vigilance.fr/vulnerability/pgAdmin-user-access-via-OAuth-Flow-48432)|An attacker can bypass restrictions of pgAdmin, via OAuth Flow, in order to gain user privileges...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-10-2025-48429" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 09/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-10-2025-48429)|An attacker can use several vulnerabilities of the Linux kernel, dated 09/10/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-elfutils-denial-of-service-via-elf-strptr-48841" class="noirorange"><b>GNU elfutils</b>: denial of service via elf_strptr()</a>](https://vigilance.fr/vulnerability/GNU-elfutils-denial-of-service-via-elf-strptr-48841)|An attacker can cause a fatal error of GNU elfutils, via elf_strptr(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-Image-Renderer-Plugin-code-execution-via-render-csv-48427" class="noirorange"><b>Grafana Image Renderer Plugin</b>: code execution via /render/csv</a>](https://vigilance.fr/vulnerability/Grafana-Image-Renderer-Plugin-code-execution-via-render-csv-48427)|An attacker can use a vulnerability of Grafana Image Renderer Plugin, via /render/csv, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-elf-swap-shdr-48425" class="noirorange"><b>GNU Binutils</b>: buffer overflow via elf_swap_shdr()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-elf-swap-shdr-48425)|An attacker can trigger a buffer overflow of GNU Binutils, via elf_swap_shdr(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
