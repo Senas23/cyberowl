@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/12/2025 09:32:01 UTC
+ > Last Updated 12/12/2025 21:25:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,16 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1108/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1107/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 12 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1106/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 12 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1105/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 12 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1104/)|Une vulnérabilité a été découverte dans Microsoft Windows Admin Center. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 12 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1103/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 12 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1102/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 12 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1101/)|De multiples vulnérabilités ont été découvertes dans les produits Netgate. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1100/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 12 décembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1099/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 11 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1098/)|Une vulnérabilité a été découverte dans Broadcom Carbon Black Cloud. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 11 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1097/)|De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 11 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1096/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 11 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1095/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 11 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1094/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.|Publié le 10 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1093/)|Une vulnérabilité a été découverte dans Microsoft Azure Monitor Agent. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 10 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1092/)|De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2025-62221...|Publié le 10 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1091/)|De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 10 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1090/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 10 décembre 2025|
  
  ---
 
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-Server-file-write-via-mariadb-dump-48881" class="noirorange"><b>MariaDB Server</b>: file write via mariadb-dump</a>](https://vigilance.fr/vulnerability/MariaDB-Server-file-write-via-mariadb-dump-48881)|An attacker can bypass access restrictions of MariaDB Server, via mariadb-dump, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-multiple-vulnerabilities-dated-12-03-2025-46583" class="noirorange"><b>Cisco IOS XR</b>: multiple vulnerabilities dated 12/03/2025</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-multiple-vulnerabilities-dated-12-03-2025-46583)|An attacker can use several vulnerabilities of Cisco IOS XR, dated 12/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-11-03-2025-46574" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities dated 11/03/2025</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-dated-11-03-2025-46574)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader, dated 11/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2024-44499" class="noirorange"><b>Windows</b>: vulnerabilities of June 2024</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-June-2024-44499)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-March-2025-46572" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of March 2025</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-March-2025-46572)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2025-46558" class="noirorange"><b>SAP</b>: multiple vulnerabilities of March 2025</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2025-46558)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Artifex-MuPDF-four-vulnerabilities-dated-26-11-2025-48864" class="noirorange"><b>Artifex MuPDF</b>: four vulnerabilities dated 26/11/2025</a>](https://vigilance.fr/vulnerability/Artifex-MuPDF-four-vulnerabilities-dated-26-11-2025-48864)|An attacker can use several vulnerabilities of Artifex MuPDF, dated 26/11/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-10-03-2025-46552" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 10/03/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-10-03-2025-46552)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 10/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Partial-PUT-46548" class="noirorange"><b>Apache Tomcat</b>: code execution via Partial PUT</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-code-execution-via-Partial-PUT-46548)|An attacker can use a vulnerability of Apache Tomcat, via Partial PUT, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pgAdmin-user-access-via-OAuth-Flow-48432" class="noirorange"><b>pgAdmin</b>: user access via OAuth Flow</a>](https://vigilance.fr/vulnerability/pgAdmin-user-access-via-OAuth-Flow-48432)|An attacker can bypass restrictions of pgAdmin, via OAuth Flow, in order to gain user privileges...|Visit link for details|
  
  ---
 
