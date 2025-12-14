@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/12/2025 09:26:56 UTC
+ > Last Updated 14/12/2025 21:24:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,23 +47,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-14-10-2025-48440" class="noirorange"><b>Linux kernel</b>: two vulnerabilities dated 14/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-14-10-2025-48440)|An attacker can use several vulnerabilities of the Linux kernel, dated 14/10/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Qt-qtsvg-use-after-free-via-Pattern-Node-48439" class="noirorange"><b>Qt qtsvg</b>: use after free via Pattern Node</a>](https://vigilance.fr/vulnerability/Qt-qtsvg-use-after-free-via-Pattern-Node-48439)|An attacker can force the reuse of a freed memory area of Qt qtsvg, via Pattern Node, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxslt-use-after-free-via-xsltGetInheritedNsList-46598" class="noirorange"><b>libxslt</b>: use after free via xsltGetInheritedNsLi<wbr>st()</wbr></a>](https://vigilance.fr/vulnerability/libxslt-use-after-free-via-xsltGetInheritedNsList-46598)|An attacker can force the reuse of a freed memory area of libxslt, via xsltGetInheritedNsLi|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxslt-use-after-free-via-Nested-XPath-Evaluations-46597" class="noirorange"><b>libxslt</b>: use after free via Nested XPath Evaluations</a>](https://vigilance.fr/vulnerability/libxslt-use-after-free-via-Nested-XPath-Evaluations-46597)|An attacker can force the reuse of a freed memory area of libxslt, via Nested XPath Evaluations, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenVPN-OpenSource-denial-of-service-via-Windows-Interactive-Service-48889" class="noirorange"><b>OpenVPN OpenSource</b>: denial of service via Windows Interactive Service</a>](https://vigilance.fr/vulnerability/OpenVPN-OpenSource-denial-of-service-via-Windows-Interactive-Service-48889)|An attacker can cause a fatal error of OpenVPN OpenSource, via Windows Interactive Service, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMI-MegaRAC-SPx12-13-read-write-access-dated-13-10-2025-48438" class="noirorange"><b>AMI MegaRAC SPx12/13</b>: read-write access dated 13/10/2025</a>](https://vigilance.fr/vulnerability/AMI-MegaRAC-SPx12-13-read-write-access-dated-13-10-2025-48438)|An attacker can bypass access restrictions of AMI MegaRAC SPx12/13, dated 13/10/2025, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-six-vulnerabilities-dated-13-03-2025-46592" class="noirorange"><b>PHP</b>: six vulnerabilities dated 13/03/2025</a>](https://vigilance.fr/vulnerability/PHP-six-vulnerabilities-dated-13-03-2025-46592)|An attacker can use several vulnerabilities of PHP, dated 13/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-libmicrohttpd-NULL-pointer-dereference-dated-28-11-2025-48885" class="noirorange"><b>GNU libmicrohttpd</b>: NULL pointer dereference dated 28/11/2025</a>](https://vigilance.fr/vulnerability/GNU-libmicrohttpd-NULL-pointer-dereference-dated-28-11-2025-48885)|An attacker can force a NULL pointer to be dereferenced on GNU libmicrohttpd, dated 28/11/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-multiple-vulnerabilities-dated-13-10-2025-48437" class="noirorange"><b>Go</b>: multiple vulnerabilities dated 13/10/2025</a>](https://vigilance.fr/vulnerability/Go-multiple-vulnerabilities-dated-13-10-2025-48437)|An attacker can use several vulnerabilities of Go, dated 13/10/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-03-2025-46588" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 13/03/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-03-2025-46588)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 13/03/2025...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -72,6 +55,13 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
