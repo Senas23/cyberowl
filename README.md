@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/12/2025 21:27:40 UTC
+ > Last Updated 17/12/2025 09:34:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeType-buffer-overflow-via-TrueType-GX-Subglyph-46606" class="noirorange"><b>FreeType</b>: buffer overflow via TrueType GX Subglyph</a>](https://vigilance.fr/vulnerability/FreeType-buffer-overflow-via-TrueType-GX-Subglyph-46606)|An attacker can trigger a buffer overflow of FreeType, via TrueType GX Subglyph, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Slowloris-48513" class="noirorange"><b>IBM MQ</b>: denial of service via Slowloris</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Slowloris-48513)|An attacker can cause a fatal error of IBM MQ, via Slowloris, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-out-of-bounds-memory-reading-via-vfinfo-48916" class="noirorange"><b>GNU Binutils</b>: out-of-bounds memory reading via vfinfo()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-out-of-bounds-memory-reading-via-vfinfo-48916)|An attacker can force a read at an invalid memory address of GNU Binutils, via vfinfo(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-denial-of-service-via-tg-tag-type-48915" class="noirorange"><b>GNU Binutils</b>: denial of service via tg_tag_type()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-denial-of-service-via-tg-tag-type-48915)|An attacker can cause a fatal error of GNU Binutils, via tg_tag_type(), in order to trigger a denial of service...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Snort-denial-of-service-via-HTTP-Decoder-MIME-Error-48506" class="noirorange"><b>Snort</b>: denial of service via HTTP Decoder MIME Error</a>](https://vigilance.fr/vulnerability/Snort-denial-of-service-via-HTTP-Decoder-MIME-Error-48506)|An attacker can cause a fatal error of Snort, via HTTP Decoder MIME Error, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Snort-out-of-bounds-memory-reading-via-HTTP-Decoder-MIME-48505" class="noirorange"><b>Snort</b>: out-of-bounds memory reading via HTTP Decoder MIME</a>](https://vigilance.fr/vulnerability/Snort-out-of-bounds-memory-reading-via-HTTP-Decoder-MIME-48505)|An attacker can force a read at an invalid memory address of Snort, via HTTP Decoder MIME, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-WAVARC-Decoder-48504" class="noirorange"><b>FFmpeg</b>: integer overflow via WAVARC Decoder</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-WAVARC-Decoder-48504)|An attacker can trigger an integer overflow of FFmpeg, via WAVARC Decoder, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-parse-options-48503" class="noirorange"><b>FFmpeg</b>: integer overflow via parse_options()</a>](https://vigilance.fr/vulnerability/FFmpeg-integer-overflow-via-parse-options-48503)|An attacker can trigger an integer overflow of FFmpeg, via parse_options(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
