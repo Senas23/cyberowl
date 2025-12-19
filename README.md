@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/12/2025 09:31:29 UTC
+ > Last Updated 19/12/2025 21:25:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,23 +34,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1122/)|De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer des problèmes de sécurité non spécifiés par l'éditeur.|Publié le 18 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1121/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer une élévation de privilèges. Sonicwall indique que cette vulnérabilité est exploitée conjointement avec la vulnérabilité CVE-2025-23006 qui permet une exécution de code arbitraire à...|Publié le 18 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1120/)|Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance avec les droits administrateurs. Cisco indique que cette vulnérabilité est activement exploitée et fournit des recommandations dans son bulletin de...|Publié le 18 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1119/)|De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 17 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1118/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1117/)|De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 17 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1116/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1115/)|Une vulnérabilité a été découverte dans Trend Micro Apex One. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 16 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1114/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 16 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1113/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.|Publié le 16 décembre 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1136/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1135/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1134/)|De multiples vulnérabilités ont été découvertes dans MongoDB Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1133/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 19 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1132/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1131/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 19 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1130/)|De multiples vulnérabilités ont été découvertes dans les produits Foxit. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service.|Publié le 19 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1129/)|De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1128/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.|Publié le 19 décembre 2025|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1127/)|De multiples vulnérabilités ont été découvertes dans Centreon Web. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 décembre 2025|
  
  ---
 
@@ -58,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Lens-46629" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via Lens</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Lens-46629)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via Lens, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Directory-48982" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Directory</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Directory-48982)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Directory, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PySide6-vulnerability-dated-04-12-2025-48975" class="noirorange"><b>PySide6</b>: vulnerability dated 04/12/2025</a>](https://vigilance.fr/vulnerability/PySide6-vulnerability-dated-04-12-2025-48975)|A vulnerability of PySide6, dated 04/12/2025, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AIX-code-execution-via-Nim-46621" class="noirorange"><b>AIX</b>: code execution via Nim</a>](https://vigilance.fr/vulnerability/AIX-code-execution-via-Nim-46621)|An attacker can use a vulnerability of AIX, via Nim, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Canonical-LXD-Incus-multiple-vulnerabilities-dated-17-10-2025-48518" class="noirorange"><b>Canonical LXD  Incus</b>: multiple vulnerabilities dated 17/10/2025</a>](https://vigilance.fr/vulnerability/Canonical-LXD-Incus-multiple-vulnerabilities-dated-17-10-2025-48518)|An attacker can use several vulnerabilities of Canonical LXD  Incus, dated 17/10/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ImageMagick-integer-overflow-via-BMP-Decoder-ReadBMP-48517" class="noirorange"><b>ImageMagick</b>: integer overflow via BMP Decoder ReadBMP</a>](https://vigilance.fr/vulnerability/ImageMagick-integer-overflow-via-BMP-Decoder-ReadBMP-48517)|An attacker can trigger an integer overflow of ImageMagick, via BMP Decoder ReadBMP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -65,9 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Squid-information-disclosure-via-Error-handling-48515" class="noirorange"><b>Squid</b>: information disclosure via Error handling</a>](https://vigilance.fr/vulnerability/Squid-information-disclosure-via-Error-handling-48515)|An attacker can bypass access restrictions to data of Squid, via Error handling, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeType-buffer-overflow-via-TrueType-GX-Subglyph-46606" class="noirorange"><b>FreeType</b>: buffer overflow via TrueType GX Subglyph</a>](https://vigilance.fr/vulnerability/FreeType-buffer-overflow-via-TrueType-GX-Subglyph-46606)|An attacker can trigger a buffer overflow of FreeType, via TrueType GX Subglyph, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Slowloris-48513" class="noirorange"><b>IBM MQ</b>: denial of service via Slowloris</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Slowloris-48513)|An attacker can cause a fatal error of IBM MQ, via Slowloris, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-out-of-bounds-memory-reading-via-vfinfo-48916" class="noirorange"><b>GNU Binutils</b>: out-of-bounds memory reading via vfinfo()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-out-of-bounds-memory-reading-via-vfinfo-48916)|An attacker can force a read at an invalid memory address of GNU Binutils, via vfinfo(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-denial-of-service-via-tg-tag-type-48915" class="noirorange"><b>GNU Binutils</b>: denial of service via tg_tag_type()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-denial-of-service-via-tg-tag-type-48915)|An attacker can cause a fatal error of GNU Binutils, via tg_tag_type(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libsoup-out-of-bounds-memory-reading-via-Cookie-Date-48511" class="noirorange"><b>libsoup</b>: out-of-bounds memory reading via Cookie Date</a>](https://vigilance.fr/vulnerability/libsoup-out-of-bounds-memory-reading-via-Cookie-Date-48511)|An attacker can force a read at an invalid memory address of libsoup, via Cookie Date, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
