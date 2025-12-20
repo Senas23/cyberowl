@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/12/2025 21:25:47 UTC
+ > Last Updated 20/12/2025 09:26:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,23 +47,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Lens-46629" class="noirorange"><b>Chrome  Edge  Opera</b>: use after free via Lens</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Lens-46629)|An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via Lens, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Directory-48982" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Directory</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Directory-48982)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Directory, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PySide6-vulnerability-dated-04-12-2025-48975" class="noirorange"><b>PySide6</b>: vulnerability dated 04/12/2025</a>](https://vigilance.fr/vulnerability/PySide6-vulnerability-dated-04-12-2025-48975)|A vulnerability of PySide6, dated 04/12/2025, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-code-execution-via-Nim-46621" class="noirorange"><b>AIX</b>: code execution via Nim</a>](https://vigilance.fr/vulnerability/AIX-code-execution-via-Nim-46621)|An attacker can use a vulnerability of AIX, via Nim, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Canonical-LXD-Incus-multiple-vulnerabilities-dated-17-10-2025-48518" class="noirorange"><b>Canonical LXD  Incus</b>: multiple vulnerabilities dated 17/10/2025</a>](https://vigilance.fr/vulnerability/Canonical-LXD-Incus-multiple-vulnerabilities-dated-17-10-2025-48518)|An attacker can use several vulnerabilities of Canonical LXD  Incus, dated 17/10/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-integer-overflow-via-BMP-Decoder-ReadBMP-48517" class="noirorange"><b>ImageMagick</b>: integer overflow via BMP Decoder ReadBMP</a>](https://vigilance.fr/vulnerability/ImageMagick-integer-overflow-via-BMP-Decoder-ReadBMP-48517)|An attacker can trigger an integer overflow of ImageMagick, via BMP Decoder ReadBMP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/YAML-Syck-out-of-bounds-memory-reading-via-Missing-Null-Terminators-48516" class="noirorange"><b>YAML-Syck</b>: out-of-bounds memory reading via Missing Null Terminators</a>](https://vigilance.fr/vulnerability/YAML-Syck-out-of-bounds-memory-reading-via-Missing-Null-Terminators-48516)|An attacker can force a read at an invalid memory address of YAML::Syck, via Missing Null Terminators, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-information-disclosure-via-Error-handling-48515" class="noirorange"><b>Squid</b>: information disclosure via Error handling</a>](https://vigilance.fr/vulnerability/Squid-information-disclosure-via-Error-handling-48515)|An attacker can bypass access restrictions to data of Squid, via Error handling, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeType-buffer-overflow-via-TrueType-GX-Subglyph-46606" class="noirorange"><b>FreeType</b>: buffer overflow via TrueType GX Subglyph</a>](https://vigilance.fr/vulnerability/FreeType-buffer-overflow-via-TrueType-GX-Subglyph-46606)|An attacker can trigger a buffer overflow of FreeType, via TrueType GX Subglyph, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Slowloris-48513" class="noirorange"><b>IBM MQ</b>: denial of service via Slowloris</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Slowloris-48513)|An attacker can cause a fatal error of IBM MQ, via Slowloris, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -72,6 +55,13 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
