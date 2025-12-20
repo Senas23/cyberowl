@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/12/2025 09:26:45 UTC
+ > Last Updated 20/12/2025 21:23:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-use-after-free-via-QueryPlannerParams-48531" class="noirorange"><b>MongoDB Server</b>: use after free via QueryPlannerParams</a>](https://vigilance.fr/vulnerability/MongoDB-Server-use-after-free-via-QueryPlannerParams-48531)|An attacker can force the reuse of a freed memory area of MongoDB Server, via QueryPlannerParams, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/python-ldap-ingress-filtrering-bypass-via-escape-dn-chars-48530" class="noirorange"><b>python-ldap</b>: ingress filtrering bypass via escape_dn_chars()</a>](https://vigilance.fr/vulnerability/python-ldap-ingress-filtrering-bypass-via-escape-dn-chars-48530)|An attacker can bypass filtering rules of python-ldap, via escape_dn_chars(), in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/python-ldap-ingress-filtrering-bypass-via-escape-filter-chars-48529" class="noirorange"><b>python-ldap</b>: ingress filtrering bypass via escape_filter_chars(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/python-ldap-ingress-filtrering-bypass-via-escape-filter-chars-48529)|An attacker can bypass filtering rules of python-ldap, via escape_filter_chars(|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-code-execution-via-Shell-Link-COMMAND-LINE-ARGUMENTS-46639" class="noirorange"><b>Windows</b>: code execution via Shell Link COMMAND_LINE_<wbr>ARGUMENTS</wbr></a>](https://vigilance.fr/vulnerability/Windows-code-execution-via-Shell-Link-COMMAND-LINE-ARGUMENTS-46639)|An attacker can use a vulnerability of Windows, via Shell Link COMMAND_LINE_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-user-access-dated-20-03-2025-46637" class="noirorange"><b>Portal for ArcGIS</b>: user access dated 20/03/2025</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-user-access-dated-20-03-2025-46637)|An attacker can bypass restrictions of Portal for ArcGIS, dated 20/03/2025, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Key-Generation-48528" class="noirorange"><b>Mbed TLS</b>: information disclosure via RSA Key Generation</a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Key-Generation-48528)|An attacker can bypass access restrictions to data of Mbed TLS, via RSA Key Generation, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-Cipher-Error-Reporting-48527" class="noirorange"><b>Mbed TLS</b>: information disclosure via Cipher Error Reporting</a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-Cipher-Error-Reporting-48527)|An attacker can bypass access restrictions to data of Mbed TLS, via Cipher Error Reporting, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-elf-x86-64-relocate-section-48526" class="noirorange"><b>GNU Binutils</b>: buffer overflow via elf_x86_64_relocate_<wbr>section()</wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-elf-x86-64-relocate-section-48526)|An attacker can trigger a buffer overflow of GNU Binutils, via elf_x86_64_relocate_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-out-of-bounds-memory-reading-via-bfd-x86-elf-late-size-sections-48525" class="noirorange"><b>GNU Binutils</b>: out-of-bounds memory reading via _bfd_x86_elf_late_<wbr>size_sections()</wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-out-of-bounds-memory-reading-via-bfd-x86-elf-late-size-sections-48525)|An attacker can force a read at an invalid memory address of GNU Binutils, via _bfd_x86_elf_late_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Suricata-ingress-filtrering-bypass-via-Multiple-SYN-Packets-48524" class="noirorange"><b>Suricata</b>: ingress filtrering bypass via Multiple SYN Packets</a>](https://vigilance.fr/vulnerability/Suricata-ingress-filtrering-bypass-via-Multiple-SYN-Packets-48524)|An attacker can bypass filtering rules of Suricata, via Multiple SYN Packets, in order to send malicious data...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -55,13 +72,6 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
