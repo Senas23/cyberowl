@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/12/2025 09:27:29 UTC
+ > Last Updated 21/12/2025 21:23:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,17 +47,11 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-buffer-overflow-via-Viridian-Hypercalls-48534" class="noirorange"><b>Xen</b>: buffer overflow via Viridian Hypercalls</a>](https://vigilance.fr/vulnerability/Xen-buffer-overflow-via-Viridian-Hypercalls-48534)|An attacker, in a guest system, can trigger a buffer overflow of Xen, via Viridian Hypercalls, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-10-2025-48533" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 21/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-21-10-2025-48533)|An attacker can use several vulnerabilities of the Linux kernel, dated 21/10/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GI-DocGen-Cross-Site-Scripting-dated-21-10-2025-48532" class="noirorange"><b>GI-DocGen</b>: Cross Site Scripting dated 21/10/2025</a>](https://vigilance.fr/vulnerability/GI-DocGen-Cross-Site-Scripting-dated-21-10-2025-48532)|An attacker can trigger a Cross Site Scripting of GI-DocGen, dated 21/10/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-use-after-free-via-QueryPlannerParams-48531" class="noirorange"><b>MongoDB Server</b>: use after free via QueryPlannerParams</a>](https://vigilance.fr/vulnerability/MongoDB-Server-use-after-free-via-QueryPlannerParams-48531)|An attacker can force the reuse of a freed memory area of MongoDB Server, via QueryPlannerParams, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -67,7 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/Portal-for-ArcGIS-user-access-dated-20-03-2025-46637" class="noirorange"><b>Portal for ArcGIS</b>: user access dated 20/03/2025</a>](https://vigilance.fr/vulnerability/Portal-for-ArcGIS-user-access-dated-20-03-2025-46637)|An attacker can bypass restrictions of Portal for ArcGIS, dated 20/03/2025, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Key-Generation-48528" class="noirorange"><b>Mbed TLS</b>: information disclosure via RSA Key Generation</a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-RSA-Key-Generation-48528)|An attacker can bypass access restrictions to data of Mbed TLS, via RSA Key Generation, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-Cipher-Error-Reporting-48527" class="noirorange"><b>Mbed TLS</b>: information disclosure via Cipher Error Reporting</a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-Cipher-Error-Reporting-48527)|An attacker can bypass access restrictions to data of Mbed TLS, via Cipher Error Reporting, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-elf-x86-64-relocate-section-48526" class="noirorange"><b>GNU Binutils</b>: buffer overflow via elf_x86_64_relocate_<wbr>section()</wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-elf-x86-64-relocate-section-48526)|An attacker can trigger a buffer overflow of GNU Binutils, via elf_x86_64_relocate_|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
