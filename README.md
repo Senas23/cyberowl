@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/12/2025 21:24:52 UTC
+ > Last Updated 23/12/2025 09:32:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-vulnerability-via-CVE-2025-61873-48565" class="noirorange"><b>Request Tracker</b>: vulnerability via CVE-2025-61873</a>](https://vigilance.fr/vulnerability/Request-Tracker-vulnerability-via-CVE-2025-61873-48565)|A vulnerability of Request Tracker, via CVE-2025-61873, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-vulnerability-via-CVE-2025-9158-48564" class="noirorange"><b>Request Tracker</b>: vulnerability via CVE-2025-9158</a>](https://vigilance.fr/vulnerability/Request-Tracker-vulnerability-via-CVE-2025-9158-48564)|A vulnerability of Request Tracker, via CVE-2025-9158, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/langchain-text-splitters-external-XML-entity-injection-via-HTMLSectionSplitter-48563" class="noirorange"><b>langchain-text-<wbr>splitters</wbr></b>: external XML entity injection via HTMLSectionSplitter</a>](https://vigilance.fr/vulnerability/langchain-text-splitters-external-XML-entity-injection-via-HTMLSectionSplitter-48563)|An attacker can transmit malicious XML data to langchain-text-|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/llama-index-core-directory-traversal-via-get-cache-dir-48562" class="noirorange"><b>llama-index-core</b>: directory traversal via get_cache_dir()</a>](https://vigilance.fr/vulnerability/llama-index-core-directory-traversal-via-get-cache-dir-48562)|An attacker can traverse directories of llama-index-core, via get_cache_dir(), in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-CivicTheme-Design-System-Cross-Site-Scripting-via-1-12-0-48561" class="noirorange"><b>Drupal CivicTheme Design System</b>: Cross Site Scripting via 1.12.0</a>](https://vigilance.fr/vulnerability/Drupal-CivicTheme-Design-System-Cross-Site-Scripting-via-1-12-0-48561)|An attacker can trigger a Cross Site Scripting of Drupal CivicTheme Design System, via 1.12.0, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Unbound-spoofing-via-Promiscuous-NS-RRSets-48553" class="noirorange"><b>Unbound</b>: spoofing via Promiscuous NS RRSets</a>](https://vigilance.fr/vulnerability/Unbound-spoofing-via-Promiscuous-NS-RRSets-48553)|An attacker can create spoofed data on Unbound, via Promiscuous NS RRSets, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-memory-corruption-via-MPEG-DASH-Manifests-48552" class="noirorange"><b>FFmpeg</b>: memory corruption via MPEG-DASH Manifests</a>](https://vigilance.fr/vulnerability/FFmpeg-memory-corruption-via-MPEG-DASH-Manifests-48552)|An attacker can trigger a memory corruption of FFmpeg, via MPEG-DASH Manifests, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Data-Center-denial-of-service-dated-22-10-2025-48551" class="noirorange"><b>Atlassian Confluence Data Center</b>: denial of service dated 22/10/2025</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Data-Center-denial-of-service-dated-22-10-2025-48551)|An attacker can cause a fatal error of Atlassian Confluence Data Center, dated 22/10/2025, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Jira-DC-Server-directory-traversal-dated-22-10-2025-48550" class="noirorange"><b>Atlassian Jira DC/Server</b>: directory traversal dated 22/10/2025</a>](https://vigilance.fr/vulnerability/Atlassian-Jira-DC-Server-directory-traversal-dated-22-10-2025-48550)|An attacker can traverse directories of Atlassian Jira DC/Server, dated 22/10/2025, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-October-2025-48548" class="noirorange"><b>Oracle VM VirtualBox</b>: vulnerabilities of October 2025</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-October-2025-48548)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  
  ---
 
