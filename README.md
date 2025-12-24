@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/12/2025 21:26:08 UTC
+ > Last Updated 24/12/2025 09:31:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,23 +47,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Tryton-Cross-Site-Scripting-dated-23-10-2025-48574" class="noirorange"><b>Tryton</b>: Cross Site Scripting dated 23/10/2025</a>](https://vigilance.fr/vulnerability/Tryton-Cross-Site-Scripting-dated-23-10-2025-48574)|An attacker can trigger a Cross Site Scripting of Tryton, dated 23/10/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Authlib-overload-via-JOSE-JWS-JWT-Header-Signature-Segments-48573" class="noirorange"><b>Authlib</b>: overload via JOSE JWS/JWT Header / Signature Segments</a>](https://vigilance.fr/vulnerability/Authlib-overload-via-JOSE-JWS-JWT-Header-Signature-Segments-48573)|An attacker can trigger an overload of Authlib, via JOSE JWS/JWT Header / Signature Segments, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Elliptic-information-disclosure-via-ECDSA-Key-Extraction-48572" class="noirorange"><b>Node.js Elliptic</b>: information disclosure via ECDSA Key Extraction</a>](https://vigilance.fr/vulnerability/Node-js-Elliptic-information-disclosure-via-ECDSA-Key-Extraction-48572)|An attacker can bypass access restrictions to data of Node.js Elliptic, via ECDSA Key Extraction, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-Man-in-the-Middle-via-ZTNA-Proxy-48570" class="noirorange"><b>FortiOS</b>: Man-in-the-Middle via ZTNA Proxy</a>](https://vigilance.fr/vulnerability/FortiOS-Man-in-the-Middle-via-ZTNA-Proxy-48570)|An attacker can act as a Man-in-the-Middle on FortiOS, via ZTNA Proxy, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Provision-Specified-Functionality-48569" class="noirorange"><b>FortiOS</b>: privilege escalation via Provision Specified Functionality</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-Provision-Specified-Functionality-48569)|An attacker can bypass restrictions of FortiOS, via Provision Specified Functionality, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-user-access-via-Concurrent-Execution-48568" class="noirorange"><b>FortiAnalyzer</b>: user access via Concurrent Execution</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-user-access-via-Concurrent-Execution-48568)|An attacker can bypass restrictions of FortiAnalyzer, via Concurrent Execution, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxslt-denial-of-service-via-exsltFuncResultComp-48567" class="noirorange"><b>libxslt</b>: denial of service via exsltFuncResultComp(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/libxslt-denial-of-service-via-exsltFuncResultComp-48567)|An attacker can cause a fatal error of libxslt, via exsltFuncResultComp(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Juliangruber-Brace-expansion-overload-via-index-js-48566" class="noirorange"><b>Juliangruber Brace-expansion</b>: overload via index.js</a>](https://vigilance.fr/vulnerability/Juliangruber-Brace-expansion-overload-via-index-js-48566)|An attacker can trigger an overload of Juliangruber Brace-expansion, via index.js, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-vulnerability-via-CVE-2025-61873-48565" class="noirorange"><b>Request Tracker</b>: vulnerability via CVE-2025-61873</a>](https://vigilance.fr/vulnerability/Request-Tracker-vulnerability-via-CVE-2025-61873-48565)|A vulnerability of Request Tracker, via CVE-2025-61873, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Request-Tracker-vulnerability-via-CVE-2025-9158-48564" class="noirorange"><b>Request Tracker</b>: vulnerability via CVE-2025-9158</a>](https://vigilance.fr/vulnerability/Request-Tracker-vulnerability-via-CVE-2025-9158-48564)|A vulnerability of Request Tracker, via CVE-2025-9158, was announced...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -72,6 +55,13 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
