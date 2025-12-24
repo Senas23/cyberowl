@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/12/2025 09:31:59 UTC
+ > Last Updated 24/12/2025 21:24:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,23 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-Insufficient-Session-Expiration-49036" class="noirorange"><b>FortiOS</b>: user access via Insufficient Session Expiration</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-Insufficient-Session-Expiration-49036)|An attacker can bypass restrictions of FortiOS, via Insufficient Session Expiration, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Poppler-use-after-free-via-StructTreeRoot-48579" class="noirorange"><b>Poppler</b>: use after free via StructTreeRoot</a>](https://vigilance.fr/vulnerability/Poppler-use-after-free-via-StructTreeRoot-48579)|An attacker can force the reuse of a freed memory area of Poppler, via StructTreeRoot, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrony-privilege-escalation-via-Socket-Creation-Race-48578" class="noirorange"><b>Chrony</b>: privilege escalation via Socket Creation Race</a>](https://vigilance.fr/vulnerability/Chrony-privilege-escalation-via-Socket-Creation-Race-48578)|An attacker can bypass restrictions of Chrony, via Socket Creation Race, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-24-10-2025-48577" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 24/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-24-10-2025-48577)|An attacker can use several vulnerabilities of the Linux kernel, dated 24/10/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-PCI-Unplugged-Device-Memory-48576" class="noirorange"><b>Xen</b>: read-write access via PCI Unplugged Device Memory</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-PCI-Unplugged-Device-Memory-48576)|An attacker, in a guest system, can bypass access restrictions of Xen, via PCI Unplugged Device Memory, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-write-access-via-Network-Two-phase-Commit-Protocol-49032" class="noirorange"><b>MongoDB Server</b>: write access via Network Two-phase Commit Protocol</a>](https://vigilance.fr/vulnerability/MongoDB-Server-write-access-via-Network-Two-phase-Commit-Protocol-49032)|An attacker can bypass access restrictions of MongoDB Server, via Network Two-phase Commit Protocol, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/python-apt-NULL-pointer-dereference-via-TagSection-keys-49024" class="noirorange"><b>python-apt</b>: NULL pointer dereference via TagSection.keys()</a>](https://vigilance.fr/vulnerability/python-apt-NULL-pointer-dereference-via-TagSection-keys-49024)|An attacker can force a NULL pointer to be dereferenced on python-apt, via TagSection.keys(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-dated-17-09-2024-46656" class="noirorange"><b>WebKitGTK</b>: memory corruption dated 17/09/2024</a>](https://vigilance.fr/vulnerability/WebKitGTK-memory-corruption-dated-17-09-2024-46656)|An attacker can trigger a memory corruption of WebKitGTK, dated 17/09/2024, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tryton-Cross-Site-Scripting-dated-23-10-2025-48574" class="noirorange"><b>Tryton</b>: Cross Site Scripting dated 23/10/2025</a>](https://vigilance.fr/vulnerability/Tryton-Cross-Site-Scripting-dated-23-10-2025-48574)|An attacker can trigger a Cross Site Scripting of Tryton, dated 23/10/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Authlib-overload-via-JOSE-JWS-JWT-Header-Signature-Segments-48573" class="noirorange"><b>Authlib</b>: overload via JOSE JWS/JWT Header / Signature Segments</a>](https://vigilance.fr/vulnerability/Authlib-overload-via-JOSE-JWS-JWT-Header-Signature-Segments-48573)|An attacker can trigger an overload of Authlib, via JOSE JWS/JWT Header / Signature Segments, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -55,13 +72,6 @@
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
