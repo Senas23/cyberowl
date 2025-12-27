@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/12/2025 21:24:59 UTC
+ > Last Updated 27/12/2025 09:27:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/System-Security-Services-Daemon-privilege-escalation-via-sssd-krb5-localauth-plugin-Fallback-48581" class="noirorange"><b>System Security Services Daemon</b>: privilege escalation via sssd_krb5_localauth_<wbr>plugin Fallback</wbr></a>](https://vigilance.fr/vulnerability/System-Security-Services-Daemon-privilege-escalation-via-sssd-krb5-localauth-plugin-Fallback-48581)|An attacker can bypass restrictions of System Security Services Daemon, via sssd_krb5_localauth_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-seven-vulnerabilities-dated-27-10-2025-48580" class="noirorange"><b>Moodle</b>: seven vulnerabilities dated 27/10/2025</a>](https://vigilance.fr/vulnerability/Moodle-seven-vulnerabilities-dated-27-10-2025-48580)|An attacker can use several vulnerabilities of Moodle, dated 27/10/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-multiple-vulnerabilities-dated-26-03-2025-46680" class="noirorange"><b>Splunk Enterprise</b>: multiple vulnerabilities dated 26/03/2025</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-multiple-vulnerabilities-dated-26-03-2025-46680)|An attacker can use several vulnerabilities of Splunk Enterprise, dated 26/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Exim-use-after-free-dated-26-03-2025-46678" class="noirorange"><b>Exim</b>: use after free dated 26/03/2025</a>](https://vigilance.fr/vulnerability/Exim-use-after-free-dated-26-03-2025-46678)|An attacker can force the reuse of a freed memory area of Exim, dated 26/03/2025, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-03-2025-46677" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities dated 26/03/2025</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-26-03-2025-46677)|An attacker can use several vulnerabilities of GitLab CE/EE, dated 26/03/2025...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-libavformat-mov-c-49067" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via libavformat/mov.c</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-libavformat-mov-c-49067)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via libavformat/mov.c, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Docker-Desktop-logged-sensitive-information-via-Diagnostics-Expired-Hub-PATs-49050" class="noirorange"><b>Docker Desktop</b>: logged sensitive information via Diagnostics Expired Hub PATs</a>](https://vigilance.fr/vulnerability/Docker-Desktop-logged-sensitive-information-via-Diagnostics-Expired-Hub-PATs-49050)|An attacker can read logs of Docker Desktop, via Diagnostics Expired Hub PATs, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-Insufficient-Session-Expiration-49036" class="noirorange"><b>FortiOS</b>: user access via Insufficient Session Expiration</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-Insufficient-Session-Expiration-49036)|An attacker can bypass restrictions of FortiOS, via Insufficient Session Expiration, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-use-after-free-via-StructTreeRoot-48579" class="noirorange"><b>Poppler</b>: use after free via StructTreeRoot</a>](https://vigilance.fr/vulnerability/Poppler-use-after-free-via-StructTreeRoot-48579)|An attacker can force the reuse of a freed memory area of Poppler, via StructTreeRoot, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrony-privilege-escalation-via-Socket-Creation-Race-48578" class="noirorange"><b>Chrony</b>: privilege escalation via Socket Creation Race</a>](https://vigilance.fr/vulnerability/Chrony-privilege-escalation-via-Socket-Creation-Race-48578)|An attacker can bypass restrictions of Chrony, via Socket Creation Race, in order to escalate his privileges...|Visit link for details|
  
  ---
 
