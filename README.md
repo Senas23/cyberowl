@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/12/2025 21:23:48 UTC
+ > Last Updated 28/12/2025 09:27:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-exim-privilege-escalation-via-Logrotate-Configuration-48596" class="noirorange"><b>SUSE exim</b>: privilege escalation via Logrotate Configuration</a>](https://vigilance.fr/vulnerability/SUSE-exim-privilege-escalation-via-Logrotate-Configuration-48596)|An attacker can bypass restrictions of SUSE exim, via Logrotate Configuration, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-TLS-Client-Initiated-Renegotiation-48595" class="noirorange"><b>Keycloak</b>: denial of service via TLS Client-Initiated Renegotiation</a>](https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-TLS-Client-Initiated-Renegotiation-48595)|An attacker can cause a fatal error of Keycloak, via TLS Client-Initiated Renegotiation, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/poi-scratchpad-denial-of-service-via-HMEF-TNEF-Files-48594" class="noirorange"><b>poi-scratchpad</b>: denial of service via HMEF TNEF Files</a>](https://vigilance.fr/vulnerability/poi-scratchpad-denial-of-service-via-HMEF-TNEF-Files-48594)|An attacker can cause a fatal error of poi-scratchpad, via HMEF TNEF Files, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-App-Framework-48593" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation via App Framework</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-App-Framework-48593)|An attacker can bypass restrictions of IBM QRadar SIEM, via App Framework, in order to escalate his privileges...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-Escape-Sequences-Console-Manipulation-48588" class="noirorange"><b>Apache Tomcat</b>: ingress filtrering bypass via Escape Sequences Console Manipulation</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-ingress-filtrering-bypass-via-Escape-Sequences-Console-Manipulation-48588)|An attacker can bypass filtering rules of Apache Tomcat, via Escape Sequences Console Manipulation, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Configuration-Manager-privilege-escalation-dated-27-10-2025-48585" class="noirorange"><b>Microsoft Configuration Manager</b>: privilege escalation dated 27/10/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Configuration-Manager-privilege-escalation-dated-27-10-2025-48585)|An attacker can bypass restrictions of Microsoft Configuration Manager, dated 27/10/2025, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Docker-Desktop-executing-DLL-code-via-Installer-48584" class="noirorange"><b>Docker Desktop</b>: executing DLL code via Installer</a>](https://vigilance.fr/vulnerability/Docker-Desktop-executing-DLL-code-via-Installer-48584)|An attacker can create a malicious DLL for Docker Desktop, via Installer, and then put it in the current directory, in order to execute code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/System-Security-Services-Daemon-privilege-escalation-via-sssd-krb5-localauth-plugin-Fallback-48581" class="noirorange"><b>System Security Services Daemon</b>: privilege escalation via sssd_krb5_localauth_<wbr>plugin Fallback</wbr></a>](https://vigilance.fr/vulnerability/System-Security-Services-Daemon-privilege-escalation-via-sssd-krb5-localauth-plugin-Fallback-48581)|An attacker can bypass restrictions of System Security Services Daemon, via sssd_krb5_localauth_|Visit link for details|
  
  ---
 
