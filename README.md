@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/12/2025 21:25:25 UTC
+ > Last Updated 29/12/2025 09:37:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Authlib-write-access-via-Critical-Header-48607" class="noirorange"><b>Authlib</b>: write access via Critical Header</a>](https://vigilance.fr/vulnerability/Authlib-write-access-via-Critical-Header-48607)|An attacker can bypass access restrictions of Authlib, via Critical Header, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Git-LFS-directory-traversal-via-Symbolic-Hard-Links-48606" class="noirorange"><b>Git LFS</b>: directory traversal via Symbolic / Hard Links</a>](https://vigilance.fr/vulnerability/Git-LFS-directory-traversal-via-Symbolic-Hard-Links-48606)|An attacker can traverse directories of Git LFS, via Symbolic / Hard Links, in order to read or write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-information-disclosure-via-Event-Stream-Test-Mode-Headers-48604" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: information disclosure via Event Stream Test Mode Headers</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-information-disclosure-via-Event-Stream-Test-Mode-Headers-48604)|An attacker can bypass access restrictions to data of Red Hat Ansible Automation Platform, via Event Stream Test Mode Headers, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-information-disclosure-via-EDA-Event-Streams-Internal-Headers-48603" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: information disclosure via EDA Event Streams Internal Headers</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-information-disclosure-via-EDA-Event-Streams-Internal-Headers-48603)|An attacker can bypass access restrictions to data of Red Hat Ansible Automation Platform, via EDA Event Streams Internal Headers, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Authlib-overload-via-DEFLATE-Decompression-48602" class="noirorange"><b>Authlib</b>: overload via DEFLATE Decompression</a>](https://vigilance.fr/vulnerability/Authlib-overload-via-DEFLATE-Decompression-48602)|An attacker can trigger an overload of Authlib, via DEFLATE Decompression, in order to trigger a denial of service...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/SUSE-exim-privilege-escalation-via-Logrotate-Configuration-48596" class="noirorange"><b>SUSE exim</b>: privilege escalation via Logrotate Configuration</a>](https://vigilance.fr/vulnerability/SUSE-exim-privilege-escalation-via-Logrotate-Configuration-48596)|An attacker can bypass restrictions of SUSE exim, via Logrotate Configuration, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-TLS-Client-Initiated-Renegotiation-48595" class="noirorange"><b>Keycloak</b>: denial of service via TLS Client-Initiated Renegotiation</a>](https://vigilance.fr/vulnerability/Keycloak-denial-of-service-via-TLS-Client-Initiated-Renegotiation-48595)|An attacker can cause a fatal error of Keycloak, via TLS Client-Initiated Renegotiation, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/poi-scratchpad-denial-of-service-via-HMEF-TNEF-Files-48594" class="noirorange"><b>poi-scratchpad</b>: denial of service via HMEF TNEF Files</a>](https://vigilance.fr/vulnerability/poi-scratchpad-denial-of-service-via-HMEF-TNEF-Files-48594)|An attacker can cause a fatal error of poi-scratchpad, via HMEF TNEF Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-App-Framework-48593" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation via App Framework</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-App-Framework-48593)|An attacker can bypass restrictions of IBM QRadar SIEM, via App Framework, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-48592" class="noirorange"><b>IBM QRadar SIEM</b>: Cross Site Scripting via Web UI</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-Cross-Site-Scripting-via-Web-UI-48592)|An attacker can trigger a Cross Site Scripting of IBM QRadar SIEM, via Web UI, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
