@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/12/2025 09:32:32 UTC
+ > Last Updated 30/12/2025 21:26:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,13 +23,6 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -47,20 +40,27 @@
  
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Meta-Service-Configuration-Page-48622" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting via Meta-Service Configuration Page</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Meta-Service-Configuration-Page-48622)|An attacker can trigger a Cross Site Scripting of Centreon Web, via Meta-Service Configuration Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48621" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48621)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/10/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netty-SMTP-command-execution-via-SMTP-Codec-Carriage-Return-48620" class="noirorange"><b>Netty</b>: SMTP command execution via SMTP Codec Carriage Return</a>](https://vigilance.fr/vulnerability/Netty-SMTP-command-execution-via-SMTP-Codec-Carriage-Return-48620)|An attacker can use a vulnerability of Netty, via SMTP Codec Carriage Return, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-sanitizer-internal-strlen-48617" class="noirorange"><b>GNU Binutils</b>: buffer overflow via __sanitizer::<wbr>internal_strlen()</wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-sanitizer-internal-strlen-48617)|An attacker can trigger a buffer overflow of GNU Binutils, via __sanitizer::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-corruption-via-elf-gc-sweep-48616" class="noirorange"><b>GNU Binutils</b>: memory corruption via elf_gc_sweep()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-corruption-via-elf-gc-sweep-48616)|An attacker can trigger a memory corruption of GNU Binutils, via elf_gc_sweep(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-XWD-load-xwd-f2-d16-b16-48614" class="noirorange"><b>GIMP</b>: buffer overflow via XWD load_xwd_f2_d16_b16(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-XWD-load-xwd-f2-d16-b16-48614)|An attacker can trigger a buffer overflow of GIMP, via XWD load_xwd_f2_d16_b16(|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FluidSynth-file-write-via-run-lock-fluidsynth-48613" class="noirorange"><b>FluidSynth</b>: file write via /run/lock/fluidsynth</a>](https://vigilance.fr/vulnerability/FluidSynth-file-write-via-run-lock-fluidsynth-48613)|An attacker can bypass access restrictions of FluidSynth, via /run/lock/|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Simple-OAuth-OpenID-Connect-privilege-escalation-via-Access-Token-48612" class="noirorange"><b>Drupal Simple OAuth &amp; OpenID Connect</b>: privilege escalation via Access Token</a>](https://vigilance.fr/vulnerability/Drupal-Simple-OAuth-OpenID-Connect-privilege-escalation-via-Access-Token-48612)|An attacker can bypass restrictions of Drupal Simple OAuth & OpenID Connect, via Access Token, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48610" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48610)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/10/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-Previous-Database-Entries-49096" class="noirorange"><b>Keylime</b>: denial of service via Previous Database Entries</a>](https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-Previous-Database-Entries-49096)|An attacker can cause a fatal error of Keylime, via Previous Database Entries, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apptainer-privilege-escalation-via-Security-Disable-49098" class="noirorange"><b>Apptainer</b>: privilege escalation via Security Disable</a>](https://vigilance.fr/vulnerability/Apptainer-privilege-escalation-via-Security-Disable-49098)|An attacker can bypass restrictions of Apptainer, via Security Disable, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Authlib-write-access-via-Critical-Header-48607" class="noirorange"><b>Authlib</b>: write access via Critical Header</a>](https://vigilance.fr/vulnerability/Authlib-write-access-via-Critical-Header-48607)|An attacker can bypass access restrictions of Authlib, via Critical Header, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-LFS-directory-traversal-via-Symbolic-Hard-Links-48606" class="noirorange"><b>Git LFS</b>: directory traversal via Symbolic / Hard Links</a>](https://vigilance.fr/vulnerability/Git-LFS-directory-traversal-via-Symbolic-Hard-Links-48606)|An attacker can traverse directories of Git LFS, via Symbolic / Hard Links, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-information-disclosure-via-Event-Stream-Test-Mode-Headers-48604" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: information disclosure via Event Stream Test Mode Headers</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-information-disclosure-via-Event-Stream-Test-Mode-Headers-48604)|An attacker can bypass access restrictions to data of Red Hat Ansible Automation Platform, via Event Stream Test Mode Headers, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-information-disclosure-via-EDA-Event-Streams-Internal-Headers-48603" class="noirorange"><b>Red Hat Ansible Automation Platform</b>: information disclosure via EDA Event Streams Internal Headers</a>](https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-information-disclosure-via-EDA-Event-Streams-Internal-Headers-48603)|An attacker can bypass access restrictions to data of Red Hat Ansible Automation Platform, via EDA Event Streams Internal Headers, in order to read sensitive information...|Visit link for details|
  
  ---
 
