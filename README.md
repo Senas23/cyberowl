@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/12/2025 21:26:20 UTC
+ > Last Updated 31/12/2025 09:31:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,6 +23,13 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -40,7 +47,7 @@
  
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -51,23 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Netgate-pfSense-CE-directory-traversal-via-Suricata-48629" class="noirorange"><b>Netgate pfSense CE</b>: directory traversal via Suricata</a>](https://vigilance.fr/vulnerability/Netgate-pfSense-CE-directory-traversal-via-Suricata-48629)|An attacker can traverse directories of Netgate pfSense CE, via Suricata, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-31-10-2025-48628" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities dated 31/10/2025</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-31-10-2025-48628)|An attacker can use several vulnerabilities of MediaWiki, dated 31/10/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-jDownloads-Cross-Site-Request-Forgery-dated-31-10-2025-48627" class="noirorange"><b>Joomla jDownloads</b>: Cross Site Request Forgery dated 31/10/2025</a>](https://vigilance.fr/vulnerability/Joomla-jDownloads-Cross-Site-Request-Forgery-dated-31-10-2025-48627)|An attacker can trigger a Cross Site Request Forgery of Joomla jDownloads, dated 31/10/2025, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Doorkeeper-user-access-via-Replay-Attacks-46698" class="noirorange"><b>Doorkeeper</b>: user access via Replay Attacks</a>](https://vigilance.fr/vulnerability/Doorkeeper-user-access-via-Replay-Attacks-46698)|An attacker can bypass restrictions of Doorkeeper, via Replay Attacks, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-ResourceSetService-PermissionTicketService-49110" class="noirorange"><b>Keycloak</b>: read-write access via ResourceSetService / PermissionTicketServ<wbr>ice</wbr></a>](https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-ResourceSetService-PermissionTicketService-49110)|An attacker can bypass access restrictions of Keycloak, via ResourceSetService / PermissionTicketServ|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Meta-Service-Configuration-Page-48622" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting via Meta-Service Configuration Page</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Meta-Service-Configuration-Page-48622)|An attacker can trigger a Cross Site Scripting of Centreon Web, via Meta-Service Configuration Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48621" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48621)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/10/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Netty-SMTP-command-execution-via-SMTP-Codec-Carriage-Return-48620" class="noirorange"><b>Netty</b>: SMTP command execution via SMTP Codec Carriage Return</a>](https://vigilance.fr/vulnerability/Netty-SMTP-command-execution-via-SMTP-Codec-Carriage-Return-48620)|An attacker can use a vulnerability of Netty, via SMTP Codec Carriage Return, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-sanitizer-internal-strlen-48617" class="noirorange"><b>GNU Binutils</b>: buffer overflow via __sanitizer::<wbr>internal_strlen()</wbr></a>](https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-sanitizer-internal-strlen-48617)|An attacker can trigger a buffer overflow of GNU Binutils, via __sanitizer::|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-memory-corruption-via-elf-gc-sweep-48616" class="noirorange"><b>GNU Binutils</b>: memory corruption via elf_gc_sweep()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-memory-corruption-via-elf-gc-sweep-48616)|An attacker can trigger a memory corruption of GNU Binutils, via elf_gc_sweep(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-XWD-load-xwd-f2-d16-b16-48614" class="noirorange"><b>GIMP</b>: buffer overflow via XWD load_xwd_f2_d16_b16(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-XWD-load-xwd-f2-d16-b16-48614)|An attacker can trigger a buffer overflow of GIMP, via XWD load_xwd_f2_d16_b16(|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FluidSynth-file-write-via-run-lock-fluidsynth-48613" class="noirorange"><b>FluidSynth</b>: file write via /run/lock/fluidsynth</a>](https://vigilance.fr/vulnerability/FluidSynth-file-write-via-run-lock-fluidsynth-48613)|An attacker can bypass access restrictions of FluidSynth, via /run/lock/|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Simple-OAuth-OpenID-Connect-privilege-escalation-via-Access-Token-48612" class="noirorange"><b>Drupal Simple OAuth &amp; OpenID Connect</b>: privilege escalation via Access Token</a>](https://vigilance.fr/vulnerability/Drupal-Simple-OAuth-OpenID-Connect-privilege-escalation-via-Access-Token-48612)|An attacker can bypass restrictions of Drupal Simple OAuth & OpenID Connect, via Access Token, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48610" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48610)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/10/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apptainer-privilege-escalation-via-Security-Disable-49098" class="noirorange"><b>Apptainer</b>: privilege escalation via Security Disable</a>](https://vigilance.fr/vulnerability/Apptainer-privilege-escalation-via-Security-Disable-49098)|An attacker can bypass restrictions of Apptainer, via Security Disable, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
