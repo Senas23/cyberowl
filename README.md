@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/12/2025 21:25:40 UTC
+ > Last Updated 01/01/2026 09:32:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-ZFS-49118" class="noirorange"><b>FreeBSD</b>: NULL pointer dereference via ZFS</a>](https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-ZFS-49118)|An attacker can force a NULL pointer to be dereferenced on FreeBSD, via ZFS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-31-03-2025-46708" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 31/03/2025</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-31-03-2025-46708)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 31/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-os-path-expandvars-48630" class="noirorange"><b>Python Core</b>: overload via os.path.expandvars()</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-os-path-expandvars-48630)|An attacker can trigger an overload of Python Core, via os.path.expandvars()|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Netgate-pfSense-CE-directory-traversal-via-Suricata-48629" class="noirorange"><b>Netgate pfSense CE</b>: directory traversal via Suricata</a>](https://vigilance.fr/vulnerability/Netgate-pfSense-CE-directory-traversal-via-Suricata-48629)|An attacker can traverse directories of Netgate pfSense CE, via Suricata, in order to read or write a file outside the service root path...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-ResourceSetService-PermissionTicketService-49110" class="noirorange"><b>Keycloak</b>: read-write access via ResourceSetService / PermissionTicketServ<wbr>ice</wbr></a>](https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-ResourceSetService-PermissionTicketService-49110)|An attacker can bypass access restrictions of Keycloak, via ResourceSetService / PermissionTicketServ|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Meta-Service-Configuration-Page-48622" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting via Meta-Service Configuration Page</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Meta-Service-Configuration-Page-48622)|An attacker can trigger a Cross Site Scripting of Centreon Web, via Meta-Service Configuration Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48621" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48621)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/10/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netty-SMTP-command-execution-via-SMTP-Codec-Carriage-Return-48620" class="noirorange"><b>Netty</b>: SMTP command execution via SMTP Codec Carriage Return</a>](https://vigilance.fr/vulnerability/Netty-SMTP-command-execution-via-SMTP-Codec-Carriage-Return-48620)|An attacker can use a vulnerability of Netty, via SMTP Codec Carriage Return, in order to run code...|Visit link for details|
  
  ---
 
