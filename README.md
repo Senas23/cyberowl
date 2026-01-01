@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/01/2026 09:32:45 UTC
+ > Last Updated 01/01/2026 21:26:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-01-04-2025-46727" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 01/04/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-01-04-2025-46727)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 01/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-01-04-2025-46723" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 01/04/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-01-04-2025-46723)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 01/04/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-SIGALRM-44637" class="noirorange"><b>OpenSSH</b>: code execution via SIGALRM</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-SIGALRM-44637)|An attacker can use a vulnerability of OpenSSH, via SIGALRM, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-ZFS-49118" class="noirorange"><b>FreeBSD</b>: NULL pointer dereference via ZFS</a>](https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-ZFS-49118)|An attacker can force a NULL pointer to be dereferenced on FreeBSD, via ZFS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-31-03-2025-46708" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 31/03/2025</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-31-03-2025-46708)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 31/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-os-path-expandvars-48630" class="noirorange"><b>Python Core</b>: overload via os.path.expandvars()</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-os-path-expandvars-48630)|An attacker can trigger an overload of Python Core, via os.path.expandvars()|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-31-10-2025-48628" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities dated 31/10/2025</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-31-10-2025-48628)|An attacker can use several vulnerabilities of MediaWiki, dated 31/10/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-jDownloads-Cross-Site-Request-Forgery-dated-31-10-2025-48627" class="noirorange"><b>Joomla jDownloads</b>: Cross Site Request Forgery dated 31/10/2025</a>](https://vigilance.fr/vulnerability/Joomla-jDownloads-Cross-Site-Request-Forgery-dated-31-10-2025-48627)|An attacker can trigger a Cross Site Request Forgery of Joomla jDownloads, dated 31/10/2025, in order to force the victim to perform operations...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Doorkeeper-user-access-via-Replay-Attacks-46698" class="noirorange"><b>Doorkeeper</b>: user access via Replay Attacks</a>](https://vigilance.fr/vulnerability/Doorkeeper-user-access-via-Replay-Attacks-46698)|An attacker can bypass restrictions of Doorkeeper, via Replay Attacks, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-ResourceSetService-PermissionTicketService-49110" class="noirorange"><b>Keycloak</b>: read-write access via ResourceSetService / PermissionTicketServ<wbr>ice</wbr></a>](https://vigilance.fr/vulnerability/Keycloak-read-write-access-via-ResourceSetService-PermissionTicketService-49110)|An attacker can bypass access restrictions of Keycloak, via ResourceSetService / PermissionTicketServ|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Meta-Service-Configuration-Page-48622" class="noirorange"><b>Centreon Web</b>: Cross Site Scripting via Meta-Service Configuration Page</a>](https://vigilance.fr/vulnerability/Centreon-Web-Cross-Site-Scripting-via-Meta-Service-Configuration-Page-48622)|An attacker can trigger a Cross Site Scripting of Centreon Web, via Meta-Service Configuration Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48621" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities dated 30/10/2025</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-30-10-2025-48621)|An attacker can use several vulnerabilities of the Linux kernel, dated 30/10/2025...|Visit link for details|
  
  ---
 
