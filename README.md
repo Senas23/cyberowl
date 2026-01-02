@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/01/2026 09:31:30 UTC
+ > Last Updated 02/01/2026 21:21:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,17 +23,12 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0002/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 02 janvier 2026|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0001/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.|Publié le 02 janvier 2026|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1142/)|De multiples vulnérabilités ont été découvertes dans Moxa NPort. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 31 décembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1141/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 26 décembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1140/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 26 décembre 2025|
@@ -42,8 +37,13 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1137/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 26 décembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1136/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 décembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1135/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1134/)|De multiples vulnérabilités ont été découvertes dans MongoDB Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 19 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1133/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.|Publié le 19 décembre 2025|
+ 
+ ---
+
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -51,6 +51,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-information-disclosure-via-getimagesize-49149" class="noirorange"><b>PHP</b>: information disclosure via getimagesize()</a>](https://vigilance.fr/vulnerability/PHP-information-disclosure-via-getimagesize-49149)|An attacker can bypass access restrictions to data of PHP, via getimagesize(), in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-NULL-pointer-dereference-via-PDO-Quoting-49148" class="noirorange"><b>PHP</b>: NULL pointer dereference via PDO Quoting</a>](https://vigilance.fr/vulnerability/PHP-NULL-pointer-dereference-via-PDO-Quoting-49148)|An attacker can force a NULL pointer to be dereferenced on PHP, via PDO Quoting, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Audiofile-NULL-pointer-dereference-via-ModuleState-setup-49143" class="noirorange"><b>Audiofile</b>: NULL pointer dereference via ModuleState::setup()</a>](https://vigilance.fr/vulnerability/Audiofile-NULL-pointer-dereference-via-ModuleState-setup-49143)|An attacker can force a NULL pointer to be dereferenced on Audiofile, via ModuleState::setup()|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Icinga-Web-2-open-redirect-dated-18-12-2025-49128" class="noirorange"><b>Icinga Web 2</b>: open redirect dated 18/12/2025</a>](https://vigilance.fr/vulnerability/Icinga-Web-2-open-redirect-dated-18-12-2025-49128)|An attacker can deceive the user of Icinga Web 2, dated 18/12/2025, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-01-04-2025-46727" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 01/04/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-01-04-2025-46727)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 01/04/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-01-04-2025-46723" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 01/04/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-01-04-2025-46723)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 01/04/2025...|Visit link for details|
@@ -58,9 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-ZFS-49118" class="noirorange"><b>FreeBSD</b>: NULL pointer dereference via ZFS</a>](https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-ZFS-49118)|An attacker can force a NULL pointer to be dereferenced on FreeBSD, via ZFS, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-31-03-2025-46708" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 31/03/2025</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-31-03-2025-46708)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 31/03/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-os-path-expandvars-48630" class="noirorange"><b>Python Core</b>: overload via os.path.expandvars()</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-os-path-expandvars-48630)|An attacker can trigger an overload of Python Core, via os.path.expandvars()|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netgate-pfSense-CE-directory-traversal-via-Suricata-48629" class="noirorange"><b>Netgate pfSense CE</b>: directory traversal via Suricata</a>](https://vigilance.fr/vulnerability/Netgate-pfSense-CE-directory-traversal-via-Suricata-48629)|An attacker can traverse directories of Netgate pfSense CE, via Suricata, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-31-10-2025-48628" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities dated 31/10/2025</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-31-10-2025-48628)|An attacker can use several vulnerabilities of MediaWiki, dated 31/10/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-jDownloads-Cross-Site-Request-Forgery-dated-31-10-2025-48627" class="noirorange"><b>Joomla jDownloads</b>: Cross Site Request Forgery dated 31/10/2025</a>](https://vigilance.fr/vulnerability/Joomla-jDownloads-Cross-Site-Request-Forgery-dated-31-10-2025-48627)|An attacker can trigger a Cross Site Request Forgery of Joomla jDownloads, dated 31/10/2025, in order to force the victim to perform operations...|Visit link for details|
  
  ---
 
