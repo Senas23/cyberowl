@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/01/2026 21:26:33 UTC
+ > Last Updated 02/01/2026 09:31:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Icinga-Web-2-open-redirect-dated-18-12-2025-49128" class="noirorange"><b>Icinga Web 2</b>: open redirect dated 18/12/2025</a>](https://vigilance.fr/vulnerability/Icinga-Web-2-open-redirect-dated-18-12-2025-49128)|An attacker can deceive the user of Icinga Web 2, dated 18/12/2025, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-01-04-2025-46727" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 01/04/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-01-04-2025-46727)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 01/04/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-01-04-2025-46723" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 01/04/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-01-04-2025-46723)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 01/04/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-SIGALRM-44637" class="noirorange"><b>OpenSSH</b>: code execution via SIGALRM</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-SIGALRM-44637)|An attacker can use a vulnerability of OpenSSH, via SIGALRM, in order to run code...|Visit link for details|
@@ -60,7 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Netgate-pfSense-CE-directory-traversal-via-Suricata-48629" class="noirorange"><b>Netgate pfSense CE</b>: directory traversal via Suricata</a>](https://vigilance.fr/vulnerability/Netgate-pfSense-CE-directory-traversal-via-Suricata-48629)|An attacker can traverse directories of Netgate pfSense CE, via Suricata, in order to read or write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-31-10-2025-48628" class="noirorange"><b>MediaWiki</b>: multiple vulnerabilities dated 31/10/2025</a>](https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-31-10-2025-48628)|An attacker can use several vulnerabilities of MediaWiki, dated 31/10/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-jDownloads-Cross-Site-Request-Forgery-dated-31-10-2025-48627" class="noirorange"><b>Joomla jDownloads</b>: Cross Site Request Forgery dated 31/10/2025</a>](https://vigilance.fr/vulnerability/Joomla-jDownloads-Cross-Site-Request-Forgery-dated-31-10-2025-48627)|An attacker can trigger a Cross Site Request Forgery of Joomla jDownloads, dated 31/10/2025, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Doorkeeper-user-access-via-Replay-Attacks-46698" class="noirorange"><b>Doorkeeper</b>: user access via Replay Attacks</a>](https://vigilance.fr/vulnerability/Doorkeeper-user-access-via-Replay-Attacks-46698)|An attacker can bypass restrictions of Doorkeeper, via Replay Attacks, in order to gain user privileges...|Visit link for details|
  
  ---
 
