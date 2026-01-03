@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/01/2026 09:27:25 UTC
+ > Last Updated 03/01/2026 21:24:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-out-of-bounds-memory-reading-via-Zlib-Compressed-Protocol-Headers-49179" class="noirorange"><b>MongoDB Server</b>: out-of-bounds memory reading via Zlib Compressed Protocol Headers</a>](https://vigilance.fr/vulnerability/MongoDB-Server-out-of-bounds-memory-reading-via-Zlib-Compressed-Protocol-Headers-49179)|An attacker can force a read at an invalid memory address of MongoDB Server, via Zlib Compressed Protocol Headers, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-overload-via-Oversized-User-Settings-Data-49168" class="noirorange"><b>Elasticsearch</b>: overload via Oversized User Settings Data</a>](https://vigilance.fr/vulnerability/Elasticsearch-overload-via-Oversized-User-Settings-Data-49168)|An attacker can trigger an overload of Elasticsearch, via Oversized User Settings Data, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-XACKDEL-STREAMID-STATIC-VECTOR-LEN-48641" class="noirorange"><b>Redis</b>: buffer overflow via XACKDEL STREAMID_STATIC_<wbr>VECTOR_LEN</wbr></a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-XACKDEL-STREAMID-STATIC-VECTOR-LEN-48641)|An attacker can trigger a buffer overflow of Redis, via XACKDEL STREAMID_STATIC_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-e1000-receive-iov-48640" class="noirorange"><b>QEMU</b>: buffer overflow via e1000_receive_iov()</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-e1000-receive-iov-48640)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via e1000_receive_iov(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Thunar-multiple-vulnerabilities-dated-03-11-2025-48638" class="noirorange"><b>Thunar</b>: multiple vulnerabilities dated 03/11/2025</a>](https://vigilance.fr/vulnerability/Thunar-multiple-vulnerabilities-dated-03-11-2025-48638)|An attacker can use several vulnerabilities of Thunar, dated 03/11/2025...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Services-48635" class="noirorange"><b>IBM i</b>: privilege escalation via SQL Services</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Services-48635)|An attacker can bypass restrictions of IBM i, via SQL Services, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rack-five-vulnerabilities-dated-03-11-2025-48633" class="noirorange"><b>Rack</b>: five vulnerabilities dated 03/11/2025</a>](https://vigilance.fr/vulnerability/Rack-five-vulnerabilities-dated-03-11-2025-48633)|An attacker can use several vulnerabilities of Rack, dated 03/11/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-information-disclosure-via-getimagesize-49149" class="noirorange"><b>PHP</b>: information disclosure via getimagesize()</a>](https://vigilance.fr/vulnerability/PHP-information-disclosure-via-getimagesize-49149)|An attacker can bypass access restrictions to data of PHP, via getimagesize(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-NULL-pointer-dereference-via-PDO-Quoting-49148" class="noirorange"><b>PHP</b>: NULL pointer dereference via PDO Quoting</a>](https://vigilance.fr/vulnerability/PHP-NULL-pointer-dereference-via-PDO-Quoting-49148)|An attacker can force a NULL pointer to be dereferenced on PHP, via PDO Quoting, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Audiofile-NULL-pointer-dereference-via-ModuleState-setup-49143" class="noirorange"><b>Audiofile</b>: NULL pointer dereference via ModuleState::setup()</a>](https://vigilance.fr/vulnerability/Audiofile-NULL-pointer-dereference-via-ModuleState-setup-49143)|An attacker can force a NULL pointer to be dereferenced on Audiofile, via ModuleState::setup()|Visit link for details|
  
  ---
 
