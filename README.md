@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/01/2026 21:21:40 UTC
+ > Last Updated 03/01/2026 09:27:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,6 +23,13 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -40,27 +47,20 @@
  
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-XACKDEL-STREAMID-STATIC-VECTOR-LEN-48641" class="noirorange"><b>Redis</b>: buffer overflow via XACKDEL STREAMID_STATIC_<wbr>VECTOR_LEN</wbr></a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-XACKDEL-STREAMID-STATIC-VECTOR-LEN-48641)|An attacker can trigger a buffer overflow of Redis, via XACKDEL STREAMID_STATIC_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-e1000-receive-iov-48640" class="noirorange"><b>QEMU</b>: buffer overflow via e1000_receive_iov()</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-e1000-receive-iov-48640)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via e1000_receive_iov(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Thunar-multiple-vulnerabilities-dated-03-11-2025-48638" class="noirorange"><b>Thunar</b>: multiple vulnerabilities dated 03/11/2025</a>](https://vigilance.fr/vulnerability/Thunar-multiple-vulnerabilities-dated-03-11-2025-48638)|An attacker can use several vulnerabilities of Thunar, dated 03/11/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-astral-tokio-tar-file-read-write-via-PAX-Header-Desynchronization-48637" class="noirorange"><b>Rust astral-tokio-tar</b>: file read/write via PAX Header Desynchronization</a>](https://vigilance.fr/vulnerability/Rust-astral-tokio-tar-file-read-write-via-PAX-Header-Desynchronization-48637)|An attacker can bypass access restrictions of Rust astral-tokio-tar, via PAX Header Desynchronization, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-Kea-denial-of-service-via-hostname-char-Option-Content-48636" class="noirorange"><b>ISC Kea</b>: denial of service via hostname-char Option Content</a>](https://vigilance.fr/vulnerability/ISC-Kea-denial-of-service-via-hostname-char-Option-Content-48636)|An attacker can cause a fatal error of ISC Kea, via hostname-char Option Content, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Services-48635" class="noirorange"><b>IBM i</b>: privilege escalation via SQL Services</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Services-48635)|An attacker can bypass restrictions of IBM i, via SQL Services, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rack-five-vulnerabilities-dated-03-11-2025-48633" class="noirorange"><b>Rack</b>: five vulnerabilities dated 03/11/2025</a>](https://vigilance.fr/vulnerability/Rack-five-vulnerabilities-dated-03-11-2025-48633)|An attacker can use several vulnerabilities of Rack, dated 03/11/2025...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-information-disclosure-via-getimagesize-49149" class="noirorange"><b>PHP</b>: information disclosure via getimagesize()</a>](https://vigilance.fr/vulnerability/PHP-information-disclosure-via-getimagesize-49149)|An attacker can bypass access restrictions to data of PHP, via getimagesize(), in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-NULL-pointer-dereference-via-PDO-Quoting-49148" class="noirorange"><b>PHP</b>: NULL pointer dereference via PDO Quoting</a>](https://vigilance.fr/vulnerability/PHP-NULL-pointer-dereference-via-PDO-Quoting-49148)|An attacker can force a NULL pointer to be dereferenced on PHP, via PDO Quoting, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Audiofile-NULL-pointer-dereference-via-ModuleState-setup-49143" class="noirorange"><b>Audiofile</b>: NULL pointer dereference via ModuleState::setup()</a>](https://vigilance.fr/vulnerability/Audiofile-NULL-pointer-dereference-via-ModuleState-setup-49143)|An attacker can force a NULL pointer to be dereferenced on Audiofile, via ModuleState::setup()|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Icinga-Web-2-open-redirect-dated-18-12-2025-49128" class="noirorange"><b>Icinga Web 2</b>: open redirect dated 18/12/2025</a>](https://vigilance.fr/vulnerability/Icinga-Web-2-open-redirect-dated-18-12-2025-49128)|An attacker can deceive the user of Icinga Web 2, dated 18/12/2025, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-01-04-2025-46727" class="noirorange"><b>Chrome  Edge  Opera</b>: multiple vulnerabilities dated 01/04/2025</a>](https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-01-04-2025-46727)|An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 01/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-01-04-2025-46723" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 01/04/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-01-04-2025-46723)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 01/04/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-SIGALRM-44637" class="noirorange"><b>OpenSSH</b>: code execution via SIGALRM</a>](https://vigilance.fr/vulnerability/OpenSSH-code-execution-via-SIGALRM-44637)|An attacker can use a vulnerability of OpenSSH, via SIGALRM, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-ZFS-49118" class="noirorange"><b>FreeBSD</b>: NULL pointer dereference via ZFS</a>](https://vigilance.fr/vulnerability/FreeBSD-NULL-pointer-dereference-via-ZFS-49118)|An attacker can force a NULL pointer to be dereferenced on FreeBSD, via ZFS, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-31-03-2025-46708" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities dated 31/03/2025</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-31-03-2025-46708)|An attacker can use several vulnerabilities of Apple iOS  macOS, dated 31/03/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-os-path-expandvars-48630" class="noirorange"><b>Python Core</b>: overload via os.path.expandvars()</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-os-path-expandvars-48630)|An attacker can trigger an overload of Python Core, via os.path.expandvars()|Visit link for details|
  
  ---
 
