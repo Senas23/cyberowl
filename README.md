@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/01/2026 21:25:53 UTC
+ > Last Updated 05/01/2026 09:40:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libnbd-code-execution-via-Parsed-URI-Parts-48661" class="noirorange"><b>libnbd</b>: code execution via Parsed URI Parts</a>](https://vigilance.fr/vulnerability/libnbd-code-execution-via-Parsed-URI-Parts-48661)|An attacker can use a vulnerability of libnbd, via Parsed URI Parts, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Starlette-overload-via-Range-Header-Merging-48660" class="noirorange"><b>Starlette</b>: overload via Range Header Merging</a>](https://vigilance.fr/vulnerability/Starlette-overload-via-Range-Header-Merging-48660)|An attacker can trigger an overload of Starlette, via Range Header Merging, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/curl-directory-traversal-via-wcurl-48656" class="noirorange"><b>curl</b>: directory traversal via wcurl</a>](https://vigilance.fr/vulnerability/curl-directory-traversal-via-wcurl-48656)|An attacker can traverse directories of curl, via wcurl, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-buffer-overflow-via-parseQuota-48652" class="noirorange"><b>DCMTK</b>: buffer overflow via parseQuota()</a>](https://vigilance.fr/vulnerability/DCMTK-buffer-overflow-via-parseQuota-48652)|An attacker can trigger a buffer overflow of DCMTK, via parseQuota(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GeographicLib-buffer-overflow-via-DMS-InternalDecode-48651" class="noirorange"><b>GeographicLib</b>: buffer overflow via DMS::InternalDecode(<wbr>)</wbr></a>](https://vigilance.fr/vulnerability/GeographicLib-buffer-overflow-via-DMS-InternalDecode-48651)|An attacker can trigger a buffer overflow of GeographicLib, via DMS::InternalDecode(|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MongoDB-Server-out-of-bounds-memory-reading-via-Zlib-Compressed-Protocol-Headers-49179" class="noirorange"><b>MongoDB Server</b>: out-of-bounds memory reading via Zlib Compressed Protocol Headers</a>](https://vigilance.fr/vulnerability/MongoDB-Server-out-of-bounds-memory-reading-via-Zlib-Compressed-Protocol-Headers-49179)|An attacker can force a read at an invalid memory address of MongoDB Server, via Zlib Compressed Protocol Headers, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Elasticsearch-overload-via-Oversized-User-Settings-Data-49168" class="noirorange"><b>Elasticsearch</b>: overload via Oversized User Settings Data</a>](https://vigilance.fr/vulnerability/Elasticsearch-overload-via-Oversized-User-Settings-Data-49168)|An attacker can trigger an overload of Elasticsearch, via Oversized User Settings Data, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-XACKDEL-STREAMID-STATIC-VECTOR-LEN-48641" class="noirorange"><b>Redis</b>: buffer overflow via XACKDEL STREAMID_STATIC_<wbr>VECTOR_LEN</wbr></a>](https://vigilance.fr/vulnerability/Redis-buffer-overflow-via-XACKDEL-STREAMID-STATIC-VECTOR-LEN-48641)|An attacker can trigger a buffer overflow of Redis, via XACKDEL STREAMID_STATIC_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-e1000-receive-iov-48640" class="noirorange"><b>QEMU</b>: buffer overflow via e1000_receive_iov()</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-e1000-receive-iov-48640)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via e1000_receive_iov(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Thunar-multiple-vulnerabilities-dated-03-11-2025-48638" class="noirorange"><b>Thunar</b>: multiple vulnerabilities dated 03/11/2025</a>](https://vigilance.fr/vulnerability/Thunar-multiple-vulnerabilities-dated-03-11-2025-48638)|An attacker can use several vulnerabilities of Thunar, dated 03/11/2025...|Visit link for details|
  
  ---
 
