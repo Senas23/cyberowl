@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/01/2026 09:33:55 UTC
+ > Last Updated 06/01/2026 21:28:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -34,6 +34,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0007/)|Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 06 janvier 2026|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans Veeam Backup & Replication. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à l'intégrité des données.|Publié le 06 janvier 2026|
+ |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0005/)|De multiples vulnérabilités ont été découvertes dans Centreon Open Tickets. Elles permettent à un attaquant de provoquer une injection SQL (SQLi) et une injection de code indirecte à distance (XSS).|Publié le 06 janvier 2026|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0004/)|Une vulnérabilité a été découverte dans MariaDB. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 05 janvier 2026|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0003/)|De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 05 janvier 2026|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0002/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 02 janvier 2026|
@@ -41,16 +44,6 @@
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1142/)|De multiples vulnérabilités ont été découvertes dans Moxa NPort. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 31 décembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1141/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur.|Publié le 26 décembre 2025|
  |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1140/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.|Publié le 26 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1139/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1138/)|De multiples vulnérabilités ont été découvertes dans VMware Tanzu Platform. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 décembre 2025|
- |[](https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-1137/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 26 décembre 2025|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -68,6 +61,13 @@
  |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-dev-console-Mount-48665" class="noirorange"><b>runc</b>: privilege escalation via /dev/console Mount</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-dev-console-Mount-48665)|An attacker, in a guest system, can bypass restrictions of runc, via /dev/console Mount, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Masked-Path-Mount-Race-48664" class="noirorange"><b>runc</b>: privilege escalation via Masked Path Mount Race</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Masked-Path-Mount-Race-48664)|An attacker, in a guest system, can bypass restrictions of runc, via Masked Path Mount Race, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/curl-Man-in-the-Middle-via-wolfSSH-SFTP-48662" class="noirorange"><b>curl</b>: Man-in-the-Middle via wolfSSH SFTP</a>](https://vigilance.fr/vulnerability/curl-Man-in-the-Middle-via-wolfSSH-SFTP-48662)|An attacker can act as a Man-in-the-Middle on curl, via wolfSSH SFTP, in order to read or write data in the session...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
