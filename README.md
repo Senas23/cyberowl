@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/01/2026 21:28:16 UTC
+ > Last Updated 07/01/2026 09:35:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -51,6 +51,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Assimp-buffer-overflow-via-Q3DImporter-InternReadFile-48687" class="noirorange"><b>Assimp</b>: buffer overflow via Q3DImporter::<wbr>InternReadFile()</wbr></a>](https://vigilance.fr/vulnerability/Assimp-buffer-overflow-via-Q3DImporter-InternReadFile-48687)|An attacker can trigger a buffer overflow of Assimp, via Q3DImporter::|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mupen64plus-buffer-overflow-via-write-rdram-regs-48682" class="noirorange"><b>mupen64plus</b>: buffer overflow via write_rdram_regs()</a>](https://vigilance.fr/vulnerability/mupen64plus-buffer-overflow-via-write-rdram-regs-48682)|An attacker can trigger a buffer overflow of mupen64plus, via write_rdram_regs(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Simple-multi-step-form-Cross-Site-Scripting-dated-06-11-2025-48676" class="noirorange"><b>Drupal Simple multi step form</b>: Cross Site Scripting dated 06/11/2025</a>](https://vigilance.fr/vulnerability/Drupal-Simple-multi-step-form-Cross-Site-Scripting-dated-06-11-2025-48676)|An attacker can trigger a Cross Site Scripting of Drupal Simple multi step form, dated 06/11/2025, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Email-TFA-user-access-dated-06-11-2025-48675" class="noirorange"><b>Drupal Email TFA</b>: user access dated 06/11/2025</a>](https://vigilance.fr/vulnerability/Drupal-Email-TFA-user-access-dated-06-11-2025-48675)|An attacker can bypass restrictions of Drupal Email TFA, dated 06/11/2025, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Django-SQL-injection-via-QuerySet-48672" class="noirorange"><b>Django</b>: SQL injection via QuerySet</a>](https://vigilance.fr/vulnerability/Django-SQL-injection-via-QuerySet-48672)|An attacker can use a SQL injection of Django, via QuerySet, in order to read or alter data...|Visit link for details|
@@ -59,8 +61,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Xpdf-buffer-overflow-via-VerticesPerRow-48667" class="noirorange"><b>Xpdf</b>: buffer overflow via VerticesPerRow</a>](https://vigilance.fr/vulnerability/Xpdf-buffer-overflow-via-VerticesPerRow-48667)|An attacker can trigger a buffer overflow of Xpdf, via VerticesPerRow, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Procfs-Write-Redirects-48666" class="noirorange"><b>runc</b>: privilege escalation via Procfs Write Redirects</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Procfs-Write-Redirects-48666)|An attacker, in a guest system, can bypass restrictions of runc, via Procfs Write Redirects, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-dev-console-Mount-48665" class="noirorange"><b>runc</b>: privilege escalation via /dev/console Mount</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-dev-console-Mount-48665)|An attacker, in a guest system, can bypass restrictions of runc, via /dev/console Mount, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Masked-Path-Mount-Race-48664" class="noirorange"><b>runc</b>: privilege escalation via Masked Path Mount Race</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Masked-Path-Mount-Race-48664)|An attacker, in a guest system, can bypass restrictions of runc, via Masked Path Mount Race, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/curl-Man-in-the-Middle-via-wolfSSH-SFTP-48662" class="noirorange"><b>curl</b>: Man-in-the-Middle via wolfSSH SFTP</a>](https://vigilance.fr/vulnerability/curl-Man-in-the-Middle-via-wolfSSH-SFTP-48662)|An attacker can act as a Man-in-the-Middle on curl, via wolfSSH SFTP, in order to read or write data in the session...|Visit link for details|
  
  ---
 
